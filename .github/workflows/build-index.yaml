@@ -18,7 +18,7 @@ jobs:
     - name: Install jq
       run: 'sudo apt-get install jq'
     - name: Compile Index
-      run: 'mkdir build; for YEAR in introduction/????; do jq -c -s . $YEAR/????.json > build/$(basename $YEAR).json; done'
+      run: 'mkdir build; for YEAR in introduction/????; do jq -c -s "map(.RTF=\"\")" $YEAR/????.json > build/$(basename $YEAR).json; done'
     - name: Set up Cloud SDK
       uses: 'google-github-actions/auth@v0'
       with:
