@@ -6,13 +6,13 @@
   "Title": "A Local Law to amend the New York city charter, in relation to the creation of a database to track violations from issuance to resolution",
   "TypeID": 2,
   "TypeName": "Introduction",
-  "StatusID": 25,
-  "StatusName": "Laid Over in Committee",
+  "StatusID": 5040,
+  "StatusName": "Filed (End of Session)",
   "BodyID": 5213,
   "BodyName": "Committee on Technology",
   "IntroDate": "2018-09-26T00:00:00Z",
   "AgendaDate": "2018-09-26T00:00:00Z",
-  "PassedDate": "0001-01-01T00:00:00Z",
+  "PassedDate": "2021-12-31T00:00:00Z",
   "EnactmentDate": "0001-01-01T00:00:00Z",
   "Version": "*",
   "Sponsors": [
@@ -95,11 +95,81 @@
       "Version": "*",
       "MatterStatusID": 25,
       "LastModified": "2021-09-25T04:00:21.417Z"
+    },
+    {
+      "ID": 377683,
+      "Date": "2021-12-31T19:17:00Z",
+      "ActionID": 5046,
+      "Action": "Filed (End of Session)",
+      "Description": "This Introduction was Filed (End of Session)",
+      "BodyID": 1,
+      "BodyName": "City Council",
+      "Version": "*",
+      "MatterStatusID": 5040,
+      "LastModified": "2021-12-23T00:18:01.637Z"
+    }
+  ],
+  "Attachments": [
+    {
+      "ID": 179794,
+      "LastModified": "2021-12-23T00:17:33.213Z",
+      "Name": "Summary of Int. No. 1133",
+      "Link": "http://nyc.legistar1.com/nyc/attachments/456a0d04-d860-452b-97bb-b894021220c8.doc",
+      "Sort": 1
+    },
+    {
+      "ID": 179793,
+      "LastModified": "2021-12-23T00:17:40.18Z",
+      "Name": "Int. No. 1133",
+      "Link": "http://nyc.legistar1.com/nyc/attachments/3388d384-1c36-4857-aacb-2a1457fba550.doc",
+      "Sort": 2
+    },
+    {
+      "ID": 188023,
+      "LastModified": "2018-09-26T16:07:20.657Z",
+      "Name": "September 26, 2018 - Stated Meeting Agenda with Links to Files",
+      "Link": "http://nyc.legistar1.com/nyc/attachments/53cb90cd-bab6-4d27-aa65-deb93dd29a8d.pdf",
+      "Sort": 3
+    },
+    {
+      "ID": 246029,
+      "LastModified": "2021-12-23T00:17:43.777Z",
+      "Name": "Hearing Transcript - Stated Meeting 09-26-2018",
+      "Link": "http://nyc.legistar1.com/nyc/attachments/82d04df7-7a14-4723-8af3-6bae17db55f7.pdf",
+      "Sort": 4
+    },
+    {
+      "ID": 246056,
+      "LastModified": "2021-12-23T00:17:49.243Z",
+      "Name": "Minutes of the Stated Meeting - September 26, 2018",
+      "Link": "http://nyc.legistar1.com/nyc/attachments/8bc1f1c8-3ce6-4d8b-b702-32e1861fef56.pdf",
+      "Sort": 5
+    },
+    {
+      "ID": 239158,
+      "LastModified": "2021-12-23T00:17:45.807Z",
+      "Name": "Committee Report 9/24/21",
+      "Link": "http://nyc.legistar1.com/nyc/attachments/badd4643-ae51-46b7-954c-58393b24a373.docx",
+      "Sort": 6
+    },
+    {
+      "ID": 239411,
+      "LastModified": "2021-12-23T00:17:45.37Z",
+      "Name": "Hearing Testimony 9/24/21",
+      "Link": "http://nyc.legistar1.com/nyc/attachments/2ffca470-9547-4735-88f7-ce38e3d046b1.pdf",
+      "Sort": 7
+    },
+    {
+      "ID": 240517,
+      "LastModified": "2021-12-23T00:17:44.933Z",
+      "Name": "Hearing Transcript 9/24/21",
+      "Link": "http://nyc.legistar1.com/nyc/attachments/1ea006e9-ef1b-4db6-83c9-10467a5704db.pdf",
+      "Sort": 8
     }
   ],
   "Summary": "This bill would require the Department of Information Technology and Telecommunications (DoITT) to create a public online searchable database through which all agencies that issue notices of violation returnable to the Office of Administrative Trials and Hearings (“OATH”) Hearings Division and through which the Department of Housing Preservation and Development must report on violations from issuance of notice to resolution. The bill would also require DoITT to provide quarterly updates to the Speaker on the completion of the database and require agencies to report to DoITT and the Speaker on the information they are unable to make available in the database.",
   "TextID": 63325,
   "Text": "Be it enacted by the Council as follows:\n      \n      \n      Section 1. Chapter 48 of the New York city charter is amended by adding a new section 1076 to read as follows:  \n      � 1076. Database of violations. a. Definitions. For purposes of this section, the following terms have the following meanings:\n      Department. The term \"department\" means the department of information technology and telecommunications.\n      OATH. The term \"OATH\" means the office of administrative trials and hearings.\n      b. The department shall establish and maintain a public online searchable database through which all agencies that issue notices of violation that are returnable to the OATH hearings division shall report on and update as frequently as practicable the statuses of such notices of violation. Such database shall be available on or through the city's website, present data in machine-readable format, have the ability to produce reports by query, be accessible via application programming interface and include all non-confidential information relating to such violations that such agencies possess, including but not limited to the following information:\n      (1) The ticket number or other unique means of identification of the notice of violation;\n      (2) The date, time and location by borough, city and block and lot number of the violation;\n      (3) The name of the agency that issued the notice of violation;\n      (4) The total amount of any applicable civil penalties;\n      (5) The date, time and scheduled location by borough of any hearing, and the agency conducting any such hearing;\n      (6) The current status and final result of any such hearing, and the date of any final decision;\n      (7) The amount of any civil penalties imposed;\n      (8) The total amount the respondent paid in civil penalties;\n      (9) The amount of any civil penalty payment the respondent still owes;\n      (10) The total amount of any additional penalties imposed by the office for failure to respond to a notice of violation; and\n       (11) The provisions of the charter, administrative code, or rules of the city of New York applicable to the violation.\n      c. Through the same database, the department of housing preservation and development shall report on and update as frequently as practicable the statuses of notices of violation issued by such department. Such database shall include all non-confidential information relating to such violations that such department possesses, including but not limited to the following information:\n      (1) The ticket number or other unique means of identification of the notice of violation;\n      (2) The date, time and location by borough, city and block and lot number of the violation as recorded on the notice of violation;\n      (3) The name of the agency that issued the notice of violation;\n      (4) The class of violation;\n      (5) The original correction and certification deadlines and the date of submission of any certification of correction;\n      (6) The dates of any inspections following the submission of any certification of correction and whether such department subsequently determined that the violation is cleared;\n      (7) The date of submission of any dismissal request and the applicable fee amount, any subsequent inspection date and whether such department subsequently determined that the violation is cleared;\n      (8) The total amount of any applicable civil penalties;\n      (9) The current stage of any litigation to enforce such civil penalties and the ultimate result of any such litigation;\n      (10) The status of any other remedial measure undertaken by such department; and\n      (11) The provisions of the charter, administrative code, or rules of the city of New York applicable to the violation.\n      � 2. The department of information technology and telecommunications shall provide quarterly progress updates to the speaker on the substantial completion of the database described in section one of this local law with respect to the categories of information set forth in such section. If an agency cannot make particular categories of information available for inclusion in the database pursuant to such section, the agency shall report as soon as it makes such a determination to the department of information technology and telecommunications and the speaker on which categories of information the agency is unable to make available, the reasons why the agency cannot do so and the date by which the agency expects that it can make such categories of information available to such department for inclusion in the database.\n      � 3. Section one of this local law takes effect 1 year after it becomes law, except that the department of information technology and telecommunications and the agencies required to carry out reporting under this local law may take such measures as are necessary for the implementation of this local law, including the promulgation of rules, prior to such date. Section two of this local law takes effect immediately.\n      \n\n\n\n\n\n\n\n\n\nJJ\nLS #3629, #6755\n06/14/2018 2:41PM\n      1\n      \n      \n      2",
   "RTF": "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang1033\\deflangfe1033{\\fonttbl{\\f0\\froman\\fprq2\\fcharset0 Times New Roman;}}\n\\viewkind4\\uc1\n\\ul\\v0\\par\nBe it enacted by the Council as follows:\\ulnone\\par\n\\pard\\ltrpar\\fi720\\qj\\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qj Section 1. Chapter 48 of the New York city charter is amended by adding a new section 1076 to read as follows:  \\par\n\\ul\\'a7 1076. Database of violations. a. Definitions. For purposes of this section, the following terms have the following meanings:\\par\nDepartment. The term \\ldblquote department\\rdblquote  means the department of information technology and telecommunications.\\par\nOATH. The term \\ldblquote OATH\\rdblquote  means the office of administrative trials and hearings.\\par\nb. The department shall establish and maintain a public online searchable database through which all agencies that issue notices of violation that are returnable to the OATH hearings division shall report on and update as frequently as practicable the statuses of such notices of violation. Such database shall be available on or through the city\\rquote s website, present data in machine-readable format, have the ability to produce reports by query, be accessible via application programming interface and include all non-confidential information relating to such violations that such agencies possess, including but not limited to the following information:\\par\n(1) The ticket number or other unique means of identification of the notice of violation;\\par\n(2) The date, time and location by borough, city and block and lot number of the violation;\\par\n(3) The name of the agency that issued the notice of violation;\\par\n(4) The total amount of any applicable civil penalties;\\par\n(5) The date, time and scheduled location by borough of any hearing, and the agency conducting any such hearing;\\par\n(6) The current status and final result of any such hearing, and the date of any final decision;\\par\n(7) The amount of any civil penalties imposed;\\par\n(8) The total amount the respondent paid in civil penalties;\\par\n(9) The amount of any civil penalty payment the respondent still owes;\\par\n(10) The total amount of any additional penalties imposed by the office for failure to respond to a notice of violation; and\\par\n (11) The provisions of the charter, administrative code, or rules of the city of New York applicable to the violation.\\par\nc. Through the same database, the department of housing preservation and development shall report on and update as frequently as practicable the statuses of notices of violation issued by such department. Such database shall include all non-confidential information relating to such violations that such department possesses, including but not limited to the following information:\\par\n(1) The ticket number or other unique means of identification of the notice of violation;\\par\n(2) The date, time and location by borough, city and block and lot number of the violation as recorded on the notice of violation;\\par\n(3) The name of the agency that issued the notice of violation;\\par\n(4) The class of violation;\\par\n(5) The original correction and certification deadlines and the date of submission of any certification of correction;\\par\n(6) The dates of any inspections following the submission of any certification of correction and whether such department subsequently determined that the violation is cleared;\\par\n(7) The date of submission of any dismissal request and the applicable fee amount, any subsequent inspection date and whether such department subsequently determined that the violation is cleared;\\par\n(8) The total amount of any applicable civil penalties;\\par\n(9) The current stage of any litigation to enforce such civil penalties and the ultimate result of any such litigation;\\par\n(10) The status of any other remedial measure undertaken by such department; and\\par\n(11) The provisions of the charter, administrative code, or rules of the city of New York applicable to the violation.\\par\n\\ulnone\\'a7 2. The department of information technology and telecommunications shall provide quarterly progress updates to the speaker on the substantial completion of the database described in section one of this local law with respect to the categories of information set forth in such section. If an agency cannot make particular categories of information available for inclusion in the database pursuant to such section, the agency shall report as soon as it makes such a determination to the department of information technology and telecommunications and the speaker on which categories of information the agency is unable to make available, the reasons why the agency cannot do so and the date by which the agency expects that it can make such categories of information available to such department for inclusion in the database.\\par\n\\'a7 3. Section one of this local law takes effect 1 year after it becomes law, except that the department of information technology and telecommunications and the agencies required to carry out reporting under this local law may take such measures as are necessary for the implementation of this local law, including the promulgation of rules, prior to such date. Section two of this local law takes effect immediately.\\par\n\\pard\\ltrpar\\qj\\fs18\\par\n\\pard\\ltrpar\\par\n\\par\n\\par\n\\par\n\\par\n\\par\n\\par\n\\par\nJJ\\par\nLS #3629, #6755\\par\n06/14/2018 2:41PM\\par\n}\n",
-  "LastModified": "2021-10-25T14:39:47.27Z"
+  "LastModified": "2021-12-23T00:18:01.76Z"
 }

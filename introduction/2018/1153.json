@@ -6,13 +6,13 @@
   "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring an electronic system penetration testing protocol and security briefings and reports",
   "TypeID": 2,
   "TypeName": "Introduction",
-  "StatusID": 25,
-  "StatusName": "Laid Over in Committee",
+  "StatusID": 5040,
+  "StatusName": "Filed (End of Session)",
   "BodyID": 5213,
   "BodyName": "Committee on Technology",
   "IntroDate": "2018-10-17T00:00:00Z",
   "AgendaDate": "2018-10-17T00:00:00Z",
-  "PassedDate": "0001-01-01T00:00:00Z",
+  "PassedDate": "2021-12-31T00:00:00Z",
   "EnactmentDate": "0001-01-01T00:00:00Z",
   "Version": "*",
   "Sponsors": [
@@ -90,11 +90,81 @@
       "Version": "*",
       "MatterStatusID": 25,
       "LastModified": "2018-12-13T20:23:37.81Z"
+    },
+    {
+      "ID": 377693,
+      "Date": "2021-12-31T23:30:00Z",
+      "ActionID": 5046,
+      "Action": "Filed (End of Session)",
+      "Description": "This Introduction was Filed (End of Session)",
+      "BodyID": 1,
+      "BodyName": "City Council",
+      "Version": "*",
+      "MatterStatusID": 5040,
+      "LastModified": "2021-12-23T04:31:05.013Z"
+    }
+  ],
+  "Attachments": [
+    {
+      "ID": 188085,
+      "LastModified": "2021-12-23T04:30:33.963Z",
+      "Name": "Summary of Int. No. 1153",
+      "Link": "http://nyc.legistar1.com/nyc/attachments/8083295c-248b-4c8c-a5ee-893f73a6252f.doc",
+      "Sort": 3
+    },
+    {
+      "ID": 188084,
+      "LastModified": "2021-12-23T04:30:51.2Z",
+      "Name": "Int. No. 1153",
+      "Link": "http://nyc.legistar1.com/nyc/attachments/43152965-1e27-4f3c-80e0-a23217ab8a97.doc",
+      "Sort": 4
+    },
+    {
+      "ID": 188868,
+      "LastModified": "2018-10-17T20:16:24.817Z",
+      "Name": "October 17, 2018 - Stated Meeting Agenda with Links to Files",
+      "Link": "http://nyc.legistar1.com/nyc/attachments/5d73a06e-696e-40f7-b4a5-bd6affb060a1.pdf",
+      "Sort": 6
+    },
+    {
+      "ID": 246080,
+      "LastModified": "2021-12-23T04:29:52.553Z",
+      "Name": "Hearing Transcript - Stated Meeting 10-17-2018",
+      "Link": "http://nyc.legistar1.com/nyc/attachments/b7df37db-d457-4f8e-8ba6-d9d277b5c169.pdf",
+      "Sort": 8
+    },
+    {
+      "ID": 246126,
+      "LastModified": "2021-12-23T04:30:18.553Z",
+      "Name": "Minutes of the Stated Meeting - October 17, 2018",
+      "Link": "http://nyc.legistar1.com/nyc/attachments/4ce56461-ed4a-4d11-9bbf-84b5c604f5db.pdf",
+      "Sort": 9
+    },
+    {
+      "ID": 192007,
+      "LastModified": "2021-12-23T04:29:54.35Z",
+      "Name": "Committee Report 12/13/18",
+      "Link": "http://nyc.legistar1.com/nyc/attachments/cd4daec8-0edd-4106-b24e-24d1e2f67d71.doc",
+      "Sort": 10
+    },
+    {
+      "ID": 192709,
+      "LastModified": "2021-12-23T04:29:54.007Z",
+      "Name": "Hearing Testimony 12/13/18",
+      "Link": "http://nyc.legistar1.com/nyc/attachments/62ffe3a6-4101-4b5f-9145-ee41df70c327.PDF",
+      "Sort": 11
+    },
+    {
+      "ID": 195511,
+      "LastModified": "2021-12-23T04:29:53.647Z",
+      "Name": "Hearing Transcript 12/13/18",
+      "Link": "http://nyc.legistar1.com/nyc/attachments/0ab27706-24e0-41b0-ae9c-261fb6c2fbea.pdf",
+      "Sort": 12
     }
   ],
   "Summary": "This bill would require the Chief Information Security Officer (“CISO”) to implement a penetration testing protocol for the City’s electronic systems and provide the Mayor and the Speaker with information immediately following an electronic systems security breach. This bill would also require the CISO to prepare an annual report describing the implementation of the penetration testing protocol, security breaches in the previous year, and recommendations for the improvement of existing security practices.",
   "TextID": 63943,
   "Text": "Be it enacted by the Council as follows:\n      \n      \n      Section 1. The title of chapter 8 of title 23 of the administrative code of the city of New York, as added by local law number 25 for the year 2016, is amended to read as follows:\n      CHAPTER 8\n      CITY WEBSITES AND ELECTRONIC SYSTEMS \n      � 2. Chapter 8 of title 23 of the administrative code of the city of New York is amended by adding a new section 23-803 to read as follows:\n      � 23-803 Electronic systems security testing, briefings and reports. a. For the purposes of this section, the following terms have the following meanings:\n      Chief information security officer. The term \"chief information security officer\" means the head of New York city cyber command as established by executive order number 28 for the year 2017 or any other officer or administering agency designated by the mayor to perform the same functions.\n      Electronic system. The term \"electronic system\" means any website, network, online infrastructure or internally or externally accessible electronic system constructed or maintained by or on behalf of the city.\n      Personal identifying information. The term \"personal identifying information\" shall have the same meaning as provided for the term \"personal identifying information\" in section 10-501 and any other identifying information, as such term is defined in section 23-1201. \n      b. The chief information security officer shall adopt a protocol relating to penetration testing of electronic systems. Such protocol shall use the penetration testing standards of national institute of standards and technology special publication 800-53, including all control enhancements, or any successor standard, for all physical electronic systems, and federal risk and authorization management program penetration test guidance version 1.0.1, or any successor standards, for all cloud systems; provided that the protocol may differ from such standards in specific instances when the chief information security officer determines, after consulting with experts in the security of electronic systems, that such differences will provide a more effective test, and that such differences are documented in such protocol. Such protocol shall be made publicly available online.\n      c. The protocol required by subdivision b shall include a standard for the testing of employees of the city as well as both internally and externally accessible electronic systems for vulnerability to social engineering exploitation. Such standard may be adopted from federal risk and authorization management program penetration test guidance version 1.0.1 or any similar standard, provided that such standard includes provisions for recording and reporting click-through rates or similar metrics. \n      d. The chief information security officer shall develop social engineering exploitation awareness materials and shall distribute such materials to all agency employees. Such materials shall also be distributed to all agency employees upon hiring.\n      e. The standard required by subdivision c shall also establish thresholds for such metrics that, when exceeded with respect to any such systems or personnel, trigger social engineering exploitation awareness material distributions or trainings and additional testing of such systems or employees of the city. \n      f. The protocol required by subdivision b shall be implemented by the chief information security officer, or by a vendor retained for such purpose, to regularly test for security vulnerabilities in the websites or other public facing electronic systems maintained by or on behalf of the city.\n      g. The chief information security officer shall conduct an annual audit of all electronic system security practices. Such audit shall include, but not be limited to, an assessment of website security credentials, penetration vulnerabilities, and vulnerability of operating systems and firmware of electronic systems.\n      h. In the event of an electronic system security breach, the chief information security officer shall:\n      1. Immediately inform the mayor, or the mayor's designee, with a description of the date, nature and severity of the security breach, as well as a description of any data or information that may have been compromised; and\n      2. Immediately arrange a briefing for the speaker of council, or the speaker's designee, for the purposes of providing the following information:\n      (a) a description of the severity and impact of the electronic system security breach;\n      (b) a description of all electronic systems affected that would normally be used by the public;\n      (c) an estimate of time required for the issues caused by the electronic system security breach to be fixed;\n      (d) whether the individuals responsible for the electronic system security breach have been identified; and\n      (e) any resulting electronic system threats that the public should be made aware of.\n      i. By February 1 of each year, the chief information security officer shall submit to the speaker of the council, and make publicly available online, an electronic report that describes:\n      1. the implementation of this section;\n      2. the number of penetration vulnerabilities identified through testing performed pursuant to this section since the prior report, both citywide and by agency;\n      3. the number and scope of social engineering exploitation tests conducted, both citywide and by agency; \n      4. the percentage of such social engineering exploitation tests for which the established metric did not meet the trigger threshold established pursuant to subdivision e, both citywide and by agency;\n      5. the percentage of additional social engineering exploitation tests conducted pursuant to subdivision e, both citywide and by agency, for which the established metric did not meet the trigger threshold established pursuant to subdivision e;\n      6. a description of any social engineering exploitation awareness material distributions or trainings conducted, both citywide and by agency; \n      7. a description of the date, nature and severity of any resolved electronic system security breaches in the preceding year, as well as any information or data that may have been compromised; and\n      8. recommendations for improvement in city practices and protocols for the security of electronic systems including, but not limited to, recommendations based on the findings of the audit conducted pursuant to subdivision g.\n      � 3. This local law takes effect 120 days after it becomes law, except that the office of the mayor and the department of information technology and telecommunications may take such measures prior to such date as are necessary for implementation of this local law, including the promulgation of rules.\n\nAPB/bjr\nLS #6356, 6881,7823\n9/26/18, 11:25 pm\n      2\n      \n      \n      5",
   "RTF": "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang1033\\deflangfe1033{\\fonttbl{\\f0\\froman\\fprq2\\fcharset0 Times New Roman;}}\n{\\colortbl ;\\red0\\green0\\blue0;\\red255\\green255\\blue255;}\n\\viewkind4\\uc1\n\\ul\\v0\\par\nBe it enacted by the Council as follows:\\ulnone\\par\n\\pard\\ltrpar\\fi720\\qj\\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qj Section 1. The title of chapter 8 of title 23 of the administrative code of the city of New York, as added by local law number 25 for the year 2016, is amended to read as follows:\\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qc CHAPTER 8\\par\nCITY WEBSITES \\ul AND ELECTRONIC SYSTEMS\\ulnone  \\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qj\\'a7 2. Chapter 8 of title 23 of the administrative code of the city of New York is amended by adding a new section 23-803 to read as follows:\\par\n\\ul\\'a7 23-803 Electronic systems security testing, briefings and reports. a. For the purposes of this section, the following terms have the following meanings:\\par\nChief information security officer. The term \\ldblquote chief information security officer\\rdblquote  means the head of New York city cyber command as established by executive order number 28 for the year 2017 or any other officer or administering agency designated by the mayor to perform the same functions.\\par\nElectronic system. The term \\ldblquote electronic system\\rdblquote  means any website, network, online infrastructure or internally or externally accessible electronic system constructed or maintained by or on behalf of the city.\\par\nPersonal identifying information. The term \\ldblquote personal identifying information\\rdblquote  shall have the same meaning as provided for the term \\ldblquote personal identifying information\\rdblquote  in section 10-501 and any other identifying information, as such term is defined in section 23-1201. \\par\n\\pard\\cbpat2\\ltrpar\\fi720\\sl480\\slmult1\\qj b. The chief information security officer \\cf1 shall adopt a protocol relating to penetration testing of electronic systems. Such protocol shall use the penetration testing standards of national institute of standards and technology special publication 800-53, including all control enhancements, or any successor standard, for all physical electronic systems, and federal risk and authorization management program penetration test guidance version 1.0.1, or any successor standards, for all cloud systems; provided that the protocol may differ from such standards in specific instances when the chief information security officer determines, after consulting with experts in the security of electronic systems, that such differences will provide a more effective test, and that such differences are documented in such protocol. Such protocol shall be made publicly available online.\\par\nc. The protocol required by subdivision b shall include a standard for the testing of employees of the city as well as both internally and externally accessible electronic systems for vulnerability to social engineering exploitation. Such standard may be adopted from federal risk and authorization management program penetration test guidance version 1.0.1 or any similar standard, provided that such standard includes provisions for recording and reporting click-through rates or similar metrics. \\par\nd. The chief information security officer shall develop social engineering exploitation awareness materials and shall distribute such materials to all agency employees. Such materials shall also be distributed to all agency employees upon hiring.\\par\ne. The standard required by subdivision c shall also establish thresholds for such metrics that, when exceeded with respect to any such systems or personnel, trigger social engineering exploitation awareness material distributions or trainings and additional testing of such systems or employees of the city. \\par\nf. The protocol required by subdivision b shall be implemented by the chief information security officer, or by a vendor retained for such purpose, to regularly test for security vulnerabilities in the websites or other public facing electronic systems maintained by or on behalf of the city.\\par\ng. The chief information security officer shall conduct an annual audit of all electronic system security practices. Such audit shall include, but not be limited to, an assessment of website security credentials, penetration vulnerabilities, and vulnerability of operating systems and firmware of electronic systems.\\par\nh. In the event of an electronic system security breach, the chief information security officer shall:\\par\n1. Immediately inform the mayor, or the mayor\\rquote s designee, with a description of the date, nature and severity of the security breach, as well as a description of any data or information that may have been compromised; and\\par\n2. Immediately arrange a briefing for the speaker of council, or the speaker\\rquote s designee, for the purposes of providing the following information:\\par\n(a) a description of the severity and impact of the electronic system security breach;\\par\n(b) a description of all electronic systems affected that would normally be used by the public;\\par\n(c) an estimate of time required for the issues caused by the electronic system security breach to be fixed;\\par\n(d) whether the individuals responsible for the electronic system security breach have been identified; and\\par\n(e) any resulting electronic system threats that the public should be made aware of.\\par\ni. By February 1 of each year, the chief information security officer shall submit to the speaker of the council, and make publicly available online, an electronic report that describes:\\par\n1. the implementation of this section;\\par\n2. the number of penetration vulnerabilities identified through testing performed pursuant to this section since the prior report, both citywide and by agency;\\par\n3. the number and scope of social engineering exploitation tests conducted, both citywide and by agency; \\par\n4. the percentage of such social engineering exploitation tests for which the established metric did not meet the trigger threshold established pursuant to subdivision e, both citywide and by agency;\\par\n5. the percentage of additional social engineering exploitation tests conducted pursuant to subdivision e, both citywide and by agency, for which the established metric did not meet the trigger threshold established pursuant to subdivision e;\\par\n6. a description of any social engineering exploitation awareness material distributions or trainings conducted, both citywide and by agency; \\par\n7. a description of \\cf0 the date, nature and severity of any resolved electronic system security breaches in the preceding year, as well as any information or data that may have been compromised; and\\par\n8. recommendations for improvement in city practices and protocols for the security of electronic systems including, but not limited to, recommendations based on the findings of the audit conducted pursuant to subdivision g.\\cf1\\par\n\\ulnone\\'a7 3. This local law takes effect 120 days after it becomes law, except that the office of the mayor and the department of information technology and telecommunications may take such measures prior to such date as are necessary for implementation of this local law, including the promulgation of rules.\\par\n\\pard\\ltrpar\\qj\\cf0\\fs18 APB/bjr\\par\nLS #6356, 6881,7823\\par\n\\pard\\ltrpar 9/26/18, 11:25 pm\\par\n}\n",
-  "LastModified": "2019-01-14T21:22:57.61Z"
+  "LastModified": "2021-12-23T04:31:05.137Z"
 }
