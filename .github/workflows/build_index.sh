@@ -23,3 +23,6 @@ jq -c -s "map(select(.Attachments[]?.Name | test(\"^Local Law [0-9]+\$\")) | del
 
 echo "copying twitter.json"
 cp people/appendix/twitter.json build/
+
+echo "copying last_sync.json"
+cp last_sync.json build/
