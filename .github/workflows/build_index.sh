@@ -24,5 +24,22 @@ jq -c -s "map(select(.Attachments[]?.Name | test(\"^Local Law [0-9]+\$\")) | del
 echo "copying twitter.json"
 cp people/appendix/twitter.json build/
 
+# build a legislation index for each active legislator from the current session
+for PERSON in people/*.json; do 
+    PERSON_ID=$(jq -r "select(.End | fromdateiso8601 > now) | select (.Start | fromdateiso8601 < now) | .ID?" ${PERSON})
+    # skip building index for inactive individuals
+    if [ -z "${PERSON_ID}" ]; then
+        continue
+    fi
+    echo "building legislation_$(basename $PERSON)"
+    if [ -e introduction/2022 ]; then
+        jq -c -s "map(select(.Sponsors[]?.ID == ${PERSON_ID})) | map(del(.RTF,.GUID,.TextID,.StatusID,.TypeID,.TypeName,.AgendaDate,.Attachments,.Text, .Version))" introduction/2022/????.json > build/legislation_$(basename $PERSON .json).json;
+    else
+        jq -c -s "map(select(.Sponsors[]?.ID == ${PERSON_ID})) | map(del(.RTF,.GUID,.TextID,.StatusID,.TypeID,.TypeName,.AgendaDate,.Attachments,.Text, .Version))" introduction/{2018,2019,2020,2021}/????.json > build/legislation_$(basename $PERSON .json).json;
+    fi
+done
+
+
 echo "copying last_sync.json"
 cp last_sync.json build/
+
