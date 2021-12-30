@@ -35,7 +35,7 @@ for PERSON in people/*.json; do
     if [ -e introduction/2022 ]; then
         jq -c -s "map(select(.Sponsors[]?.ID == ${PERSON_ID})) | map(del(.RTF,.GUID,.TextID,.StatusID,.TypeID,.TypeName,.AgendaDate,.Attachments,.Text, .Version))" introduction/2022/????.json > build/legislation_$(basename $PERSON .json).json;
     else
-        jq -c -s "map(select(.Sponsors[]?.ID == ${PERSON_ID})) | map(del(.RTF,.GUID,.TextID,.StatusID,.TypeID,.TypeName,.AgendaDate,.Attachments,.Text, .Version))" introduction/{2018,2019,2020,2021}/????.json > build/legislation_$(basename $PERSON .json).json;
+        jq -c -s "map(select(.Sponsors[]?.ID == ${PERSON_ID})) | map(del(.RTF,.GUID,.TextID,.StatusID,.TypeID,.TypeName,.AgendaDate,.Attachments,.Text, .Version))" introduction/2018/????.json introduction/2019/????.json introduction/2020/????.json introduction/2021/????.json > build/legislation_$(basename $PERSON .json).json;
     fi
 done
 
