@@ -13,7 +13,7 @@ for YEAR in introduction/????; do
 done
 
 echo "building people_active.json"
-jq -c -s "map(select(.IsActive) | del(.FirstName,.LastName,.GUID)) | map(.OfficeRecords = ([.OfficeRecords[]? | del(.GUID, .FullName, .PersonID, .LastModified) ]))" people/*.json > build/people_active.json
+jq -c -s "map(select(.IsActive) | select(.End | fromdateiso8601 > now) | del(.FirstName,.LastName,.GUID)) | map(.OfficeRecords = ([.OfficeRecords[]? | del(.GUID, .FullName, .PersonID, .LastModified) ]))" people/*.json > build/people_active.json
 
 echo "building local_laws.json"
 # ActionID=58 == City Charter Rule Adopted
