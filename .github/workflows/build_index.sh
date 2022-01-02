@@ -45,10 +45,10 @@ done
 
 if [ -e introduction/2022 ]; then
     echo "building search_index_2022_2023.json"
-    jq -c -s "map({File, Name, Title, StatusName, LastModified: .History[-1]?.Date})" introduction/2022/????.json > build/search_index_2022_2023.json
+    jq -c -s "map({File, Name, Title, Summary, StatusName, LastModified: .History[-1]?.Date})" introduction/2022/????.json > build/search_index_2022_2023.json
 else
     echo "building search_index_2018_2021.json"
-    jq -c -s "map({File, Name, Title, StatusName, LastModified: .History[-1]?.Date})" introduction/2018/????.json introduction/2019/????.json introduction/2020/????.json introduction/2021/????.json > build/search_index_2018_2021.json
+    jq -c -s "map({File, Name, Title, Summary, StatusName, LastModified: .History[-1]?.Date})" introduction/2018/????.json introduction/2019/????.json introduction/2020/????.json introduction/2021/????.json > build/search_index_2018_2021.json
 fi
 
 echo "copying last_sync.json"
