@@ -15,14 +15,18 @@ done
 echo "building people_active.json"
 jq -c -s "map(select(.IsActive) | select(.End | fromdateiso8601 > now) | del(.FirstName,.LastName,.GUID)) | map(.OfficeRecords = ([.OfficeRecords[]? | del(.GUID, .FullName, .PersonID, .LastModified) ]))" people/*.json > build/people_active.json
 
+echo "building people_all.json"
+jq -c -s "map(del(.FirstName,.LastName,.GUID)) | map(.OfficeRecords = ([.OfficeRecords[]? | del(.GUID, .FullName, .PersonID, .LastModified) ]))" people/*.json > build/people_all.json
+
+echo "copying people_metadata.json"
+cp people/appendix/people_metadata.json build/
+
 echo "building local_laws.json"
 # ActionID=58 == City Charter Rule Adopted
 # ActionID=57 == Signed Into Law by Mayor
 # this History contains the YEAR a local law is from
 jq -c -s "map(select(.Attachments[]?.Name | test(\"^Local Law [0-9]+\$\")) | del(.RTF,.Summary,.Text,.IntroDate,.BodyID,.BodyName,.Version,.GUID,.TextID,.StatusID,.TypeID,.TypeName,.AgendaDate,.Sponsors)) | map(.Attachments = ([.Attachments[]? | select(.Name | test(\"^Local Law [0-9]+\$\")) ] )) | map(.History = ([.History[]? | select(.ActionID == 58 or .ActionID == 57)] )) | map(.LocalLaw = .Attachments[0].Name) | map(.LocalLawLink = .Attachments[0].Link) | map( .Year = (.History[0].Date? | fromdateiso8601 | strftime(\"%Y\") | tonumber)) | map(.LocalLawNumber? = (.LocalLaw | split(\" \")[2] | tonumber)) | map(del(.History,.Attachments)) |sort_by(.Year,.LocalLawNumber) "  introduction/????/????.json > build/local_laws.json
 
-echo "copying people_metadata.json"
-cp people/appendix/people_metadata.json build/
 
 # build a legislation index for each active legislator from the current session
 for PERSON in people/*.json; do 
