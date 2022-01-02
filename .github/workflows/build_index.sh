@@ -22,6 +22,10 @@ echo "copying people_metadata.json"
 cp people/appendix/people_metadata.json build/
 
 echo "building local_laws.json"
+# 27 'Introduced by Council',
+# 33 'Amended by Committee',
+# 32 'Approved by Committee',
+# 68 'Approved by Council',
 # ActionID=58 == City Charter Rule Adopted
 # ActionID=57 == Signed Into Law by Mayor
 # this History contains the YEAR a local law is from
@@ -45,10 +49,10 @@ done
 
 if [ -e introduction/2022 ]; then
     echo "building search_index_2022_2023.json"
-    jq -c -s "map({File, Name, Title, Summary, StatusName, LastModified: .History[-1]?.Date})" introduction/2022/????.json > build/search_index_2022_2023.json
+    jq -c -s "map({File, Name, Title, Summary, StatusName, LastModified:  ([.History[]? | select(.ActionID == 27 or .ActionID == 33 or .ActionID == 32 or .ActionID == 68 or .ActionID == 58)])[-1]?.Date})" introduction/2022/????.json > build/search_index_2022_2023.json
 else
     echo "building search_index_2018_2021.json"
-    jq -c -s "map({File, Name, Title, Summary, StatusName, LastModified: .History[-1]?.Date})" introduction/2018/????.json introduction/2019/????.json introduction/2020/????.json introduction/2021/????.json > build/search_index_2018_2021.json
+    jq -c -s "map({File, Name, Title, Summary, StatusName, LastModified:  ([.History[]? | select(.ActionID == 27 or .ActionID == 33 or .ActionID == 32 or .ActionID == 68 or .ActionID == 58)])[-1]?.Date})" introduction/2018/????.json introduction/2019/????.json introduction/2020/????.json introduction/2021/????.json > build/search_index_2018_2021.json
 fi
 
 echo "copying last_sync.json"
