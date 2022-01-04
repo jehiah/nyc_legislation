@@ -28,8 +28,9 @@ echo "building local_laws.json"
 # 68 'Approved by Council',
 # ActionID=58 == City Charter Rule Adopted
 # ActionID=57 == Signed Into Law by Mayor
+# 5084 = Returned Unsigned by Mayor
 # this History contains the YEAR a local law is from
-jq -c -s "map(select(.Attachments[]?.Name | test(\"^Local Law [0-9]+\$\")) | del(.RTF,.Summary,.Text,.IntroDate,.BodyID,.BodyName,.Version,.GUID,.TextID,.StatusID,.TypeID,.TypeName,.AgendaDate,.Sponsors)) | map(.Attachments = ([.Attachments[]? | select(.Name | test(\"^Local Law [0-9]+\$\")) ] )) | map(.History = ([.History[]? | select(.ActionID == 58 or .ActionID == 57)] )) | map(.LocalLaw = .Attachments[0].Name) | map(.LocalLawLink = .Attachments[0].Link) | map( .Year = (.History[0].Date? | fromdateiso8601 | strftime(\"%Y\") | tonumber)) | map(.LocalLawNumber? = (.LocalLaw | split(\" \")[2] | tonumber)) | map(del(.History,.Attachments)) |sort_by(.Year,.LocalLawNumber) "  introduction/????/????.json > build/local_laws.json
+jq -c -s "map(select(.Attachments[]?.Name | test(\"^Local Law [0-9]+\$\")) | del(.RTF,.Summary,.Text,.IntroDate,.BodyID,.BodyName,.Version,.GUID,.TextID,.StatusID,.TypeID,.TypeName,.AgendaDate,.Sponsors)) | map(.Attachments = ([.Attachments[]? | select(.Name | test(\"^Local Law [0-9]+\$\")) ] )) | map(.History = ([.History[]? | select(.ActionID == 58 or .ActionID == 57 or .ActionID == 5084)] )) | map(.LocalLaw = .Attachments[0].Name) | map(.LocalLawLink = .Attachments[0].Link) | map( .Year = (.History[-1].Date? | fromdateiso8601 | strftime(\"%Y\") | tonumber)) | map(.LocalLawNumber? = (.LocalLaw | split(\" \")[2] | tonumber)) | map(del(.History,.Attachments)) |sort_by(.Year,.LocalLawNumber) "  introduction/????/????.json > build/local_laws.json
 
 
 # build a legislation index for each active legislator from the current session
