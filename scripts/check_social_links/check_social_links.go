@@ -46,8 +46,9 @@ func main() {
 				code = resp.StatusCode
 			}
 			if err != nil || code > 200 {
-				log.Printf("%d %s error getting %q %s StatusCode:%#v", p.ID, p.FullName, l, err, code)
+				log.Printf("⛔️ %d %s error getting %q %s StatusCode:%#v", p.ID, p.FullName, l, err, code)
 			} else {
+				log.Printf("✅ %d %s %s", p.ID, p.FullName, l)
 				okCount++
 			}
 		}
