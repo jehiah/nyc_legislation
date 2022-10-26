@@ -6,8 +6,8 @@
   "Title": "A Local Law to amend the administrative code of the city of New York, in relation to rat mitigation progress in rat mitigation zones",
   "TypeID": 2,
   "TypeName": "Introduction",
-  "StatusID": 25,
-  "StatusName": "Laid Over in Committee",
+  "StatusID": 24,
+  "StatusName": "Reported from Committee",
   "BodyID": 5108,
   "BodyName": "Committee on Sanitation and Solid Waste Management",
   "IntroDate": "2022-05-19T00:00:00Z",
@@ -197,6 +197,11 @@
       "FullName": "Kamillah Hanks"
     },
     {
+      "ID": 7816,
+      "Slug": "julie-won",
+      "FullName": "Julie Won"
+    },
+    {
       "ID": 7831,
       "Slug": "inna-vernikov",
       "FullName": "Inna Vernikov"
@@ -294,12 +299,73 @@
       "Version": "*",
       "MatterStatusID": 25,
       "LastModified": "2022-06-21T22:18:28.033Z"
+    },
+    {
+      "ID": 387558,
+      "Date": "2022-10-26T11:00:00Z",
+      "ActionID": 54,
+      "Action": "Hearing Held by Committee",
+      "Description": "This Introduction was Hearing Held by Committee",
+      "BodyID": 5108,
+      "BodyName": "Committee on Sanitation and Solid Waste Management",
+      "EventID": 19584,
+      "AgendaSequence": 1,
+      "MinutesSequence": 2,
+      "Version": "*",
+      "AgendaNote": "Proposed Int. No. 414-A",
+      "MinutesNote": "Proposed Int. No. 414-A",
+      "MatterStatusID": 3,
+      "LastModified": "2022-10-26T15:48:37.927Z"
+    },
+    {
+      "ID": 388427,
+      "Date": "2022-10-26T11:00:00Z",
+      "ActionID": 5001,
+      "Action": "Amendment Proposed by Comm",
+      "Description": "This Introduction was Amendment Proposed by Comm",
+      "BodyID": 5108,
+      "BodyName": "Committee on Sanitation and Solid Waste Management",
+      "EventID": 19584,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2022-10-26T15:48:42.447Z"
+    },
+    {
+      "ID": 388428,
+      "Date": "2022-10-26T11:00:00Z",
+      "ActionID": 33,
+      "Action": "Amended by Committee",
+      "Description": "This Introduction was Amended by Committee",
+      "BodyID": 5108,
+      "BodyName": "Committee on Sanitation and Solid Waste Management",
+      "EventID": 19584,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2022-10-26T15:48:48.13Z"
+    },
+    {
+      "ID": 388429,
+      "Date": "2022-10-26T11:00:00Z",
+      "ActionID": 32,
+      "Action": "Approved by Committee",
+      "Description": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "BodyID": 5108,
+      "BodyName": "Committee on Sanitation and Solid Waste Management",
+      "EventID": 19584,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterStatusID": 24,
+      "LastModified": "2022-10-26T15:48:57.19Z"
     }
   ],
   "Attachments": [
     {
       "ID": 268025,
-      "LastModified": "2022-10-24T16:08:14.153Z",
+      "LastModified": "2022-10-26T16:33:55.99Z",
       "Name": "Summary of Int. No. 414-A",
       "Link": "http://nyc.legistar1.com/nyc/attachments/a3e94b34-46ca-4631-aba8-75d8336cb0ac.docx",
       "Sort": 1
@@ -362,15 +428,29 @@
     },
     {
       "ID": 267977,
-      "LastModified": "2022-10-24T16:08:17.367Z",
+      "LastModified": "2022-10-26T14:15:19.703Z",
       "Name": "Proposed Int. No. 414-A - 10/4/22",
       "Link": "http://nyc.legistar1.com/nyc/attachments/9f3f0537-875b-4790-bfd3-814b526635a6.docx",
       "Sort": 12
+    },
+    {
+      "ID": 269206,
+      "LastModified": "2022-10-26T15:55:40.853Z",
+      "Name": "Committee Report 10/26/22",
+      "Link": "http://nyc.legistar1.com/nyc/attachments/bccc7aa1-c2b7-4dd3-8724-419b1ee502ab.docx",
+      "Sort": 13
+    },
+    {
+      "ID": 269225,
+      "LastModified": "2022-10-26T16:31:32.863Z",
+      "Name": "Fiscal Impact Statement",
+      "Link": "http://nyc.legistar1.com/nyc/attachments/6a0cecc0-35a5-44fc-957a-46eaea7121b1.docx",
+      "Sort": 15
     }
   ],
   "Summary": "The bill would require the Department of Health and Mental Hygiene to issue an annual report on the success of rat mitigation measures in rat mitigation zones. Additionally, the Department would report on current and planned rat mitigation measures in each such zone, public outreach measures carried out by the Department regarding rat mitigation in each such zone, the creation or elimination of such zones, and changes to rat mitigation measures used in each such zone.",
   "TextID": 73448,
   "Text": "Be it enacted by the Council as follows:\n\n      Section 1. Chapter 1 of title 17 of the administrative code of the city of New York is amended by adding a new section 17-133.3 to read as follows:\n      � 17.133.3 Rat mitigation reporting. a. No later than November 1, 2023, and by November 1 annually thereafter, the department shall submit to the mayor and the speaker of the council, and make publicly available online, a report that details rat mitigation efforts in the rat mitigation zones designated by the department pursuant to subdivision a of section 17-133.2. \n      b. Such report shall include, but not be limited to:\n      1. The metrics that the department is using to measure the efficacy of rat mitigation in such zones, including a description of whether the department has seen improvement, as measured by such metrics, and, if so, how such improvement has been achieved;\n      2. An overview of current and planned rat mitigation measures, including goals and specific benchmarks and timelines, in each such zone;\n      3. A description of the public outreach measures undertaken by the department in relation to rat mitigation in each such zone;\n      4. Explanations of the creation or elimination of rat mitigation zones, or any change of boundaries of such zone, since the previous report, if applicable; and\n      5. Explanations of any changes to the rat mitigation measures used in each such zone since the previous report, if applicable.\n      � 2. This local law takes effect immediately.\n\n\nSession 12\nJSA\nLS #999, 8164\n8/30/2022 11:15am\n\nSession 11\nNKA\nLS #5775\nInt. #659-A-2018\n2",
   "RTF": "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang1033\\deflangfe1033{\\fonttbl{\\f0\\froman\\fprq2\\fcharset0 Times New Roman;}}\n{\\colortbl ;\\red0\\green0\\blue0;\\red255\\green255\\blue255;}\n\\viewkind4\\uc1\n\\v0\\par\n\\pard\\ltrpar\\noline\\hyphpar0\\sl480\\slmult1\\ul Be it enacted by the Council as follows:\\par\n\\pard\\cbpat2\\ltrpar\\fi720\\sl480\\slmult1\\qj\\cf1\\ulnone Section 1. Chapter 1 of title 17 of the administrative code of the city of New York is amended by adding a new section 17-133.3 to read as follows:\\fs27\\par\n\\ul\\fs24\\'a7 17.133.3 Rat mitigation reporting. a. No later than November 1, 2023, and by November 1 annually thereafter, the department shall submit to the mayor and the speaker of the council, and make publicly available online, a report that details rat mitigation efforts in the rat mitigation zones designated by the department pursuant to subdivision a of section 17-133.2. \\par\nb. Such report shall include, but not be limited to:\\ulnone\\fs27\\par\n\\ul\\fs24 1. The metrics that the department is using to measure the efficacy of rat mitigation in such zones, including a description of whether the department has seen improvement, as measured by such metrics, and, if so, how such improvement has been achieved;\\ulnone\\fs27\\par\n\\ul\\fs24 2. An overview of current and planned rat mitigation measures, including goals and specific benchmarks and timelines, in each such zone;\\par\n3. A description of the public outreach measures undertaken by the department in relation to rat mitigation in each such zone;\\par\n4. Explanations of the creation or elimination of rat mitigation zones, or any change of boundaries of such zone, since the previous report, if applicable; and\\ulnone\\fs27\\par\n\\ul\\fs24 5. Explanations of any changes to the rat mitigation measures used in each such zone since the previous report, if applicable.\\ulnone\\fs27\\par\n\\fs24\\'a7 2. This local law takes effect immediately.\\fs27\\par\n\\pard\\ltrpar\\noline\\hyphpar0\\qj\\cf0\\fs20\\par\n\\ul\\par\nSession 12\\ulnone\\par\nJSA\\par\nLS #999, 8164\\par\n8/30/2022 11:15am\\par\n\\par\n\\ul Session 11\\par\n\\ulnone NKA\\par\nLS #5775\\par\nInt. #659-A-2018\\cf1\\par\n}\n",
-  "LastModified": "2022-10-25T15:43:51.74Z"
+  "LastModified": "2022-10-26T16:33:55.99Z"
 }
