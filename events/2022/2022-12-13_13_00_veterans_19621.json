@@ -8,10 +8,13 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2022/12/19621_A_Committee_on_Veterans_22-12-13_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2022/12/19621_M_Committee_on_Veterans_22-12-13_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Mental Health, Disabilities and Addiction.",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_221213-130411.mp4",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_221213-130411.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=19621&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,26 +22,56 @@
       "GUID": "3EC06460-5288-41CA-B068-2C631C87349D",
       "Title": "Jointly with the Committee on Mental Health, Disabilities and Addiction",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "",
-      "LastModified": "2022-10-19T22:05:34.247Z"
+      "LastModified": "2022-12-13T22:05:20.623Z"
     },
     {
       "ID": 388106,
       "GUID": "A390B0D6-5F35-44A1-BF98-18E70C386EFA",
       "Title": "Oversight - Veterans Treatment Courts",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 70295,
       "MatterFile": "T2022-2281",
       "MatterName": "Oversight - Veterans Treatment Courts",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2022-11-30T21:04:30.063Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2022-12-13T22:06:08.653Z"
+    },
+    {
+      "ID": 389717,
+      "GUID": "E1D94391-33B8-4289-B02A-BDB7D7DD172E",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "LastModified": "2022-12-13T22:06:04.367Z"
+    },
+    {
+      "ID": 389718,
+      "GUID": "2D83CCC0-DEFA-48CD-892C-0EBEEF1DDDCB",
+      "Title": "Oversight - Veterans Treatment Courts",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 70295,
+      "MatterFile": "T2022-2281",
+      "MatterName": "Oversight - Veterans Treatment Courts",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2022-12-13T22:07:17.953Z"
     }
   ],
   "AgendaLastPublished": "2022-10-19T22:12:59.577Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2022-10-19T22:12:59.61Z"
+  "MinutesLastPublished": "2022-12-13T22:07:23.02Z",
+  "LastModified": "2022-12-13T22:07:23.09Z"
 }
