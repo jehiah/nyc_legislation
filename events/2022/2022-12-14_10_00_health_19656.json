@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2022/12/19656_A_Committee_on_Health_22-12-14_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2022/12/19656_M_Committee_on_Health_22-12-14_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_221214-101614.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=19656&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,17 +20,57 @@
       "GUID": "C4359A0B-5A32-438C-BBDA-A3FA3216F298",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to prohibiting the sale of guinea pigs as pets, and clarifying the definition of the term “pet shop” to address inconsistent use of such term in the code",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 68037,
       "MatterFile": "Int 0004-2022",
       "MatterName": "Prohibiting the sale of guinea pigs as pets, and clarifying the definition of the term “pet shop” to address inconsistent use of such term in the code.",
       "MatterType": "Introduction",
-      "MatterStatus": "Committee",
-      "LastModified": "2022-12-09T16:24:29.46Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2022-12-14T20:46:21.123Z"
+    },
+    {
+      "ID": 389751,
+      "GUID": "3BFCAF53-6FB7-4D9B-9063-E1A3B523F7BE",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "LastModified": "2022-12-14T20:45:45.307Z"
+    },
+    {
+      "ID": 389752,
+      "GUID": "2DDF7A8E-64BF-4A6D-8776-98F969C6AB15",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to prohibiting the sale of guinea pigs as pets, and clarifying the definition of the term “pet shop” to address inconsistent use of such term in the code",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 68037,
+      "MatterFile": "Int 0004-2022",
+      "MatterName": "Prohibiting the sale of guinea pigs as pets, and clarifying the definition of the term “pet shop” to address inconsistent use of such term in the code.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2022-12-14T20:46:29.327Z"
+    },
+    {
+      "ID": 389753,
+      "GUID": "37B27105-06D7-417A-9659-836E97E7FA49",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending:  Deputy Speaker Ayala",
+      "LastModified": "2022-12-14T20:46:16.577Z"
     }
   ],
   "AgendaLastPublished": "2022-11-01T14:57:39.587Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2022-12-14T15:16:16.323Z"
+  "MinutesLastPublished": "2022-12-14T20:46:35.677Z",
+  "LastModified": "2022-12-14T20:46:35.757Z"
 }

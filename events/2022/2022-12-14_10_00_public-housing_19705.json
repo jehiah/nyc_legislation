@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2022/12/19705_A_Committee_on_Public_Housing_22-12-14_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2022/12/19705_M_Committee_on_Public_Housing_22-12-14_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-250-14_221214-101524.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=19705&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,17 +20,47 @@
       "GUID": "4ABEDABA-9EF8-4B89-A73B-EF239C17CC5D",
       "Title": "Oversight - Winter Preparedness Across NYCHA Developments",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 70529,
       "MatterFile": "T2022-2575",
       "MatterName": "Oversight - Winter Preparedness Across NYCHA Developments",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2022-12-09T16:26:44.703Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2022-12-14T20:43:32.453Z"
+    },
+    {
+      "ID": 389749,
+      "GUID": "E424DFEB-D146-4802-A268-38DE27755894",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "LastModified": "2022-12-14T20:43:27.807Z"
+    },
+    {
+      "ID": 389750,
+      "GUID": "6430DCBA-8968-49DE-9036-AA7ECC7D7AA5",
+      "Title": "Oversight - Winter Preparedness Across NYCHA Developments",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 70529,
+      "MatterFile": "T2022-2575",
+      "MatterName": "Oversight - Winter Preparedness Across NYCHA Developments",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2022-12-14T20:43:40.65Z"
     }
   ],
   "AgendaLastPublished": "2022-11-30T17:09:56.227Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2022-12-14T15:15:25.747Z"
+  "MinutesLastPublished": "2022-12-14T20:43:47.56Z",
+  "LastModified": "2022-12-14T20:43:47.637Z"
 }

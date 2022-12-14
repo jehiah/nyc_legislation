@@ -8,10 +8,13 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2022/12/19703_A_Committee_on_Aging_22-12-14_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2022/12/19703_M_Committee_on_Aging_22-12-14_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Subcommittee on Senior Centers and Food Insecurity",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_221214-101834.mp4",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_221214-101834.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=19703&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,26 +22,66 @@
       "GUID": "DDE4B99F-EB74-49DB-B650-A4DD9A25335D",
       "Title": "Oversight - Food Insecurity And Older Adult Centers",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 70393,
       "MatterFile": "T2022-2379",
       "MatterName": "Oversight - Food Insecurity And Older Adult Centers",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2022-12-09T16:24:56.39Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2022-12-14T20:41:29.37Z"
     },
     {
       "ID": 389278,
       "GUID": "2A6ABB57-15E7-446C-B7E8-788B52BEE3A4",
       "Title": "Jointly with the Subcommittee on Senior Centers and Food Insecurity.",
       "AgendaSequence": 2,
+      "MinutesSequence": 5,
+      "Version": "",
+      "LastModified": "2022-12-14T20:35:10.153Z"
+    },
+    {
+      "ID": 389743,
+      "GUID": "0D49723E-6CBB-412B-B675-6D49F07BC4B3",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "LastModified": "2022-12-14T20:35:38.293Z"
+    },
+    {
+      "ID": 389744,
+      "GUID": "A16AFD0D-6F8E-4A39-A2EB-83B027D48D83",
+      "Title": "",
+      "AgendaSequence": 0,
       "MinutesSequence": 2,
       "Version": "",
-      "LastModified": "2022-11-23T15:36:54.013Z"
+      "MinutesNote": "Other Council Members Attending: Ossé",
+      "LastModified": "2022-12-14T20:36:04.877Z"
+    },
+    {
+      "ID": 389745,
+      "GUID": "3D080800-2607-4393-8B63-8DD81079EB05",
+      "Title": "Oversight - Food Insecurity And Older Adult Centers",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 70393,
+      "MatterFile": "T2022-2379",
+      "MatterName": "Oversight - Food Insecurity And Older Adult Centers",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2022-12-14T20:36:17.143Z"
     }
   ],
   "AgendaLastPublished": "2022-12-08T19:00:44.01Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2022-12-14T15:18:35.88Z"
+  "MinutesLastPublished": "2022-12-14T20:41:38.137Z",
+  "LastModified": "2022-12-14T20:41:38.183Z"
 }
