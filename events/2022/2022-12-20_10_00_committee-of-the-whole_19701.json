@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2022/12/19701_A_Committee_of_the_Whole_22-12-20_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2022/12/19701_M_Committee_of_the_Whole_22-12-20_Meeting_Minutes.pdf",
   "Comment": "Public Testimony",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_221220-102621.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=19701&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
@@ -22,15 +23,35 @@
       "AgendaSequence": 1,
       "MinutesSequence": 1,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 70478,
       "MatterFile": "T2022-2464",
       "MatterName": "Oversight - Examining the City’s Response and Delivery of Services to Migrants.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2022-12-19T14:53:00.47Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2022-12-21T14:19:55.82Z"
+    },
+    {
+      "ID": 389932,
+      "GUID": "783F0023-E549-4AA4-A586-E36DB4C989AB",
+      "Title": "Oversight - Examining the City’s Response and Delivery of Services to Migrants.\r\n\r\n10:00 a.m - PUBLIC TESTIMONY\r\n",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 70478,
+      "MatterFile": "T2022-2464",
+      "MatterName": "Oversight - Examining the City’s Response and Delivery of Services to Migrants.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2022-12-21T14:20:01.73Z"
     }
   ],
   "AgendaLastPublished": "2022-11-21T22:34:12.903Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2022-12-20T18:26:16.81Z"
+  "MinutesLastPublished": "2022-12-21T14:20:06.307Z",
+  "LastModified": "2022-12-21T14:20:06.337Z"
 }
