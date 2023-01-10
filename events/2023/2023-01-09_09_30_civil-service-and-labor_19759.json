@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/1/19759_A_Committee_on_Civil_Service_and_Labor_23-01-09_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/1/19759_M_Committee_on_Civil_Service_and_Labor_23-01-09_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_230109-095536.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=19759&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,17 +20,57 @@
       "GUID": "C54F83D7-D424-402C-99E0-CD6E0B837ABA",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to health insurance coverage for city employees, city retirees, and their dependents",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 70638,
       "MatterFile": "Int 0874-2023",
       "MatterName": "Health insurance coverage for city employees, city retirees, and their dependents.",
       "MatterType": "Introduction",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-01-06T14:31:53.613Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-01-10T16:26:15.42Z"
+    },
+    {
+      "ID": 390197,
+      "GUID": "12E10382-B90A-46FA-B740-BAFC052970EF",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "LastModified": "2023-01-10T16:24:27.57Z"
+    },
+    {
+      "ID": 390198,
+      "GUID": "8AB08E75-79D0-46EC-BFE8-A6EEDAE6BC89",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to health insurance coverage for city employees, city retirees, and their dependents",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 70638,
+      "MatterFile": "Int 0874-2023",
+      "MatterName": "Health insurance coverage for city employees, city retirees, and their dependents.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-01-10T16:26:23.72Z"
+    },
+    {
+      "ID": 390204,
+      "GUID": "94147210-1B02-4B54-95DD-D92391D386BD",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Speaker Adams, Brewer, Carr, Schulman, Borelli, Moya, Lee and Holden.",
+      "LastModified": "2023-01-10T16:26:09.757Z"
     }
   ],
   "AgendaLastPublished": "2023-01-04T22:47:38.523Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-01-09T14:55:38.087Z"
+  "MinutesLastPublished": "2023-01-10T16:26:33.29Z",
+  "LastModified": "2023-01-10T16:26:33.53Z"
 }
