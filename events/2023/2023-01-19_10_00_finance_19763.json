@@ -8,9 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/1/19763_A_Committee_on_Finance_23-01-19_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/1/19763_M_Committee_on_Finance_23-01-19_Meeting_Minutes.pdf",
+  "Comment": "VOTE",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_230119-101734.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=19763&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -28,7 +31,7 @@
       "MatterFile": "Res 0457-2023",
       "MatterName": "Approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget.",
       "MatterType": "Resolution",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Reported from Committee",
       "LastModified": "2023-01-19T14:04:49.57Z"
     },
     {
@@ -46,7 +49,7 @@
       "MatterFile": "LU 0163-2023",
       "MatterName": "Kay's Place, Block 1028, Lot 7, Brooklyn, Community District No. 6, Council District No. 39.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Reported from Committee",
       "LastModified": "2023-01-19T14:04:45.58Z"
     },
     {
@@ -56,7 +59,8 @@
       "AgendaSequence": 0,
       "MinutesSequence": 1,
       "Version": "",
-      "LastModified": "2023-01-19T14:04:45.573Z"
+      "RollCallFlag": 1,
+      "LastModified": "2023-01-19T15:20:20.53Z"
     },
     {
       "ID": 390549,
@@ -65,12 +69,17 @@
       "AgendaSequence": 0,
       "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 25,
+      "ActionName": "P-C Item Approved by Comm",
+      "ActionText": "A motion was made that this Resolution be P-C Item Approved by Comm approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 70676,
       "MatterFile": "Res 0457-2023",
       "MatterName": "Approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget.",
       "MatterType": "Resolution",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-01-19T14:04:45.577Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-01-19T15:58:15.233Z"
     },
     {
       "ID": 390550,
@@ -79,15 +88,20 @@
       "AgendaSequence": 0,
       "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 5040,
+      "ActionName": "P-C Item Approved by Committee with Companion Resolution",
+      "ActionText": "A motion was made that this Land Use Application be P-C Item Approved by Committee with Companion Resolution approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 70703,
       "MatterFile": "LU 0163-2023",
       "MatterName": "Kay's Place, Block 1028, Lot 7, Brooklyn, Community District No. 6, Council District No. 39.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-01-19T14:04:45.58Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-01-19T15:58:28.213Z"
     }
   ],
-  "AgendaLastPublished": "2023-01-19T14:04:54.22Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-01-19T14:04:54.25Z"
+  "AgendaLastPublished": "2023-01-19T16:00:16.627Z",
+  "MinutesLastPublished": "2023-01-19T15:58:33.027Z",
+  "LastModified": "2023-01-19T16:00:16.673Z"
 }

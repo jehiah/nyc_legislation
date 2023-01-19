@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/1/19787_A_Committee_on_Governmental_Operations_23-01-19_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/1/19787_M_Committee_on_Governmental_Operations_23-01-19_Meeting_Minutes.pdf",
   "Comment": "VOTE",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_230119-104057.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=19787&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,7 +21,7 @@
       "GUID": "661C59AD-8407-4066-A8D3-608D35846B29",
       "Title": "A Local Law to amend the New York city charter, in relation to requiring disclosure of the identity of contributors to entities making independent expenditures in support of or in opposition to any municipal ballot proposal or referendum",
       "AgendaSequence": 1,
-      "MinutesSequence": 2,
+      "MinutesSequence": 3,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 855-A",
       "MinutesNote": "Proposed Int. No. 855-A",
@@ -30,7 +32,7 @@
       "MatterFile": "Int 0855-2022",
       "MatterName": "Requiring disclosure of the identity of contributors to entities making independent expenditures in support of or in opposition to any municipal ballot proposal or referendum.",
       "MatterType": "Introduction",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Reported from Committee",
       "LastModified": "2023-01-19T13:56:54.377Z"
     },
     {
@@ -40,14 +42,15 @@
       "AgendaSequence": 0,
       "MinutesSequence": 1,
       "Version": "",
-      "LastModified": "2023-01-19T13:56:49.133Z"
+      "RollCallFlag": 1,
+      "LastModified": "2023-01-19T15:54:33.657Z"
     },
     {
       "ID": 390552,
       "GUID": "4E680FE4-7056-47B3-8DE3-D499CE791EF6",
       "Title": "A Local Law to amend the New York city charter, in relation to requiring disclosure of the identity of contributors to entities making independent expenditures in support of or in opposition to any municipal ballot proposal or referendum",
       "AgendaSequence": 0,
-      "MinutesSequence": 3,
+      "MinutesSequence": 4,
       "Version": "*",
       "ActionID": 5001,
       "ActionName": "Amendment Proposed by Comm",
@@ -56,7 +59,7 @@
       "MatterFile": "Int 0855-2022",
       "MatterName": "Requiring disclosure of the identity of contributors to entities making independent expenditures in support of or in opposition to any municipal ballot proposal or referendum.",
       "MatterType": "Introduction",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Reported from Committee",
       "LastModified": "2023-01-19T13:56:57.92Z"
     },
     {
@@ -64,7 +67,7 @@
       "GUID": "7F3CA346-5360-4403-A257-1EBD87E160E9",
       "Title": "A Local Law to amend the New York city charter, in relation to requiring disclosure of the identity of contributors to entities making independent expenditures in support of or in opposition to any municipal ballot proposal or referendum",
       "AgendaSequence": 0,
-      "MinutesSequence": 4,
+      "MinutesSequence": 5,
       "Version": "*",
       "ActionID": 33,
       "ActionName": "Amended by Committee",
@@ -73,7 +76,7 @@
       "MatterFile": "Int 0855-2022",
       "MatterName": "Requiring disclosure of the identity of contributors to entities making independent expenditures in support of or in opposition to any municipal ballot proposal or referendum.",
       "MatterType": "Introduction",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Reported from Committee",
       "LastModified": "2023-01-19T13:57:01.38Z"
     },
     {
@@ -81,17 +84,32 @@
       "GUID": "937EE0AC-A03D-47BC-94EC-961EB52E9F8C",
       "Title": "A Local Law to amend the New York city charter, in relation to requiring disclosure of the identity of contributors to entities making independent expenditures in support of or in opposition to any municipal ballot proposal or referendum",
       "AgendaSequence": 0,
-      "MinutesSequence": 5,
+      "MinutesSequence": 6,
       "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 70561,
       "MatterFile": "Int 0855-2022",
       "MatterName": "Requiring disclosure of the identity of contributors to entities making independent expenditures in support of or in opposition to any municipal ballot proposal or referendum.",
       "MatterType": "Introduction",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-01-19T13:57:03.54Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-01-19T15:55:48.14Z"
+    },
+    {
+      "ID": 390563,
+      "GUID": "45FD0890-0405-46A6-82E5-6A727D2E21CA",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Brooks-Powers",
+      "LastModified": "2023-01-19T15:54:51.42Z"
     }
   ],
   "AgendaLastPublished": "2023-01-19T13:56:14.463Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-01-19T13:56:14.727Z"
+  "MinutesLastPublished": "2023-01-19T15:55:58.757Z",
+  "LastModified": "2023-01-19T15:55:58.85Z"
 }
