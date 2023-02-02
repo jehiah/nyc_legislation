@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/2/19801_A_Committee_on_Finance_23-02-02_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/2/19801_M_Committee_on_Finance_23-02-02_Meeting_Minutes.pdf",
   "Comment": "VOTE",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_230202-101658.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=19801&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,18 +21,50 @@
       "GUID": "9F744F00-4739-4EDB-B43D-B5BF7AE11DBF",
       "Title": "Resolution approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Preconsidered",
+      "ActionID": 15,
+      "ActionName": "Hearing on P-C Item by Comm",
+      "ActionText": "This Resolution was Hearing on P-C Item by Comm",
       "MatterID": 70759,
       "MatterFile": "Res 0472-2023",
       "MatterName": "Approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget.",
       "MatterType": "Resolution",
       "MatterStatus": "Committee",
-      "LastModified": "2023-02-02T13:50:22.55Z"
+      "LastModified": "2023-02-02T15:22:20.073Z"
+    },
+    {
+      "ID": 391027,
+      "GUID": "5E3B25D9-ECED-44BB-86DE-4C2741B24D8D",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "LastModified": "2023-02-02T15:30:21.887Z"
+    },
+    {
+      "ID": 391028,
+      "GUID": "CEFB6DDE-C40D-4585-92AA-C28F0574D505",
+      "Title": "Resolution approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 25,
+      "ActionName": "P-C Item Approved by Comm",
+      "ActionText": "A motion was made that this Resolution be P-C Item Approved by Comm approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 70759,
+      "MatterFile": "Res 0472-2023",
+      "MatterName": "Approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget.",
+      "MatterType": "Resolution",
+      "MatterStatus": "Committee",
+      "LastModified": "2023-02-02T17:28:09.663Z"
     }
   ],
   "AgendaLastPublished": "2023-02-02T13:50:06.09Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-02-02T13:50:06.327Z"
+  "MinutesLastPublished": "2023-02-02T15:31:29.52Z",
+  "LastModified": "2023-02-02T15:31:29.583Z"
 }

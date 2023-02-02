@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/2/19834_A_Queens_Delegation_of_the_New_York_City_Council_23-02-02_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/2/19834_M_Queens_Delegation_of_the_New_York_City_Council_23-02-02_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_230202-111253.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=19834&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,17 +20,49 @@
       "GUID": "89897E24-1151-494A-AFD1-4C8D1BB60DE0",
       "Title": "Meeting of the Queens Delegation of the New York City Council, pursuant to Section 2301 of the Charter, recommending for appointment by the Mayor Paul Bader to the New York City Taxi and Limousine Commission.  ",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Nomination Hearing Held by the Queens Delegation",
       "MatterID": 70785,
       "MatterFile": "T2023-2927",
       "MatterName": "Meeting of the Queens Delegation of the New York City Council, pursuant to Section 2301 of the Charter, recommending for appointment by the Mayor Paul Bader to the New York City Taxi and Limousine Commission.",
       "MatterType": "N/A",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-01-27T20:48:52.843Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-02-02T17:00:32.6Z"
+    },
+    {
+      "ID": 391058,
+      "GUID": "071D6ED6-B668-4F8B-886D-A24ABA0830AC",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "LastModified": "2023-02-02T16:51:00.897Z"
+    },
+    {
+      "ID": 391059,
+      "GUID": "96DFA40B-FDEC-453D-B3E0-F4073E107549",
+      "Title": "Meeting of the Queens Delegation of the New York City Council, pursuant to Section 2301 of the Charter, recommending for appointment by the Mayor Paul Bader to the New York City Taxi and Limousine Commission.  ",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5065,
+      "ActionName": "Adopted by the Committee",
+      "ActionText": "A motion was made that this Nomination be Approved by the Queens Delegation, Adopted by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 70785,
+      "MatterFile": "T2023-2927",
+      "MatterName": "Meeting of the Queens Delegation of the New York City Council, pursuant to Section 2301 of the Charter, recommending for appointment by the Mayor Paul Bader to the New York City Taxi and Limousine Commission.",
+      "MatterType": "N/A",
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-02-02T16:59:51.153Z"
     }
   ],
-  "AgendaLastPublished": "2023-01-27T20:01:50.643Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-01-27T20:01:50.693Z"
+  "AgendaLastPublished": "2023-02-02T16:58:20.223Z",
+  "MinutesLastPublished": "2023-02-02T17:00:40.163Z",
+  "LastModified": "2023-02-02T17:00:40.233Z"
 }
