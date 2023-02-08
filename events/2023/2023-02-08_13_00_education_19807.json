@@ -8,10 +8,13 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/2/19807_A_Committee_on_Education_23-02-08_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/2/19807_M_Committee_on_Education_23-02-08_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Higher Education",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_230208-131603.mp4",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_230208-131603.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=19807&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,26 +22,66 @@
       "GUID": "4E2E0BC1-17CA-4715-9066-CAE8DD650D63",
       "Title": "Jointly with the Committee on Higher Education",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "",
-      "LastModified": "2023-01-30T14:40:12.84Z"
+      "LastModified": "2023-02-08T23:18:29.817Z"
     },
     {
       "ID": 390768,
       "GUID": "2D81DB4C-5FB3-465F-831D-B95E45B32BF6",
       "Title": "Oversight - CUNY’s College Preparation Initiatives in Middle and High Schools.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 70788,
       "MatterFile": "T2023-2930",
       "MatterName": "Oversight - CUNY’s College Preparation Initiatives in Middle and High Schools.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-01-30T14:40:30.693Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-02-08T23:18:46.677Z"
+    },
+    {
+      "ID": 391208,
+      "GUID": "1EB6D56F-AB84-4206-B693-B6F9F959F4CB",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "LastModified": "2023-02-08T23:36:28.843Z"
+    },
+    {
+      "ID": 391209,
+      "GUID": "2230BDC2-7F36-4846-AB52-96768D891D87",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending:  Barron and Brewer",
+      "LastModified": "2023-02-08T23:36:46.47Z"
+    },
+    {
+      "ID": 391210,
+      "GUID": "5455C309-0B8B-4B10-A795-739540F46F31",
+      "Title": "Oversight - CUNY’s College Preparation Initiatives in Middle and High Schools.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 70788,
+      "MatterFile": "T2023-2930",
+      "MatterName": "Oversight - CUNY’s College Preparation Initiatives in Middle and High Schools.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2023-02-08T23:18:49.97Z"
     }
   ],
   "AgendaLastPublished": "2023-01-30T14:40:36.217Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-01-30T14:40:36.29Z"
+  "MinutesLastPublished": "2023-02-08T23:36:52.967Z",
+  "LastModified": "2023-02-08T23:36:53.067Z"
 }
