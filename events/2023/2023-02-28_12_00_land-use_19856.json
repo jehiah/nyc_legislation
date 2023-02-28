@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/2/19856_A_Committee_on_Land_Use_23-02-28_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/2/19856_M_Committee_on_Land_Use_23-02-28_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-250-14_230228-121031.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=19856&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,26 +20,66 @@
       "GUID": "E8074BB8-65F3-4B60-9572-BCD6E237C054",
       "Title": "Oversight - Residential Conversion of Commercial Buildings",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 70873,
       "MatterFile": "T2023-3015",
       "MatterName": "Oversight - Residential Conversion of Commercial Buildings",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-02-17T19:20:33.06Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-02-28T17:56:57.19Z"
     },
     {
       "ID": 391470,
       "GUID": "E971C0F5-C713-4770-9753-44F0CE6DF0A1",
       "Title": "The Land Use Committee of the New York City Council will be holding an Oversight Hearing about the conversion of office building to residential units, on February 28, 2023, 12:00 pm, in the Committee Room, on the 14th Floor, at 250 Broadway, New York.  We invite you to testify, in person or online, at the Oversight Hearing or to submit written testimony, through the following link: https://council.nyc.gov/land-use/",
       "AgendaSequence": 2,
+      "MinutesSequence": 0,
+      "Version": "",
+      "LastModified": "2023-02-28T17:56:43.697Z"
+    },
+    {
+      "ID": 391814,
+      "GUID": "97DD6BEC-BD35-49D8-B082-9ED6A6C541FC",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "LastModified": "2023-02-28T22:40:28.04Z"
+    },
+    {
+      "ID": 391815,
+      "GUID": "A5DCAB46-E999-4EF6-ABF9-8EEA91AF9E53",
+      "Title": "Oversight - Residential Conversion of Commercial Buildings",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 70873,
+      "MatterFile": "T2023-3015",
+      "MatterName": "Oversight - Residential Conversion of Commercial Buildings",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2023-02-28T22:41:04.723Z"
+    },
+    {
+      "ID": 391840,
+      "GUID": "783B502C-FABB-4B84-B63A-622CE21C5556",
+      "Title": "",
+      "AgendaSequence": 0,
       "MinutesSequence": 2,
       "Version": "",
-      "LastModified": "2023-02-23T17:46:36.23Z"
+      "MinutesNote": "Other Council Members Attending: Brannan and Brewer",
+      "LastModified": "2023-02-28T22:40:57.893Z"
     }
   ],
   "AgendaLastPublished": "2023-02-23T17:46:41.633Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-02-28T17:10:32.07Z"
+  "MinutesLastPublished": "2023-02-28T22:41:10.79Z",
+  "LastModified": "2023-02-28T22:41:10.837Z"
 }
