@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/3/19890_A_Committee_on_Public_Safety_23-03-01_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/3/19890_M_Committee_on_Public_Safety_23-03-01_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_230301-101936.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=19890&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,17 +20,57 @@
       "GUID": "037CBEDB-EC19-46D3-BA52-1B7BB9B967CB",
       "Title": "Oversight - NYPD’s Strategic Response Group.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 70324,
       "MatterFile": "T2022-2310",
       "MatterName": "Oversight - NYPD’s Strategic Response Group.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-02-28T14:34:41.1Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-03-01T21:19:13.193Z"
+    },
+    {
+      "ID": 391871,
+      "GUID": "D9BB7B3F-7DA5-4F0A-A7A2-66C7B6A1E7E3",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "LastModified": "2023-03-01T21:18:26.427Z"
+    },
+    {
+      "ID": 391872,
+      "GUID": "C3529C57-DF8A-47EE-930C-E2B425795693",
+      "Title": "Oversight - NYPD’s Strategic Response Group.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 70324,
+      "MatterFile": "T2022-2310",
+      "MatterName": "Oversight - NYPD’s Strategic Response Group.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2023-03-01T21:19:36.677Z"
+    },
+    {
+      "ID": 391873,
+      "GUID": "3D62875C-3BB3-4B7E-AA54-B35C279AB3BF",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Aviles, Hanif, Ossé, Won, Gutierrez and Public Advocate Williams.  ",
+      "LastModified": "2023-03-01T21:19:07.743Z"
     }
   ],
   "AgendaLastPublished": "2023-02-08T20:35:05.14Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-03-01T15:19:38.397Z"
+  "MinutesLastPublished": "2023-03-01T21:19:42.03Z",
+  "LastModified": "2023-03-01T21:19:42.28Z"
 }
