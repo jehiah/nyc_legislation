@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/3/19888_A_Committee_on_Contracts_23-03-03_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/3/19888_M_Committee_on_Contracts_23-03-03_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_230303-101000.mp4",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_230303-101000.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=19888&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,17 +21,57 @@
       "GUID": "D023AC86-1867-4685-81B2-C5572C63BD84",
       "Title": "Oversight - Contracting for the Migrant Crisis: Asylum seekers in New York City.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 70910,
       "MatterFile": "T2023-3053",
       "MatterName": "Oversight - Contracting for the Migrant Crisis: Asylum seekers in New York City.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-03-02T16:09:12.217Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-03-03T17:49:54.043Z"
+    },
+    {
+      "ID": 391969,
+      "GUID": "25C1CB42-A8FA-4830-B2AD-542F839A94F8",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "LastModified": "2023-03-03T19:54:53.58Z"
+    },
+    {
+      "ID": 391970,
+      "GUID": "ACC1294D-DB89-4D75-9658-D63FB08827F2",
+      "Title": "Oversight - Contracting for the Migrant Crisis: Asylum seekers in New York City.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 70910,
+      "MatterFile": "T2023-3053",
+      "MatterName": "Oversight - Contracting for the Migrant Crisis: Asylum seekers in New York City.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2023-03-03T19:57:56.33Z"
+    },
+    {
+      "ID": 391971,
+      "GUID": "37CCBAF5-6EE1-4082-8188-044D2D8C7CE2",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Brewer",
+      "LastModified": "2023-03-03T19:55:27.95Z"
     }
   ],
   "AgendaLastPublished": "2023-03-02T16:09:18.903Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-03-03T17:11:47.333Z"
+  "MinutesLastPublished": "2023-03-03T20:06:17.773Z",
+  "LastModified": "2023-03-03T20:06:17.9Z"
 }
