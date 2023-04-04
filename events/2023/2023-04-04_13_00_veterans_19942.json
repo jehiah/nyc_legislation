@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/4/19942_A_Committee_on_Veterans_23-04-04_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/4/19942_M_Committee_on_Veterans_23-04-04_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_230404-130200.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=19942&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,17 +20,47 @@
       "GUID": "DCE074B8-BBFF-4BAA-8311-BE20551F166D",
       "Title": "Oversight - The State of Veterans of Foreign Wars and American Legion Halls, as well as Other Veterans-Services Organizations with Physical Locations.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 70979,
       "MatterFile": "T2023-3122",
       "MatterName": "Oversight - The State of Veterans of Foreign Wars and American Legion Halls, as well as Other Veterans-Services Organizations with Physical Locations.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-03-31T14:55:26.24Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-04-04T19:47:16.043Z"
+    },
+    {
+      "ID": 392718,
+      "GUID": "290AD6FE-A560-4224-A12F-0F07437BFB0D",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "LastModified": "2023-04-04T19:47:12.36Z"
+    },
+    {
+      "ID": 392719,
+      "GUID": "883CA0E9-E636-45C2-A43E-0DBD9D91CFED",
+      "Title": "Oversight - The State of Veterans of Foreign Wars and American Legion Halls, as well as Other Veterans-Services Organizations with Physical Locations.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 70979,
+      "MatterFile": "T2023-3122",
+      "MatterName": "Oversight - The State of Veterans of Foreign Wars and American Legion Halls, as well as Other Veterans-Services Organizations with Physical Locations.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2023-04-04T20:13:48.9Z"
     }
   ],
   "AgendaLastPublished": "2023-04-03T17:38:29.947Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-04-04T17:02:01.71Z"
+  "MinutesLastPublished": "2023-04-04T20:13:56.123Z",
+  "LastModified": "2023-04-04T20:13:56.187Z"
 }
