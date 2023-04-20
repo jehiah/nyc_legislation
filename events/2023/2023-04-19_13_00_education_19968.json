@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/4/19968_A_Committee_on_Education_23-04-19_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/4/19968_M_Committee_on_Education_23-04-19_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_230419-132005.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=19968&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,7 +20,7 @@
       "GUID": "491475E8-935B-492E-95FE-30C3C82CA411",
       "Title": "Oversight - District 79 and Adult Education.",
       "AgendaSequence": 1,
-      "MinutesSequence": 2,
+      "MinutesSequence": 3,
       "Version": "*",
       "ActionID": 54,
       "ActionName": "Hearing Held by Committee",
@@ -28,7 +29,7 @@
       "MatterFile": "T2023-3171",
       "MatterName": "Oversight - District 79 and Adult Education.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Filed",
       "LastModified": "2023-04-19T17:37:07.323Z"
     },
     {
@@ -36,7 +37,7 @@
       "GUID": "29402216-FE8C-4E24-AC3D-D6582800504F",
       "Title": "A Local Law to amend the administrative code of the city of New York in relation to requiring the department of education to stock opioid antagonists in all school buildings",
       "AgendaSequence": 2,
-      "MinutesSequence": 4,
+      "MinutesSequence": 5,
       "Version": "*",
       "ActionID": 54,
       "ActionName": "Hearing Held by Committee",
@@ -45,7 +46,7 @@
       "MatterFile": "Int 0198-2022",
       "MatterName": "Requiring the department of education to stock opioid antagonists in all school buildings.",
       "MatterType": "Introduction",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Laid Over in Committee",
       "LastModified": "2023-04-19T17:37:13.887Z"
     },
     {
@@ -53,7 +54,7 @@
       "GUID": "D5E076BE-0161-46F1-8A33-BD97B962490B",
       "Title": "Resolution calling upon the Mayor's office and New York City Department of Education to recognize and observe the important Sikh holiday, Vaisakhi, on April 13 each year.",
       "AgendaSequence": 3,
-      "MinutesSequence": 6,
+      "MinutesSequence": 7,
       "Version": "*",
       "ActionID": 54,
       "ActionName": "Hearing Held by Committee",
@@ -62,7 +63,7 @@
       "MatterFile": "Res 0083-2022",
       "MatterName": "Mayor's office and NYC DOE to recognize and observe the important Sikh holiday, Vaisakhi, on April 13 each year.",
       "MatterType": "Resolution",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Laid Over in Committee",
       "LastModified": "2023-04-19T17:37:18.41Z"
     },
     {
@@ -73,52 +74,71 @@
       "MinutesSequence": 1,
       "Version": "",
       "RollCallFlag": 1,
-      "LastModified": "2023-04-19T17:37:03.45Z"
+      "LastModified": "2023-04-20T13:44:41.88Z"
     },
     {
       "ID": 393168,
       "GUID": "308B25EC-4A7A-490F-A18D-4E51E999CD88",
       "Title": "Oversight - District 79 and Adult Education.",
       "AgendaSequence": 0,
-      "MinutesSequence": 3,
+      "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
       "MatterID": 71027,
       "MatterFile": "T2023-3171",
       "MatterName": "Oversight - District 79 and Adult Education.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-04-19T17:36:51.663Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-04-20T13:45:00.75Z"
     },
     {
       "ID": 393169,
       "GUID": "0F1A49C8-F15B-454E-8136-782908E66517",
       "Title": "A Local Law to amend the administrative code of the city of New York in relation to requiring the department of education to stock opioid antagonists in all school buildings",
       "AgendaSequence": 0,
-      "MinutesSequence": 5,
+      "MinutesSequence": 6,
       "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
       "MatterID": 68582,
       "MatterFile": "Int 0198-2022",
       "MatterName": "Requiring the department of education to stock opioid antagonists in all school buildings.",
       "MatterType": "Introduction",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-04-19T17:36:54.227Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-04-20T13:45:04.053Z"
     },
     {
       "ID": 393170,
       "GUID": "723F19FA-9551-474A-89BA-23CBE54941A8",
       "Title": "Resolution calling upon the Mayor's office and New York City Department of Education to recognize and observe the important Sikh holiday, Vaisakhi, on April 13 each year.",
       "AgendaSequence": 0,
-      "MinutesSequence": 7,
+      "MinutesSequence": 8,
       "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
       "MatterID": 67470,
       "MatterFile": "Res 0083-2022",
       "MatterName": "Mayor's office and NYC DOE to recognize and observe the important Sikh holiday, Vaisakhi, on April 13 each year.",
       "MatterType": "Resolution",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-04-19T17:36:56.69Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-04-20T13:46:00.673Z"
+    },
+    {
+      "ID": 393190,
+      "GUID": "1CEC3508-91BD-4E38-B6AB-27D000E58D80",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Salamanca",
+      "LastModified": "2023-04-20T13:44:56.3Z"
     }
   ],
   "AgendaLastPublished": "2023-04-18T22:58:37.49Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-04-19T20:27:08.887Z"
+  "MinutesLastPublished": "2023-04-20T13:46:05.367Z",
+  "LastModified": "2023-04-20T13:46:05.43Z"
 }
