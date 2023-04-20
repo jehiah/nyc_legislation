@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/4/19939_A_Committee_on_Higher_Education_23-04-20_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/4/19939_M_Committee_on_Higher_Education_23-04-20_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_230420-130654.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=19939&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,17 +20,47 @@
       "GUID": "12FEAA04-2E6C-4A31-ADE2-4467AD738D69",
       "Title": "Oversight - CUNY’s Accelerated Study in Associate Programs Initiative.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 71050,
       "MatterFile": "T2023-3194",
       "MatterName": "Oversight - CUNY’s Accelerated Study in Associate Programs Initiative.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-04-14T18:14:07.273Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-04-20T20:52:40.98Z"
+    },
+    {
+      "ID": 393226,
+      "GUID": "B348EC54-6EBF-404C-A9A6-E34057B03C26",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "LastModified": "2023-04-20T20:52:31.903Z"
+    },
+    {
+      "ID": 393227,
+      "GUID": "44D3FBAD-B2C4-4749-911E-2C977F327D84",
+      "Title": "Oversight - CUNY’s Accelerated Study in Associate Programs Initiative.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 71050,
+      "MatterFile": "T2023-3194",
+      "MatterName": "Oversight - CUNY’s Accelerated Study in Associate Programs Initiative.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2023-04-20T20:52:46.853Z"
     }
   ],
   "AgendaLastPublished": "2023-03-24T20:11:10.163Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-04-20T17:06:55.777Z"
+  "MinutesLastPublished": "2023-04-20T20:52:52.823Z",
+  "LastModified": "2023-04-20T20:52:52.943Z"
 }
