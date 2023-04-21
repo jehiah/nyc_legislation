@@ -8,11 +8,13 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/4/19985_A_Committee_on_Public_Housing_23-04-20_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/4/19985_M_Committee_on_Public_Housing_23-04-20_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Civil Service and Labor.",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_230420-131134.mp4",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_230420-131134.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=19985&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -20,26 +22,66 @@
       "GUID": "0E2DC871-516B-4CA4-B733-696C1DB2D0EE",
       "Title": "Oversight - Resident Hiring and Section 3 Requirements.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 71080,
       "MatterFile": "T2023-3224",
       "MatterName": "Oversight - Resident Hiring and Section 3 Requirements.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-04-14T18:15:26.5Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-04-21T15:24:35.597Z"
     },
     {
       "ID": 392650,
       "GUID": "461B1DA8-37A4-4C7F-BC39-1EBF30D25F36",
       "Title": "Jointly with the Committee on Civil Service and Labor",
       "AgendaSequence": 2,
+      "MinutesSequence": 5,
+      "Version": "",
+      "LastModified": "2023-04-21T15:23:10.99Z"
+    },
+    {
+      "ID": 393250,
+      "GUID": "63E1C26B-053D-4A44-9975-E7AD079F71C1",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "LastModified": "2023-04-21T15:23:43Z"
+    },
+    {
+      "ID": 393251,
+      "GUID": "FB2CDE10-E7FB-485E-B77D-5454CEEE048B",
+      "Title": "Oversight - Resident Hiring and Section 3 Requirements.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 71080,
+      "MatterFile": "T2023-3224",
+      "MatterName": "Oversight - Resident Hiring and Section 3 Requirements.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2023-04-21T15:24:41.777Z"
+    },
+    {
+      "ID": 393252,
+      "GUID": "D36D5AC1-890C-4EA0-9473-E2485D6C342E",
+      "Title": "",
+      "AgendaSequence": 0,
       "MinutesSequence": 2,
       "Version": "",
-      "LastModified": "2023-03-29T18:48:45.307Z"
+      "MinutesNote": "Other Council Members Attending: Kagan, Brewer, Moya, Feliz, Bottcher, Cabán, Hanks, Joseph, Menin and Nurse",
+      "LastModified": "2023-04-21T15:24:30.883Z"
     }
   ],
   "AgendaLastPublished": "2023-03-29T18:48:51.27Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-04-20T20:52:36.443Z"
+  "MinutesLastPublished": "2023-04-21T15:24:48.88Z",
+  "LastModified": "2023-04-21T15:24:49.197Z"
 }
