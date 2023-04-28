@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/4/20070_A_City_Council_23-04-27_Council_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/4/20070_M_City_Council_23-04-27_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_230427-142154.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20070&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -59,7 +60,8 @@
       "AgendaNumber": "4.",
       "Version": "",
       "AgendaNote": "MESSAGES & PAPERS FROM THE MAYOR - None",
-      "LastModified": "2023-04-27T20:53:19.713Z"
+      "MinutesNote": "None",
+      "LastModified": "2023-04-28T00:54:15.42Z"
     },
     {
       "ID": 393395,
@@ -70,8 +72,8 @@
       "AgendaNumber": "5.",
       "Version": "",
       "AgendaNote": "COMMUNICATIONS FROM CITY, COUNTY & BOROUGH OFFICES - None",
-      "MinutesNote": "None.",
-      "LastModified": "2023-04-27T16:25:36.283Z"
+      "MinutesNote": "None",
+      "LastModified": "2023-04-28T00:54:19.29Z"
     },
     {
       "ID": 393396,
@@ -82,8 +84,8 @@
       "AgendaNumber": "6.",
       "Version": "",
       "AgendaNote": "PETITIONS AND COMMUNICATIONS - None",
-      "MinutesNote": "None.",
-      "LastModified": "2023-04-27T16:25:43.09Z"
+      "MinutesNote": "None",
+      "LastModified": "2023-04-28T00:54:22.363Z"
     },
     {
       "ID": 393397,
@@ -94,8 +96,8 @@
       "AgendaNumber": "7.",
       "Version": "",
       "AgendaNote": "LAND USE CALL-UPS – None",
-      "MinutesNote": "None.",
-      "LastModified": "2023-04-27T16:46:55.113Z"
+      "MinutesNote": "None",
+      "LastModified": "2023-04-28T00:54:24.95Z"
     },
     {
       "ID": 393398,
@@ -117,7 +119,7 @@
       "AgendaNumber": "9.",
       "Version": "",
       "AgendaNote": "DISCUSSION OF GENERAL ORDERS",
-      "LastModified": "2023-04-27T15:34:52.187Z"
+      "LastModified": "2023-04-28T00:54:26.88Z"
     },
     {
       "ID": 393400,
@@ -128,8 +130,8 @@
       "AgendaNumber": "10.",
       "Version": "",
       "AgendaNote": "REPORTS OF SPECIAL COMMITTEES - None",
-      "MinutesNote": "None.",
-      "LastModified": "2023-04-27T16:25:58.467Z"
+      "MinutesNote": "None",
+      "LastModified": "2023-04-28T00:54:32.33Z"
     },
     {
       "ID": 393401,
@@ -181,9 +183,10 @@
       "MinutesSequence": 94,
       "Version": "*",
       "AgendaNote": "Adopted by the Committee on Cultural Affairs, Libraries and International Intergroup Relations",
-      "MinutesNote": "Pursuant to Rule 8.50 of the Council, Majority Leader and Acting President Pro Tempore (Council Member Powers) called for a voice vote.  Hearing those in favor, the Majority Leader and Acting President Pro Tempore (Council Member Powers) declared the Resolution to be adopted.\r\n\r\n\r\n\r\nThe following 2 Council Members formally noted their intention to vote negative against this item:  \r\n\r\nCouncil Members Hanif and Nurse.\r\n\r\n\r\n\r\n\r\nThe following 4 Council Members formally noted their intention to abstain from voting on this item:  \r\n\r\nCouncil Members  Aviles, Barron, Gutierrez, and Joseph.\r\n\r\n\r\nAdopted by the Council by voice-vote.\r\n",
+      "MinutesNote": "Pursuant to Rule 8.50 of the Council, Majority Leader and Acting President Pro Tempore (Council Member Powers) called for a voice vote.  Hearing those in favor, the Majority Leader and Acting President Pro Tempore (Council Member Powers) declared the Resolution to be adopted.\r\n\r\nThe following 2 Council Members formally noted their intention to vote negative against this item:  \r\nCouncil Members Hanif and Nurse.\r\n\r\nThe following 4 Council Members formally noted their intention to abstain from voting on this item:  \r\nCouncil Members  Aviles, Barron, Gutierrez, and Joseph.\r\n\r\nAdopted by the Council by voice-vote.\r\n",
       "ActionID": 5032,
       "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by voice vote.",
       "PassedFlag": 1,
       "PassedFlagName": "Pass",
       "MatterID": 70694,
@@ -191,7 +194,7 @@
       "MatterName": "Recognizing April 29 as End Jew Hatred Day annually in the City of New York.",
       "MatterType": "Resolution",
       "MatterStatus": "Adopted",
-      "LastModified": "2023-04-27T20:45:27.94Z"
+      "LastModified": "2023-04-28T01:09:40.923Z"
     },
     {
       "ID": 393410,
@@ -211,12 +214,17 @@
       "MinutesSequence": 17,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 71183,
       "MatterFile": "Res 0575-2023",
       "MatterName": "Approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget.",
       "MatterType": "Resolution",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-04-27T20:28:43.24Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-04-28T00:55:18.193Z"
     },
     {
       "ID": 393413,
@@ -237,7 +245,7 @@
       "MatterName": "LU 192 - 834 Riverside Drive HDFC.GHPP.FY23, Block 2136, Lot 18, Manhattan, Community District No. 12, Council District No. 7.",
       "MatterType": "Resolution",
       "MatterStatus": "Adopted",
-      "LastModified": "2023-04-27T20:33:36.353Z"
+      "LastModified": "2023-04-28T00:55:54.627Z"
     },
     {
       "ID": 393414,
@@ -258,7 +266,7 @@
       "MatterName": "LU 193 - Taino Towers, Block 1787, Lots 1, 60, 70, 80, Manhattan, Community District No. 11, Council District No. 8.",
       "MatterType": "Resolution",
       "MatterStatus": "Adopted",
-      "LastModified": "2023-04-27T20:33:36.363Z"
+      "LastModified": "2023-04-28T00:56:43.003Z"
     },
     {
       "ID": 393415,
@@ -279,7 +287,7 @@
       "MatterName": "LU 194 - Taino Towers-Building 1, Block 1787, Lot 60, Manhattan, Community District No. 11, Council District No. 8.",
       "MatterType": "Resolution",
       "MatterStatus": "Adopted",
-      "LastModified": "2023-04-27T20:33:36.377Z"
+      "LastModified": "2023-04-28T00:57:17.387Z"
     },
     {
       "ID": 393416,
@@ -300,7 +308,7 @@
       "MatterName": "LU 195 - Taino Towers-Building 2, Block 1787, Lot 1, Manhattan, Community District No. 11, Council District No. 8.",
       "MatterType": "Resolution",
       "MatterStatus": "Adopted",
-      "LastModified": "2023-04-27T20:33:36.39Z"
+      "LastModified": "2023-04-28T00:57:47.753Z"
     },
     {
       "ID": 393417,
@@ -321,7 +329,7 @@
       "MatterName": "LU 196 - Taino Towers-Building 3, Block 1787, Lot 80, Manhattan, Community District No. 11, Council District No. 8.",
       "MatterType": "Resolution",
       "MatterStatus": "Adopted",
-      "LastModified": "2023-04-27T20:33:36.4Z"
+      "LastModified": "2023-04-28T00:58:23.297Z"
     },
     {
       "ID": 393418,
@@ -342,7 +350,7 @@
       "MatterName": "LU 197 - Taino Towers-Building 4, Block 1787, Lot 70, Manhattan, Community District No. 11, Council District No. 8.",
       "MatterType": "Resolution",
       "MatterStatus": "Adopted",
-      "LastModified": "2023-04-27T20:33:36.413Z"
+      "LastModified": "2023-04-28T00:58:54.22Z"
     },
     {
       "ID": 393419,
@@ -363,7 +371,7 @@
       "MatterName": "LU 198 - West 148th Street Heighliner Portfolio.HPO.FY23, Block 2034, Lot 29, Manhattan, Community District No. 10, Council District No. 9.",
       "MatterType": "Resolution",
       "MatterStatus": "Adopted",
-      "LastModified": "2023-04-27T20:33:36.427Z"
+      "LastModified": "2023-04-28T00:59:25.873Z"
     },
     {
       "ID": 393420,
@@ -384,7 +392,7 @@
       "MatterName": "LU 199 - St. Matthew & St. Timothy's Apartments, Block 1213, Lot 42, Manhattan, Community District No. 7, Council District No. 6.",
       "MatterType": "Resolution",
       "MatterStatus": "Adopted",
-      "LastModified": "2023-04-27T20:33:36.437Z"
+      "LastModified": "2023-04-28T00:59:56.667Z"
     },
     {
       "ID": 393421,
@@ -415,7 +423,7 @@
       "MatterName": "Creation and distribution of a statement of rights for persons experiencing homelessness and residing in shelter.",
       "MatterType": "Introduction",
       "MatterStatus": "Enacted (Mayor's Desk for Signature)",
-      "LastModified": "2023-04-27T20:33:36.473Z"
+      "LastModified": "2023-04-28T01:00:37.953Z"
     },
     {
       "ID": 393423,
@@ -436,7 +444,7 @@
       "MatterName": "Receipt of rental assistance payments.",
       "MatterType": "Introduction",
       "MatterStatus": "Enacted (Mayor's Desk for Signature)",
-      "LastModified": "2023-04-27T20:33:36.483Z"
+      "LastModified": "2023-04-28T01:00:46.05Z"
     },
     {
       "ID": 393424,
@@ -467,7 +475,7 @@
       "MatterName": "Eliminating certain outdated and unnecessary temporary programs and pilot programs, unconstitutional provisions and other outdated and unnecessary provisions.",
       "MatterType": "Introduction",
       "MatterStatus": "Enacted (Mayor's Desk for Signature)",
-      "LastModified": "2023-04-27T20:33:36.49Z"
+      "LastModified": "2023-04-28T01:00:58.957Z"
     },
     {
       "ID": 393426,
@@ -488,7 +496,7 @@
       "MatterName": "Eliminating certain outdated and unnecessary advisory boards, task forces and commissions.",
       "MatterType": "Introduction",
       "MatterStatus": "Enacted (Mayor's Desk for Signature)",
-      "LastModified": "2023-04-27T20:33:36.497Z"
+      "LastModified": "2023-04-28T01:01:07.89Z"
     },
     {
       "ID": 393427,
@@ -509,7 +517,7 @@
       "MatterName": "Eliminating certain reporting requirements selected for waiver by the report and advisory board review commission and amending certain outdated and unnecessary reports and studies.",
       "MatterType": "Introduction",
       "MatterStatus": "Enacted (Mayor's Desk for Signature)",
-      "LastModified": "2023-04-27T20:33:36.503Z"
+      "LastModified": "2023-04-28T01:01:18.253Z"
     },
     {
       "ID": 393428,
@@ -519,9 +527,10 @@
       "MinutesSequence": 95,
       "Version": "*",
       "AgendaNote": "Adopted by the Committee on Governmental Operations",
-      "MinutesNote": "Pursuant to Rule 8.50 of the Council, the Majority Leader and Acting President Pro Tempore (Council Member Powers) called for a voice vote.  Hearing no objections, the Majority Leader and Acting President Pro Tempore (Council Member Powers) declared the Resolution to be adopted.\r\n\r\n\r\nAdopted unanimously by the Council by voice-vote.\r\n",
+      "MinutesNote": "Pursuant to Rule 8.50 of the Council, the Majority Leader and Acting President Pro Tempore (Council Member Powers) called for a voice vote.  Hearing no objections, the Majority Leader and Acting President Pro Tempore (Council Member Powers) declared the Resolution to be adopted.\r\n\r\nAdopted unanimously by the Council by voice-vote.\r\n",
       "ActionID": 5032,
       "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by voice vote.",
       "PassedFlag": 1,
       "PassedFlagName": "Pass",
       "MatterID": 71032,
@@ -529,7 +538,7 @@
       "MatterName": "Approving the Report and Advisory Board Review Commission’s determination recommending waiver of eight reporting requirements that was communicated to the City Council on January 24, 2023.",
       "MatterType": "Resolution",
       "MatterStatus": "Adopted",
-      "LastModified": "2023-04-27T20:37:32.643Z"
+      "LastModified": "2023-04-28T01:09:50.62Z"
     },
     {
       "ID": 393429,
@@ -643,7 +652,7 @@
       "MatterName": "Installation of traffic calming devices in senior pedestrian zones.",
       "MatterType": "Introduction",
       "MatterStatus": "Enacted (Mayor's Desk for Signature)",
-      "LastModified": "2023-04-27T20:33:36.537Z"
+      "LastModified": "2023-04-28T01:06:46.84Z"
     },
     {
       "ID": 393436,
@@ -677,6 +686,7 @@
       "MinutesNote": "Pursuant to Rule 8.50 of the Council, the Majority Leader and Acting President Pro Tempore (Council Member Powers) called for a voice vote.  Hearing no objections, the Majority Leader and Acting President Pro Tempore (Council Member Powers) declared the Resolution to be adopted.\r\n\r\nAdopted unanimously by the Council by voice-vote.\r\n",
       "ActionID": 5032,
       "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by voice vote.",
       "PassedFlag": 1,
       "PassedFlagName": "Pass",
       "MatterID": 70564,
@@ -684,7 +694,7 @@
       "MatterName": "NYS Legislature and Governor to fully fund the Metropolitan Transportation Authority (MTA) in the State’s upcoming Fiscal Year 2024 Budget.",
       "MatterType": "Resolution",
       "MatterStatus": "Adopted",
-      "LastModified": "2023-04-27T20:36:51.903Z"
+      "LastModified": "2023-04-28T01:09:34.953Z"
     },
     {
       "ID": 393438,
@@ -772,7 +782,7 @@
       "MatterName": "Allowing charitable organizations to conduct games of chance at professional sporting venues, and to repeal subdivision 8 of section 20-435 of such code, which defines the term “Prize.”",
       "MatterType": "Introduction",
       "MatterStatus": "Enacted (Mayor's Desk for Signature)",
-      "LastModified": "2023-04-27T15:34:52.35Z"
+      "LastModified": "2023-04-28T01:08:24.977Z"
     },
     {
       "ID": 393450,
@@ -798,7 +808,7 @@
       "MatterFile": "Res 0575-2023",
       "MatterName": "Approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget.",
       "MatterType": "Resolution",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-04-27T15:34:52.36Z"
     },
     {
@@ -1344,7 +1354,7 @@
       "MatterFile": "Res 0575-2023",
       "MatterName": "Approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget.",
       "MatterType": "Resolution",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-04-27T16:28:07.717Z"
     },
     {
@@ -2276,7 +2286,7 @@
       "MatterName": "834 Riverside Drive HDFC.GHPP.FY23, Block 2136, Lot 18, Manhattan, Community District No. 12, Council District No. 7.",
       "MatterType": "Land Use Application",
       "MatterStatus": "Adopted",
-      "LastModified": "2023-04-27T20:33:55.66Z"
+      "LastModified": "2023-04-28T00:55:44.583Z"
     },
     {
       "ID": 393622,
@@ -2296,7 +2306,7 @@
       "MatterName": "Taino Towers, Block 1787, Lots 1, 60, 70, 80, Manhattan, Community District No. 11, Council District No. 8.",
       "MatterType": "Land Use Application",
       "MatterStatus": "Adopted",
-      "LastModified": "2023-04-27T20:33:36.36Z"
+      "LastModified": "2023-04-28T00:56:31.903Z"
     },
     {
       "ID": 393623,
@@ -2316,7 +2326,7 @@
       "MatterName": "Taino Towers-Building 1, Block 1787, Lot 60, Manhattan, Community District No. 11, Council District No. 8.",
       "MatterType": "Land Use Application",
       "MatterStatus": "Adopted",
-      "LastModified": "2023-04-27T20:33:36.37Z"
+      "LastModified": "2023-04-28T00:57:05.55Z"
     },
     {
       "ID": 393624,
@@ -2336,7 +2346,7 @@
       "MatterName": "Taino Towers-Building 2, Block 1787, Lot 1, Manhattan, Community District No. 11, Council District No. 8.",
       "MatterType": "Land Use Application",
       "MatterStatus": "Adopted",
-      "LastModified": "2023-04-27T20:33:36.38Z"
+      "LastModified": "2023-04-28T00:57:37.993Z"
     },
     {
       "ID": 393625,
@@ -2356,7 +2366,7 @@
       "MatterName": "Taino Towers-Building 3, Block 1787, Lot 80, Manhattan, Community District No. 11, Council District No. 8.",
       "MatterType": "Land Use Application",
       "MatterStatus": "Adopted",
-      "LastModified": "2023-04-27T20:33:36.397Z"
+      "LastModified": "2023-04-28T00:58:14.65Z"
     },
     {
       "ID": 393626,
@@ -2376,7 +2386,7 @@
       "MatterName": "Taino Towers-Building 4, Block 1787, Lot 70, Manhattan, Community District No. 11, Council District No. 8.",
       "MatterType": "Land Use Application",
       "MatterStatus": "Adopted",
-      "LastModified": "2023-04-27T20:33:36.407Z"
+      "LastModified": "2023-04-28T00:58:44.523Z"
     },
     {
       "ID": 393627,
@@ -2396,7 +2406,7 @@
       "MatterName": "West 148th Street Heighliner Portfolio.HPO.FY23, Block 2034, Lot 29, Manhattan, Community District No. 10, Council District No. 9.",
       "MatterType": "Land Use Application",
       "MatterStatus": "Adopted",
-      "LastModified": "2023-04-27T20:33:36.42Z"
+      "LastModified": "2023-04-28T00:59:17.18Z"
     },
     {
       "ID": 393628,
@@ -2416,7 +2426,7 @@
       "MatterName": "St. Matthew & St. Timothy's Apartments, Block 1213, Lot 42, Manhattan, Community District No. 7, Council District No. 6.",
       "MatterType": "Land Use Application",
       "MatterStatus": "Adopted",
-      "LastModified": "2023-04-27T20:33:36.43Z"
+      "LastModified": "2023-04-28T00:59:46.973Z"
     },
     {
       "ID": 393629,
@@ -2515,8 +2525,8 @@
       "AgendaSequence": 0,
       "MinutesSequence": 152,
       "Version": "",
-      "MinutesNote": "Whereupon on motion of the Speaker (Council Member Adams), the Majority Leader and Acting President Pro Tempore (Council Member Powers) adjourned these proceedings to meet again for the Stated Meeting of Thursday, May 11, 2023.\r\n\r\n\r\n\r\n\r\nMICHAEL M. McSWEENEY, City Clerk\r\n\r\nClerk of the Council",
-      "LastModified": "2023-04-27T20:33:36.58Z"
+      "MinutesNote": "Whereupon on motion of the Speaker (Council Member Adams), the Majority Leader and Acting President Pro Tempore (Council Member Powers) adjourned these proceedings to meet again for the Stated Meeting of Thursday, May 11, 2023.\r\n\r\nMICHAEL M. McSWEENEY, City Clerk\r\nClerk of the Council",
+      "LastModified": "2023-04-28T01:10:35.81Z"
     },
     {
       "ID": 393639,
@@ -2535,8 +2545,8 @@
       "AgendaSequence": 0,
       "MinutesSequence": 89,
       "Version": "",
-      "MinutesNote": "The following files were removed from the General Orders Calendar and voted separately:\r\n\r\nInt. No. 273-B, VOTE: 42-5-0\r\nNegative: CMs Aviles, Barron, Gutierrez, Hanif, and Nurse.\r\n\r\nInt. No. 854-A,  VOTE: 40-7-0\r\nNegative: CMs Ariola, Carr, Kagan, Paladino, Vernikov, Yeger, and the Minority Leader (Council Member Borelli)\r\n\r\nL.U. No. 181 & Res. No. 603,  VOTE: 46-1-0\r\nNegative: CM Barron.\r\n\r\n\r\nSee files for individual votes.",
-      "LastModified": "2023-04-27T20:55:29.25Z"
+      "MinutesNote": "The following files were removed from the General Orders Calendar and voted separately:\r\n\r\nInt. No. 273-B, VOTE: 42-5-0\r\nNegative: CMs Aviles, Barron, Gutierrez, Hanif, and Nurse.\r\n\r\nInt. No. 854-A,  VOTE: 40-7-0\r\nNegative: CMs Ariola, Carr, Kagan, Paladino, Vernikov, Yeger, and the Minority Leader (Council Member Borelli)\r\n\r\nL.U. No. 181 & Res. No. 603,  VOTE: 46-1-0\r\nNegative: CM Barron.\r\n\r\nSee files for individual votes.",
+      "LastModified": "2023-04-28T01:08:46.033Z"
     },
     {
       "ID": 393649,
@@ -2553,6 +2563,6 @@
     }
   ],
   "AgendaLastPublished": "2023-04-27T15:43:45.933Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-04-27T19:57:57.343Z"
+  "MinutesLastPublished": "2023-04-28T01:10:45.257Z",
+  "LastModified": "2023-04-28T01:10:45.41Z"
 }
