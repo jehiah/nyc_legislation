@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/5/20099_A_City_Council_23-05-11_Council_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/5/20099_M_City_Council_23-05-11_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_230511-145243.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20099&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -22,7 +24,8 @@
       "AgendaNumber": "1.",
       "Version": "",
       "AgendaNote": "ROLL CALL",
-      "LastModified": "2023-05-11T16:12:25.517Z"
+      "RollCallFlag": 1,
+      "LastModified": "2023-05-11T20:27:59.433Z"
     },
     {
       "ID": 393914,
@@ -33,8 +36,8 @@
       "AgendaNumber": "2.",
       "Version": "",
       "AgendaNote": "INVOCATION - Delivered by: Dr. Hamud Alsilwi, Bronx Muslim Center located at 702 Rhinelander Ave, Bronx, NY 10462.\r\n\r\nMotion to spread the Invocation in full upon the record by Council Member Velázquez.",
-      "MinutesNote": "The Invocation was delivered by Dr. Hamud Alsilwi, Bronx Muslim Center at 702 Rhinelander Avenue, The Bronx, N.Y. 10462.\r\n\r\n\r\nCouncil Member Velaquez moved to spread the Invocation in full upon the Record.",
-      "LastModified": "2023-05-11T16:38:39.2Z"
+      "MinutesNote": "The Invocation was delivered by Dr. Hamud Alsilwi, Bronx Muslim Center at 702 Rhinelander Avenue, The Bronx, N.Y. 10462.\r\n\r\nCouncil Member Velázquez moved to spread the Invocation in full upon the Record.",
+      "LastModified": "2023-05-11T19:05:40.22Z"
     },
     {
       "ID": 393915,
@@ -57,7 +60,7 @@
       "AgendaNumber": "4.",
       "Version": "",
       "AgendaNote": "MESSAGES & PAPERS FROM THE MAYOR",
-      "LastModified": "2023-05-11T16:12:25.52Z"
+      "LastModified": "2023-05-11T19:06:04.433Z"
     },
     {
       "ID": 393917,
@@ -213,13 +216,13 @@
       "AgendaNote": "Received, Ordered, Printed and Filed",
       "ActionID": 34,
       "ActionName": "Rcvd, Ord, Prnt, Fld by Council",
-      "ActionText": "This Mayor's Message was Rcvd, Ord, Prnt, Fld by Council",
+      "ActionText": "This Mayor's Message was Received, Ordered, Printed and Filed by Council.",
       "MatterID": 71291,
       "MatterFile": "M 0140-2023",
       "MatterName": "Submitting Certificate setting forth the maximum amount of debt and reserves which the City, and the NYC Municipal Water Finance Authority, may soundly incur for capital projects for FY'24 and the ensuing 3 fiscal years.",
       "MatterType": "Mayor's Message",
       "MatterStatus": "Received, Ordered, Printed and Filed",
-      "LastModified": "2023-05-11T16:17:42.31Z"
+      "LastModified": "2023-05-11T19:07:12.553Z"
     },
     {
       "ID": 393926,
@@ -349,8 +352,8 @@
       "AgendaNumber": "6.",
       "Version": "",
       "AgendaNote": "PETITIONS AND COMMUNICATIONS - None",
-      "MinutesNote": "None.",
-      "LastModified": "2023-05-11T16:13:17.327Z"
+      "MinutesNote": "None",
+      "LastModified": "2023-05-11T19:21:02.797Z"
     },
     {
       "ID": 393934,
@@ -361,8 +364,8 @@
       "AgendaNumber": "7.",
       "Version": "",
       "AgendaNote": "LAND USE CALL-UPS – None",
-      "MinutesNote": "None.",
-      "LastModified": "2023-05-11T16:12:54.927Z"
+      "MinutesNote": "None",
+      "LastModified": "2023-05-11T19:21:05.05Z"
     },
     {
       "ID": 393935,
@@ -373,7 +376,7 @@
       "AgendaNumber": "8.",
       "Version": "",
       "AgendaNote": "COMMUNICATION FROM THE SPEAKER",
-      "LastModified": "2023-05-11T16:12:25.56Z"
+      "LastModified": "2023-05-11T19:21:06.537Z"
     },
     {
       "ID": 393936,
@@ -384,7 +387,7 @@
       "AgendaNumber": "9.",
       "Version": "",
       "AgendaNote": "DISCUSSION OF GENERAL ORDERS",
-      "LastModified": "2023-05-11T16:12:25.563Z"
+      "LastModified": "2023-05-11T19:21:07.513Z"
     },
     {
       "ID": 393937,
@@ -395,8 +398,8 @@
       "AgendaNumber": "10.",
       "Version": "",
       "AgendaNote": "REPORTS OF SPECIAL COMMITTEES - None",
-      "MinutesNote": "None.",
-      "LastModified": "2023-05-11T16:13:04.35Z"
+      "MinutesNote": "None",
+      "LastModified": "2023-05-11T19:21:10.283Z"
     },
     {
       "ID": 393938,
@@ -427,12 +430,17 @@
       "MinutesSequence": 30,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 68854,
       "MatterFile": "Int 0209-2022",
       "MatterName": "Prohibiting discrimination on the basis of a person’s height or weight in employment, housing, and public accommodations.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-05-11T16:12:25.57Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-05-11T20:32:57.96Z"
     },
     {
       "ID": 393944,
@@ -452,12 +460,18 @@
       "MinutesSequence": 32,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 69743,
       "MatterFile": "Int 0589-2022",
       "MatterName": "Reporting on medical care and outcomes for incarcerated pregnant persons in the custody of the department of correction.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-05-11T16:12:25.573Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-05-11T22:29:46.97Z"
     },
     {
       "ID": 393946,
@@ -467,27 +481,38 @@
       "MinutesSequence": 33,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 70264,
       "MatterFile": "Int 0806-2022",
       "MatterName": "Establishment of a comprehensive jail population review program.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-05-11T16:12:25.573Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-05-11T20:35:08.947Z"
     },
     {
       "ID": 393947,
       "GUID": "55F579A3-C4AA-4720-A0B0-D6A61F7F87AE",
       "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign the Treatment Not Jail Act (S1976A/A1263A), which would amend Criminal Procedure Law Article 216 of the judicial diversion law in order to expand eligibility for treatment for court-involved individuals and shift the presumption from incarceration to community support",
       "AgendaSequence": 93,
-      "MinutesSequence": 108,
+      "MinutesSequence": 109,
       "Version": "A",
       "AgendaNote": "Amended and Adopted by the Committee on Criminal Justice",
+      "MinutesNote": "Pursuant to Rule 8.50 of the Council, the Majority Leader and Acting President Pro Tempore (Council Member Powers) called for a voice vote.  Hearing those in favor, the Majority Leader and Acting President Pro Tempore (Council Member Powers) declared the Resolution to be adopted.\r\n\r\nThe following 7 Council Members formally noted their intention to vote negative against this item:\r\n\r\nCouncil Members Ariola, Carr, Holden, Kagan, Paladino, Yeger, and the Minority Leader (Council Member Borelli).\r\n\r\nAdopted by the Council by voice-vote.\r\n ",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by voice vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 69086,
       "MatterFile": "Res 0156-2022",
       "MatterName": "Treatment Not Jail Act (S1976A/A1263A)",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-05-11T16:12:25.673Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-05-11T22:35:09.333Z"
     },
     {
       "ID": 393948,
@@ -507,12 +532,18 @@
       "MinutesSequence": 35,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 69857,
       "MatterFile": "Int 0644-2022",
       "MatterName": "Requiring the department of education to provide information on establishing afterschool programs.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-05-11T16:12:25.573Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-05-11T20:57:52.533Z"
     },
     {
       "ID": 393950,
@@ -522,12 +553,18 @@
       "MinutesSequence": 36,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 70056,
       "MatterFile": "Int 0725-2022",
       "MatterName": "Requiring the department of education to create a website for schools to list surplus school supplies to be claimed for use by other schools.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-05-11T16:12:25.577Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-05-11T20:57:52.54Z"
     },
     {
       "ID": 393951,
@@ -537,27 +574,39 @@
       "MinutesSequence": 37,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 70577,
       "MatterFile": "Int 0868-2022",
       "MatterName": "Requiring the department of education to report on the number of District 75 students and the criteria used to determine the location of District 75 schools.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-05-11T16:12:25.577Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-05-11T20:57:52.547Z"
     },
     {
       "ID": 393952,
       "GUID": "E833EB65-113D-4515-A7B6-55A740586109",
       "Title": "Resolution calling upon the New York City Department of Education to carry out instruction in bicycle safety in all New York City schools.",
       "AgendaSequence": 92,
-      "MinutesSequence": 107,
+      "MinutesSequence": 108,
       "Version": "*",
       "AgendaNote": "Adopted by the Committee on Education",
+      "MinutesNote": "Pursuant to Rule 8.50 of the Council, the Majority Leader and Acting President Pro Tempore (Council Member Powers) called for a voice vote.  Hearing no objections, the Majority Leader and Acting President Pro Tempore (Council Member Powers) declared the Resolution to be adopted.\r\n\r\nAdopted unanimously by the Council by voice-vote.\r\n",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by voice vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 68549,
       "MatterFile": "Res 0129-2022",
       "MatterName": "NYC Department of Education to carry out instruction in bicycle safety in all NYC schools.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-05-11T16:12:25.673Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-05-11T22:34:44.477Z"
     },
     {
       "ID": 393956,
@@ -577,12 +626,18 @@
       "MinutesSequence": 39,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71334,
       "MatterFile": "Res 0607-2023",
       "MatterName": "Approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget.",
       "MatterType": "Resolution",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-05-11T16:12:25.58Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-05-11T20:57:52.55Z"
     },
     {
       "ID": 393958,
@@ -602,12 +657,17 @@
       "MinutesSequence": 54,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 69212,
       "MatterFile": "Int 0583-2022",
       "MatterName": "Increasing penalties for violations issued by the department of housing preservation and development and certifying correction of violations in multiple dwellings.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-05-11T16:12:25.593Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-05-11T20:38:35.113Z"
     },
     {
       "ID": 393960,
@@ -617,12 +677,17 @@
       "MinutesSequence": 53,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 69244,
       "MatterFile": "Int 0434-2022",
       "MatterName": "Expanding the heat sensors program.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-05-11T16:12:25.593Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-05-11T20:37:10.733Z"
     },
     {
       "ID": 393961,
@@ -632,12 +697,18 @@
       "MinutesSequence": 55,
       "Version": "B",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 70612,
       "MatterFile": "Int 0875-2023",
       "MatterName": "Technical corrections, clarifications and modifications to provisions of the New York city construction codes.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-05-11T16:12:25.597Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-05-11T22:31:39.157Z"
     },
     {
       "ID": 393962,
@@ -657,12 +728,18 @@
       "MinutesSequence": 59,
       "Version": "*",
       "AgendaNote": "Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71326,
       "MatterFile": "Res 0632-2023",
       "MatterName": "LU 184 - Zoning, 2560 Boston Road Rezoning, Bronx (C 220283 ZMX)",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-05-11T16:12:25.6Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-05-11T22:31:44.593Z"
     },
     {
       "ID": 393964,
@@ -672,12 +749,18 @@
       "MinutesSequence": 61,
       "Version": "*",
       "AgendaNote": "Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71327,
       "MatterFile": "Res 0633-2023",
       "MatterName": "LU 185 - Zoning, 2560 Boston Road Rezoning, Bronx (N 220284 ZRX)",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-05-11T16:12:25.603Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-05-11T22:31:47.917Z"
     },
     {
       "ID": 393965,
@@ -687,12 +770,18 @@
       "MinutesSequence": 63,
       "Version": "*",
       "AgendaNote": "Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71328,
       "MatterFile": "Res 0634-2023",
       "MatterName": "LU 186 - Zoning, 23-10 Queens Plaza South, Queens (C 210317 ZMQ)",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-05-11T16:12:25.607Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-05-11T22:31:52.143Z"
     },
     {
       "ID": 393966,
@@ -702,12 +791,18 @@
       "MinutesSequence": 65,
       "Version": "*",
       "AgendaNote": "Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71329,
       "MatterFile": "Res 0635-2023",
       "MatterName": "LU 187 - Zoning, 23-10 Queens Plaza South, Queens (N 210318 ZRQ)",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-05-11T16:12:25.613Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-05-11T22:31:57.873Z"
     },
     {
       "ID": 393967,
@@ -717,12 +812,18 @@
       "MinutesSequence": 67,
       "Version": "*",
       "AgendaNote": "Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71330,
       "MatterFile": "Res 0636-2023",
       "MatterName": "LU 188 - Zoning, 23-10 Queens Plaza South, Queens (C 210319 ZSQ)",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-05-11T16:12:25.613Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-05-11T20:57:52.69Z"
     },
     {
       "ID": 393972,
@@ -769,7 +870,7 @@
       "MatterFile": "Int 0209-2022",
       "MatterName": "Prohibiting discrimination on the basis of a person’s height or weight in employment, housing, and public accommodations.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
       "LastModified": "2023-05-11T16:12:25.623Z"
     },
     {
@@ -796,7 +897,7 @@
       "MatterFile": "Int 0589-2022",
       "MatterName": "Reporting on medical care and outcomes for incarcerated pregnant persons in the custody of the department of correction.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
       "LastModified": "2023-05-11T16:12:25.627Z"
     },
     {
@@ -812,7 +913,7 @@
       "MatterFile": "Int 0806-2022",
       "MatterName": "Establishment of a comprehensive jail population review program.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
       "LastModified": "2023-05-11T16:12:25.63Z"
     },
     {
@@ -839,7 +940,7 @@
       "MatterFile": "Int 0644-2022",
       "MatterName": "Requiring the department of education to provide information on establishing afterschool programs.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
       "LastModified": "2023-05-11T16:12:25.65Z"
     },
     {
@@ -855,7 +956,7 @@
       "MatterFile": "Int 0725-2022",
       "MatterName": "Requiring the department of education to create a website for schools to list surplus school supplies to be claimed for use by other schools.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
       "LastModified": "2023-05-11T16:12:25.653Z"
     },
     {
@@ -871,7 +972,7 @@
       "MatterFile": "Int 0868-2022",
       "MatterName": "Requiring the department of education to report on the number of District 75 students and the criteria used to determine the location of District 75 schools.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
       "LastModified": "2023-05-11T16:12:25.653Z"
     },
     {
@@ -898,7 +999,7 @@
       "MatterFile": "Res 0607-2023",
       "MatterName": "Approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget.",
       "MatterType": "Resolution",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-05-11T16:12:25.657Z"
     },
     {
@@ -925,7 +1026,7 @@
       "MatterFile": "Int 0583-2022",
       "MatterName": "Increasing penalties for violations issued by the department of housing preservation and development and certifying correction of violations in multiple dwellings.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
       "LastModified": "2023-05-11T16:12:25.66Z"
     },
     {
@@ -941,7 +1042,7 @@
       "MatterFile": "Int 0434-2022",
       "MatterName": "Expanding the heat sensors program.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
       "LastModified": "2023-05-11T16:12:25.66Z"
     },
     {
@@ -957,7 +1058,7 @@
       "MatterFile": "Int 0875-2023",
       "MatterName": "Technical corrections, clarifications and modifications to provisions of the New York city construction codes.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
       "LastModified": "2023-05-11T16:12:25.66Z"
     },
     {
@@ -984,7 +1085,7 @@
       "MatterFile": "Res 0632-2023",
       "MatterName": "LU 184 - Zoning, 2560 Boston Road Rezoning, Bronx (C 220283 ZMX)",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-05-11T16:12:25.663Z"
     },
     {
@@ -1000,7 +1101,7 @@
       "MatterFile": "Res 0633-2023",
       "MatterName": "LU 185 - Zoning, 2560 Boston Road Rezoning, Bronx (N 220284 ZRX)",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-05-11T16:12:25.663Z"
     },
     {
@@ -1016,7 +1117,7 @@
       "MatterFile": "Res 0634-2023",
       "MatterName": "LU 186 - Zoning, 23-10 Queens Plaza South, Queens (C 210317 ZMQ)",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-05-11T16:12:25.667Z"
     },
     {
@@ -1032,7 +1133,7 @@
       "MatterFile": "Res 0635-2023",
       "MatterName": "LU 187 - Zoning, 23-10 Queens Plaza South, Queens (N 210318 ZRQ)",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-05-11T16:12:25.667Z"
     },
     {
@@ -1048,7 +1149,7 @@
       "MatterFile": "Res 0636-2023",
       "MatterName": "LU 188 - Zoning, 23-10 Queens Plaza South, Queens (C 210319 ZSQ)",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-05-11T16:12:25.667Z"
     },
     {
@@ -1060,37 +1161,36 @@
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "GENERAL ORDERS CALENDAR",
-      "LastModified": "2023-05-11T16:12:25.67Z"
+      "LastModified": "2023-05-11T21:03:30.917Z"
     },
     {
       "ID": 394009,
       "GUID": "9F4B0BE7-63C4-4C90-B767-292879D371CB",
       "Title": "Introduction & Reading of Bills\r\nSee Attached",
       "AgendaSequence": 89,
-      "MinutesSequence": 104,
+      "MinutesSequence": 105,
       "AgendaNumber": "13.",
       "Version": "",
       "AgendaNote": "INTRODUCTION & READING OF BILLS (SEE BELOW)",
-      "LastModified": "2023-05-11T16:12:25.67Z"
+      "LastModified": "2023-05-11T19:35:03.72Z"
     },
     {
       "ID": 394010,
       "GUID": "99A7626B-351F-4BCB-BF27-F4541A34D905",
       "Title": "Discussion of Resolutions",
       "AgendaSequence": 90,
-      "MinutesSequence": 105,
+      "MinutesSequence": 106,
       "AgendaNumber": "14.",
       "Version": "",
       "AgendaNote": "DISCUSSION OF RESOLUTIONS",
-      "MinutesNote": "None.",
-      "LastModified": "2023-05-11T16:17:13.6Z"
+      "LastModified": "2023-05-11T19:35:08.76Z"
     },
     {
       "ID": 394011,
       "GUID": "A2D6F431-5A03-4EBB-BF3A-30A146636C58",
       "Title": "Resolutions",
       "AgendaSequence": 91,
-      "MinutesSequence": 106,
+      "MinutesSequence": 107,
       "AgendaNumber": "15.",
       "Version": "",
       "AgendaNote": "RESOLUTIONS",
@@ -1101,7 +1201,7 @@
       "GUID": "42267176-10DB-4088-B3E1-13DC03E47FFB",
       "Title": "General Discussion",
       "AgendaSequence": 94,
-      "MinutesSequence": 109,
+      "MinutesSequence": 110,
       "AgendaNumber": "16.",
       "Version": "",
       "AgendaNote": "GENERAL DISCUSSION",
@@ -1112,7 +1212,7 @@
       "GUID": "FA966DA7-4C57-4436-8142-4C96CC2E14A9",
       "Title": "Extension of Remarks",
       "AgendaSequence": 95,
-      "MinutesSequence": 110,
+      "MinutesSequence": 111,
       "AgendaNumber": "17.",
       "Version": "",
       "AgendaNote": "EXTENSION OF REMARKS",
@@ -1123,7 +1223,7 @@
       "GUID": "F0120A75-C479-4013-90AE-C7FF395D56FF",
       "Title": "INTRODUCTION AND READING OF BILLS",
       "AgendaSequence": 96,
-      "MinutesSequence": 111,
+      "MinutesSequence": 112,
       "Version": "",
       "AgendaNote": "INTRODUCTION AND READING OF BILLS",
       "LastModified": "2023-05-11T16:12:25.677Z"
@@ -1133,7 +1233,7 @@
       "GUID": "50F27047-E6C4-4367-BBF5-6968EDD25C95",
       "Title": "A Local Law to amend the New York city charter, in relation to a fair housing plan, and to repeal local law number 133 for the year 2018, in relation to affordable housing plans",
       "AgendaSequence": 97,
-      "MinutesSequence": 112,
+      "MinutesSequence": 113,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Housing and Buildings",
@@ -1152,7 +1252,7 @@
       "GUID": "BA4AF2B5-E03D-408C-A0AE-724F731CEDFE",
       "Title": "Resolution calling on Congress to pass, and the President to sign, legislation updating the Cuban, Haitian, Nicaraguan, and Venezuelan parole program to allow parolees to work in the United States without waiting for their I-765 applications for employment authorization to be approved, and for the President to take executive action granting or extending temporary access to work permits to asylum seekers currently residing in the United States who are ineligible for the parole program.",
       "AgendaSequence": 102,
-      "MinutesSequence": 117,
+      "MinutesSequence": 118,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Immigration",
@@ -1163,7 +1263,7 @@
       "MatterFile": "Res 0606-2023",
       "MatterName": "Updating the Cuban, Haitian, Nicaraguan, and Venezuelan parole program to allow parolees to work in the US without waiting for their I-765 applications for employment authorization to be approved, and for the President to take executive action granting or",
       "MatterType": "Resolution",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Laid Over in Committee",
       "LastModified": "2023-05-11T16:24:41.52Z"
     },
     {
@@ -1171,7 +1271,7 @@
       "GUID": "EA64DC78-31C8-4E3B-8D58-1F931163E98C",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to removal of abandoned or derelict vehicles",
       "AgendaSequence": 98,
-      "MinutesSequence": 113,
+      "MinutesSequence": 114,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Sanitation and Solid Waste Management",
@@ -1190,7 +1290,7 @@
       "GUID": "30680CDF-736F-4FC4-84A4-361E08FAB019",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of transportation to consult with the fire department prior to approving open street applications and certain bicycle lane projects and to notify affected firehouses prior to approving open street applications, bicycle lane projects, and major transportation projects.",
       "AgendaSequence": 99,
-      "MinutesSequence": 114,
+      "MinutesSequence": 115,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Transportation and Infrastructure",
@@ -1209,7 +1309,7 @@
       "GUID": "5F1C37B0-803B-464F-A8A7-90E31117957E",
       "Title": "Resolution calling upon the New York State Legislature to pass, and the Governor to sign, S.05623/A.05290 in relation to the purchase of claims by corporations or collection agencies and to certain instruments calling for payment of a monetary obligation by a foreign state.",
       "AgendaSequence": 100,
-      "MinutesSequence": 115,
+      "MinutesSequence": 116,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Cultural Affairs, Libraries and International Intergroup Relations",
@@ -1228,7 +1328,7 @@
       "GUID": "80B9A203-6281-4818-A5B5-0BAD5D96A6AE",
       "Title": "Resolution calling upon the New York State Legislature to pass, and the Governor to sign, A5338/S5181, in relation to prohibiting the discharge of any radiological agent into the waters of New York State.",
       "AgendaSequence": 101,
-      "MinutesSequence": 116,
+      "MinutesSequence": 117,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Environmental Protection, Resiliency and Waterfronts",
@@ -1247,7 +1347,7 @@
       "GUID": "8D528BD4-46BC-458F-9FF9-EBE2381EB0B0",
       "Title": "Resolution approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget.",
       "AgendaSequence": 103,
-      "MinutesSequence": 118,
+      "MinutesSequence": 119,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Finance",
@@ -1258,7 +1358,7 @@
       "MatterFile": "Res 0607-2023",
       "MatterName": "Approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget.",
       "MatterType": "Resolution",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-05-11T16:24:51.547Z"
     },
     {
@@ -1266,7 +1366,7 @@
       "GUID": "A3AF16B6-F0D9-4473-90F8-A92E67ED4497",
       "Title": "Resolution calling on the New York State Legislature to pass, and Governor to sign, legislation to create a permanent, citywide voluntary buyout program to mitigate flood risk.",
       "AgendaSequence": 104,
-      "MinutesSequence": 119,
+      "MinutesSequence": 120,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Environmental Protection, Resiliency and Waterfronts",
@@ -1285,7 +1385,7 @@
       "GUID": "5E589BF2-CC1F-46CB-982A-5309EC71207C",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of social services to develop parenting resource materials and the department of health and mental hygiene to distribute such materials to new parents and guardians",
       "AgendaSequence": 105,
-      "MinutesSequence": 120,
+      "MinutesSequence": 121,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "General Welfare",
@@ -1304,7 +1404,7 @@
       "GUID": "C39502B3-6DC5-4903-A2C6-92786C986AF0",
       "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, S.4400/A.4091, to require each institution within the State University of New York and the City University of New York to have at least one vending machine making emergency contraception available for purchase.",
       "AgendaSequence": 106,
-      "MinutesSequence": 121,
+      "MinutesSequence": 122,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Health",
@@ -1323,7 +1423,7 @@
       "GUID": "DD4BC50D-615F-48FE-82A8-2F6F7400CA67",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring corrections officers to carry and administer opioid antagonists while on duty and to receive related training",
       "AgendaSequence": 107,
-      "MinutesSequence": 122,
+      "MinutesSequence": 123,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Criminal Justice",
@@ -1342,7 +1442,7 @@
       "GUID": "1A9E8867-09C0-4E24-8B86-4C390235EAE3",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of homeless services to post shelter information online",
       "AgendaSequence": 108,
-      "MinutesSequence": 123,
+      "MinutesSequence": 124,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "General Welfare",
@@ -1361,7 +1461,7 @@
       "GUID": "F1951C24-6567-4105-9A2E-AB02341064B7",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to buildings subject to energy and emissions limits and energy conservation measure requirements",
       "AgendaSequence": 109,
-      "MinutesSequence": 124,
+      "MinutesSequence": 125,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Housing and Buildings",
@@ -1380,7 +1480,7 @@
       "GUID": "A86B16FD-EA05-44DC-A68D-608725AE9B5F",
       "Title": "Resolution calling on New York State to mandate basic training in addiction treatment as a requirement for medical schools that receive state funding.",
       "AgendaSequence": 115,
-      "MinutesSequence": 130,
+      "MinutesSequence": 131,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Mental Health, Disabilities and Addiction",
@@ -1399,7 +1499,7 @@
       "GUID": "0BDA1060-C21B-4C7A-AC48-33934ECFA328",
       "Title": "Resolution calling on the Federal Government to mandate basic training in addiction treatment as a requirement for medical schools that receive federal funding.",
       "AgendaSequence": 116,
-      "MinutesSequence": 131,
+      "MinutesSequence": 132,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Mental Health, Disabilities and Addiction",
@@ -1418,7 +1518,7 @@
       "GUID": "DA62BA33-D5F9-4383-B34C-4E79FAE1BFA6",
       "Title": "Resolution calling on the United States Congress to pass and the President to sign amendments to the Len Bias Law, known as the Anti-Drug Abuse Act of 1986 H.R.5484, to ensure that family members or associate drug users are not criminalized for calling emergency services in a crisis.",
       "AgendaSequence": 112,
-      "MinutesSequence": 127,
+      "MinutesSequence": 128,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Mental Health, Disabilities and Addiction",
@@ -1437,7 +1537,7 @@
       "GUID": "9D9F80AB-EB2D-445D-B335-B97D60C42CA9",
       "Title": "Resolution calling on the United States Congress to pass and the President to sign, H.R.2400, which would amend title XIX of the Social Security Act to allow States to make medical assistance available to inmates during the 30-day period preceding their release.",
       "AgendaSequence": 113,
-      "MinutesSequence": 128,
+      "MinutesSequence": 129,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Mental Health, Disabilities and Addiction",
@@ -1456,7 +1556,7 @@
       "GUID": "98F076EB-79A9-4ED1-BA17-1097AF385097",
       "Title": "Resolution calling on the United States Congress to pass and the President to sign S.79/H.R.1693 117th Congress (2021-2022), known as the Equal Act of 2021.",
       "AgendaSequence": 114,
-      "MinutesSequence": 129,
+      "MinutesSequence": 130,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Mental Health, Disabilities and Addiction",
@@ -1475,7 +1575,7 @@
       "GUID": "649AE80C-C546-40D8-9F4D-C8B79684F6D1",
       "Title": "Resolution calling on the New York State legislature to pass, and the Governor to sign, S.1678A/A.1941, which would require all public school districts, charter schools, and non-public schools to serve breakfast and lunch at no cost to students.",
       "AgendaSequence": 110,
-      "MinutesSequence": 125,
+      "MinutesSequence": 126,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Education",
@@ -1494,7 +1594,7 @@
       "GUID": "4F909AC6-FF8E-4107-B7EE-1FBDF8453724",
       "Title": "Resolution calling on United States Attorney General Merrick Garland and the Department of Justice to issue guidance that they will not prosecute overdose prevention centers under section 856 of the Controlled Substances Act, and the Office of National Drug Control Policy to develop a set of standards, policies, and procedures for overdose prevention centers.",
       "AgendaSequence": 117,
-      "MinutesSequence": 132,
+      "MinutesSequence": 133,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Mental Health, Disabilities and Addiction",
@@ -1513,7 +1613,7 @@
       "GUID": "1D40841D-6B1C-4A18-85CC-907EB8E5187C",
       "Title": "Resolution calling upon the United States Congress to pass, and the President to sign, legislation amending the Anti-Drug Abuse Act of 1986 to allow for the operation of legitimate supervised consumption sites around the country.",
       "AgendaSequence": 111,
-      "MinutesSequence": 126,
+      "MinutesSequence": 127,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Mental Health, Disabilities and Addiction",
@@ -1532,7 +1632,7 @@
       "GUID": "8535DBF0-8A63-4C2D-8CEB-E4D1C4B15E24",
       "Title": "Resolution calling on the MTA and NYCTA to adopt federally-recommended measures to ensure that access-a-ride serves New Yorkers on-time.",
       "AgendaSequence": 118,
-      "MinutesSequence": 133,
+      "MinutesSequence": 134,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Mental Health, Disabilities and Addiction",
@@ -1551,7 +1651,7 @@
       "GUID": "83966B96-1729-4D98-909C-4EBC149B6D52",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to regulating the idling of engines and the use of citizen’s complaints to enforce laws enforced by the department of environmental protection",
       "AgendaSequence": 119,
-      "MinutesSequence": 134,
+      "MinutesSequence": 135,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Environmental Protection, Resiliency and Waterfronts",
@@ -1570,7 +1670,7 @@
       "GUID": "84F5A4B8-82F0-45AB-8FEC-55D8A98EBC17",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to limiting nighttime illumination for certain buildings",
       "AgendaSequence": 120,
-      "MinutesSequence": 135,
+      "MinutesSequence": 136,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Environmental Protection, Resiliency and Waterfronts",
@@ -1589,7 +1689,7 @@
       "GUID": "0FD5D490-9958-47EA-9F4F-5BAD0259A53E",
       "Title": "A Local Law to amend the New York city charter, in relation to reporting on cases transferred from the civilian complaint review board due to a lack of jurisdiction",
       "AgendaSequence": 121,
-      "MinutesSequence": 136,
+      "MinutesSequence": 137,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Civil and Human Rights",
@@ -1608,7 +1708,7 @@
       "GUID": "D9E270EC-7577-4EAF-82E2-8AD8F04A0DE1",
       "Title": "Resolution calling on New York State to collect and publish data on diabetes-related amputations annually, and encourage hospitals to create a strategy to reduce the growing number of diabetes-related amputations.",
       "AgendaSequence": 122,
-      "MinutesSequence": 137,
+      "MinutesSequence": 138,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Hospitals",
@@ -1627,7 +1727,7 @@
       "GUID": "CB44462B-17DE-41FF-B2A8-536AFE930C7E",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to expanding the definition of tenant harassment to include unlawful evictions and expanding the certificate of no harassment program to include unlawful evictions",
       "AgendaSequence": 123,
-      "MinutesSequence": 138,
+      "MinutesSequence": 139,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Housing and Buildings",
@@ -1646,7 +1746,7 @@
       "GUID": "C5B92820-52D6-4772-9673-237CD5A46A09",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to increasing penalties for unlawful evictions",
       "AgendaSequence": 125,
-      "MinutesSequence": 140,
+      "MinutesSequence": 141,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Housing and Buildings",
@@ -1665,7 +1765,7 @@
       "GUID": "0204282A-86F7-4A97-9E7F-BD340DB46112",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to injunctive relief for lawful occupants of rental units",
       "AgendaSequence": 124,
-      "MinutesSequence": 139,
+      "MinutesSequence": 140,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Housing and Buildings",
@@ -1684,7 +1784,7 @@
       "GUID": "031161CB-2E8F-45ED-9758-4A788F37F43A",
       "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, legislation requiring unlawful eviction cases to be heard within five days.",
       "AgendaSequence": 126,
-      "MinutesSequence": 141,
+      "MinutesSequence": 142,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Housing and Buildings",
@@ -1703,7 +1803,7 @@
       "GUID": "AFDA9F02-74F1-4BD5-BF5F-CFC0A5C66830",
       "Title": "Resolution designating May 21 annually as Christopher “Biggie Smalls” Wallace Day in the City of New York and recognizing his contributions to the cultural landscape of his home borough of Brooklyn and to Hip Hop worldwide.",
       "AgendaSequence": 129,
-      "MinutesSequence": 144,
+      "MinutesSequence": 145,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Cultural Affairs, Libraries and International Intergroup Relations",
@@ -1722,7 +1822,7 @@
       "GUID": "C82084DF-03CF-4D21-9C93-2AC8EA0349C9",
       "Title": "Resolution designating November 15 annually as Ol’ Dirty Bastard Day in the City of New York and honoring his legacy as a founder of the legendary Wu-Tang Clan and as a unique MC.",
       "AgendaSequence": 127,
-      "MinutesSequence": 142,
+      "MinutesSequence": 143,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Cultural Affairs, Libraries and International Intergroup Relations",
@@ -1741,7 +1841,7 @@
       "GUID": "2C355824-D14D-4A16-9E30-A5CCDA84CD17",
       "Title": "Resolution designating September 10 annually as Big Daddy Kane Day in the City of New York and celebrating his influence on generations of Hip Hop MCs.",
       "AgendaSequence": 128,
-      "MinutesSequence": 143,
+      "MinutesSequence": 144,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Cultural Affairs, Libraries and International Intergroup Relations",
@@ -1760,7 +1860,7 @@
       "GUID": "D1985317-B9DA-4A82-9999-06E970387581",
       "Title": "Resolution designating July 8 annually as Reggie “Combat Jack” Ossé Day in the City of New York and honoring his multifaceted contributions to the Hip Hop industry as a lawyer, executive, editor, and podcaster.",
       "AgendaSequence": 130,
-      "MinutesSequence": 145,
+      "MinutesSequence": 146,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Cultural Affairs, Libraries and International Intergroup Relations",
@@ -1779,7 +1879,7 @@
       "GUID": "83A2B8F2-564D-4260-B465-DA60413B1E54",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to disqualifying previously expelled council members from receiving public campaign financing",
       "AgendaSequence": 131,
-      "MinutesSequence": 146,
+      "MinutesSequence": 147,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Governmental Operations",
@@ -1798,7 +1898,7 @@
       "GUID": "F7A2623B-26C0-498C-96A1-0500E936DA93",
       "Title": "Resolution authorizing the Department of Transportation to extend and amend the Amended and Restated Agreement for the Coordinated Street Furniture Franchise.",
       "AgendaSequence": 132,
-      "MinutesSequence": 147,
+      "MinutesSequence": 148,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Zoning and Franchises",
@@ -1809,7 +1909,7 @@
       "MatterFile": "Res 0625-2023",
       "MatterName": "Resolution authorizing the Department of Transportation to extend and amend the Amended and Restated Agreement for the Coordinated Street Furniture Franchise.",
       "MatterType": "Resolution",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-05-11T17:05:16.013Z"
     },
     {
@@ -1817,7 +1917,7 @@
       "GUID": "982AD7FD-268A-462D-B8AE-D7A1C46EB0C3",
       "Title": "A Local Law to amend the New York city charter, in relation to including additional capital projects in the citywide statement of needs",
       "AgendaSequence": 133,
-      "MinutesSequence": 148,
+      "MinutesSequence": 149,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Land Use",
@@ -1836,7 +1936,7 @@
       "GUID": "731C8796-CB22-4DED-B062-51DAE2DA01DF",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring human translation of the 311 app",
       "AgendaSequence": 134,
-      "MinutesSequence": 149,
+      "MinutesSequence": 150,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Technology",
@@ -1855,7 +1955,7 @@
       "GUID": "AC98C80B-E2C2-4AD2-BFB3-C54B6B7F2D91",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the creation of a publicly accessible online database and notification system for towed vehicles",
       "AgendaSequence": 135,
-      "MinutesSequence": 150,
+      "MinutesSequence": 151,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Public Safety",
@@ -1874,7 +1974,7 @@
       "GUID": "D7DAD882-946F-4282-B828-BE1C33280C95",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the establishment of a document vault to store certain procurement-related documents",
       "AgendaSequence": 136,
-      "MinutesSequence": 151,
+      "MinutesSequence": 152,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Contracts",
@@ -1893,7 +1993,7 @@
       "GUID": "92C33F08-3735-4043-A4DA-86AA345B9C8F",
       "Title": "Application number C 210283 ZMQ (26-50 Brooklyn Queens Expressway West Rezoning) submitted by 2650 BQE LOR LLC, pursuant to Sections 197-c and 201 of the New York City Charter for the amendment of the Zoning Map, Section No. 9c, changing from an M1-1 District to an M1-2 District property bounded by a line 400 feet northerly of 27th Avenue and its easterly and westerly prolongations, Brooklyn Queens Expressway West, 27th Avenue, and Borough Place, Borough of  Queens, Community District 1, Council District 22.",
       "AgendaSequence": 144,
-      "MinutesSequence": 159,
+      "MinutesSequence": 160,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Zoning and Franchises",
@@ -1904,7 +2004,7 @@
       "MatterFile": "LU 0207-2023",
       "MatterName": "Zoning, 26-50 Brooklyn Queens Expressway West Rezoning, Queens (C 210283 ZMQ)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Laid Over in Committee",
       "LastModified": "2023-05-11T16:16:23.417Z"
     },
     {
@@ -1912,7 +2012,7 @@
       "GUID": "A6DC465A-70F2-4A52-9E91-5F7E389C0190",
       "Title": "Application number C 230052 ZMQ (61-10 Queens Boulevard Rezoning) submitted by PF Supreme, LLC, pursuant to Sections 197-c and 201 of the New York City Charter for the amendment of the Zoning Map, Section No. 9d, eliminating from within existing R6 and R7-1 Districts a C1-2 District, and establishing within existing R6 and R7-1 Districts a C2-4 District , Borough of  Queens, Community District 2, Council District 26.",
       "AgendaSequence": 145,
-      "MinutesSequence": 161,
+      "MinutesSequence": 162,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Zoning and Franchises",
@@ -1923,7 +2023,7 @@
       "MatterFile": "LU 0208-2023",
       "MatterName": "Zoning, 61-10 Queens Boulevard Rezoning, Queens (C 230052 ZMQ)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Laid Over in Committee",
       "LastModified": "2023-05-11T16:16:34.453Z"
     },
     {
@@ -1931,7 +2031,7 @@
       "GUID": "0766B2AB-861C-4E3B-A428-F48359FEAC9C",
       "Title": "Application number C 220267 ZMQ (141-05 109th Avenue Rezoning) submitted by Mal Pal Realty Corp, pursuant to Sections 197-c and 201 of the New York City Charter for the amendment of the Zoning Map, Section No. 18c, changing from an R3A District to an R6B District and establishing within the proposed R6B District a C2-3 District, Borough of Queens, Community District 12, Council District 28.",
       "AgendaSequence": 146,
-      "MinutesSequence": 163,
+      "MinutesSequence": 164,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Zoning and Franchises",
@@ -1942,7 +2042,7 @@
       "MatterFile": "LU 0209-2023",
       "MatterName": "Zoning, 141-05 109th Avenue Rezoning, Queens (C 220267 ZMQ)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Laid Over in Committee",
       "LastModified": "2023-05-11T16:16:45.83Z"
     },
     {
@@ -1950,7 +2050,7 @@
       "GUID": "61366A38-603F-41EE-AE9D-A4A79B0D4DCD",
       "Title": "Application number N 220268 ZRQ (141-05 109th Avenue Rezoning) submitted by Mal Pal Realty Corp, pursuant to Section 201 of the New York City Charter for an amendment to the Zoning Resolution of the City of New York, modifying APPENDIX F for the purpose of establishing a Mandatory Inclusionary Housing area, Borough of Queens, Community District 12, Council District 28. ",
       "AgendaSequence": 147,
-      "MinutesSequence": 165,
+      "MinutesSequence": 166,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Zoning and Franchises",
@@ -1961,7 +2061,7 @@
       "MatterFile": "LU 0210-2023",
       "MatterName": "Zoning, 141-05 109th Avenue Rezoning, Queens (N 220268 ZRQ)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Laid Over in Committee",
       "LastModified": "2023-05-11T16:17:01.247Z"
     },
     {
@@ -1974,13 +2074,13 @@
       "AgendaNote": "Approved with Modifications and Referred to the City Planning Commission pursuant to Section 197-(d) of the New York City Charter.",
       "ActionID": 5053,
       "ActionName": "Approved with Modifications and Referred to the City Planning Commission pursuant to Section 197-(d) of the New York City Charter.",
-      "ActionText": "This Land Use Application was Approved with Modifications and Referred to the City Planning Commission pursuant to Section 197-(d) of the New York City Charter. to the City Planning Commission",
+      "ActionText": "This Land Use Application was Approved with Modifications and Referred to the City Planning Commission pursuant to Section 197-(d) of the New York City Charter. ",
       "MatterID": 71126,
       "MatterFile": "LU 0189-2023",
       "MatterName": "Zoning, Paperific Rezoning, Brooklyn (C 220470 ZMK)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2023-05-11T16:22:16.8Z"
+      "LastModified": "2023-05-11T22:32:16.947Z"
     },
     {
       "ID": 394093,
@@ -1992,13 +2092,13 @@
       "AgendaNote": "Approved with Modifications and Referred to the City Planning Commission pursuant to Section 197-(d) of the New York City Charter.",
       "ActionID": 5053,
       "ActionName": "Approved with Modifications and Referred to the City Planning Commission pursuant to Section 197-(d) of the New York City Charter.",
-      "ActionText": "This Land Use Application was Approved with Modifications and Referred to the City Planning Commission pursuant to Section 197-(d) of the New York City Charter. to the City Planning Commission",
+      "ActionText": "This Land Use Application was Approved with Modifications and Referred to the City Planning Commission pursuant to Section 197-(d) of the New York City Charter. ",
       "MatterID": 71127,
       "MatterFile": "LU 0190-2023",
       "MatterName": "Zoning, Paperific Rezoning, Brooklyn (N 220471 ZRK)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2023-05-11T16:22:31.69Z"
+      "LastModified": "2023-05-11T22:32:24.277Z"
     },
     {
       "ID": 394094,
@@ -2010,13 +2110,13 @@
       "AgendaNote": "Approved with Modifications and Referred to the City Planning Commission pursuant to Section 197-(d) of the New York City Charter.",
       "ActionID": 5053,
       "ActionName": "Approved with Modifications and Referred to the City Planning Commission pursuant to Section 197-(d) of the New York City Charter.",
-      "ActionText": "This Land Use Application was Approved with Modifications and Referred to the City Planning Commission pursuant to Section 197-(d) of the New York City Charter. to the City Planning Commission",
+      "ActionText": "This Land Use Application was Approved with Modifications and Referred to the City Planning Commission pursuant to Section 197-(d) of the New York City Charter. ",
       "MatterID": 71128,
       "MatterFile": "LU 0191-2023",
       "MatterName": "Zoning, Paperific Rezoning, Brooklyn (C 220472 ZSK)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2023-05-11T16:22:48.66Z"
+      "LastModified": "2023-05-11T22:32:35.127Z"
     },
     {
       "ID": 394103,
@@ -2025,12 +2125,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 58,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71121,
       "MatterFile": "LU 0184-2023",
       "MatterName": "Zoning, 2560 Boston Road Rezoning, Bronx (C 220283 ZMX)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2023-05-11T16:12:25.6Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-05-11T22:31:42.91Z"
     },
     {
       "ID": 394104,
@@ -2039,12 +2145,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 60,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71122,
       "MatterFile": "LU 0185-2023",
       "MatterName": "Zoning, 2560 Boston Road Rezoning, Bronx (N 220284 ZRX)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2023-05-11T16:12:25.6Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-05-11T22:31:46.24Z"
     },
     {
       "ID": 394105,
@@ -2053,12 +2165,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 62,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71123,
       "MatterFile": "LU 0186-2023",
       "MatterName": "Zoning, 23-10 Queens Plaza South, Queens (C 210317 ZMQ)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2023-05-11T16:12:25.603Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-05-11T22:31:49.977Z"
     },
     {
       "ID": 394106,
@@ -2067,12 +2185,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 64,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71124,
       "MatterFile": "LU 0187-2023",
       "MatterName": "Zoning, 23-10 Queens Plaza South, Queens (N 210318 ZRQ)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2023-05-11T16:12:25.61Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-05-11T22:31:56.143Z"
     },
     {
       "ID": 394107,
@@ -2081,12 +2205,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 66,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71125,
       "MatterFile": "LU 0188-2023",
       "MatterName": "Zoning, 23-10 Queens Plaza South, Queens (C 210319 ZSQ)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2023-05-11T16:12:25.613Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-05-11T22:32:00.31Z"
     },
     {
       "ID": 394109,
@@ -2096,12 +2226,18 @@
       "MinutesSequence": 57,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71311,
       "MatterFile": "Res 0625-2023",
       "MatterName": "Resolution authorizing the Department of Transportation to extend and amend the Amended and Restated Agreement for the Coordinated Street Furniture Franchise.",
       "MatterType": "Resolution",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-05-11T16:12:25.597Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-05-11T22:31:41.037Z"
     },
     {
       "ID": 394110,
@@ -2116,7 +2252,7 @@
       "MatterFile": "Res 0625-2023",
       "MatterName": "Resolution authorizing the Department of Transportation to extend and amend the Amended and Restated Agreement for the Coordinated Street Furniture Franchise.",
       "MatterType": "Resolution",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-05-11T16:12:25.657Z"
     },
     {
@@ -2124,7 +2260,7 @@
       "GUID": "719AADC4-E952-4CD8-999D-8144FE152EC8",
       "Title": "Hamilton Heights Cluster, Block 2071, Lot 56; Block 2073, Lot 43; Block 2074, Lots 25 and 30; Block 2077, Lots 12 and 13) Manhattan, Community District No. 9, Council District No. 7.",
       "AgendaSequence": 137,
-      "MinutesSequence": 152,
+      "MinutesSequence": 153,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "WITHDRAWN",
@@ -2144,7 +2280,7 @@
       "GUID": "228468FA-4104-477A-90C1-62C15C36C9C4",
       "Title": "Norgate Plaza, Block 1812, Lot 42, Brooklyn, Community District No. 3, Council District No. 36.",
       "AgendaSequence": 138,
-      "MinutesSequence": 153,
+      "MinutesSequence": 154,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Finance",
@@ -2155,7 +2291,7 @@
       "MatterFile": "LU 0201-2023",
       "MatterName": "Norgate Plaza, Block 1812, Lot 42, Brooklyn.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-05-11T17:05:33.503Z"
     },
     {
@@ -2163,7 +2299,7 @@
       "GUID": "4A6C2054-D0A3-4707-BB7E-EB3C5E3EF662",
       "Title": "Queenswood, Block 1937, Lot 1, Queens, Community District No. 4, Council District No. 21.",
       "AgendaSequence": 139,
-      "MinutesSequence": 154,
+      "MinutesSequence": 155,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Finance",
@@ -2174,7 +2310,7 @@
       "MatterFile": "LU 0202-2023",
       "MatterName": "Queenswood, Block 1937, Lot 1, Queens.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-05-11T17:05:38.247Z"
     },
     {
@@ -2182,7 +2318,7 @@
       "GUID": "70BFB045-114D-44D3-8FBE-CC110C4D4918",
       "Title": "Duncan Genns, Block 3446, Lot 1, Brooklyn, Community District No. 4, Council District No. 37.",
       "AgendaSequence": 140,
-      "MinutesSequence": 155,
+      "MinutesSequence": 156,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Finance",
@@ -2193,7 +2329,7 @@
       "MatterFile": "LU 0203-2023",
       "MatterName": "Duncan Genns, Block 3446, Lot 1, Brooklyn.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-05-11T17:05:42.803Z"
     },
     {
@@ -2201,7 +2337,7 @@
       "GUID": "379EB2BF-A305-45F6-9BF7-0CED042E6E5B",
       "Title": "Renwick Apartments, Block 934, Lot 15, Manhattan, Community District No. 6, Council District No. 2.",
       "AgendaSequence": 141,
-      "MinutesSequence": 156,
+      "MinutesSequence": 157,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Finance",
@@ -2212,7 +2348,7 @@
       "MatterFile": "LU 0204-2023",
       "MatterName": "Renwick Apartments, Block 934, Lot 15, Manhattan.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-05-11T17:05:47.377Z"
     },
     {
@@ -2220,7 +2356,7 @@
       "GUID": "25C5E1AE-19A9-4CD6-A21F-412245D5F624",
       "Title": "Risley Dent Towers, Block 1684, Lot 1, Brooklyn, Community District No. 3, Council District No. 36.",
       "AgendaSequence": 142,
-      "MinutesSequence": 157,
+      "MinutesSequence": 158,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Finance",
@@ -2231,7 +2367,7 @@
       "MatterFile": "LU 0205-2023",
       "MatterName": "Risley Dent Towers, Block 1684, Lot 1, Brooklyn.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-05-11T17:05:51.843Z"
     },
     {
@@ -2239,7 +2375,7 @@
       "GUID": "B6B7F187-CAEA-4386-8A25-FCC39312FC2A",
       "Title": "Grand Street.HUDMF.FY23, Block 376, Lot 58, Manhattan, Community District No. 3, Council District No. 2.",
       "AgendaSequence": 143,
-      "MinutesSequence": 158,
+      "MinutesSequence": 159,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Finance",
@@ -2250,7 +2386,7 @@
       "MatterFile": "LU 0206-2023",
       "MatterName": "Grand Street.HUDMF.FY23, Block 376, Lot 58, Manhattan.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-05-11T17:05:51.847Z"
     },
     {
@@ -2261,12 +2397,18 @@
       "MinutesSequence": 41,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71363,
       "MatterFile": "Res 0626-2023",
       "MatterName": "LU 201 - Norgate Plaza, Block 1812, Lot 42, Brooklyn.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-05-11T16:12:25.58Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-05-11T22:30:51.04Z"
     },
     {
       "ID": 394144,
@@ -2276,12 +2418,17 @@
       "MinutesSequence": 43,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 71365,
       "MatterFile": "Res 0627-2023",
       "MatterName": "LU 202 - Queenswood, Block 1937, Lot 1, Queens.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-05-11T16:12:25.583Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-05-11T20:48:35.647Z"
     },
     {
       "ID": 394145,
@@ -2291,12 +2438,18 @@
       "MinutesSequence": 45,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71367,
       "MatterFile": "Res 0628-2023",
       "MatterName": "LU 203 - Duncan Genns, Block 3446, Lot 1, Brooklyn.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-05-11T16:12:25.587Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-05-11T20:57:52.573Z"
     },
     {
       "ID": 394146,
@@ -2306,12 +2459,18 @@
       "MinutesSequence": 47,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71369,
       "MatterFile": "Res 0629-2023",
       "MatterName": "LU 204 - Renwick Apartments, Block 934, Lot 15, Manhattan.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-05-11T16:12:25.587Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-05-11T22:31:06.427Z"
     },
     {
       "ID": 394147,
@@ -2321,12 +2480,18 @@
       "MinutesSequence": 49,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71371,
       "MatterFile": "Res 0630-2023",
       "MatterName": "LU 205 - Risley Dent Towers, Block 1684, Lot 1, Brooklyn.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-05-11T16:12:25.59Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-05-11T22:31:12.183Z"
     },
     {
       "ID": 394148,
@@ -2336,12 +2501,18 @@
       "MinutesSequence": 51,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71373,
       "MatterFile": "Res 0631-2023",
       "MatterName": "LU 206 - Grand Street.HUDMF.FY23, Block 376, Lot 58, Manhattan.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-05-11T16:12:25.59Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-05-11T22:31:16.11Z"
     },
     {
       "ID": 394150,
@@ -2356,7 +2527,7 @@
       "MatterFile": "Res 0626-2023",
       "MatterName": "LU 201 - Norgate Plaza, Block 1812, Lot 42, Brooklyn.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-05-11T16:12:25.633Z"
     },
     {
@@ -2372,7 +2543,7 @@
       "MatterFile": "Res 0627-2023",
       "MatterName": "LU 202 - Queenswood, Block 1937, Lot 1, Queens.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-05-11T16:12:25.637Z"
     },
     {
@@ -2388,7 +2559,7 @@
       "MatterFile": "Res 0628-2023",
       "MatterName": "LU 203 - Duncan Genns, Block 3446, Lot 1, Brooklyn.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-05-11T16:12:25.637Z"
     },
     {
@@ -2404,7 +2575,7 @@
       "MatterFile": "Res 0629-2023",
       "MatterName": "LU 204 - Renwick Apartments, Block 934, Lot 15, Manhattan.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-05-11T16:12:25.64Z"
     },
     {
@@ -2420,7 +2591,7 @@
       "MatterFile": "Res 0630-2023",
       "MatterName": "LU 205 - Risley Dent Towers, Block 1684, Lot 1, Brooklyn.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-05-11T16:12:25.647Z"
     },
     {
@@ -2436,7 +2607,7 @@
       "MatterFile": "Res 0631-2023",
       "MatterName": "LU 206 - Grand Street.HUDMF.FY23, Block 376, Lot 58, Manhattan.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-05-11T16:12:25.65Z"
     },
     {
@@ -2446,12 +2617,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 40,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71362,
       "MatterFile": "LU 0201-2023",
       "MatterName": "Norgate Plaza, Block 1812, Lot 42, Brooklyn.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-05-11T16:12:25.58Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-05-11T22:30:47.103Z"
     },
     {
       "ID": 394183,
@@ -2460,12 +2637,17 @@
       "AgendaSequence": 0,
       "MinutesSequence": 42,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 71364,
       "MatterFile": "LU 0202-2023",
       "MatterName": "Queenswood, Block 1937, Lot 1, Queens.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-05-11T16:12:25.583Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-05-11T20:46:19.237Z"
     },
     {
       "ID": 394184,
@@ -2474,12 +2656,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 44,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71366,
       "MatterFile": "LU 0203-2023",
       "MatterName": "Duncan Genns, Block 3446, Lot 1, Brooklyn.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-05-11T16:12:25.583Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-05-11T22:31:01.26Z"
     },
     {
       "ID": 394185,
@@ -2488,12 +2676,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 46,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71368,
       "MatterFile": "LU 0204-2023",
       "MatterName": "Renwick Apartments, Block 934, Lot 15, Manhattan.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-05-11T16:12:25.587Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-05-11T22:31:04.653Z"
     },
     {
       "ID": 394186,
@@ -2502,12 +2696,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 48,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71370,
       "MatterFile": "LU 0205-2023",
       "MatterName": "Risley Dent Towers, Block 1684, Lot 1, Brooklyn.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-05-11T16:12:25.59Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-05-11T22:31:10.387Z"
     },
     {
       "ID": 394187,
@@ -2516,12 +2716,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 50,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71372,
       "MatterFile": "LU 0206-2023",
       "MatterName": "Grand Street.HUDMF.FY23, Block 376, Lot 58, Manhattan.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-05-11T16:12:25.59Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-05-11T22:31:14.117Z"
     },
     {
       "ID": 394190,
@@ -2541,24 +2747,24 @@
       "MinutesSequence": 102,
       "Version": "",
       "MinutesNote": "The Majority Leader and Acting President Pro Tempore (Council Member Powers) put the question whether the Council would agree with and adopt such reports, which were decided in the affirmative by the following vote:",
-      "LastModified": "2023-05-11T16:40:39.617Z"
+      "LastModified": "2023-05-11T21:12:16.18Z"
     },
     {
       "ID": 394192,
       "GUID": "8EAF0781-D6CF-4062-8194-B9148C1E8148",
       "Title": "",
       "AgendaSequence": 0,
-      "MinutesSequence": 103,
+      "MinutesSequence": 104,
       "Version": "",
-      "MinutesNote": "The following files were removed from the General Order Calendar and voted separately:\r\n\r\nSee files for individual votes.",
-      "LastModified": "2023-05-11T16:40:19.39Z"
+      "MinutesNote": "The following files were removed from the General Order Calendar and voted separately:\r\n\r\nInt. No. 209,  VOTE: 44-5-0\r\nNegative: Council Members Ariola, Carr, Holden, Paladino, and the Minority Leader (Council Member Borelli).\r\n\r\nInt. No. 434-A,  VOTE: 48-1-0\r\nNegative: Council Member Yeger.\r\n\r\nInt. No. 583-A,  VOTE: 42-7-0\r\nNegative: Council Members Ariola, Carr, Holden, Kagan, Paladino, Yeger, and the Minority Leader (Council Member Borelli).\r\n\r\nInt. No. 806-A,  VOTE: 39-7-3\r\nNegative: Council Members Ariola, Carr, Holden, Kagan, Paladino, Yeger, and the Minority Leader (Council Member Borelli);\r\nAbstention: Council Members Moya, Ung, and Velasquez.\r\n\r\nPreconsidered L.U. No. 202 & Res. No. 627,  VOTE: 48-1-0.\r\nNegative: Council Member Barron.\r\n\r\nSee files for individual votes.",
+      "LastModified": "2023-05-11T22:34:26.017Z"
     },
     {
       "ID": 394193,
       "GUID": "4E790147-1F19-453C-BC77-3218C201B16E",
       "Title": "",
       "AgendaSequence": 0,
-      "MinutesSequence": 167,
+      "MinutesSequence": 168,
       "Version": "",
       "MinutesNote": "At this point the Speaker (Council Member Adams) made the following announcements:",
       "LastModified": "2023-05-11T16:35:55.163Z"
@@ -2568,10 +2774,10 @@
       "GUID": "791E30C0-E585-4A2B-854A-75A24DCCAB7F",
       "Title": "",
       "AgendaSequence": 0,
-      "MinutesSequence": 168,
+      "MinutesSequence": 169,
       "Version": "",
       "MinutesNote": "Whereupon on motion of the Speaker (Council Member Adams), the Majority Leader and Acting President Pro Tempore (Council Member Powers) adjourned these proceedings to meet again for the Stated Meeting of Thursday, May 25, 2023.\r\n\r\nMICHAEL McSWEENEY, City Clerk\r\nClerk of the Council",
-      "LastModified": "2023-05-11T16:39:47.717Z"
+      "LastModified": "2023-05-11T20:57:52.72Z"
     },
     {
       "ID": 394195,
@@ -2580,15 +2786,15 @@
       "AgendaSequence": 0,
       "MinutesSequence": 3,
       "Version": "",
-      "MinutesNote": "The presence of a quorum was announced by the Majority Leader and Acting President Pro Tempore (Council Member Powers).\r\n\r\nThere were XX Council Members marked present at this Stated Meeting.\r\n\r\n",
-      "LastModified": "2023-05-11T16:41:18.403Z"
+      "MinutesNote": "The presence of a quorum was announced by the Majority Leader and Acting President Pro Tempore (Council Member Powers).\r\n\r\nThere were 49 Council Members marked present at this Stated Meeting.\r\n\r\n",
+      "LastModified": "2023-05-11T21:03:14.563Z"
     },
     {
       "ID": 394196,
       "GUID": "71DAFD35-9A57-428B-B426-9D9DCB4E39A9",
       "Title": "Application number C 210283 ZMQ (26-50 Brooklyn Queens Expressway West Rezoning) submitted by 2650 BQE LOR LLC, pursuant to Sections 197-c and 201 of the New York City Charter for the amendment of the Zoning Map, Section No. 9c, changing from an M1-1 District to an M1-2 District property bounded by a line 400 feet northerly of 27th Avenue and its easterly and westerly prolongations, Brooklyn Queens Expressway West, 27th Avenue, and Borough Place, Borough of  Queens, Community District 1, Council District 22.",
       "AgendaSequence": 0,
-      "MinutesSequence": 160,
+      "MinutesSequence": 161,
       "Version": "*",
       "ActionID": 43,
       "ActionName": "Referred to Comm by Council",
@@ -2597,7 +2803,7 @@
       "MatterFile": "LU 0207-2023",
       "MatterName": "Zoning, 26-50 Brooklyn Queens Expressway West Rezoning, Queens (C 210283 ZMQ)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Laid Over in Committee",
       "LastModified": "2023-05-11T16:35:04.457Z"
     },
     {
@@ -2605,7 +2811,7 @@
       "GUID": "7A603173-9933-4133-9464-E1FA5E667BB6",
       "Title": "Application number C 230052 ZMQ (61-10 Queens Boulevard Rezoning) submitted by PF Supreme, LLC, pursuant to Sections 197-c and 201 of the New York City Charter for the amendment of the Zoning Map, Section No. 9d, eliminating from within existing R6 and R7-1 Districts a C1-2 District, and establishing within existing R6 and R7-1 Districts a C2-4 District , Borough of  Queens, Community District 2, Council District 26.",
       "AgendaSequence": 0,
-      "MinutesSequence": 162,
+      "MinutesSequence": 163,
       "Version": "*",
       "ActionID": 43,
       "ActionName": "Referred to Comm by Council",
@@ -2614,7 +2820,7 @@
       "MatterFile": "LU 0208-2023",
       "MatterName": "Zoning, 61-10 Queens Boulevard Rezoning, Queens (C 230052 ZMQ)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Laid Over in Committee",
       "LastModified": "2023-05-11T16:35:18.263Z"
     },
     {
@@ -2622,7 +2828,7 @@
       "GUID": "9D162EBB-111B-42C0-8B3E-82BF34D0099E",
       "Title": "Application number C 220267 ZMQ (141-05 109th Avenue Rezoning) submitted by Mal Pal Realty Corp, pursuant to Sections 197-c and 201 of the New York City Charter for the amendment of the Zoning Map, Section No. 18c, changing from an R3A District to an R6B District and establishing within the proposed R6B District a C2-3 District, Borough of Queens, Community District 12, Council District 28.",
       "AgendaSequence": 0,
-      "MinutesSequence": 164,
+      "MinutesSequence": 165,
       "Version": "*",
       "ActionID": 43,
       "ActionName": "Referred to Comm by Council",
@@ -2631,7 +2837,7 @@
       "MatterFile": "LU 0209-2023",
       "MatterName": "Zoning, 141-05 109th Avenue Rezoning, Queens (C 220267 ZMQ)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Laid Over in Committee",
       "LastModified": "2023-05-11T16:35:31.317Z"
     },
     {
@@ -2639,7 +2845,7 @@
       "GUID": "EC1260AB-0810-41F2-A320-D36BE24CAF9A",
       "Title": "Application number N 220268 ZRQ (141-05 109th Avenue Rezoning) submitted by Mal Pal Realty Corp, pursuant to Section 201 of the New York City Charter for an amendment to the Zoning Resolution of the City of New York, modifying APPENDIX F for the purpose of establishing a Mandatory Inclusionary Housing area, Borough of Queens, Community District 12, Council District 28. ",
       "AgendaSequence": 0,
-      "MinutesSequence": 166,
+      "MinutesSequence": 167,
       "Version": "*",
       "ActionID": 43,
       "ActionName": "Referred to Comm by Council",
@@ -2648,11 +2854,24 @@
       "MatterFile": "LU 0210-2023",
       "MatterName": "Zoning, 141-05 109th Avenue Rezoning, Queens (N 220268 ZRQ)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Laid Over in Committee",
       "LastModified": "2023-05-11T16:35:43.34Z"
+    },
+    {
+      "ID": 394200,
+      "GUID": "2A5E1648-CBD7-40CF-9654-ED5447573F1A",
+      "Title": "Passed The Consent Agenda",
+      "AgendaSequence": 0,
+      "MinutesSequence": 103,
+      "Version": "",
+      "ActionText": "A motion was made that these files be approved by consent vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
+      "LastModified": "2023-05-11T21:12:17.893Z"
     }
   ],
   "AgendaLastPublished": "2023-05-11T15:28:14.937Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-05-11T15:28:15.017Z"
+  "MinutesLastPublished": "2023-05-11T22:35:20.257Z",
+  "LastModified": "2023-05-11T22:35:20.383Z"
 }
