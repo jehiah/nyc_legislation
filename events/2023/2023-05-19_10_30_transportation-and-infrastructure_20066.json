@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/5/20066_A_Committee_on_Transportation_and_Infrastructure_23-05-19_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/5/20066_M_Committee_on_Transportation_and_Infrastructure_23-05-19_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Finance",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_230519-104359.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20066&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,17 +21,57 @@
       "GUID": "2A18E3C3-9E77-4948-A336-A98ABDB91B40",
       "Title": "NEW YORK CITY COUNCIL FISCAL YEAR 2024 EXECUTIVE BUDGET HEARINGS\r\n\r\n10:30 - 12:00     Transportation\r\n\r\nJointly with the Committee on Finance",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 71277,
       "MatterFile": "T2023-3421",
       "MatterName": "Executive Budget Hearings - Transportation and Infrastructure",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-05-18T20:17:00.273Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-05-19T21:37:19.09Z"
+    },
+    {
+      "ID": 394387,
+      "GUID": "38F6E35D-5C3A-49FF-9C2B-56B69C848407",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "LastModified": "2023-05-23T15:22:14.5Z"
+    },
+    {
+      "ID": 394388,
+      "GUID": "C70641FB-F7FD-48B9-A030-2BCFC4EA7132",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Brannan, Barron, Hudson, Sanchez, Stevens, Joseph, Powers, Ossé and Dinowitz",
+      "LastModified": "2023-05-23T15:22:56.103Z"
+    },
+    {
+      "ID": 394389,
+      "GUID": "A3815441-CD82-4917-AF12-2E203FC746AD",
+      "Title": "NEW YORK CITY COUNCIL FISCAL YEAR 2024 EXECUTIVE BUDGET HEARINGS\r\n\r\n10:30 - 12:00     Transportation\r\n\r\nJointly with the Committee on Finance",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 71277,
+      "MatterFile": "T2023-3421",
+      "MatterName": "Executive Budget Hearings - Transportation and Infrastructure",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2023-05-23T15:23:01.387Z"
     }
   ],
   "AgendaLastPublished": "2023-05-18T20:17:05.687Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-05-18T20:17:05.877Z"
+  "MinutesLastPublished": "2023-05-23T15:23:07.057Z",
+  "LastModified": "2023-05-23T15:23:07.357Z"
 }
