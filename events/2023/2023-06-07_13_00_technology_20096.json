@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/6/20096_A_Committee_on_Technology_23-06-07_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/6/20096_M_Committee_on_Technology_23-06-07_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_230607-132307.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20096&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,17 +20,57 @@
       "GUID": "9C913B34-3BB0-4A2E-B726-25EBEA02DBFB",
       "Title": "Oversight - LinkNYC: Deployment of 5G Infrastructure and Wi-Fi Connectivity across the City.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 71433,
       "MatterFile": "T2023-3577",
       "MatterName": "Oversight - LinkNYC: Deployment of 5G Infrastructure and Wi-Fi Connectivity across the City.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-06-06T15:30:15.2Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-06-12T17:31:10.123Z"
+    },
+    {
+      "ID": 395394,
+      "GUID": "E84B0CAB-8D66-4A7F-9419-6B6BD7C17A69",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "LastModified": "2023-06-12T17:29:29.94Z"
+    },
+    {
+      "ID": 395395,
+      "GUID": "921EE49D-9AE8-4946-92D5-8BD3C045E18F",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Powers, Bottcher and De La Rosa ",
+      "LastModified": "2023-06-12T17:31:04.233Z"
+    },
+    {
+      "ID": 395396,
+      "GUID": "E64DA57A-78E5-4087-90A0-F3E69FB91070",
+      "Title": "Oversight - LinkNYC: Deployment of 5G Infrastructure and Wi-Fi Connectivity across the City.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 71433,
+      "MatterFile": "T2023-3577",
+      "MatterName": "Oversight - LinkNYC: Deployment of 5G Infrastructure and Wi-Fi Connectivity across the City.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2023-06-12T17:31:40.773Z"
     }
   ],
   "AgendaLastPublished": "2023-05-22T15:14:42.98Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-06-07T23:21:51.78Z"
+  "MinutesLastPublished": "2023-06-12T17:31:48.197Z",
+  "LastModified": "2023-06-12T17:31:48.383Z"
 }
