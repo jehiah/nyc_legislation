@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/6/20157_A_Committee_on_Immigration_23-06-13_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/6/20157_M_Committee_on_Immigration_23-06-13_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Women and Gender Equity.",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_230613-133752.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20157&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,26 +21,66 @@
       "GUID": "CCD283E2-8B91-45A1-8819-9F66E330C52F",
       "Title": "Jointly with the Committee on Women and Gender Equity.",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "",
-      "LastModified": "2023-05-26T15:19:32.787Z"
+      "LastModified": "2023-06-13T17:40:32.21Z"
     },
     {
       "ID": 394792,
       "GUID": "AF60A042-78D2-47CF-99B7-3E27C08EEA58",
       "Title": "Oversight - PromiseNYC and Access to Child Care for Immigrants.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 71436,
       "MatterFile": "T2023-3580",
       "MatterName": "Oversight - PromiseNYC and Access to Child Care for Immigrants.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-06-09T16:41:50.67Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-06-13T17:40:50.95Z"
+    },
+    {
+      "ID": 395442,
+      "GUID": "4F4B3C68-6596-4528-AA1C-D33075EC3AA3",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "LastModified": "2023-06-13T17:40:39.203Z"
+    },
+    {
+      "ID": 395443,
+      "GUID": "68C42C5A-C67F-416E-862C-44E820C3484F",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Riley, Cabán, Gutiérrez, Stevens and Gennaro",
+      "LastModified": "2023-06-13T21:51:02.363Z"
+    },
+    {
+      "ID": 395444,
+      "GUID": "B1B1C7E7-49F7-4F19-9F86-05BEE7015B77",
+      "Title": "Oversight - PromiseNYC and Access to Child Care for Immigrants.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 71436,
+      "MatterFile": "T2023-3580",
+      "MatterName": "Oversight - PromiseNYC and Access to Child Care for Immigrants.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2023-06-13T21:51:09.803Z"
     }
   ],
   "AgendaLastPublished": "2023-05-30T21:18:34.023Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-06-13T17:37:54.043Z"
+  "MinutesLastPublished": "2023-06-13T21:51:16.423Z",
+  "LastModified": "2023-06-13T21:51:16.58Z"
 }
