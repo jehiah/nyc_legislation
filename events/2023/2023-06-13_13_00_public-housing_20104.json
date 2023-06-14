@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/6/20104_A_Committee_on_Public_Housing_23-06-13_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/6/20104_M_Committee_on_Public_Housing_23-06-13_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_230613-131015.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20104&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,17 +20,57 @@
       "GUID": "BD6798DB-640B-4044-9E01-286EE6416D10",
       "Title": "Oversight - Summer Preparedness in NYCHA Developments",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 71465,
       "MatterFile": "T2023-3609",
       "MatterName": "Oversight - Summer Preparedness in NYCHA Developments",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-06-08T12:41:43.727Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-06-14T01:53:17.28Z"
+    },
+    {
+      "ID": 395477,
+      "GUID": "33498D7D-B18E-4F7F-A5DA-BED43FAC3EDF",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "LastModified": "2023-06-14T01:52:33.92Z"
+    },
+    {
+      "ID": 395478,
+      "GUID": "955E7DF1-B35C-44E5-8F14-F8F2B192A5A4",
+      "Title": "Oversight - Summer Preparedness in NYCHA Developments",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 71465,
+      "MatterFile": "T2023-3609",
+      "MatterName": "Oversight - Summer Preparedness in NYCHA Developments",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2023-06-14T01:53:44.223Z"
+    },
+    {
+      "ID": 395479,
+      "GUID": "9C6A4521-1551-4BAF-9CFD-6EAB3EE5BD34",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Riley and Gutierrez",
+      "LastModified": "2023-06-14T01:53:04.04Z"
     }
   ],
   "AgendaLastPublished": "2023-05-24T23:45:30.423Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-06-13T19:21:17.09Z"
+  "MinutesLastPublished": "2023-06-14T01:53:50.237Z",
+  "LastModified": "2023-06-14T01:53:50.37Z"
 }
