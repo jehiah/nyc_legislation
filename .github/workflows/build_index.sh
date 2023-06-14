@@ -51,9 +51,9 @@ for PERSON in people/*.json; do
     fi
     echo "building legislation_$(basename $PERSON)"
     if [ -e introduction/2023 ]; then
-        jq -c -s "map(select(.Sponsors[]?.ID == ${PERSON_ID})) | map(del(.RTF,.GUID,.TextID,.StatusID,.TypeID,.TypeName,.AgendaDate,.Attachments,.Text, .Version)) | map(.History = (.History[]? | del(.Votes)))" introduction/2022/????.json introduction/2023/????.json  > build/legislation_$(basename $PERSON .json).json;
+        jq -c -s "map(select(.Sponsors[]?.ID == ${PERSON_ID})) | map(del(.RTF,.GUID,.TextID,.StatusID,.TypeID,.TypeName,.AgendaDate,.Attachments,.Text, .Version)) | map(.History = [(.History[]? | del(.Votes))])" introduction/2022/????.json introduction/2023/????.json  > build/legislation_$(basename $PERSON .json).json;
     else
-        jq -c -s "map(select(.Sponsors[]?.ID == ${PERSON_ID})) | map(del(.RTF,.GUID,.TextID,.StatusID,.TypeID,.TypeName,.AgendaDate,.Attachments,.Text,.Version)) | map(.History = (.History[]? | del(.Votes)))" introduction/2022/????.json > build/legislation_$(basename $PERSON .json).json;
+        jq -c -s "map(select(.Sponsors[]?.ID == ${PERSON_ID})) | map(del(.RTF,.GUID,.TextID,.StatusID,.TypeID,.TypeName,.AgendaDate,.Attachments,.Text,.Version)) | map(.History = [(.History[]? | del(.Votes))])" introduction/2022/????.json > build/legislation_$(basename $PERSON .json).json;
     fi
 done
 
