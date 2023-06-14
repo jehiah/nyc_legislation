@@ -10,8 +10,8 @@ for YEAR in introduction/????; do
     # remove fields not needed in the output
     echo "building index $(basename $YEAR).json"
     jq -c -s "map(del(.RTF,.GUID,.BodyID,.EnactmentDate,.PassedDate,.Version,.TextID,.StatusID,.TypeID,.TypeName,.AgendaDate,.Text,.Attachments)) | map(.History = ([.History[]? | del(.ActionID,.AgendaSequence,.MinutesSequence,.AgendaNumber,.Version,.MatterStatusID,.EventID,.LastModified,.ID,.BodyID,.Votes)] ))" $YEAR/????.json > build/$(basename $YEAR).json;
-
-    jq -c -s "[map({File, StatusID, StatusName, History: ([.History[]? | select(.PassedFlagName != null) | {ActionID, Action, PassedFlagName, Votes: [(.Votes[]? | del(.Sort,.FullName,.Slug) ) ] }])}) | .[] | select((.History | length)> 0)]" $YEAR/????.json > build/$(basename $YEAR)_votes.json;
+    echo "building index $(basename $YEAR)_votes.json"
+    jq -c -s "map({File, StatusID, StatusName, Sponsors: ([.Sponsors[]? | {ID}]), History: ([.History[]? | select(.PassedFlagName != null) | {ActionID, Action, PassedFlagName, Votes: [(.Votes[]? | {ID, VoteID} ) ] }])}) " $YEAR/????.json > build/$(basename $YEAR)_votes.json;
 
 done
 
