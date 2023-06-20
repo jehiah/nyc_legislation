@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/6/20147_A_Committee_on_Civil_Service_and_Labor_23-06-20_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/6/20147_M_Committee_on_Civil_Service_and_Labor_23-06-20_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_230620-131448.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20147&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,7 +20,7 @@
       "GUID": "D5CC5305-40F6-4E14-8590-49F237F88CC7",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to creating an informational campaign concerning workers’ rights under the earned safe and sick time act",
       "AgendaSequence": 2,
-      "MinutesSequence": 4,
+      "MinutesSequence": 5,
       "Version": "*",
       "ActionID": 54,
       "ActionName": "Hearing Held by Committee",
@@ -27,7 +29,7 @@
       "MatterFile": "Int 0078-2022",
       "MatterName": "Creating an informational campaign concerning workers’ rights under the earned safe and sick time act.",
       "MatterType": "Introduction",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Laid Over in Committee",
       "LastModified": "2023-06-20T16:56:55.6Z"
     },
     {
@@ -35,7 +37,7 @@
       "GUID": "63B08C43-48BE-4036-B6EF-4F66844A1ADC",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the provision of sick time earned by employees",
       "AgendaSequence": 3,
-      "MinutesSequence": 6,
+      "MinutesSequence": 7,
       "Version": "*",
       "ActionID": 54,
       "ActionName": "Hearing Held by Committee",
@@ -44,7 +46,7 @@
       "MatterFile": "Int 0563-2022",
       "MatterName": "Provision of sick time earned by employees.",
       "MatterType": "Introduction",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Laid Over in Committee",
       "LastModified": "2023-06-20T16:56:58.83Z"
     },
     {
@@ -52,7 +54,7 @@
       "GUID": "9783A645-B17B-4A20-B70C-2F59BE42E48C",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the expansion of worker coverage under the Earned Safe and Sick Time Act",
       "AgendaSequence": 4,
-      "MinutesSequence": 8,
+      "MinutesSequence": 9,
       "Version": "*",
       "ActionID": 54,
       "ActionName": "Hearing Held by Committee",
@@ -61,7 +63,7 @@
       "MatterFile": "Int 0617-2022",
       "MatterName": "Earned Safe and Sick Time Act",
       "MatterType": "Introduction",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Laid Over in Committee",
       "LastModified": "2023-06-20T16:57:01.9Z"
     },
     {
@@ -69,7 +71,7 @@
       "GUID": "6F9AA6BB-591B-491F-BEF4-3C37C8D8AF65",
       "Title": "Oversight - Safe and Sick Time",
       "AgendaSequence": 1,
-      "MinutesSequence": 2,
+      "MinutesSequence": 3,
       "Version": "*",
       "ActionID": 54,
       "ActionName": "Hearing Held by Committee",
@@ -78,7 +80,7 @@
       "MatterFile": "T2023-3593",
       "MatterName": "Oversight - Safe and Sick Time",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Filed",
       "LastModified": "2023-06-20T16:56:52.497Z"
     },
     {
@@ -89,66 +91,88 @@
       "MinutesSequence": 1,
       "Version": "",
       "RollCallFlag": 1,
-      "LastModified": "2023-06-20T16:56:48.123Z"
+      "LastModified": "2023-06-20T19:36:21Z"
     },
     {
       "ID": 395576,
       "GUID": "4572235C-B780-45E3-B8F7-25841FEA50E0",
       "Title": "Oversight - Safe and Sick Time",
       "AgendaSequence": 0,
-      "MinutesSequence": 3,
+      "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
       "MatterID": 71449,
       "MatterFile": "T2023-3593",
       "MatterName": "Oversight - Safe and Sick Time",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-06-20T16:56:31.77Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-06-20T19:36:46.227Z"
     },
     {
       "ID": 395577,
       "GUID": "B951C957-D8AA-4156-9D64-705D55BEE804",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to creating an informational campaign concerning workers’ rights under the earned safe and sick time act",
       "AgendaSequence": 0,
-      "MinutesSequence": 5,
+      "MinutesSequence": 6,
       "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
       "MatterID": 68357,
       "MatterFile": "Int 0078-2022",
       "MatterName": "Creating an informational campaign concerning workers’ rights under the earned safe and sick time act.",
       "MatterType": "Introduction",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-06-20T16:56:35.117Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-06-20T19:36:49.86Z"
     },
     {
       "ID": 395578,
       "GUID": "CB119550-E8CC-46BA-9D9A-71098CBFB3FE",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the provision of sick time earned by employees",
       "AgendaSequence": 0,
-      "MinutesSequence": 7,
+      "MinutesSequence": 8,
       "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
       "MatterID": 69581,
       "MatterFile": "Int 0563-2022",
       "MatterName": "Provision of sick time earned by employees.",
       "MatterType": "Introduction",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-06-20T16:56:38.163Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-06-20T19:36:52.47Z"
     },
     {
       "ID": 395579,
       "GUID": "C8C9F1C4-BFF6-4543-9BBB-85CDED07A3AB",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the expansion of worker coverage under the Earned Safe and Sick Time Act",
       "AgendaSequence": 0,
-      "MinutesSequence": 9,
+      "MinutesSequence": 10,
       "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
       "MatterID": 68826,
       "MatterFile": "Int 0617-2022",
       "MatterName": "Earned Safe and Sick Time Act",
       "MatterType": "Introduction",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-06-20T16:56:41.62Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-06-20T19:37:00.227Z"
+    },
+    {
+      "ID": 395604,
+      "GUID": "17505339-8BBA-4BC6-9533-F7C2CF55E718",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Hanif and Brewer",
+      "LastModified": "2023-06-20T19:36:41.387Z"
     }
   ],
   "AgendaLastPublished": "2023-06-14T23:11:38.403Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-06-20T17:14:49.88Z"
+  "MinutesLastPublished": "2023-06-20T19:37:05.687Z",
+  "LastModified": "2023-06-20T19:37:05.803Z"
 }
