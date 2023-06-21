@@ -18,7 +18,7 @@ done
 
 for YEAR in events/????; do
     echo "building events_$(basename $YEAR).json"
-    jq -c -s "map(del(.GUID,.VideoPath,.VideoStatus,.MinutesFile,.AgendaFile)) | map(.Items = ([.Items[]? | del(.ID,.GUID,.MatterID,.LastModified,.Version,.MinutesNote,.ActionText,.PassedFlag)] ))" $YEAR/*.json > build/events_$(basename $YEAR).json;
+    jq -c -s "map(del(.GUID,.VideoPath,.VideoStatus,.MinutesFile,.AgendaFile)) | map(.Items = ([.Items[]? | del(.ID,.GUID,.MatterID,.LastModified,.Version,.MinutesNote,.ActionText,.PassedFlag,.RollCall)] ))" $YEAR/*.json > build/events_$(basename $YEAR).json;
 done
 
 echo "building people_active.json"
