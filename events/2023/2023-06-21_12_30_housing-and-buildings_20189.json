@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/6/20189_A_Committee_on_Housing_and_Buildings_23-06-21_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/6/20189_M_Committee_on_Housing_and_Buildings_23-06-21_Meeting_Minutes.pdf",
   "Comment": "VOTE",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-250-14_230621-124858.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20189&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,17 +21,49 @@
       "GUID": "7421D681-153A-4451-A3A6-3F2261F68249",
       "Title": "Resolution calling on Congress to pass and the President to sign legislation in relation to increasing the supply and affordability of certain housing and to adjust the calculations of area median income for purposes of Federal low-income housing assistance, and for other purposes.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 68533,
       "MatterFile": "Res 0080-2022",
       "MatterName": "Increasing the supply and affordability of certain housing and to adjust the calculations of area median income for purposes of Federal low-income housing assistance, and for other purposes.",
       "MatterType": "Resolution",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-06-17T01:34:22.27Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-06-21T16:23:40.223Z"
+    },
+    {
+      "ID": 395768,
+      "GUID": "3E433A48-A6EF-41A3-B5E9-4306C52C7608",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "LastModified": "2023-06-21T16:23:36.627Z"
+    },
+    {
+      "ID": 395769,
+      "GUID": "5FDE2533-E415-46CF-8457-E31B5A8EEF54",
+      "Title": "Resolution calling on Congress to pass and the President to sign legislation in relation to increasing the supply and affordability of certain housing and to adjust the calculations of area median income for purposes of Federal low-income housing assistance, and for other purposes.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Resolution be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 68533,
+      "MatterFile": "Res 0080-2022",
+      "MatterName": "Increasing the supply and affordability of certain housing and to adjust the calculations of area median income for purposes of Federal low-income housing assistance, and for other purposes.",
+      "MatterType": "Resolution",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-06-21T17:24:07.287Z"
     }
   ],
   "AgendaLastPublished": "2023-06-17T01:34:26.613Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-06-17T01:34:26.66Z"
+  "MinutesLastPublished": "2023-06-21T17:24:11.57Z",
+  "LastModified": "2023-06-21T17:24:11.633Z"
 }
