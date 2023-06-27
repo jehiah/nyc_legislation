@@ -8,11 +8,13 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/6/20112_A_Committee_on_Transportation_and_Infrastructure_23-06-26_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/6/20112_M_Committee_on_Transportation_and_Infrastructure_23-06-26_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Public Safety",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_230626-101926.mp4",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_230626-101926.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20112&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -20,68 +22,274 @@
       "GUID": "5F240830-9A6A-454F-91D6-63D668A5BB0F",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to prohibiting the operation of a motor vehicle with fraudulent or expired license plates",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 70947,
       "MatterFile": "Int 0987-2023",
       "MatterName": "Prohibiting the operation of a motor vehicle with fraudulent or expired license plates.",
       "MatterType": "Introduction",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-05-16T22:26:23.037Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-06-26T18:04:46.847Z"
     },
     {
       "ID": 394266,
       "GUID": "7DD7EFB0-B4A6-46F8-81E8-65DDF3A22BA4",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to prohibiting the sale or distribution of fraudulent license plates",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 70889,
       "MatterFile": "Int 0988-2023",
       "MatterName": "Prohibiting the sale or distribution of fraudulent license plates.",
       "MatterType": "Introduction",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-06-08T15:53:17.25Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-06-26T18:05:12.33Z"
     },
     {
       "ID": 394268,
       "GUID": "1FEF99D3-4F21-41C0-B493-4A71BC9B88FB",
       "Title": "Jointly with the Committee on Public Safety",
       "AgendaSequence": 5,
-      "MinutesSequence": 5,
+      "MinutesSequence": 11,
       "Version": "",
-      "LastModified": "2023-06-08T15:53:17.46Z"
+      "LastModified": "2023-06-27T14:11:09.503Z"
     },
     {
       "ID": 394270,
       "GUID": "9ECD6DDC-E75B-46A0-B451-D87B2522DD9E",
       "Title": "Oversight - Enforcement of Defaced, Fraudulent and Expired License Plates.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 71404,
       "MatterFile": "T2023-3548",
       "MatterName": "Oversight - Enforcement of Defaced, Fraudulent and Expired License Plates.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-05-16T22:26:23.03Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-06-26T18:03:57.077Z"
     },
     {
       "ID": 395362,
       "GUID": "7D0EBF7B-458D-4474-8F7D-5FCCF8E82CB7",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to providing information on reduced fare programs to individuals arrested or summoned for fare evasion",
       "AgendaSequence": 4,
-      "MinutesSequence": 4,
+      "MinutesSequence": 9,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 71195,
       "MatterFile": "Int 1011-2023",
       "MatterName": "Providing information on reduced fare programs to individuals arrested or summoned for fare evasion.",
       "MatterType": "Introduction",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-06-08T15:53:33.617Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-06-26T18:05:37.35Z"
+    },
+    {
+      "ID": 395930,
+      "GUID": "85865C1A-9003-4D2E-A9B4-A692868A9CE5",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7830,
+          "Slug": "ari-kagan",
+          "FullName": "Ari Kagan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 180
+        },
+        {
+          "ID": 7740,
+          "Slug": "carlina-rivera",
+          "FullName": "Carlina Rivera",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 190
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 240
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 260
+        },
+        {
+          "ID": 7749,
+          "Slug": "kalman-yeger",
+          "FullName": "Kalman Yeger",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 280
+        }
+      ],
+      "LastModified": "2023-06-27T14:11:29.91Z"
+    },
+    {
+      "ID": 395931,
+      "GUID": "6276F72C-4588-474A-A17D-0C16A7AF6CE2",
+      "Title": "Oversight - Enforcement of Defaced, Fraudulent and Expired License Plates.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 71404,
+      "MatterFile": "T2023-3548",
+      "MatterName": "Oversight - Enforcement of Defaced, Fraudulent and Expired License Plates.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2023-06-26T18:04:14.32Z"
+    },
+    {
+      "ID": 395932,
+      "GUID": "EABE2E24-8FCC-47EC-82A1-9DBCE1361DD4",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to prohibiting the operation of a motor vehicle with fraudulent or expired license plates",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 70947,
+      "MatterFile": "Int 0987-2023",
+      "MatterName": "Prohibiting the operation of a motor vehicle with fraudulent or expired license plates.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-06-26T18:04:51.183Z"
+    },
+    {
+      "ID": 395933,
+      "GUID": "3C97D519-8F2C-477A-92F8-3FE9F9C7B9A5",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to prohibiting the sale or distribution of fraudulent license plates",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 70889,
+      "MatterFile": "Int 0988-2023",
+      "MatterName": "Prohibiting the sale or distribution of fraudulent license plates.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-06-26T18:05:17.5Z"
+    },
+    {
+      "ID": 395934,
+      "GUID": "FF5DF41B-5FFA-431F-9F0D-CCF86AC7029E",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to providing information on reduced fare programs to individuals arrested or summoned for fare evasion",
+      "AgendaSequence": 0,
+      "MinutesSequence": 10,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 71195,
+      "MatterFile": "Int 1011-2023",
+      "MatterName": "Providing information on reduced fare programs to individuals arrested or summoned for fare evasion.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-06-26T18:05:42.407Z"
+    },
+    {
+      "ID": 395945,
+      "GUID": "C1D421B9-4B5F-4D6C-AFA0-662919ED0FB7",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Hanks, Carr, De La Rosa, Joseph, Paladino, Feliz, Cabán, Holden, Bottcher and Brannan",
+      "LastModified": "2023-06-27T14:12:37.763Z"
     }
   ],
   "AgendaLastPublished": "2023-06-08T15:53:38.937Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-06-26T15:46:36.883Z"
+  "MinutesLastPublished": "2023-06-27T14:12:44.68Z",
+  "LastModified": "2023-06-27T14:12:44.883Z"
 }
