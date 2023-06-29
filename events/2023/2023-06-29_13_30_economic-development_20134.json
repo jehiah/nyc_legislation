@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/6/20134_A_Committee_on_Economic_Development_23-06-29_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/6/20134_M_Committee_on_Economic_Development_23-06-29_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Land Use.",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_230629-142924.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20134&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,40 +21,158 @@
       "GUID": "C732FBC0-D8F6-4618-BB2A-F9FCD0416AFD",
       "Title": "Jointly with the Committee on Land Use",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "",
-      "LastModified": "2023-06-29T13:53:28.853Z"
+      "LastModified": "2023-06-29T19:05:04.933Z"
     },
     {
       "ID": 394369,
       "GUID": "9A62BE26-B0E9-4382-9891-DA20D192FD65",
       "Title": "Oversight - Industrial Development Action Plans",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 71401,
       "MatterFile": "T2023-3545",
       "MatterName": "Oversight - Industrial Development Action Plans",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-06-29T13:54:09.43Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-06-29T19:05:18.49Z"
     },
     {
       "ID": 394370,
       "GUID": "209E2CB6-63A1-4AD6-98A0-3578EBC6C7EC",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to industrial development action plans",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 71142,
       "MatterFile": "Int 1012-2023",
       "MatterName": "Industrial development action plans.",
       "MatterType": "Introduction",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-05-19T16:21:31.757Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-06-29T19:05:22.377Z"
+    },
+    {
+      "ID": 396031,
+      "GUID": "5A3C98C9-1C73-4C8B-A275-CE0C6A1504EE",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7830,
+          "Slug": "ari-kagan",
+          "FullName": "Ari Kagan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 130
+        }
+      ],
+      "LastModified": "2023-06-29T22:17:10.227Z"
+    },
+    {
+      "ID": 396032,
+      "GUID": "50929919-0ADB-47B1-B557-5CE85C87A197",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Speaker Adams, Bottcher, Louis, Mealy, Brooks-Powers, Moya, Abreu, Rivera, Sanchez, Borelli and Cabán",
+      "LastModified": "2023-06-29T22:18:21Z"
+    },
+    {
+      "ID": 396033,
+      "GUID": "742C158B-EBDA-41B1-8358-46471FA8BE43",
+      "Title": "Oversight - Industrial Development Action Plans",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 71401,
+      "MatterFile": "T2023-3545",
+      "MatterName": "Oversight - Industrial Development Action Plans",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2023-06-29T22:18:25.8Z"
+    },
+    {
+      "ID": 396034,
+      "GUID": "CC35B025-49A6-464C-B40A-F9815154BFE8",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to industrial development action plans",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 71142,
+      "MatterFile": "Int 1012-2023",
+      "MatterName": "Industrial development action plans.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-06-29T22:20:20.447Z"
     }
   ],
   "AgendaLastPublished": "2023-06-29T13:54:13.977Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-06-29T13:54:14.04Z"
+  "MinutesLastPublished": "2023-06-29T22:19:43.053Z",
+  "LastModified": "2023-06-29T22:19:43.1Z"
 }
