@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/6/20216_A_City_Council_23-06-30_Council_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/6/20216_M_City_Council_23-06-30_Meeting_Minutes.pdf",
   "Comment": "BUDGET ADOPTION",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_230630-125532.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20216&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -23,7 +25,418 @@
       "AgendaNumber": "1.",
       "Version": "",
       "AgendaNote": "ROLL CALL",
-      "LastModified": "2023-06-30T17:04:35.313Z"
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7739,
+          "Slug": "adrienne-e-adams",
+          "FullName": "Adrienne E. Adams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 1
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 5288,
+          "Slug": "charles-barron",
+          "FullName": "Charles Barron",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7264,
+          "Slug": "joseph-c-borelli",
+          "FullName": "Joseph C. Borelli",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 200
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 220
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 240
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 260
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 280
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 300
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 320
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 340
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 380
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 400
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 420
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 440
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 460
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 480
+        },
+        {
+          "ID": 7805,
+          "Slug": "kristin-richardson-jordan",
+          "FullName": "Kristin Richardson Jordan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 500
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 520
+        },
+        {
+          "ID": 7830,
+          "Slug": "ari-kagan",
+          "FullName": "Ari Kagan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 540
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 560
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 580
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 600
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 620
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 640
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 660
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 680
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 700
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 720
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 740
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 760
+        },
+        {
+          "ID": 7741,
+          "Slug": "keith-powers",
+          "FullName": "Keith Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 780
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 800
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 820
+        },
+        {
+          "ID": 7740,
+          "Slug": "carlina-rivera",
+          "FullName": "Carlina Rivera",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 840
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 860
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 880
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 900
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 920
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 940
+        },
+        {
+          "ID": 7807,
+          "Slug": "marjorie-velazquez",
+          "FullName": "Marjorie Velázquez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 960
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 980
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 1000
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 1020
+        },
+        {
+          "ID": 7749,
+          "Slug": "kalman-yeger",
+          "FullName": "Kalman Yeger",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 1040
+        }
+      ],
+      "LastModified": "2023-06-30T19:25:02.017Z"
     },
     {
       "ID": 396036,
@@ -34,7 +447,8 @@
       "AgendaNumber": "2.",
       "Version": "",
       "AgendaNote": "INVOCATION - Delivered by: Sensei Koshin Paley Ellison, MPA, LMSW, DMIN, President & Guiding Teacher, Sensei Chodo Robert Campbell, GC-C, Co-Founder, New York Zen Center for Contemplative Care located at 119 West 23rd Street, Suite 401, New York, NY 10011.\r\n\r\nMotion to spread the Invocation in full upon the record by Council Member Bottcher.",
-      "LastModified": "2023-06-30T17:04:26.49Z"
+      "MinutesNote": "The Invocation was delivered by Sensei Koshin Paley Ellison, MPA, LMSW, DMIN, President & Guiding Teacher, Sensei Chodo Robert Campbell, GC-C, Co-Founder, New York  Zen Center for Contemplative Care located at 119 West 23rd Street, Suite 401, New York, NY 10011.\r\n\r\nCouncil Member Bottcher moved to spread the Invocation in full upon the Record.",
+      "LastModified": "2023-06-30T20:10:29.6Z"
     },
     {
       "ID": 396037,
@@ -45,7 +459,8 @@
       "AgendaNumber": "3.",
       "Version": "",
       "AgendaNote": "ADOPTION OF MINUTES - None",
-      "LastModified": "2023-06-30T11:06:28.667Z"
+      "MinutesNote": "None",
+      "LastModified": "2023-06-30T20:57:52.657Z"
     },
     {
       "ID": 396038,
@@ -91,7 +506,7 @@
       "Version": "",
       "AgendaNote": "LAND USE CALL-UPS – None",
       "MinutesNote": "None",
-      "LastModified": "2023-06-30T16:17:14.027Z"
+      "LastModified": "2023-06-30T20:58:05.57Z"
     },
     {
       "ID": 396045,
@@ -113,7 +528,7 @@
       "AgendaNumber": "9.",
       "Version": "",
       "AgendaNote": "DISCUSSION OF GENERAL ORDERS",
-      "LastModified": "2023-06-30T16:17:15.657Z"
+      "LastModified": "2023-06-30T19:26:48.63Z"
     },
     {
       "ID": 396047,
@@ -125,7 +540,7 @@
       "Version": "",
       "AgendaNote": "REPORTS OF SPECIAL COMMITTEES - None",
       "MinutesNote": "None",
-      "LastModified": "2023-06-30T16:17:19.777Z"
+      "LastModified": "2023-06-30T20:58:11.563Z"
     },
     {
       "ID": 396048,
@@ -136,7 +551,7 @@
       "AgendaNumber": "11.",
       "Version": "",
       "AgendaNote": "REPORTS OF STANDING COMMITTEES",
-      "LastModified": "2023-06-30T11:06:28.68Z"
+      "LastModified": "2023-06-30T19:26:58.803Z"
     },
     {
       "ID": 396049,
@@ -156,12 +571,17 @@
       "MinutesSequence": 29,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 71609,
       "MatterFile": "Res 0703-2023",
       "MatterName": "COMPUTING AND CERTIFYING BASE PERCENTAGE, CURRENT PERCENTAGE AND CURRENT BASE PROPORTION OF EACH CLASS OF REAL PROPERTY FOR FISCAL 2024 TO THE STATE BOARD OF REAL PROPERTY TAX SERVICES.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee and Introduced",
-      "LastModified": "2023-06-30T13:39:56.947Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-06-30T19:31:51.86Z"
     },
     {
       "ID": 396051,
@@ -171,12 +591,17 @@
       "MinutesSequence": 30,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 71610,
       "MatterFile": "Res 0704-2023",
       "MatterName": "COMPUTING AND CERTIFYING ADJUSTED BASE PROPORTION OF EACH CLASS OF REAL PROPERTY FOR FISCAL 2024 TO THE STATE BOARD OF REAL PROPERTY TAX SERVICES.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee and Introduced",
-      "LastModified": "2023-06-30T13:37:50.907Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-06-30T19:33:17.207Z"
     },
     {
       "ID": 396052,
@@ -186,12 +611,17 @@
       "MinutesSequence": 31,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 71611,
       "MatterFile": "Res 0705-2023",
       "MatterName": "Approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee and Introduced",
-      "LastModified": "2023-06-30T11:06:28.68Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-06-30T20:12:28.19Z"
     },
     {
       "ID": 396053,
@@ -201,12 +631,17 @@
       "MinutesSequence": 33,
       "Version": "*",
       "AgendaNote": "Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 71612,
       "MatterFile": "Res 0706-2023",
       "MatterName": "M 141 -  EXECUTIVE EXPENSE CONTRACT REVENUE BUDGET FOR FY 2024, AS MODIFIED:  RESOLUTION TO PROVIDE THE AMOUNTS NECESSARY FOR THE SUPPORT OF THE GOVERNMENT OF NYC AND FOR THE PAYMENT OF DEBTS, THEREOF.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-06-30T17:14:37.11Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-06-30T19:37:45.9Z"
     },
     {
       "ID": 396054,
@@ -216,12 +651,17 @@
       "MinutesSequence": 34,
       "Version": "*",
       "AgendaNote": "Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 71613,
       "MatterFile": "Res 0707-2023",
       "MatterName": "M 141 – EXECUTIVE EXPENSE CONTRACT REVENUE BUDGET FOR FY 2024, AS MODIFIED:  RESOLUTION TO ADOPT A CONTRACT BUDGET.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-06-30T17:14:26.493Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-06-30T19:39:15.36Z"
     },
     {
       "ID": 396055,
@@ -231,12 +671,17 @@
       "MinutesSequence": 36,
       "Version": "*",
       "AgendaNote": "Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 71614,
       "MatterFile": "Res 0708-2023",
       "MatterName": "M 142 - EXECUTIVE CAPITAL BUDGET FOR FY'24 AND CAPITAL PROGRAM FOR THE ENSUING THREE YEARS, AS MODIFIED (RESOLUTION A)",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-06-30T15:26:52.527Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-06-30T19:45:10.603Z"
     },
     {
       "ID": 396056,
@@ -246,12 +691,17 @@
       "MinutesSequence": 37,
       "Version": "*",
       "AgendaNote": "Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 71615,
       "MatterFile": "Res 0709-2023",
       "MatterName": "M 142 – EXECUTIVE CAPITAL BUDGET FOR FY'24 AND CAPITAL PROGRAM FOR THE ENSUING THREE YEARS, AS MODIFIED (RESOLUTION B).",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-06-30T15:27:27.42Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-06-30T19:47:15.51Z"
     },
     {
       "ID": 396057,
@@ -261,12 +711,17 @@
       "MinutesSequence": 39,
       "Version": "*",
       "AgendaNote": "Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 71616,
       "MatterFile": "Res 0710-2023",
       "MatterName": "M 143 - Resolution approving The City Fiscal Year 2024 Community Development Program, Reallocation of Forty-Ninth Year Community Development Funds, and the Proposed Fiftieth Year Community Development Program.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-06-30T11:06:28.69Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-06-30T19:48:51.763Z"
     },
     {
       "ID": 396058,
@@ -276,12 +731,17 @@
       "MinutesSequence": 45,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 71618,
       "MatterFile": "Res 0713-2023",
       "MatterName": "M 169  - Resolution to provide the amounts necessary for the support of the Government of the City of New York and the counties therein and for the payment of indebtedness thereof, for the Fiscal Year beginning on July 1, 2023 and ending on June 30, 2024.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee and Introduced",
-      "LastModified": "2023-06-30T16:29:52.19Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-06-30T21:01:26.963Z"
     },
     {
       "ID": 396061,
@@ -291,12 +751,17 @@
       "MinutesSequence": 58,
       "Version": "*",
       "AgendaNote": "Coupled to be Filed",
+      "ActionID": 69,
+      "ActionName": "Filed by Council",
+      "ActionText": "A motion was made that this Communication be Filed by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 71383,
       "MatterFile": "M 0157-2023",
       "MatterName": "NYC Banking Commission - Transmitting recommendations of the interest rate to be charged for Fiscal Year 2024.",
       "MatterType": "Communication",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-06-30T11:06:28.703Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-06-30T20:08:22.91Z"
     },
     {
       "ID": 396062,
@@ -306,12 +771,17 @@
       "MinutesSequence": 44,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Communication be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 71617,
       "MatterFile": "M 0169-2023",
       "MatterName": "Report of the Committee on Finance in favor of approving a resolution of the Council of the City of New York fixing the tax rate for the Fiscal Year 2024, adopted June 30, 2023 upon the recommendation of the Committee on Finance of the Council.",
       "MatterType": "Communication",
-      "MatterStatus": "Reported from Committee and Introduced",
-      "LastModified": "2023-06-30T11:06:28.693Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-06-30T19:52:23.413Z"
     },
     {
       "ID": 396065,
@@ -321,12 +791,17 @@
       "MinutesSequence": 46,
       "Version": "*",
       "AgendaNote": "Coupled to be Filed",
+      "ActionID": 69,
+      "ActionName": "Filed by Council",
+      "ActionText": "A motion was made that this Mayor's Message be Filed by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 70751,
       "MatterFile": "M 0113-2023",
       "MatterName": "Submitting Preliminary Expense, Revenue, and Contract Budget for Fiscal Year 2024.",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-06-30T11:06:28.693Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-06-30T19:58:55.447Z"
     },
     {
       "ID": 396066,
@@ -336,12 +811,17 @@
       "MinutesSequence": 47,
       "Version": "*",
       "AgendaNote": "Coupled to be Filed",
+      "ActionID": 69,
+      "ActionName": "Filed by Council",
+      "ActionText": "A motion was made that this Mayor's Message be Filed by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 70752,
       "MatterFile": "M 0114-2023",
       "MatterName": "Submitting January 2023 Financial Plan Detail for Fiscal Years 2023-2027.",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-06-30T11:06:28.697Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-06-30T19:59:27.217Z"
     },
     {
       "ID": 396067,
@@ -351,12 +831,17 @@
       "MinutesSequence": 48,
       "Version": "*",
       "AgendaNote": "Coupled to be Filed",
+      "ActionID": 69,
+      "ActionName": "Filed by Council",
+      "ActionText": "A motion was made that this Mayor's Message be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 70753,
       "MatterFile": "M 0115-2023",
       "MatterName": "Submitting Geographic Reports for Expense Budget for Fiscal Year 2024.",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-06-30T11:06:28.697Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-06-30T20:00:40.55Z"
     },
     {
       "ID": 396068,
@@ -366,12 +851,17 @@
       "MinutesSequence": 49,
       "Version": "*",
       "AgendaNote": "Coupled to be Filed",
+      "ActionID": 69,
+      "ActionName": "Filed by Council",
+      "ActionText": "A motion was made that this Mayor's Message be Filed by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 70754,
       "MatterFile": "M 0116-2023",
       "MatterName": "Submitting Departmental Estimates for Fiscal Year 2024.",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-06-30T11:06:28.697Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-06-30T20:01:13.56Z"
     },
     {
       "ID": 396069,
@@ -381,12 +871,17 @@
       "MinutesSequence": 50,
       "Version": "*",
       "AgendaNote": "Coupled to be Filed",
+      "ActionID": 69,
+      "ActionName": "Filed by Council",
+      "ActionText": "A motion was made that this Mayor's Message be Filed by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 70755,
       "MatterFile": "M 0117-2023",
       "MatterName": "Submitting the Preliminary Capital Budget, Fiscal Year 2024.",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-06-30T11:06:28.697Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-06-30T20:01:40.543Z"
     },
     {
       "ID": 396070,
@@ -396,12 +891,17 @@
       "MinutesSequence": 51,
       "Version": "*",
       "AgendaNote": "Coupled to be Filed",
+      "ActionID": 69,
+      "ActionName": "Filed by Council",
+      "ActionText": "A motion was made that this Mayor's Message be Filed by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 70756,
       "MatterFile": "M 0118-2023",
       "MatterName": "Submitting the Preliminary Capital Commitment Plan, Fiscal Year 2024.",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-06-30T11:06:28.7Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-06-30T20:02:06.347Z"
     },
     {
       "ID": 396071,
@@ -411,12 +911,17 @@
       "MinutesSequence": 52,
       "Version": "*",
       "AgendaNote": "Coupled to be Filed",
+      "ActionID": 69,
+      "ActionName": "Filed by Council",
+      "ActionText": "A motion was made that this Mayor's Message be Filed by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 70757,
       "MatterFile": "M 0119-2023",
       "MatterName": "Submitting the Preliminary Ten-Year Capital Strategy Fiscal Years 2024-2033.",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-06-30T11:06:28.7Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-06-30T20:02:39.043Z"
     },
     {
       "ID": 396072,
@@ -426,12 +931,17 @@
       "MinutesSequence": 32,
       "Version": "*",
       "AgendaNote": "Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Mayor's Message be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 71174,
       "MatterFile": "M 0141-2023",
       "MatterName": "Submitting the Expense Revenue Contract Budget, for Fiscal Year 2024.",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2023-06-30T11:06:28.683Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-06-30T19:35:35.78Z"
     },
     {
       "ID": 396073,
@@ -441,12 +951,17 @@
       "MinutesSequence": 35,
       "Version": "*",
       "AgendaNote": "Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Mayor's Message be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 71175,
       "MatterFile": "M 0142-2023",
       "MatterName": "Executive Capital Budget for Fiscal Year 2024.",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2023-06-30T15:09:52.27Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-06-30T19:43:43.71Z"
     },
     {
       "ID": 396074,
@@ -456,12 +971,17 @@
       "MinutesSequence": 38,
       "Version": "*",
       "AgendaNote": "Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Mayor's Message be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 71176,
       "MatterFile": "M 0143-2023",
       "MatterName": "Submitting the Proposed City Fiscal Year 2024 Community Development Program, the Proposed CFY'24 Budget, the Proposed Reallocations-the CD 49 Funds, Proposed CD 50 Statement of Objectives and Budget, dated April 27, 2023.",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2023-06-30T11:06:28.687Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-06-30T19:48:04.493Z"
     },
     {
       "ID": 396075,
@@ -471,12 +991,17 @@
       "MinutesSequence": 53,
       "Version": "*",
       "AgendaNote": "Coupled to be Filed",
+      "ActionID": 69,
+      "ActionName": "Filed by Council",
+      "ActionText": "A motion was made that this Mayor's Message be Filed by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 71177,
       "MatterFile": "M 0144-2023",
       "MatterName": "Submitting the Executive Budget Supporting Schedules, for Fiscal Year 2023.",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-06-30T11:06:28.7Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-06-30T20:03:08.663Z"
     },
     {
       "ID": 396076,
@@ -486,12 +1011,17 @@
       "MinutesSequence": 54,
       "Version": "*",
       "AgendaNote": "Coupled to be Filed",
+      "ActionID": 69,
+      "ActionName": "Filed by Council",
+      "ActionText": "A motion was made that this Mayor's Message be Filed by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 71178,
       "MatterFile": "M 0145-2023",
       "MatterName": "Submitting the Capital Commitment Plan, Executive Budget, Fiscal Year 2024, Volumes 1, 2, 3 and 4.",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-06-30T11:06:28.7Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-06-30T20:03:34.737Z"
     },
     {
       "ID": 396077,
@@ -501,12 +1031,17 @@
       "MinutesSequence": 55,
       "Version": "*",
       "AgendaNote": "Coupled to be Filed",
+      "ActionID": 69,
+      "ActionName": "Filed by Council",
+      "ActionText": "A motion was made that this Mayor's Message be Filed by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 71179,
       "MatterFile": "M 0146-2023",
       "MatterName": "Submitting the Executive Budget - Geographic Reports for Expense Budget for Fiscal Year 2024.",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-06-30T11:06:28.7Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-06-30T20:05:46.107Z"
     },
     {
       "ID": 396078,
@@ -516,12 +1051,17 @@
       "MinutesSequence": 56,
       "Version": "*",
       "AgendaNote": "Coupled to be Filed",
+      "ActionID": 69,
+      "ActionName": "Filed by Council",
+      "ActionText": "A motion was made that this Mayor's Message be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 71180,
       "MatterFile": "M 0147-2023",
       "MatterName": "Submitting the Budget Summary, the Message of the Mayor, and the Program to Eliminate the Gap relative to the Executive Budget, Fiscal Year 2024.",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-06-30T11:06:28.703Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-06-30T20:07:10.293Z"
     },
     {
       "ID": 396079,
@@ -531,12 +1071,17 @@
       "MinutesSequence": 57,
       "Version": "*",
       "AgendaNote": "Coupled to be Filed",
+      "ActionID": 69,
+      "ActionName": "Filed by Council",
+      "ActionText": "A motion was made that this Mayor's Message be Filed by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 71182,
       "MatterFile": "M 0148-2023",
       "MatterName": "Submitting the Ten-Year Capital Strategy, Fiscal Year 2024-2033.",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-06-30T11:06:28.703Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-06-30T20:07:40.41Z"
     },
     {
       "ID": 396081,
@@ -655,7 +1200,7 @@
       "MatterFile": "Res 0703-2023",
       "MatterName": "COMPUTING AND CERTIFYING BASE PERCENTAGE, CURRENT PERCENTAGE AND CURRENT BASE PROPORTION OF EACH CLASS OF REAL PROPERTY FOR FISCAL 2024 TO THE STATE BOARD OF REAL PROPERTY TAX SERVICES.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee and Introduced",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-06-30T13:40:08.95Z"
     },
     {
@@ -671,7 +1216,7 @@
       "MatterFile": "Res 0704-2023",
       "MatterName": "COMPUTING AND CERTIFYING ADJUSTED BASE PROPORTION OF EACH CLASS OF REAL PROPERTY FOR FISCAL 2024 TO THE STATE BOARD OF REAL PROPERTY TAX SERVICES.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee and Introduced",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-06-30T13:38:27.013Z"
     },
     {
@@ -687,7 +1232,7 @@
       "MatterFile": "Res 0705-2023",
       "MatterName": "Approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee and Introduced",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-06-30T11:06:28.71Z"
     },
     {
@@ -703,7 +1248,7 @@
       "MatterFile": "Res 0706-2023",
       "MatterName": "M 141 -  EXECUTIVE EXPENSE CONTRACT REVENUE BUDGET FOR FY 2024, AS MODIFIED:  RESOLUTION TO PROVIDE THE AMOUNTS NECESSARY FOR THE SUPPORT OF THE GOVERNMENT OF NYC AND FOR THE PAYMENT OF DEBTS, THEREOF.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-06-30T17:15:00.31Z"
     },
     {
@@ -719,7 +1264,7 @@
       "MatterFile": "Res 0707-2023",
       "MatterName": "M 141 – EXECUTIVE EXPENSE CONTRACT REVENUE BUDGET FOR FY 2024, AS MODIFIED:  RESOLUTION TO ADOPT A CONTRACT BUDGET.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-06-30T17:15:06.877Z"
     },
     {
@@ -735,7 +1280,7 @@
       "MatterFile": "Res 0708-2023",
       "MatterName": "M 142 - EXECUTIVE CAPITAL BUDGET FOR FY'24 AND CAPITAL PROGRAM FOR THE ENSUING THREE YEARS, AS MODIFIED (RESOLUTION A)",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-06-30T15:29:12.893Z"
     },
     {
@@ -751,7 +1296,7 @@
       "MatterFile": "Res 0709-2023",
       "MatterName": "M 142 – EXECUTIVE CAPITAL BUDGET FOR FY'24 AND CAPITAL PROGRAM FOR THE ENSUING THREE YEARS, AS MODIFIED (RESOLUTION B).",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-06-30T15:29:41.243Z"
     },
     {
@@ -767,7 +1312,7 @@
       "MatterFile": "Res 0710-2023",
       "MatterName": "M 143 - Resolution approving The City Fiscal Year 2024 Community Development Program, Reallocation of Forty-Ninth Year Community Development Funds, and the Proposed Fiftieth Year Community Development Program.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-06-30T11:06:28.72Z"
     },
     {
@@ -783,7 +1328,7 @@
       "MatterFile": "Res 0713-2023",
       "MatterName": "M 169  - Resolution to provide the amounts necessary for the support of the Government of the City of New York and the counties therein and for the payment of indebtedness thereof, for the Fiscal Year beginning on July 1, 2023 and ending on June 30, 2024.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee and Introduced",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-06-30T16:30:12.913Z"
     },
     {
@@ -799,7 +1344,7 @@
       "MatterFile": "M 0157-2023",
       "MatterName": "NYC Banking Commission - Transmitting recommendations of the interest rate to be charged for Fiscal Year 2024.",
       "MatterType": "Communication",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Filed",
       "LastModified": "2023-06-30T11:06:28.737Z"
     },
     {
@@ -815,7 +1360,7 @@
       "MatterFile": "M 0169-2023",
       "MatterName": "Report of the Committee on Finance in favor of approving a resolution of the Council of the City of New York fixing the tax rate for the Fiscal Year 2024, adopted June 30, 2023 upon the recommendation of the Committee on Finance of the Council.",
       "MatterType": "Communication",
-      "MatterStatus": "Reported from Committee and Introduced",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-06-30T11:06:28.723Z"
     },
     {
@@ -831,7 +1376,7 @@
       "MatterFile": "M 0113-2023",
       "MatterName": "Submitting Preliminary Expense, Revenue, and Contract Budget for Fiscal Year 2024.",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Filed",
       "LastModified": "2023-06-30T11:06:28.727Z"
     },
     {
@@ -847,7 +1392,7 @@
       "MatterFile": "M 0114-2023",
       "MatterName": "Submitting January 2023 Financial Plan Detail for Fiscal Years 2023-2027.",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Filed",
       "LastModified": "2023-06-30T11:06:28.727Z"
     },
     {
@@ -863,7 +1408,7 @@
       "MatterFile": "M 0115-2023",
       "MatterName": "Submitting Geographic Reports for Expense Budget for Fiscal Year 2024.",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Filed",
       "LastModified": "2023-06-30T11:06:28.727Z"
     },
     {
@@ -879,7 +1424,7 @@
       "MatterFile": "M 0116-2023",
       "MatterName": "Submitting Departmental Estimates for Fiscal Year 2024.",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Filed",
       "LastModified": "2023-06-30T11:06:28.73Z"
     },
     {
@@ -895,7 +1440,7 @@
       "MatterFile": "M 0117-2023",
       "MatterName": "Submitting the Preliminary Capital Budget, Fiscal Year 2024.",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Filed",
       "LastModified": "2023-06-30T11:06:28.73Z"
     },
     {
@@ -911,7 +1456,7 @@
       "MatterFile": "M 0118-2023",
       "MatterName": "Submitting the Preliminary Capital Commitment Plan, Fiscal Year 2024.",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Filed",
       "LastModified": "2023-06-30T11:06:28.73Z"
     },
     {
@@ -927,7 +1472,7 @@
       "MatterFile": "M 0119-2023",
       "MatterName": "Submitting the Preliminary Ten-Year Capital Strategy Fiscal Years 2024-2033.",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Filed",
       "LastModified": "2023-06-30T11:06:28.73Z"
     },
     {
@@ -943,7 +1488,7 @@
       "MatterFile": "M 0141-2023",
       "MatterName": "Submitting the Expense Revenue Contract Budget, for Fiscal Year 2024.",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Companion Pending Approval by Council",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-06-30T11:06:28.71Z"
     },
     {
@@ -959,7 +1504,7 @@
       "MatterFile": "M 0142-2023",
       "MatterName": "Executive Capital Budget for Fiscal Year 2024.",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Companion Pending Approval by Council",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-06-30T11:06:28.713Z"
     },
     {
@@ -975,7 +1520,7 @@
       "MatterFile": "M 0143-2023",
       "MatterName": "Submitting the Proposed City Fiscal Year 2024 Community Development Program, the Proposed CFY'24 Budget, the Proposed Reallocations-the CD 49 Funds, Proposed CD 50 Statement of Objectives and Budget, dated April 27, 2023.",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Companion Pending Approval by Council",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-06-30T11:06:28.717Z"
     },
     {
@@ -991,7 +1536,7 @@
       "MatterFile": "M 0144-2023",
       "MatterName": "Submitting the Executive Budget Supporting Schedules, for Fiscal Year 2023.",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Filed",
       "LastModified": "2023-06-30T11:06:28.73Z"
     },
     {
@@ -1007,7 +1552,7 @@
       "MatterFile": "M 0145-2023",
       "MatterName": "Submitting the Capital Commitment Plan, Executive Budget, Fiscal Year 2024, Volumes 1, 2, 3 and 4.",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Filed",
       "LastModified": "2023-06-30T11:06:28.733Z"
     },
     {
@@ -1023,7 +1568,7 @@
       "MatterFile": "M 0146-2023",
       "MatterName": "Submitting the Executive Budget - Geographic Reports for Expense Budget for Fiscal Year 2024.",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Filed",
       "LastModified": "2023-06-30T11:06:28.733Z"
     },
     {
@@ -1039,7 +1584,7 @@
       "MatterFile": "M 0147-2023",
       "MatterName": "Submitting the Budget Summary, the Message of the Mayor, and the Program to Eliminate the Gap relative to the Executive Budget, Fiscal Year 2024.",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Filed",
       "LastModified": "2023-06-30T11:06:28.733Z"
     },
     {
@@ -1055,7 +1600,7 @@
       "MatterFile": "M 0148-2023",
       "MatterName": "Submitting the Ten-Year Capital Strategy, Fiscal Year 2024-2033.",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Filed",
       "LastModified": "2023-06-30T11:06:28.737Z"
     },
     {
@@ -1067,14 +1612,14 @@
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "GENERAL ORDERS CALENDAR",
-      "LastModified": "2023-06-30T11:06:28.737Z"
+      "LastModified": "2023-06-30T20:13:00.647Z"
     },
     {
       "ID": 396124,
       "GUID": "B2F89B56-973D-40B3-93D4-05E6422830F6",
       "Title": "Introduction & Reading of Bills\r\nSee Attached",
       "AgendaSequence": 91,
-      "MinutesSequence": 93,
+      "MinutesSequence": 95,
       "AgendaNumber": "13.",
       "Version": "",
       "AgendaNote": "INTRODUCTION & READING OF BILLS (SEE BELOW)",
@@ -1085,30 +1630,31 @@
       "GUID": "059A021C-EAEA-4911-BD78-A50F8B5483FB",
       "Title": "Discussion of Resolutions",
       "AgendaSequence": 92,
-      "MinutesSequence": 94,
+      "MinutesSequence": 96,
       "AgendaNumber": "14.",
       "Version": "",
       "AgendaNote": "DISCUSSION OF RESOLUTIONS",
-      "LastModified": "2023-06-30T11:06:28.74Z"
+      "MinutesNote": "None.",
+      "LastModified": "2023-06-30T20:11:31.997Z"
     },
     {
       "ID": 396126,
       "GUID": "D303E93A-E372-4343-82D1-4F9D186FE219",
       "Title": "Resolutions",
       "AgendaSequence": 93,
-      "MinutesSequence": 95,
+      "MinutesSequence": 97,
       "AgendaNumber": "15.",
       "Version": "",
       "AgendaNote": "RESOLUTIONS – None",
-      "MinutesNote": "None",
-      "LastModified": "2023-06-30T16:16:58.17Z"
+      "MinutesNote": "None.",
+      "LastModified": "2023-06-30T20:11:38.173Z"
     },
     {
       "ID": 396127,
       "GUID": "C0177BFC-B987-4DBC-BF7B-E5D8431E73F6",
       "Title": "General Discussion",
       "AgendaSequence": 94,
-      "MinutesSequence": 96,
+      "MinutesSequence": 98,
       "AgendaNumber": "16.",
       "Version": "",
       "AgendaNote": "GENERAL DISCUSSION",
@@ -1119,7 +1665,7 @@
       "GUID": "3BE23B96-46B5-44E5-A494-B47AB330738E",
       "Title": "Extension of Remarks",
       "AgendaSequence": 95,
-      "MinutesSequence": 97,
+      "MinutesSequence": 99,
       "AgendaNumber": "17.",
       "Version": "",
       "AgendaNote": "EXTENSION OF REMARKS",
@@ -1130,7 +1676,7 @@
       "GUID": "DA5AF29F-6DC0-4613-9C2C-B2FBBAEBE880",
       "Title": "INTRODUCTION AND READING OF BILLS",
       "AgendaSequence": 96,
-      "MinutesSequence": 98,
+      "MinutesSequence": 100,
       "Version": "",
       "AgendaNote": "INTRODUCTION AND READING OF BILLS",
       "LastModified": "2023-06-30T11:06:28.743Z"
@@ -1140,7 +1686,7 @@
       "GUID": "D943C4DC-1493-47E2-A220-F1A64742E951",
       "Title": "Resolution approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget.",
       "AgendaSequence": 99,
-      "MinutesSequence": 101,
+      "MinutesSequence": 103,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Finance",
@@ -1151,7 +1697,7 @@
       "MatterFile": "Res 0705-2023",
       "MatterName": "Approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee and Introduced",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-06-30T16:21:36.837Z"
     },
     {
@@ -1159,7 +1705,7 @@
       "GUID": "3AC6B95A-1CB1-42FE-BA52-0C63D7864E69",
       "Title": "RESOLUTION COMPUTING AND CERTIFYING BASE PERCENTAGE, CURRENT PERCENTAGE AND CURRENT BASE PROPORTION OF EACH CLASS OF REAL PROPERTY FOR FISCAL 2024 TO THE STATE BOARD OF REAL PROPERTY TAX SERVICES PURSUANT TO SECTION 1803-a OF THE REAL PROPERTY TAX LAW.",
       "AgendaSequence": 97,
-      "MinutesSequence": 99,
+      "MinutesSequence": 101,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Finance",
@@ -1170,7 +1716,7 @@
       "MatterFile": "Res 0703-2023",
       "MatterName": "COMPUTING AND CERTIFYING BASE PERCENTAGE, CURRENT PERCENTAGE AND CURRENT BASE PROPORTION OF EACH CLASS OF REAL PROPERTY FOR FISCAL 2024 TO THE STATE BOARD OF REAL PROPERTY TAX SERVICES.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee and Introduced",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-06-30T16:13:19.71Z"
     },
     {
@@ -1178,7 +1724,7 @@
       "GUID": "CA500DA1-59D9-4B31-9163-539EA3BB3B12",
       "Title": "RESOLUTION COMPUTING AND CERTIFYING ADJUSTED BASE PROPORTION OF EACH CLASS OF REAL PROPERTY FOR FISCAL 2024 TO THE STATE BOARD OF REAL PROPERTY TAX SERVICES PURSUANT TO SECTION 1803-a OF THE REAL PROPERTY TAX LAW.",
       "AgendaSequence": 98,
-      "MinutesSequence": 100,
+      "MinutesSequence": 102,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Finance",
@@ -1189,7 +1735,7 @@
       "MatterFile": "Res 0704-2023",
       "MatterName": "COMPUTING AND CERTIFYING ADJUSTED BASE PROPORTION OF EACH CLASS OF REAL PROPERTY FOR FISCAL 2024 TO THE STATE BOARD OF REAL PROPERTY TAX SERVICES.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee and Introduced",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-06-30T16:13:27.47Z"
     },
     {
@@ -1210,7 +1756,7 @@
       "MinutesSequence": 2,
       "Version": "",
       "AgendaNote": "The Acting President Pro Tempore will call the meeting to order.",
-      "LastModified": "2023-06-30T12:05:18.057Z"
+      "LastModified": "2023-06-30T20:12:36.17Z"
     },
     {
       "ID": 396149,
@@ -1220,7 +1766,7 @@
       "MinutesSequence": 3,
       "Version": "",
       "AgendaNote": "Roll Call",
-      "LastModified": "2023-06-30T11:06:28.66Z"
+      "LastModified": "2023-06-30T20:12:53.167Z"
     },
     {
       "ID": 396151,
@@ -1277,7 +1823,7 @@
       "MatterFile": "M 0167-2023",
       "MatterName": "Transfer City funds between various agencies in Fiscal Year 2023 to implement changes to the City's expense budget, pursuant to Section 107(b) of the New York City Charter.  (MN-7)",
       "MatterType": "Communication",
-      "MatterStatus": "Reported from Committee and Introduced",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-06-30T16:14:26.52Z"
     },
     {
@@ -1295,7 +1841,7 @@
       "MatterFile": "M 0168-2023",
       "MatterName": "Appropriation of new City revenues in fiscal year 2023 in the amount of $2.05 billion, pursuant to Section 107(e) of the New York City Charter. (MN-8)",
       "MatterType": "Communication",
-      "MatterStatus": "Introduced",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-06-30T16:14:31.98Z"
     },
     {
@@ -1306,12 +1852,17 @@
       "MinutesSequence": 40,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Communication be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 71646,
       "MatterFile": "M 0167-2023",
       "MatterName": "Transfer City funds between various agencies in Fiscal Year 2023 to implement changes to the City's expense budget, pursuant to Section 107(b) of the New York City Charter.  (MN-7)",
       "MatterType": "Communication",
-      "MatterStatus": "Reported from Committee and Introduced",
-      "LastModified": "2023-06-30T11:06:28.69Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-06-30T19:49:31.87Z"
     },
     {
       "ID": 396160,
@@ -1321,12 +1872,17 @@
       "MinutesSequence": 41,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 71648,
       "MatterFile": "Res 0711-2023",
       "MatterName": "M 167 - RESOLUTION APPROVING THE MODIFICATION (MN-7) OF UNITS OF APPROPRIATION AND THE TRANSFER OF CITY FUNDS BETWEEN AGENCIES PROPOSED BY THE MAYOR PURSUANT TO SECTION 107(b) OF THE NEW YORK CITY CHARTER.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee and Introduced",
-      "LastModified": "2023-06-30T12:57:46.007Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-06-30T19:49:51.013Z"
     },
     {
       "ID": 396161,
@@ -1336,12 +1892,17 @@
       "MinutesSequence": 42,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Communication be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 71647,
       "MatterFile": "M 0168-2023",
       "MatterName": "Appropriation of new City revenues in fiscal year 2023 in the amount of $2.05 billion, pursuant to Section 107(e) of the New York City Charter. (MN-8)",
       "MatterType": "Communication",
-      "MatterStatus": "Introduced",
-      "LastModified": "2023-06-30T11:06:28.69Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-06-30T19:50:17.21Z"
     },
     {
       "ID": 396162,
@@ -1351,12 +1912,17 @@
       "MinutesSequence": 43,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 71649,
       "MatterFile": "Res 0712-2023",
       "MatterName": "M 168 - RESOLUTION APPROVING A MODIFICATION (MN-8) PURSUANT TO SECTION 107(e) OF THE CHARTER OF THE CITY OF NEW YORK.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-06-30T12:58:13.853Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-06-30T19:50:40.98Z"
     },
     {
       "ID": 396163,
@@ -1371,7 +1937,7 @@
       "MatterFile": "M 0167-2023",
       "MatterName": "Transfer City funds between various agencies in Fiscal Year 2023 to implement changes to the City's expense budget, pursuant to Section 107(b) of the New York City Charter.  (MN-7)",
       "MatterType": "Communication",
-      "MatterStatus": "Reported from Committee and Introduced",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-06-30T11:06:59.41Z"
     },
     {
@@ -1387,7 +1953,7 @@
       "MatterFile": "Res 0711-2023",
       "MatterName": "M 167 - RESOLUTION APPROVING THE MODIFICATION (MN-7) OF UNITS OF APPROPRIATION AND THE TRANSFER OF CITY FUNDS BETWEEN AGENCIES PROPOSED BY THE MAYOR PURSUANT TO SECTION 107(b) OF THE NEW YORK CITY CHARTER.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee and Introduced",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-06-30T15:29:50.703Z"
     },
     {
@@ -1403,7 +1969,7 @@
       "MatterFile": "M 0168-2023",
       "MatterName": "Appropriation of new City revenues in fiscal year 2023 in the amount of $2.05 billion, pursuant to Section 107(e) of the New York City Charter. (MN-8)",
       "MatterType": "Communication",
-      "MatterStatus": "Introduced",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-06-30T11:07:06.483Z"
     },
     {
@@ -1419,7 +1985,7 @@
       "MatterFile": "Res 0712-2023",
       "MatterName": "M 168 - RESOLUTION APPROVING A MODIFICATION (MN-8) PURSUANT TO SECTION 107(e) OF THE CHARTER OF THE CITY OF NEW YORK.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-06-30T15:29:58.123Z"
     },
     {
@@ -1427,7 +1993,7 @@
       "GUID": "E98EE4F8-7E69-4CE0-8A4E-B4DB5B0B71CA",
       "Title": "",
       "AgendaSequence": 0,
-      "MinutesSequence": 102,
+      "MinutesSequence": 104,
       "Version": "",
       "MinutesNote": "At this point the Speaker (Council Member Adams) made the following announcements:",
       "LastModified": "2023-06-30T16:15:24.643Z"
@@ -1437,10 +2003,10 @@
       "GUID": "FEF5E4F0-8C48-4F4F-ACA4-D4D66E5293BA",
       "Title": "",
       "AgendaSequence": 0,
-      "MinutesSequence": 103,
+      "MinutesSequence": 105,
       "Version": "",
       "MinutesNote": "Whereupon on motion of the Speaker (Council Member Adams), the Majority Leader and Acting President Pro Tempore (Council Member Powers) adjourned these proceedings to meet again for the Stated Meeting of Thursday, July 13, 2023.\r\n\r\nMICHAEL McSWEENEY, City Clerk\r\nClerk of the Council",
-      "LastModified": "2023-06-30T17:04:35.447Z"
+      "LastModified": "2023-06-30T20:44:10.34Z"
     },
     {
       "ID": 396239,
@@ -1477,10 +2043,31 @@
       "AgendaSequence": 0,
       "MinutesSequence": 10,
       "Version": "",
-      "LastModified": "2023-06-30T17:06:05.233Z"
+      "MinutesNote": "The presence of a quorum was announced by the Majority Leader and Acting President Pro Tempore (Council Member Powers).\r\n\r\nThere were 51 Council Members marked present at this Stated Meeting.",
+      "LastModified": "2023-06-30T20:26:59.05Z"
+    },
+    {
+      "ID": 396243,
+      "GUID": "6060A397-B540-447D-BE56-0DF9DF2D73D6",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 93,
+      "Version": "",
+      "MinutesNote": "The following files were removed from the General Order Calendar and voted separately:\r\n\r\nM-141 & Res. No. 706 & Res. No. 707 (Expense Revenue Contract Budget FY 2024):\r\nVOTE: 39-12-0\r\nNegative: CM Aviles, Baron, Caban, De La Rosa, Gutierrez, Hanif, Kagan, Marte, Nurse, Osse, Restler, Richardson Jordan.\r\n\r\nM-142 & Res. No. 708 & Res. No. 709 (Capital Budget FY 2024):\r\nVOTE: 39-12-0\r\nNegative: CM Aviles, Baron, Caban, De La Rosa, Gutierrez, Hanif, Kagan, Marte, Nurse, Osse, Restler, Richardson Jordan.\r\n\r\nM-143 & Res. No. 710 (Community Development Program FY 2024)\r\nVOTE: 47-4-0\r\nNegative: Council Member Barron, Caban, Kagan, and Richardson Jordan.\r\n\r\nPreconsidered M-169 & Res. No. 713\r\nVOTE: 42-9-0\r\nNegative: Ariola, Carr, Hanks, Kagan, Holden, Paladino, Vernikov, Yeger, and the Minority Leader (Council Member Borelli).\r\n\r\nPreconsidered Res. No., 703\r\nVOTE: 42-9-0\r\nNegative: Ariola, Carr, Hanks, Kagan, Holden, Paladino, Vernikov, Yeger, and the Minority Leader (Council Member Borelli).\r\n\r\nPreconsidered Res. No. 704\r\nVOTE: 42-9-0\r\nNegative: Ariola, Carr, Hanks, Kagan, Holden, Paladino, Vernikov, Yeger, and the Minority Leader (Council Member Borelli).\r\n\r\nM-157 (Coupled to be Filed)\r\nVOTE: 49-2-0\r\nNegative: CMs Kagan and Yeger.\r\n\r\n\r\nSee files for individual votes.",
+      "LastModified": "2023-06-30T20:44:09.703Z"
+    },
+    {
+      "ID": 396244,
+      "GUID": "5CE570D3-192B-4312-A8C0-FBC4A8C2E524",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 94,
+      "Version": "",
+      "MinutesNote": "At this point, the Majority Leader and Acting President Pro Tempore (Council Member Powers) made the following announcement:\r\n\r\nI now formally declare that\r\n     the Executive Expense-Revenue-Contract Budget, \r\n     the Executive Capital Budget, \r\n     and the Community Development Program, \r\n          for Fiscal Year 2024;\r\nall as modified;\r\nand all in accordance \r\nwith the New York City Charter; \r\nhave been hereby adopted\r\nas of 3:05  p.m., \r\non this 30th day of June, 2023.\r\n",
+      "LastModified": "2023-06-30T21:04:11.17Z"
     }
   ],
   "AgendaLastPublished": "2023-06-30T17:15:15.39Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-06-30T17:15:15.55Z"
+  "MinutesLastPublished": "2023-06-30T21:04:19.597Z",
+  "LastModified": "2023-06-30T21:04:19.73Z"
 }
