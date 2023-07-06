@@ -1,6 +1,14 @@
-A repository NYC City Council Legislation and Legislators. This mirrors the [NYC Council Legislation](https://legistar.council.nyc.gov/Legislation.aspx) website.
+A repository with information on New York City Council Legislation, Legislators and Council Events. This mirrors the [NYC Council Legislation](https://legistar.council.nyc.gov/Legislation.aspx) website via the [Legislative API](https://council.nyc.gov/legislation/api/).
 
-Data is generated with [`legislator`](https://github.com/jehiah/legislator) a Go client for the [Legistar API](http://webapi.legistar.com/Help)
+Data is generated with [`legislator`](https://github.com/jehiah/legislator) a Go client for the [Legistar API](http://webapi.legistar.com/Help) run by [Granicus](https://granicus.com/legislative-management/)
+
+This data powers https://intro.nyc/
+
+### Data Structure
+
+* **Intro** `introduction/$year/$number.json` i.e. `introduction/2022/0501.json`
+* **Event** `events/$year/$date-$body-$id.json` i.e. `events/2023/2023-01-13_12_00_transportation-and-infrastructure_19766.json`
+* **People** `people/$slug.json` i.e. `people/lincoln-restler.json`
 
 ### How can I use this data?
 
