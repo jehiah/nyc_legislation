@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/7/20212_A_Committee_on_Health_23-07-12_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/7/20212_M_Committee_on_Health_23-07-12_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Oversight and Investigations and the Committee on Environmental Protection, Resiliency and Waterfronts",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20212&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,26 +20,140 @@
       "GUID": "691E2914-45FE-4212-B94D-E562B796FA04",
       "Title": "Oversight - The Administration's Response to Summer 2023 Air Quality Emergencies.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 71660,
       "MatterFile": "T2023-3804",
       "MatterName": "Oversight - The Administration's Response to Summer 2023 Air Quality Emergencies.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-06-29T14:47:56.697Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-07-12T12:08:22.73Z"
     },
     {
       "ID": 396016,
       "GUID": "D9D41F7A-1A4D-45DB-8259-7920EC1738FE",
       "Title": "Jointly with the Committee on Oversight and Investigations and the Committee on Environmental Protection, Resiliency and Waterfronts",
       "AgendaSequence": 2,
+      "MinutesSequence": 5,
+      "Version": "",
+      "LastModified": "2023-07-12T18:41:06.557Z"
+    },
+    {
+      "ID": 396456,
+      "GUID": "81F0F60F-DE42-46DC-B495-4F2BFE6369DF",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 5288,
+          "Slug": "charles-barron",
+          "FullName": "Charles Barron",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 100
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 130
+        },
+        {
+          "ID": 7807,
+          "Slug": "marjorie-velazquez",
+          "FullName": "Marjorie Velázquez",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 140
+        },
+        {
+          "ID": 7749,
+          "Slug": "kalman-yeger",
+          "FullName": "Kalman Yeger",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        }
+      ],
+      "LastModified": "2023-07-12T18:41:38.6Z"
+    },
+    {
+      "ID": 396457,
+      "GUID": "C64AB18F-DCF9-4A86-9547-27E61532F3C4",
+      "Title": "",
+      "AgendaSequence": 0,
       "MinutesSequence": 2,
       "Version": "",
-      "LastModified": "2023-06-29T14:47:23.767Z"
+      "MinutesNote": "Other Council Members Attending: Brewer, Nurse, Gennaro, Williams, Restler, Krishnan, Ayala, Holden, Gutierrez and Public Advocate Williams",
+      "LastModified": "2023-07-12T18:47:50.31Z"
+    },
+    {
+      "ID": 396478,
+      "GUID": "B8008342-999F-47E6-9838-B6618702A20A",
+      "Title": "Oversight - The Administration's Response to Summer 2023 Air Quality Emergencies.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 71660,
+      "MatterFile": "T2023-3804",
+      "MatterName": "Oversight - The Administration's Response to Summer 2023 Air Quality Emergencies.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2023-07-12T18:48:01.88Z"
     }
   ],
   "AgendaLastPublished": "2023-06-29T14:48:02.947Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-06-29T14:48:03.04Z"
+  "MinutesLastPublished": "2023-07-12T18:48:07.67Z",
+  "LastModified": "2023-07-12T18:48:07.81Z"
 }
