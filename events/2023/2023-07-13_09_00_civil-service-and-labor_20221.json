@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/7/20221_A_Committee_on_Civil_Service_and_Labor_23-07-13_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/7/20221_M_Committee_on_Civil_Service_and_Labor_23-07-13_Meeting_Minutes.pdf",
   "Comment": "VOTE",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_230713-094012.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20221&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
@@ -31,7 +32,7 @@
       "MatterFile": "Int 0645-2022",
       "MatterName": "Civil service exams in department of correction facilities.",
       "MatterType": "Introduction",
-      "MatterStatus": "Laid Over in Committee",
+      "MatterStatus": "Reported from Committee",
       "LastModified": "2023-07-12T12:08:46.31Z"
     },
     {
@@ -79,16 +80,16 @@
           "ID": 7798,
           "Slug": "oswald-feliz",
           "FullName": "Oswald Feliz",
-          "ValueID": 13,
-          "Value": "Present",
+          "ValueID": 16,
+          "Value": "Absent",
           "Sort": 100
         },
         {
           "ID": 7832,
           "Slug": "kamillah-hanks",
           "FullName": "Kamillah Hanks",
-          "ValueID": 13,
-          "Value": "Present",
+          "ValueID": 44,
+          "Value": "Paternity",
           "Sort": 120
         },
         {
@@ -124,10 +125,63 @@
           "Sort": 200
         }
       ],
-      "LastModified": "2023-07-12T12:08:46.31Z"
+      "LastModified": "2023-07-13T14:58:06.413Z"
+    },
+    {
+      "ID": 396498,
+      "GUID": "D1490001-4926-42D6-992B-53BCF5786123",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to civil service examinations for justice-involved individuals",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 70086,
+      "MatterFile": "Int 0645-2022",
+      "MatterName": "Civil service exams in department of correction facilities.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-07-13T14:57:22.64Z"
+    },
+    {
+      "ID": 396499,
+      "GUID": "6FC5D42D-038A-46E9-9F5D-5DACA099A86C",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to civil service examinations for justice-involved individuals",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 70086,
+      "MatterFile": "Int 0645-2022",
+      "MatterName": "Civil service exams in department of correction facilities.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-07-13T14:57:27.92Z"
+    },
+    {
+      "ID": 396500,
+      "GUID": "3838DECD-20F4-4A1A-A402-2B09960FDC2B",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to civil service examinations for justice-involved individuals",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "B",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 70086,
+      "MatterFile": "Int 0645-2022",
+      "MatterName": "Civil service exams in department of correction facilities.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-07-13T15:01:18.1Z"
     }
   ],
   "AgendaLastPublished": "2023-07-10T17:45:16.87Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-07-13T13:44:36.767Z"
+  "MinutesLastPublished": "2023-07-13T14:59:10.883Z",
+  "LastModified": "2023-07-13T14:59:10.95Z"
 }
