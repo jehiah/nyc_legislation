@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/7/20214_A_Committee_on_Environmental_Protection%2C_Resiliency_and_Waterfronts_23-07-12_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/7/20214_M_Committee_on_Environmental_Protection%2C_Resiliency_and_Waterfronts_23-07-12_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Oversight and Investigations and the Committee on Health",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20214&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,26 +20,124 @@
       "GUID": "3F0C7DB3-A28C-4C7E-B644-30A91EBE0FD2",
       "Title": "Oversight - The Administration's Response to Summer 2023 Air Quality Emergencies.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 71661,
       "MatterFile": "T2023-3805",
       "MatterName": "Oversight - The Administration's Response to Summer 2023 Air Quality Emergencies.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-06-29T14:49:25.14Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-07-12T12:08:04.38Z"
     },
     {
       "ID": 396018,
       "GUID": "CF7BB2CA-12AE-4931-A804-01D563B5D7C5",
       "Title": "Jointly with the Committee on Oversight and Investigations and the Committee on Health",
       "AgendaSequence": 2,
+      "MinutesSequence": 5,
+      "Version": "",
+      "LastModified": "2023-07-13T04:19:08.267Z"
+    },
+    {
+      "ID": 396459,
+      "GUID": "1E960ADF-CB25-42B3-BDD8-71BE90906B83",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 30
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 50
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2023-07-13T04:19:47.093Z"
+    },
+    {
+      "ID": 396460,
+      "GUID": "25B3FAFD-66D2-46FD-AF4C-373B0D364C8B",
+      "Title": "",
+      "AgendaSequence": 0,
       "MinutesSequence": 2,
       "Version": "",
-      "LastModified": "2023-06-29T14:49:08.33Z"
+      "MinutesNote": "Other Council Members Attending: Brewer, Schulman, Narcisse, Ariola, Williams, Ayala, Salamanca, Hanif, Feliz, Yeger, Krishnan and Public Advocate Williams.",
+      "LastModified": "2023-07-13T04:21:04.647Z"
+    },
+    {
+      "ID": 396493,
+      "GUID": "0981F889-D208-4565-BCA3-F5F1FB51CCEA",
+      "Title": "Oversight - The Administration's Response to Summer 2023 Air Quality Emergencies.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 71661,
+      "MatterFile": "T2023-3805",
+      "MatterName": "Oversight - The Administration's Response to Summer 2023 Air Quality Emergencies.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2023-07-13T04:21:16.31Z"
     }
   ],
   "AgendaLastPublished": "2023-06-29T14:49:29.447Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-06-29T14:49:29.493Z"
+  "MinutesLastPublished": "2023-07-13T04:21:30.563Z",
+  "LastModified": "2023-07-13T04:21:30.69Z"
 }
