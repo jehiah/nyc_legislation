@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/8/20243_A_Committee_on_Consumer_and_Worker_Protection_23-08-03_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/8/20243_M_Committee_on_Consumer_and_Worker_Protection_23-08-03_Meeting_Minutes.pdf",
   "Comment": "VOTE",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_230803-103835.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20243&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,19 +21,159 @@
       "GUID": "D33BF2F2-31CE-4CD5-98C2-609486CC03E9",
       "Title": "A Local Law to amend the New York city charter and the administrative code of the city of New York, in relation to granting licenses and revocable consents for sidewalk cafes and roadway cafes, to repeal subchapter 6 of chapter 2 of title 20 of such administrative code, relating to granting licenses and revocable consents for sidewalk cafes, to amend section 2 of local law number 114 for the year 2020, relating to the establishment of a permanent outdoor dining program, in relation to the commencement of such program, and to amend section 1 of local law number 77 for the year 2020, relating to establishing a temporary outdoor dining program, in relation to the expiration of such program",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 31-C",
       "MinutesNote": "Proposed Int. No. 31-C",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 68103,
       "MatterFile": "Int 0031-2022",
       "MatterName": "Sidewalk cafes and roadway cafes.",
       "MatterType": "Introduction",
-      "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2023-07-31T12:45:35.653Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-08-03T14:18:28Z"
+    },
+    {
+      "ID": 396878,
+      "GUID": "CA57BB03-E5E4-4649-882E-3ACC4B777437",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7807,
+          "Slug": "marjorie-velazquez",
+          "FullName": "Marjorie Velázquez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 120
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 130
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        }
+      ],
+      "LastModified": "2023-08-03T14:54:02.137Z"
+    },
+    {
+      "ID": 396879,
+      "GUID": "7CA8471A-0FB4-4566-AF24-AA707813F31E",
+      "Title": "A Local Law to amend the New York city charter and the administrative code of the city of New York, in relation to granting licenses and revocable consents for sidewalk cafes and roadway cafes, to repeal subchapter 6 of chapter 2 of title 20 of such administrative code, relating to granting licenses and revocable consents for sidewalk cafes, to amend section 2 of local law number 114 for the year 2020, relating to the establishment of a permanent outdoor dining program, in relation to the commencement of such program, and to amend section 1 of local law number 77 for the year 2020, relating to establishing a temporary outdoor dining program, in relation to the expiration of such program",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 68103,
+      "MatterFile": "Int 0031-2022",
+      "MatterName": "Sidewalk cafes and roadway cafes.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-08-03T14:18:32.293Z"
+    },
+    {
+      "ID": 396880,
+      "GUID": "451A109C-1841-4218-A742-94172AB2C7F2",
+      "Title": "A Local Law to amend the New York city charter and the administrative code of the city of New York, in relation to granting licenses and revocable consents for sidewalk cafes and roadway cafes, to repeal subchapter 6 of chapter 2 of title 20 of such administrative code, relating to granting licenses and revocable consents for sidewalk cafes, to amend section 2 of local law number 114 for the year 2020, relating to the establishment of a permanent outdoor dining program, in relation to the commencement of such program, and to amend section 1 of local law number 77 for the year 2020, relating to establishing a temporary outdoor dining program, in relation to the expiration of such program",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 68103,
+      "MatterFile": "Int 0031-2022",
+      "MatterName": "Sidewalk cafes and roadway cafes.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-08-03T15:27:26.703Z"
+    },
+    {
+      "ID": 396881,
+      "GUID": "C21E7800-A522-4048-8B9C-F1F61E168B45",
+      "Title": "A Local Law to amend the New York city charter and the administrative code of the city of New York, in relation to granting licenses and revocable consents for sidewalk cafes and roadway cafes, to repeal subchapter 6 of chapter 2 of title 20 of such administrative code, relating to granting licenses and revocable consents for sidewalk cafes, to amend section 2 of local law number 114 for the year 2020, relating to the establishment of a permanent outdoor dining program, in relation to the commencement of such program, and to amend section 1 of local law number 77 for the year 2020, relating to establishing a temporary outdoor dining program, in relation to the expiration of such program",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "C",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 68103,
+      "MatterFile": "Int 0031-2022",
+      "MatterName": "Sidewalk cafes and roadway cafes.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-08-03T15:28:43.977Z"
     }
   ],
   "AgendaLastPublished": "2023-07-31T00:21:19.727Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-07-31T00:21:20.023Z"
+  "MinutesLastPublished": "2023-08-03T15:27:31.337Z",
+  "LastModified": "2023-08-03T15:27:31.487Z"
 }
