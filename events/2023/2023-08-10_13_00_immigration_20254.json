@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/8/20254_A_Committee_on_Immigration_23-08-10_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/8/20254_M_Committee_on_Immigration_23-08-10_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on General Welfare",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20254&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,26 +20,124 @@
       "GUID": "5C344876-9564-4C52-98DB-D5D3F94F2B4E",
       "Title": "Jointly with the Committee on General Welfare",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "",
-      "LastModified": "2023-07-31T19:25:54.407Z"
+      "LastModified": "2023-08-10T19:01:54.307Z"
     },
     {
       "ID": 396699,
       "GUID": "DB22BA5F-FA3E-4039-A986-F0AFD1C9A00F",
       "Title": "Oversight - The Mayor's 60-day Shelter Stay Limit for Adult Migrants.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 71723,
       "MatterFile": "T2023-3870",
       "MatterName": "Oversight - The Mayor's 60-day Shelter Stay Limit for Adult Migrants.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-07-31T19:25:59.057Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-08-10T19:02:08.86Z"
+    },
+    {
+      "ID": 396959,
+      "GUID": "0C93FEEE-D9AA-4DB7-98F7-B733629F10DB",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 80
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2023-08-11T14:14:11.05Z"
+    },
+    {
+      "ID": 396960,
+      "GUID": "26CE319A-A8E5-420A-A46B-645F13AC61BA",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Deputy Speaker Ayala, Stevens, Williams, Restler, Ossé, Brewer, Nurse, \r\nHolden and Public Advocate Williams.",
+      "LastModified": "2023-08-11T14:13:00.247Z"
+    },
+    {
+      "ID": 396961,
+      "GUID": "0068EE62-1FD0-483C-BEBB-F9398DC942DC",
+      "Title": "Oversight - The Mayor's 60-day Shelter Stay Limit for Adult Migrants.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 71723,
+      "MatterFile": "T2023-3870",
+      "MatterName": "Oversight - The Mayor's 60-day Shelter Stay Limit for Adult Migrants.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2023-08-11T14:14:22.193Z"
     }
   ],
   "AgendaLastPublished": "2023-07-31T19:27:36.12Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-07-31T19:27:36.137Z"
+  "MinutesLastPublished": "2023-08-11T14:14:27.997Z",
+  "LastModified": "2023-08-11T14:14:28.073Z"
 }
