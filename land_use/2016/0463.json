@@ -1,0 +1,943 @@
+{
+  "ID": 56404,
+  "GUID": "7FBF5F61-65B1-4AC5-8CD3-97F3D4803802",
+  "File": "LU 0463-2016",
+  "Name": "Zoning, Sidewalk Café, BILLS BAR & BURGER, 22 9th Ave, Manhattan (20165650 TCM)",
+  "Title": "Application No. 20165650 TCM pursuant to Section 20-226 of the Administrative Code of the City of New York, concerning the petition of Bill’s 22 Ninth Avenue, LLC, d/b/a Bills Bar & Burger, for a revocable consent to establish, maintain and operate an unenclosed sidewalk café located at 22 9th Avenue, Borough of Manhattan, Community Board 2, Council District 3. This application is subject to review and action by the Land Use Committee only if called-up by vote of the Council pursuant to Rule 11.20b of the Council and Section 20-226 of the New York City Administrative Code.",
+  "TypeID": 10,
+  "TypeName": "Land Use Application",
+  "StatusID": 32,
+  "StatusName": "Adopted",
+  "BodyID": 34,
+  "BodyName": "Subcommittee on Zoning and Franchises",
+  "IntroDate": "2016-08-16T00:00:00Z",
+  "AgendaDate": "2016-08-16T00:00:00Z",
+  "PassedDate": "2016-09-14T00:00:00Z",
+  "EnactmentDate": "0001-01-01T00:00:00Z",
+  "Version": "*",
+  "Sponsors": [
+    {
+      "ID": 7577,
+      "Slug": "david-g-greenfield",
+      "FullName": "David G. Greenfield"
+    }
+  ],
+  "History": [
+    {
+      "ID": 310297,
+      "Date": "2016-08-16T13:25:00Z",
+      "ActionID": 27,
+      "Action": "Introduced by Council",
+      "Description": "This Land Use Application was Introduced by Council",
+      "BodyID": 1,
+      "BodyName": "City Council",
+      "Version": "*",
+      "MatterStatusID": 2,
+      "LastModified": "2016-08-16T18:21:46.52Z"
+    },
+    {
+      "ID": 310313,
+      "Date": "2016-08-16T13:30:00Z",
+      "ActionID": 43,
+      "Action": "Referred to Comm by Council",
+      "Description": "This Land Use Application was Referred to Comm by Council to the Committee on Land Use",
+      "BodyID": 1,
+      "BodyName": "City Council",
+      "EventID": 14992,
+      "AgendaSequence": 171,
+      "MinutesSequence": 219,
+      "AgendaNumber": "~SPONSOR",
+      "Version": "*",
+      "AgendaNote": "Zoning and Franchises",
+      "MatterStatusID": 3,
+      "LastModified": "2016-08-16T20:57:48.357Z"
+    },
+    {
+      "ID": 310361,
+      "Date": "2016-08-16T13:30:00Z",
+      "ActionID": 43,
+      "Action": "Referred to Comm by Council",
+      "Description": "This Land Use Application was Referred to Comm by Council to the Subcommittee on Zoning and Franchises",
+      "BodyID": 1,
+      "BodyName": "City Council",
+      "EventID": 14992,
+      "MinutesSequence": 220,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2016-08-16T20:58:02Z"
+    },
+    {
+      "ID": 310472,
+      "Date": "2016-09-07T09:30:00Z",
+      "ActionID": 54,
+      "Action": "Hearing Held by Committee",
+      "Description": "This Land Use Application was Hearing Held by Committee",
+      "BodyID": 34,
+      "BodyName": "Subcommittee on Zoning and Franchises",
+      "EventID": 14957,
+      "AgendaSequence": 13,
+      "MinutesSequence": 25,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2016-09-07T13:43:20.53Z"
+    },
+    {
+      "ID": 310561,
+      "Date": "2016-09-07T09:30:00Z",
+      "ActionID": 79,
+      "Action": "Approved by Subcommittee",
+      "Description": "A motion was made that this Land Use Application be Approved by Subcommittee approved by Roll Call.",
+      "BodyID": 34,
+      "BodyName": "Subcommittee on Zoning and Franchises",
+      "EventID": 14957,
+      "MinutesSequence": 26,
+      "Version": "*",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterStatusID": 3,
+      "Votes": [
+        {
+          "ID": 7617,
+          "Slug": "donovan-j-richards",
+          "FullName": "Donovan J. Richards",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 5
+        },
+        {
+          "ID": 6267,
+          "Slug": "daniel-r-garodnick",
+          "FullName": "Daniel R. Garodnick",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 20
+        },
+        {
+          "ID": 7571,
+          "Slug": "jumaane-d-williams",
+          "FullName": "Jumaane D. Williams",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 30
+        },
+        {
+          "ID": 7638,
+          "Slug": "antonio-reynoso",
+          "FullName": "Antonio Reynoso",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 50
+        },
+        {
+          "ID": 7640,
+          "Slug": "ritchie-j-torres",
+          "FullName": "Ritchie J. Torres",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 60
+        },
+        {
+          "ID": 5390,
+          "Slug": "vincent-j-gentile",
+          "FullName": "Vincent J. Gentile",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 80
+        },
+        {
+          "ID": 7586,
+          "Slug": "ruben-wills",
+          "FullName": "Ruben Wills",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2016-09-07T20:44:06.467Z"
+    },
+    {
+      "ID": 310593,
+      "Date": "2016-09-08T11:00:00Z",
+      "ActionID": 54,
+      "Action": "Hearing Held by Committee",
+      "Description": "This Land Use Application was Hearing Held by Committee",
+      "BodyID": 17,
+      "BodyName": "Committee on Land Use",
+      "EventID": 14960,
+      "AgendaSequence": 24,
+      "MinutesSequence": 46,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2016-09-08T13:02:59.877Z"
+    },
+    {
+      "ID": 310641,
+      "Date": "2016-09-08T11:00:00Z",
+      "ActionID": 5034,
+      "Action": "Approved by Committee with Companion Resolution",
+      "Description": "A motion was made that this Land Use Application be Approved by Committee with Companion Resolution approved by Roll Call.",
+      "BodyID": 17,
+      "BodyName": "Committee on Land Use",
+      "EventID": 14960,
+      "MinutesSequence": 47,
+      "Version": "*",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterStatusID": 5003,
+      "Votes": [
+        {
+          "ID": 7577,
+          "Slug": "david-g-greenfield",
+          "FullName": "David G. Greenfield",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 10
+        },
+        {
+          "ID": 5390,
+          "Slug": "vincent-j-gentile",
+          "FullName": "Vincent J. Gentile",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 15
+        },
+        {
+          "ID": 5416,
+          "Slug": "annabel-palma",
+          "FullName": "Annabel Palma",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 20
+        },
+        {
+          "ID": 6270,
+          "Slug": "inez-e-dickens",
+          "FullName": "Inez E. Dickens",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 40
+        },
+        {
+          "ID": 6267,
+          "Slug": "daniel-r-garodnick",
+          "FullName": "Daniel R. Garodnick",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 50
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 6274,
+          "Slug": "rosie-mendez",
+          "FullName": "Rosie Mendez",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 70
+        },
+        {
+          "ID": 7541,
+          "Slug": "ydanis-a-rodriguez",
+          "FullName": "Ydanis A. Rodriguez",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 80
+        },
+        {
+          "ID": 7565,
+          "Slug": "peter-a-koo",
+          "FullName": "Peter A. Koo",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 90
+        },
+        {
+          "ID": 7566,
+          "Slug": "brad-s-lander",
+          "FullName": "Brad S. Lander",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 100
+        },
+        {
+          "ID": 7567,
+          "Slug": "stephen-t-levin",
+          "FullName": "Stephen T. Levin",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 110
+        },
+        {
+          "ID": 7568,
+          "Slug": "deborah-l-rose",
+          "FullName": "Deborah L. Rose",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 120
+        },
+        {
+          "ID": 7571,
+          "Slug": "jumaane-d-williams",
+          "FullName": "Jumaane D. Williams",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 130
+        },
+        {
+          "ID": 7586,
+          "Slug": "ruben-wills",
+          "FullName": "Ruben Wills",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 135
+        },
+        {
+          "ID": 7617,
+          "Slug": "donovan-j-richards",
+          "FullName": "Donovan J. Richards",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 140
+        },
+        {
+          "ID": 7623,
+          "Slug": "inez-d-barron",
+          "FullName": "Inez D. Barron",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 150
+        },
+        {
+          "ID": 7624,
+          "Slug": "andrew-cohen",
+          "FullName": "Andrew Cohen",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 160
+        },
+        {
+          "ID": 7632,
+          "Slug": "ben-kallos",
+          "FullName": "Ben Kallos",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 170
+        },
+        {
+          "ID": 7638,
+          "Slug": "antonio-reynoso",
+          "FullName": "Antonio Reynoso",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 180
+        },
+        {
+          "ID": 7640,
+          "Slug": "ritchie-j-torres",
+          "FullName": "Ritchie J. Torres",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 190
+        },
+        {
+          "ID": 7641,
+          "Slug": "mark-treyger",
+          "FullName": "Mark Treyger",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 200
+        }
+      ],
+      "LastModified": "2016-09-08T16:56:42.923Z"
+    },
+    {
+      "ID": 310989,
+      "Date": "2016-09-14T13:30:00Z",
+      "ActionID": 5032,
+      "Action": "Approved, by Council",
+      "Description": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "BodyID": 1,
+      "BodyName": "City Council",
+      "EventID": 15051,
+      "MinutesSequence": 81,
+      "Version": "*",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
+      "MatterStatusID": 32,
+      "Votes": [
+        {
+          "ID": 6269,
+          "Slug": "melissa-mark-viverito",
+          "FullName": "Melissa Mark-Viverito",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 1
+        },
+        {
+          "ID": 7623,
+          "Slug": "inez-d-barron",
+          "FullName": "Inez D. Barron",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 20
+        },
+        {
+          "ID": 7264,
+          "Slug": "joseph-c-borelli",
+          "FullName": "Joseph C. Borelli",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 25
+        },
+        {
+          "ID": 7561,
+          "Slug": "fernando-cabrera",
+          "FullName": "Fernando Cabrera",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 30
+        },
+        {
+          "ID": 7562,
+          "Slug": "margaret-s-chin",
+          "FullName": "Margaret S. Chin",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 40
+        },
+        {
+          "ID": 7624,
+          "Slug": "andrew-cohen",
+          "FullName": "Andrew Cohen",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 50
+        },
+        {
+          "ID": 7627,
+          "Slug": "costa-g-constantinides",
+          "FullName": "Costa G. Constantinides",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 60
+        },
+        {
+          "ID": 7604,
+          "Slug": "robert-e-cornegy-jr",
+          "FullName": "Robert E. Cornegy, Jr.",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 70
+        },
+        {
+          "ID": 7502,
+          "Slug": "elizabeth-s-crowley",
+          "FullName": "Elizabeth S. Crowley",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 80
+        },
+        {
+          "ID": 7628,
+          "Slug": "laurie-a-cumbo",
+          "FullName": "Laurie A. Cumbo",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 90
+        },
+        {
+          "ID": 7629,
+          "Slug": "chaim-m-deutsch",
+          "FullName": "Chaim M. Deutsch",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 100
+        },
+        {
+          "ID": 6270,
+          "Slug": "inez-e-dickens",
+          "FullName": "Inez E. Dickens",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 110
+        },
+        {
+          "ID": 7563,
+          "Slug": "daniel-dromm",
+          "FullName": "Daniel Dromm",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 120
+        },
+        {
+          "ID": 7630,
+          "Slug": "rafael-l-espinal-jr",
+          "FullName": "Rafael L. Espinal, Jr.",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 130
+        },
+        {
+          "ID": 7113,
+          "Slug": "mathieu-eugene",
+          "FullName": "Mathieu Eugene",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 140
+        },
+        {
+          "ID": 7509,
+          "Slug": "julissa-ferreras-copeland",
+          "FullName": "Julissa Ferreras-Copeland",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 150
+        },
+        {
+          "ID": 6267,
+          "Slug": "daniel-r-garodnick",
+          "FullName": "Daniel R. Garodnick",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 160
+        },
+        {
+          "ID": 5390,
+          "Slug": "vincent-j-gentile",
+          "FullName": "Vincent J. Gentile",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 170
+        },
+        {
+          "ID": 7622,
+          "Slug": "vanessa-l-gibson",
+          "FullName": "Vanessa L. Gibson",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 180
+        },
+        {
+          "ID": 7577,
+          "Slug": "david-g-greenfield",
+          "FullName": "David G. Greenfield",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 190
+        },
+        {
+          "ID": 7691,
+          "Slug": "barry-s-grodenchik",
+          "FullName": "Barry S. Grodenchik",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 200
+        },
+        {
+          "ID": 7631,
+          "Slug": "corey-d-johnson",
+          "FullName": "Corey D. Johnson",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 210
+        },
+        {
+          "ID": 7632,
+          "Slug": "ben-kallos",
+          "FullName": "Ben Kallos",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 220
+        },
+        {
+          "ID": 7613,
+          "Slug": "andy-l-king",
+          "FullName": "Andy L. King",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 230
+        },
+        {
+          "ID": 7565,
+          "Slug": "peter-a-koo",
+          "FullName": "Peter A. Koo",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 240
+        },
+        {
+          "ID": 386,
+          "Slug": "karen-koslowitz",
+          "FullName": "Karen Koslowitz",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 250
+        },
+        {
+          "ID": 7633,
+          "Slug": "rory-i-lancman",
+          "FullName": "Rory I. Lancman",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 260
+        },
+        {
+          "ID": 7566,
+          "Slug": "brad-s-lander",
+          "FullName": "Brad S. Lander",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 270
+        },
+        {
+          "ID": 7567,
+          "Slug": "stephen-t-levin",
+          "FullName": "Stephen T. Levin",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 280
+        },
+        {
+          "ID": 7634,
+          "Slug": "mark-levine",
+          "FullName": "Mark Levine",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 290
+        },
+        {
+          "ID": 7635,
+          "Slug": "alan-n-maisel",
+          "FullName": "Alan N. Maisel",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 300
+        },
+        {
+          "ID": 5953,
+          "Slug": "steven-matteo",
+          "FullName": "Steven Matteo",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 320
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 330
+        },
+        {
+          "ID": 7636,
+          "Slug": "carlos-menchaca",
+          "FullName": "Carlos Menchaca",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 340
+        },
+        {
+          "ID": 6274,
+          "Slug": "rosie-mendez",
+          "FullName": "Rosie Mendez",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 350
+        },
+        {
+          "ID": 7637,
+          "Slug": "i-daneek-miller",
+          "FullName": "I. Daneek Miller",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 360
+        },
+        {
+          "ID": 5416,
+          "Slug": "annabel-palma",
+          "FullName": "Annabel Palma",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 370
+        },
+        {
+          "ID": 7638,
+          "Slug": "antonio-reynoso",
+          "FullName": "Antonio Reynoso",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 380
+        },
+        {
+          "ID": 7617,
+          "Slug": "donovan-j-richards",
+          "FullName": "Donovan J. Richards",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 390
+        },
+        {
+          "ID": 7541,
+          "Slug": "ydanis-a-rodriguez",
+          "FullName": "Ydanis A. Rodriguez",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 400
+        },
+        {
+          "ID": 7568,
+          "Slug": "deborah-l-rose",
+          "FullName": "Deborah L. Rose",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 410
+        },
+        {
+          "ID": 7639,
+          "Slug": "helen-k-rosenthal",
+          "FullName": "Helen K. Rosenthal",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 420
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 425
+        },
+        {
+          "ID": 7640,
+          "Slug": "ritchie-j-torres",
+          "FullName": "Ritchie J. Torres",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 430
+        },
+        {
+          "ID": 7641,
+          "Slug": "mark-treyger",
+          "FullName": "Mark Treyger",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 440
+        },
+        {
+          "ID": 7510,
+          "Slug": "eric-a-ulrich",
+          "FullName": "Eric A. Ulrich",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 450
+        },
+        {
+          "ID": 6271,
+          "Slug": "james-vacca",
+          "FullName": "James Vacca",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 460
+        },
+        {
+          "ID": 7642,
+          "Slug": "paul-a-vallone",
+          "FullName": "Paul A. Vallone",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 470
+        },
+        {
+          "ID": 7569,
+          "Slug": "james-g-van-bramer",
+          "FullName": "James G. Van Bramer",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 480
+        },
+        {
+          "ID": 7571,
+          "Slug": "jumaane-d-williams",
+          "FullName": "Jumaane D. Williams",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 500
+        },
+        {
+          "ID": 7586,
+          "Slug": "ruben-wills",
+          "FullName": "Ruben Wills",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 510
+        }
+      ],
+      "LastModified": "2016-09-15T13:59:21.5Z"
+    }
+  ],
+  "Attachments": [
+    {
+      "ID": 144649,
+      "LastModified": "2016-09-16T19:49:25.947Z",
+      "Name": "August 16, 2016 - Stated Meeting Agenda with Links to Files",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/31734bd1-84cb-4558-b43d-4846ad55abbd.pdf",
+      "Sort": 1
+    },
+    {
+      "ID": 145054,
+      "LastModified": "2016-09-06T19:08:38.243Z",
+      "Name": "Land Use Calendar - Week of September 5, 2016 - September 9, 2016",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/451c69b1-70a9-431b-9b9b-e17106b2a8b1.pdf",
+      "Sort": 2
+    },
+    {
+      "ID": 145067,
+      "LastModified": "2016-09-06T19:08:55.17Z",
+      "Name": "REVISED - Land Use Calendar - Week of September 5, 2016 - September 9, 2016",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/e5b2d8b4-8bcf-4602-acd4-c621c3a5db4f.pdf",
+      "Sort": 3
+    },
+    {
+      "ID": 145144,
+      "LastModified": "2016-09-07T21:06:52.89Z",
+      "Name": "Land Use Calendar - September 8",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/579eeb91-1aa9-4125-898e-4b8e24a95d65.pdf",
+      "Sort": 4
+    },
+    {
+      "ID": 145266,
+      "LastModified": "2016-09-13T18:39:58.713Z",
+      "Name": "Hearing Testimony - Zoning 9-7-16",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/eea2599d-2c0c-4b68-a4b1-3fa26caada54.pdf",
+      "Sort": 5
+    },
+    {
+      "ID": 145398,
+      "LastModified": "2016-09-15T14:31:40.827Z",
+      "Name": "Hearing Transcript - Zoning  9-7-16",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/39b20923-e4e9-4f13-b537-3810e054dc38.pdf",
+      "Sort": 6
+    },
+    {
+      "ID": 145422,
+      "LastModified": "2016-09-15T14:34:07.027Z",
+      "Name": "Hearing Transcript - Land Use  9-8-16",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/a735fee3-d365-48e3-87ed-1190f44b0c1a.pdf",
+      "Sort": 7
+    },
+    {
+      "ID": 145506,
+      "LastModified": "2016-09-16T19:49:31.697Z",
+      "Name": "Committee Report",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/b8f89a59-f0e9-4bb6-85fa-b5b67be2bb78.doc",
+      "Sort": 8
+    },
+    {
+      "ID": 145507,
+      "LastModified": "2016-09-16T19:49:31.64Z",
+      "Name": "Resolution",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/36ec58ed-0b0a-4d82-b7dc-fcbee647168b.doc",
+      "Sort": 9
+    },
+    {
+      "ID": 145879,
+      "LastModified": "2016-09-23T13:01:24.697Z",
+      "Name": "Hearing Transcript - Stated Meeting 9-14-16",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/2728c761-8020-4722-bb05-043ffc76a271.pdf",
+      "Sort": 10
+    },
+    {
+      "ID": 146755,
+      "LastModified": "2016-10-20T17:59:43.063Z",
+      "Name": "Minutes of the Stated Meeting - September 14, 2016",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/c6e8f9e0-f0f3-42f6-aa2f-19fec0a3b814.pdf",
+      "Sort": 11
+    }
+  ],
+  "Summary": "",
+  "TextID": 58180,
+  "LastModified": "2016-10-20T17:59:43.063Z"
+}
