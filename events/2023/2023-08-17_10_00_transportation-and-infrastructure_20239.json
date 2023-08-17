@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/8/20239_A_Committee_on_Transportation_and_Infrastructure_23-08-17_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/8/20239_M_Committee_on_Transportation_and_Infrastructure_23-08-17_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_230817-103312.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20239&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,31 +20,197 @@
       "GUID": "4E8DCBF9-5FEC-4028-90A1-0DE5D9E7B581",
       "Title": "Oversight - Congestion Pricing and the MTA’s Fiscal Future.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 71708,
       "MatterFile": "T2023-3855",
       "MatterName": "Oversight - Congestion Pricing and the MTA’s Fiscal Future.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-08-17T14:53:17.04Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-08-17T21:18:02.52Z"
     },
     {
       "ID": 397038,
       "GUID": "A1A6D386-B2B4-4C3B-BAAB-DE7B0D284D07",
       "Title": "Resolution calling upon the Metropolitan Transportation Authority to conduct a comprehensive Environmental Impact Study on the viability of the proposed QueensLink project.",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 70413,
       "MatterFile": "Res 0390-2022",
       "MatterName": "Metropolitan Transportation Authority to conduct a comprehensive Environmental Impact Study on the viability of the proposed QueensLink project.",
       "MatterType": "Resolution",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-08-17T15:10:41.53Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-08-17T21:18:08.793Z"
+    },
+    {
+      "ID": 397047,
+      "GUID": "0F550062-B90B-4641-8633-F876CF162F47",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7830,
+          "Slug": "ari-kagan",
+          "FullName": "Ari Kagan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 120
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 180
+        },
+        {
+          "ID": 7740,
+          "Slug": "carlina-rivera",
+          "FullName": "Carlina Rivera",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 190
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 240
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 260
+        },
+        {
+          "ID": 7749,
+          "Slug": "kalman-yeger",
+          "FullName": "Kalman Yeger",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 280
+        }
+      ],
+      "LastModified": "2023-08-17T21:17:02.773Z"
+    },
+    {
+      "ID": 397048,
+      "GUID": "FDE81397-6444-41EF-889A-767CAB06ED3D",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Holden, Brewer, Marte, Paladino and Public Advocate Williams. ",
+      "LastModified": "2023-08-17T21:17:57.957Z"
+    },
+    {
+      "ID": 397049,
+      "GUID": "C53D4F66-A9D6-4E50-BF52-6899BCB4AB8F",
+      "Title": "Oversight - Congestion Pricing and the MTA’s Fiscal Future.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 71708,
+      "MatterFile": "T2023-3855",
+      "MatterName": "Oversight - Congestion Pricing and the MTA’s Fiscal Future.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2023-08-17T21:18:05.75Z"
+    },
+    {
+      "ID": 397050,
+      "GUID": "EC3B2EC4-A3AC-4A42-A910-F85951D89E1B",
+      "Title": "Resolution calling upon the Metropolitan Transportation Authority to conduct a comprehensive Environmental Impact Study on the viability of the proposed QueensLink project.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 70413,
+      "MatterFile": "Res 0390-2022",
+      "MatterName": "Metropolitan Transportation Authority to conduct a comprehensive Environmental Impact Study on the viability of the proposed QueensLink project.",
+      "MatterType": "Resolution",
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-08-17T21:18:24.123Z"
     }
   ],
   "AgendaLastPublished": "2023-08-17T15:10:47.953Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-08-17T15:10:48Z"
+  "MinutesLastPublished": "2023-08-17T21:18:29.917Z",
+  "LastModified": "2023-08-17T21:18:29.997Z"
 }
