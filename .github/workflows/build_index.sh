@@ -6,19 +6,37 @@ which -s jq || (echo "missing jq" && exit 1 )
 
 set -e
 
-for YEAR in introduction/????; do 
+declare -a RECENT_YEARS
+CURRENT_YEAR=$(date +%Y)
+START=${START:-"2022"}
+while [ $START -le $CURRENT_YEAR ]; do
+    RECENT_YEARS+=( "${START}" )
+    ((START++))
+done
+echo "Building YEARS=${RECENT_YEARS[*]} set START=... for a different start year"
+
+for YEAR in ${RECENT_YEARS[*]}; do
+    if ! [ -e introduction/$YEAR ]; then
+        continue
+    fi
     # remove fields not needed in the output
-    echo "building index $(basename $YEAR).json"
-    jq -c -s "map(del(.RTF,.GUID,.BodyID,.EnactmentDate,.PassedDate,.Version,.TextID,.StatusID,.TypeID,.TypeName,.AgendaDate,.Text,.Attachments)) | map(.History = ([.History[]? | del(.ActionID,.AgendaSequence,.MinutesSequence,.AgendaNumber,.Version,.MatterStatusID,.EventID,.LastModified,.ID,.BodyID,.Votes)] ))" $YEAR/????.json > build/$(basename $YEAR).json;
-    echo "building index $(basename $YEAR)_votes.json"
-    jq -c -s "map({File, StatusID, StatusName, Sponsors: ([.Sponsors[]? | {ID}]), History: ([.History[]? | select(.PassedFlagName != null) | {ActionID, Action, PassedFlagName, Votes: [(.Votes[]? | {ID, VoteID} ) ] }])}) " $YEAR/????.json > build/$(basename $YEAR)_votes.json;
+    echo "building index ${YEAR}.json"
+    jq -c -s "map(del(.RTF,.GUID,.BodyID,.EnactmentDate,.PassedDate,.Version,.TextID,.StatusID,.TypeID,.TypeName,.AgendaDate,.Text,.Attachments)) | map(.History = ([.History[]? | del(.ActionID,.AgendaSequence,.MinutesSequence,.AgendaNumber,.Version,.MatterStatusID,.EventID,.LastModified,.ID,.BodyID,.Votes)] ))" introduction/$YEAR/????.json > build/${YEAR}.json;
+    echo "building index ${YEAR}_votes.json"
+    jq -c -s "map({File, StatusID, StatusName, Sponsors: ([.Sponsors[]? | {ID}]), History: ([.History[]? | select(.PassedFlagName != null) | {ActionID, Action, PassedFlagName, Votes: [(.Votes[]? | {ID, VoteID} ) ] }])}) " introduction/$YEAR/????.json > build/${YEAR}_votes.json;
 
 done
 
 
-for YEAR in events/????; do
-    echo "building events_$(basename $YEAR).json"
-    jq -c -s "map(del(.GUID,.VideoPath,.VideoStatus,.MinutesFile,.AgendaFile)) | map(.Items = ([.Items[]? | del(.ID,.GUID,.MatterID,.LastModified,.Version,.MinutesNote,.ActionText,.PassedFlag,.RollCall)] ))" $YEAR/*.json > build/events_$(basename $YEAR).json;
+for YEAR in ${RECENT_YEARS[*]}; do
+    if ! [ -e events/$YEAR ]; then
+        continue
+    fi
+    echo "building events_${YEAR}.json"
+    jq -c -s "map(del(.GUID,.VideoPath,.VideoStatus,.MinutesFile,.AgendaFile)) | map(.Items = ([.Items[]? | del(.ID,.GUID,.MatterID,.LastModified,.Version,.MinutesNote,.ActionText,.PassedFlag,.RollCall)] ))" events/$YEAR/*.json > build/events_${YEAR}.json;
+
+    echo "building events_attendance_${YEAR}.json"
+    jq -c -s "map({ID,BodyID,BodyName,Items}) | map(.Items = ([.Items[]? | select(.RollCallFlag == "1") | del(.ID,.GUID,.MatterID,.LastModified,.Version,.MinutesNote,.ActionText,.PassedFlag,.AgendaSequence,.MinutesSequence) |  .RollCall = ([.RollCall[]? | del(.FullName,.Slug,.Value,.Sort) ]) ] ))" events/$YEAR/*.json > build/events_attendance_${YEAR}.json;
 done
 
 echo "building people_active.json"
@@ -50,19 +68,19 @@ for PERSON in people/*.json; do
         continue
     fi
     echo "building legislation_$(basename $PERSON)"
-    if [ -e introduction/2023 ]; then
-        jq -c -s "map(select(.Sponsors[]?.ID == ${PERSON_ID})) | map(del(.RTF,.GUID,.TextID,.StatusID,.TypeID,.TypeName,.AgendaDate,.Attachments,.Text, .Version)) | map(.History = [(.History[]? | del(.Votes))])" introduction/2022/????.json introduction/2023/????.json  > build/legislation_$(basename $PERSON .json).json;
+    if [ -e introduction/2024 ]; then
+        jq -c -s "map(select(.Sponsors[]?.ID == ${PERSON_ID})) | map(del(.RTF,.GUID,.TextID,.StatusID,.TypeID,.TypeName,.AgendaDate,.Attachments,.Text,.Version)) | map(.History = [(.History[]? | del(.Votes))])" introduction/2024/????.json > build/legislation_$(basename $PERSON .json).json;
     else
-        jq -c -s "map(select(.Sponsors[]?.ID == ${PERSON_ID})) | map(del(.RTF,.GUID,.TextID,.StatusID,.TypeID,.TypeName,.AgendaDate,.Attachments,.Text,.Version)) | map(.History = [(.History[]? | del(.Votes))])" introduction/2022/????.json > build/legislation_$(basename $PERSON .json).json;
+        jq -c -s "map(select(.Sponsors[]?.ID == ${PERSON_ID})) | map(del(.RTF,.GUID,.TextID,.StatusID,.TypeID,.TypeName,.AgendaDate,.Attachments,.Text, .Version)) | map(.History = [(.History[]? | del(.Votes))])" introduction/2022/????.json introduction/2023/????.json  > build/legislation_$(basename $PERSON .json).json;
     fi
 done
 
-if [ -e introduction/2023 ]; then
-    echo "building search_index_2022-2023.json"
-    jq -c -s "map({File, Name, Title, Summary, StatusName, LastModified:  ([.History[]? | select(.ActionID == 27 or .ActionID == 33 or .ActionID == 32 or .ActionID == 68 or .ActionID == 58)])[-1]?.Date})" introduction/2022/????.json introduction/2023/????.json > build/search_index_2022-2023.json
+if [ -e introduction/2024 ]; then
+    echo "building search_index_2024-2025.json"
+    jq -c -s "map({File, Name, Title, Summary, StatusName, LastModified:  ([.History[]? | select(.ActionID == 27 or .ActionID == 33 or .ActionID == 32 or .ActionID == 68 or .ActionID == 58)])[-1]?.Date})" introduction/2024/????.json > build/search_index_2024-2025.json
 else
     echo "building search_index_2022-2023.json"
-    jq -c -s "map({File, Name, Title, Summary, StatusName, LastModified:  ([.History[]? | select(.ActionID == 27 or .ActionID == 33 or .ActionID == 32 or .ActionID == 68 or .ActionID == 58)])[-1]?.Date})" introduction/2022/????.json > build/search_index_2022-2023.json
+    jq -c -s "map({File, Name, Title, Summary, StatusName, LastModified:  ([.History[]? | select(.ActionID == 27 or .ActionID == 33 or .ActionID == 32 or .ActionID == 68 or .ActionID == 58)])[-1]?.Date})" introduction/2022/????.json introduction/2023/????.json > build/search_index_2022-2023.json
 fi
 
 echo "copying last_sync.json"
