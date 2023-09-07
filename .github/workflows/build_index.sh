@@ -1,8 +1,8 @@
-#!/bin/sh
+#!/bin/bash
 
 mkdir -p build
 
-which -s jq || (echo "missing jq" && exit 1 )
+command -v jq >/dev/null || (echo "missing jq" && exit 1 )
 
 set -e
 
