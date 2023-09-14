@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/9/20330_A_City_Council_23-09-14_Council_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/9/20330_M_City_Council_23-09-14_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_230914-140419.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20330&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -22,7 +24,418 @@
       "AgendaNumber": "1.",
       "Version": "",
       "AgendaNote": "ROLL CALL",
-      "LastModified": "2023-09-14T14:29:19.073Z"
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7739,
+          "Slug": "adrienne-e-adams",
+          "FullName": "Adrienne E. Adams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 1
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 5288,
+          "Slug": "charles-barron",
+          "FullName": "Charles Barron",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7264,
+          "Slug": "joseph-c-borelli",
+          "FullName": "Joseph C. Borelli",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 200
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 220
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 240
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 260
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 280
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 300
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 320
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 340
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 380
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 400
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 420
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 440
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 460
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 66,
+          "Value": "Parental ",
+          "Sort": 480
+        },
+        {
+          "ID": 7805,
+          "Slug": "kristin-richardson-jordan",
+          "FullName": "Kristin Richardson Jordan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 500
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 520
+        },
+        {
+          "ID": 7830,
+          "Slug": "ari-kagan",
+          "FullName": "Ari Kagan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 540
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 560
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 580
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 600
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 620
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 640
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 660
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 680
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 700
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 720
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 740
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 760
+        },
+        {
+          "ID": 7741,
+          "Slug": "keith-powers",
+          "FullName": "Keith Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 780
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 800
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 820
+        },
+        {
+          "ID": 7740,
+          "Slug": "carlina-rivera",
+          "FullName": "Carlina Rivera",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 840
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 860
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 880
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 900
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 920
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 940
+        },
+        {
+          "ID": 7807,
+          "Slug": "marjorie-velazquez",
+          "FullName": "Marjorie Velázquez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 960
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 980
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 1000
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 1020
+        },
+        {
+          "ID": 7749,
+          "Slug": "kalman-yeger",
+          "FullName": "Kalman Yeger",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 1040
+        }
+      ],
+      "LastModified": "2023-09-14T22:23:48.277Z"
     },
     {
       "ID": 397371,
@@ -34,7 +447,7 @@
       "Version": "",
       "AgendaNote": "INVOCATION - Delivered by: Father Jean Delva, Our Lady of Miracles RC Church located at 757 E86 Street, Canarsie Brooklyn 11236.\r\n\r\nMotion to spread the Invocation in full upon the record by Council Member Narcisse.",
       "MinutesNote": "The Invocation was delivered by Father Jean Delva, Our Lady of Miracles Roman Catholic Church located at 757 East 86th Street, Canarsie, Brooklyn, N.Y. 11236.\r\n\r\nCouncil Member Narcisse moved to spread the Invocation in full upon the Record.",
-      "LastModified": "2023-09-14T15:01:32.553Z"
+      "LastModified": "2023-09-14T22:23:48.28Z"
     },
     {
       "ID": 397372,
@@ -46,7 +459,7 @@
       "Version": "",
       "AgendaNote": "ADOPTION OF MINUTES - Motion that the Minutes of the Stated Meetings of July 13, 2023 and August 3, 2023 be adopted as printed by Council Member Nurse.",
       "MinutesNote": "Council Member Nurse moved that the Minutes of the Stated Meetings of July 13 2023 and August 3, 2023 be adopted as printed.",
-      "LastModified": "2023-09-14T15:02:22.157Z"
+      "LastModified": "2023-09-14T22:23:48.28Z"
     },
     {
       "ID": 397373,
@@ -58,7 +471,7 @@
       "Version": "",
       "AgendaNote": "MESSAGES & PAPERS FROM THE MAYOR - None",
       "MinutesNote": "None.",
-      "LastModified": "2023-09-14T14:55:46.913Z"
+      "LastModified": "2023-09-14T22:23:48.28Z"
     },
     {
       "ID": 397376,
@@ -69,7 +482,7 @@
       "AgendaNumber": "5.",
       "Version": "",
       "AgendaNote": "COMMUNICATIONS FROM CITY, COUNTY & BOROUGH OFFICES",
-      "LastModified": "2023-09-12T19:07:16.543Z"
+      "LastModified": "2023-09-14T22:23:48.283Z"
     },
     {
       "ID": 397377,
@@ -87,7 +500,7 @@
       "MatterName": "Michele Sileo, Richmond County Democratic Commissioner of Elections",
       "MatterType": "Communication",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:56:13.887Z"
+      "LastModified": "2023-09-14T22:23:48.287Z"
     },
     {
       "ID": 397378,
@@ -99,7 +512,7 @@
       "Version": "",
       "AgendaNote": "PETITIONS AND COMMUNICATIONS - None",
       "MinutesNote": "None.",
-      "LastModified": "2023-09-14T14:56:21.017Z"
+      "LastModified": "2023-09-14T22:23:48.287Z"
     },
     {
       "ID": 397379,
@@ -111,7 +524,7 @@
       "Version": "",
       "AgendaNote": "LAND USE CALL-UPS – None",
       "MinutesNote": "None.",
-      "LastModified": "2023-09-14T14:56:28.233Z"
+      "LastModified": "2023-09-14T22:23:48.287Z"
     },
     {
       "ID": 397380,
@@ -123,7 +536,7 @@
       "Version": "",
       "AgendaNote": "COMMUNICATION FROM THE SPEAKER",
       "MinutesNote": "None.",
-      "LastModified": "2023-09-14T14:56:34.913Z"
+      "LastModified": "2023-09-14T22:23:48.29Z"
     },
     {
       "ID": 397381,
@@ -134,7 +547,7 @@
       "AgendaNumber": "9.",
       "Version": "",
       "AgendaNote": "DISCUSSION OF GENERAL ORDERS",
-      "LastModified": "2023-09-14T14:56:38.11Z"
+      "LastModified": "2023-09-14T22:23:48.29Z"
     },
     {
       "ID": 397382,
@@ -146,7 +559,7 @@
       "Version": "",
       "AgendaNote": "REPORTS OF SPECIAL COMMITTEES - None",
       "MinutesNote": "None.",
-      "LastModified": "2023-09-14T14:56:43.833Z"
+      "LastModified": "2023-09-14T22:23:48.29Z"
     },
     {
       "ID": 397383,
@@ -157,7 +570,7 @@
       "AgendaNumber": "11.",
       "Version": "",
       "AgendaNote": "REPORTS OF STANDING COMMITTEES",
-      "LastModified": "2023-09-12T19:07:16.55Z"
+      "LastModified": "2023-09-14T22:23:48.29Z"
     },
     {
       "ID": 397384,
@@ -167,7 +580,7 @@
       "MinutesSequence": 15,
       "Version": "",
       "AgendaNote": "REPORT OF THE COMMITTEE ON CIVIL SERVICE AND LABOR",
-      "LastModified": "2023-09-12T19:07:16.55Z"
+      "LastModified": "2023-09-14T22:23:48.29Z"
     },
     {
       "ID": 397385,
@@ -177,12 +590,18 @@
       "MinutesSequence": 16,
       "Version": "B",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 69141,
       "MatterFile": "Int 0877-2023",
       "MatterName": "Exit surveys and interviews for resigning and retiring employees of city agencies.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-12T19:07:16.55Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-09-14T22:23:48.293Z"
     },
     {
       "ID": 397387,
@@ -192,12 +611,18 @@
       "MinutesSequence": 88,
       "Version": "A",
       "AgendaNote": "Amended and Adopted by the Committee on Cultural Affairs, Libraries and International Intergroup Relations",
+      "MinutesNote": "Pursuant to Rule 8.50 of the Council, the Majority Leader and Acting President Pro Tempore (Council Member Powers) called for a voice vote.  Hearing no objections, the Majority Leader and Acting President Pro Tempore (Council Member Powers) declared the Resolution to be adopted.\r\n\r\nAdopted unanimously by the Council by voice-vote.\r\n",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by voice vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 70231,
       "MatterFile": "Res 0346-2022",
       "MatterName": "Recognizing the contributions of Hip Hop to arts and culture by designating August 11 as Hip Hop Celebration Day, August as Hip Hop Recognition Month, and November as Hip Hop History Month annually in the City of New York.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-14T15:05:09.237Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-09-14T22:24:14.06Z"
     },
     {
       "ID": 397388,
@@ -207,12 +632,18 @@
       "MinutesSequence": 89,
       "Version": "A",
       "AgendaNote": "Amended and Adopted by the Committee on Cultural Affairs, Libraries and International Intergroup Relations",
+      "MinutesNote": "Pursuant to Rule 8.50 of the Council, the Majority Leader and Acting President Pro Tempore (Council Member Powers) called for a voice vote.  Hearing no objections, the Majority Leader and Acting President Pro Tempore (Council Member Powers) declared the Resolution to be adopted.\r\n\r\nAdopted unanimously by the Council by voice-vote.\r\n",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by voice vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 70537,
       "MatterFile": "Res 0415-2022",
       "MatterName": "September 11 Day of Remembrance Act.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-12T19:07:16.627Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-09-14T22:24:25.153Z"
     },
     {
       "ID": 397389,
@@ -222,12 +653,18 @@
       "MinutesSequence": 90,
       "Version": "A",
       "AgendaNote": "Amended and Adopted by the Committee on Cultural Affairs, Libraries and International Intergroup Relations",
+      "MinutesNote": "Pursuant to Rule 8.50 of the Council, the Majority Leader and Acting President Pro Tempore (Council Member Powers) called for a voice vote.  Hearing no objections, the Majority Leader and Acting President Pro Tempore (Council Member Powers) declared the Resolution to be adopted.\r\n\r\nAdopted unanimously by the Council by voice-vote.\r\n",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by voice vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 70550,
       "MatterFile": "Res 0450-2022",
       "MatterName": "Recognizing the contributions of Def Jam to the music industry and to music lovers everywhere by designating January 2024 as Def Jam Recognition Month in the City of New York.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-12T19:07:16.627Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-09-14T22:24:44.06Z"
     },
     {
       "ID": 397390,
@@ -237,7 +674,7 @@
       "MinutesSequence": 17,
       "Version": "",
       "AgendaNote": "REPORT OF THE COMMITTEE ON FINANCE",
-      "LastModified": "2023-09-12T19:07:16.553Z"
+      "LastModified": "2023-09-14T22:23:48.293Z"
     },
     {
       "ID": 397391,
@@ -247,12 +684,18 @@
       "MinutesSequence": 18,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71819,
       "MatterFile": "Res 0744-2023",
       "MatterName": "Approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-13T18:48:54.413Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-09-14T22:23:48.293Z"
     },
     {
       "ID": 397392,
@@ -262,12 +705,18 @@
       "MinutesSequence": 20,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71871,
       "MatterFile": "Res 0778-2023",
       "MatterName": "LU 255 - Paradise Management Cluster 4.HPO.FY23, Block 2822, Lot 19; Block 3253, Lots 51 & 54, Bronx, Community Districts No. 5 and 8, Council District No. 14.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-13T18:49:11.65Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-09-14T22:23:48.297Z"
     },
     {
       "ID": 397393,
@@ -277,12 +726,18 @@
       "MinutesSequence": 22,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71873,
       "MatterFile": "Res 0779-2023",
       "MatterName": "LU 256 - Paradise Management Cluster 6.HPO.FY23, Block 3134, Lots 7 and 9; Block 3171, Lot 1, Bronx, Community Districts No. 5 and 6, Council Districts No. 14 and 15.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-13T18:49:27.307Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-09-14T22:23:48.3Z"
     },
     {
       "ID": 397394,
@@ -292,12 +747,18 @@
       "MinutesSequence": 24,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71875,
       "MatterFile": "Res 0780-2023",
       "MatterName": "LU 257 - Paradise Management Cluster 14.HPO.FY23, Block 2879, Lot 192, Bronx, Community District No. 5, Council District No. 14.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-13T18:49:45.957Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-09-14T22:23:48.3Z"
     },
     {
       "ID": 397395,
@@ -307,12 +768,18 @@
       "MinutesSequence": 26,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71877,
       "MatterFile": "Res 0781-2023",
       "MatterName": "LU 258 - Paradise Management Cluster 15.HPO.FY23, Block 2879, Lot 170, Bronx, Community District No. 5, Council District No. 14.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-13T16:01:41.227Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-09-14T22:23:48.3Z"
     },
     {
       "ID": 397396,
@@ -322,7 +789,7 @@
       "MinutesSequence": 27,
       "Version": "",
       "AgendaNote": "REPORT OF THE COMMITTEE ON FIRE AND EMERGENCY MANAGEMENT",
-      "LastModified": "2023-09-12T19:07:16.573Z"
+      "LastModified": "2023-09-14T22:23:48.303Z"
     },
     {
       "ID": 397397,
@@ -332,12 +799,18 @@
       "MinutesSequence": 28,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 70443,
       "MatterFile": "Int 0949-2023",
       "MatterName": "Establishment of a trade-in program for powered mobility devices and lithium-ion batteries used in powered mobility devices, and to provide for the repeal of such local law upon the expiration thereof.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-12T19:07:16.577Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-09-14T22:23:48.303Z"
     },
     {
       "ID": 397398,
@@ -347,7 +820,7 @@
       "MinutesSequence": 29,
       "Version": "",
       "AgendaNote": "REPORT OF THE COMMITTEE ON GENERAL WELFARE",
-      "LastModified": "2023-09-12T19:07:16.577Z"
+      "LastModified": "2023-09-14T22:23:48.303Z"
     },
     {
       "ID": 397399,
@@ -357,12 +830,18 @@
       "MinutesSequence": 30,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71503,
       "MatterFile": "Int 1080-2023",
       "MatterName": "Publication and dissemination of information on emergency feeding programs, food benefits programs, and senior centers.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-12T19:07:16.577Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-09-14T22:23:48.307Z"
     },
     {
       "ID": 397400,
@@ -372,7 +851,7 @@
       "MinutesSequence": 31,
       "Version": "",
       "AgendaNote": "REPORT OF THE COMMITTEE ON LAND USE",
-      "LastModified": "2023-09-12T19:07:16.58Z"
+      "LastModified": "2023-09-14T22:23:48.307Z"
     },
     {
       "ID": 397401,
@@ -382,12 +861,18 @@
       "MinutesSequence": 35,
       "Version": "*",
       "AgendaNote": "Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71839,
       "MatterFile": "Res 0782-2023",
       "MatterName": "LU 250 - Zoning, 893 Eagle Avenue Rezoning, Bronx (C 220334 ZMX)",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-13T16:48:15.627Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-09-14T22:23:48.31Z"
     },
     {
       "ID": 397402,
@@ -397,12 +882,18 @@
       "MinutesSequence": 37,
       "Version": "*",
       "AgendaNote": "Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71840,
       "MatterFile": "Res 0783-2023",
       "MatterName": "LU 251 - Zoning, 893 Eagle Avenue Rezoning, Bronx (N 220335 ZRX)",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-13T16:48:27.31Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-09-14T22:23:48.31Z"
     },
     {
       "ID": 397403,
@@ -412,12 +903,18 @@
       "MinutesSequence": 39,
       "Version": "*",
       "AgendaNote": "Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71841,
       "MatterFile": "Res 0784-2023",
       "MatterName": "LU 252 - Zoning, 893 Eagle Avenue Rezoning, Bronx (C 220336 ZSX)",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-12T19:07:16.583Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-09-14T22:23:48.317Z"
     },
     {
       "ID": 397404,
@@ -427,7 +924,7 @@
       "MinutesSequence": 40,
       "Version": "",
       "AgendaNote": "REPORT OF THE COMMITTEE ON PARKS AND RECREATION",
-      "LastModified": "2023-09-12T19:07:16.583Z"
+      "LastModified": "2023-09-14T22:23:48.317Z"
     },
     {
       "ID": 397405,
@@ -437,12 +934,18 @@
       "MinutesSequence": 41,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 64960,
       "MatterFile": "Int 0760-2022",
       "MatterName": "Providing water safety instruction to New York city's public school children at no cost.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-12T19:07:16.587Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-09-14T22:23:48.32Z"
     },
     {
       "ID": 397406,
@@ -452,12 +955,18 @@
       "MinutesSequence": 42,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71005,
       "MatterFile": "Int 0962-2023",
       "MatterName": "Public swimming pool assessment and location survey and swimming lessons offered by the department of parks and recreation.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-12T19:07:16.587Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-09-14T22:23:48.32Z"
     },
     {
       "ID": 397407,
@@ -467,12 +976,18 @@
       "MinutesSequence": 43,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71150,
       "MatterFile": "Int 1017-2023",
       "MatterName": "Lifeguards at public beaches and pools under the jurisdiction of the department of parks and recreation.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-12T19:07:16.587Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-09-14T22:23:48.32Z"
     },
     {
       "ID": 397408,
@@ -482,12 +997,18 @@
       "MinutesSequence": 44,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71447,
       "MatterFile": "Int 1066-2023",
       "MatterName": "Role of trees and the tree canopy with respect to the city's long-term sustainability planning.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-12T19:07:16.587Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-09-14T22:23:48.32Z"
     },
     {
       "ID": 397409,
@@ -497,7 +1018,7 @@
       "MinutesSequence": 45,
       "Version": "",
       "AgendaNote": "REPORT OF THE COMMITTEE ON SMALL BUSINESS",
-      "LastModified": "2023-09-12T19:07:16.59Z"
+      "LastModified": "2023-09-14T22:23:48.323Z"
     },
     {
       "ID": 397410,
@@ -507,12 +1028,18 @@
       "MinutesSequence": 46,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 69017,
       "MatterFile": "Int 0263-2022",
       "MatterName": "Requiring the dept of small business services to report on the services provided at workforce1 career centers.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-12T19:07:16.59Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-09-14T22:23:48.323Z"
     },
     {
       "ID": 397411,
@@ -522,12 +1049,18 @@
       "MinutesSequence": 47,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71004,
       "MatterFile": "Int 0969-2023",
       "MatterName": "Information on local community development financial institutions.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-12T19:07:16.59Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-09-14T22:23:48.323Z"
     },
     {
       "ID": 397412,
@@ -537,12 +1070,18 @@
       "MinutesSequence": 48,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71572,
       "MatterFile": "Int 1103-2023",
       "MatterName": "Information on loans and grants for small businesses.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-12T19:07:16.59Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-09-14T22:23:48.323Z"
     },
     {
       "ID": 397413,
@@ -553,7 +1092,7 @@
       "AgendaNumber": "12.",
       "Version": "",
       "AgendaNote": "GENERAL ORDERS CALENDAR",
-      "LastModified": "2023-09-13T16:48:42.26Z"
+      "LastModified": "2023-09-14T22:23:48.327Z"
     },
     {
       "ID": 397414,
@@ -563,12 +1102,18 @@
       "MinutesSequence": 51,
       "Version": "*",
       "AgendaNote": "Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71837,
       "MatterFile": "Res 0785-2023",
       "MatterName": "LU 245 - Zoning, Arena Text Amendment, Manhattan (N 230240 ZRM)",
       "MatterType": "Resolution",
-      "MatterStatus": "General Orders Calendar",
-      "LastModified": "2023-09-13T16:49:00.787Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-09-14T22:23:48.327Z"
     },
     {
       "ID": 397415,
@@ -578,12 +1123,18 @@
       "MinutesSequence": 53,
       "Version": "*",
       "AgendaNote": "Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71838,
       "MatterFile": "Res 0786-2023",
       "MatterName": "LU 246 - Zoning, Madison Square Garden Special Permit, Manhattan (C 230238 ZSM)",
       "MatterType": "Resolution",
-      "MatterStatus": "General Orders Calendar",
-      "LastModified": "2023-09-12T19:07:16.593Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-09-14T22:23:48.33Z"
     },
     {
       "ID": 397416,
@@ -593,7 +1144,7 @@
       "MinutesSequence": 54,
       "Version": "",
       "AgendaNote": "COUPLED ON GENERAL ORDERS CALENDAR",
-      "LastModified": "2023-09-12T19:07:16.593Z"
+      "LastModified": "2023-09-14T22:23:48.33Z"
     },
     {
       "ID": 397417,
@@ -604,7 +1155,7 @@
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "CIVIL SERVICE AND LABOR",
-      "LastModified": "2023-09-12T19:07:16.593Z"
+      "LastModified": "2023-09-14T22:23:48.33Z"
     },
     {
       "ID": 397418,
@@ -619,8 +1170,8 @@
       "MatterFile": "Int 0877-2023",
       "MatterName": "Exit surveys and interviews for resigning and retiring employees of city agencies.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-12T19:07:16.597Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-09-14T22:23:48.33Z"
     },
     {
       "ID": 397423,
@@ -631,7 +1182,7 @@
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "FINANCE",
-      "LastModified": "2023-09-12T19:07:16.597Z"
+      "LastModified": "2023-09-14T22:23:48.333Z"
     },
     {
       "ID": 397424,
@@ -646,8 +1197,8 @@
       "MatterFile": "Res 0744-2023",
       "MatterName": "Approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-12T19:07:16.6Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-09-14T22:23:48.333Z"
     },
     {
       "ID": 397425,
@@ -662,8 +1213,8 @@
       "MatterFile": "Res 0778-2023",
       "MatterName": "LU 255 - Paradise Management Cluster 4.HPO.FY23, Block 2822, Lot 19; Block 3253, Lots 51 & 54, Bronx, Community Districts No. 5 and 8, Council District No. 14.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-13T16:01:52.903Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-09-14T22:23:48.333Z"
     },
     {
       "ID": 397426,
@@ -678,8 +1229,8 @@
       "MatterFile": "Res 0779-2023",
       "MatterName": "LU 256 - Paradise Management Cluster 6.HPO.FY23, Block 3134, Lots 7 and 9; Block 3171, Lot 1, Bronx, Community Districts No. 5 and 6, Council Districts No. 14 and 15.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-13T16:03:54.423Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-09-14T22:23:48.333Z"
     },
     {
       "ID": 397427,
@@ -694,8 +1245,8 @@
       "MatterFile": "Res 0780-2023",
       "MatterName": "LU 257 - Paradise Management Cluster 14.HPO.FY23, Block 2879, Lot 192, Bronx, Community District No. 5, Council District No. 14.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-13T16:05:36.267Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-09-14T22:23:48.337Z"
     },
     {
       "ID": 397428,
@@ -710,8 +1261,8 @@
       "MatterFile": "Res 0781-2023",
       "MatterName": "LU 258 - Paradise Management Cluster 15.HPO.FY23, Block 2879, Lot 170, Bronx, Community District No. 5, Council District No. 14.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-13T16:07:13.827Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-09-14T22:23:48.337Z"
     },
     {
       "ID": 397429,
@@ -722,7 +1273,7 @@
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "GENERAL WELFARE",
-      "LastModified": "2023-09-12T19:07:16.607Z"
+      "LastModified": "2023-09-14T22:23:48.34Z"
     },
     {
       "ID": 397430,
@@ -737,8 +1288,8 @@
       "MatterFile": "Int 1080-2023",
       "MatterName": "Publication and dissemination of information on emergency feeding programs, food benefits programs, and senior centers.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-12T19:07:16.607Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-09-14T22:23:48.34Z"
     },
     {
       "ID": 397431,
@@ -749,7 +1300,7 @@
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "LAND USE",
-      "LastModified": "2023-09-12T19:07:16.607Z"
+      "LastModified": "2023-09-14T22:23:48.34Z"
     },
     {
       "ID": 397432,
@@ -764,8 +1315,8 @@
       "MatterFile": "Res 0782-2023",
       "MatterName": "LU 250 - Zoning, 893 Eagle Avenue Rezoning, Bronx (C 220334 ZMX)",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-12T19:07:16.61Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-09-14T22:23:48.34Z"
     },
     {
       "ID": 397433,
@@ -780,8 +1331,8 @@
       "MatterFile": "Res 0783-2023",
       "MatterName": "LU 251 - Zoning, 893 Eagle Avenue Rezoning, Bronx (N 220335 ZRX)",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-12T19:07:16.61Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-09-14T22:23:48.34Z"
     },
     {
       "ID": 397434,
@@ -796,8 +1347,8 @@
       "MatterFile": "Res 0784-2023",
       "MatterName": "LU 252 - Zoning, 893 Eagle Avenue Rezoning, Bronx (C 220336 ZSX)",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-12T19:07:16.61Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-09-14T22:23:48.343Z"
     },
     {
       "ID": 397435,
@@ -808,7 +1359,7 @@
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "PARKS AND RECREATION",
-      "LastModified": "2023-09-12T19:07:16.61Z"
+      "LastModified": "2023-09-14T22:23:48.343Z"
     },
     {
       "ID": 397436,
@@ -823,8 +1374,8 @@
       "MatterFile": "Int 0760-2022",
       "MatterName": "Providing water safety instruction to New York city's public school children at no cost.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-12T19:07:16.61Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-09-14T22:23:48.343Z"
     },
     {
       "ID": 397437,
@@ -839,8 +1390,8 @@
       "MatterFile": "Int 0962-2023",
       "MatterName": "Public swimming pool assessment and location survey and swimming lessons offered by the department of parks and recreation.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-12T19:07:16.613Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-09-14T22:23:48.343Z"
     },
     {
       "ID": 397438,
@@ -855,8 +1406,8 @@
       "MatterFile": "Int 1017-2023",
       "MatterName": "Lifeguards at public beaches and pools under the jurisdiction of the department of parks and recreation.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-12T19:07:16.613Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-09-14T22:23:48.347Z"
     },
     {
       "ID": 397439,
@@ -871,8 +1422,8 @@
       "MatterFile": "Int 1066-2023",
       "MatterName": "Role of trees and the tree canopy with respect to the city's long-term sustainability planning.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-12T19:07:16.613Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-09-14T22:23:48.347Z"
     },
     {
       "ID": 397440,
@@ -883,7 +1434,7 @@
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "SMALL BUSINESS",
-      "LastModified": "2023-09-12T19:07:16.613Z"
+      "LastModified": "2023-09-14T22:23:48.347Z"
     },
     {
       "ID": 397441,
@@ -898,8 +1449,8 @@
       "MatterFile": "Int 0263-2022",
       "MatterName": "Requiring the dept of small business services to report on the services provided at workforce1 career centers.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-12T19:07:16.617Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-09-14T22:23:48.35Z"
     },
     {
       "ID": 397442,
@@ -914,8 +1465,8 @@
       "MatterFile": "Int 0969-2023",
       "MatterName": "Information on local community development financial institutions.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-12T19:07:16.617Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-09-14T22:23:48.35Z"
     },
     {
       "ID": 397443,
@@ -930,8 +1481,8 @@
       "MatterFile": "Int 1103-2023",
       "MatterName": "Information on loans and grants for small businesses.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-12T19:07:16.62Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-09-14T22:23:48.35Z"
     },
     {
       "ID": 397444,
@@ -942,7 +1493,7 @@
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "GENERAL ORDERS CALENDAR",
-      "LastModified": "2023-09-12T19:07:16.62Z"
+      "LastModified": "2023-09-14T22:23:48.35Z"
     },
     {
       "ID": 397445,
@@ -957,8 +1508,8 @@
       "MatterFile": "Res 0785-2023",
       "MatterName": "LU 245 - Zoning, Arena Text Amendment, Manhattan (N 230240 ZRM)",
       "MatterType": "Resolution",
-      "MatterStatus": "General Orders Calendar",
-      "LastModified": "2023-09-12T19:07:16.62Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-09-14T22:23:48.35Z"
     },
     {
       "ID": 397446,
@@ -973,8 +1524,8 @@
       "MatterFile": "Res 0786-2023",
       "MatterName": "LU 246 - Zoning, Madison Square Garden Special Permit, Manhattan (C 230238 ZSM)",
       "MatterType": "Resolution",
-      "MatterStatus": "General Orders Calendar",
-      "LastModified": "2023-09-14T14:57:07.367Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-09-14T22:23:48.353Z"
     },
     {
       "ID": 397447,
@@ -985,7 +1536,7 @@
       "AgendaNumber": "13.",
       "Version": "",
       "AgendaNote": "INTRODUCTION & READING OF BILLS (SEE BELOW)",
-      "LastModified": "2023-09-12T19:07:16.623Z"
+      "LastModified": "2023-09-14T22:23:55.43Z"
     },
     {
       "ID": 397448,
@@ -996,7 +1547,7 @@
       "AgendaNumber": "14.",
       "Version": "",
       "AgendaNote": "DISCUSSION OF RESOLUTIONS",
-      "LastModified": "2023-09-12T19:07:16.623Z"
+      "LastModified": "2023-09-14T22:23:48.357Z"
     },
     {
       "ID": 397449,
@@ -1007,7 +1558,7 @@
       "AgendaNumber": "15.",
       "Version": "",
       "AgendaNote": "RESOLUTIONS",
-      "LastModified": "2023-09-12T19:07:16.627Z"
+      "LastModified": "2023-09-14T22:23:48.357Z"
     },
     {
       "ID": 397450,
@@ -1018,7 +1569,7 @@
       "AgendaNumber": "16.",
       "Version": "",
       "AgendaNote": "GENERAL DISCUSSION",
-      "LastModified": "2023-09-12T19:07:16.63Z"
+      "LastModified": "2023-09-14T22:23:48.36Z"
     },
     {
       "ID": 397451,
@@ -1029,7 +1580,7 @@
       "AgendaNumber": "17.",
       "Version": "",
       "AgendaNote": "EXTENSION OF REMARKS",
-      "LastModified": "2023-09-12T19:07:16.63Z"
+      "LastModified": "2023-09-14T22:23:48.36Z"
     },
     {
       "ID": 397452,
@@ -1039,7 +1590,7 @@
       "MinutesSequence": 93,
       "Version": "",
       "AgendaNote": "INTRODUCTION AND READING OF BILLS",
-      "LastModified": "2023-09-12T19:07:16.63Z"
+      "LastModified": "2023-09-14T22:23:48.36Z"
     },
     {
       "ID": 397453,
@@ -1058,7 +1609,7 @@
       "MatterName": "Background checks for child care providers, employees, and volunteers.",
       "MatterType": "Introduction",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-13T18:50:34.917Z"
+      "LastModified": "2023-09-14T22:23:48.36Z"
     },
     {
       "ID": 397454,
@@ -1077,7 +1628,7 @@
       "MatterName": "Background checks for child care providers, employees, and volunteers.",
       "MatterType": "Introduction",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-13T18:50:40.63Z"
+      "LastModified": "2023-09-14T22:23:48.363Z"
     },
     {
       "ID": 397455,
@@ -1096,7 +1647,7 @@
       "MatterName": "Allowing reusable beverage containers in sports venues.",
       "MatterType": "Introduction",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-13T18:50:48.867Z"
+      "LastModified": "2023-09-14T22:23:48.363Z"
     },
     {
       "ID": 397456,
@@ -1115,7 +1666,7 @@
       "MatterName": "Department of Education to develop curriculum on machine learning, and adapt their current curriculum and policies to account for the safe use of generative AI.",
       "MatterType": "Resolution",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-13T18:50:56.803Z"
+      "LastModified": "2023-09-14T22:23:48.363Z"
     },
     {
       "ID": 397457,
@@ -1134,7 +1685,7 @@
       "MatterName": "Study regarding the feasibility of providing parents with an annual $10,000 tuition reimbursement payment per student to cover the cost of nonpublic schooling and the repeal of this local law upon the expiration thereof.",
       "MatterType": "Introduction",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-13T18:51:11.457Z"
+      "LastModified": "2023-09-14T22:23:48.367Z"
     },
     {
       "ID": 397458,
@@ -1153,7 +1704,7 @@
       "MatterName": "Amending the New York State Constitution to remove the requirement that registration for purposes of voting be completed at least 10 days before election day. (A.181/S.178)",
       "MatterType": "Resolution",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:32:50.08Z"
+      "LastModified": "2023-09-14T22:23:48.367Z"
     },
     {
       "ID": 397459,
@@ -1171,8 +1722,8 @@
       "MatterFile": "Res 0744-2023",
       "MatterName": "Approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-14T14:32:40.497Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-09-14T22:23:48.367Z"
     },
     {
       "ID": 397460,
@@ -1191,7 +1742,7 @@
       "MatterName": "Third-party delivery workers and powered bicycle safety.",
       "MatterType": "Introduction",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:33:00.977Z"
+      "LastModified": "2023-09-14T22:23:48.37Z"
     },
     {
       "ID": 397461,
@@ -1210,7 +1761,7 @@
       "MatterName": "United States Citizenship and Immigration Services (USCIS) and the Secretary of Homeland Security to grant humanitarian parole, of at least two years, to asylum seekers who entered the United States prior to the date this parole is announced.",
       "MatterType": "Resolution",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:33:48.977Z"
+      "LastModified": "2023-09-14T22:23:48.37Z"
     },
     {
       "ID": 397462,
@@ -1229,7 +1780,7 @@
       "MatterName": "Set standards for lithium-ion batteries. (A.4938-B/A.5310/A.4938-B/S.154-C and A.5310/S.157)",
       "MatterType": "Resolution",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:33:11.487Z"
+      "LastModified": "2023-09-14T22:23:48.37Z"
     },
     {
       "ID": 397463,
@@ -1248,7 +1799,7 @@
       "MatterName": "Increasing the penalty for leaving the scene of an accident involving an e-scooter and further calling upon the NYS Legislature to include e-bikes in such legislation. (A.1679/S.561)",
       "MatterType": "Resolution",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:34:01.867Z"
+      "LastModified": "2023-09-14T22:23:48.373Z"
     },
     {
       "ID": 397464,
@@ -1267,7 +1818,7 @@
       "MatterName": "Prescription Pricing for the People Act of 2023 and the Pharmacy Benefit Manager Transparency Act of 2023.",
       "MatterType": "Resolution",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:33:34.14Z"
+      "LastModified": "2023-09-14T22:23:48.37Z"
     },
     {
       "ID": 397465,
@@ -1286,7 +1837,7 @@
       "MatterName": "Commercial E-Bike Licensing Act. (S.7587/A.7833)",
       "MatterType": "Resolution",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:33:21.26Z"
+      "LastModified": "2023-09-14T22:23:48.37Z"
     },
     {
       "ID": 397466,
@@ -1305,7 +1856,7 @@
       "MatterName": "Adding two commissioners to the New York city taxi and limousine commission board.",
       "MatterType": "Introduction",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:34:25.51Z"
+      "LastModified": "2023-09-14T22:23:48.373Z"
     },
     {
       "ID": 397467,
@@ -1324,7 +1875,7 @@
       "MatterName": "Adding an investment roadmap to the streets master plan.",
       "MatterType": "Introduction",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:34:15.29Z"
+      "LastModified": "2023-09-14T22:23:48.373Z"
     },
     {
       "ID": 397468,
@@ -1343,7 +1894,7 @@
       "MatterName": "Support the provision of medication abortion on all college and university campuses in New York State.",
       "MatterType": "Resolution",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:35:11.25Z"
+      "LastModified": "2023-09-14T22:23:48.377Z"
     },
     {
       "ID": 397469,
@@ -1362,7 +1913,7 @@
       "MatterName": "Safer Consumption Services Act (S.399A/A.338A)",
       "MatterType": "Resolution",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:34:36.017Z"
+      "LastModified": "2023-09-14T22:23:48.373Z"
     },
     {
       "ID": 397470,
@@ -1381,7 +1932,7 @@
       "MatterName": "Including policies and procedures in school safety plans for responding to students having mental health crises in order to reduce the instances where schools resort to police intervention in mental health emergencies. (A.3903/S.5103)",
       "MatterType": "Resolution",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:34:56.53Z"
+      "LastModified": "2023-09-14T22:23:48.377Z"
     },
     {
       "ID": 397471,
@@ -1400,7 +1951,7 @@
       "MatterName": "Enables community health centers to be fully reimbursed for telehealth care services. (S.6733/A.7316)",
       "MatterType": "Resolution",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:34:46.4Z"
+      "LastModified": "2023-09-14T22:23:48.377Z"
     },
     {
       "ID": 397472,
@@ -1419,7 +1970,7 @@
       "MatterName": "Designation of rapid emergency response centers in each community district.",
       "MatterType": "Introduction",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:35:54.673Z"
+      "LastModified": "2023-09-14T22:23:48.38Z"
     },
     {
       "ID": 397473,
@@ -1438,7 +1989,7 @@
       "MatterName": "Reporting on the number of bedrooms created though inclusionary housing programs.",
       "MatterType": "Introduction",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:35:44.79Z"
+      "LastModified": "2023-09-14T22:23:48.38Z"
     },
     {
       "ID": 397474,
@@ -1457,7 +2008,7 @@
       "MatterName": "Enhance Access to SNAP Act of 2023 (EATS Act of 2023) (S.1488/H.R.3183)",
       "MatterType": "Resolution",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:36:09.46Z"
+      "LastModified": "2023-09-14T22:23:48.38Z"
     },
     {
       "ID": 397475,
@@ -1476,7 +2027,7 @@
       "MatterName": "Safety standards for powered bicycles and powered mobility devices used for food delivery services.",
       "MatterType": "Introduction",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:36:20.33Z"
+      "LastModified": "2023-09-14T22:23:48.38Z"
     },
     {
       "ID": 397476,
@@ -1495,7 +2046,7 @@
       "MatterName": "Requiring the department of parks and recreation to resolve risks posed by trees on public property.",
       "MatterType": "Introduction",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:36:34.14Z"
+      "LastModified": "2023-09-14T22:23:48.38Z"
     },
     {
       "ID": 397477,
@@ -1514,7 +2065,7 @@
       "MatterName": "Wastewater Infrastructure Pollution Prevention and Environmental Safety Act (WIPPES).  (S.1350/H.R 2964)",
       "MatterType": "Resolution",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:36:56.517Z"
+      "LastModified": "2023-09-14T22:23:48.383Z"
     },
     {
       "ID": 397478,
@@ -1533,7 +2084,7 @@
       "MatterName": "Requiring the department of education to report on certain physical facilities at city schools.",
       "MatterType": "Introduction",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:37:05.54Z"
+      "LastModified": "2023-09-14T22:23:48.383Z"
     },
     {
       "ID": 397479,
@@ -1552,7 +2103,7 @@
       "MatterName": "Annual education campaign to combat antisemitism and promote inclusion.",
       "MatterType": "Introduction",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:37:18.083Z"
+      "LastModified": "2023-09-14T22:23:48.383Z"
     },
     {
       "ID": 397480,
@@ -1571,7 +2122,7 @@
       "MatterName": "Ensuring emergency vehicle access to open streets.",
       "MatterType": "Introduction",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:37:44.3Z"
+      "LastModified": "2023-09-14T22:23:48.387Z"
     },
     {
       "ID": 397481,
@@ -1590,7 +2141,7 @@
       "MatterName": "Refusing to renew, suspending, or revoking a license of a tobacco retail dealer that has violated certain authorization requirements of the cannabis law.",
       "MatterType": "Introduction",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:37:30.69Z"
+      "LastModified": "2023-09-14T22:23:48.383Z"
     },
     {
       "ID": 397482,
@@ -1609,7 +2160,7 @@
       "MatterName": "Requiring the NYC department of education to distribute NY state non-driver identification card applications to all high school students.",
       "MatterType": "Introduction",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:37:54.103Z"
+      "LastModified": "2023-09-14T22:23:48.387Z"
     },
     {
       "ID": 397483,
@@ -1628,7 +2179,7 @@
       "MatterName": "Requiring city agencies to provide an “X” option for gender on certain forms.",
       "MatterType": "Introduction",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:38:08.63Z"
+      "LastModified": "2023-09-14T22:23:48.387Z"
     },
     {
       "ID": 397484,
@@ -1647,7 +2198,7 @@
       "MatterName": "Establish an Office of Older Adult Workforce Development within the State Office for the Aging. (S.3004/A.6324)",
       "MatterType": "Resolution",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:38:45.917Z"
+      "LastModified": "2023-09-14T22:23:48.39Z"
     },
     {
       "ID": 397485,
@@ -1666,7 +2217,7 @@
       "MatterName": "Take action to create and foster LGBTQIA+ inclusive campus climates.",
       "MatterType": "Resolution",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:39:44.213Z"
+      "LastModified": "2023-09-14T22:23:48.393Z"
     },
     {
       "ID": 397486,
@@ -1685,7 +2236,7 @@
       "MatterName": "Federal Communication Commission Management Agency to add alerts for missing persons with dementia to the Wireless Emergency Alerts system.",
       "MatterType": "Resolution",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:38:18.243Z"
+      "LastModified": "2023-09-14T22:23:48.39Z"
     },
     {
       "ID": 397487,
@@ -1704,7 +2255,7 @@
       "MatterName": "Localities to provide for an additional real property tax exemption for eligible persons who are 65 years of age and older. (A. 6362)",
       "MatterType": "Resolution",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:38:36.083Z"
+      "LastModified": "2023-09-14T22:23:48.39Z"
     },
     {
       "ID": 397488,
@@ -1723,7 +2274,7 @@
       "MatterName": "NYS Office for the Aging and the Empire State Development Corporation to expand encore entrepreneurship in NYS to empower individuals 50 years of age or older to establish small businesses. (S.884/A.6331)",
       "MatterType": "Resolution",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:38:26.78Z"
+      "LastModified": "2023-09-14T22:23:48.39Z"
     },
     {
       "ID": 397489,
@@ -1742,7 +2293,7 @@
       "MatterName": "Require school districts and charter schools to include instruction on the political, economic, and social contributions, and lifeways of lesbian, gay, bisexual, transgender, queer, intersex, and asexual people. (A.4375/S.351)",
       "MatterType": "Resolution",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:39:34.71Z"
+      "LastModified": "2023-09-14T22:23:48.393Z"
     },
     {
       "ID": 397490,
@@ -1761,7 +2312,7 @@
       "MatterName": "S.6569-A, in relation to deed theft, and for the Governor to sign S.6577/A.6656, in relation to the theft of real property and protections for victims of real property theft.",
       "MatterType": "Resolution",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:38:56.21Z"
+      "LastModified": "2023-09-14T22:23:48.39Z"
     },
     {
       "ID": 397491,
@@ -1780,7 +2331,7 @@
       "MatterName": "Certain housing accommodations and certain hardship provisions. (S.6352-A)",
       "MatterType": "Resolution",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:39:14.527Z"
+      "LastModified": "2023-09-14T22:23:48.393Z"
     },
     {
       "ID": 397492,
@@ -1799,7 +2350,7 @@
       "MatterName": "Designating May 20 annually as Gloria “Hurricane G” Rodriguez Day in the City of New York.",
       "MatterType": "Resolution",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:39:23.66Z"
+      "LastModified": "2023-09-14T22:23:48.393Z"
     },
     {
       "ID": 397493,
@@ -1818,7 +2369,7 @@
       "MatterName": "Department of Education to mandate training on generative artificial intelligence tools for all educators.",
       "MatterType": "Resolution",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:40:05.713Z"
+      "LastModified": "2023-09-14T22:23:48.397Z"
     },
     {
       "ID": 397494,
@@ -1837,7 +2388,7 @@
       "MatterName": "Department of Education to update its CS4All initiative to increase access to CS4All professional development for educators and administrators, particularly for those in underserved schools, and to increase training for all teachers.",
       "MatterType": "Resolution",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:39:55.327Z"
+      "LastModified": "2023-09-14T22:23:48.397Z"
     },
     {
       "ID": 397495,
@@ -1856,7 +2407,7 @@
       "MatterName": "Requiring third-party food delivery services and food service establishments to display sanitary inspection letter grades online.",
       "MatterType": "Introduction",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:40:23.807Z"
+      "LastModified": "2023-09-14T22:23:48.397Z"
     },
     {
       "ID": 397496,
@@ -1875,7 +2426,7 @@
       "MatterName": "Establishing a screening program for endometriosis and polycystic ovarian syndrome.",
       "MatterType": "Introduction",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:40:33.123Z"
+      "LastModified": "2023-09-14T22:23:48.397Z"
     },
     {
       "ID": 397497,
@@ -1894,7 +2445,7 @@
       "MatterName": "Requiring the department of sanitation to install and fill dog waste bag dispensers on public litter baskets.",
       "MatterType": "Introduction",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:40:43.887Z"
+      "LastModified": "2023-09-14T22:23:48.4Z"
     },
     {
       "ID": 397498,
@@ -1913,7 +2464,7 @@
       "MatterName": "Menstrual products in city bathroom facilities.",
       "MatterType": "Introduction",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:40:54.283Z"
+      "LastModified": "2023-09-14T22:23:48.4Z"
     },
     {
       "ID": 397499,
@@ -1932,7 +2483,7 @@
       "MatterName": "NYS Environment Facilities Corporation to remove restrictive barriers and uncap funds NYC can receive for water infrastructure upgrades.",
       "MatterType": "Resolution",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:41:14.883Z"
+      "LastModified": "2023-09-14T22:23:48.4Z"
     },
     {
       "ID": 397500,
@@ -1951,7 +2502,7 @@
       "MatterName": "School districts to establish policies and procedures regarding the treatment of transgender or gender non-conforming students. (S.1532/A.4576)",
       "MatterType": "Resolution",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:41:04.78Z"
+      "LastModified": "2023-09-14T22:23:48.4Z"
     },
     {
       "ID": 397501,
@@ -1970,7 +2521,7 @@
       "MatterName": "Enabling constitutionally-qualified electors to register to vote and to cast a ballot on the same day at a polling location. (A.5007/S.2381)",
       "MatterType": "Resolution",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:41:26.053Z"
+      "LastModified": "2023-09-14T22:23:48.4Z"
     },
     {
       "ID": 397502,
@@ -1989,7 +2540,7 @@
       "MatterName": "Penalties for improper collection or disposal of waste by mobile food vendors.",
       "MatterType": "Introduction",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:41:40.51Z"
+      "LastModified": "2023-09-14T22:23:48.403Z"
     },
     {
       "ID": 397503,
@@ -2008,7 +2559,7 @@
       "MatterName": "Sickle Cell Treatment Act. (S1839A/A2609 and S1890/A2661)",
       "MatterType": "Resolution",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:41:49.793Z"
+      "LastModified": "2023-09-14T22:23:48.403Z"
     },
     {
       "ID": 397504,
@@ -2027,7 +2578,7 @@
       "MatterName": "Installation of solar photovoltaic systems on city-owned property.",
       "MatterType": "Introduction",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:42:21.5Z"
+      "LastModified": "2023-09-14T22:23:48.407Z"
     },
     {
       "ID": 397505,
@@ -2046,7 +2597,7 @@
       "MatterName": "Rejecting sidewalk and roadway cafe licenses for food service establishments that violate labor laws.",
       "MatterType": "Introduction",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:42:10.397Z"
+      "LastModified": "2023-09-14T22:23:48.407Z"
     },
     {
       "ID": 397506,
@@ -2065,7 +2616,7 @@
       "MatterName": "Penalties in tax exempt projects due to source of income discrimination.",
       "MatterType": "Introduction",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:41:59.26Z"
+      "LastModified": "2023-09-14T22:23:48.403Z"
     },
     {
       "ID": 397507,
@@ -2084,7 +2635,7 @@
       "MatterName": "Establishment of a composting program at dormitories, dining facilities, and other facilities owned, occupied, or operated by the State University of New York, the City University of New York, and institutions subject to their jurisdiction. (S.5713/A.3249",
       "MatterType": "Resolution",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:42:34.53Z"
+      "LastModified": "2023-09-14T22:23:48.407Z"
     },
     {
       "ID": 397508,
@@ -2103,7 +2654,7 @@
       "MatterName": "Requiring the department of cultural affairs to report annually on department funding of art and cultural organizations and institutions.",
       "MatterType": "Introduction",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:42:46.06Z"
+      "LastModified": "2023-09-14T22:23:48.407Z"
     },
     {
       "ID": 397509,
@@ -2122,7 +2673,7 @@
       "MatterName": "Freelance Isn’t Free Act (S.5026/A.6040)",
       "MatterType": "Resolution",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:43:01.43Z"
+      "LastModified": "2023-09-14T22:23:48.41Z"
     },
     {
       "ID": 397510,
@@ -2141,7 +2692,7 @@
       "MatterName": "Report on staff misconduct at the department of correction.",
       "MatterType": "Introduction",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:43:29.57Z"
+      "LastModified": "2023-09-14T22:23:48.41Z"
     },
     {
       "ID": 397511,
@@ -2160,7 +2711,7 @@
       "MatterName": "President to embrace the goals and provisions of the Treaty on the Prohibition of Nuclear Weapons and make nuclear disarmament the centerpiece of U.S. national security policy. (H.R. 77)",
       "MatterType": "Resolution",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:43:48.827Z"
+      "LastModified": "2023-09-14T22:23:48.413Z"
     },
     {
       "ID": 397512,
@@ -2179,7 +2730,7 @@
       "MatterName": "The End Solitary Confinement Act (H.R.4972)",
       "MatterType": "Resolution",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:43:38.017Z"
+      "LastModified": "2023-09-14T22:23:48.41Z"
     },
     {
       "ID": 397513,
@@ -2198,7 +2749,7 @@
       "MatterName": "Designate Xylazine as a Schedule III depressant. (S.5439/A.5914)",
       "MatterType": "Resolution",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:44:04.127Z"
+      "LastModified": "2023-09-14T22:23:48.413Z"
     },
     {
       "ID": 397514,
@@ -2217,7 +2768,7 @@
       "MatterName": "License term for master electrician and special electrician licenses.",
       "MatterType": "Introduction",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:44:14.823Z"
+      "LastModified": "2023-09-14T22:23:48.413Z"
     },
     {
       "ID": 397515,
@@ -2236,7 +2787,7 @@
       "MatterName": "Requirement of food vendors to obtain a certificate of authority to collect sales tax.",
       "MatterType": "Introduction",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:44:23.223Z"
+      "LastModified": "2023-09-14T22:23:48.413Z"
     },
     {
       "ID": 397517,
@@ -2254,8 +2805,8 @@
       "MatterFile": "LU 0255-2023",
       "MatterName": "Paradise Management Cluster 4.HPO.FY23, Block 2822, Lot 19; Block 3253, Lots 51 & 54, Bronx, Community Districts No. 5 and 8, Council District No. 14.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-14T14:44:32.64Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-09-14T22:23:48.417Z"
     },
     {
       "ID": 397518,
@@ -2273,8 +2824,8 @@
       "MatterFile": "LU 0256-2023",
       "MatterName": "Paradise Management Cluster 6.HPO.FY23, Block 3134, Lots 7 and 9; Block 3171, Lot 1, Bronx, Community Districts No. 5 and 6, Council Districts No. 14 and 15.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-14T14:44:45.227Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-09-14T22:23:48.417Z"
     },
     {
       "ID": 397519,
@@ -2292,8 +2843,8 @@
       "MatterFile": "LU 0257-2023",
       "MatterName": "Paradise Management Cluster 14.HPO.FY23, Block 2879, Lot 192, Bronx, Community District No. 5, Council District No. 14.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-14T14:44:52.18Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-09-14T22:23:48.417Z"
     },
     {
       "ID": 397520,
@@ -2311,8 +2862,8 @@
       "MatterFile": "LU 0258-2023",
       "MatterName": "Paradise Management Cluster 15.HPO.FY23, Block 2879, Lot 170, Bronx, Community District No. 5, Council District No. 14.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-14T14:44:59.867Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-09-14T22:23:48.42Z"
     },
     {
       "ID": 397521,
@@ -2331,7 +2882,7 @@
       "MatterName": "Zoning, 42-18 31st Avenue Rezoning, Queens (C 230012 ZMQ)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2023-09-14T14:46:12.277Z"
+      "LastModified": "2023-09-14T22:23:48.42Z"
     },
     {
       "ID": 397522,
@@ -2350,7 +2901,7 @@
       "MatterName": "Zoning, 42-18 31st Avenue Rezoning, Queens (N 230013 ZRQ)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2023-09-14T14:46:21.87Z"
+      "LastModified": "2023-09-14T22:23:48.42Z"
     },
     {
       "ID": 397523,
@@ -2369,7 +2920,7 @@
       "MatterName": "Zoning, 125 Greaves Lane, Staten Island (C 220456 ZMR)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2023-09-14T14:46:36.553Z"
+      "LastModified": "2023-09-14T22:23:48.423Z"
     },
     {
       "ID": 397524,
@@ -2388,7 +2939,7 @@
       "MatterName": "Zoning, 2761 Plumb 2nd Street Rezoning, Brooklyn (C 200101 ZMK)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2023-09-14T14:46:00.74Z"
+      "LastModified": "2023-09-14T22:23:48.42Z"
     },
     {
       "ID": 397525,
@@ -2407,7 +2958,7 @@
       "MatterName": "Zoning, 1460-1480 Sheridan Boulevard, Bronx (C 230291 ZMX)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2023-09-14T14:46:55.85Z"
+      "LastModified": "2023-09-14T22:23:48.427Z"
     },
     {
       "ID": 397526,
@@ -2426,7 +2977,7 @@
       "MatterName": "Zoning, 1460-1480 Sheridan Boulevard, Bronx (N 230292 ZRX)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2023-09-14T14:47:03.35Z"
+      "LastModified": "2023-09-14T22:23:48.43Z"
     },
     {
       "ID": 397527,
@@ -2445,7 +2996,7 @@
       "MatterName": "Zoning, South Richmond Zoning Relief, Staten Island (N 230112 ZRR)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2023-09-14T14:46:46.533Z"
+      "LastModified": "2023-09-14T22:23:48.423Z"
     },
     {
       "ID": 397528,
@@ -2464,7 +3015,7 @@
       "MatterName": "Landmarks, ShareNYC-244 East 106th Street Article XI Disposition, Manhattan (G 230032 XIM)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:47:11.67Z"
+      "LastModified": "2023-09-14T22:23:48.43Z"
     },
     {
       "ID": 397529,
@@ -2483,7 +3034,7 @@
       "MatterName": "Landmarks, Fire Alarm Telegraph Bureau, Bronx Central Office, DL- 533/LP-2668, Bronx (N 230383 HIX)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:47:19.943Z"
+      "LastModified": "2023-09-14T22:23:48.43Z"
     },
     {
       "ID": 397530,
@@ -2502,7 +3053,7 @@
       "MatterName": "Landmarks, Bronx Opera House, DL-533/LP-2667, Bronx (N 230385 HIX)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:47:29.883Z"
+      "LastModified": "2023-09-14T22:23:48.433Z"
     },
     {
       "ID": 397531,
@@ -2521,7 +3072,7 @@
       "MatterName": "Landmarks, Firehouse, Engine Company 88/Ladder Company 38, DL-533/LP-2669, Bronx (N 230386 HIX)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:47:39.7Z"
+      "LastModified": "2023-09-14T22:23:48.433Z"
     },
     {
       "ID": 397532,
@@ -2540,7 +3091,7 @@
       "MatterName": "Landmarks, 935 St. Nicholas Avenue Building, DL-534/LP-2670, Manhattan (N 240022 HIM)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:47:47.863Z"
+      "LastModified": "2023-09-14T22:23:48.437Z"
     },
     {
       "ID": 397533,
@@ -2559,7 +3110,7 @@
       "MatterName": "Landmarks, Hotel Cecil & Minton’s Playhouse Building, DL-534/LP-2671, Manhattan (N 240020 HIM)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:47:57.247Z"
+      "LastModified": "2023-09-14T22:23:48.437Z"
     },
     {
       "ID": 397534,
@@ -2578,7 +3129,7 @@
       "MatterName": "Landmarks, John Birks “Dizzy” Gillespie Residence, DL-534/LP-2657, Queens (N 240021 HIQ)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:48:04.507Z"
+      "LastModified": "2023-09-14T22:23:48.44Z"
     },
     {
       "ID": 397542,
@@ -2595,8 +3146,8 @@
       "MatterFile": "LU 0245-2023",
       "MatterName": "Zoning, Arena Text Amendment, Manhattan (N 230240 ZRM)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2023-09-14T15:03:16.857Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-09-14T22:23:48.307Z"
     },
     {
       "ID": 397543,
@@ -2613,8 +3164,8 @@
       "MatterFile": "LU 0246-2023",
       "MatterName": "Zoning, Madison Square Garden Special Permit, Manhattan (C 230238 ZSM)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2023-09-14T15:03:37.257Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-09-14T22:23:48.307Z"
     },
     {
       "ID": 397544,
@@ -2625,7 +3176,7 @@
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "FIRE AND EMERGENCY MANAGEMENT",
-      "LastModified": "2023-09-12T19:07:16.603Z"
+      "LastModified": "2023-09-14T22:23:48.337Z"
     },
     {
       "ID": 397545,
@@ -2640,8 +3191,8 @@
       "MatterFile": "Int 0949-2023",
       "MatterName": "Establishment of a trade-in program for powered mobility devices and lithium-ion batteries used in powered mobility devices, and to provide for the repeal of such local law upon the expiration thereof.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-12T19:07:16.603Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-09-14T22:23:48.337Z"
     },
     {
       "ID": 397546,
@@ -2660,7 +3211,7 @@
       "MatterName": "NY HEAT Act (S.2016-A/A.4592-A)",
       "MatterType": "Resolution",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-13T18:51:03.667Z"
+      "LastModified": "2023-09-14T22:23:48.367Z"
     },
     {
       "ID": 397547,
@@ -2679,7 +3230,7 @@
       "MatterName": "Cleaning of catch basins and reports on catch basin cleanups and maintenance.",
       "MatterType": "Introduction",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:43:12.727Z"
+      "LastModified": "2023-09-14T22:23:48.41Z"
     },
     {
       "ID": 397548,
@@ -2698,7 +3249,7 @@
       "MatterName": "NYS Board of Elections to refrain from certifying and the NYC Board of Elections to refrain from purchasing: direct recording electronic voting machines; voting machines that encode votes cast on a paper ballot as barcodes or QR codes.",
       "MatterType": "Resolution",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:43:21.383Z"
+      "LastModified": "2023-09-14T22:23:48.41Z"
     },
     {
       "ID": 397567,
@@ -2707,12 +3258,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 34,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71739,
       "MatterFile": "LU 0250-2023",
       "MatterName": "Zoning, 893 Eagle Avenue Rezoning, Bronx (C 220334 ZMX)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2023-09-13T16:48:12.053Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-09-14T22:23:48.31Z"
     },
     {
       "ID": 397568,
@@ -2721,12 +3278,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 36,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71740,
       "MatterFile": "LU 0251-2023",
       "MatterName": "Zoning, 893 Eagle Avenue Rezoning, Bronx (N 220335 ZRX)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2023-09-13T16:48:24.86Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-09-14T22:23:48.31Z"
     },
     {
       "ID": 397569,
@@ -2735,12 +3298,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 38,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71741,
       "MatterFile": "LU 0252-2023",
       "MatterName": "Zoning, 893 Eagle Avenue Rezoning, Bronx (C 220336 ZSX)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2023-09-13T16:48:36.733Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-09-14T22:23:48.31Z"
     },
     {
       "ID": 397570,
@@ -2749,12 +3318,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 50,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71686,
       "MatterFile": "LU 0245-2023",
       "MatterName": "Zoning, Arena Text Amendment, Manhattan (N 230240 ZRM)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2023-09-13T16:48:57.62Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-09-14T22:23:48.327Z"
     },
     {
       "ID": 397571,
@@ -2763,12 +3338,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 52,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71687,
       "MatterFile": "LU 0246-2023",
       "MatterName": "Zoning, Madison Square Garden Special Permit, Manhattan (C 230238 ZSM)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2023-09-13T16:49:11.1Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-09-14T22:23:48.33Z"
     },
     {
       "ID": 397576,
@@ -2777,12 +3358,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 19,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71870,
       "MatterFile": "LU 0255-2023",
       "MatterName": "Paradise Management Cluster 4.HPO.FY23, Block 2822, Lot 19; Block 3253, Lots 51 & 54, Bronx, Community Districts No. 5 and 8, Council District No. 14.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-13T18:49:08.067Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-09-14T22:23:48.297Z"
     },
     {
       "ID": 397577,
@@ -2791,12 +3378,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 21,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71872,
       "MatterFile": "LU 0256-2023",
       "MatterName": "Paradise Management Cluster 6.HPO.FY23, Block 3134, Lots 7 and 9; Block 3171, Lot 1, Bronx, Community Districts No. 5 and 6, Council Districts No. 14 and 15.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-13T18:49:21.857Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-09-14T22:23:48.297Z"
     },
     {
       "ID": 397578,
@@ -2805,12 +3398,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 23,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71874,
       "MatterFile": "LU 0257-2023",
       "MatterName": "Paradise Management Cluster 14.HPO.FY23, Block 2879, Lot 192, Bronx, Community District No. 5, Council District No. 14.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-13T18:49:40.46Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-09-14T22:23:48.3Z"
     },
     {
       "ID": 397579,
@@ -2819,12 +3418,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 25,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71876,
       "MatterFile": "LU 0258-2023",
       "MatterName": "Paradise Management Cluster 15.HPO.FY23, Block 2879, Lot 170, Bronx, Community District No. 5, Council District No. 14.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-09-13T18:49:54.893Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-09-14T22:23:48.3Z"
     },
     {
       "ID": 397626,
@@ -2833,8 +3438,8 @@
       "AgendaSequence": 0,
       "MinutesSequence": 3,
       "Version": "",
-      "MinutesNote": "The presence of a quorum was announced by the Majority Leader and Acting President Pro Tempore (Council Member Powers).\r\n\r\nThere were XX Council Members marked present for this Stated Meeting.",
-      "LastModified": "2023-09-14T15:05:56.62Z"
+      "MinutesNote": "The presence of a quorum was announced by the Majority Leader and Acting President Pro Tempore (Council Member Powers).\r\n\r\nThere were 48 Council Members marked present for this Stated Meeting.",
+      "LastModified": "2023-09-14T22:23:48.28Z"
     },
     {
       "ID": 397627,
@@ -2844,7 +3449,7 @@
       "MinutesSequence": 1,
       "Version": "",
       "MinutesNote": "The Majority Leader (Council Member Powers) presiding as the President Pro Tempore.",
-      "LastModified": "2023-09-14T14:54:54.53Z"
+      "LastModified": "2023-09-14T22:23:48.273Z"
     },
     {
       "ID": 397628,
@@ -2854,7 +3459,7 @@
       "MinutesSequence": 192,
       "Version": "",
       "MinutesNote": "At this point the Speaker (Council Member Adams) made the following announcements:",
-      "LastModified": "2023-09-14T14:51:26.25Z"
+      "LastModified": "2023-09-14T22:23:48.44Z"
     },
     {
       "ID": 397629,
@@ -2864,7 +3469,7 @@
       "MinutesSequence": 193,
       "Version": "",
       "MinutesNote": "Whereupon on motion of the Speaker (Council Member Adams), the Majority Leader and Acting President Pro Tempore (Council Member Powers) adjourned these proceedings to meet again for the Stated Meeting of Thursday, September 28,  2023.\r\n\r\n\r\n\r\nMICHAEL M. McSWEENEY, City Clerk\r\n\r\nClerk of the Council",
-      "LastModified": "2023-09-14T14:57:11.83Z"
+      "LastModified": "2023-09-14T22:23:48.44Z"
     },
     {
       "ID": 397640,
@@ -2881,7 +3486,7 @@
       "MatterName": "Zoning, 2761 Plumb 2nd Street Rezoning, Brooklyn (C 200101 ZMK)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2023-09-14T14:48:29.277Z"
+      "LastModified": "2023-09-14T22:23:48.42Z"
     },
     {
       "ID": 397641,
@@ -2898,7 +3503,7 @@
       "MatterName": "Zoning, 42-18 31st Avenue Rezoning, Queens (C 230012 ZMQ)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2023-09-14T14:48:43.807Z"
+      "LastModified": "2023-09-14T22:23:48.42Z"
     },
     {
       "ID": 397642,
@@ -2915,7 +3520,7 @@
       "MatterName": "Zoning, 42-18 31st Avenue Rezoning, Queens (N 230013 ZRQ)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2023-09-14T14:48:55.407Z"
+      "LastModified": "2023-09-14T22:23:48.423Z"
     },
     {
       "ID": 397643,
@@ -2932,7 +3537,7 @@
       "MatterName": "Zoning, 125 Greaves Lane, Staten Island (C 220456 ZMR)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2023-09-14T14:49:05.137Z"
+      "LastModified": "2023-09-14T22:23:48.423Z"
     },
     {
       "ID": 397644,
@@ -2949,7 +3554,7 @@
       "MatterName": "Zoning, South Richmond Zoning Relief, Staten Island (N 230112 ZRR)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2023-09-14T14:49:16.58Z"
+      "LastModified": "2023-09-14T22:23:48.427Z"
     },
     {
       "ID": 397645,
@@ -2966,7 +3571,7 @@
       "MatterName": "Zoning, 1460-1480 Sheridan Boulevard, Bronx (C 230291 ZMX)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2023-09-14T14:49:26.33Z"
+      "LastModified": "2023-09-14T22:23:48.427Z"
     },
     {
       "ID": 397646,
@@ -2983,7 +3588,7 @@
       "MatterName": "Zoning, 1460-1480 Sheridan Boulevard, Bronx (N 230292 ZRX)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2023-09-14T14:49:38.023Z"
+      "LastModified": "2023-09-14T22:23:48.43Z"
     },
     {
       "ID": 397647,
@@ -3000,7 +3605,7 @@
       "MatterName": "Landmarks, ShareNYC-244 East 106th Street Article XI Disposition, Manhattan (G 230032 XIM)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:49:56.17Z"
+      "LastModified": "2023-09-14T22:23:48.43Z"
     },
     {
       "ID": 397648,
@@ -3017,7 +3622,7 @@
       "MatterName": "Landmarks, Fire Alarm Telegraph Bureau, Bronx Central Office, DL- 533/LP-2668, Bronx (N 230383 HIX)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:50:13.807Z"
+      "LastModified": "2023-09-14T22:23:48.43Z"
     },
     {
       "ID": 397649,
@@ -3034,7 +3639,7 @@
       "MatterName": "Landmarks, Bronx Opera House, DL-533/LP-2667, Bronx (N 230385 HIX)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:50:24.673Z"
+      "LastModified": "2023-09-14T22:23:48.433Z"
     },
     {
       "ID": 397650,
@@ -3051,7 +3656,7 @@
       "MatterName": "Landmarks, Firehouse, Engine Company 88/Ladder Company 38, DL-533/LP-2669, Bronx (N 230386 HIX)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:50:35.96Z"
+      "LastModified": "2023-09-14T22:23:48.437Z"
     },
     {
       "ID": 397651,
@@ -3068,7 +3673,7 @@
       "MatterName": "Landmarks, 935 St. Nicholas Avenue Building, DL-534/LP-2670, Manhattan (N 240022 HIM)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:50:46.91Z"
+      "LastModified": "2023-09-14T22:23:48.437Z"
     },
     {
       "ID": 397652,
@@ -3085,7 +3690,7 @@
       "MatterName": "Landmarks, Hotel Cecil & Minton’s Playhouse Building, DL-534/LP-2671, Manhattan (N 240020 HIM)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:50:55.35Z"
+      "LastModified": "2023-09-14T22:23:48.44Z"
     },
     {
       "ID": 397653,
@@ -3102,7 +3707,7 @@
       "MatterName": "Landmarks, John Birks “Dizzy” Gillespie Residence, DL-534/LP-2657, Queens (N 240021 HIQ)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T14:51:06.533Z"
+      "LastModified": "2023-09-14T22:23:48.44Z"
     },
     {
       "ID": 397655,
@@ -3112,20 +3717,23 @@
       "MinutesSequence": 83,
       "Version": "",
       "MinutesNote": "The Majority Leader and Acting President Pro Tempore (Council Member Powers) put the question whether the Council would agree with and adopt such reports, which were decided in the affirmative by the following vote:",
-      "LastModified": "2023-09-14T15:04:20.107Z"
+      "LastModified": "2023-09-14T22:23:48.353Z"
     },
     {
-      "ID": 397656,
-      "GUID": "86E9C172-21C2-4F90-92DE-73F825B7D22E",
-      "Title": "",
+      "ID": 397681,
+      "GUID": "749EE006-51C8-474D-845D-BD2AC4A3B190",
+      "Title": "Passed The Consent Agenda",
       "AgendaSequence": 0,
       "MinutesSequence": 84,
       "Version": "",
-      "MinutesNote": "The following files were removed from the General Order Calendar and voted separately:\r\n\r\nSee files for individual votes.",
-      "LastModified": "2023-09-14T15:04:36.807Z"
+      "ActionText": "A motion was made that these files be approved by consent vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
+      "LastModified": "2023-09-14T22:23:48.353Z"
     }
   ],
   "AgendaLastPublished": "2023-09-14T14:47:15.223Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-09-14T14:47:15.26Z"
+  "MinutesLastPublished": "2023-09-14T22:24:54.457Z",
+  "LastModified": "2023-09-14T22:24:54.613Z"
 }
