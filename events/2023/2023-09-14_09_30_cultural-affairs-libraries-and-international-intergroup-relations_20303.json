@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/9/20303_A_Committee_on_Cultural_Affairs%2C_Libraries_and_International_Intergroup_Relations_23-09-14_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/9/20303_M_Committee_on_Cultural_Affairs%2C_Libraries_and_International_Intergroup_Relations_23-09-14_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_230914-100434.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20303&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -22,12 +24,15 @@
       "Version": "*",
       "AgendaNote": "Proposed Res. No. 415-A",
       "MinutesNote": "Proposed Res. No. 415-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 70537,
       "MatterFile": "Res 0415-2022",
       "MatterName": "September 11 Day of Remembrance Act.",
       "MatterType": "Resolution",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-09-11T14:07:10.493Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-09-14T14:18:15.093Z"
     },
     {
       "ID": 397307,
@@ -38,12 +43,15 @@
       "Version": "*",
       "AgendaNote": "Proposed Res. No. 450-A",
       "MinutesNote": "Proposed Res. No. 450-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 70550,
       "MatterFile": "Res 0450-2022",
       "MatterName": "Recognizing the contributions of Def Jam to the music industry and to music lovers everywhere by designating January 2024 as Def Jam Recognition Month in the City of New York.",
       "MatterType": "Resolution",
-      "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2023-09-14T13:53:38.457Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-09-14T14:18:35.17Z"
     },
     {
       "ID": 397308,
@@ -54,12 +62,15 @@
       "Version": "*",
       "AgendaNote": "Proposed Res. No. 346-A",
       "MinutesNote": "Proposed Res. No. 346-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 70231,
       "MatterFile": "Res 0346-2022",
       "MatterName": "Recognizing the contributions of Hip Hop to arts and culture by designating August 11 as Hip Hop Celebration Day, August as Hip Hop Recognition Month, and November as Hip Hop History Month annually in the City of New York.",
       "MatterType": "Resolution",
-      "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2023-09-14T13:41:28.623Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-09-14T14:26:29.843Z"
     },
     {
       "ID": 397602,
@@ -68,7 +79,82 @@
       "AgendaSequence": 0,
       "MinutesSequence": 1,
       "Version": "",
-      "LastModified": "2023-09-14T13:53:17.627Z"
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 66,
+          "Value": "Parental ",
+          "Sort": 100
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        }
+      ],
+      "LastModified": "2023-09-14T14:17:41.047Z"
     },
     {
       "ID": 397603,
@@ -77,12 +163,15 @@
       "AgendaSequence": 0,
       "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Resolution was Amendment Proposed by Comm",
       "MatterID": 70231,
       "MatterFile": "Res 0346-2022",
       "MatterName": "Recognizing the contributions of Hip Hop to arts and culture by designating August 11 as Hip Hop Celebration Day, August as Hip Hop Recognition Month, and November as Hip Hop History Month annually in the City of New York.",
       "MatterType": "Resolution",
-      "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2023-09-14T13:53:22.167Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-09-14T14:17:57.617Z"
     },
     {
       "ID": 397604,
@@ -91,12 +180,15 @@
       "AgendaSequence": 0,
       "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Resolution was Amended by Committee",
       "MatterID": 70231,
       "MatterFile": "Res 0346-2022",
       "MatterName": "Recognizing the contributions of Hip Hop to arts and culture by designating August 11 as Hip Hop Celebration Day, August as Hip Hop Recognition Month, and November as Hip Hop History Month annually in the City of New York.",
       "MatterType": "Resolution",
-      "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2023-09-14T13:53:23.55Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-09-14T14:18:02.09Z"
     },
     {
       "ID": 397605,
@@ -105,12 +197,17 @@
       "AgendaSequence": 0,
       "MinutesSequence": 5,
       "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Resolution be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 70231,
       "MatterFile": "Res 0346-2022",
       "MatterName": "Recognizing the contributions of Hip Hop to arts and culture by designating August 11 as Hip Hop Celebration Day, August as Hip Hop Recognition Month, and November as Hip Hop History Month annually in the City of New York.",
       "MatterType": "Resolution",
-      "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2023-09-14T13:53:31.963Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-09-14T14:18:09.147Z"
     },
     {
       "ID": 397606,
@@ -119,12 +216,15 @@
       "AgendaSequence": 0,
       "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Resolution was Amendment Proposed by Comm",
       "MatterID": 70537,
       "MatterFile": "Res 0415-2022",
       "MatterName": "September 11 Day of Remembrance Act.",
       "MatterType": "Resolution",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T13:53:36.44Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-09-14T14:18:19.793Z"
     },
     {
       "ID": 397607,
@@ -133,12 +233,15 @@
       "AgendaSequence": 0,
       "MinutesSequence": 8,
       "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Resolution was Amended by Committee",
       "MatterID": 70537,
       "MatterFile": "Res 0415-2022",
       "MatterName": "September 11 Day of Remembrance Act.",
       "MatterType": "Resolution",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T13:53:38.173Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-09-14T14:18:23.597Z"
     },
     {
       "ID": 397608,
@@ -147,12 +250,17 @@
       "AgendaSequence": 0,
       "MinutesSequence": 9,
       "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Resolution be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 70537,
       "MatterFile": "Res 0415-2022",
       "MatterName": "September 11 Day of Remembrance Act.",
       "MatterType": "Resolution",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-09-14T13:53:46.057Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-09-14T14:18:30.37Z"
     },
     {
       "ID": 397609,
@@ -161,12 +269,15 @@
       "AgendaSequence": 0,
       "MinutesSequence": 11,
       "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Resolution was Amendment Proposed by Comm",
       "MatterID": 70550,
       "MatterFile": "Res 0450-2022",
       "MatterName": "Recognizing the contributions of Def Jam to the music industry and to music lovers everywhere by designating January 2024 as Def Jam Recognition Month in the City of New York.",
       "MatterType": "Resolution",
-      "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2023-09-14T13:53:50.783Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-09-14T14:18:39.48Z"
     },
     {
       "ID": 397610,
@@ -175,12 +286,15 @@
       "AgendaSequence": 0,
       "MinutesSequence": 12,
       "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Resolution was Amended by Committee",
       "MatterID": 70550,
       "MatterFile": "Res 0450-2022",
       "MatterName": "Recognizing the contributions of Def Jam to the music industry and to music lovers everywhere by designating January 2024 as Def Jam Recognition Month in the City of New York.",
       "MatterType": "Resolution",
-      "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2023-09-14T13:53:52.43Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-09-14T14:18:44.37Z"
     },
     {
       "ID": 397611,
@@ -189,15 +303,20 @@
       "AgendaSequence": 0,
       "MinutesSequence": 13,
       "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Resolution be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 70550,
       "MatterFile": "Res 0450-2022",
       "MatterName": "Recognizing the contributions of Def Jam to the music industry and to music lovers everywhere by designating January 2024 as Def Jam Recognition Month in the City of New York.",
       "MatterType": "Resolution",
-      "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2023-09-14T13:54:00.283Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-09-14T14:18:53.56Z"
     }
   ],
   "AgendaLastPublished": "2023-09-11T14:09:05.777Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-09-14T14:04:35.38Z"
+  "MinutesLastPublished": "2023-09-14T14:18:58.427Z",
+  "LastModified": "2023-09-14T14:18:58.573Z"
 }

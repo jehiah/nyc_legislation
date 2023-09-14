@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/9/20318_A_Committee_on_Civil_Service_and_Labor_23-09-14_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/9/20318_M_Committee_on_Civil_Service_and_Labor_23-09-14_Meeting_Minutes.pdf",
   "Comment": "VOTE",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_230914-102456.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20318&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,19 +21,165 @@
       "GUID": "37594854-63AE-4CD2-9B07-075B7F6F87AB",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to exit surveys and interviews for resigning and retiring employees of city agencies",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Proposed Int. No 877-B",
       "MinutesNote": "Proposed Int. No 877-B",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 69141,
       "MatterFile": "Int 0877-2023",
       "MatterName": "Exit surveys and interviews for resigning and retiring employees of city agencies.",
       "MatterType": "Introduction",
-      "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2023-09-08T13:38:38.613Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-09-14T14:35:23.48Z"
+    },
+    {
+      "ID": 397616,
+      "GUID": "DAF7BBBC-885C-44A9-8376-D53406269D53",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 120
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 200
+        }
+      ],
+      "LastModified": "2023-09-14T14:34:25.903Z"
+    },
+    {
+      "ID": 397617,
+      "GUID": "A6F26EB8-4F81-489B-8481-3F4D5A67D46F",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to exit surveys and interviews for resigning and retiring employees of city agencies",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 69141,
+      "MatterFile": "Int 0877-2023",
+      "MatterName": "Exit surveys and interviews for resigning and retiring employees of city agencies.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-09-14T14:03:33.17Z"
+    },
+    {
+      "ID": 397618,
+      "GUID": "8E5D1BD7-2DD7-476C-B176-7E0FEA3078B3",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to exit surveys and interviews for resigning and retiring employees of city agencies",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 69141,
+      "MatterFile": "Int 0877-2023",
+      "MatterName": "Exit surveys and interviews for resigning and retiring employees of city agencies.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-09-14T14:03:37.413Z"
+    },
+    {
+      "ID": 397619,
+      "GUID": "6E88BE71-04D2-4D3C-AB6E-E16098BFCA6A",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to exit surveys and interviews for resigning and retiring employees of city agencies",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "B",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "This Introduction was Approved by Committee",
+      "MatterID": 69141,
+      "MatterFile": "Int 0877-2023",
+      "MatterName": "Exit surveys and interviews for resigning and retiring employees of city agencies.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-09-14T14:34:33.397Z"
     }
   ],
   "AgendaLastPublished": "2023-09-09T02:45:55.747Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-09-09T02:45:55.87Z"
+  "MinutesLastPublished": "2023-09-14T14:35:28.837Z",
+  "LastModified": "2023-09-14T14:35:28.877Z"
 }
