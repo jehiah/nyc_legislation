@@ -8,11 +8,13 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/9/20302_A_Committee_on_Health_23-09-20_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/9/20302_M_Committee_on_Health_23-09-20_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Hospitals",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_230920-101908.mp4",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_230920-101908.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20302&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -20,56 +22,227 @@
       "GUID": "B10203C5-DE60-436F-97C4-D731AC71532D",
       "Title": "Jointly with the Committee on Hospitals",
       "AgendaSequence": 4,
-      "MinutesSequence": 4,
+      "MinutesSequence": 10,
       "Version": "",
-      "LastModified": "2023-09-19T19:03:10.263Z"
+      "LastModified": "2023-09-20T18:51:08.8Z"
     },
     {
       "ID": 397169,
       "GUID": "DBD20107-EA11-4D10-924D-A4374815DB0C",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to a professional education program and public outreach campaign regarding sickle cell disease",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 968-A",
       "MinutesNote": "Proposed Int. No. 968-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 70978,
       "MatterFile": "Int 0968-2023",
       "MatterName": "A professional education program and public outreach campaign regarding sickle cell disease.",
       "MatterType": "Introduction",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-08-29T15:23:56.64Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-09-20T18:05:08.877Z"
     },
     {
       "ID": 397170,
       "GUID": "07DB0A0D-3FD1-42DB-AEEF-D1D6C836108F",
       "Title": "Oversight - Evaluating Access to Sickle Cell Care in NYC.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 71806,
       "MatterFile": "T2023-3955",
       "MatterName": "Oversight - Evaluating Access to Sickle Cell Care in NYC.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-09-19T19:03:09.407Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-09-20T18:04:59.947Z"
     },
     {
       "ID": 397780,
       "GUID": "E5031D67-FCF9-4ECE-9F01-F8EA8BDA2878",
       "Title": "Resolution calling on New York State Legislature to pass, and the Governor to sign, S1839A/A2609 and S1890/A2661, the Sickle Cell Treatment Act.",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 71863,
       "MatterFile": "Res 0771-2023",
       "MatterName": "Sickle Cell Treatment Act. (S1839A/A2609 and S1890/A2661)",
       "MatterType": "Resolution",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-09-19T19:03:19.09Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-09-20T18:05:05.473Z"
+    },
+    {
+      "ID": 397841,
+      "GUID": "DF14D52F-733F-4663-9916-BD0ED82664B8",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 5288,
+          "Slug": "charles-barron",
+          "FullName": "Charles Barron",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 66,
+          "Value": "Parental ",
+          "Sort": 100
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 130
+        },
+        {
+          "ID": 7807,
+          "Slug": "marjorie-velazquez",
+          "FullName": "Marjorie Velázquez",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 140
+        },
+        {
+          "ID": 7749,
+          "Slug": "kalman-yeger",
+          "FullName": "Kalman Yeger",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 160
+        }
+      ],
+      "LastModified": "2023-09-20T18:51:36.97Z"
+    },
+    {
+      "ID": 397842,
+      "GUID": "87E5AD8D-D1EF-47BC-92BE-C96F80A4CB5C",
+      "Title": "Oversight - Evaluating Access to Sickle Cell Care in NYC.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 71806,
+      "MatterFile": "T2023-3955",
+      "MatterName": "Oversight - Evaluating Access to Sickle Cell Care in NYC.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2023-09-20T18:05:29.477Z"
+    },
+    {
+      "ID": 397843,
+      "GUID": "D7F4002B-C626-4285-BF33-9CDE1E0788EC",
+      "Title": "Resolution calling on New York State Legislature to pass, and the Governor to sign, S1839A/A2609 and S1890/A2661, the Sickle Cell Treatment Act.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 71863,
+      "MatterFile": "Res 0771-2023",
+      "MatterName": "Sickle Cell Treatment Act. (S1839A/A2609 and S1890/A2661)",
+      "MatterType": "Resolution",
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-09-20T18:53:46.213Z"
+    },
+    {
+      "ID": 397844,
+      "GUID": "B3ACE053-0F6B-4366-A70C-F661A4448F89",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to a professional education program and public outreach campaign regarding sickle cell disease",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 70978,
+      "MatterFile": "Int 0968-2023",
+      "MatterName": "A professional education program and public outreach campaign regarding sickle cell disease.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-09-20T18:54:11.747Z"
+    },
+    {
+      "ID": 397845,
+      "GUID": "F178F15C-8C58-455E-82E4-9C22F0976313",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to a professional education program and public outreach campaign regarding sickle cell disease",
+      "AgendaSequence": 0,
+      "MinutesSequence": 9,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 70978,
+      "MatterFile": "Int 0968-2023",
+      "MatterName": "A professional education program and public outreach campaign regarding sickle cell disease.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-09-20T18:54:15.657Z"
+    },
+    {
+      "ID": 397846,
+      "GUID": "86EE05E7-621C-4227-B9D0-39A93BCD358C",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Gutierrez and Brooks-Powers",
+      "LastModified": "2023-09-20T18:52:03.227Z"
     }
   ],
   "AgendaLastPublished": "2023-09-19T19:03:23.21Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-09-20T16:33:52.51Z"
+  "MinutesLastPublished": "2023-09-20T18:52:09.11Z",
+  "LastModified": "2023-09-20T18:52:09.15Z"
 }
