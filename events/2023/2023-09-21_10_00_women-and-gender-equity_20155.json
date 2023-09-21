@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/9/20155_A_Committee_on_Women_and_Gender_Equity_23-09-21_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/9/20155_M_Committee_on_Women_and_Gender_Equity_23-09-21_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-250-16_230921-102016.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20155&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,45 +20,183 @@
       "GUID": "F3A6F50B-32A5-4216-9582-61A7B89A950B",
       "Title": "A Local Law to amend the New York city charter, in relation to establishing an office of child care to oversee free child care for all city residents",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 69106,
       "MatterFile": "Int 0941-2023",
       "MatterName": "Establishing an office of child care to oversee free child care for all city residents.",
       "MatterType": "Introduction",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-09-18T12:42:09.327Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-09-21T17:15:48.55Z"
     },
     {
       "ID": 397230,
       "GUID": "BB7237B5-C932-4D96-9EC0-82D8863F14B7",
       "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, S.4924/A.1303, to remove the minimum wage and hours requirements for applicants of child care assistance.",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 71026,
       "MatterFile": "Res 0560-2023",
       "MatterName": "Remove the minimum wage and hours requirements for applicants of child care assistance. (S.4924/A.1303)",
       "MatterType": "Resolution",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-09-06T01:15:44.563Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-09-21T17:17:12.23Z"
     },
     {
       "ID": 397231,
       "GUID": "E18345FE-B4BD-4F0F-BF8B-35021BBFECA7",
       "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, A.200/S.3380 to provide a business tax credit for employer provided day care.",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 71134,
       "MatterFile": "Res 0561-2023",
       "MatterName": "Provide a business tax credit for employer provided day care. (A.200/S.3380)",
       "MatterType": "Resolution",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-09-06T01:15:56.653Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-09-21T17:16:02.91Z"
+    },
+    {
+      "ID": 397883,
+      "GUID": "DF21D7EA-8235-4CEA-8064-F5D07A5D5FA7",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 40
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7805,
+          "Slug": "kristin-richardson-jordan",
+          "FullName": "Kristin Richardson Jordan",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 80
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 130
+        }
+      ],
+      "LastModified": "2023-09-21T17:15:33.48Z"
+    },
+    {
+      "ID": 397884,
+      "GUID": "6920CEAC-3A9F-4F12-9021-B5A98D76B567",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Menin",
+      "LastModified": "2023-09-21T17:15:44.703Z"
+    },
+    {
+      "ID": 397885,
+      "GUID": "07274711-9818-47FD-A914-535F6A9AC2F2",
+      "Title": "A Local Law to amend the New York city charter, in relation to establishing an office of child care to oversee free child care for all city residents",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 69106,
+      "MatterFile": "Int 0941-2023",
+      "MatterName": "Establishing an office of child care to oversee free child care for all city residents.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-09-21T17:15:51.913Z"
+    },
+    {
+      "ID": 397886,
+      "GUID": "38C3D742-8CD2-4565-8F7F-CE32CC45DA0E",
+      "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, S.4924/A.1303, to remove the minimum wage and hours requirements for applicants of child care assistance.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 71026,
+      "MatterFile": "Res 0560-2023",
+      "MatterName": "Remove the minimum wage and hours requirements for applicants of child care assistance. (S.4924/A.1303)",
+      "MatterType": "Resolution",
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-09-21T17:15:58.72Z"
+    },
+    {
+      "ID": 397887,
+      "GUID": "B2C8F103-0BF6-47D8-996B-4D2801A186EB",
+      "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, A.200/S.3380 to provide a business tax credit for employer provided day care.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 71134,
+      "MatterFile": "Res 0561-2023",
+      "MatterName": "Provide a business tax credit for employer provided day care. (A.200/S.3380)",
+      "MatterType": "Resolution",
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-09-21T17:16:08.527Z"
     }
   ],
   "AgendaLastPublished": "2023-09-07T20:49:42.25Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-09-21T14:20:18.257Z"
+  "MinutesLastPublished": "2023-09-21T17:17:22.723Z",
+  "LastModified": "2023-09-21T17:17:22.847Z"
 }
