@@ -8,10 +8,13 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/9/20277_A_Committee_on_Housing_and_Buildings_23-09-26_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/9/20277_M_Committee_on_Housing_and_Buildings_23-09-26_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Land Use.",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_230926-103435.mp4",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_230926-103435.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20277&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -28,7 +31,7 @@
       "MatterFile": "T2023-3821",
       "MatterName": "Oversight – Fair Housing and Affordable Housing Development.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Filed",
       "LastModified": "2023-09-26T15:16:28.387Z"
     },
     {
@@ -45,7 +48,7 @@
       "MatterFile": "Int 0362-2022",
       "MatterName": "Requiring the department of housing preservation and development to report on the disposition of city property for affordable housing development.",
       "MatterType": "Introduction",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Laid Over in Committee",
       "LastModified": "2023-09-26T15:16:31.307Z"
     },
     {
@@ -62,7 +65,7 @@
       "MatterFile": "Int 1031-2023",
       "MatterName": "A fair housing plan, and to repeal local law number 133 for the year 2018, in relation to affordable housing plans.",
       "MatterType": "Introduction",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Laid Over in Committee",
       "LastModified": "2023-09-26T15:16:35.097Z"
     },
     {
@@ -151,12 +154,12 @@
           "ID": 7822,
           "Slug": "crystal-hudson",
           "FullName": "Crystal Hudson",
-          "ValueID": 13,
-          "Value": "Present",
+          "ValueID": 66,
+          "Value": "Parental ",
           "Sort": 140
         }
       ],
-      "LastModified": "2023-09-26T15:16:16.6Z"
+      "LastModified": "2023-09-26T19:14:38.78Z"
     },
     {
       "ID": 397948,
@@ -165,8 +168,8 @@
       "AgendaSequence": 0,
       "MinutesSequence": 2,
       "Version": "",
-      "MinutesNote": "Other Council Members Attending: ",
-      "LastModified": "2023-09-26T15:16:24.78Z"
+      "MinutesNote": "Other Council Members Attending: Bottcher, Salamanca, Speaker Adams, Mealy, Moya, Louis, Krishnan, Hanks, Rivera, Brewer and Brooks-Powers.",
+      "LastModified": "2023-09-26T19:15:03.723Z"
     },
     {
       "ID": 397949,
@@ -175,12 +178,15 @@
       "AgendaSequence": 0,
       "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
       "MatterID": 71677,
       "MatterFile": "T2023-3821",
       "MatterName": "Oversight – Fair Housing and Affordable Housing Development.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-09-26T15:16:07.447Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-09-26T19:15:07.13Z"
     },
     {
       "ID": 397950,
@@ -189,12 +195,15 @@
       "AgendaSequence": 0,
       "MinutesSequence": 6,
       "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
       "MatterID": 69079,
       "MatterFile": "Int 0362-2022",
       "MatterName": "Requiring the department of housing preservation and development to report on the disposition of city property for affordable housing development.",
       "MatterType": "Introduction",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-09-26T15:16:09.937Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-09-26T22:58:56.313Z"
     },
     {
       "ID": 397951,
@@ -203,15 +212,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 8,
       "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
       "MatterID": 71137,
       "MatterFile": "Int 1031-2023",
       "MatterName": "A fair housing plan, and to repeal local law number 133 for the year 2018, in relation to affordable housing plans.",
       "MatterType": "Introduction",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-09-26T15:16:12.477Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-09-26T22:59:44.813Z"
     }
   ],
   "AgendaLastPublished": "2023-09-20T18:49:26.813Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-09-26T14:34:37.137Z"
+  "MinutesLastPublished": "2023-09-26T19:16:13.727Z",
+  "LastModified": "2023-09-26T19:16:13.86Z"
 }

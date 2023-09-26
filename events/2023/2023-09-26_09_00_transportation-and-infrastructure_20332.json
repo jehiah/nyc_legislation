@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/9/20332_A_Committee_on_Transportation_and_Infrastructure_23-09-26_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/9/20332_M_Committee_on_Transportation_and_Infrastructure_23-09-26_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-250-16_230926-091517.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20332&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -28,7 +29,7 @@
       "MatterFile": "Int 0481-2022",
       "MatterName": "Requiring DOT to notify property owners ordered to repair sidewalks of existing department plans to make repairs on same sidewalks.",
       "MatterType": "Introduction",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Laid Over in Committee",
       "LastModified": "2023-09-26T15:15:41.297Z"
     },
     {
@@ -45,7 +46,7 @@
       "MatterFile": "Int 0596-2022",
       "MatterName": "Requiring that DOT repair broken curbs as part of resurfacing projects.",
       "MatterType": "Introduction",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Laid Over in Committee",
       "LastModified": "2023-09-26T15:15:44.22Z"
     },
     {
@@ -62,7 +63,7 @@
       "MatterFile": "Int 0905-2023",
       "MatterName": "Street resurfacing timeline.",
       "MatterType": "Introduction",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Laid Over in Committee",
       "LastModified": "2023-09-26T15:15:46.993Z"
     },
     {
@@ -79,7 +80,7 @@
       "MatterFile": "Int 1077-2023",
       "MatterName": "In relation to a capital plan and timeline for installing public bathrooms.",
       "MatterType": "Introduction",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Laid Over in Committee",
       "LastModified": "2023-09-26T15:15:49.983Z"
     },
     {
@@ -96,7 +97,7 @@
       "MatterFile": "T2023-4044",
       "MatterName": "Oversight - Hard Infrastructure",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Filed",
       "LastModified": "2023-09-26T15:15:38.787Z"
     },
     {
@@ -222,12 +223,15 @@
       "AgendaSequence": 0,
       "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
       "MatterID": 71895,
       "MatterFile": "T2023-4044",
       "MatterName": "Oversight - Hard Infrastructure",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-09-26T15:15:17.56Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-09-26T20:23:33.43Z"
     },
     {
       "ID": 397943,
@@ -236,12 +240,15 @@
       "AgendaSequence": 0,
       "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
       "MatterID": 69246,
       "MatterFile": "Int 0481-2022",
       "MatterName": "Requiring DOT to notify property owners ordered to repair sidewalks of existing department plans to make repairs on same sidewalks.",
       "MatterType": "Introduction",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-09-26T15:15:20.383Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-09-26T20:23:36.56Z"
     },
     {
       "ID": 397944,
@@ -250,12 +257,15 @@
       "AgendaSequence": 0,
       "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
       "MatterID": 69481,
       "MatterFile": "Int 0596-2022",
       "MatterName": "Requiring that DOT repair broken curbs as part of resurfacing projects.",
       "MatterType": "Introduction",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-09-26T15:15:23.23Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-09-26T20:23:39.587Z"
     },
     {
       "ID": 397945,
@@ -264,12 +274,15 @@
       "AgendaSequence": 0,
       "MinutesSequence": 9,
       "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
       "MatterID": 70760,
       "MatterFile": "Int 0905-2023",
       "MatterName": "Street resurfacing timeline.",
       "MatterType": "Introduction",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-09-26T15:15:26.017Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-09-26T20:23:43.103Z"
     },
     {
       "ID": 397946,
@@ -278,15 +291,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 11,
       "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
       "MatterID": 70410,
       "MatterFile": "Int 1077-2023",
       "MatterName": "In relation to a capital plan and timeline for installing public bathrooms.",
       "MatterType": "Introduction",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-09-26T15:15:29.02Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-09-26T20:23:49.86Z"
     }
   ],
   "AgendaLastPublished": "2023-09-14T14:38:58.36Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-09-26T15:13:27.59Z"
+  "MinutesLastPublished": "2023-09-26T20:23:55.227Z",
+  "LastModified": "2023-09-26T20:23:55.56Z"
 }
