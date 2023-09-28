@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/9/20361_A_Committee_on_Criminal_Justice_23-09-28_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/9/20361_M_Committee_on_Criminal_Justice_23-09-28_Meeting_Minutes.pdf",
   "Comment": "VOTE",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_230928-111657.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20361&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,19 +21,151 @@
       "GUID": "C7C57556-0DA0-424E-83F5-C373892C942E",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to dyslexia screening in city jails and referrals to evidence-based programs",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 349-A",
       "MinutesNote": "Proposed Int. No. 349-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 68679,
       "MatterFile": "Int 0349-2022",
       "MatterName": "Dyslexia screening in city jails and referrals to evidence-based programs.",
       "MatterType": "Introduction",
-      "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2023-09-27T14:44:57.807Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-09-28T15:16:15.513Z"
+    },
+    {
+      "ID": 398198,
+      "GUID": "1AABC530-DE43-475D-B67E-5F49C87D3537",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7740,
+          "Slug": "carlina-rivera",
+          "FullName": "Carlina Rivera",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        }
+      ],
+      "LastModified": "2023-09-28T15:16:11.933Z"
+    },
+    {
+      "ID": 398199,
+      "GUID": "BE944EF4-CFA7-4726-8B55-698061FA8102",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to dyslexia screening in city jails and referrals to evidence-based programs",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 68679,
+      "MatterFile": "Int 0349-2022",
+      "MatterName": "Dyslexia screening in city jails and referrals to evidence-based programs.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-09-28T15:16:19.303Z"
+    },
+    {
+      "ID": 398200,
+      "GUID": "06492459-1B7E-46FD-9BC9-46532D945862",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to dyslexia screening in city jails and referrals to evidence-based programs",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 68679,
+      "MatterFile": "Int 0349-2022",
+      "MatterName": "Dyslexia screening in city jails and referrals to evidence-based programs.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-09-28T15:16:23.553Z"
+    },
+    {
+      "ID": 398201,
+      "GUID": "FB07911F-8E73-4BCD-8C75-AD0748601A10",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to dyslexia screening in city jails and referrals to evidence-based programs",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 68679,
+      "MatterFile": "Int 0349-2022",
+      "MatterName": "Dyslexia screening in city jails and referrals to evidence-based programs.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-09-28T15:55:55.25Z"
     }
   ],
   "AgendaLastPublished": "2023-09-27T14:44:25.103Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-09-27T14:44:25.257Z"
+  "MinutesLastPublished": "2023-09-28T15:56:00.28Z",
+  "LastModified": "2023-09-28T15:56:00.33Z"
 }
