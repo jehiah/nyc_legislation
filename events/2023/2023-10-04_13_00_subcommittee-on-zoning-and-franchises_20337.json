@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/10/20337_A_Subcommittee_on_Zoning_and_Franchises_23-10-04_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/10/20337_M_Subcommittee_on_Zoning_and_Franchises_23-10-04_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_231004-131127.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20337&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,18 +20,124 @@
       "GUID": "A6717C2C-C1C0-434B-AB02-80CB3C2E34C7",
       "Title": "Application number N 230113 ZRY (City of Yes for Carbon Neutrality) submitted by the New York City Department of City Planning, pursuant to Section 201 of the New York City Charter, for an amendment of the Zoning Resolution of the City of New York, modifying multiple Sections to remove impediments to, and expand opportunities for, decarbonization projects within all zoning districts, Citywide.  ",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
       "AgendaNote": "Preconsidered",
+      "ActionID": 15,
+      "ActionName": "Hearing on P-C Item by Comm",
+      "ActionText": "This Land Use Application was Hearing on P-C Item by Comm",
       "MatterID": 71962,
-      "MatterFile": "T2023-4111",
+      "MatterFile": "LU 0277-2023",
       "MatterName": "Zoning, City of Yes for Carbon Neutrality, Citywide (N 230113 ZRY)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Introduced",
-      "LastModified": "2023-10-03T16:19:45.227Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-10-04T22:10:50.34Z"
+    },
+    {
+      "ID": 398422,
+      "GUID": "C660D196-CB91-40EA-8ABD-DA9810C7B6A5",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 140
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        }
+      ],
+      "LastModified": "2023-10-04T22:11:43.63Z"
+    },
+    {
+      "ID": 398423,
+      "GUID": "8C55B0F9-76EC-4FE1-B8B4-F48DABD668F4",
+      "Title": "Application number N 230113 ZRY (City of Yes for Carbon Neutrality) submitted by the New York City Department of City Planning, pursuant to Section 201 of the New York City Charter, for an amendment of the Zoning Resolution of the City of New York, modifying multiple Sections to remove impediments to, and expand opportunities for, decarbonization projects within all zoning districts, Citywide.  ",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5018,
+      "ActionName": "P-C Item Laid Over by Comm",
+      "ActionText": "This Land Use Application was P-C Item Laid Over by Comm",
+      "MatterID": 71962,
+      "MatterFile": "LU 0277-2023",
+      "MatterName": "Zoning, City of Yes for Carbon Neutrality, Citywide (N 230113 ZRY)",
+      "MatterType": "Land Use Application",
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-10-04T22:11:43.813Z"
+    },
+    {
+      "ID": 398424,
+      "GUID": "ABCABDE5-3E80-4367-85C9-6F12C0147361",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Nurse",
+      "LastModified": "2023-10-04T22:12:04.663Z"
     }
   ],
-  "AgendaLastPublished": "2023-10-03T13:26:47.283Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-10-04T17:11:29.417Z"
+  "AgendaLastPublished": "2023-10-04T18:33:59.063Z",
+  "MinutesLastPublished": "2023-10-04T22:12:09.843Z",
+  "LastModified": "2023-10-04T22:12:09.92Z"
 }
