@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/10/20375_A_Committee_on_Criminal_Justice_23-10-05_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/10/20375_M_Committee_on_Criminal_Justice_23-10-05_Meeting_Minutes.pdf",
   "Comment": "VOTE",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_231005-122541.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20375&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,19 +21,151 @@
       "GUID": "7F55CC15-EEB7-490B-A7AA-C93D1F3C0290",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of correction to record interactions in which an individual is informed about a scheduled court appearance and report on rates of court production",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 1094-A",
       "MinutesNote": "Proposed Int. No. 1094-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 71480,
       "MatterFile": "Int 1094-2023",
       "MatterName": "Requiring the department of correction to record interactions in which an individual is informed about a scheduled court appearance and report on rates of court production.",
       "MatterType": "Introduction",
-      "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2023-10-03T16:47:38.533Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-10-05T15:33:46.86Z"
+    },
+    {
+      "ID": 398465,
+      "GUID": "381F5109-B2C0-4648-AAD7-84A88200BA59",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7740,
+          "Slug": "carlina-rivera",
+          "FullName": "Carlina Rivera",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 100
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        }
+      ],
+      "LastModified": "2023-10-05T16:33:20.38Z"
+    },
+    {
+      "ID": 398466,
+      "GUID": "080CF5FC-9953-49AA-A0AB-2DB3A3F3EA62",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of correction to record interactions in which an individual is informed about a scheduled court appearance and report on rates of court production",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 71480,
+      "MatterFile": "Int 1094-2023",
+      "MatterName": "Requiring the department of correction to record interactions in which an individual is informed about a scheduled court appearance and report on rates of court production.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-10-05T15:33:51.453Z"
+    },
+    {
+      "ID": 398467,
+      "GUID": "4EE81DFE-3C3A-4F1D-8F61-FBEA423F7AB2",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of correction to record interactions in which an individual is informed about a scheduled court appearance and report on rates of court production",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 71480,
+      "MatterFile": "Int 1094-2023",
+      "MatterName": "Requiring the department of correction to record interactions in which an individual is informed about a scheduled court appearance and report on rates of court production.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-10-05T15:33:56.073Z"
+    },
+    {
+      "ID": 398468,
+      "GUID": "0FA32783-48F9-4EA9-8299-DC7808F78695",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of correction to record interactions in which an individual is informed about a scheduled court appearance and report on rates of court production",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 71480,
+      "MatterFile": "Int 1094-2023",
+      "MatterName": "Requiring the department of correction to record interactions in which an individual is informed about a scheduled court appearance and report on rates of court production.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-10-05T16:45:50.557Z"
     }
   ],
   "AgendaLastPublished": "2023-10-03T16:47:51.117Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-10-03T16:47:51.21Z"
+  "MinutesLastPublished": "2023-10-05T16:45:56.28Z",
+  "LastModified": "2023-10-05T16:45:56.343Z"
 }

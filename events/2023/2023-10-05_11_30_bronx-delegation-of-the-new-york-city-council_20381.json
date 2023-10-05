@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/10/20381_A_Bronx_Delegation_of_the_New_York_City_Council_23-10-05_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/10/20381_M_Bronx_Delegation_of_the_New_York_City_Council_23-10-05_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_231005-115728.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20381&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,17 +20,123 @@
       "GUID": "031B056F-72E3-41B7-85F5-B72FFDD0A7D2",
       "Title": "Pursuant to Section 2301 of the New York City Charter, Recommendation to the Mayor by the Council Members representing the Borough of the Bronx, of Yves Filius to serve as a member of the Taxi and Limousine Commission for a term beginning on February 1 in the year of appointment and qualification and expiring seven years later.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This N/A was Hearing Held by Committee",
       "MatterID": 71985,
       "MatterFile": "T2023-4134",
       "MatterName": "Yves Filius, Taxi and Limousine Commission",
       "MatterType": "N/A",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-10-03T19:09:54.98Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-10-05T16:07:27.49Z"
+    },
+    {
+      "ID": 398463,
+      "GUID": "AFC29729-A369-4A20-BA01-062FD5B6B54F",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 15
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 20
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7807,
+          "Slug": "marjorie-velazquez",
+          "FullName": "Marjorie Velázquez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 160
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        }
+      ],
+      "LastModified": "2023-10-05T16:07:23.91Z"
+    },
+    {
+      "ID": 398464,
+      "GUID": "FE3B9D14-4069-4EDF-A0B7-A5570B65FD49",
+      "Title": "Pursuant to Section 2301 of the New York City Charter, Recommendation to the Mayor by the Council Members representing the Borough of the Bronx, of Yves Filius to serve as a member of the Taxi and Limousine Commission for a term beginning on February 1 in the year of appointment and qualification and expiring seven years later.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5065,
+      "ActionName": "Adopted by the Committee",
+      "ActionText": "A motion was made that this N/A be Adopted by the Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 71985,
+      "MatterFile": "T2023-4134",
+      "MatterName": "Yves Filius, Taxi and Limousine Commission",
+      "MatterType": "N/A",
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-10-05T16:07:38.65Z"
     }
   ],
   "AgendaLastPublished": "2023-10-03T19:12:17.723Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-10-03T19:12:17.737Z"
+  "MinutesLastPublished": "2023-10-05T16:07:43.517Z",
+  "LastModified": "2023-10-05T16:07:43.66Z"
 }

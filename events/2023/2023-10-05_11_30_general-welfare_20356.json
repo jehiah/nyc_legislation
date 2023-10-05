@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/10/20356_A_Committee_on_General_Welfare_23-10-05_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/10/20356_M_Committee_on_General_Welfare_23-10-05_Meeting_Minutes.pdf",
   "Comment": "VOTE",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_231005-113821.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20356&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,19 +21,167 @@
       "GUID": "43817F90-C646-48EE-AE00-C513D6F59470",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring information on the timeliness of city-funded rental payments",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 703-A",
       "MinutesNote": "Proposed Int. No. 703-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 69356,
       "MatterFile": "Int 0703-2022",
       "MatterName": "Requiring information on the timeliness of city-funded rental payments.",
       "MatterType": "Introduction",
-      "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2023-10-02T18:32:46.17Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-10-05T14:59:02.973Z"
+    },
+    {
+      "ID": 398459,
+      "GUID": "98C510C9-6D00-4160-86BA-E717081A894B",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 20
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 100
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 200
+        }
+      ],
+      "LastModified": "2023-10-05T15:48:56.647Z"
+    },
+    {
+      "ID": 398460,
+      "GUID": "BBBC04DF-6F8E-42D6-89B2-431571204EB7",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring information on the timeliness of city-funded rental payments",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 69356,
+      "MatterFile": "Int 0703-2022",
+      "MatterName": "Requiring information on the timeliness of city-funded rental payments.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-10-05T14:59:52.43Z"
+    },
+    {
+      "ID": 398461,
+      "GUID": "3ECC95A8-576B-4160-ABC3-25271B7C6F0C",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring information on the timeliness of city-funded rental payments",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 69356,
+      "MatterFile": "Int 0703-2022",
+      "MatterName": "Requiring information on the timeliness of city-funded rental payments.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-10-05T14:59:57.28Z"
+    },
+    {
+      "ID": 398462,
+      "GUID": "FBCBB7DD-752A-44D9-A8ED-5A5041FFB8FE",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring information on the timeliness of city-funded rental payments",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "This Introduction was Approved by Committee",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 69356,
+      "MatterFile": "Int 0703-2022",
+      "MatterName": "Requiring information on the timeliness of city-funded rental payments.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-10-05T15:49:12.89Z"
     }
   ],
   "AgendaLastPublished": "2023-10-02T18:33:29.77Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-10-02T18:33:29.91Z"
+  "MinutesLastPublished": "2023-10-05T15:49:19.297Z",
+  "LastModified": "2023-10-05T15:49:19.407Z"
 }
