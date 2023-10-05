@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/10/20365_A_Committee_on_Consumer_and_Worker_Protection_23-10-05_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/10/20365_M_Committee_on_Consumer_and_Worker_Protection_23-10-05_Meeting_Minutes.pdf",
   "Comment": "VOTE",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_231005-102005.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20365&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,19 +21,159 @@
       "GUID": "A337D729-E96A-4213-8D21-8A4EC8EC10CA",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of consumer and worker protection to implement an outreach and education campaign regarding the Temporary Schedule Change Act",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 818-A",
       "MinutesNote": "Proposed Int. No. 818-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 70464,
       "MatterFile": "Int 0818-2022",
       "MatterName": "Requiring the department of consumer and worker protection to implement an outreach and education campaign regarding the Temporary Schedule Change Act.",
       "MatterType": "Introduction",
-      "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2023-10-02T17:51:24.33Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-10-05T14:32:36.477Z"
+    },
+    {
+      "ID": 398447,
+      "GUID": "4B07F0EF-CC93-450F-9DB8-0448814E9154",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7807,
+          "Slug": "marjorie-velazquez",
+          "FullName": "Marjorie Velázquez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 130
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 140
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        }
+      ],
+      "LastModified": "2023-10-05T14:34:20.98Z"
+    },
+    {
+      "ID": 398448,
+      "GUID": "58AAE337-A7F8-4723-AA63-1971BF505FC4",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of consumer and worker protection to implement an outreach and education campaign regarding the Temporary Schedule Change Act",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 70464,
+      "MatterFile": "Int 0818-2022",
+      "MatterName": "Requiring the department of consumer and worker protection to implement an outreach and education campaign regarding the Temporary Schedule Change Act.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-10-05T14:32:41.283Z"
+    },
+    {
+      "ID": 398449,
+      "GUID": "BFCDD963-8E84-4B8C-8284-2EFEB8BE3EE6",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of consumer and worker protection to implement an outreach and education campaign regarding the Temporary Schedule Change Act",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 70464,
+      "MatterFile": "Int 0818-2022",
+      "MatterName": "Requiring the department of consumer and worker protection to implement an outreach and education campaign regarding the Temporary Schedule Change Act.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-10-05T14:32:45.833Z"
+    },
+    {
+      "ID": 398450,
+      "GUID": "5A31EEC1-F33F-475C-8124-53D3AB77D679",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of consumer and worker protection to implement an outreach and education campaign regarding the Temporary Schedule Change Act",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 70464,
+      "MatterFile": "Int 0818-2022",
+      "MatterName": "Requiring the department of consumer and worker protection to implement an outreach and education campaign regarding the Temporary Schedule Change Act.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-10-05T14:34:37.96Z"
     }
   ],
   "AgendaLastPublished": "2023-10-02T17:51:54.447Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-10-02T17:51:54.493Z"
+  "MinutesLastPublished": "2023-10-05T14:34:42.747Z",
+  "LastModified": "2023-10-05T14:34:42.817Z"
 }
