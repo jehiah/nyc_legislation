@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/10/20343_A_Committee_on_Parks_and_Recreation_23-10-11_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/10/20343_M_Committee_on_Parks_and_Recreation_23-10-11_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Environmental Protection, Resiliency and Waterfronts",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_231011-132341.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20343&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,54 +21,232 @@
       "GUID": "88840E3D-7FF6-42ED-8480-3A301F362E79",
       "Title": "Jointly with the Committee on Environmental Protection, Resiliency and Waterfronts",
       "AgendaSequence": 4,
-      "MinutesSequence": 4,
+      "MinutesSequence": 9,
       "Version": "",
-      "LastModified": "2023-09-25T18:41:35.35Z"
+      "LastModified": "2023-10-11T23:57:18.807Z"
     },
     {
       "ID": 397928,
       "GUID": "8CAE12D0-8B50-461B-A2BF-FC00B52BF7E8",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring testing at city waterfronts for harmful substances in the water and the posting of results online",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 71501,
       "MatterFile": "Int 1069-2023",
       "MatterName": "Requiring testing at city waterfronts for harmful substances in the water and the posting of results online.",
       "MatterType": "Introduction",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-09-25T18:37:51.317Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-10-12T00:03:33.753Z"
     },
     {
       "ID": 397929,
       "GUID": "1A6BA21F-CD40-4041-A741-399563522A48",
       "Title": "Resolution calling on the New York State Legislature to pass, and Governor to sign, legislation to create a permanent, citywide voluntary buyout program to mitigate flood risk.",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 71340,
       "MatterFile": "Res 0608-2023",
       "MatterName": "Create a permanent, citywide voluntary buyout program to mitigate flood risk.",
       "MatterType": "Resolution",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-09-25T18:38:02.553Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-10-12T00:03:56.26Z"
     },
     {
       "ID": 397933,
       "GUID": "4123C8D5-52BE-4A5B-9023-2DB71BE26AA7",
       "Title": "Oversight - New York City's Climate Resiliency Efforts.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 71948,
       "MatterFile": "T2023-4097",
       "MatterName": "Oversight - New York City's Climate Resiliency Efforts.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-09-25T18:42:04.157Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-10-12T00:01:42.413Z"
+    },
+    {
+      "ID": 398548,
+      "GUID": "A7029A42-E9FE-4B3E-9A39-A9964D334EA2",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 150
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 200
+        },
+        {
+          "ID": 7807,
+          "Slug": "marjorie-velazquez",
+          "FullName": "Marjorie Velázquez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 220
+        }
+      ],
+      "LastModified": "2023-10-12T00:00:47.39Z"
+    },
+    {
+      "ID": 398549,
+      "GUID": "03A83288-0BFE-4C48-B4B5-D4AC27E3708B",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Brooks-Powers, Nurse, Gutierrez, Gennaro and Hanks",
+      "LastModified": "2023-10-12T00:01:38.24Z"
+    },
+    {
+      "ID": 398550,
+      "GUID": "F91DB02A-10BE-4B2E-B64A-3180593CCA21",
+      "Title": "Oversight - New York City's Climate Resiliency Efforts.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 71948,
+      "MatterFile": "T2023-4097",
+      "MatterName": "Oversight - New York City's Climate Resiliency Efforts.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2023-10-12T00:01:45.23Z"
+    },
+    {
+      "ID": 398551,
+      "GUID": "9D5EB79E-4BFB-44B7-81CD-C89EA4735208",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring testing at city waterfronts for harmful substances in the water and the posting of results online",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 71501,
+      "MatterFile": "Int 1069-2023",
+      "MatterName": "Requiring testing at city waterfronts for harmful substances in the water and the posting of results online.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-10-12T00:03:38.747Z"
+    },
+    {
+      "ID": 398552,
+      "GUID": "652B8A1C-7CB1-45C3-B927-77784736D989",
+      "Title": "Resolution calling on the New York State Legislature to pass, and Governor to sign, legislation to create a permanent, citywide voluntary buyout program to mitigate flood risk.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 71340,
+      "MatterFile": "Res 0608-2023",
+      "MatterName": "Create a permanent, citywide voluntary buyout program to mitigate flood risk.",
+      "MatterType": "Resolution",
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-10-12T00:04:00.44Z"
     }
   ],
   "AgendaLastPublished": "2023-09-25T18:49:08.503Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-09-25T18:49:08.547Z"
+  "MinutesLastPublished": "2023-10-12T00:02:10.577Z",
+  "LastModified": "2023-10-12T00:02:10.703Z"
 }
