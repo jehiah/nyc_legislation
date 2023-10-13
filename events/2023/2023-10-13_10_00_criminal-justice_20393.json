@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/10/20393_A_Committee_on_Criminal_Justice_23-10-13_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/10/20393_M_Committee_on_Criminal_Justice_23-10-13_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Education and the Committee on General Welfare",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_231013-101957.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20393&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,40 +21,166 @@
       "GUID": "503397A8-D919-4FBF-9917-9F315F3F9F1A",
       "Title": "Jointly with the Committee on Education and the Committee on General Welfare",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "",
-      "LastModified": "2023-10-04T17:28:05.593Z"
+      "LastModified": "2023-10-13T20:00:11.593Z"
     },
     {
       "ID": 398380,
       "GUID": "64A55442-D23A-4CAB-B3E6-7121FFF177B7",
       "Title": "Oversight - Educational Programming in Detention Facilities.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 71832,
       "MatterFile": "T2023-3981",
       "MatterName": "Oversight - Educational Programming in Detention Facilities.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-10-04T17:35:56.043Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-10-13T20:01:06.503Z"
     },
     {
       "ID": 398381,
       "GUID": "E6B2361B-22E9-4D37-9D3F-4278ABA2533C",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of education, the administration for children’s services and the department of correction to report on educational programming for juvenile delinquents, juvenile offenders and adolescent offenders",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 69477,
       "MatterFile": "Int 0542-2022",
       "MatterName": "Requiring DOE, ACS and DOC to report on educational programming for juvenile delinquents, juvenile offenders and adolescent offenders.",
       "MatterType": "Introduction",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-10-04T17:28:13.293Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-10-13T20:06:14.987Z"
+    },
+    {
+      "ID": 398614,
+      "GUID": "A5F88239-8E01-42EB-962B-5F5307880CA3",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7740,
+          "Slug": "carlina-rivera",
+          "FullName": "Carlina Rivera",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 140
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        }
+      ],
+      "LastModified": "2023-10-13T20:00:32.4Z"
+    },
+    {
+      "ID": 398615,
+      "GUID": "18102D7D-70CE-46B3-9782-AA6D2CD777FF",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Joseph, Ayala, Louis, Aviles, Hudson, Lee, Ung, Menin, De La Rosa, Sanchez and Feliz.",
+      "LastModified": "2023-10-13T20:01:02.217Z"
+    },
+    {
+      "ID": 398616,
+      "GUID": "C6A6B391-3C69-4BEE-AF4E-BAD5BFE23F04",
+      "Title": "Oversight - Educational Programming in Detention Facilities.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 71832,
+      "MatterFile": "T2023-3981",
+      "MatterName": "Oversight - Educational Programming in Detention Facilities.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2023-10-13T20:01:14.71Z"
+    },
+    {
+      "ID": 398617,
+      "GUID": "0C01BF21-0A23-4301-BBE3-97201F8151DB",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of education, the administration for children’s services and the department of correction to report on educational programming for juvenile delinquents, juvenile offenders and adolescent offenders",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 69477,
+      "MatterFile": "Int 0542-2022",
+      "MatterName": "Requiring DOE, ACS and DOC to report on educational programming for juvenile delinquents, juvenile offenders and adolescent offenders.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-10-13T20:06:20.67Z"
     }
   ],
   "AgendaLastPublished": "2023-10-04T17:36:00.847Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-10-04T17:36:00.987Z"
+  "MinutesLastPublished": "2023-10-13T20:01:30Z",
+  "LastModified": "2023-10-13T20:01:30.03Z"
 }
