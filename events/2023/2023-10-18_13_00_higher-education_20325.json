@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/10/20325_A_Committee_on_Higher_Education_23-10-18_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/10/20325_M_Committee_on_Higher_Education_23-10-18_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Education.",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_231018-132037.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20325&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,54 +21,176 @@
       "GUID": "FBAC3BA1-2331-4D74-AA6E-ABB6A0F15649",
       "Title": "Jointly with the Committee on Education",
       "AgendaSequence": 4,
-      "MinutesSequence": 4,
+      "MinutesSequence": 9,
       "Version": "",
-      "LastModified": "2023-09-20T17:37:48.517Z"
+      "LastModified": "2023-10-18T18:56:30.727Z"
     },
     {
       "ID": 397802,
       "GUID": "6A594E43-3ACB-44E0-93C0-C90E77103B09",
       "Title": "Oversight - Seal of Biliteracy in DOE High Schools and at CUNY.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 71915,
       "MatterFile": "T2023-4064",
       "MatterName": "Oversight - Seal of Biliteracy in DOE High Schools and at CUNY.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-09-20T14:28:23.653Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-10-18T18:56:41.94Z"
     },
     {
       "ID": 397832,
       "GUID": "3D6A9196-68ED-4EE5-84D0-AA35E5BD6901",
       "Title": "Resolution calling on the New York City Department of Education to ensure that the New York State Seal of Biliteracy is awarded in all New York City public high schools to eligible students.",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 71196,
       "MatterFile": "Res 0579-2023",
       "MatterName": "Department of Education to ensure that the New York State Seal of Biliteracy is awarded in all New York City public high schools to eligible students.",
       "MatterType": "Resolution",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-09-20T17:37:46.96Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-10-18T20:00:06.677Z"
     },
     {
       "ID": 397833,
       "GUID": "256306B6-44DD-4270-9426-48DEACB8478D",
       "Title": "Resolution calling on The City University of New York to ensure that all campuses award an appropriate number of college credits to students who earned a New York State Seal of Biliteracy in high school and, where required, accept that Seal as fulfillment of any foreign language requirement.",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 71197,
       "MatterFile": "Res 0580-2023",
       "MatterName": "CUNY to ensure that all campuses award an appropriate number of college credits to students who earned a New York State Seal of Biliteracy in high school and, where required, accept that Seal as fulfillment of any foreign language requirement.",
       "MatterType": "Resolution",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-09-20T17:37:52.94Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-10-18T18:56:48.49Z"
+    },
+    {
+      "ID": 398899,
+      "GUID": "0DFEAC50-22C1-4295-A558-81BEE0D8662D",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5288,
+          "Slug": "charles-barron",
+          "FullName": "Charles Barron",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 100
+        }
+      ],
+      "LastModified": "2023-10-18T19:58:26.407Z"
+    },
+    {
+      "ID": 398900,
+      "GUID": "D7BCC1D1-4A1C-46A4-8EAC-563CF561382B",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Joseph, De La Rosa, Menin, Lee, Louis, Aviles, Gutierrez, Hanif, Restler, Sanchez, Stevens, Krishnan, Hanks and Ung ",
+      "LastModified": "2023-10-18T19:59:16.983Z"
+    },
+    {
+      "ID": 398901,
+      "GUID": "D3D24CAD-BA06-44AD-BDE2-9CE5B87BE836",
+      "Title": "Oversight - Seal of Biliteracy in DOE High Schools and at CUNY.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 71915,
+      "MatterFile": "T2023-4064",
+      "MatterName": "Oversight - Seal of Biliteracy in DOE High Schools and at CUNY.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2023-10-18T19:59:22.497Z"
+    },
+    {
+      "ID": 398902,
+      "GUID": "B088DC28-D1EC-4B7E-B57B-52061D8FF331",
+      "Title": "Resolution calling on the New York City Department of Education to ensure that the New York State Seal of Biliteracy is awarded in all New York City public high schools to eligible students.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 71196,
+      "MatterFile": "Res 0579-2023",
+      "MatterName": "Department of Education to ensure that the New York State Seal of Biliteracy is awarded in all New York City public high schools to eligible students.",
+      "MatterType": "Resolution",
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-10-18T20:00:10.683Z"
+    },
+    {
+      "ID": 398903,
+      "GUID": "2DE72BCB-AC78-414E-8871-2014E41FF514",
+      "Title": "Resolution calling on The City University of New York to ensure that all campuses award an appropriate number of college credits to students who earned a New York State Seal of Biliteracy in high school and, where required, accept that Seal as fulfillment of any foreign language requirement.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 71197,
+      "MatterFile": "Res 0580-2023",
+      "MatterName": "CUNY to ensure that all campuses award an appropriate number of college credits to students who earned a New York State Seal of Biliteracy in high school and, where required, accept that Seal as fulfillment of any foreign language requirement.",
+      "MatterType": "Resolution",
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-10-18T20:00:24.247Z"
     }
   ],
   "AgendaLastPublished": "2023-09-20T17:37:57.583Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-09-20T17:37:57.617Z"
+  "MinutesLastPublished": "2023-10-18T19:59:40.38Z",
+  "LastModified": "2023-10-18T19:59:40.537Z"
 }

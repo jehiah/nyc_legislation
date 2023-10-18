@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/10/20293_A_Committee_on_Hospitals_23-10-18_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/10/20293_M_Committee_on_Hospitals_23-10-18_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Criminal Justice",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_231018-131517.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20293&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,26 +21,124 @@
       "GUID": "370E299B-687E-4BFC-A825-040AA9CB720C",
       "Title": "Oversight - Outposted Therapeutic Housing Units.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 71809,
       "MatterFile": "T2023-3958",
       "MatterName": "Oversight - Outposted Therapeutic Housing Units.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-09-12T14:46:00.47Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-10-18T18:57:21.273Z"
     },
     {
       "ID": 397082,
       "GUID": "2F83A878-3993-450B-888D-CB4DCA53E8B0",
       "Title": "Jointly with the Committee on Criminal Justice",
       "AgendaSequence": 2,
+      "MinutesSequence": 5,
+      "Version": "",
+      "LastModified": "2023-10-18T18:57:10.633Z"
+    },
+    {
+      "ID": 398904,
+      "GUID": "EDD87503-4F45-4E7F-85CA-986DEBFFCA0C",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5288,
+          "Slug": "charles-barron",
+          "FullName": "Charles Barron",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7740,
+          "Slug": "carlina-rivera",
+          "FullName": "Carlina Rivera",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2023-10-18T18:57:15.34Z"
+    },
+    {
+      "ID": 398905,
+      "GUID": "521D5AFB-F2C2-4E46-BA90-B7051A5FEE11",
+      "Title": "",
+      "AgendaSequence": 0,
       "MinutesSequence": 2,
       "Version": "",
-      "LastModified": "2023-09-12T14:45:30.27Z"
+      "MinutesNote": "Other Council Members Attending: Abreu, Stevens, Carr, Restler, Hanif and Brewer ",
+      "LastModified": "2023-10-18T20:03:29.93Z"
+    },
+    {
+      "ID": 398906,
+      "GUID": "C4B41E17-33EC-46E8-8FD6-BC632701D8D0",
+      "Title": "Oversight - Outposted Therapeutic Housing Units.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 71809,
+      "MatterFile": "T2023-3958",
+      "MatterName": "Oversight - Outposted Therapeutic Housing Units.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2023-10-18T20:03:35.83Z"
     }
   ],
   "AgendaLastPublished": "2023-09-12T14:46:05.76Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-09-12T14:46:05.807Z"
+  "MinutesLastPublished": "2023-10-18T20:03:40.717Z",
+  "LastModified": "2023-10-18T20:03:40.78Z"
 }
