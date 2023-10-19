@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/10/20390_A_Committee_on_Public_Housing_23-10-19_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/10/20390_M_Committee_on_Public_Housing_23-10-19_Meeting_Minutes.pdf",
   "Comment": "VOTE",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_231019-094543.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20390&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,17 +21,141 @@
       "GUID": "E3006ED0-B194-4132-B666-D89A34BB9309",
       "Title": "Resolution calling upon the New York State Legislature and U.S. Department of Housing & Urban Development to take strong action and increase NYCHA accountability by auditing the responsiveness of NYCHA managers to tenants.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 68354,
       "MatterFile": "Res 0068-2022",
       "MatterName": "Increase NYCHA accountability by auditing the responsiveness of NYCHA managers to tenants.",
       "MatterType": "Resolution",
-      "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2023-10-16T21:05:57.74Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-10-19T13:50:38.707Z"
+    },
+    {
+      "ID": 398926,
+      "GUID": "B5244279-A26E-4027-B8CF-CA0C0F903E28",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 5288,
+          "Slug": "charles-barron",
+          "FullName": "Charles Barron",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 200
+        }
+      ],
+      "LastModified": "2023-10-19T13:59:30.43Z"
+    },
+    {
+      "ID": 398927,
+      "GUID": "6438BBE5-41FA-4384-8EFB-1763216099B1",
+      "Title": "Resolution calling upon the New York State Legislature and U.S. Department of Housing & Urban Development to take strong action and increase NYCHA accountability by auditing the responsiveness of NYCHA managers to tenants.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Resolution be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 68354,
+      "MatterFile": "Res 0068-2022",
+      "MatterName": "Increase NYCHA accountability by auditing the responsiveness of NYCHA managers to tenants.",
+      "MatterType": "Resolution",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-10-19T13:59:54.833Z"
+    },
+    {
+      "ID": 398944,
+      "GUID": "0451C80D-1A85-42F6-982C-A5CCE64E572B",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Won",
+      "LastModified": "2023-10-19T13:59:41.143Z"
     }
   ],
   "AgendaLastPublished": "2023-10-16T21:07:55.45Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-10-16T21:07:55.623Z"
+  "MinutesLastPublished": "2023-10-19T14:00:00.14Z",
+  "LastModified": "2023-10-19T14:00:00.187Z"
 }
