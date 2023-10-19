@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/10/20376_A_Committee_on_Finance_23-10-19_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/10/20376_M_Committee_on_Finance_23-10-19_Meeting_Minutes.pdf",
   "Comment": "VOTE",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_231019-102926.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20376&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
@@ -29,7 +30,7 @@
       "MatterFile": "Res 0808-2023",
       "MatterName": "Increase in the annual expenditure for four business improvement districts and the setting of the date, time and place for the hearing of the local law increasing the annual expenditure for such districts.",
       "MatterType": "Resolution",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Reported from Committee",
       "LastModified": "2023-10-19T14:22:13.817Z"
     },
     {
@@ -46,7 +47,7 @@
       "MatterFile": "Res 0807-2023",
       "MatterName": "Westchester Square business improvement district.",
       "MatterType": "Resolution",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Reported from Committee",
       "LastModified": "2023-10-19T14:22:11.423Z"
     },
     {
@@ -132,8 +133,8 @@
           "ID": 7832,
           "Slug": "kamillah-hanks",
           "FullName": "Kamillah Hanks",
-          "ValueID": 13,
-          "Value": "Present",
+          "ValueID": 16,
+          "Value": "Absent",
           "Sort": 160
         },
         {
@@ -212,12 +213,12 @@
           "ID": 7816,
           "Slug": "julie-won",
           "FullName": "Julie Won",
-          "ValueID": 13,
-          "Value": "Present",
+          "ValueID": 16,
+          "Value": "Absent",
           "Sort": 320
         }
       ],
-      "LastModified": "2023-10-19T14:22:08.553Z"
+      "LastModified": "2023-10-19T17:11:44.58Z"
     },
     {
       "ID": 398958,
@@ -226,12 +227,17 @@
       "AgendaSequence": 0,
       "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Resolution be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 71970,
       "MatterFile": "Res 0807-2023",
       "MatterName": "Westchester Square business improvement district.",
       "MatterType": "Resolution",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-10-19T14:22:02.29Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-10-19T17:11:53.983Z"
     },
     {
       "ID": 398959,
@@ -240,15 +246,20 @@
       "AgendaSequence": 0,
       "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Resolution be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 71987,
       "MatterFile": "Res 0808-2023",
       "MatterName": "Increase in the annual expenditure for four business improvement districts and the setting of the date, time and place for the hearing of the local law increasing the annual expenditure for such districts.",
       "MatterType": "Resolution",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-10-19T14:22:04.38Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-10-19T17:12:07.61Z"
     }
   ],
   "AgendaLastPublished": "2023-10-17T14:34:42.803Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-10-19T14:33:31.74Z"
+  "MinutesLastPublished": "2023-10-19T17:12:14.683Z",
+  "LastModified": "2023-10-19T17:12:14.713Z"
 }

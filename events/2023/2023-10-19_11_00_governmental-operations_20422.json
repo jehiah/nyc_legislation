@@ -8,30 +8,140 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/10/20422_A_Committee_on_Governmental_Operations_23-10-19_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/10/20422_M_Committee_on_Governmental_Operations_23-10-19_Meeting_Minutes.pdf",
   "Comment": "VOTE",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_231019-111410.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20422&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
       "ID": 398586,
       "GUID": "C6A074B5-33A0-42E7-91E5-313B73A46143",
-      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to documentation establishing proof of identity and proof of residency for a New York city identity card.",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to documentation establishing proof of identity and proof of residency for a New York city identity card",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 790-B",
       "MinutesNote": "Proposed Int. No. 790-B",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 70325,
       "MatterFile": "Int 0790-2022",
       "MatterName": "Documentation establishing proof of identity and proof of residency for a New York city identity card.",
       "MatterType": "Introduction",
-      "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2023-10-16T16:10:03.503Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-10-19T14:49:25.647Z"
+    },
+    {
+      "ID": 398976,
+      "GUID": "9570D249-152A-4AA6-A70A-A453F1EE92F5",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        }
+      ],
+      "LastModified": "2023-10-19T14:49:22.107Z"
+    },
+    {
+      "ID": 398977,
+      "GUID": "533DAF5F-B09F-481E-B432-931DCAAE2040",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to documentation establishing proof of identity and proof of residency for a New York city identity card",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 70325,
+      "MatterFile": "Int 0790-2022",
+      "MatterName": "Documentation establishing proof of identity and proof of residency for a New York city identity card.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-10-19T14:49:30.31Z"
+    },
+    {
+      "ID": 398978,
+      "GUID": "D86F1D6A-49DE-4E26-B6E6-E61D530B6032",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to documentation establishing proof of identity and proof of residency for a New York city identity card",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 70325,
+      "MatterFile": "Int 0790-2022",
+      "MatterName": "Documentation establishing proof of identity and proof of residency for a New York city identity card.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-10-19T14:49:35.55Z"
+    },
+    {
+      "ID": 398979,
+      "GUID": "50F17471-1B0F-4B9A-B7CA-E1AC7407D389",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to documentation establishing proof of identity and proof of residency for a New York city identity card",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "B",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 70325,
+      "MatterFile": "Int 0790-2022",
+      "MatterName": "Documentation establishing proof of identity and proof of residency for a New York city identity card.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-10-19T15:41:14.247Z"
     }
   ],
   "AgendaLastPublished": "2023-10-16T16:10:08.783Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-10-16T16:10:08.83Z"
+  "MinutesLastPublished": "2023-10-19T15:41:20.11Z",
+  "LastModified": "2023-10-19T15:41:20.157Z"
 }
