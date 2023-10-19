@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/10/20429_A_Committee_on_Veterans_23-10-19_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/10/20429_M_Committee_on_Veterans_23-10-19_Meeting_Minutes.pdf",
   "Comment": "VOTE",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_231019-100435.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20429&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,7 +21,7 @@
       "GUID": "3A5F0183-D079-4CC6-B2A7-FD69B69C99B4",
       "Title": "Resolution to recognize November as Veteran Appreciation Month in New York City.",
       "AgendaSequence": 1,
-      "MinutesSequence": 2,
+      "MinutesSequence": 3,
       "Version": "*",
       "AgendaNote": "Proposed Res. No. 581-A",
       "MinutesNote": "Proposed Res. No. 581-A",
@@ -30,7 +32,7 @@
       "MatterFile": "Res 0581-2023",
       "MatterName": "Recognize November as Veteran Appreciation Month in New York City.",
       "MatterType": "Resolution",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Reported from Committee",
       "LastModified": "2023-10-19T13:51:13Z"
     },
     {
@@ -54,8 +56,8 @@
           "ID": 7819,
           "Slug": "joann-ariola",
           "FullName": "Joann Ariola",
-          "ValueID": 13,
-          "Value": "Present",
+          "ValueID": 16,
+          "Value": "Absent",
           "Sort": 40
         },
         {
@@ -86,19 +88,19 @@
           "ID": 7805,
           "Slug": "kristin-richardson-jordan",
           "FullName": "Kristin Richardson Jordan",
-          "ValueID": 13,
-          "Value": "Present",
+          "ValueID": 16,
+          "Value": "Absent",
           "Sort": 120
         }
       ],
-      "LastModified": "2023-10-19T13:51:09.93Z"
+      "LastModified": "2023-10-19T14:17:39.927Z"
     },
     {
       "ID": 398929,
       "GUID": "0556C8A5-A8C2-4CF7-9125-DEB48B9D9876",
       "Title": "Resolution to recognize November as Veteran Appreciation Month in New York City.",
       "AgendaSequence": 0,
-      "MinutesSequence": 3,
+      "MinutesSequence": 4,
       "Version": "*",
       "ActionID": 5001,
       "ActionName": "Amendment Proposed by Comm",
@@ -107,7 +109,7 @@
       "MatterFile": "Res 0581-2023",
       "MatterName": "Recognize November as Veteran Appreciation Month in New York City.",
       "MatterType": "Resolution",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Reported from Committee",
       "LastModified": "2023-10-19T13:51:17.297Z"
     },
     {
@@ -115,7 +117,7 @@
       "GUID": "FF5F306D-4147-4BC1-841B-B1AF4BBA0363",
       "Title": "Resolution to recognize November as Veteran Appreciation Month in New York City.",
       "AgendaSequence": 0,
-      "MinutesSequence": 4,
+      "MinutesSequence": 5,
       "Version": "*",
       "ActionID": 33,
       "ActionName": "Amended by Committee",
@@ -124,7 +126,7 @@
       "MatterFile": "Res 0581-2023",
       "MatterName": "Recognize November as Veteran Appreciation Month in New York City.",
       "MatterType": "Resolution",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Reported from Committee",
       "LastModified": "2023-10-19T13:51:21.467Z"
     },
     {
@@ -132,17 +134,32 @@
       "GUID": "FC0225C1-87B5-442D-9F25-C16151E0C7A4",
       "Title": "Resolution to recognize November as Veteran Appreciation Month in New York City.",
       "AgendaSequence": 0,
-      "MinutesSequence": 5,
+      "MinutesSequence": 6,
       "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Resolution be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 70650,
       "MatterFile": "Res 0581-2023",
       "MatterName": "Recognize November as Veteran Appreciation Month in New York City.",
       "MatterType": "Resolution",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-10-19T13:51:03.997Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-10-19T14:25:31.19Z"
+    },
+    {
+      "ID": 398945,
+      "GUID": "9EAAE0A2-CF54-4994-BC8C-FE684E9C1E75",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Dinowitz and Ossé",
+      "LastModified": "2023-10-19T14:18:14.31Z"
     }
   ],
   "AgendaLastPublished": "2023-10-17T18:32:40.32Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-10-19T14:04:36.453Z"
+  "MinutesLastPublished": "2023-10-19T14:25:35.66Z",
+  "LastModified": "2023-10-19T14:25:35.723Z"
 }
