@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/10/20373_A_Committee_on_General_Welfare_23-10-23_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/10/20373_M_Committee_on_General_Welfare_23-10-23_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Finance and the Committee on Oversight and Investigations",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_231023-102742.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20373&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,26 +21,148 @@
       "GUID": "EB7A9D27-5146-4B89-BC60-A08958600543",
       "Title": "Jointly with the Committee on Finance and the Committee on Oversight and Investigations",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "",
-      "LastModified": "2023-10-04T19:36:49.39Z"
+      "LastModified": "2023-10-23T18:20:00.39Z"
     },
     {
       "ID": 398420,
       "GUID": "A3EEA0F6-8976-43FB-B3F7-DA9F9052C425",
       "Title": "Oversight - Asylum Seeker Response Efforts - Costs and Projections.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 72005,
       "MatterFile": "T2023-4154",
       "MatterName": "Oversight - Asylum Seeker Response Efforts - Costs and Projections.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-10-04T19:48:22.477Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-10-23T18:20:15.133Z"
+    },
+    {
+      "ID": 399016,
+      "GUID": "7ABBC66D-6755-4722-9B4B-A2DE439569C7",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 100
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 200
+        }
+      ],
+      "LastModified": "2023-10-23T21:12:02.41Z"
+    },
+    {
+      "ID": 399017,
+      "GUID": "4D6A0F8B-6BFB-4DF7-8102-906993499514",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Speaker Adams, Brooks-Powers, Barron, Louis, Brannan, Brewer, Joseph, Carr, Sanchez, Farias, Won, Hanks, Krishnan, Moya, Velasquez and Salamanca",
+      "LastModified": "2023-10-23T21:12:50.63Z"
+    },
+    {
+      "ID": 399018,
+      "GUID": "C848CB00-751E-4E61-919A-4710B5C99103",
+      "Title": "Oversight - Asylum Seeker Response Efforts - Costs and Projections.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 72005,
+      "MatterFile": "T2023-4154",
+      "MatterName": "Oversight - Asylum Seeker Response Efforts - Costs and Projections.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2023-10-23T21:13:00.833Z"
     }
   ],
   "AgendaLastPublished": "2023-10-18T18:36:59.747Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-10-18T18:36:59.793Z"
+  "MinutesLastPublished": "2023-10-23T21:13:06.78Z",
+  "LastModified": "2023-10-23T21:13:06.873Z"
 }
