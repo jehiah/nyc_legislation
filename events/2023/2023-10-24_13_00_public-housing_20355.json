@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/10/20355_A_Committee_on_Public_Housing_23-10-24_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/10/20355_M_Committee_on_Public_Housing_23-10-24_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_231024-132250.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20355&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,45 +20,207 @@
       "GUID": "B144437F-7B70-460B-91C2-28E3E07FDEE5",
       "Title": "A Local Law in relation to a report on the permanent affordability commitment together program",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 70080,
       "MatterFile": "Int 0646-2022",
       "MatterName": "Report on the permanent affordability commitment together program.",
       "MatterType": "Introduction",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-10-03T14:50:34.407Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-10-24T22:26:15.65Z"
     },
     {
       "ID": 398268,
       "GUID": "E72195D5-6781-4B12-96B9-BA76FEADCE04",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to reporting on vacant public housing dwelling units",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 68891,
       "MatterFile": "Int 0648-2022",
       "MatterName": "Reporting on vacant public housing dwelling units.",
       "MatterType": "Introduction",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-10-03T14:53:22.71Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-10-24T22:26:19.003Z"
     },
     {
       "ID": 398269,
       "GUID": "70370A9E-56A4-44AA-B067-D4AC9347041F",
       "Title": "Oversight - RAD/PACT, The Trust, & The Future of NYCHA.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 71992,
       "MatterFile": "T2023-4141",
       "MatterName": "Oversight - RAD/PACT, The Trust, & The Future of NYCHA.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-10-20T17:43:25.863Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-10-24T22:26:12.543Z"
+    },
+    {
+      "ID": 399060,
+      "GUID": "73534907-CA35-40B9-8DA6-DBCF29291D68",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 5288,
+          "Slug": "charles-barron",
+          "FullName": "Charles Barron",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 200
+        }
+      ],
+      "LastModified": "2023-10-24T22:27:46.383Z"
+    },
+    {
+      "ID": 399061,
+      "GUID": "AE46ADDA-EE1B-47FF-AB79-F77FE47214A1",
+      "Title": "Oversight - RAD/PACT, The Trust, & The Future of NYCHA.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 71992,
+      "MatterFile": "T2023-4141",
+      "MatterName": "Oversight - RAD/PACT, The Trust, & The Future of NYCHA.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2023-10-24T22:28:08.16Z"
+    },
+    {
+      "ID": 399062,
+      "GUID": "52EB498A-3DDC-4EC9-8EDF-8A90E0BEA80D",
+      "Title": "A Local Law in relation to a report on the permanent affordability commitment together program",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 70080,
+      "MatterFile": "Int 0646-2022",
+      "MatterName": "Report on the permanent affordability commitment together program.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-10-24T22:28:12.153Z"
+    },
+    {
+      "ID": 399063,
+      "GUID": "46D3DED7-21A9-4FC2-8898-FB1FA8CBB766",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to reporting on vacant public housing dwelling units",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 68891,
+      "MatterFile": "Int 0648-2022",
+      "MatterName": "Reporting on vacant public housing dwelling units.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-10-24T22:30:20.103Z"
+    },
+    {
+      "ID": 399064,
+      "GUID": "1B085657-F4E3-4288-87C9-136C778011F6",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Brewer",
+      "LastModified": "2023-10-24T22:28:03.52Z"
     }
   ],
   "AgendaLastPublished": "2023-10-03T14:51:44.72Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-10-24T17:22:51.6Z"
+  "MinutesLastPublished": "2023-10-24T22:30:25.473Z",
+  "LastModified": "2023-10-24T22:30:25.537Z"
 }
