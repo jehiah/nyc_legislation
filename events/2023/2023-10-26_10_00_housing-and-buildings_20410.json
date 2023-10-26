@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/10/20410_A_Committee_on_Housing_and_Buildings_23-10-26_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/10/20410_M_Committee_on_Housing_and_Buildings_23-10-26_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Oversight and Investigations, the Committee on Fire and Emergency Management and the Committee on Health",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_231026-100942.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20410&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,26 +21,140 @@
       "GUID": "4A9BF6EC-BF24-4318-B49F-9E9ADB9D0A2B",
       "Title": "Oversight - Mayor's Management Report: Agency Performance on Inspections and Responses.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 72017,
       "MatterFile": "T2023-4166",
       "MatterName": "Oversight - Mayor's Management Report: Agency Performance on Inspections and Responses.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-10-23T15:15:35.947Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-10-26T17:47:12.82Z"
     },
     {
       "ID": 398536,
       "GUID": "7392DFB0-D813-48C7-AD9B-5D2FA61F155D",
       "Title": "Jointly with the Committee on Oversight and Investigations, the Committee on Fire and Emergency Management and the Committee on Health",
       "AgendaSequence": 2,
+      "MinutesSequence": 5,
+      "Version": "",
+      "LastModified": "2023-10-26T17:04:30.167Z"
+    },
+    {
+      "ID": 399117,
+      "GUID": "BBB2F681-0AF1-4E0F-8CC5-14FFEABFF0FC",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 5288,
+          "Slug": "charles-barron",
+          "FullName": "Charles Barron",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 100
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2023-10-26T17:52:37.03Z"
+    },
+    {
+      "ID": 399118,
+      "GUID": "48783A94-DA70-4D2A-A8A4-99F20D441993",
+      "Title": "",
+      "AgendaSequence": 0,
       "MinutesSequence": 2,
       "Version": "",
-      "LastModified": "2023-10-23T15:15:35.947Z"
+      "MinutesNote": "Other Council Members Attending: Holden, Kagan, Brewer, Ariola, Narcisse, De La Rosa, Bottcher, Menin, Velazquez, Joseph, Riley, Krishnan, Ayala, Williams and Schulman",
+      "LastModified": "2023-10-26T17:52:54.143Z"
+    },
+    {
+      "ID": 399119,
+      "GUID": "DD849ED3-3E45-42AF-B8FD-C69575DEC840",
+      "Title": "Oversight - Mayor's Management Report: Agency Performance on Inspections and Responses.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 72017,
+      "MatterFile": "T2023-4166",
+      "MatterName": "Oversight - Mayor's Management Report: Agency Performance on Inspections and Responses.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2023-10-26T17:52:56.927Z"
     }
   ],
   "AgendaLastPublished": "2023-10-23T15:10:05.813Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-10-23T15:10:05.86Z"
+  "MinutesLastPublished": "2023-10-26T17:53:01.547Z",
+  "LastModified": "2023-10-26T17:53:01.72Z"
 }
