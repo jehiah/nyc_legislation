@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/10/20408_A_Committee_on_Finance_23-10-30_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/10/20408_M_Committee_on_Finance_23-10-30_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_231030-101818.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20408&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,31 +20,207 @@
       "GUID": "E60B058E-485E-4883-9AE2-6852A08FD748",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to extending the rate of the additional tax on the occupancy of hotel rooms",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 71902,
       "MatterFile": "Int 1208-2023",
       "MatterName": "Extending the rate of the additional tax on the occupancy of hotel rooms.",
       "MatterType": "Introduction",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-10-13T03:46:32.413Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-10-30T15:08:26.48Z"
     },
     {
       "ID": 398590,
       "GUID": "813332EF-2F3F-4D34-9677-3D4043D798B3",
       "Title": "AND SUCH OTHER BUSINESS AS MAY BE NECESSARY",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 0,
       "Version": "*",
       "MatterID": 68017,
       "MatterFile": "T2022-0002",
       "MatterName": "AND SUCH OTHER BUSINESS AS MAY BE NECESSARY",
       "MatterType": "N/A",
       "MatterStatus": "Committee",
-      "LastModified": "2023-10-13T03:46:49.27Z"
+      "LastModified": "2023-10-30T15:05:44.647Z"
+    },
+    {
+      "ID": 399145,
+      "GUID": "16F63C98-3933-4BD1-9D70-C7C15BB6638E",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 5288,
+          "Slug": "charles-barron",
+          "FullName": "Charles Barron",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 100
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 140
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 160
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 220
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 230
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 240
+        },
+        {
+          "ID": 7741,
+          "Slug": "keith-powers",
+          "FullName": "Keith Powers",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 260
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 280
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 290
+        },
+        {
+          "ID": 7807,
+          "Slug": "marjorie-velazquez",
+          "FullName": "Marjorie Velázquez",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 300
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 310
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 320
+        }
+      ],
+      "LastModified": "2023-10-30T15:06:47.39Z"
+    },
+    {
+      "ID": 399146,
+      "GUID": "6E968839-2E5C-4832-8E83-2C83A5194B77",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to extending the rate of the additional tax on the occupancy of hotel rooms",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 71902,
+      "MatterFile": "Int 1208-2023",
+      "MatterName": "Extending the rate of the additional tax on the occupancy of hotel rooms.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-10-30T15:08:37.343Z"
     }
   ],
   "AgendaLastPublished": "2023-10-13T03:46:53.08Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-10-13T03:46:53.113Z"
+  "MinutesLastPublished": "2023-10-30T15:08:43.053Z",
+  "LastModified": "2023-10-30T15:08:43.1Z"
 }
