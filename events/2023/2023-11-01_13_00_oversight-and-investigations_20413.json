@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/11/20413_A_Committee_on_Oversight_and_Investigations_23-11-01_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/11/20413_M_Committee_on_Oversight_and_Investigations_23-11-01_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_231101-132051.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20413&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,17 +20,121 @@
       "GUID": "272A1E7E-7B9E-40FF-82E5-6453C0A51B50",
       "Title": "Oversight - Mayor’s Management Report: Agency Performance in Delivering Housing & Services.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 72019,
       "MatterFile": "T2023-4168",
       "MatterName": "Oversight - Mayor’s Management Report: Agency Performance in Delivering Housing & Services.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-10-31T20:01:56.157Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-11-01T21:58:16.32Z"
+    },
+    {
+      "ID": 399286,
+      "GUID": "9469196E-7C12-44DA-86E6-689F455F4872",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 60
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 140
+        },
+        {
+          "ID": 7807,
+          "Slug": "marjorie-velazquez",
+          "FullName": "Marjorie Velázquez",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 160
+        },
+        {
+          "ID": 7749,
+          "Slug": "kalman-yeger",
+          "FullName": "Kalman Yeger",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 180
+        }
+      ],
+      "LastModified": "2023-11-01T21:58:12.53Z"
+    },
+    {
+      "ID": 399287,
+      "GUID": "44FC0728-76EF-4EBA-B4C2-DDE2FDC446F4",
+      "Title": "Oversight - Mayor’s Management Report: Agency Performance in Delivering Housing & Services.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 72019,
+      "MatterFile": "T2023-4168",
+      "MatterName": "Oversight - Mayor’s Management Report: Agency Performance in Delivering Housing & Services.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2023-11-01T21:58:22.267Z"
     }
   ],
   "AgendaLastPublished": "2023-10-13T03:44:50.753Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-11-01T17:20:52.873Z"
+  "MinutesLastPublished": "2023-11-01T21:58:27.437Z",
+  "LastModified": "2023-11-01T21:58:27.56Z"
 }
