@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/11/20457_A_City_Council_23-11-02_Council_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/11/20457_M_City_Council_23-11-02_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_231102-142212.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20457&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -22,7 +24,418 @@
       "AgendaNumber": "1.",
       "Version": "",
       "AgendaNote": "ROLL CALL",
-      "LastModified": "2023-11-02T15:31:10.703Z"
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7739,
+          "Slug": "adrienne-e-adams",
+          "FullName": "Adrienne E. Adams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 1
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 5288,
+          "Slug": "charles-barron",
+          "FullName": "Charles Barron",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7264,
+          "Slug": "joseph-c-borelli",
+          "FullName": "Joseph C. Borelli",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 200
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 220
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 240
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 260
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 280
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 300
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 320
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 340
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 380
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 400
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 420
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 440
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 460
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 480
+        },
+        {
+          "ID": 7805,
+          "Slug": "kristin-richardson-jordan",
+          "FullName": "Kristin Richardson Jordan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 500
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 520
+        },
+        {
+          "ID": 7830,
+          "Slug": "ari-kagan",
+          "FullName": "Ari Kagan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 540
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 560
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 580
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 600
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 620
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 640
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 660
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 680
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 700
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 720
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 740
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 760
+        },
+        {
+          "ID": 7741,
+          "Slug": "keith-powers",
+          "FullName": "Keith Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 780
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 800
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 820
+        },
+        {
+          "ID": 7740,
+          "Slug": "carlina-rivera",
+          "FullName": "Carlina Rivera",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 840
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 860
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 880
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 900
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 920
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 940
+        },
+        {
+          "ID": 7807,
+          "Slug": "marjorie-velazquez",
+          "FullName": "Marjorie Velázquez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 960
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 980
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 1000
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 1020
+        },
+        {
+          "ID": 7749,
+          "Slug": "kalman-yeger",
+          "FullName": "Kalman Yeger",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 1040
+        }
+      ],
+      "LastModified": "2023-11-02T19:43:16.217Z"
     },
     {
       "ID": 399180,
@@ -145,15 +558,21 @@
       "GUID": "652D7FF7-257E-4567-8260-2B07FD0E5680",
       "Title": "Resolution calling on the Governor to sign S.4266A/A.5088A, which establishes a task force on missing women and girls who are Black, Indigenous and people of color.",
       "AgendaSequence": 58,
-      "MinutesSequence": 65,
+      "MinutesSequence": 66,
       "Version": "A",
       "AgendaNote": "Amended and Adopted by the Committee on Civil and Human Rights",
+      "MinutesNote": "Pursuant to Rule 8.50 of the Council, the Majority Leader and Acting President Pro Tempore (Council Member Powers) called for a voice vote.  Hearing no objections, the Majority Leader and Acting President Pro Tempore (Council Member Powers) declared the Resolution to be adopted.\r\n\r\nAdopted unanimously by the Council by voice-vote.\r\n",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by voice vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 69735,
       "MatterFile": "Res 0296-2022",
       "MatterName": "Establishes a task force on missing women and girls who are Black, Indigenous and people of color.  (S.4266A/A.5088A)",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-11-02T13:57:07.873Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-11-02T20:19:09.92Z"
     },
     {
       "ID": 399196,
@@ -173,12 +592,17 @@
       "MinutesSequence": 16,
       "Version": "*",
       "AgendaNote": "Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 71902,
       "MatterFile": "Int 1208-2023",
       "MatterName": "Extending the rate of the additional tax on the occupancy of hotel rooms.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-11-02T13:57:07.83Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-11-02T19:48:24.517Z"
     },
     {
       "ID": 399198,
@@ -188,12 +612,18 @@
       "MinutesSequence": 17,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 72030,
       "MatterFile": "Res 0834-2023",
       "MatterName": "Approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-11-02T13:57:07.83Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-11-02T20:00:11.867Z"
     },
     {
       "ID": 399199,
@@ -213,12 +643,17 @@
       "MinutesSequence": 19,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 69409,
       "MatterFile": "Int 0687-2022",
       "MatterName": "Requiring added sugar notifications for menu items in chain restaurants.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-11-02T13:57:07.83Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-11-02T19:48:44.85Z"
     },
     {
       "ID": 399201,
@@ -228,12 +663,18 @@
       "MinutesSequence": 20,
       "Version": "B",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 70978,
       "MatterFile": "Int 0968-2023",
       "MatterName": "Establishing guidance to improve health outcomes for individuals affected by sickle cell disease.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-11-02T13:57:07.833Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-11-02T20:17:21.063Z"
     },
     {
       "ID": 399202,
@@ -253,12 +694,17 @@
       "MinutesSequence": 22,
       "Version": "B",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 69740,
       "MatterFile": "Int 0569-2022",
       "MatterName": "Workers’ bill of rights and outreach to immigrant workers.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-11-02T13:57:07.833Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-11-02T19:47:56.55Z"
     },
     {
       "ID": 399204,
@@ -278,12 +724,18 @@
       "MinutesSequence": 24,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 70530,
       "MatterFile": "Int 0845-2022",
       "MatterName": "Reducing penalties, allowing opportunities to cure for certain violations, and eliminating certain requirements for commercial establishments.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-11-02T13:57:07.837Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-11-02T20:17:38.673Z"
     },
     {
       "ID": 399206,
@@ -293,27 +745,38 @@
       "MinutesSequence": 25,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 71485,
       "MatterFile": "Int 1083-2023",
       "MatterName": "Establishment of the office of nightlife.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-11-02T13:57:07.837Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-11-02T20:17:53.043Z"
     },
     {
       "ID": 399207,
       "GUID": "10DDDBD0-92AB-41CD-8922-FE08B10D23A8",
       "Title": "Resolution calling upon the New York State Legislature to pass, and the Governor to sign, S.5256/A.7196, to prohibit the use of a confession of judgment in business loans.",
       "AgendaSequence": 57,
-      "MinutesSequence": 64,
+      "MinutesSequence": 65,
       "Version": "A",
       "AgendaNote": "Amended and Adopted by the Committee on Small Business",
+      "MinutesNote": "Pursuant to Rule 8.50 of the Council, the Majority Leader and Acting President Pro Tempore (Council Member Powers) called for a voice vote.  Hearing no objections, the Majority Leader and Acting President Pro Tempore (Council Member Powers) declared the Resolution to be adopted.\r\n\r\nAdopted unanimously by the Council by voice-vote.\r\n",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by voice vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 68936,
       "MatterFile": "Res 0243-2022",
       "MatterName": "Prohibit the use of a confession of judgment in business loans. (S.5256/A.7196)",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-11-02T13:57:07.873Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-11-02T20:18:49.23Z"
     },
     {
       "ID": 399208,
@@ -333,12 +796,18 @@
       "MinutesSequence": 27,
       "Version": "*",
       "AgendaNote": "Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 70055,
       "MatterFile": "Int 0816-2022",
       "MatterName": "Suspending alternate side parking regulations on Tisha B’Av.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-11-02T13:57:07.837Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-11-02T20:18:03.903Z"
     },
     {
       "ID": 399212,
@@ -348,12 +817,18 @@
       "MinutesSequence": 28,
       "Version": "*",
       "AgendaNote": "Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71731,
       "MatterFile": "Int 1191-2023",
       "MatterName": "Taxicab license durations.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-11-02T13:57:07.84Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-11-02T20:18:05.243Z"
     },
     {
       "ID": 399214,
@@ -363,12 +838,18 @@
       "MinutesSequence": 29,
       "Version": "*",
       "AgendaNote": "Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71900,
       "MatterFile": "Int 1192-2023",
       "MatterName": "Authorizing physician assistants and nurse practitioners to conduct medical exams of taxi driver license applicants.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-11-02T13:57:07.84Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-11-02T20:18:06.743Z"
     },
     {
       "ID": 399215,
@@ -390,12 +871,18 @@
       "AgendaNumber": "~coupled",
       "Version": "*",
       "AgendaNote": "Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Commissioner of Deeds be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 68016,
       "MatterFile": "T2022-0001",
       "MatterName": "Commissioner of Deeds",
       "MatterType": "Commissioner of Deeds",
-      "MatterStatus": "General Orders Calendar",
-      "LastModified": "2023-11-02T13:57:07.847Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-11-02T19:59:20.64Z"
     },
     {
       "ID": 399217,
@@ -405,12 +892,18 @@
       "MinutesSequence": 32,
       "Version": "*",
       "AgendaNote": "Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 72041,
       "MatterFile": "Res 0841-2023",
       "MatterName": "LU 263 - Zoning, South Richmond Zoning Relief, Staten Island (N 230112 ZRR)",
       "MatterType": "Resolution",
-      "MatterStatus": "General Orders Calendar",
-      "LastModified": "2023-11-02T13:57:07.84Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-11-02T20:18:11.897Z"
     },
     {
       "ID": 399218,
@@ -420,12 +913,17 @@
       "MinutesSequence": 34,
       "Version": "*",
       "AgendaNote": "Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 72048,
       "MatterFile": "Res 0842-2023",
       "MatterName": "LU 275 - Zoning, 703 Myrtle Avenue Rezoning, Brooklyn (C 220453 ZMK)",
       "MatterType": "Resolution",
-      "MatterStatus": "General Orders Calendar",
-      "LastModified": "2023-11-02T13:57:07.843Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-11-02T19:49:20.107Z"
     },
     {
       "ID": 399219,
@@ -435,12 +933,17 @@
       "MinutesSequence": 36,
       "Version": "*",
       "AgendaNote": "Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 72049,
       "MatterFile": "Res 0843-2023",
       "MatterName": "LU 276 - Zoning, 703 Myrtle Avenue Rezoning, Brooklyn (N 220454 ZRK)",
       "MatterType": "Resolution",
-      "MatterStatus": "General Orders Calendar",
-      "LastModified": "2023-11-02T13:57:07.847Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-11-02T19:49:52.56Z"
     },
     {
       "ID": 399220,
@@ -476,7 +979,7 @@
       "MatterFile": "Int 1208-2023",
       "MatterName": "Extending the rate of the additional tax on the occupancy of hotel rooms.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
       "LastModified": "2023-11-02T13:57:07.85Z"
     },
     {
@@ -492,7 +995,7 @@
       "MatterFile": "Res 0834-2023",
       "MatterName": "Approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-11-02T13:57:07.85Z"
     },
     {
@@ -519,7 +1022,7 @@
       "MatterFile": "Int 0687-2022",
       "MatterName": "Requiring added sugar notifications for menu items in chain restaurants.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
       "LastModified": "2023-11-02T13:57:07.85Z"
     },
     {
@@ -535,7 +1038,7 @@
       "MatterFile": "Int 0968-2023",
       "MatterName": "Establishing guidance to improve health outcomes for individuals affected by sickle cell disease.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
       "LastModified": "2023-11-02T13:57:07.85Z"
     },
     {
@@ -562,7 +1065,7 @@
       "MatterFile": "Int 0569-2022",
       "MatterName": "Workers’ bill of rights and outreach to immigrant workers.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
       "LastModified": "2023-11-02T13:57:07.853Z"
     },
     {
@@ -589,7 +1092,7 @@
       "MatterFile": "Int 0845-2022",
       "MatterName": "Reducing penalties, allowing opportunities to cure for certain violations, and eliminating certain requirements for commercial establishments.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
       "LastModified": "2023-11-02T13:57:07.857Z"
     },
     {
@@ -605,7 +1108,7 @@
       "MatterFile": "Int 1083-2023",
       "MatterName": "Establishment of the office of nightlife.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
       "LastModified": "2023-11-02T13:57:07.857Z"
     },
     {
@@ -632,7 +1135,7 @@
       "MatterFile": "Int 0816-2022",
       "MatterName": "Suspending alternate side parking regulations on Tisha B’Av.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
       "LastModified": "2023-11-02T13:57:07.857Z"
     },
     {
@@ -648,7 +1151,7 @@
       "MatterFile": "Int 1191-2023",
       "MatterName": "Taxicab license durations.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
       "LastModified": "2023-11-02T13:57:07.86Z"
     },
     {
@@ -664,7 +1167,7 @@
       "MatterFile": "Int 1192-2023",
       "MatterName": "Authorizing physician assistants and nurse practitioners to conduct medical exams of taxi driver license applicants.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
       "LastModified": "2023-11-02T13:57:07.863Z"
     },
     {
@@ -691,8 +1194,8 @@
       "MatterFile": "T2022-0001",
       "MatterName": "Commissioner of Deeds",
       "MatterType": "Commissioner of Deeds",
-      "MatterStatus": "General Orders Calendar",
-      "LastModified": "2023-11-02T13:57:07.867Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-11-02T19:51:45.29Z"
     },
     {
       "ID": 399243,
@@ -707,7 +1210,7 @@
       "MatterFile": "Res 0841-2023",
       "MatterName": "LU 263 - Zoning, South Richmond Zoning Relief, Staten Island (N 230112 ZRR)",
       "MatterType": "Resolution",
-      "MatterStatus": "General Orders Calendar",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-11-02T13:57:07.863Z"
     },
     {
@@ -723,7 +1226,7 @@
       "MatterFile": "Res 0842-2023",
       "MatterName": "LU 275 - Zoning, 703 Myrtle Avenue Rezoning, Brooklyn (C 220453 ZMK)",
       "MatterType": "Resolution",
-      "MatterStatus": "General Orders Calendar",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-11-02T13:57:07.867Z"
     },
     {
@@ -739,7 +1242,7 @@
       "MatterFile": "Res 0843-2023",
       "MatterName": "LU 276 - Zoning, 703 Myrtle Avenue Rezoning, Brooklyn (N 220454 ZRK)",
       "MatterType": "Resolution",
-      "MatterStatus": "General Orders Calendar",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-11-02T13:57:07.867Z"
     },
     {
@@ -747,7 +1250,7 @@
       "GUID": "C7C5B839-D3E7-45F5-A240-1205897C3E3C",
       "Title": "Introduction & Reading of Bills\r\nSee Attached",
       "AgendaSequence": 54,
-      "MinutesSequence": 61,
+      "MinutesSequence": 62,
       "AgendaNumber": "13.",
       "Version": "",
       "AgendaNote": "INTRODUCTION & READING OF BILLS (SEE BELOW)",
@@ -758,7 +1261,7 @@
       "GUID": "8E0172ED-6AF4-4612-9F4D-214AA99E928D",
       "Title": "Discussion of Resolutions",
       "AgendaSequence": 55,
-      "MinutesSequence": 62,
+      "MinutesSequence": 63,
       "AgendaNumber": "14.",
       "Version": "",
       "AgendaNote": "DISCUSSION OF RESOLUTIONS",
@@ -769,7 +1272,7 @@
       "GUID": "51CBDA31-CE48-40C1-AFEA-073076939416",
       "Title": "Resolutions",
       "AgendaSequence": 56,
-      "MinutesSequence": 63,
+      "MinutesSequence": 64,
       "AgendaNumber": "15.",
       "Version": "",
       "AgendaNote": "RESOLUTIONS",
@@ -780,7 +1283,7 @@
       "GUID": "AA388E30-5AB4-463E-A2BE-E68FC659ADDA",
       "Title": "General Discussion",
       "AgendaSequence": 59,
-      "MinutesSequence": 66,
+      "MinutesSequence": 67,
       "AgendaNumber": "16.",
       "Version": "",
       "AgendaNote": "GENERAL DISCUSSION",
@@ -791,7 +1294,7 @@
       "GUID": "5A176F49-6370-4FC8-AAB3-1E4997F46ABD",
       "Title": "Extension of Remarks",
       "AgendaSequence": 60,
-      "MinutesSequence": 67,
+      "MinutesSequence": 68,
       "AgendaNumber": "17.",
       "Version": "",
       "AgendaNote": "EXTENSION OF REMARKS",
@@ -802,7 +1305,7 @@
       "GUID": "D012D10F-7875-4E8D-9A47-F87EDA7A195C",
       "Title": "INTRODUCTION AND READING OF BILLS",
       "AgendaSequence": 61,
-      "MinutesSequence": 68,
+      "MinutesSequence": 69,
       "Version": "",
       "AgendaNote": "INTRODUCTION AND READING OF BILLS",
       "LastModified": "2023-11-02T13:57:07.877Z"
@@ -812,7 +1315,7 @@
       "GUID": "7363D707-E1BF-410B-809D-99E88C306C4B",
       "Title": "Resolution calling on the United States Congress to pass and the President to sign legislation including wage theft as a qualifying crime for a U-Visa and removing the 10,000 yearly cap on U-Visas.",
       "AgendaSequence": 62,
-      "MinutesSequence": 69,
+      "MinutesSequence": 70,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Immigration",
@@ -831,7 +1334,7 @@
       "GUID": "F423AE25-73FA-4D15-95E6-A7B5FBEE72A1",
       "Title": "A Local Law in relation to an assessment of a cloud-first policy for city technology systems",
       "AgendaSequence": 64,
-      "MinutesSequence": 71,
+      "MinutesSequence": 72,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Technology",
@@ -850,7 +1353,7 @@
       "GUID": "47E57604-1D02-4EC4-8BBF-4B04AE7431EA",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to adjudication of liability imposed upon owners pursuant to section 1180-e of the vehicle and traffic law",
       "AgendaSequence": 63,
-      "MinutesSequence": 70,
+      "MinutesSequence": 71,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Finance",
@@ -869,7 +1372,7 @@
       "GUID": "2D9C8968-B4DD-4459-AD1F-1EF2C4BA6941",
       "Title": "Resolution approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget.",
       "AgendaSequence": 65,
-      "MinutesSequence": 72,
+      "MinutesSequence": 73,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Finance",
@@ -880,7 +1383,7 @@
       "MatterFile": "Res 0834-2023",
       "MatterName": "Approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-11-02T15:13:56.573Z"
     },
     {
@@ -888,7 +1391,7 @@
       "GUID": "1E49BA91-1450-4FFC-83EA-D7D08B1959C0",
       "Title": "A Local Law in relation to requiring the department of health and mental hygiene to conduct a community needs assessment to identify needs and gaps in services for people experiencing long COVID",
       "AgendaSequence": 66,
-      "MinutesSequence": 73,
+      "MinutesSequence": 74,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Health",
@@ -907,7 +1410,7 @@
       "GUID": "A3A6DA40-9F12-4D84-9B36-669D8F0279EB",
       "Title": "Resolution recognizing April 17 annually as Giovanni da Verrazzano Day in the City of New York.",
       "AgendaSequence": 67,
-      "MinutesSequence": 74,
+      "MinutesSequence": 75,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Cultural Affairs, Libraries and International Intergroup Relations",
@@ -926,7 +1429,7 @@
       "GUID": "82DFAE48-98BE-4DF8-B80D-0FED583B03A8",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the collection of demographic data on veterans",
       "AgendaSequence": 69,
-      "MinutesSequence": 76,
+      "MinutesSequence": 77,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Veterans",
@@ -945,7 +1448,7 @@
       "GUID": "84E38561-4048-4EB5-B738-ABBD2B1CD411",
       "Title": "Resolution acknowledging July 18 through August 17 as South Asian Heritage Month annually in the City of New York and celebrating the contributions made by New Yorkers of South Asian heritage to our multicultural neighborhoods.",
       "AgendaSequence": 70,
-      "MinutesSequence": 77,
+      "MinutesSequence": 78,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Cultural Affairs, Libraries and International Intergroup Relations",
@@ -964,7 +1467,7 @@
       "GUID": "165B003F-2334-430F-AD21-7A2FAD3788A8",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing a grab-and-go meal program at older adult centers",
       "AgendaSequence": 72,
-      "MinutesSequence": 79,
+      "MinutesSequence": 80,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Aging",
@@ -983,7 +1486,7 @@
       "GUID": "CEE71B28-355A-452D-8C4A-0F669ED1C8D6",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring home-delivered meals be delivered each day of the calendar year.",
       "AgendaSequence": 74,
-      "MinutesSequence": 81,
+      "MinutesSequence": 82,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Aging",
@@ -1002,7 +1505,7 @@
       "GUID": "B2EF0B91-BD72-4F06-917F-C5D77D0AFDFE",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to community outreach and public education on mental health resources for veterans",
       "AgendaSequence": 73,
-      "MinutesSequence": 80,
+      "MinutesSequence": 81,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Veterans",
@@ -1021,7 +1524,7 @@
       "GUID": "4108D0F8-40AB-46A6-8039-03784DB73F1F",
       "Title": "Resolution calling on Congress to pass, and the President to sign, H.R.3561, the PATIENT Act of 2023.",
       "AgendaSequence": 76,
-      "MinutesSequence": 83,
+      "MinutesSequence": 84,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Health",
@@ -1040,7 +1543,7 @@
       "GUID": "09CE721A-03EB-4BBE-A95E-0DD883A4D466",
       "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, A.2146/S.4502 to establish an educational program related to the prevention of antisemitism, Islamophobia bias, and discrimination based on religion, race, sexual orientation, or gender identity or expression.",
       "AgendaSequence": 75,
-      "MinutesSequence": 82,
+      "MinutesSequence": 83,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Cultural Affairs, Libraries and International Intergroup Relations",
@@ -1059,7 +1562,7 @@
       "GUID": "E57B1318-4FFF-42CA-ACED-BF6749279897",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the New York city department of education to report the number of students reported to the office of school health as having a diagnosis of sickle cell disease or trait",
       "AgendaSequence": 78,
-      "MinutesSequence": 85,
+      "MinutesSequence": 86,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Education",
@@ -1078,7 +1581,7 @@
       "GUID": "C76E656C-B1BE-41E7-902A-7F2A12898E22",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the commissioner of veterans’ services to submit an annual report on the provision of mental health services by city agencies to veterans",
       "AgendaSequence": 77,
-      "MinutesSequence": 84,
+      "MinutesSequence": 85,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Veterans",
@@ -1097,7 +1600,7 @@
       "GUID": "D1472123-A0C3-4776-88DC-18D8ECB4610D",
       "Title": "Resolution calling on the New York City Department of Education to observe Veterans Day the Friday before November 11th if it falls on a Saturday and the Monday after the 11th if it falls on a Sunday.",
       "AgendaSequence": 79,
-      "MinutesSequence": 86,
+      "MinutesSequence": 87,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Veterans",
@@ -1116,7 +1619,7 @@
       "GUID": "24055B4F-FFF4-4E9B-AF2C-B5B43FF04E5D",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to amending the nuisance abatement law regarding the sale or delivery of cannabis",
       "AgendaSequence": 80,
-      "MinutesSequence": 87,
+      "MinutesSequence": 88,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Public Safety",
@@ -1135,7 +1638,7 @@
       "GUID": "7C7215D7-578E-4E9B-8E48-9FF0C1EE1DF0",
       "Title": "A Local Law in relation to establishing a pilot program to match small businesses with social media content creators for assistance with marketing and advertising, and providing for the repeal of such provisions upon the expiration thereof",
       "AgendaSequence": 83,
-      "MinutesSequence": 90,
+      "MinutesSequence": 91,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Small Business",
@@ -1154,7 +1657,7 @@
       "GUID": "5567CDA1-3688-4748-9222-8A4A008B4D59",
       "Title": "A Local Law in relation to a plan to identify and facilitate the use of indoor facilities for basketball games",
       "AgendaSequence": 82,
-      "MinutesSequence": 89,
+      "MinutesSequence": 90,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Parks and Recreation",
@@ -1173,7 +1676,7 @@
       "GUID": "2CD40327-8ACA-4C17-B97B-08EF4AA5193F",
       "Title": "A Local Law to amend the administrative code of the city of New York and the fuel gas code in relation to periodic inspections of gas piping systems, ordinary plumbing work, reestablishing the plumbing and fire suppression piping contractor license board, piping systems, emergency work, fire suppression piping work, and seizure",
       "AgendaSequence": 84,
-      "MinutesSequence": 91,
+      "MinutesSequence": 92,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Housing and Buildings",
@@ -1192,7 +1695,7 @@
       "GUID": "D07465CF-3CEE-4750-9871-BFCA2F6CBED5",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of health and mental hygiene to develop a healthy nyc population health agenda",
       "AgendaSequence": 85,
-      "MinutesSequence": 92,
+      "MinutesSequence": 93,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Health",
@@ -1211,7 +1714,7 @@
       "GUID": "127C376E-AD74-48BA-8230-5D6D2EC04AB9",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to permitting disabled residents to obtain a marking on their IDNYC card to serve as proof of disability",
       "AgendaSequence": 86,
-      "MinutesSequence": 93,
+      "MinutesSequence": 94,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Mental Health, Disabilities and Addiction",
@@ -1230,7 +1733,7 @@
       "GUID": "AE4A4A06-7FBA-4F51-A555-72EDA4BADB47",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the development and distribution of an informational pamphlet on accessing department of veterans services resources",
       "AgendaSequence": 81,
-      "MinutesSequence": 88,
+      "MinutesSequence": 89,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Veterans",
@@ -1249,7 +1752,7 @@
       "GUID": "A3C1D413-1FE8-41C8-8303-213DFAC0411C",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the establishment of community hiring and compensation standards for city assisted housing development projects",
       "AgendaSequence": 68,
-      "MinutesSequence": 75,
+      "MinutesSequence": 76,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Civil Service and Labor",
@@ -1268,7 +1771,7 @@
       "GUID": "B6755C77-B1F7-41D6-A7C4-CD04BA573209",
       "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, S.4717/A.3149, to authorize the New York State Department of Veterans' Services to provide eligible veterans with financial assistance for purchasing, training, and the upkeep of service dogs and emotional support dogs.",
       "AgendaSequence": 71,
-      "MinutesSequence": 78,
+      "MinutesSequence": 79,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Veterans",
@@ -1307,12 +1810,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 31,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71817,
       "MatterFile": "LU 0263-2023",
       "MatterName": "Zoning, South Richmond Zoning Relief, Staten Island (N 230112 ZRR)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2023-11-02T13:57:07.84Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-11-02T20:18:08.97Z"
     },
     {
       "ID": 399300,
@@ -1321,12 +1830,17 @@
       "AgendaSequence": 0,
       "MinutesSequence": 33,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 71896,
       "MatterFile": "LU 0275-2023",
       "MatterName": "Zoning, 703 Myrtle Avenue Rezoning, Brooklyn (C 220453 ZMK)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2023-11-02T13:57:07.843Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-11-02T19:49:05.913Z"
     },
     {
       "ID": 399301,
@@ -1335,12 +1849,17 @@
       "AgendaSequence": 0,
       "MinutesSequence": 35,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 71897,
       "MatterFile": "LU 0276-2023",
       "MatterName": "Zoning, 703 Myrtle Avenue Rezoning, Brooklyn (N 220454 ZRK)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2023-11-02T13:57:07.843Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-11-02T19:49:37.23Z"
     },
     {
       "ID": 399308,
@@ -1349,8 +1868,8 @@
       "AgendaSequence": 0,
       "MinutesSequence": 3,
       "Version": "",
-      "MinutesNote": "The presence of a quorum was announced by the Majority Leader and Acting President Pro Tempore (Council Member Powers).\r\n\r\nThere were XX Council Members marked present at this Stated Meeting.",
-      "LastModified": "2023-11-02T16:18:33.947Z"
+      "MinutesNote": "The presence of a quorum was announced by the Majority Leader and Acting President Pro Tempore (Council Member Powers).\r\n\r\nThere were 51 Council Members marked present at this Stated Meeting.",
+      "LastModified": "2023-11-02T19:57:46.467Z"
     },
     {
       "ID": 399309,
@@ -1370,24 +1889,24 @@
       "MinutesSequence": 59,
       "Version": "",
       "MinutesNote": "The Majority Leader and Acting President Pro Tempore (Council Member Powers) put the question whether the Council would agree with and adopt such reports, which were decided in the affirmative by the following vote:",
-      "LastModified": "2023-11-02T15:23:51.13Z"
+      "LastModified": "2023-11-02T20:00:47.24Z"
     },
     {
       "ID": 399311,
       "GUID": "09E82884-ADCB-493A-9AA1-968DD42B6EFD",
       "Title": "",
       "AgendaSequence": 0,
-      "MinutesSequence": 60,
+      "MinutesSequence": 61,
       "Version": "",
-      "MinutesNote": "The following files were removed from the General Order Calendar and voted separately:\r\n\r\nSee files for individual votes.",
-      "LastModified": "2023-11-02T15:24:15.4Z"
+      "MinutesNote": "The following files were removed from the General Order Calendar and voted separately:\r\n\r\nInt. No. 569-B,  VOTE: 43-8-0 \r\nNegative: CMs Ariola, Carr, Holden, Kagan, Paladino, Vernikov, Yeger, and the Minority Leader (Council Member Borelli).\r\n\r\nInt. No. 687-A,  VOTE: 44-7-0\r\nNegative: CMs Ariola, Carr, Kagan, Paladino, Vernikov, Yeger, and the Minority Leader (Council Member Borelli).\r\n\r\nInt. No. 1208,  VOTE: 43-8-0\r\nNegative: CMs Ariola, Carr, Holden, Kagan, Paladino, Vernikov, Yeger, and the Minority Leader (Council Member Borelli).\r\n\r\nL.U. No. 275 & Res. No. 842, \r\nL.U. No. 276 & Res. No. 843\r\nVOTE: 50-1-0\r\nNegative: CM Barron.\r\n\r\nSee files for individual votes.\r\n\r\n",
+      "LastModified": "2023-11-02T20:18:43.897Z"
     },
     {
       "ID": 399312,
       "GUID": "B6A36B64-353A-41CE-AB40-1894A4F95E46",
       "Title": "",
       "AgendaSequence": 0,
-      "MinutesSequence": 94,
+      "MinutesSequence": 95,
       "Version": "",
       "MinutesNote": "At this point the Speaker (Council Member Adams) made the following announcements:",
       "LastModified": "2023-11-02T13:57:49.093Z"
@@ -1397,13 +1916,26 @@
       "GUID": "52FB5920-25DC-4CCC-B293-C1A9A46D4EC0",
       "Title": "",
       "AgendaSequence": 0,
-      "MinutesSequence": 95,
+      "MinutesSequence": 96,
       "Version": "",
       "MinutesNote": "Whereupon on motion of the Speaker (Council Member Adams), the Majority Leader and Acting President Pro Tempore (Council Member Powers) adjourned these proceedings to meet again for the Stated Meeting of Wednesday, November 15, 2023.\r\n\r\nMICHAEL McSWEENEY, City Clerk\r\nClerk of the Council",
-      "LastModified": "2023-11-02T15:19:49.623Z"
+      "LastModified": "2023-11-02T19:59:20.66Z"
+    },
+    {
+      "ID": 399365,
+      "GUID": "57FE8EF7-FD15-4F61-86A8-D8C37DE4EF65",
+      "Title": "Passed The Consent Agenda",
+      "AgendaSequence": 0,
+      "MinutesSequence": 60,
+      "Version": "",
+      "ActionText": "A motion was made that these files be approved by consent vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
+      "LastModified": "2023-11-02T20:00:50.19Z"
     }
   ],
   "AgendaLastPublished": "2023-11-02T15:31:16.637Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-11-02T15:31:16.713Z"
+  "MinutesLastPublished": "2023-11-02T20:19:18.85Z",
+  "LastModified": "2023-11-02T20:19:19.007Z"
 }
