@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/11/20428_A_Committee_on_Civil_and_Human_Rights_23-11-02_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/11/20428_M_Committee_on_Civil_and_Human_Rights_23-11-02_Meeting_Minutes.pdf",
   "Comment": "VOTE",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_231102-094023.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20428&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,19 +21,127 @@
       "GUID": "6CE54A89-AA8E-40A8-BE4A-6534DA7276D1",
       "Title": "Resolution calling on the Governor to sign S.4266A/A.5088A, which establishes a task force on missing women and girls who are Black, Indigenous and people of color.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Proposed Res. No. 296-A",
       "MinutesNote": "Proposed Res. No. 296-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 69735,
       "MatterFile": "Res 0296-2022",
       "MatterName": "Establishes a task force on missing women and girls who are Black, Indigenous and people of color.  (S.4266A/A.5088A)",
       "MatterType": "Resolution",
-      "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2023-10-30T21:02:13.477Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-11-02T13:50:57.87Z"
+    },
+    {
+      "ID": 399302,
+      "GUID": "331944A5-A62D-4C06-9536-225849FE95DE",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7805,
+          "Slug": "kristin-richardson-jordan",
+          "FullName": "Kristin Richardson Jordan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        }
+      ],
+      "LastModified": "2023-11-02T13:50:52.56Z"
+    },
+    {
+      "ID": 399303,
+      "GUID": "A3AC577F-A8D3-4A0B-A4CD-93F012B900E9",
+      "Title": "Resolution calling on the Governor to sign S.4266A/A.5088A, which establishes a task force on missing women and girls who are Black, Indigenous and people of color.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Resolution was Amendment Proposed by Comm",
+      "MatterID": 69735,
+      "MatterFile": "Res 0296-2022",
+      "MatterName": "Establishes a task force on missing women and girls who are Black, Indigenous and people of color.  (S.4266A/A.5088A)",
+      "MatterType": "Resolution",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-11-02T13:51:02.553Z"
+    },
+    {
+      "ID": 399304,
+      "GUID": "C9C639EC-4E85-4B32-8BA0-E1CEAAAE85A1",
+      "Title": "Resolution calling on the Governor to sign S.4266A/A.5088A, which establishes a task force on missing women and girls who are Black, Indigenous and people of color.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Resolution was Amended by Committee",
+      "MatterID": 69735,
+      "MatterFile": "Res 0296-2022",
+      "MatterName": "Establishes a task force on missing women and girls who are Black, Indigenous and people of color.  (S.4266A/A.5088A)",
+      "MatterType": "Resolution",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-11-02T13:51:06.297Z"
+    },
+    {
+      "ID": 399305,
+      "GUID": "C97CEC42-1542-4225-8717-A0C06F366923",
+      "Title": "Resolution calling on the Governor to sign S.4266A/A.5088A, which establishes a task force on missing women and girls who are Black, Indigenous and people of color.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Resolution be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 69735,
+      "MatterFile": "Res 0296-2022",
+      "MatterName": "Establishes a task force on missing women and girls who are Black, Indigenous and people of color.  (S.4266A/A.5088A)",
+      "MatterType": "Resolution",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-11-02T14:04:00.293Z"
     }
   ],
   "AgendaLastPublished": "2023-10-30T21:02:18.703Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-10-30T21:02:18.733Z"
+  "MinutesLastPublished": "2023-11-02T14:04:05.42Z",
+  "LastModified": "2023-11-02T14:04:05.487Z"
 }
