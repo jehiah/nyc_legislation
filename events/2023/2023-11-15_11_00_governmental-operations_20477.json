@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/11/20477_A_Committee_on_Governmental_Operations_23-11-15_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/11/20477_M_Committee_on_Governmental_Operations_23-11-15_Meeting_Minutes.pdf",
   "Comment": "VOTE",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_231115-111224.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20477&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,19 +21,127 @@
       "GUID": "359F9F71-6451-454C-AF8E-D67A5B973BB6",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to classifying credit card processing fees and bank fees as exempt expenditures",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 348-A",
       "MinutesNote": "Proposed Int. No. 348-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 69058,
       "MatterFile": "Int 0348-2022",
       "MatterName": "Classifying credit card processing fees and bank fees as exempt expenditures.",
       "MatterType": "Introduction",
-      "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2023-11-08T18:54:08.863Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-11-15T16:47:07.78Z"
+    },
+    {
+      "ID": 399614,
+      "GUID": "CFC9E9DA-B18D-4308-BC3B-BBFF7922A95F",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 100
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        }
+      ],
+      "LastModified": "2023-11-15T16:46:54.15Z"
+    },
+    {
+      "ID": 399615,
+      "GUID": "7B7E32AE-8774-43F5-BEBB-05C140F62B76",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to classifying credit card processing fees and bank fees as exempt expenditures",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 69058,
+      "MatterFile": "Int 0348-2022",
+      "MatterName": "Classifying credit card processing fees and bank fees as exempt expenditures.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-11-15T16:47:15.873Z"
+    },
+    {
+      "ID": 399616,
+      "GUID": "9E2BF2CC-AC14-4198-A758-4D8D4497F439",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to classifying credit card processing fees and bank fees as exempt expenditures",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 69058,
+      "MatterFile": "Int 0348-2022",
+      "MatterName": "Classifying credit card processing fees and bank fees as exempt expenditures.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-11-15T16:47:22.16Z"
+    },
+    {
+      "ID": 399617,
+      "GUID": "CDC1722E-24C4-4E3C-B4F4-67B10B3247ED",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to classifying credit card processing fees and bank fees as exempt expenditures",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "This Introduction was Approved by Committee",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 69058,
+      "MatterFile": "Int 0348-2022",
+      "MatterName": "Classifying credit card processing fees and bank fees as exempt expenditures.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-11-15T16:48:37.663Z"
     }
   ],
   "AgendaLastPublished": "2023-11-08T18:54:15.037Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-11-08T18:54:15.13Z"
+  "MinutesLastPublished": "2023-11-15T17:08:16.723Z",
+  "LastModified": "2023-11-15T17:08:16.847Z"
 }
