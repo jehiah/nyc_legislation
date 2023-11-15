@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/11/20501_A_City_Council_23-11-15_Council_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/11/20501_M_City_Council_23-11-15_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_231115-144018.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20501&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -22,7 +24,418 @@
       "AgendaNumber": "1.",
       "Version": "",
       "AgendaNote": "ROLL CALL",
-      "LastModified": "2023-11-15T16:55:46.213Z"
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7739,
+          "Slug": "adrienne-e-adams",
+          "FullName": "Adrienne E. Adams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 1
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 5288,
+          "Slug": "charles-barron",
+          "FullName": "Charles Barron",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7264,
+          "Slug": "joseph-c-borelli",
+          "FullName": "Joseph C. Borelli",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 160
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 200
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 220
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 240
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 260
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 280
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 300
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 320
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 340
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 380
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 400
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 420
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 440
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 460
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 480
+        },
+        {
+          "ID": 7805,
+          "Slug": "kristin-richardson-jordan",
+          "FullName": "Kristin Richardson Jordan",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 500
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 520
+        },
+        {
+          "ID": 7830,
+          "Slug": "ari-kagan",
+          "FullName": "Ari Kagan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 540
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 560
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 580
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 600
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 620
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 640
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 660
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 680
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 700
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 720
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 740
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 760
+        },
+        {
+          "ID": 7741,
+          "Slug": "keith-powers",
+          "FullName": "Keith Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 780
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 800
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 820
+        },
+        {
+          "ID": 7740,
+          "Slug": "carlina-rivera",
+          "FullName": "Carlina Rivera",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 840
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 860
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 880
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 900
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 920
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 940
+        },
+        {
+          "ID": 7807,
+          "Slug": "marjorie-velazquez",
+          "FullName": "Marjorie Velázquez",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 960
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 980
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 1000
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 1020
+        },
+        {
+          "ID": 7749,
+          "Slug": "kalman-yeger",
+          "FullName": "Kalman Yeger",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 1040
+        }
+      ],
+      "LastModified": "2023-11-15T23:23:23.727Z"
     },
     {
       "ID": 399454,
@@ -33,7 +446,8 @@
       "AgendaNumber": "2.",
       "Version": "",
       "AgendaNote": "INVOCATION - Delivered Bishop Victor Brown, Mt. Sinai United Christian Church, located at 16 Pike Street, Staten Island, NY 10301.\r\n\r\nMotion to spread the Invocation in full upon the record by Council Member Hanks.",
-      "LastModified": "2023-11-15T16:55:46.217Z"
+      "MinutesNote": "The Invocation was delivered by Bishop Victor Brown, Mt. Sinai United Christian Church located at 16 Pike Street, Staten Island, N.Y. 10301.\r\n\r\nCouncil Member Hanks moved to spread the Invocation in full upon the Record.\r\n\r\n\r\n",
+      "LastModified": "2023-11-15T21:13:22.767Z"
     },
     {
       "ID": 399455,
@@ -44,8 +458,8 @@
       "AgendaNumber": "3.",
       "Version": "",
       "AgendaNote": "ADOPTION OF MINUTES - None",
-      "MinutesNote": "None.",
-      "LastModified": "2023-11-15T16:55:46.217Z"
+      "MinutesNote": "None",
+      "LastModified": "2023-11-15T21:08:47.943Z"
     },
     {
       "ID": 399456,
@@ -56,7 +470,8 @@
       "AgendaNumber": "4.",
       "Version": "",
       "AgendaNote": "MESSAGES & PAPERS FROM THE MAYOR - None",
-      "LastModified": "2023-11-15T16:55:46.217Z"
+      "MinutesNote": "None",
+      "LastModified": "2023-11-15T21:08:44.71Z"
     },
     {
       "ID": 399457,
@@ -67,8 +482,8 @@
       "AgendaNumber": "5.",
       "Version": "",
       "AgendaNote": "COMMUNICATIONS FROM CITY, COUNTY & BOROUGH OFFICES - None",
-      "MinutesNote": "None.",
-      "LastModified": "2023-11-15T16:55:46.22Z"
+      "MinutesNote": "None",
+      "LastModified": "2023-11-15T21:08:53.04Z"
     },
     {
       "ID": 399458,
@@ -79,7 +494,8 @@
       "AgendaNumber": "6.",
       "Version": "",
       "AgendaNote": "PETITIONS AND COMMUNICATIONS - None",
-      "LastModified": "2023-11-15T16:55:46.22Z"
+      "MinutesNote": "None",
+      "LastModified": "2023-11-15T21:08:57.78Z"
     },
     {
       "ID": 399459,
@@ -90,7 +506,8 @@
       "AgendaNumber": "7.",
       "Version": "",
       "AgendaNote": "LAND USE CALL-UPS – None",
-      "LastModified": "2023-11-15T16:55:46.22Z"
+      "MinutesNote": "None",
+      "LastModified": "2023-11-15T21:09:06.64Z"
     },
     {
       "ID": 399460,
@@ -101,7 +518,7 @@
       "AgendaNumber": "8.",
       "Version": "",
       "AgendaNote": "COMMUNICATION FROM THE SPEAKER",
-      "LastModified": "2023-11-15T16:55:46.22Z"
+      "LastModified": "2023-11-15T21:09:08.54Z"
     },
     {
       "ID": 399461,
@@ -112,7 +529,7 @@
       "AgendaNumber": "9.",
       "Version": "",
       "AgendaNote": "DISCUSSION OF GENERAL ORDERS",
-      "LastModified": "2023-11-15T16:55:46.22Z"
+      "LastModified": "2023-11-15T21:09:10.283Z"
     },
     {
       "ID": 399462,
@@ -123,7 +540,8 @@
       "AgendaNumber": "10.",
       "Version": "",
       "AgendaNote": "REPORTS OF SPECIAL COMMITTEES - None",
-      "LastModified": "2023-11-15T16:55:46.223Z"
+      "MinutesNote": "None",
+      "LastModified": "2023-11-15T21:09:15.597Z"
     },
     {
       "ID": 399463,
@@ -154,12 +572,18 @@
       "MinutesSequence": 15,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 69694,
       "MatterFile": "Int 0564-2022",
       "MatterName": "Establishing a commission on lesbian, gay, bisexual, transgender, queer, intersex, asexual, or any other diverse sexual orientation or gender identity older adults within the department for the aging.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-11-15T16:55:46.23Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-11-15T20:49:40.923Z"
     },
     {
       "ID": 399466,
@@ -179,27 +603,39 @@
       "MinutesSequence": 17,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 69344,
       "MatterFile": "Int 0511-2022",
       "MatterName": "Study, report and rulemaking regarding procurement process time schedules.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-11-15T16:55:46.23Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-11-15T21:09:29Z"
     },
     {
       "ID": 399469,
       "GUID": "EB95617E-AF89-42D2-8C49-9EECC2B1179E",
       "Title": "Resolution designating November 15 annually as Ol’ Dirty Bastard Day in the City of New York and honoring his legacy as a founder of the legendary Wu-Tang Clan and as a unique MC.",
       "AgendaSequence": 54,
-      "MinutesSequence": 60,
+      "MinutesSequence": 61,
       "Version": "A",
       "AgendaNote": "Amended and Adopted by the Committee on Cultural Affairs, Libraries and International Intergroup Relations",
+      "MinutesNote": "Pursuant to Rule 8.50 of the Council, Majority Leader and Acting President Pro Tempore (Council Member Powers) called for a voice vote.  Hearing those in favor, the Majority Leader and Acting President Pro Tempore (Council Member Powers) declared the Resolution to be adopted.\r\n\r\nThe following 5 Council Members formally noted their intent to vote negative on this item:  \r\nCouncil Members Ariola, Gennaro, Holden, Kagan, and Vernikov.\r\n\r\nThe following Council Member formally noted his intent to abstain on this item:  \r\nCouncil Member Yeger.\r\n\r\nAdopted by the Council by voice-vote.\r\n",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by voice vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 71171,
       "MatterFile": "Res 0621-2023",
       "MatterName": "Designating November 15 annually as Ol’ Dirty Bastard Day in the City of New York and honoring his legacy as a founder of the legendary Wu-Tang Clan and as a unique MC.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-11-15T16:55:46.267Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-11-15T21:11:09.443Z"
     },
     {
       "ID": 399470,
@@ -219,12 +655,18 @@
       "MinutesSequence": 19,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71142,
       "MatterFile": "Int 1012-2023",
       "MatterName": "Industrial development strategic plan.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-11-15T16:55:46.233Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-11-15T21:09:32.233Z"
     },
     {
       "ID": 399474,
@@ -244,12 +686,18 @@
       "MinutesSequence": 21,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71508,
       "MatterFile": "Int 1070-2023",
       "MatterName": "A biotechnology credit against the general corporation tax, the unincorporated business tax, and the corporate tax of 2015.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-11-15T16:55:46.233Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-11-15T21:09:35.95Z"
     },
     {
       "ID": 399476,
@@ -259,12 +707,17 @@
       "MinutesSequence": 22,
       "Version": "*",
       "AgendaNote": "Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 71971,
       "MatterFile": "Int 1209-2023",
       "MatterName": "Westchester Square business improvement district.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-11-15T16:55:46.233Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-11-15T23:24:28.56Z"
     },
     {
       "ID": 399477,
@@ -274,12 +727,17 @@
       "MinutesSequence": 23,
       "Version": "*",
       "AgendaNote": "Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 71986,
       "MatterFile": "Int 1210-2023",
       "MatterName": "Authorizing an increase in the amount to be expended annually in four business improvement districts.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-11-15T16:55:46.237Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-11-15T23:24:37.18Z"
     },
     {
       "ID": 399478,
@@ -289,12 +747,18 @@
       "MinutesSequence": 25,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 72100,
       "MatterFile": "Res 0845-2023",
       "MatterName": "LU 286 - Parkview Apartments, Block 2940, Lots 1, 6, and 72, Bronx, Community District 3, Council District No. 17.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-11-15T16:55:46.237Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-11-15T21:09:54.56Z"
     },
     {
       "ID": 399479,
@@ -304,12 +768,18 @@
       "MinutesSequence": 27,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 72102,
       "MatterFile": "Res 0846-2023",
       "MatterName": "LU 287 - WHGA Dunbar HDFC.HPO.FY24, Block 2035, Lot 1, Manhattan, Community District 10, Council District No. 9.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-11-15T16:55:46.24Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-11-15T21:09:59.44Z"
     },
     {
       "ID": 399480,
@@ -329,12 +799,18 @@
       "MinutesSequence": 29,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 69058,
       "MatterFile": "Int 0348-2022",
       "MatterName": "Classifying credit card processing fees and bank fees as exempt expenditures.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-11-15T16:55:46.24Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-11-15T21:10:01.213Z"
     },
     {
       "ID": 399482,
@@ -354,12 +830,18 @@
       "MinutesSequence": 31,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71137,
       "MatterFile": "Int 1031-2023",
       "MatterName": "A fair housing plan, and to repeal local law number 133 for the year 2018, relating to affordable housing plans.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-11-15T16:55:46.24Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-11-15T21:10:03.627Z"
     },
     {
       "ID": 399484,
@@ -379,12 +861,17 @@
       "MinutesSequence": 33,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 68870,
       "MatterFile": "Int 0708-2022",
       "MatterName": "Redesigning the city truck route network.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2023-11-15T16:55:46.243Z"
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
+      "LastModified": "2023-11-15T23:25:08.857Z"
     },
     {
       "ID": 399493,
@@ -431,7 +918,7 @@
       "MatterFile": "Int 0564-2022",
       "MatterName": "Establishing a commission on lesbian, gay, bisexual, transgender, queer, intersex, asexual, or any other diverse sexual orientation or gender identity older adults within the department for the aging.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
       "LastModified": "2023-11-15T16:55:46.247Z"
     },
     {
@@ -458,7 +945,7 @@
       "MatterFile": "Int 0511-2022",
       "MatterName": "Study, report and rulemaking regarding procurement process time schedules.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
       "LastModified": "2023-11-15T16:55:46.247Z"
     },
     {
@@ -485,7 +972,7 @@
       "MatterFile": "Int 1012-2023",
       "MatterName": "Industrial development strategic plan.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
       "LastModified": "2023-11-15T16:55:46.25Z"
     },
     {
@@ -512,7 +999,7 @@
       "MatterFile": "Int 1070-2023",
       "MatterName": "A biotechnology credit against the general corporation tax, the unincorporated business tax, and the corporate tax of 2015.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
       "LastModified": "2023-11-15T16:55:46.25Z"
     },
     {
@@ -528,7 +1015,7 @@
       "MatterFile": "Int 1209-2023",
       "MatterName": "Westchester Square business improvement district.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
       "LastModified": "2023-11-15T16:55:46.253Z"
     },
     {
@@ -544,7 +1031,7 @@
       "MatterFile": "Int 1210-2023",
       "MatterName": "Authorizing an increase in the amount to be expended annually in four business improvement districts.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
       "LastModified": "2023-11-15T16:55:46.253Z"
     },
     {
@@ -560,7 +1047,7 @@
       "MatterFile": "Res 0845-2023",
       "MatterName": "LU 286 - Parkview Apartments, Block 2940, Lots 1, 6, and 72, Bronx, Community District 3, Council District No. 17.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-11-15T16:55:46.253Z"
     },
     {
@@ -576,7 +1063,7 @@
       "MatterFile": "Res 0846-2023",
       "MatterName": "LU 287 - WHGA Dunbar HDFC.HPO.FY24, Block 2035, Lot 1, Manhattan, Community District 10, Council District No. 9.",
       "MatterType": "Resolution",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-11-15T16:55:46.257Z"
     },
     {
@@ -603,7 +1090,7 @@
       "MatterFile": "Int 0348-2022",
       "MatterName": "Classifying credit card processing fees and bank fees as exempt expenditures.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
       "LastModified": "2023-11-15T16:55:46.257Z"
     },
     {
@@ -630,7 +1117,7 @@
       "MatterFile": "Int 1031-2023",
       "MatterName": "A fair housing plan, and to repeal local law number 133 for the year 2018, relating to affordable housing plans.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
       "LastModified": "2023-11-15T16:55:46.26Z"
     },
     {
@@ -657,7 +1144,7 @@
       "MatterFile": "Int 0708-2022",
       "MatterName": "Redesigning the city truck route network.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Enacted (Mayor's Desk for Signature)",
       "LastModified": "2023-11-15T16:55:46.26Z"
     },
     {
@@ -676,7 +1163,7 @@
       "GUID": "70B48710-E4BA-4292-845C-F475EF912278",
       "Title": "Introduction & Reading of Bills\r\nSee Attached",
       "AgendaSequence": 51,
-      "MinutesSequence": 57,
+      "MinutesSequence": 58,
       "AgendaNumber": "13.",
       "Version": "",
       "AgendaNote": "INTRODUCTION & READING OF BILLS (SEE BELOW)",
@@ -687,7 +1174,7 @@
       "GUID": "6504C5C1-DD72-4A79-8CA8-3280C782D2A4",
       "Title": "Discussion of Resolutions",
       "AgendaSequence": 52,
-      "MinutesSequence": 58,
+      "MinutesSequence": 59,
       "AgendaNumber": "14.",
       "Version": "",
       "AgendaNote": "DISCUSSION OF RESOLUTIONS",
@@ -698,7 +1185,7 @@
       "GUID": "69B44C07-0225-431B-84B7-8E770FB20C85",
       "Title": "Resolutions",
       "AgendaSequence": 53,
-      "MinutesSequence": 59,
+      "MinutesSequence": 60,
       "AgendaNumber": "15.",
       "Version": "",
       "AgendaNote": "RESOLUTIONS",
@@ -709,7 +1196,7 @@
       "GUID": "0675AF1A-801A-4A8B-A3F3-8C5B604FF8E9",
       "Title": "General Discussion",
       "AgendaSequence": 55,
-      "MinutesSequence": 61,
+      "MinutesSequence": 62,
       "AgendaNumber": "16.",
       "Version": "",
       "AgendaNote": "GENERAL DISCUSSION",
@@ -720,18 +1207,19 @@
       "GUID": "6404C21D-50B3-4BBE-B944-46019DF28217",
       "Title": "Extension of Remarks",
       "AgendaSequence": 56,
-      "MinutesSequence": 62,
+      "MinutesSequence": 63,
       "AgendaNumber": "17.",
       "Version": "",
       "AgendaNote": "EXTENSION OF REMARKS",
-      "LastModified": "2023-11-15T16:55:46.27Z"
+      "MinutesNote": "None.",
+      "LastModified": "2023-11-15T20:57:04.67Z"
     },
     {
       "ID": 399524,
       "GUID": "3CFC6CD9-3702-4D2E-AADF-5FC545D9697E",
       "Title": "INTRODUCTION AND READING OF BILLS",
       "AgendaSequence": 57,
-      "MinutesSequence": 63,
+      "MinutesSequence": 64,
       "Version": "",
       "AgendaNote": "INTRODUCTION AND READING OF BILLS",
       "LastModified": "2023-11-15T16:55:46.27Z"
@@ -741,7 +1229,7 @@
       "GUID": "3F7FCA39-F505-43A4-8789-125CE5981AC9",
       "Title": "Resolution calling on Congress to pass, and the President to sign, a renewed Farm Bill that increases funding for life-saving food aid.",
       "AgendaSequence": 58,
-      "MinutesSequence": 64,
+      "MinutesSequence": 65,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "General Welfare",
@@ -760,7 +1248,7 @@
       "GUID": "415A889B-8D57-4506-808C-6DA284EB1A7F",
       "Title": "A Local Law to amend the New York city charter, in relation to establishing an office of organ transplant equity within the department of health and mental hygiene",
       "AgendaSequence": 59,
-      "MinutesSequence": 65,
+      "MinutesSequence": 66,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Health",
@@ -779,7 +1267,7 @@
       "GUID": "8586E7A1-C353-40B9-8C7A-50617BA8C677",
       "Title": "Parkview Apartments, Block 2940, Lots 1, 6, and 72, Bronx, Community District 3, Council District No. 17.",
       "AgendaSequence": 60,
-      "MinutesSequence": 66,
+      "MinutesSequence": 67,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Finance",
@@ -790,7 +1278,7 @@
       "MatterFile": "LU 0286-2023",
       "MatterName": "Parkview Apartments, Block 2940, Lots 1, 6, and 72, Bronx, Community District 3, Council District No. 17.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-11-15T16:55:46.273Z"
     },
     {
@@ -798,7 +1286,7 @@
       "GUID": "A1208EDA-11B0-418A-9B1A-A40940328B68",
       "Title": "WHGA Dunbar HDFC.HPO.FY24, Block 2035, Lot 1, Manhattan, Community District 10, Council District No. 9.",
       "AgendaSequence": 61,
-      "MinutesSequence": 67,
+      "MinutesSequence": 68,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Finance",
@@ -809,7 +1297,7 @@
       "MatterFile": "LU 0287-2023",
       "MatterName": "WHGA Dunbar HDFC.HPO.FY24, Block 2035, Lot 1, Manhattan, Community District 10, Council District No. 9.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Adopted",
       "LastModified": "2023-11-15T16:55:46.273Z"
     },
     {
@@ -819,12 +1307,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 24,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 72099,
       "MatterFile": "LU 0286-2023",
       "MatterName": "Parkview Apartments, Block 2940, Lots 1, 6, and 72, Bronx, Community District 3, Council District No. 17.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-11-15T16:55:46.237Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-11-15T21:09:53.14Z"
     },
     {
       "ID": 399583,
@@ -833,12 +1327,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 26,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 72101,
       "MatterFile": "LU 0287-2023",
       "MatterName": "WHGA Dunbar HDFC.HPO.FY24, Block 2035, Lot 1, Manhattan, Community District 10, Council District No. 9.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-11-15T16:55:46.237Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2023-11-15T21:09:56.127Z"
     },
     {
       "ID": 399618,
@@ -848,7 +1348,7 @@
       "MinutesSequence": 1,
       "Version": "",
       "MinutesNote": "The Majority Leader (Council Member Powers) presiding as the President Pro Tempore.",
-      "LastModified": "2023-11-15T16:55:46.213Z"
+      "LastModified": "2023-11-15T23:25:38.25Z"
     },
     {
       "ID": 399619,
@@ -857,15 +1357,15 @@
       "AgendaSequence": 0,
       "MinutesSequence": 3,
       "Version": "",
-      "MinutesNote": "The presence of a quorum was announced by the Majority Leader and Acting President Pro Tempore (Council Member Powers).\r\n\r\nThere were XX Council Members marked present at this Stated Meeting.",
-      "LastModified": "2023-11-15T16:55:46.213Z"
+      "MinutesNote": "The presence of a quorum was announced by the Majority Leader and Acting President Pro Tempore (Council Member Powers).\r\n\r\nThere were 45 Council Members marked present at this Stated Meeting.",
+      "LastModified": "2023-11-15T20:57:50.91Z"
     },
     {
       "ID": 399620,
       "GUID": "8413259B-C00B-4DAD-A30B-81746FE756B5",
       "Title": "",
       "AgendaSequence": 0,
-      "MinutesSequence": 68,
+      "MinutesSequence": 69,
       "Version": "",
       "MinutesNote": "At this point the Speaker (Council Member Adams) made the following announcements:",
       "LastModified": "2023-11-15T16:55:46.273Z"
@@ -875,10 +1375,10 @@
       "GUID": "480D3153-3C90-4EF3-8B34-906101C696E4",
       "Title": "",
       "AgendaSequence": 0,
-      "MinutesSequence": 69,
+      "MinutesSequence": 70,
       "Version": "",
-      "MinutesNote": "Whereupon on motion of the Speaker (Council Member Adams), the Majority Leader and Acting President Pro Tempore (Council Member Powers) adjourned these proceedings to meet again for the Stated Meeting of Thursday, December 7, 2023.\r\n\r\n\r\n\r\n\r\nMICHAEL McSWEENEY, City Clerk\r\n\r\nClerk of the Council",
-      "LastModified": "2023-11-15T16:55:46.273Z"
+      "MinutesNote": "Whereupon on motion of the Speaker (Council Member Adams), the Majority Leader and Acting President Pro Tempore (Council Member Powers) adjourned these proceedings to meet again for the Stated Meeting of Wednesday, December 6, 2023.\r\n\r\nMICHAEL McSWEENEY, City Clerk\r\nClerk of the Council",
+      "LastModified": "2023-11-15T21:11:36.81Z"
     },
     {
       "ID": 399622,
@@ -888,20 +1388,33 @@
       "MinutesSequence": 55,
       "Version": "",
       "MinutesNote": "The Majority Leader and Acting President Pro Tempore (Council Member Powers) put the question whether the Council would agree with and adopt such reports, which were decided in the affirmative by the following vote:",
-      "LastModified": "2023-11-15T16:55:46.263Z"
+      "LastModified": "2023-11-15T20:57:28.033Z"
     },
     {
       "ID": 399623,
       "GUID": "7E21FDCB-CEFD-4BB6-8F07-943B47001134",
       "Title": "",
       "AgendaSequence": 0,
+      "MinutesSequence": 57,
+      "Version": "",
+      "MinutesNote": "The following files were removed from the General Orders Calendar and voted separately:\r\n\r\nInt. No. 708-A,  VOTE: 44-1-0 \r\nNegative: CM Yeger.\r\n\r\nInt. No. 1209,  VOTE 44-1-0\r\nNegative: CM Yeger.\r\n\r\nInt. No. 1210,  VOTE; 44-1-0\r\nNegative: CM Yeger.\r\n\r\nSee files for individual votes.",
+      "LastModified": "2023-11-15T21:10:42.263Z"
+    },
+    {
+      "ID": 399637,
+      "GUID": "31F5AAEB-D42A-4E52-9785-16249D675EF9",
+      "Title": "Passed The Consent Agenda",
+      "AgendaSequence": 0,
       "MinutesSequence": 56,
       "Version": "",
-      "MinutesNote": "The following files were removed from the General Order Calendar and voted separately:\r\n\r\nSee files for individual votes.",
-      "LastModified": "2023-11-15T16:55:46.263Z"
+      "ActionText": "A motion was made that these files be approved by consent vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
+      "LastModified": "2023-11-15T20:57:30.68Z"
     }
   ],
   "AgendaLastPublished": "2023-11-15T17:04:11.183Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-11-15T17:04:11.34Z"
+  "MinutesLastPublished": "2023-11-15T23:25:44.11Z",
+  "LastModified": "2023-11-15T23:25:44.173Z"
 }
