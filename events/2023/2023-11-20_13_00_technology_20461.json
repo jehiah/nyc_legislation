@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/11/20461_A_Committee_on_Technology_23-11-20_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/11/20461_M_Committee_on_Technology_23-11-20_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Public Safety and the Committee on Governmental Operations",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20461&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,40 +20,150 @@
       "GUID": "2FAD4C00-6BE8-4A57-915A-893335CF8ED3",
       "Title": "Jointly with the Committee on Public Safety and the Committee on Governmental Operations",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "",
-      "LastModified": "2023-11-01T19:50:42.17Z"
+      "LastModified": "2023-11-20T22:09:16Z"
     },
     {
       "ID": 399292,
       "GUID": "E7046D3A-E34D-4D31-881A-0C634154213D",
       "Title": "A Local Law to amend the New York city charter and the administrative code of the city of New York, in relation to creating an archive of official government social media accounts",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 70668,
       "MatterFile": "Int 0961-2023",
       "MatterName": "Creating an archive of official government social media accounts.",
       "MatterType": "Introduction",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-11-01T19:47:27.457Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-11-20T22:09:34.207Z"
     },
     {
       "ID": 399295,
       "GUID": "44871F01-F8D4-4CDC-B6D4-91F398E84AB7",
       "Title": "Oversight - Media Transparency: NYPD Radio Encryption, Press Credentials Process, and Government Social Media Archiving.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 72111,
       "MatterFile": "T2023-4260",
       "MatterName": "Oversight - Media Transparency: NYPD Radio Encryption, Press Credentials Process, and Government Social Media Archiving.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-11-13T16:53:36.207Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-11-20T22:09:22.67Z"
+    },
+    {
+      "ID": 399752,
+      "GUID": "CD5B0374-B50F-4C97-893E-4276F3EB8B5B",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7830,
+          "Slug": "ari-kagan",
+          "FullName": "Ari Kagan",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 50
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 100
+        }
+      ],
+      "LastModified": "2023-11-20T22:09:06.363Z"
+    },
+    {
+      "ID": 399753,
+      "GUID": "2F37E90D-E2C9-4EF7-A321-93545AD0D9B1",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Ung, Hanks, Restler, Hanif, Ariola, Stevens, Joseph, Schulman, Brewer, Mealy, Bottcher, De La Rosa and the Public Advocate (Mr. Williams)",
+      "LastModified": "2023-11-20T22:14:04.463Z"
+    },
+    {
+      "ID": 399754,
+      "GUID": "650818A0-144A-4B23-85BE-9B49FC179EF0",
+      "Title": "Oversight - Media Transparency: NYPD Radio Encryption, Press Credentials Process, and Government Social Media Archiving.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 72111,
+      "MatterFile": "T2023-4260",
+      "MatterName": "Oversight - Media Transparency: NYPD Radio Encryption, Press Credentials Process, and Government Social Media Archiving.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2023-11-20T22:09:27.637Z"
+    },
+    {
+      "ID": 399755,
+      "GUID": "920356A4-55C6-4D39-B7DB-9CE25BF3D5B0",
+      "Title": "A Local Law to amend the New York city charter and the administrative code of the city of New York, in relation to creating an archive of official government social media accounts",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 70668,
+      "MatterFile": "Int 0961-2023",
+      "MatterName": "Creating an archive of official government social media accounts.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-11-20T22:09:48.403Z"
     }
   ],
   "AgendaLastPublished": "2023-11-13T16:53:43.913Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-11-13T16:53:44.053Z"
+  "MinutesLastPublished": "2023-11-20T22:10:53.9Z",
+  "LastModified": "2023-11-20T22:10:53.947Z"
 }
