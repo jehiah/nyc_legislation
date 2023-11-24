@@ -40,7 +40,7 @@ for YEAR in ${RECENT_YEARS[*]}; do
 done
 
 echo "building people_active.json"
-jq -c -s "map(select(.IsActive) | select(.End | fromdateiso8601 > now) | del(.FirstName,.LastName,.GUID)) | map(.OfficeRecords = ([.OfficeRecords[]? | del(.GUID, .FullName, .PersonID, .LastModified) ]))" people/*.json > build/people_active.json
+jq -c -s "map(select(.IsActive) | select(.End | fromdateiso8601 > now) | select(.Start | fromdateiso8601 < now) | del(.FirstName,.LastName,.GUID)) | map(.OfficeRecords = ([.OfficeRecords[]? | del(.GUID, .FullName, .PersonID, .LastModified) ]))" people/*.json > build/people_active.json
 
 echo "building people_all.json"
 jq -c -s "map(del(.FirstName,.LastName,.GUID)) | map(.OfficeRecords = ([.OfficeRecords[]? | del(.GUID, .FullName, .PersonID, .LastModified) ]))" people/*.json > build/people_all.json
