@@ -16,6 +16,7 @@ type PersonMetadata struct {
 	Twitter, TwitterPersonal     string
 	Facebook, FacebookPersonal   string
 	Instagram, InstagramPersonal string
+	Threads                      string
 }
 
 func main() {
