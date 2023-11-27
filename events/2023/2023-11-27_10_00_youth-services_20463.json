@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/11/20463_A_Committee_on_Youth_Services_23-11-27_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/11/20463_M_Committee_on_Youth_Services_23-11-27_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Mental Health, Disabilities and Addiction.",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20463&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,26 +20,108 @@
       "GUID": "87041EED-8A07-417C-A8E0-FA6414EF29D4",
       "Title": "Jointly with the Committee on Mental Health, Disabilities and Addiction",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "",
-      "LastModified": "2023-11-02T19:41:25.793Z"
+      "LastModified": "2023-11-27T20:05:37.27Z"
     },
     {
       "ID": 399363,
       "GUID": "B456427B-8FD6-412A-87D8-DC8401DE64D6",
       "Title": "Oversight - After School Program Support for Youth with Disabilities.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 72118,
       "MatterFile": "T2023-4267",
       "MatterName": "Oversight - After School Program Support for Youth with Disabilities.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-11-22T21:07:02.973Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-11-27T20:05:47.483Z"
+    },
+    {
+      "ID": 399794,
+      "GUID": "C4FC0815-3E7A-43F4-A845-AB42DA4BF566",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7805,
+          "Slug": "kristin-richardson-jordan",
+          "FullName": "Kristin Richardson Jordan",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 80
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        }
+      ],
+      "LastModified": "2023-11-27T20:03:40.643Z"
+    },
+    {
+      "ID": 399798,
+      "GUID": "E8B5CB5D-4623-47CB-A432-573853489BA7",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Cabán, Bottcher, Abreu and Williams ",
+      "LastModified": "2023-11-27T20:05:05.847Z"
+    },
+    {
+      "ID": 399799,
+      "GUID": "4A10EC8C-7938-47F1-9BFE-30AC4FC23BBF",
+      "Title": "Oversight - After School Program Support for Youth with Disabilities.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 72118,
+      "MatterFile": "T2023-4267",
+      "MatterName": "Oversight - After School Program Support for Youth with Disabilities.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2023-11-27T20:05:59.603Z"
     }
   ],
   "AgendaLastPublished": "2023-11-22T21:07:10.247Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-11-22T21:07:10.277Z"
+  "MinutesLastPublished": "2023-11-27T20:06:05.63Z",
+  "LastModified": "2023-11-27T20:06:05.763Z"
 }
