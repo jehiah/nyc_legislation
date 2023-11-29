@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/11/20449_A_Committee_on_Immigration_23-11-29_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/11/20449_M_Committee_on_Immigration_23-11-29_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Education.",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_231129-101415.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20449&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,26 +21,124 @@
       "GUID": "33507256-27C4-468A-90A0-A532A9E91E88",
       "Title": "Jointly with the Committee on Education",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "",
-      "LastModified": "2023-11-01T15:10:35.047Z"
+      "LastModified": "2023-11-29T21:02:18.717Z"
     },
     {
       "ID": 399279,
       "GUID": "FD6B597C-0E68-4D2B-8C26-D5D369429E49",
       "Title": "Oversight - Immigrant Students in New York City Public Schools.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 72106,
       "MatterFile": "T2023-4255",
       "MatterName": "Oversight - Immigrant Students in New York City Public Schools.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-11-01T15:11:02.25Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-11-29T21:02:32.28Z"
+    },
+    {
+      "ID": 399846,
+      "GUID": "F033473C-E8E1-4119-AB25-C97ACE563C35",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2023-11-29T21:02:14.72Z"
+    },
+    {
+      "ID": 399847,
+      "GUID": "A66BDD45-9468-4FEC-89AB-C489C8A0C946",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Menin, Dinowitz, Schulman, Narcisse, Brewer, Stevens, Louis, Avilés, Hanks, Lee, Gutiérrez, Rivera, Restler, Feliz ",
+      "LastModified": "2023-11-29T21:02:00.947Z"
+    },
+    {
+      "ID": 399848,
+      "GUID": "E22D93A2-4D34-498B-A109-E35D1B8F159C",
+      "Title": "Oversight - Immigrant Students in New York City Public Schools.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 72106,
+      "MatterFile": "T2023-4255",
+      "MatterName": "Oversight - Immigrant Students in New York City Public Schools.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2023-11-29T21:02:23.733Z"
     }
   ],
   "AgendaLastPublished": "2023-11-01T15:11:07.223Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-11-29T15:14:16.767Z"
+  "MinutesLastPublished": "2023-11-29T21:02:37.727Z",
+  "LastModified": "2023-11-29T21:02:37.957Z"
 }
