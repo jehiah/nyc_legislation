@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/11/20445_A_Committee_on_Public_Housing_23-11-30_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/11/20445_M_Committee_on_Public_Housing_23-11-30_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Aging.",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_231130-131539.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20445&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
@@ -20,26 +21,148 @@
       "GUID": "6571EAFC-C5B8-4984-9981-2E848B11EEFE",
       "Title": "Jointly with the Committee on Aging",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "",
-      "LastModified": "2023-11-08T17:54:57.08Z"
+      "LastModified": "2023-12-01T02:01:08.99Z"
     },
     {
       "ID": 399409,
       "GUID": "2B3B677E-F335-426D-B6D3-4511670CFFED",
       "Title": "Oversight - Doors, Locks and Lights: the Infrastructure of Resident Safety at NYCHA. ",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 72126,
       "MatterFile": "T2023-4275",
       "MatterName": "Oversight - Doors, Locks and Lights: the Infrastructure of Resident Safety at NYCHA.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-11-29T21:55:19.467Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-12-01T02:02:28.623Z"
+    },
+    {
+      "ID": 399895,
+      "GUID": "46B2E804-5512-453A-9FF4-754D8E76BE94",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 5288,
+          "Slug": "charles-barron",
+          "FullName": "Charles Barron",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 160
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 200
+        }
+      ],
+      "LastModified": "2023-12-01T02:01:51.637Z"
+    },
+    {
+      "ID": 399896,
+      "GUID": "4025B57C-100B-4C63-BE92-02E6A2C1B642",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Hudson, Dinowitz, Lee, Marte and Schulman",
+      "LastModified": "2023-12-01T02:02:25.023Z"
+    },
+    {
+      "ID": 399897,
+      "GUID": "41D50F73-5DC8-469D-8631-595D200167FB",
+      "Title": "Oversight - Doors, Locks and Lights: the Infrastructure of Resident Safety at NYCHA. ",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 72126,
+      "MatterFile": "T2023-4275",
+      "MatterName": "Oversight - Doors, Locks and Lights: the Infrastructure of Resident Safety at NYCHA.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2023-12-01T02:02:33.717Z"
     }
   ],
   "AgendaLastPublished": "2023-11-08T17:56:23.15Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-11-30T21:19:55.447Z"
+  "MinutesLastPublished": "2023-12-01T02:02:38.653Z",
+  "LastModified": "2023-12-01T02:02:38.667Z"
 }
