@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/12/20447_A_Committee_on_Technology_23-12-04_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/12/20447_M_Committee_on_Technology_23-12-04_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Women and Gender Equity",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_231204-101033.mp4",
   "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_231204-101033.mp4",
@@ -21,26 +22,116 @@
       "GUID": "4654A12B-E01F-493D-8B2D-736E5350B6FF",
       "Title": "Jointly with the Committee on Women and Gender Equity",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "",
-      "LastModified": "2023-10-30T16:12:33.673Z"
+      "LastModified": "2023-12-04T18:26:46.71Z"
     },
     {
       "ID": 399150,
       "GUID": "28D0A035-D31D-4381-A50A-2FCFC1364E2D",
       "Title": "Oversight - Online harassment against women, girls, and gender expansive people.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 72089,
       "MatterFile": "T2023-4238",
       "MatterName": "Oversight - Online harassment against women, girls, and gender expansive people.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-10-30T16:13:01.263Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-12-04T18:29:26.273Z"
+    },
+    {
+      "ID": 400109,
+      "GUID": "6F6AAACF-4280-4B2D-8545-A5723B21DEF8",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7830,
+          "Slug": "ari-kagan",
+          "FullName": "Ari Kagan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 80
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 100
+        }
+      ],
+      "LastModified": "2023-12-04T18:27:17.687Z"
+    },
+    {
+      "ID": 400110,
+      "GUID": "D1FA2789-A4FB-4AE6-B04B-7A139C54162F",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Cabán, Riley, Stevens and Brewer",
+      "LastModified": "2023-12-04T18:40:13.89Z"
+    },
+    {
+      "ID": 400111,
+      "GUID": "51926282-64DE-4C88-9FCC-AC87675E2EDE",
+      "Title": "Oversight - Online harassment against women, girls, and gender expansive people.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 72089,
+      "MatterFile": "T2023-4238",
+      "MatterName": "Oversight - Online harassment against women, girls, and gender expansive people.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2023-12-04T18:29:37.61Z"
     }
   ],
   "AgendaLastPublished": "2023-10-30T16:13:06.26Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-12-04T17:00:02.937Z"
+  "MinutesLastPublished": "2023-12-04T18:40:22.333Z",
+  "LastModified": "2023-12-04T18:40:22.46Z"
 }
