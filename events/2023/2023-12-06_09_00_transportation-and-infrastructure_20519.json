@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/12/20519_A_Committee_on_Transportation_and_Infrastructure_23-12-06_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/12/20519_M_Committee_on_Transportation_and_Infrastructure_23-12-06_Meeting_Minutes.pdf",
   "Comment": "VOTE",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_231206-100106.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20519&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,19 +21,191 @@
       "GUID": "59FE4208-2831-437F-93FB-CF299A906A95",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to notice requirements for certain transportation projects and the repeal of section 19-187 in relation thereto",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 417-B",
       "MinutesNote": "Proposed Int. No. 417-B",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 68789,
       "MatterFile": "Int 0417-2022",
       "MatterName": "Notice requirements for certain transportation projects and the repeal of section 19-187 in relation thereto.",
       "MatterType": "Introduction",
-      "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2023-11-30T20:24:53.07Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-12-06T15:12:29.71Z"
+    },
+    {
+      "ID": 400174,
+      "GUID": "04B89580-8EE1-47E3-889A-D6ABBD50FA66",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7830,
+          "Slug": "ari-kagan",
+          "FullName": "Ari Kagan",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 100
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        },
+        {
+          "ID": 7740,
+          "Slug": "carlina-rivera",
+          "FullName": "Carlina Rivera",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 190
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 240
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 260
+        },
+        {
+          "ID": 7749,
+          "Slug": "kalman-yeger",
+          "FullName": "Kalman Yeger",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 280
+        }
+      ],
+      "LastModified": "2023-12-06T15:10:35.25Z"
+    },
+    {
+      "ID": 400177,
+      "GUID": "D8CE87EB-7823-455D-8E87-C7EAEC29AE1B",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to notice requirements for certain transportation projects and the repeal of section 19-187 in relation thereto",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 68789,
+      "MatterFile": "Int 0417-2022",
+      "MatterName": "Notice requirements for certain transportation projects and the repeal of section 19-187 in relation thereto.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-12-06T15:12:20.94Z"
+    },
+    {
+      "ID": 400178,
+      "GUID": "80EDCC60-27EA-4EA0-AEDC-A73B5A0D7BCA",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to notice requirements for certain transportation projects and the repeal of section 19-187 in relation thereto",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 68789,
+      "MatterFile": "Int 0417-2022",
+      "MatterName": "Notice requirements for certain transportation projects and the repeal of section 19-187 in relation thereto.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-12-06T15:12:16.847Z"
+    },
+    {
+      "ID": 400179,
+      "GUID": "80F09F6D-9FC1-47FA-B5D9-EA91FD22651D",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to notice requirements for certain transportation projects and the repeal of section 19-187 in relation thereto",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "B",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 68789,
+      "MatterFile": "Int 0417-2022",
+      "MatterName": "Notice requirements for certain transportation projects and the repeal of section 19-187 in relation thereto.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-12-06T15:51:20.423Z"
     }
   ],
   "AgendaLastPublished": "2023-11-30T20:24:58.24Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-11-30T20:24:58.367Z"
+  "MinutesLastPublished": "2023-12-06T15:51:25.677Z",
+  "LastModified": "2023-12-06T15:51:25.707Z"
 }

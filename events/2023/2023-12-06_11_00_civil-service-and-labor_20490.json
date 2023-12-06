@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/12/20490_A_Committee_on_Civil_Service_and_Labor_23-12-06_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/12/20490_M_Committee_on_Civil_Service_and_Labor_23-12-06_Meeting_Minutes.pdf",
   "Comment": "VOTE",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_231206-110614.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20490&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,17 +21,131 @@
       "GUID": "898F84C3-7FFF-4648-99C0-737D0526B1BE",
       "Title": "Resolution calling upon the New York City School Construction Authority (SCA) and the New York City Department of Design and Construction (DDC) to reconsider their decision to substitute precast concrete wall panels in place of traditional handset brick and block walls in public projects in New York City.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 70966,
       "MatterFile": "Res 0547-2023",
       "MatterName": "SCA and DDC to reconsider their decision to substitute precast concrete wall panels in place of traditional handset brick and block walls in public projects in New York City.",
       "MatterType": "Resolution",
-      "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2023-11-28T15:34:47.303Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-12-06T16:26:04.213Z"
+    },
+    {
+      "ID": 400246,
+      "GUID": "EF36B55D-CF87-4DC5-A1EF-A57D835141B9",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 200
+        }
+      ],
+      "LastModified": "2023-12-06T16:25:54.65Z"
+    },
+    {
+      "ID": 400247,
+      "GUID": "0B348541-3FB5-401C-BB1A-A63A0BC8D5DE",
+      "Title": "Resolution calling upon the New York City School Construction Authority (SCA) and the New York City Department of Design and Construction (DDC) to reconsider their decision to substitute precast concrete wall panels in place of traditional handset brick and block walls in public projects in New York City.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "This Resolution was Approved by Committee",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 70966,
+      "MatterFile": "Res 0547-2023",
+      "MatterName": "SCA and DDC to reconsider their decision to substitute precast concrete wall panels in place of traditional handset brick and block walls in public projects in New York City.",
+      "MatterType": "Resolution",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-12-06T16:49:37.473Z"
     }
   ],
   "AgendaLastPublished": "2023-11-28T15:31:16.093Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-11-28T15:31:16.25Z"
+  "MinutesLastPublished": "2023-12-06T16:49:42.84Z",
+  "LastModified": "2023-12-06T16:49:42.93Z"
 }
