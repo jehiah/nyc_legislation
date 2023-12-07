@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/12/20440_A_Committee_on_Health_23-12-07_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/12/20440_M_Committee_on_Health_23-12-07_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Sanitation and Solid Waste Management",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_231207-125257.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20440&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,26 +21,140 @@
       "GUID": "2E4FE1E8-F42C-4905-BF02-EC501A670F36",
       "Title": "Jointly with the Committee on Sanitation and Solid Waste Management",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "",
-      "LastModified": "2023-11-01T01:23:20.767Z"
+      "LastModified": "2023-12-07T19:59:31.5Z"
     },
     {
       "ID": 399075,
       "GUID": "2317AEA4-9795-44ED-B5B4-E830ED7F337A",
       "Title": "Oversight - Rat Mitigation and Public Health.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 72074,
       "MatterFile": "T2023-4223",
       "MatterName": "Oversight - Rat Mitigation and Public Health.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-11-01T14:00:20.167Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-12-07T19:59:36.623Z"
+    },
+    {
+      "ID": 400274,
+      "GUID": "EFD64E5B-5389-4DF5-B661-8DE949740ACC",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 5288,
+          "Slug": "charles-barron",
+          "FullName": "Charles Barron",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 130
+        },
+        {
+          "ID": 7807,
+          "Slug": "marjorie-velazquez",
+          "FullName": "Marjorie Velázquez",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 140
+        },
+        {
+          "ID": 7749,
+          "Slug": "kalman-yeger",
+          "FullName": "Kalman Yeger",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 160
+        }
+      ],
+      "LastModified": "2023-12-07T20:01:22.47Z"
+    },
+    {
+      "ID": 400275,
+      "GUID": "79053154-B046-46B9-8A05-7D6E6875E2AD",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Gennaro, Nurse, Abreu, Bottcher, Brewer, Farías,Salamanca, Ossé and Joseph",
+      "LastModified": "2023-12-07T21:24:46.697Z"
+    },
+    {
+      "ID": 400276,
+      "GUID": "CE871089-1AC2-42D8-8720-DFD1EAC08990",
+      "Title": "Oversight - Rat Mitigation and Public Health.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 72074,
+      "MatterFile": "T2023-4223",
+      "MatterName": "Oversight - Rat Mitigation and Public Health.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2023-12-07T19:59:41.55Z"
     }
   ],
   "AgendaLastPublished": "2023-11-01T14:00:25.117Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-11-01T14:00:25.26Z"
+  "MinutesLastPublished": "2023-12-07T21:24:55.25Z",
+  "LastModified": "2023-12-07T21:24:55.313Z"
 }
