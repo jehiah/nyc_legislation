@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/12/20518_A_Committee_on_Housing_and_Buildings_23-12-07_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/12/20518_M_Committee_on_Housing_and_Buildings_23-12-07_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on General Welfare, the Committee on Mental Health, Disabilities and Addiction and the Committee on Veterans",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_231207-131538.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20518&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,40 +21,174 @@
       "GUID": "ACAF3C8D-DE95-4426-889C-9E0F4E31D394",
       "Title": "Oversight - Supportive Housing in New York City.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 72191,
       "MatterFile": "T2023-4340",
       "MatterName": "Oversight - Supportive Housing in New York City.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-11-29T01:22:59.687Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-12-08T00:04:00.38Z"
     },
     {
       "ID": 399839,
       "GUID": "669A5545-0EB4-48EF-889A-328FF925D504",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring monthly reports on removals of individuals experiencing homelessness and the outcomes for those individuals",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 70990,
       "MatterFile": "Int 1153-2023",
       "MatterName": "Requiring monthly reports on removals of individuals experiencing homelessness and the outcomes for those individuals.",
       "MatterType": "Introduction",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-11-29T01:20:43.257Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-12-07T22:40:47.867Z"
     },
     {
       "ID": 399840,
       "GUID": "2CC5074E-3067-4860-9329-9ED773A00DAB",
       "Title": "Jointly with the Committee on General Welfare, the Committee on Mental Health, Disabilities and Addiction and the Committee on Veterans",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "",
-      "LastModified": "2023-11-29T01:21:23.8Z"
+      "LastModified": "2023-12-07T22:40:27.797Z"
+    },
+    {
+      "ID": 400285,
+      "GUID": "616BA7E0-58E9-4938-8F60-C3D28BAAFB02",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 5288,
+          "Slug": "charles-barron",
+          "FullName": "Charles Barron",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2023-12-08T00:02:12.22Z"
+    },
+    {
+      "ID": 400286,
+      "GUID": "92A69B52-A6FA-4897-845D-8EE285AE44F2",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Ariola, Ayala, Bottcher, Brewer, Hanif, Holden, Lee, Ossé, Nurse, Paladino, Restler, Riley, Rivera, Stevens, Ung and  Williams",
+      "LastModified": "2023-12-08T00:03:30.483Z"
+    },
+    {
+      "ID": 400287,
+      "GUID": "9C437A3C-6D73-4170-82FA-3AF82F03A81A",
+      "Title": "Oversight - Supportive Housing in New York City.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 72191,
+      "MatterFile": "T2023-4340",
+      "MatterName": "Oversight - Supportive Housing in New York City.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2023-12-07T22:40:38.1Z"
+    },
+    {
+      "ID": 400288,
+      "GUID": "3EA77DB0-FE0D-4C0E-9A2B-67090125B19D",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring monthly reports on removals of individuals experiencing homelessness and the outcomes for those individuals",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 70990,
+      "MatterFile": "Int 1153-2023",
+      "MatterName": "Requiring monthly reports on removals of individuals experiencing homelessness and the outcomes for those individuals.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-12-07T22:40:54.533Z"
     }
   ],
   "AgendaLastPublished": "2023-11-29T01:21:53.793Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-11-29T01:21:53.92Z"
+  "MinutesLastPublished": "2023-12-08T00:08:17.99Z",
+  "LastModified": "2023-12-08T00:08:18.037Z"
 }
