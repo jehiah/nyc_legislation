@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/12/20506_A_Committee_on_Finance_23-12-11_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/12/20506_M_Committee_on_Finance_23-12-11_Meeting_Minutes.pdf",
   "Comment": "Public Testimony",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_231211-165229.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20506&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
@@ -20,17 +21,203 @@
       "GUID": "5BA4378B-B8C0-48F7-B585-33FC9576CDBC",
       "Title": "Oversight – Mayor’s November Financial Plan.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Approved by Committee",
       "MatterID": 72177,
       "MatterFile": "T2023-4326",
       "MatterName": "Oversight – Mayor’s November Financial Plan.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-12-08T19:22:58.68Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-12-12T17:56:00.98Z"
+    },
+    {
+      "ID": 400333,
+      "GUID": "E193A1AF-9B5B-4C93-9DC8-3691377B0B31",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 5288,
+          "Slug": "charles-barron",
+          "FullName": "Charles Barron",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 220
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 230
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 240
+        },
+        {
+          "ID": 7741,
+          "Slug": "keith-powers",
+          "FullName": "Keith Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 260
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 280
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 290
+        },
+        {
+          "ID": 7807,
+          "Slug": "marjorie-velazquez",
+          "FullName": "Marjorie Velázquez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 300
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 310
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 320
+        }
+      ],
+      "LastModified": "2023-12-12T17:54:05.35Z"
+    },
+    {
+      "ID": 400335,
+      "GUID": "A8509854-955F-4444-AC90-32FCA49C1027",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Speaker Adams, Lee, Schulman, Narcisse, Menin, Krishnan, Joseph, Nurse, Abreu, Gutierrez, Hanks, Cabán, De La Rosa, Avilés, Dinowitz, Restler, Rivera, Holden, Paladino, Bottcher and Ariola",
+      "LastModified": "2023-12-12T17:55:41.367Z"
+    },
+    {
+      "ID": 400339,
+      "GUID": "650C8F30-66A0-4261-8277-3ADA8C8643E9",
+      "Title": "Oversight – Mayor’s November Financial Plan.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 72177,
+      "MatterFile": "T2023-4326",
+      "MatterName": "Oversight – Mayor’s November Financial Plan.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2023-12-12T21:42:26.29Z"
     }
   ],
   "AgendaLastPublished": "2023-11-28T19:09:40.757Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-12-12T02:07:32.523Z"
+  "MinutesLastPublished": "2023-12-12T21:42:32.497Z",
+  "LastModified": "2023-12-12T21:42:32.63Z"
 }

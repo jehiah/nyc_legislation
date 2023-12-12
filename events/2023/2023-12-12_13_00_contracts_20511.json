@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/12/20511_A_Committee_on_Contracts_23-12-12_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/12/20511_M_Committee_on_Contracts_23-12-12_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Small Business and the Committee on Economic Development.",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_231212-131207.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20511&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,40 +21,142 @@
       "GUID": "C10F6241-259D-4B0B-9954-FDF44464BCE3",
       "Title": "Oversight - The Role of Small Businesses in Shelter Food Procurement.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 72193,
       "MatterFile": "T2023-4342",
       "MatterName": "Oversight - The Role of Small Businesses in Shelter Food Procurement.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-12-08T19:25:35.913Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-12-12T21:33:02.043Z"
     },
     {
       "ID": 399842,
       "GUID": "137DD48A-A0FC-43BD-A8D8-46A2CFFF9DC8",
       "Title": "Jointly with the Committee on Small Business and the Committee on Economic Development",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "",
-      "LastModified": "2023-12-06T15:38:22.603Z"
+      "LastModified": "2023-12-12T21:32:39.383Z"
     },
     {
       "ID": 400248,
       "GUID": "73F109B6-DD2A-47F3-BDD4-7CE1B58A88DB",
       "Title": "A Local Law to amend the New York city charter, in relation to the winterization of farmers’ markets",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 70956,
       "MatterFile": "Int 0964-2023",
       "MatterName": "Winterization of farmers’ markets,",
       "MatterType": "Introduction",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-12-11T23:04:17.763Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-12-12T21:33:13.923Z"
+    },
+    {
+      "ID": 400359,
+      "GUID": "2ACCA83A-5968-48D4-BBE9-04279A1DA968",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 120
+        }
+      ],
+      "LastModified": "2023-12-12T21:32:56.24Z"
+    },
+    {
+      "ID": 400360,
+      "GUID": "B7570BA3-EECA-4431-89BF-DFA67258410D",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Riley, Salamanca, Menin, Farías, Velazquez, Gutiérrez, Brewer, Mealy, Krishnan, Avilés, Brooks-Powers and Vernikov",
+      "LastModified": "2023-12-12T21:32:34.98Z"
+    },
+    {
+      "ID": 400361,
+      "GUID": "906AD7B9-839F-4E9A-9AE6-DE163225E4B4",
+      "Title": "Oversight - The Role of Small Businesses in Shelter Food Procurement.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 72193,
+      "MatterFile": "T2023-4342",
+      "MatterName": "Oversight - The Role of Small Businesses in Shelter Food Procurement.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2023-12-12T22:05:19.5Z"
+    },
+    {
+      "ID": 400362,
+      "GUID": "6A4787A1-DEC8-453A-9795-CF33631C2AF8",
+      "Title": "A Local Law to amend the New York city charter, in relation to the winterization of farmers’ markets",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 70956,
+      "MatterFile": "Int 0964-2023",
+      "MatterName": "Winterization of farmers’ markets,",
+      "MatterType": "Introduction",
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-12-12T21:33:23.207Z"
     }
   ],
   "AgendaLastPublished": "2023-12-12T17:37:27.04Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-12-12T17:37:27.13Z"
+  "MinutesLastPublished": "2023-12-12T22:05:25.317Z",
+  "LastModified": "2023-12-12T22:05:25.4Z"
 }

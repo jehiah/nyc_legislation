@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/12/20517_A_Committee_on_Aging_23-12-12_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/12/20517_M_Committee_on_Aging_23-12-12_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_231212-102441.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20517&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,45 +20,173 @@
       "GUID": "7F60851F-ED1C-4C5B-B78A-BC2E55AAD198",
       "Title": "Oversight - Older Adult Workforce Programs.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 72181,
       "MatterFile": "T2023-4330",
       "MatterName": "Oversight - Older Adult Workforce Programs.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-12-08T19:23:43.753Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-12-12T21:56:13.66Z"
     },
     {
       "ID": 399818,
       "GUID": "094AB46B-DCE6-444E-9591-67BCE3F13DF6",
       "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, S.884/A.6331, to direct the New York State Office for the Aging and the Empire State Development Corporation to expand encore entrepreneurship in New York State to empower individuals 50 years of age or older to establish small businesses.",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 71696,
       "MatterFile": "Res 0758-2023",
       "MatterName": "NYS Office for the Aging and the Empire State Development Corporation to expand encore entrepreneurship in NYS to empower individuals 50 years of age or older to establish small businesses. (S.884/A.6331)",
       "MatterType": "Resolution",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-12-11T16:46:45.357Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-12-12T17:39:52.397Z"
     },
     {
       "ID": 399819,
       "GUID": "D1E59412-F846-45A0-AEF2-36FD99A188D4",
       "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, S.3004/A.6324, which would establish an Office of Older Adult Workforce Development within the State Office for the Aging.",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 6,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 71575,
       "MatterFile": "Res 0760-2023",
       "MatterName": "Establish an Office of Older Adult Workforce Development within the State Office for the Aging. (S.3004/A.6324)",
       "MatterType": "Resolution",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-11-28T18:00:39.05Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-12-12T17:40:01.57Z"
+    },
+    {
+      "ID": 400325,
+      "GUID": "9DCF3347-8BB4-412F-BA6D-96825A92F3DF",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 1
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 20
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7805,
+          "Slug": "kristin-richardson-jordan",
+          "FullName": "Kristin Richardson Jordan",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 100
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        }
+      ],
+      "LastModified": "2023-12-12T17:39:07.857Z"
+    },
+    {
+      "ID": 400326,
+      "GUID": "5C8422B9-13DA-4EFF-8765-74FDDB3E49DA",
+      "Title": "Oversight - Older Adult Workforce Programs.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 72181,
+      "MatterFile": "T2023-4330",
+      "MatterName": "Oversight - Older Adult Workforce Programs.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2023-12-12T17:39:47.25Z"
+    },
+    {
+      "ID": 400327,
+      "GUID": "339D2F9D-FA25-4897-9417-80A395AA2CD9",
+      "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, S.884/A.6331, to direct the New York State Office for the Aging and the Empire State Development Corporation to expand encore entrepreneurship in New York State to empower individuals 50 years of age or older to establish small businesses.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 71696,
+      "MatterFile": "Res 0758-2023",
+      "MatterName": "NYS Office for the Aging and the Empire State Development Corporation to expand encore entrepreneurship in NYS to empower individuals 50 years of age or older to establish small businesses. (S.884/A.6331)",
+      "MatterType": "Resolution",
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-12-12T17:39:56.423Z"
+    },
+    {
+      "ID": 400328,
+      "GUID": "09C13126-BAA9-41FB-A68F-2193E074B4E9",
+      "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, S.3004/A.6324, which would establish an Office of Older Adult Workforce Development within the State Office for the Aging.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 7,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 71575,
+      "MatterFile": "Res 0760-2023",
+      "MatterName": "Establish an Office of Older Adult Workforce Development within the State Office for the Aging. (S.3004/A.6324)",
+      "MatterType": "Resolution",
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-12-12T17:40:55.33Z"
     }
   ],
   "AgendaLastPublished": "2023-11-28T18:02:01.967Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-12-12T17:06:30.347Z"
+  "MinutesLastPublished": "2023-12-12T21:56:19.257Z",
+  "LastModified": "2023-12-12T21:56:19.337Z"
 }
