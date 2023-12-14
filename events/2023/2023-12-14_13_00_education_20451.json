@@ -8,10 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/12/20451_A_Committee_on_Education_23-12-14_Committee_Green_Sheet.pdf",
   "Comment": "Jointly with the Committee on State and Federal Legislation.",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_231214-130749.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20451&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,26 +20,213 @@
       "GUID": "ADF97CA5-A72F-4962-B390-504057CCC0BD",
       "Title": "Jointly with the Committee on State and Federal Legislation",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "",
-      "LastModified": "2023-11-22T18:06:49.48Z"
+      "LastModified": "2023-12-14T23:37:21.173Z"
     },
     {
       "ID": 399169,
       "GUID": "190C63A4-0EBD-4C1A-A64B-18A00DE516E0",
       "Title": "Oversight - New Phonics Based Curriculum and Dyslexia Screening in NYC Public Schools.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
       "MatterID": 72103,
       "MatterFile": "T2023-4252",
       "MatterName": "Oversight - New Phonics Based Curriculum and Dyslexia Screening in NYC Public Schools.",
       "MatterType": "Oversight",
       "MatterStatus": "Committee",
-      "LastModified": "2023-11-01T01:13:17.177Z"
+      "LastModified": "2023-12-01T18:36:47.993Z"
+    },
+    {
+      "ID": 400425,
+      "GUID": "9AD0742A-DBB1-4977-BD99-04072EF76C33",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 100
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 120
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 200
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 220
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 240
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 260
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 300
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 320
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 340
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 360
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 380
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 400
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 420
+        }
+      ],
+      "LastModified": "2023-12-14T23:37:53.663Z"
+    },
+    {
+      "ID": 400426,
+      "GUID": "E4C6E7DA-0D67-4A0B-B239-F7D98B347644",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "LastModified": "2023-12-14T23:37:18.963Z"
+    },
+    {
+      "ID": 400427,
+      "GUID": "3CB28AC3-3116-45F9-863D-80DC754F2B15",
+      "Title": "Oversight - New Phonics Based Curriculum and Dyslexia Screening in NYC Public Schools.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "MatterID": 72103,
+      "MatterFile": "T2023-4252",
+      "MatterName": "Oversight - New Phonics Based Curriculum and Dyslexia Screening in NYC Public Schools.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Committee",
+      "LastModified": "2023-12-14T23:37:21.18Z"
     }
   ],
   "AgendaLastPublished": "2023-11-22T20:00:38.087Z",
   "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-11-22T20:00:38.117Z"
+  "LastModified": "2023-12-14T21:37:23.753Z"
 }

@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/12/20452_A_Committee_on_State_and_Federal_Legislation_23-12-14_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/12/20452_M_Committee_on_State_and_Federal_Legislation_23-12-14_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Education",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20452&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,26 +20,108 @@
       "GUID": "0B23999A-AA2B-40B2-8BA1-3E16C863CBF3",
       "Title": "Jointly with the Committee on Education",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "",
-      "LastModified": "2023-11-22T18:07:12.027Z"
+      "LastModified": "2023-12-14T23:34:01.393Z"
     },
     {
       "ID": 399170,
       "GUID": "5E467477-F53A-42D9-906A-392050291C38",
       "Title": "Oversight - New Phonics Based Curriculum and Dyslexia Screening in NYC Public Schools.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "h",
       "MatterID": 72104,
       "MatterFile": "T2023-4253",
       "MatterName": "Oversight - New Phonics Based Curriculum and Dyslexia Screening in NYC Public Schools.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-11-01T01:14:16.62Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-12-14T23:34:52.593Z"
+    },
+    {
+      "ID": 400422,
+      "GUID": "9F5CB42F-41A4-4875-BE1C-BAE0D6DC8C47",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 110
+        }
+      ],
+      "LastModified": "2023-12-14T23:34:23.877Z"
+    },
+    {
+      "ID": 400423,
+      "GUID": "02288690-614C-4A78-9926-FCBF852BB6E1",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Joseph, Schulman, Narcisse, Hanif, Krishnan, Avilés, Sanchez, Lee, Hanks, Menin, Restler, Rivera and Stevens",
+      "LastModified": "2023-12-14T23:34:43.843Z"
+    },
+    {
+      "ID": 400424,
+      "GUID": "EF717CB1-7CDB-4ABB-8A10-E9B24A7904A9",
+      "Title": "Oversight - New Phonics Based Curriculum and Dyslexia Screening in NYC Public Schools.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 72104,
+      "MatterFile": "T2023-4253",
+      "MatterName": "Oversight - New Phonics Based Curriculum and Dyslexia Screening in NYC Public Schools.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2023-12-14T23:35:08.94Z"
     }
   ],
   "AgendaLastPublished": "2023-11-22T20:00:08.403Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-11-22T20:00:08.557Z"
+  "MinutesLastPublished": "2023-12-14T23:35:13.863Z",
+  "LastModified": "2023-12-14T23:35:14.083Z"
 }
