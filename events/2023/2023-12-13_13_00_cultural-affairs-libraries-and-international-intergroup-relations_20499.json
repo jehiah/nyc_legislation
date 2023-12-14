@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/12/20499_A_Committee_on_Cultural_Affairs%2C_Libraries_and_International_Intergroup_Relations_23-12-13_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/12/20499_M_Committee_on_Cultural_Affairs%2C_Libraries_and_International_Intergroup_Relations_23-12-13_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-250-16_231213-131245.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20499&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,46 +20,200 @@
       "GUID": "AB4BEFD9-E6A3-4FA5-93C5-CFD4B4C9DE6A",
       "Title": "Oversight - Arts and Cultural Organizations’ Outreach into New York City Communities.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 72077,
       "MatterFile": "T2023-4226",
       "MatterName": "Oversight - Arts and Cultural Organizations’ Outreach into New York City Communities.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-12-08T19:29:11.827Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-12-14T15:32:56.27Z"
     },
     {
       "ID": 399837,
       "GUID": "3431B6B1-1DB6-43A6-AA56-186F0C4D8BE2",
       "Title": "Resolution calling on Congress and the President to move significant funds away from the military budget in order to fund social services, and to hold in-depth public hearings on the basic human needs of City residents that are unmet because of government appropriations for the Pentagon.",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 70549,
       "MatterFile": "Res 0423-2022",
       "MatterName": "Move significant funds away from the military budget in order to fund social services, and to hold in-depth public hearings on the basic human needs of City residents that are unmet because of government appropriations for the Pentagon.",
       "MatterType": "Resolution",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-12-06T14:55:54.127Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-12-14T16:23:12.01Z"
     },
     {
       "ID": 400311,
       "GUID": "555E2E05-79F6-4C90-A09C-79F7EE7E9EC9",
       "Title": "Resolution condemning recent attacks on members of the Sikh community in the City of New York and seeking a swift end to any discrimination against Sikh New Yorkers.",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
       "AgendaNote": "Preconsidered",
+      "ActionID": 15,
+      "ActionName": "Hearing on P-C Item by Comm",
+      "ActionText": "This Resolution was Hearing on P-C Item by Comm",
       "MatterID": 72231,
       "MatterFile": "T2023-4380",
       "MatterName": "Condemning recent attacks on members of the Sikh community in the City of New York and seeking a swift end to any discrimination against Sikh New Yorkers.",
       "MatterType": "Resolution",
-      "MatterStatus": "Introduced",
-      "LastModified": "2023-12-11T22:10:47.09Z"
+      "MatterStatus": "Committee",
+      "LastModified": "2023-12-14T15:33:11.003Z"
+    },
+    {
+      "ID": 400410,
+      "GUID": "226F3B3A-11CA-420F-ABD0-B6E0A3B9EC7A",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 180
+        }
+      ],
+      "LastModified": "2023-12-14T15:32:41.943Z"
+    },
+    {
+      "ID": 400411,
+      "GUID": "8737C62E-45EF-4AB1-87D8-22EBFD26403C",
+      "Title": "Oversight - Arts and Cultural Organizations’ Outreach into New York City Communities.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 72077,
+      "MatterFile": "T2023-4226",
+      "MatterName": "Oversight - Arts and Cultural Organizations’ Outreach into New York City Communities.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2023-12-14T15:32:58.813Z"
+    },
+    {
+      "ID": 400412,
+      "GUID": "80DC0D10-AFC1-4B04-AA3B-29BCFA2D448D",
+      "Title": "Resolution calling on Congress and the President to move significant funds away from the military budget in order to fund social services, and to hold in-depth public hearings on the basic human needs of City residents that are unmet because of government appropriations for the Pentagon.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 70549,
+      "MatterFile": "Res 0423-2022",
+      "MatterName": "Move significant funds away from the military budget in order to fund social services, and to hold in-depth public hearings on the basic human needs of City residents that are unmet because of government appropriations for the Pentagon.",
+      "MatterType": "Resolution",
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-12-14T15:33:06.34Z"
+    },
+    {
+      "ID": 400413,
+      "GUID": "728028D5-E574-472A-890E-CAD5C402568E",
+      "Title": "Resolution condemning recent attacks on members of the Sikh community in the City of New York and seeking a swift end to any discrimination against Sikh New Yorkers.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 5018,
+      "ActionName": "P-C Item Laid Over by Comm",
+      "ActionText": "This Resolution was P-C Item Laid Over by Comm",
+      "MatterID": 72231,
+      "MatterFile": "T2023-4380",
+      "MatterName": "Condemning recent attacks on members of the Sikh community in the City of New York and seeking a swift end to any discrimination against Sikh New Yorkers.",
+      "MatterType": "Resolution",
+      "MatterStatus": "Committee",
+      "LastModified": "2023-12-14T15:35:01.623Z"
+    },
+    {
+      "ID": 400414,
+      "GUID": "0872EC08-691D-4EDF-B33F-EA2CD39ABEB8",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Rivera",
+      "LastModified": "2023-12-14T15:32:52.813Z"
     }
   ],
   "AgendaLastPublished": "2023-12-12T15:04:04.76Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-12-13T21:59:12.017Z"
+  "MinutesLastPublished": "2023-12-14T16:23:34.577Z",
+  "LastModified": "2023-12-14T16:23:34.687Z"
 }
