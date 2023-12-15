@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/12/20459_A_Committee_on_General_Welfare_23-12-14_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/12/20459_M_Committee_on_General_Welfare_23-12-14_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Youth Services",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_231214-131357.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20459&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,40 +21,182 @@
       "GUID": "6FF12490-EFDD-42EB-9BC8-AD71678FE903",
       "Title": "Jointly with the Committee on Youth Services",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "",
-      "LastModified": "2023-11-29T21:25:36.267Z"
+      "LastModified": "2023-12-15T21:13:42.117Z"
     },
     {
       "ID": 399285,
       "GUID": "1DDE4CCD-C8EA-4802-84DA-358E89F6C10E",
       "Title": "Oversight - Preventative Services for At-Risk and Justice Involved Youth.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 72109,
       "MatterFile": "T2023-4258",
       "MatterName": "Oversight - Preventative Services for At-Risk and Justice Involved Youth.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-11-30T03:13:16.713Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-12-15T21:14:38.9Z"
     },
     {
       "ID": 399850,
       "GUID": "555B3681-C63D-47A3-974F-37D0AEFBFDE1",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing a system to obtain employment and income information from a third-party for the city’s use in making determinations for benefits and services eligibility",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 70011,
       "MatterFile": "Int 0757-2022",
       "MatterName": "Establishing a system to obtain employment and income information from a third-party for the city’s use in making determinations for benefits and services eligibility.",
       "MatterType": "Introduction",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-11-29T21:25:51.25Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-12-15T21:14:44.17Z"
+    },
+    {
+      "ID": 400448,
+      "GUID": "AAD75A95-6D4A-4F8D-9349-9F9D2C8EB323",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 66,
+          "Value": "Parental ",
+          "Sort": 60
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 100
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 140
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 180
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 200
+        }
+      ],
+      "LastModified": "2023-12-15T21:14:08.373Z"
+    },
+    {
+      "ID": 400449,
+      "GUID": "F9A7CD0E-71B1-45ED-8DFE-417D96ECCD84",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Aviles",
+      "LastModified": "2023-12-15T21:14:35.287Z"
+    },
+    {
+      "ID": 400450,
+      "GUID": "564C336B-AFD3-4D48-9E5E-4BA632C65066",
+      "Title": "Oversight - Preventative Services for At-Risk and Justice Involved Youth.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 72109,
+      "MatterFile": "T2023-4258",
+      "MatterName": "Oversight - Preventative Services for At-Risk and Justice Involved Youth.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2023-12-15T21:14:41.293Z"
+    },
+    {
+      "ID": 400451,
+      "GUID": "13841A4A-DFBE-4C53-BB4D-2B3096A7F2E2",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing a system to obtain employment and income information from a third-party for the city’s use in making determinations for benefits and services eligibility",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 70011,
+      "MatterFile": "Int 0757-2022",
+      "MatterName": "Establishing a system to obtain employment and income information from a third-party for the city’s use in making determinations for benefits and services eligibility.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-12-15T21:15:44.697Z"
     }
   ],
   "AgendaLastPublished": "2023-11-30T03:13:22.803Z",
-  "MinutesLastPublished": "2023-11-17T20:35:52.76Z",
-  "LastModified": "2023-11-30T03:13:22.897Z"
+  "MinutesLastPublished": "2023-12-15T21:15:15.537Z",
+  "LastModified": "2023-12-15T21:15:15.6Z"
 }

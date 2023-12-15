@@ -8,11 +8,13 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/12/20458_A_Committee_on_Youth_Services_23-12-14_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/12/20458_M_Committee_on_Youth_Services_23-12-14_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on General Welfare.",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_231214-131357.mp4",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_231214-131357.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20458&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -20,40 +22,142 @@
       "GUID": "C9AE4D36-C4AF-498E-BC7C-845F959FF234",
       "Title": "Jointly with the Committee on General Welfare.",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "",
-      "LastModified": "2023-11-29T21:24:34.863Z"
+      "LastModified": "2023-12-15T21:10:15.093Z"
     },
     {
       "ID": 399284,
       "GUID": "FB0C4A3E-EC8B-4B47-87BA-A0A4C3A24FC2",
       "Title": "Oversight - Preventative Services for At-Risk and Justice Involved Youth.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 72108,
       "MatterFile": "T2023-4257",
       "MatterName": "Oversight - Preventative Services for At-Risk and Justice Involved Youth.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-12-08T19:32:59.203Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2023-12-15T21:11:39.69Z"
     },
     {
       "ID": 399849,
       "GUID": "6E875361-7BE0-41DC-9696-9A36785361AF",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing a system to obtain employment and income information from a third-party for the city’s use in making determinations for benefits and services eligibility",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 70011,
       "MatterFile": "Int 0757-2022",
       "MatterName": "Establishing a system to obtain employment and income information from a third-party for the city’s use in making determinations for benefits and services eligibility.",
       "MatterType": "Introduction",
-      "MatterStatus": "Committee",
-      "LastModified": "2023-11-30T03:12:48.793Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-12-15T21:15:50.803Z"
+    },
+    {
+      "ID": 400444,
+      "GUID": "EBA79871-37C6-4F0A-884B-B6ADD6A59FE7",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7805,
+          "Slug": "kristin-richardson-jordan",
+          "FullName": "Kristin Richardson Jordan",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 80
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 100
+        }
+      ],
+      "LastModified": "2023-12-15T21:10:31.883Z"
+    },
+    {
+      "ID": 400445,
+      "GUID": "CB054913-0ED5-42A8-8DCC-5CF0C1D31738",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Cabán, Hudson, Restler, Lee and Williams",
+      "LastModified": "2023-12-15T21:11:36.403Z"
+    },
+    {
+      "ID": 400446,
+      "GUID": "6E032F34-827D-42E8-A419-41C5537F4291",
+      "Title": "Oversight - Preventative Services for At-Risk and Justice Involved Youth.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 72108,
+      "MatterFile": "T2023-4257",
+      "MatterName": "Oversight - Preventative Services for At-Risk and Justice Involved Youth.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2023-12-15T21:11:43.907Z"
+    },
+    {
+      "ID": 400447,
+      "GUID": "11315BE3-5B2C-469F-A014-0490FEC664DE",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing a system to obtain employment and income information from a third-party for the city’s use in making determinations for benefits and services eligibility",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 70011,
+      "MatterFile": "Int 0757-2022",
+      "MatterName": "Establishing a system to obtain employment and income information from a third-party for the city’s use in making determinations for benefits and services eligibility.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2023-12-15T21:15:56.607Z"
     }
   ],
   "AgendaLastPublished": "2023-11-30T03:12:53.387Z",
-  "MinutesLastPublished": "2023-11-17T20:34:35Z",
-  "LastModified": "2023-12-14T22:14:45.983Z"
+  "MinutesLastPublished": "2023-12-15T21:12:02.317Z",
+  "LastModified": "2023-12-15T21:12:02.667Z"
 }
