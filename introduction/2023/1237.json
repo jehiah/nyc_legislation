@@ -6,8 +6,8 @@
   "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the collection of demographic data on veterans",
   "TypeID": 2,
   "TypeName": "Introduction",
-  "StatusID": 25,
-  "StatusName": "Laid Over in Committee",
+  "StatusID": 24,
+  "StatusName": "Reported from Committee",
   "BodyID": 5122,
   "BodyName": "Committee on Veterans",
   "IntroDate": "2023-11-02T00:00:00Z",
@@ -140,12 +140,128 @@
       "Version": "*",
       "MatterStatusID": 25,
       "LastModified": "2023-11-30T18:06:53.51Z"
+    },
+    {
+      "ID": 400396,
+      "Date": "2023-12-20T11:30:00Z",
+      "ActionID": 54,
+      "Action": "Hearing Held by Committee",
+      "Description": "This Introduction was Hearing Held by Committee",
+      "BodyID": 5122,
+      "BodyName": "Committee on Veterans",
+      "EventID": 20544,
+      "AgendaSequence": 1,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "AgendaNote": "Proposed Int. No. 1237-A",
+      "MinutesNote": "Proposed Int. No. 1237-A",
+      "MatterStatusID": 3,
+      "LastModified": "2023-12-20T18:06:32.94Z"
+    },
+    {
+      "ID": 400808,
+      "Date": "2023-12-20T11:30:00Z",
+      "ActionID": 5001,
+      "Action": "Amendment Proposed by Comm",
+      "Description": "This Introduction was Amendment Proposed by Comm",
+      "BodyID": 5122,
+      "BodyName": "Committee on Veterans",
+      "EventID": 20544,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2023-12-20T18:06:40.79Z"
+    },
+    {
+      "ID": 400809,
+      "Date": "2023-12-20T11:30:00Z",
+      "ActionID": 33,
+      "Action": "Amended by Committee",
+      "Description": "This Introduction was Amended by Committee",
+      "BodyID": 5122,
+      "BodyName": "Committee on Veterans",
+      "EventID": 20544,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2023-12-20T18:06:48.457Z"
+    },
+    {
+      "ID": 400810,
+      "Date": "2023-12-20T11:30:00Z",
+      "ActionID": 32,
+      "Action": "Approved by Committee",
+      "Description": "This Introduction was Approved by Committee",
+      "BodyID": 5122,
+      "BodyName": "Committee on Veterans",
+      "EventID": 20544,
+      "MinutesSequence": 6,
+      "Version": "A",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterStatusID": 24,
+      "Votes": [
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 20
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 40
+        },
+        {
+          "ID": 7830,
+          "Slug": "ari-kagan",
+          "FullName": "Ari Kagan",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 50
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 80
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 100
+        },
+        {
+          "ID": 7805,
+          "Slug": "kristin-richardson-jordan",
+          "FullName": "Kristin Richardson Jordan",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 120
+        }
+      ],
+      "LastModified": "2023-12-20T18:13:35.09Z"
     }
   ],
   "Attachments": [
     {
       "ID": 287628,
-      "LastModified": "2023-12-19T16:27:39.12Z",
+      "LastModified": "2023-12-20T17:45:37.55Z",
       "Name": "Summary of Int. No. 1237-A",
       "Link": "https://nyc.legistar1.com/nyc/attachments/fa74575c-6233-46da-9469-528bfe8bee7e.docx",
       "Sort": 1
@@ -216,7 +332,7 @@
   ],
   "Summary": "This bill would require any city agency that directly, or by contract, collects demographic information through form documents from individuals seeking social services in the city to offer all such individuals a standardized and voluntary survey form that contains a demographic question on whether such person or any member of their household has served in the armed forces, national guard, or reserves of the United States and an option for any person who responds affirmatively to such question to consent to being contacted by the Department of Veterans Services (DVS) regarding services and resources for veterans. This bill would also require DVS to compile all survey data collected and submit a report to the speaker on the total number of veterans who have responded affirmatively to the veteran status question disaggregated by the agency to which such person applied for services, the type of service sought, and the council district in which such person resides.",
   "TextID": 75758,
-  "Text": "Be it enacted by the Council as follows:\n      \n      \n      Section 1. Title 31 of the administrative code of the city of New York is amended by adding a new section 31-113 to read as follows: \n      � 31-113 Demographic data collection on veterans. \n      a. Any agency that requests demographic information from any person applying for services, including services provided by such agency directly or by contract, shall include on any application for such services:\n      1. A question about whether such person or any member of their household has served in the armed forces, national guard, or reserves of the United States, provided that responding to such question shall be voluntary; and\n      2. An option for any person who responds affirmatively to the question included pursuant to paragraph 1 of this subdivision to indicate whether such person consents to the department contacting them regarding services and resources for veterans.\n      b. Subdivision a of this section shall not apply where applicable law would prohibit an agency from modifying a form to include such question or option.   \n      c. No later than December 15, 2024, and annually thereafter, the department shall include in the annual report required pursuant to section 31-109 the total number of persons who responded affirmatively to questions included in any application for services from any city agency, as required by paragraph 1 of subdivision a of this section, disaggregated by (i) the agency to which such person applied for services; (ii)  the type of service sought; (iii) and the council district in which such person resides.\n      � 2.  This local law takes effect 180 days after it becomes law.\n      \n\n\n\n\nSOS/DR\nLS # 6876/11715/9325/10689\n12/12/23 7pm\n      2\n      \n      \n      1",
+  "Text": "Be it enacted by the Council as follows:\n      \n      \n      Section 1. Title 31 of the administrative code of the city of New York is amended by adding a new section 31-113 to read as follows: \n      � 31-113 Demographic data collection on veterans. \n      a. Any agency that requests demographic information from any person applying for services, including services provided by such agency directly or by contract, shall include on any application for such services:\n      1. A question about whether such person or any member of their household has served in the armed forces, national guard, or reserves of the United States, provided that responding to such question shall be voluntary; and\n      2. An option for any person who responds affirmatively to the question included pursuant to paragraph 1 of this subdivision to indicate whether such person consents to the department contacting them regarding services and resources for veterans.\n      b. Subdivision a of this section shall not apply where applicable law would prohibit an agency from modifying a form to include such question or option.   \n      c. No later than December 15, 2024, and annually thereafter, the department shall include in the annual report required pursuant to section 31-109 the total number of persons who responded affirmatively to questions included in any application for services from any city agency, as required by paragraph 1 of subdivision a of this section, disaggregated by (i) the agency to which such person applied for services; (ii)  the type of service sought; (iii) and the council district in which such person resides.\n      � 2.  This local law takes effect 180 days after it becomes law.\n      \n\n\n\n\nSOS/DR\nLS # 6876/11715/9325/10689\n12/12/23 7pm\n      1\n      \n      \n      1",
   "RTF": "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang1033\\deflangfe1033{\\fonttbl{\\f0\\froman\\fprq2\\fcharset0 Times New Roman;}}\n\\viewkind4\\uc1\n\\ul\\v0\\par\nBe it enacted by the Council as follows:\\ulnone\\par\n\\pard\\ltrpar\\fi720\\qj\\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qj Section 1. Title 31 of the administrative code of the city of New York is amended by adding a new section 31-113 to read as follows: \\par\n\\ul\\'a7 31-113 Demographic data collection on veterans. \\par\na. Any agency that requests demographic information from any person applying for services, including services provided by such agency directly or by contract, shall include on any application for such services:\\par\n1. A question about whether such person or any member of their household has served in the armed forces, national guard, or reserves of the United States, provided that responding to such question shall be voluntary; and\\par\n2. An option for any person who responds affirmatively to the question included pursuant to paragraph 1 of this subdivision to indicate whether such person consents to the department contacting them regarding services and resources for veterans.\\par\nb. Subdivision a of this section shall not apply where applicable law would prohibit an agency from modifying a form to include such question or option.   \\par\nc. No later than December 15, 2024, and annually thereafter, the department shall include in the annual report required pursuant to section 31-109 the total number of persons who responded affirmatively to questions included in any application for services from any city agency, as required by paragraph 1 of subdivision a of this section, disaggregated by (i) the agency to which such person applied for services; (ii)  the type of service sought; (iii) and the council district in which such person resides.\\par\n\\ulnone\\'a7 2.  This local law takes effect 180 days after it becomes law.\\par\n\\pard\\ltrpar\\qj\\fs18\\par\n\\par\n\\par\n\\par\nSOS/DR\\par\nLS # 6876/11715/9325/10689\\par\n\\pard\\ltrpar 12/12/23 7pm\\par\n}\n",
-  "LastModified": "2023-12-20T14:14:15.03Z"
+  "LastModified": "2023-12-20T18:07:04.95Z"
 }
