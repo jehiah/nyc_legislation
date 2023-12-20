@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/12/20546_A_Committee_on_Civil_Service_and_Labor_23-12-20_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/12/20546_M_Committee_on_Civil_Service_and_Labor_23-12-20_Meeting_Minutes.pdf",
   "Comment": "VOTE",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_231220-121030.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20546&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,19 +21,167 @@
       "GUID": "B97C8857-51AE-4EAC-8068-3886F59AF6CE",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to creating a private right of action to enforce the provisions of the earned safe and sick time Act",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 563-A",
       "MinutesNote": "Proposed Int. No. 563-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 69581,
       "MatterFile": "Int 0563-2022",
       "MatterName": "Creating a private right of action to enforce the provisions of the earned safe and sick time act.",
       "MatterType": "Introduction",
-      "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2023-12-15T17:29:35.41Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-12-20T17:29:27.11Z"
+    },
+    {
+      "ID": 400797,
+      "GUID": "38E8775E-363B-45DB-BF2D-995E08C0A9E1",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 120
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 180
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 200
+        }
+      ],
+      "LastModified": "2023-12-20T17:29:19.99Z"
+    },
+    {
+      "ID": 400798,
+      "GUID": "07D2F8F3-C06D-4E3A-9C5E-081DB03EFD29",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to creating a private right of action to enforce the provisions of the earned safe and sick time Act",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 69581,
+      "MatterFile": "Int 0563-2022",
+      "MatterName": "Creating a private right of action to enforce the provisions of the earned safe and sick time act.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-12-20T17:29:32.093Z"
+    },
+    {
+      "ID": 400799,
+      "GUID": "CFAD1750-2A39-4C36-831A-26A8535F3593",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to creating a private right of action to enforce the provisions of the earned safe and sick time Act",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 69581,
+      "MatterFile": "Int 0563-2022",
+      "MatterName": "Creating a private right of action to enforce the provisions of the earned safe and sick time act.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-12-20T17:29:39.2Z"
+    },
+    {
+      "ID": 400800,
+      "GUID": "11378AC1-5CBE-428E-812D-A1E0064A8617",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to creating a private right of action to enforce the provisions of the earned safe and sick time Act",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "This Introduction was Approved by Committee",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 69581,
+      "MatterFile": "Int 0563-2022",
+      "MatterName": "Creating a private right of action to enforce the provisions of the earned safe and sick time act.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-12-20T17:35:55.673Z"
     }
   ],
   "AgendaLastPublished": "2023-12-15T17:29:40.317Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-12-15T17:29:40.363Z"
+  "MinutesLastPublished": "2023-12-20T17:36:02.61Z",
+  "LastModified": "2023-12-20T17:36:02.853Z"
 }
