@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2023/12/20551_A_Committee_on_Contracts_23-12-20_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2023/12/20551_M_Committee_on_Contracts_23-12-20_Meeting_Minutes.pdf",
   "Comment": "VOTE",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_231220-104141.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20551&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,19 +21,137 @@
       "GUID": "779F13BF-57B6-4334-A2B7-F93D37E5B31B",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the establishment of a document vault to store certain procurement-related documents",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 1048-A",
       "MinutesNote": "Proposed Int. No. 1048-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 71343,
       "MatterFile": "Int 1048-2023",
       "MatterName": "Requiring the establishment of a document vault to store certain procurement-related documents.",
       "MatterType": "Introduction",
-      "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2023-12-15T15:12:18.75Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-12-20T15:59:10.257Z"
+    },
+    {
+      "ID": 400772,
+      "GUID": "3C7E385E-E42B-4A15-8677-22FC8DA1EA97",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        }
+      ],
+      "LastModified": "2023-12-20T16:28:56.053Z"
+    },
+    {
+      "ID": 400773,
+      "GUID": "177AACDE-A9DA-4D77-AC48-04BE513AF280",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the establishment of a document vault to store certain procurement-related documents",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 71343,
+      "MatterFile": "Int 1048-2023",
+      "MatterName": "Requiring the establishment of a document vault to store certain procurement-related documents.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-12-20T15:59:14.947Z"
+    },
+    {
+      "ID": 400774,
+      "GUID": "6F8FF8DE-FA64-47D2-B1A7-0142C1B6685F",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the establishment of a document vault to store certain procurement-related documents",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 71343,
+      "MatterFile": "Int 1048-2023",
+      "MatterName": "Requiring the establishment of a document vault to store certain procurement-related documents.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-12-20T15:59:18.697Z"
+    },
+    {
+      "ID": 400775,
+      "GUID": "C2D3D7B1-6249-4CA8-8AEA-9BBD27DA5EC5",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the establishment of a document vault to store certain procurement-related documents",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 71343,
+      "MatterFile": "Int 1048-2023",
+      "MatterName": "Requiring the establishment of a document vault to store certain procurement-related documents.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2023-12-20T16:31:12.687Z"
+    },
+    {
+      "ID": 400783,
+      "GUID": "1046C61B-4588-48FF-B93C-CEFC3DBBF2F4",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Sanchez and Farías",
+      "LastModified": "2023-12-20T16:29:23.12Z"
     }
   ],
   "AgendaLastPublished": "2023-12-15T15:12:56.65Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2023-12-15T15:12:56.713Z"
+  "MinutesLastPublished": "2023-12-20T16:31:18.837Z",
+  "LastModified": "2023-12-20T16:31:18.9Z"
 }
