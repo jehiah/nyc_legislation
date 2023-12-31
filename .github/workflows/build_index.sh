@@ -8,7 +8,8 @@ set -e
 
 declare -a RECENT_YEARS
 CURRENT_YEAR=$(date +%Y)
-START=${START:-"2022"}
+CURRENT_YEAR="2024"
+START=${START:-"2024"}
 while [ $START -le $CURRENT_YEAR ]; do
     RECENT_YEARS+=( "${START}" )
     ((START++))
