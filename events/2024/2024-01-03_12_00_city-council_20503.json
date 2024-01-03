@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/1/20503_A_City_Council_24-01-03_Council_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/1/20503_M_City_Council_24-01-03_Meeting_Minutes.pdf",
   "Comment": "CHARTER MEETING",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_240103-124234.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20503&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -23,251 +25,680 @@
       "AgendaNumber": "1.",
       "Version": "",
       "AgendaNote": "THE CITY CLERK WILL CALL THE CHARTER MEETING TO ORDER PURSUANT TO SECTION 42 OF THE CHARTER.",
-      "LastModified": "2024-01-03T16:34:33.03Z"
+      "MinutesNote": "The City Clerk and Clerk of the Council (Mr. McSweeney) duly called this organizational Charter Meeting of Wednesday, January 3, 2024 to order pursuant to Section 42 of the Charter of the City of New York.\r\n\r\nThe City Clerk (Mr. McSweeney) served as the presiding officer for these proceedings.",
+      "LastModified": "2024-01-03T20:07:09.453Z"
     },
     {
       "ID": 399536,
       "GUID": "9C6376C5-56F2-4041-B802-E223741EE65F",
       "Title": "The City Clerk will perform the ceremony of the duly elected Council Members taking their oath of office.  ",
       "AgendaSequence": 3,
-      "MinutesSequence": 4,
+      "MinutesSequence": 3,
       "AgendaNumber": "2.",
       "Version": "",
       "AgendaNote": "THE CITY CLERK WILL PERFORM THE CEREMONY OF THE DULY ELECTED COUNCIL MEMBERS TAKING THEIR OATH OF OFFICE.  Pursuant to M 0184-2023, the Board of Elections certified the November 7, 2023 General Election for the Members of the City Council.",
-      "LastModified": "2024-01-03T16:34:40.03Z"
+      "LastModified": "2024-01-03T20:07:09.457Z"
     },
     {
       "ID": 399537,
       "GUID": "2C3EB4FD-972B-4265-ADF2-A3F4978F4A4E",
       "Title": "INVOCATION",
       "AgendaSequence": 4,
-      "MinutesSequence": 6,
+      "MinutesSequence": 5,
       "AgendaNumber": "3.",
       "Version": "",
       "AgendaNote": "INVOCATION - Delivered by: Imam Shaykh Safraz Bacchus, Imam and Spiritual Leader, Masjid Alabidin located at 104-14 127 Street, Queens NY 11419.\r\n\r\nMotion to spread the Invocation in full upon the record by Council Member Adams.",
-      "LastModified": "2024-01-03T16:37:39.11Z"
+      "MinutesNote": "The Invocation was delivered by Imam Shaykh Safraz Bacchus, Imam and Spiritual Leader, Masjid Alabidin located at 104-14 127 Street, Queens NY 11419.\r\n\r\nCouncil Member Adams moved to spread the Invocation in full upon the Record.",
+      "LastModified": "2024-01-03T20:07:09.457Z"
     },
     {
       "ID": 399538,
       "GUID": "FA8F41B8-30DB-4B30-924D-3D45350FD03A",
       "Title": "Continuation of the 2022-2023 Rules of the Council, As Amended.",
       "AgendaSequence": 5,
-      "MinutesSequence": 8,
+      "MinutesSequence": 6,
       "AgendaNumber": "4.",
       "Version": "*",
-      "MinutesNote": "The City Clerk (Mr. McSweeney) called for a voice-vote on the motion.",
+      "MinutesNote": "The City Clerk (Mr. McSweeney) called for a voice-vote on the motion.\r\n\r\nHearing no objections, the City Clerk (Mr. McSweeney) declared M-1 to be adopted.\r\n\r\nAdopted unanimously by the Council by voice-vote.\r\n\r\n",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Communication be Approved, by Council approved by Voice Vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 72137,
       "MatterFile": "M 0001-2024",
       "MatterName": "Continuation of the 2022-2023 Rules of the Council, as amended.",
       "MatterType": "Communication",
-      "MatterStatus": "Introduced",
-      "LastModified": "2024-01-03T16:47:27.227Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-01-03T20:08:29.75Z"
     },
     {
       "ID": 399539,
       "GUID": "05D03441-211E-4B8D-809C-50821BB4E3EA",
       "Title": "The City Clerk will open the floor for nominations for the office for Speaker of the Council of the City of New York pursuant to Section 44 of the New York City Charter for the term commencing January 1, 2024 and terminating December 31, 2025.",
       "AgendaSequence": 6,
-      "MinutesSequence": 9,
+      "MinutesSequence": 7,
       "AgendaNumber": "5.",
       "Version": "*",
       "AgendaNote": "NOMINATION OF THE SPEAKER",
-      "MinutesNote": "At this point, Council Member XXXXXXs nominated Council Member XXXXX as the next Speaker of the Council.  Council Member XXXXXX's motion was seconded by Council Members XXXXXXXXXXXXXXXXXXXXXXXXX..",
+      "MinutesNote": "At this point, Council Member Ayala moved to nominate Council Member Adams as the next Speaker of the Council.  Council Member Ayala's motion was seconded by Council Members Brooks-Powers, Brannan, Hudson, Farias, and Rivera.\r\n\r\n50 Council Members voted to elect Council Member Adams.\r\n\r\nThe City Clerk and Clerk of the Council (Mr. McSweeney) declared Council Member Adams as the duly elected Speaker of the New York City Council for the 2024-2025 term.\r\n\r\n\r\n",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Communication be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 72141,
       "MatterFile": "M 0002-2024",
       "MatterName": "Nomination of the Speaker",
       "MatterType": "Communication",
-      "MatterStatus": "Introduced",
-      "LastModified": "2024-01-03T16:51:00.06Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-01-03T20:07:09.46Z"
     },
     {
       "ID": 399540,
       "GUID": "BCCCFEEC-B8AD-4123-A7F7-7DC8C2C8FD8A",
       "Title": "PETITIONS AND COMMUNICATIONS",
       "AgendaSequence": 10,
-      "MinutesSequence": 13,
+      "MinutesSequence": 11,
       "AgendaNumber": "9.",
       "Version": "",
       "AgendaNote": "PETITIONS AND COMMUNICATIONS",
-      "LastModified": "2024-01-03T16:55:38.177Z"
+      "LastModified": "2024-01-03T20:11:24.773Z"
     },
     {
       "ID": 399541,
       "GUID": "B2A43002-0CE5-4EB0-A8B0-E4742F8742CD",
       "Title": "ADJOURNED",
       "AgendaSequence": 17,
-      "MinutesSequence": 20,
+      "MinutesSequence": 18,
       "AgendaNumber": "10.",
       "Version": "",
       "AgendaNote": "ADJOURNED",
-      "MinutesNote": "Whereupon on motion of the Speaker (Council Member xxxxx), adjourned these Charter proceedings to meet again for the Stated Meeting of January 18, 2024.\r\n\r\n\r\n\r\nMICHAEL McSWEENEY, City Clerk\r\nClerk of the Council",
-      "LastModified": "2024-01-03T16:56:46.963Z"
+      "MinutesNote": "Whereupon on motion of the Speaker (Council Member Adams), adjourned these Charter proceedings to meet again for the Stated Meeting of January 18, 2024.\r\n\r\nMICHAEL M. McSWEENEY, City Clerk\r\nClerk of the Council",
+      "LastModified": "2024-01-03T20:12:54.253Z"
     },
     {
       "ID": 399572,
       "GUID": "2C68308B-9635-4203-A2BB-305CED77580F",
       "Title": "ROLL CALL",
       "AgendaSequence": 2,
-      "MinutesSequence": 3,
+      "MinutesSequence": 2,
       "Version": "",
       "AgendaNote": "ROLL CALL",
-      "LastModified": "2024-01-03T16:34:14.117Z"
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7739,
+          "Slug": "adrienne-e-adams",
+          "FullName": "Adrienne E. Adams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7264,
+          "Slug": "joseph-c-borelli",
+          "FullName": "Joseph C. Borelli",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 110
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 130
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 150
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 170
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 190
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 200
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 210
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 220
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 230
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 240
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 250
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 260
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 270
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 280
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 290
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 300
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 310
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 320
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 330
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 340
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 350
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 360
+        },
+        {
+          "ID": 7741,
+          "Slug": "keith-powers",
+          "FullName": "Keith Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 370
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 380
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 390
+        },
+        {
+          "ID": 7740,
+          "Slug": "carlina-rivera",
+          "FullName": "Carlina Rivera",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 400
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 410
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 420
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 430
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 440
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 450
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 460
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 470
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 480
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 490
+        },
+        {
+          "ID": 7749,
+          "Slug": "kalman-yeger",
+          "FullName": "Kalman Yeger",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 500
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 510
+        }
+      ],
+      "LastModified": "2024-01-03T20:07:16.523Z"
     },
     {
       "ID": 399573,
       "GUID": "03E0CBBC-5AAA-4147-8437-AF381DA2FDA3",
       "Title": "Nomination and Election of the\nCommittee on Rules, Privileges and Elections",
       "AgendaSequence": 11,
-      "MinutesSequence": 14,
+      "MinutesSequence": 12,
       "Version": "*",
       "AgendaNote": "Nomination and Election of the Committee on Rules, Privileges and Elections",
+      "MinutesNote": "The Speaker (Council Member Adams) nominated the following Council Members to be on the organizational Committee on Rules, Privileges and Elections:  Diana I. Ayala, Temporary Chair, Joseph C. Borelli, Justin Brannan, Gale A. Brewer, Selvena N. Brooks-Powers, Crystal Hudson, Keith Powers, Rafael Salamanca Jr. and Pierina A. Sanchez.\r\n",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Petition be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 72142,
       "MatterFile": "M 0003-2024",
       "MatterName": "Nomination and Election of the Committee on Rules, Privileges and Elections",
       "MatterType": "Petition",
-      "MatterStatus": "Introduced",
-      "LastModified": "2024-01-03T17:03:21.633Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-01-03T20:07:09.463Z"
     },
     {
       "ID": 399575,
       "GUID": "34F1D8AD-7270-4E5C-AAF8-C484274DB4E4",
       "Title": "At a duly convened meeting, we, the undersigned members of the Minority (Republican) Delegation of the Council of the City of New York, hereby designate and appoint Joseph C. Borelli as Minority Leader of the Council of the City of New York, pursuant to Rule 4.10 of the Rules of the Council of the City of New York for the term which commenced on January 1, 2024.\r\n\r\nSigned: Joann Ariola, Joseph C. Borelli, David Carr, Vickie Paladino, Inna Vernikov and Kristy Marmorato",
       "AgendaSequence": 15,
-      "MinutesSequence": 18,
+      "MinutesSequence": 16,
       "Version": "*",
       "AgendaNote": "Received, Ordered, Printed and Filed",
+      "ActionID": 34,
+      "ActionName": "Rcvd, Ord, Prnt, Fld by Council",
+      "ActionText": "This Petition was Rcvd, Ord, Prnt, Fld by Council",
       "MatterID": 72143,
       "MatterFile": "M 0007-2024",
       "MatterName": "Designation of Minority Leader",
       "MatterType": "Petition",
-      "MatterStatus": "Introduced",
-      "LastModified": "2024-01-03T15:37:20.197Z"
+      "MatterStatus": "Received, Ordered, Printed and Filed",
+      "LastModified": "2024-01-03T20:07:09.467Z"
     },
     {
       "ID": 400259,
       "GUID": "3639FB03-0FA8-418B-B431-A815903A9E5B",
       "Title": "Pursuant to Rule 4.10 of the Council of the City of New York and Paragraph 5 of the Bylaws of the Minority Delegation of the same, I hereby designate and appoint Inna Vernikov as Minority Whip of the Council of the City of New York, for the term which commenced on January 1, 2024, effective January 3, 2024.\r\n\r\nSigned: Joseph C. Borelli, Minority Leader",
       "AgendaSequence": 16,
-      "MinutesSequence": 19,
+      "MinutesSequence": 17,
       "Version": "*",
       "AgendaNote": "Received, Ordered, Printed and Filed",
+      "ActionID": 34,
+      "ActionName": "Rcvd, Ord, Prnt, Fld by Council",
+      "ActionText": "This Petition was Rcvd, Ord, Prnt, Fld by Council",
       "MatterID": 72217,
       "MatterFile": "M 0008-2024",
       "MatterName": "Designation of Minority Whip",
       "MatterType": "Petition",
-      "MatterStatus": "Introduced",
-      "LastModified": "2024-01-03T16:51:10.873Z"
+      "MatterStatus": "Received, Ordered, Printed and Filed",
+      "LastModified": "2024-01-03T20:07:09.467Z"
     },
     {
       "ID": 400260,
       "GUID": "739811D2-9D3B-472E-B2B9-05EA8E181B39",
       "Title": "Designate and appoint Diana I. Ayala as Deputy Speaker of the Council of the City of New York, for the term which commenced on January 1, 2024, effective January 3, 2024.",
       "AgendaSequence": 12,
-      "MinutesSequence": 15,
+      "MinutesSequence": 13,
       "Version": "*",
       "AgendaNote": "Nomination and Election of Deputy Speaker",
+      "MinutesNote": "The Speaker (Council Member Adams) nominated Council Member Ayala to be the Deputy Speaker of the City Council.",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Petition be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 72218,
       "MatterFile": "M 0004-2024",
       "MatterName": "Designation of Deputy Speaker",
       "MatterType": "Petition",
-      "MatterStatus": "Introduced",
-      "LastModified": "2024-01-03T14:06:10.313Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-01-03T20:07:09.463Z"
     },
     {
       "ID": 400261,
       "GUID": "8129641C-EBD2-4BD5-9A83-595E7B900045",
       "Title": "Designate and appoint Amanda C. Farías as Majority Leader of the Council of the City of New York, for the term which commenced on January 1, 2024, effective January 3, 2024.",
       "AgendaSequence": 13,
-      "MinutesSequence": 16,
+      "MinutesSequence": 14,
       "Version": "*",
       "AgendaNote": "Received, Ordered, Printed and Filed",
+      "ActionID": 34,
+      "ActionName": "Rcvd, Ord, Prnt, Fld by Council",
+      "ActionText": "This Petition was Rcvd, Ord, Prnt, Fld by Council",
       "MatterID": 72219,
       "MatterFile": "M 0005-2024",
       "MatterName": "Designation of Majority Leader",
       "MatterType": "Petition",
-      "MatterStatus": "Introduced",
-      "LastModified": "2024-01-03T13:35:36.907Z"
+      "MatterStatus": "Received, Ordered, Printed and Filed",
+      "LastModified": "2024-01-03T20:07:09.467Z"
     },
     {
       "ID": 400262,
       "GUID": "47BF31CF-25D2-4F1C-B83D-E4ED7A0ABFC7",
       "Title": "Designate and appoint Selvena N. Brooks-Powers as Majority Whip of the Council of the City of New York, for the term which commenced on January 1, 2024, effective January 3, 2024.",
       "AgendaSequence": 14,
-      "MinutesSequence": 17,
+      "MinutesSequence": 15,
       "Version": "*",
       "AgendaNote": "Received, Ordered, Printed and Filed",
+      "ActionID": 34,
+      "ActionName": "Rcvd, Ord, Prnt, Fld by Council",
+      "ActionText": "This Petition was Rcvd, Ord, Prnt, Fld by Council",
       "MatterID": 72220,
       "MatterFile": "M 0006-2024",
       "MatterName": "Designation of Majority Whip",
       "MatterType": "Petition",
-      "MatterStatus": "Introduced",
-      "LastModified": "2024-01-03T13:35:41.913Z"
+      "MatterStatus": "Received, Ordered, Printed and Filed",
+      "LastModified": "2024-01-03T20:07:09.467Z"
     },
     {
       "ID": 402242,
       "GUID": "33EB7FD7-99FA-4476-B219-C0EE098334E6",
       "Title": "MESSAGES & PAPERS FROM THE MAYOR",
       "AgendaSequence": 8,
-      "MinutesSequence": 11,
+      "MinutesSequence": 9,
       "AgendaNumber": "7.",
       "Version": "",
       "AgendaNote": "MESSAGES & PAPERS FROM THE MAYOR - NONE",
-      "LastModified": "2024-01-03T16:55:35.08Z"
+      "MinutesNote": "None",
+      "LastModified": "2024-01-03T20:10:59.12Z"
     },
     {
       "ID": 402243,
       "GUID": "64E33490-8540-402C-A841-1CFCA5421DCC",
       "Title": "COMMUNICATION FROM CITY, COUNTY & BOROUGH OFFICES",
       "AgendaSequence": 9,
-      "MinutesSequence": 12,
+      "MinutesSequence": 10,
       "AgendaNumber": "8.",
       "Version": "",
       "AgendaNote": "COMMUNICATION FROM CITY, COUNTY & BOROUGH OFFICES - NONE",
-      "LastModified": "2024-01-03T16:55:36.07Z"
+      "MinutesNote": "None",
+      "LastModified": "2024-01-03T20:11:17.21Z"
     },
     {
       "ID": 402271,
       "GUID": "C54BBEEA-68E5-4764-837F-9DAEDFF838C2",
       "Title": "COMMUNICATION FROM THE SPEAKER",
       "AgendaSequence": 7,
-      "MinutesSequence": 10,
+      "MinutesSequence": 8,
       "AgendaNumber": "6.",
       "Version": "",
       "AgendaNote": "COMMUNICATION FROM THE SPEAKER",
-      "LastModified": "2024-01-03T16:55:33.53Z"
-    },
-    {
-      "ID": 402272,
-      "GUID": "4DEFB137-827C-4827-88DA-7BAECBDCE1CD",
-      "Title": "",
-      "AgendaSequence": 0,
-      "MinutesSequence": 2,
-      "Version": "",
-      "MinutesNote": "The City Clerk and Clerk of the Council (Mr. McSweeney) duly called this organizational Charter Meeting of Wednesday, January 3, 2024 to order pursuant to Section 42 of the Charter of the City of New York.",
-      "LastModified": "2024-01-03T16:34:13.023Z"
+      "LastModified": "2024-01-03T20:11:06.403Z"
     },
     {
       "ID": 402273,
       "GUID": "A6D7A0AA-89E5-46D7-88D8-F7662F6705DB",
       "Title": "",
       "AgendaSequence": 0,
-      "MinutesSequence": 5,
+      "MinutesSequence": 4,
       "Version": "",
-      "MinutesNote": "The City Clerk (Mr. McSweeney) delivered the ceremonial oath of office to all 51 duly elected Council Members).",
-      "LastModified": "2024-01-03T16:37:29.377Z"
-    },
-    {
-      "ID": 402274,
-      "GUID": "8353BC53-B0A1-4D29-830E-97DB77AE8E50",
-      "Title": "",
-      "AgendaSequence": 0,
-      "MinutesSequence": 7,
-      "Version": "",
-      "MinutesNote": "The Invocation was delivered by Rev. Imam Shaykh Safraz Bacchus, Imam and Spirtual Leader, Masjid Alabidin located at 104-14 127 Street, Queens, N.Y. 11419.\r\n\r\n\r\n\r\nCouncil Member Adams moved to spread the Invocation in full upon the Record.",
-      "LastModified": "2024-01-03T16:39:44.827Z"
+      "MinutesNote": "The City Clerk (Mr. McSweeney) delivered the ceremonial oath of office to all duly elected Council Members assembled.",
+      "LastModified": "2024-01-03T20:07:09.457Z"
     }
   ],
   "AgendaLastPublished": "2024-01-03T17:03:27.373Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-01-03T17:03:27.577Z"
+  "MinutesLastPublished": "2024-01-03T20:59:29.61Z",
+  "LastModified": "2024-01-03T20:59:29.737Z"
 }
