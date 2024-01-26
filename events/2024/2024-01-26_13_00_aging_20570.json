@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/1/20570_A_Committee_on_Aging_24-01-26_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/1/20570_M_Committee_on_Aging_24-01-26_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_240126-134200.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20570&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,18 +20,106 @@
       "GUID": "FA579B33-46D9-472D-A7D8-12346717AA74",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to provision of senior citizen rent increase exemption application forms pre-populated with applicable data to eligible persons living in city-supervised Mitchell-Lama housing",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Preconsidered",
+      "ActionID": 15,
+      "ActionName": "Hearing on P-C Item by Comm",
+      "ActionText": "This Introduction was Hearing on P-C Item by Comm",
       "MatterID": 72353,
       "MatterFile": "T2024-0063",
       "MatterName": "Provision of senior citizen rent increase exemption application forms pre-populated with applicable data to eligible persons living in city-supervised Mitchell-Lama housing.",
       "MatterType": "Introduction",
-      "MatterStatus": "Introduced",
-      "LastModified": "2024-01-23T17:47:37.39Z"
+      "MatterStatus": "Committee",
+      "LastModified": "2024-01-26T19:22:19.39Z"
+    },
+    {
+      "ID": 402603,
+      "GUID": "BBB9E62A-F651-4531-8B25-DD605E8BE269",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2024-01-26T19:23:31.59Z"
+    },
+    {
+      "ID": 402604,
+      "GUID": "EBE43410-4266-4AF7-9309-FD7A9E02544C",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to provision of senior citizen rent increase exemption application forms pre-populated with applicable data to eligible persons living in city-supervised Mitchell-Lama housing",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5018,
+      "ActionName": "P-C Item Laid Over by Comm",
+      "ActionText": "This Introduction was P-C Item Laid Over by Comm",
+      "MatterID": 72353,
+      "MatterFile": "T2024-0063",
+      "MatterName": "Provision of senior citizen rent increase exemption application forms pre-populated with applicable data to eligible persons living in city-supervised Mitchell-Lama housing.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Committee",
+      "LastModified": "2024-01-26T19:22:40.59Z"
     }
   ],
   "AgendaLastPublished": "2024-01-23T17:50:07.89Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-01-23T17:50:07.92Z"
+  "MinutesLastPublished": "2024-01-26T19:23:36.607Z",
+  "LastModified": "2024-01-26T19:23:36.637Z"
 }
