@@ -4,14 +4,16 @@
   "BodyID": 19,
   "BodyName": "Committee on Public Safety",
   "Date": "2024-01-30T12:00:00-05:00",
-  "Location": "Council Chambers - City Hall",
+  "Location": "Committee Room - City Hall",
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/1/20569_A_Committee_on_Public_Safety_24-01-30_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/1/20569_M_Committee_on_Public_Safety_24-01-30_Meeting_Minutes.pdf",
   "Comment": "VOTE",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_240130-121658.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20569&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,28 +21,34 @@
       "GUID": "C2EB4223-38EA-4F14-B7F1-9D3EA671D810",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the police department to report on police-civilian investigative encounters",
       "AgendaSequence": 1,
-      "MinutesSequence": 2,
+      "MinutesSequence": 3,
       "Version": "A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 68300,
       "MatterFile": "Int 0586-2022",
       "MatterName": "How Many Stops Act - Requiring the police dept to report on police-civilian investigative encounters.",
       "MatterType": "Introduction",
-      "MatterStatus": "Vetoed",
-      "LastModified": "2024-01-30T17:15:42.423Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2024-01-30T17:49:39.583Z"
     },
     {
       "ID": 402499,
       "GUID": "1EEBC8A9-6D5A-4B40-9159-F93E586A0F8F",
       "Title": "Communication from the Mayor – Mayor’s veto and disapproval message of Introductory Number 586-A of 2022, A Local Law to amend the administrative code of the city of New York, in relation to requiring the police department to report on police-civilian investigative encounters.",
       "AgendaSequence": 2,
-      "MinutesSequence": 3,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Mayor's Message was Hearing Held by Committee",
       "MatterID": 72342,
       "MatterFile": "M 0013-2024",
       "MatterName": "Mayor’s Veto - Int. No. 586-A of 2022, How Many Stops Act - Requiring the police dept to report on police-civilian investigative encounters.",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-01-30T17:21:52.14Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2024-01-30T17:50:17.78Z"
     },
     {
       "ID": 402668,
@@ -49,10 +57,157 @@
       "AgendaSequence": 0,
       "MinutesSequence": 1,
       "Version": "",
-      "LastModified": "2024-01-30T17:30:01.107Z"
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        },
+        {
+          "ID": 7740,
+          "Slug": "carlina-rivera",
+          "FullName": "Carlina Rivera",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 110
+        },
+        {
+          "ID": 7749,
+          "Slug": "kalman-yeger",
+          "FullName": "Kalman Yeger",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        }
+      ],
+      "LastModified": "2024-01-30T17:47:22.72Z"
+    },
+    {
+      "ID": 402670,
+      "GUID": "F3C925D5-1146-4EC8-B9A3-9BAF8FEE2F16",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Abreu, Paladino, Avilés, Nurse, Gutiérrez, Sanchez, Hudson, Vernikov, Williams, Dinowitz, Brewer, Brooks-Powers and Public Advocate Williams. ",
+      "LastModified": "2024-01-30T17:49:35.783Z"
+    },
+    {
+      "ID": 402671,
+      "GUID": "C5B0ABED-7D9B-44DF-88B2-F27650C97C14",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the police department to report on police-civilian investigative encounters",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 68300,
+      "MatterFile": "Int 0586-2022",
+      "MatterName": "How Many Stops Act - Requiring the police dept to report on police-civilian investigative encounters.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2024-01-30T17:50:12.297Z"
+    },
+    {
+      "ID": 402672,
+      "GUID": "188CCA38-5FF8-4BAD-8376-929B804A052C",
+      "Title": "Communication from the Mayor – Mayor’s veto and disapproval message of Introductory Number 586-A of 2022, A Local Law to amend the administrative code of the city of New York, in relation to requiring the police department to report on police-civilian investigative encounters.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 39,
+      "ActionName": "Filed by Committee",
+      "ActionText": "A motion was made that this Mayor's Message be Filed by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 72342,
+      "MatterFile": "M 0013-2024",
+      "MatterName": "Mayor’s Veto - Int. No. 586-A of 2022, How Many Stops Act - Requiring the police dept to report on police-civilian investigative encounters.",
+      "MatterType": "Mayor's Message",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2024-01-30T17:50:45.653Z"
     }
   ],
-  "AgendaLastPublished": "2024-01-30T17:15:47.237Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-01-30T17:16:59.2Z"
+  "AgendaLastPublished": "2024-01-30T17:40:18.72Z",
+  "MinutesLastPublished": "2024-01-30T17:51:08.707Z",
+  "LastModified": "2024-01-30T17:51:08.847Z"
 }
