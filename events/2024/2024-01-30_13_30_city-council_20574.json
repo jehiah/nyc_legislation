@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/1/20574_A_City_Council_24-01-30_Council_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/1/20574_M_City_Council_24-01-30_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_240130-143257.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20574&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,247 +20,682 @@
       "GUID": "2A58F8AD-E79A-4903-91EC-33B11DD63F1C",
       "Title": "Roll Call",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "AgendaNumber": "1.",
       "Version": "",
       "AgendaNote": "ROLL CALL",
-      "LastModified": "2024-01-30T16:58:49.43Z"
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7739,
+          "Slug": "adrienne-e-adams",
+          "FullName": "Adrienne E. Adams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7264,
+          "Slug": "joseph-c-borelli",
+          "FullName": "Joseph C. Borelli",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 110
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 130
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 150
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 170
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 190
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 200
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 210
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 220
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 230
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 240
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 250
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 260
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 270
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 280
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 290
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 300
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 310
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 320
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 330
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 340
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 350
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 360
+        },
+        {
+          "ID": 7741,
+          "Slug": "keith-powers",
+          "FullName": "Keith Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 370
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 380
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 390
+        },
+        {
+          "ID": 7740,
+          "Slug": "carlina-rivera",
+          "FullName": "Carlina Rivera",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 400
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 410
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 420
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 430
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 440
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 450
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 460
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 470
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 480
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 490
+        },
+        {
+          "ID": 7749,
+          "Slug": "kalman-yeger",
+          "FullName": "Kalman Yeger",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 500
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 510
+        }
+      ],
+      "LastModified": "2024-01-30T22:26:03.893Z"
     },
     {
       "ID": 402541,
       "GUID": "E4A57B1C-D939-4483-A3D3-450250E620FE",
       "Title": "Invocation",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "AgendaNumber": "2.",
       "Version": "",
       "AgendaNote": "INVOCATION - None",
       "MinutesNote": "None.",
-      "LastModified": "2024-01-30T16:58:58.227Z"
+      "LastModified": "2024-01-30T22:26:03.897Z"
     },
     {
       "ID": 402542,
       "GUID": "327A09FA-871D-4F42-AE96-B692EFAD6D4C",
       "Title": "Adoption of Minutes",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 5,
       "AgendaNumber": "3.",
       "Version": "",
       "AgendaNote": "ADOPTION OF MINUTES - None",
       "MinutesNote": "None.",
-      "LastModified": "2024-01-30T16:59:00.84Z"
+      "LastModified": "2024-01-30T22:26:03.897Z"
     },
     {
       "ID": 402543,
       "GUID": "03E2DAEF-FE3D-41F8-8F32-9042FFACF77A",
       "Title": "Messages & Papers from the Mayor",
       "AgendaSequence": 4,
-      "MinutesSequence": 4,
+      "MinutesSequence": 6,
       "AgendaNumber": "4.",
       "Version": "",
       "AgendaNote": "MESSAGES & PAPERS FROM THE MAYOR - None",
       "MinutesNote": "None.",
-      "LastModified": "2024-01-30T16:59:03.973Z"
+      "LastModified": "2024-01-30T22:26:03.897Z"
     },
     {
       "ID": 402544,
       "GUID": "22AF03C6-FE43-415D-A7DE-F4759C5D41A1",
       "Title": "Communications from City, County & Borough Offices",
       "AgendaSequence": 5,
-      "MinutesSequence": 5,
+      "MinutesSequence": 7,
       "AgendaNumber": "5.",
       "Version": "",
       "AgendaNote": "COMMUNICATIONS FROM CITY, COUNTY & BOROUGH OFFICES - None",
       "MinutesNote": "None.",
-      "LastModified": "2024-01-30T16:59:06.73Z"
+      "LastModified": "2024-01-30T22:26:03.9Z"
     },
     {
       "ID": 402545,
       "GUID": "03A8B715-24A6-4F11-BCE1-3516BC83D888",
       "Title": "Petitions and Communications",
       "AgendaSequence": 6,
-      "MinutesSequence": 6,
+      "MinutesSequence": 8,
       "AgendaNumber": "6.",
       "Version": "",
       "AgendaNote": "PETITIONS AND COMMUNICATIONS - None",
       "MinutesNote": "None.",
-      "LastModified": "2024-01-30T16:59:09.533Z"
+      "LastModified": "2024-01-30T22:26:03.9Z"
     },
     {
       "ID": 402546,
       "GUID": "5322EBC6-8ABE-4F52-ADC7-8EAAA92B6FCE",
       "Title": "Land Use Call-Ups",
       "AgendaSequence": 7,
-      "MinutesSequence": 7,
+      "MinutesSequence": 9,
       "AgendaNumber": "7.",
       "Version": "",
       "AgendaNote": "LAND USE CALL-UPS – None",
       "MinutesNote": "None.",
-      "LastModified": "2024-01-30T16:59:12.36Z"
+      "LastModified": "2024-01-30T22:26:03.9Z"
     },
     {
       "ID": 402547,
       "GUID": "85A503A0-86DD-4492-93CF-C295EE50A232",
       "Title": "Communication from the Speaker",
       "AgendaSequence": 8,
-      "MinutesSequence": 8,
+      "MinutesSequence": 10,
       "AgendaNumber": "8.",
       "Version": "",
       "AgendaNote": "COMMUNICATION FROM THE SPEAKER",
-      "LastModified": "2024-01-30T16:59:13.313Z"
+      "LastModified": "2024-01-30T22:26:03.9Z"
     },
     {
       "ID": 402548,
       "GUID": "68D13E04-C3AE-4E6B-8FA4-69E7F3BB04C2",
       "Title": "Discussion of General Orders",
       "AgendaSequence": 9,
-      "MinutesSequence": 9,
+      "MinutesSequence": 11,
       "AgendaNumber": "9.",
       "Version": "",
       "AgendaNote": "DISCUSSION OF GENERAL ORDERS",
-      "LastModified": "2024-01-30T20:13:00.76Z"
+      "LastModified": "2024-01-30T22:26:03.9Z"
     },
     {
       "ID": 402549,
       "GUID": "11B91602-4383-4BA4-95D7-757E77A930F8",
       "Title": "Reports of Special Committees",
       "AgendaSequence": 10,
-      "MinutesSequence": 12,
+      "MinutesSequence": 14,
       "AgendaNumber": "10.",
       "Version": "",
       "AgendaNote": "REPORTS OF SPECIAL COMMITTEES - None",
       "MinutesNote": "None.",
-      "LastModified": "2024-01-30T16:59:17.553Z"
+      "LastModified": "2024-01-30T22:26:03.903Z"
     },
     {
       "ID": 402550,
       "GUID": "6D33D644-6D83-4283-BD5C-6C30BC751F3F",
       "Title": "Reports of Standing Committees",
       "AgendaSequence": 11,
-      "MinutesSequence": 13,
+      "MinutesSequence": 15,
       "AgendaNumber": "11.",
       "Version": "",
       "AgendaNote": "REPORTS OF STANDING COMMITTEES",
-      "LastModified": "2024-01-30T16:59:18.73Z"
+      "LastModified": "2024-01-30T22:26:03.907Z"
     },
     {
       "ID": 402551,
       "GUID": "6A6C0091-C932-4BD3-9FC8-9C803A6E1051",
       "Title": "Report of the Committee on Criminal Justice",
       "AgendaSequence": 12,
-      "MinutesSequence": 14,
+      "MinutesSequence": 16,
       "Version": "",
       "AgendaNote": "REPORT OF THE COMMITTEE ON CRIMINAL JUSTICE",
-      "LastModified": "2024-01-30T16:59:25.897Z"
+      "LastModified": "2024-01-30T22:26:03.907Z"
     },
     {
       "ID": 402552,
       "GUID": "04B32005-983F-4BB8-8F93-1CE53D6553B6",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to banning solitary confinement in city jails and establishing standards for the use of restrictive housing and emergency lock-ins",
       "AgendaSequence": 13,
-      "MinutesSequence": 15,
+      "MinutesSequence": 17,
       "Version": "A",
       "AgendaNote": "Coupled on General Orders",
+      "ActionID": 61,
+      "ActionName": "Overridden by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 69580,
       "MatterFile": "Int 0549-2022",
       "MatterName": "Banning solitary confinement in city jails and establishing standards for the use of restrictive housing and emergency lock-ins.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2024-01-30T16:53:40.32Z"
+      "MatterStatus": "Enacted",
+      "LastModified": "2024-01-30T22:28:21.367Z"
     },
     {
       "ID": 402553,
       "GUID": "30092C1D-3DAA-4CC8-94B5-9B29BC2D0B76",
       "Title": "Communication from the Mayor – Mayor’s veto and disapproval message of Introductory Number 549-A of 2022, A Local Law to amend the administrative code of the city of New York, in relation to banning solitary confinement in city jails and establishing standards for the use of restrictive housing and emergency lock-ins.",
       "AgendaSequence": 14,
-      "MinutesSequence": 16,
+      "MinutesSequence": 18,
       "Version": "*",
       "AgendaNote": "Coupled to be Filed",
+      "ActionID": 69,
+      "ActionName": "Filed by Council",
+      "ActionText": "A motion was made that this Mayor's Message be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 72336,
       "MatterFile": "M 0012-2024",
       "MatterName": "Mayor’s Veto - Int. No. 549-A of 2022, banning solitary confinement in city jails and establishing standards for the use of restrictive housing and emergency lock-ins.",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2024-01-30T16:53:40.32Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-01-30T22:26:03.91Z"
     },
     {
       "ID": 402554,
       "GUID": "00F6CC51-945A-4B72-B28A-D58E85705366",
       "Title": "Report of the Committee on Public Safety",
       "AgendaSequence": 15,
-      "MinutesSequence": 17,
+      "MinutesSequence": 19,
       "Version": "",
       "AgendaNote": "REPORT OF THE COMMITTEE ON PUBLIC SAFETY",
-      "LastModified": "2024-01-30T16:53:40.32Z"
+      "LastModified": "2024-01-30T22:26:03.91Z"
     },
     {
       "ID": 402555,
       "GUID": "67578EB2-B62E-4E87-9DA7-5BCD37D99751",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the police department to report on police-civilian investigative encounters",
       "AgendaSequence": 16,
-      "MinutesSequence": 18,
+      "MinutesSequence": 20,
       "Version": "A",
       "AgendaNote": "Coupled on General Orders",
+      "ActionID": 61,
+      "ActionName": "Overridden by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 68300,
       "MatterFile": "Int 0586-2022",
       "MatterName": "How Many Stops Act - Requiring the police dept to report on police-civilian investigative encounters.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2024-01-30T17:13:08.597Z"
+      "MatterStatus": "Enacted",
+      "LastModified": "2024-01-30T22:28:38.24Z"
     },
     {
       "ID": 402556,
       "GUID": "303E0CFA-5037-43A5-81FE-B3E3E66C93A1",
       "Title": "Communication from the Mayor – Mayor’s veto and disapproval message of Introductory Number 586-A of 2022, A Local Law to amend the administrative code of the city of New York, in relation to requiring the police department to report on police-civilian investigative encounters.",
       "AgendaSequence": 17,
-      "MinutesSequence": 19,
+      "MinutesSequence": 21,
       "Version": "*",
       "AgendaNote": "Coupled to be Filed",
+      "ActionID": 69,
+      "ActionName": "Filed by Council",
+      "ActionText": "A motion was made that this Mayor's Message be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 72342,
       "MatterFile": "M 0013-2024",
       "MatterName": "Mayor’s Veto - Int. No. 586-A of 2022, How Many Stops Act - Requiring the police dept to report on police-civilian investigative encounters.",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2024-01-30T17:16:09.38Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-01-30T22:26:03.91Z"
     },
     {
       "ID": 402557,
       "GUID": "5F16FE14-2DC6-45E1-A160-560965450B27",
       "Title": "General Orders Calendar",
       "AgendaSequence": 18,
-      "MinutesSequence": 20,
+      "MinutesSequence": 22,
       "AgendaNumber": "12.",
       "Version": "",
       "AgendaNote": "GENERAL ORDERS CALENDAR",
-      "LastModified": "2024-01-30T16:53:40.323Z"
+      "LastModified": "2024-01-30T22:26:03.913Z"
     },
     {
       "ID": 402558,
       "GUID": "3AD3A6EA-A6C5-44A5-9576-D25BEF14512A",
       "Title": "Coupled on General Orders Calendar",
       "AgendaSequence": 19,
-      "MinutesSequence": 21,
+      "MinutesSequence": 23,
       "Version": "",
       "AgendaNote": "COUPLED ON GENERAL ORDERS CALENDAR",
-      "LastModified": "2024-01-30T16:53:40.323Z"
+      "LastModified": "2024-01-30T22:26:03.913Z"
     },
     {
       "ID": 402559,
       "GUID": "1A84737C-89D6-4F5C-9BD6-59AD82A9B286",
       "Title": "Criminal Justice",
       "AgendaSequence": 20,
-      "MinutesSequence": 22,
+      "MinutesSequence": 24,
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "CRIMINAL JUSTICE",
-      "LastModified": "2024-01-30T16:53:40.327Z"
+      "LastModified": "2024-01-30T22:26:03.913Z"
     },
     {
       "ID": 402560,
       "GUID": "D73EBB51-A484-4888-9171-52C62115CC6C",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to banning solitary confinement in city jails and establishing standards for the use of restrictive housing and emergency lock-ins",
       "AgendaSequence": 21,
-      "MinutesSequence": 23,
+      "MinutesSequence": 25,
       "AgendaNumber": "~coupled",
       "Version": "A",
       "AgendaNote": "GO",
@@ -266,15 +703,15 @@
       "MatterFile": "Int 0549-2022",
       "MatterName": "Banning solitary confinement in city jails and establishing standards for the use of restrictive housing and emergency lock-ins.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2024-01-30T16:53:40.327Z"
+      "MatterStatus": "Enacted",
+      "LastModified": "2024-01-30T22:26:03.917Z"
     },
     {
       "ID": 402561,
       "GUID": "E4A3CBC9-C55F-4BCB-9B2D-BB2B1B95CAAB",
       "Title": "Communication from the Mayor – Mayor’s veto and disapproval message of Introductory Number 549-A of 2022, A Local Law to amend the administrative code of the city of New York, in relation to banning solitary confinement in city jails and establishing standards for the use of restrictive housing and emergency lock-ins.",
       "AgendaSequence": 22,
-      "MinutesSequence": 24,
+      "MinutesSequence": 26,
       "AgendaNumber": "~coupled",
       "Version": "*",
       "AgendaNote": "Filed",
@@ -282,26 +719,26 @@
       "MatterFile": "M 0012-2024",
       "MatterName": "Mayor’s Veto - Int. No. 549-A of 2022, banning solitary confinement in city jails and establishing standards for the use of restrictive housing and emergency lock-ins.",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2024-01-30T16:53:40.327Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-01-30T22:26:03.917Z"
     },
     {
       "ID": 402562,
       "GUID": "E351FB27-665E-48B7-9900-0AC205653ECF",
       "Title": "Public Safety",
       "AgendaSequence": 23,
-      "MinutesSequence": 25,
+      "MinutesSequence": 27,
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "PUBLIC SAFETY",
-      "LastModified": "2024-01-30T16:53:40.33Z"
+      "LastModified": "2024-01-30T22:26:03.917Z"
     },
     {
       "ID": 402563,
       "GUID": "6FC7D084-17F3-44F1-9C64-5AB664B95CA3",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the police department to report on police-civilian investigative encounters",
       "AgendaSequence": 24,
-      "MinutesSequence": 26,
+      "MinutesSequence": 28,
       "AgendaNumber": "~coupled",
       "Version": "A",
       "AgendaNote": "GO",
@@ -309,15 +746,15 @@
       "MatterFile": "Int 0586-2022",
       "MatterName": "How Many Stops Act - Requiring the police dept to report on police-civilian investigative encounters.",
       "MatterType": "Introduction",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2024-01-30T17:13:16.143Z"
+      "MatterStatus": "Enacted",
+      "LastModified": "2024-01-30T22:26:03.917Z"
     },
     {
       "ID": 402564,
       "GUID": "A6B8B4B9-3577-49C7-8029-BA07359495AB",
       "Title": "Communication from the Mayor – Mayor’s veto and disapproval message of Introductory Number 586-A of 2022, A Local Law to amend the administrative code of the city of New York, in relation to requiring the police department to report on police-civilian investigative encounters.",
       "AgendaSequence": 25,
-      "MinutesSequence": 27,
+      "MinutesSequence": 29,
       "AgendaNumber": "~coupled",
       "Version": "*",
       "AgendaNote": "Filed",
@@ -325,105 +762,186 @@
       "MatterFile": "M 0013-2024",
       "MatterName": "Mayor’s Veto - Int. No. 586-A of 2022, How Many Stops Act - Requiring the police dept to report on police-civilian investigative encounters.",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2024-01-30T17:16:20.51Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-01-30T22:26:03.92Z"
     },
     {
       "ID": 402565,
       "GUID": "A890B64E-67A6-4C8A-987A-14630E0736AE",
       "Title": "General Orders Calendar",
       "AgendaSequence": 26,
-      "MinutesSequence": 28,
+      "MinutesSequence": 30,
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "GENERAL ORDERS CALENDAR",
-      "LastModified": "2024-01-30T16:53:40.33Z"
+      "LastModified": "2024-01-30T22:26:03.92Z"
     },
     {
       "ID": 402566,
       "GUID": "5126AA93-0DEE-4AB5-AAEF-297CCDEC3C19",
       "Title": "Introduction & Reading of Bills\r\nSee Attached",
       "AgendaSequence": 27,
-      "MinutesSequence": 29,
+      "MinutesSequence": 34,
       "AgendaNumber": "13.",
       "Version": "",
       "AgendaNote": "INTRODUCTION & READING OF BILLS - None",
-      "LastModified": "2024-01-30T16:53:40.333Z"
+      "MinutesNote": "None",
+      "LastModified": "2024-01-30T23:25:25.157Z"
     },
     {
       "ID": 402567,
       "GUID": "21C8E26C-6A83-488A-B588-CDF7E04A7D90",
       "Title": "Discussion of Resolutions",
       "AgendaSequence": 28,
-      "MinutesSequence": 30,
+      "MinutesSequence": 35,
       "AgendaNumber": "14.",
       "Version": "",
       "AgendaNote": "DISCUSSION OF RESOLUTIONS",
-      "LastModified": "2024-01-30T16:53:40.333Z"
+      "MinutesNote": "None",
+      "LastModified": "2024-01-30T23:25:31.79Z"
     },
     {
       "ID": 402568,
       "GUID": "B1342C0D-83D0-4760-84BB-18B8ED53CCAC",
       "Title": "Resolutions",
       "AgendaSequence": 29,
-      "MinutesSequence": 31,
+      "MinutesSequence": 36,
       "AgendaNumber": "15.",
       "Version": "",
       "AgendaNote": "RESOLUTIONS – None",
-      "LastModified": "2024-01-30T16:53:40.333Z"
+      "MinutesNote": "None.",
+      "LastModified": "2024-01-30T22:26:03.927Z"
     },
     {
       "ID": 402569,
       "GUID": "B78CD86A-7E63-4FA6-8652-C2768B7E6C96",
       "Title": "General Discussion",
       "AgendaSequence": 30,
-      "MinutesSequence": 32,
+      "MinutesSequence": 37,
       "AgendaNumber": "16.",
       "Version": "",
       "AgendaNote": "GENERAL DISCUSSION",
-      "LastModified": "2024-01-30T16:53:40.333Z"
+      "LastModified": "2024-01-30T22:26:03.927Z"
     },
     {
       "ID": 402570,
       "GUID": "7600495E-12DD-4F4F-AE60-B149A04FE985",
       "Title": "Extension of Remarks",
       "AgendaSequence": 31,
-      "MinutesSequence": 33,
+      "MinutesSequence": 38,
       "AgendaNumber": "17.",
       "Version": "",
       "AgendaNote": "EXTENSION OF REMARKS",
-      "LastModified": "2024-01-30T20:16:34.583Z"
+      "LastModified": "2024-01-30T23:27:52.203Z"
     },
     {
       "ID": 402679,
       "GUID": "EA89B43C-F26D-4561-AA67-777732B67335",
       "Title": "Council Member Yeger - Motion to lay the items aside.",
       "AgendaSequence": 0,
-      "MinutesSequence": 10,
+      "MinutesSequence": 12,
       "Version": "*",
+      "ActionID": 5091,
+      "ActionName": "A Motion was made and Failed by Council",
+      "ActionText": "A motion was made that Failed by Council by Roll Call.",
+      "PassedFlagName": "Fail",
       "MatterID": 72399,
       "MatterFile": "T2024-0109",
       "MatterName": "Council Member Yeger - Motion to lay the items aside.",
       "MatterType": "Motion",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-01-30T20:16:34.33Z"
+      "MatterStatus": "Disapproved",
+      "LastModified": "2024-01-30T23:29:23.01Z"
     },
     {
       "ID": 402680,
       "GUID": "CFDD1C0A-1D15-4F52-AF60-B7EA5BBC5315",
-      "Title": "Motion to decouple the vote.",
+      "Title": "Council Member Yeger's - Motion to de-couple an item from the General Orders Calendar.",
       "AgendaSequence": 0,
-      "MinutesSequence": 11,
+      "MinutesSequence": 13,
       "Version": "*",
+      "ActionText": "The motion was denied by the Majority Leader and Acting President Pro Tempore (Council Member Farias).",
       "MatterID": 72400,
       "MatterFile": "T2024-0110",
-      "MatterName": "Motion to decouple the vote.",
+      "MatterName": "Council Member Yeger's - Motion to de-couple an item from the General Orders Calendar.",
       "MatterType": "Motion",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-01-30T20:16:40.917Z"
+      "MatterStatus": "Disapproved",
+      "LastModified": "2024-01-30T23:35:55.31Z"
+    },
+    {
+      "ID": 402681,
+      "GUID": "2A3F5CE9-5B8B-43C9-B7D4-99E0FD3DED62",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "MinutesNote": "The Majority Leader (Council Member Farías) presiding as the President Pro Tempore.",
+      "LastModified": "2024-01-30T22:26:03.893Z"
+    },
+    {
+      "ID": 402682,
+      "GUID": "8BE65199-55AB-41E9-A15F-FD9408AAD615",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "",
+      "MinutesNote": "The presence of a quorum was announced by the Majority Leader and Acting President Pro Tempore (Council Member Farías).\r\n\r\nThere were 51 Council Members marked present at this Stated Meeting.",
+      "LastModified": "2024-01-30T22:29:38.167Z"
+    },
+    {
+      "ID": 402683,
+      "GUID": "B3DCDE53-EC93-4A78-B711-9D6B282C4EFC",
+      "Title": "Passed The Consent Agenda",
+      "AgendaSequence": 0,
+      "MinutesSequence": 32,
+      "Version": "",
+      "ActionText": "A motion was made that these files be approved by consent vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
+      "LastModified": "2024-01-30T22:26:03.92Z"
+    },
+    {
+      "ID": 402684,
+      "GUID": "A71F752B-AF21-4879-A5E3-E44603AD1D19",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 31,
+      "Version": "",
+      "MinutesNote": "The Majority Leader and Acting President Pro Tempore (Council Member Farías) put the question whether the Council would agree with and adopt such reports, which were decided in the affirmative by the following vote:",
+      "LastModified": "2024-01-30T22:26:03.92Z"
+    },
+    {
+      "ID": 402685,
+      "GUID": "298CEECB-53C5-4E17-AEDE-7BC0E12C611A",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 33,
+      "Version": "",
+      "MinutesNote": "The following files were removed from the General Order Calendar and voted separately:\r\n\r\nInt. No. 549-A,  OVERRIDE VOTE :42-9-0 \r\nNegative: Council Members Ariola, Carr, Holden, Marmorato, Paladino, Vernikov, Yeger, Zhuang, and the Minority Leader (Council Member Borelli).\r\n\r\nM-12  (Coupled to be Filed) : 42-9-0\r\nNegative: Council Members Ariola, Carr, Holden, Marmorato, Paladino, Vernikov, Yeger, Zhuang, and the Minority Leader (Council Member Borelli).\r\n\r\nInt. No. 586-A, OVERRIDE VOTE: 42-9-0 \r\nNegative: Council Members Ariola, Carr, Holden, Marmorato, Paladino, Vernikov, Yeger, Zhuang, and the Minority Leader (Council Member Borelli).\r\n\r\nM-13  (Coupled to be Filed) : 42-9-0\r\nNegative: Council Members Ariola, Carr, Holden, Marmorato, Paladino, Vernikov, Yeger, Zhuang, and the Minority Leader (Council Member Borelli).\r\n\r\n\r\n\r\nSee files for individual votes.",
+      "LastModified": "2024-01-30T22:29:00.987Z"
+    },
+    {
+      "ID": 402686,
+      "GUID": "2298BE47-98D3-4773-B493-6ECEA297B0EB",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 39,
+      "Version": "",
+      "MinutesNote": "At this point the Speaker (Council Member Adams) made the following announcements:",
+      "LastModified": "2024-01-30T22:26:03.927Z"
+    },
+    {
+      "ID": 402687,
+      "GUID": "D7DDF521-C9FB-40AC-B291-5FDE80ECF03E",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 40,
+      "Version": "",
+      "MinutesNote": "Whereupon on motion of the Speaker (Council Member Adams), the Majority Leader and Acting President Pro Tempore (Council Member Farías) adjourned these proceedings to meet again for the Stated Meeting of Thursday, February 8, 2024.\r\n\r\nMICHAEL McSWEENEY, City Clerk\r\nClerk of the Council",
+      "LastModified": "2024-01-30T23:26:17.653Z"
     }
   ],
   "AgendaLastPublished": "2024-01-30T17:58:03.18Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-01-30T19:32:58.767Z"
+  "MinutesLastPublished": "2024-01-30T23:33:32.457Z",
+  "LastModified": "2024-01-30T23:33:32.537Z"
 }
