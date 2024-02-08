@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/2/20619_A_Committee_on_Health_24-02-08_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/2/20619_M_Committee_on_Health_24-02-08_Meeting_Minutes.pdf",
   "Comment": "VOTE",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_240208-100727.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20619&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,19 +21,167 @@
       "GUID": "9275AD7A-951C-4136-AEEC-A182FF8660C3",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of health and mental hygiene to develop a citywide population health agenda",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
-      "Version": "A",
-      "AgendaNote": "Proposed Preconsidered Int. No. ___-A",
-      "MinutesNote": "Proposed Preconsidered Int. No. ___-A",
+      "MinutesSequence": 2,
+      "Version": "*",
+      "AgendaNote": "Proposed Preconsidered Int. No. 93-A",
+      "MinutesNote": "Preconsidered Int. No. 93-A",
+      "ActionID": 15,
+      "ActionName": "Hearing on P-C Item by Comm",
+      "ActionText": "This Introduction was Hearing on P-C Item by Comm",
       "MatterID": 72347,
-      "MatterFile": "T2024-0057",
+      "MatterFile": "Int 0093-2024",
       "MatterName": "Requiring the department of health and mental hygiene to develop a healthy nyc population health agenda.",
       "MatterType": "Introduction",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-02-05T15:06:50.743Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2024-02-08T16:35:13.08Z"
+    },
+    {
+      "ID": 403261,
+      "GUID": "43AE280D-29F9-4636-94A4-CDD3D4ADB3AF",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7749,
+          "Slug": "kalman-yeger",
+          "FullName": "Kalman Yeger",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 90
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        }
+      ],
+      "LastModified": "2024-02-08T15:25:44.417Z"
+    },
+    {
+      "ID": 403262,
+      "GUID": "981FD0F4-0E17-4BC1-A3CA-11DDA40DBED0",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of health and mental hygiene to develop a citywide population health agenda",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "ActionID": 25,
+      "ActionName": "P-C Item Approved by Comm",
+      "ActionText": "This Introduction was P-C Item Approved by Comm",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 72347,
+      "MatterFile": "Int 0093-2024",
+      "MatterName": "Requiring the department of health and mental hygiene to develop a healthy nyc population health agenda.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2024-02-08T16:44:56.313Z"
+    },
+    {
+      "ID": 403291,
+      "GUID": "5C95E576-9893-455C-9489-A1BC575B648A",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of health and mental hygiene to develop a citywide population health agenda",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 72347,
+      "MatterFile": "Int 0093-2024",
+      "MatterName": "Requiring the department of health and mental hygiene to develop a healthy nyc population health agenda.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2024-02-08T16:35:30.483Z"
+    },
+    {
+      "ID": 403292,
+      "GUID": "81A0686A-06FB-47A0-A76C-3D80B6FE7739",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of health and mental hygiene to develop a citywide population health agenda",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 72347,
+      "MatterFile": "Int 0093-2024",
+      "MatterName": "Requiring the department of health and mental hygiene to develop a healthy nyc population health agenda.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2024-02-08T16:35:38.853Z"
     }
   ],
-  "AgendaLastPublished": "2024-02-05T15:02:58.487Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-02-05T15:02:58.597Z"
+  "AgendaLastPublished": "2024-02-08T16:27:31.667Z",
+  "MinutesLastPublished": "2024-02-08T16:45:01.863Z",
+  "LastModified": "2024-02-08T16:45:01.973Z"
 }
