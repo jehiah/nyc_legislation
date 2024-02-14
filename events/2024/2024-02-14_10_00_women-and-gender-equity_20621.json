@@ -8,11 +8,13 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/2/20621_A_Committee_on_Women_and_Gender_Equity_24-02-14_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/2/20621_M_Committee_on_Women_and_Gender_Equity_24-02-14_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Health.",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_240214-101501.mp4",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_240214-101501.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20621&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -20,26 +22,108 @@
       "GUID": "18EA0853-B64A-4FE1-B58C-0C533E1C7E50",
       "Title": "Oversight – Addressing Disparities in Women’s Health",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 72563,
       "MatterFile": "T2024-0273",
       "MatterName": "Oversight – Addressing Disparities in Women’s Health",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-02-13T21:30:27.587Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-02-14T18:01:38.837Z"
     },
     {
       "ID": 402971,
       "GUID": "DAFB675F-48A5-4FA8-B761-7C73328C1A7F",
       "Title": "Jointly with the Committee on Health",
       "AgendaSequence": 2,
+      "MinutesSequence": 5,
+      "Version": "",
+      "LastModified": "2024-02-14T18:00:48.317Z"
+    },
+    {
+      "ID": 403620,
+      "GUID": "C22CE022-0D71-47F3-9A7D-1A90096630FC",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        }
+      ],
+      "LastModified": "2024-02-14T18:00:54.557Z"
+    },
+    {
+      "ID": 403621,
+      "GUID": "542EE801-0042-46AB-BB05-77C1963D4EE5",
+      "Title": "",
+      "AgendaSequence": 0,
       "MinutesSequence": 2,
       "Version": "",
-      "LastModified": "2024-02-06T20:16:22.347Z"
+      "MinutesNote": "Other Council Members Attending: Schulman, Menin, Narcisse, De La Rosa, Ariola and Marmorato ",
+      "LastModified": "2024-02-14T18:01:35.013Z"
+    },
+    {
+      "ID": 403622,
+      "GUID": "A0DB2478-800E-4BB7-8331-A18A9EBFA295",
+      "Title": "Oversight – Addressing Disparities in Women’s Health",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 72563,
+      "MatterFile": "T2024-0273",
+      "MatterName": "Oversight – Addressing Disparities in Women’s Health",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-02-14T18:01:46.27Z"
     }
   ],
   "AgendaLastPublished": "2024-02-06T20:16:41.48Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-02-14T16:53:58.907Z"
+  "MinutesLastPublished": "2024-02-14T18:01:51.947Z",
+  "LastModified": "2024-02-14T18:01:52.04Z"
 }

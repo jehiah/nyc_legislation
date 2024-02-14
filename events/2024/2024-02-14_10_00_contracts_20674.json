@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/2/20674_A_Committee_on_Contracts_24-02-14_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/2/20674_M_Committee_on_Contracts_24-02-14_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Transportation and Infrastructure",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20674&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,40 +20,142 @@
       "GUID": "7061BD8D-70C8-42FE-B0E8-78409EB04485",
       "Title": "A Local Law to amend the New York city charter, in relation to establishing auditing requirements for minority and women-owned business enterprise procurement",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 72434,
       "MatterFile": "Int 0023-2024",
       "MatterName": "Establishing auditing requirements for minority and women-owned business enterprise procurement.",
       "MatterType": "Introduction",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-02-08T17:02:29.933Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2024-02-14T20:11:04.907Z"
     },
     {
       "ID": 403298,
       "GUID": "0B80D8E5-322F-49A8-A270-D61F689BBBA4",
       "Title": "Jointly with the Committee on Transportation and Infrastructure",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "",
-      "LastModified": "2024-02-08T17:02:55.213Z"
+      "LastModified": "2024-02-14T20:10:05.623Z"
     },
     {
       "ID": 403299,
       "GUID": "39ECF480-3BFA-4182-A09D-751E6467CE32",
       "Title": "Oversight - Examining the City's Infrastructure Projects through the Lens of Equity.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 72439,
       "MatterFile": "T2024-0149",
       "MatterName": "Oversight - Examining the City's Infrastructure Projects through the Lens of Equity.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-02-08T17:03:14.793Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-02-14T20:10:54.683Z"
+    },
+    {
+      "ID": 403647,
+      "GUID": "DF16E9CB-7CC6-4C5F-88B0-A9A5368A23DC",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        }
+      ],
+      "LastModified": "2024-02-14T20:10:17.02Z"
+    },
+    {
+      "ID": 403648,
+      "GUID": "62FAA214-EBCC-4D60-B40B-26E8B6A67557",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Brooks-Powers, Farías, Banks, De La Rosa, Narcisse, Ariola and Rivera",
+      "LastModified": "2024-02-14T20:10:50.223Z"
+    },
+    {
+      "ID": 403649,
+      "GUID": "76F7D3D0-4D68-4431-91C0-402301FF4A67",
+      "Title": "Oversight - Examining the City's Infrastructure Projects through the Lens of Equity.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 72439,
+      "MatterFile": "T2024-0149",
+      "MatterName": "Oversight - Examining the City's Infrastructure Projects through the Lens of Equity.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-02-14T20:10:59.043Z"
+    },
+    {
+      "ID": 403650,
+      "GUID": "A1C30A7D-0628-4BA3-AB79-3CF507ACAD13",
+      "Title": "A Local Law to amend the New York city charter, in relation to establishing auditing requirements for minority and women-owned business enterprise procurement",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 72434,
+      "MatterFile": "Int 0023-2024",
+      "MatterName": "Establishing auditing requirements for minority and women-owned business enterprise procurement.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2024-02-14T20:11:10.213Z"
     }
   ],
   "AgendaLastPublished": "2024-02-08T19:37:19.613Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-02-08T19:37:19.643Z"
+  "MinutesLastPublished": "2024-02-14T20:11:15.993Z",
+  "LastModified": "2024-02-14T20:11:16.087Z"
 }
