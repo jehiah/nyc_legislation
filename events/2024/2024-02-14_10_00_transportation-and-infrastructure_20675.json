@@ -8,11 +8,13 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/2/20675_A_Committee_on_Transportation_and_Infrastructure_24-02-14_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/2/20675_M_Committee_on_Transportation_and_Infrastructure_24-02-14_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Contracts.",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_240214-101950.mp4",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_240214-101950.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20675&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -20,40 +22,164 @@
       "GUID": "849FDC87-1F04-4CE8-A77B-FD18FC263751",
       "Title": "A Local Law to amend the New York city charter, in relation to establishing auditing requirements for minority and women-owned business enterprise procurement",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 72434,
       "MatterFile": "Int 0023-2024",
       "MatterName": "Establishing auditing requirements for minority and women-owned business enterprise procurement.",
       "MatterType": "Introduction",
       "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2024-02-13T21:33:54.377Z"
+      "LastModified": "2024-02-15T15:42:04.49Z"
     },
     {
       "ID": 403301,
       "GUID": "1A48B13E-A3F2-4238-BCFB-622A3A61809E",
       "Title": "Jointly with the Committee on Contracts",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 6,
       "Version": "",
-      "LastModified": "2024-02-08T17:05:33.71Z"
+      "LastModified": "2024-02-15T15:42:04.49Z"
     },
     {
       "ID": 403302,
       "GUID": "2D799923-0928-4341-99FD-C5567E860EE0",
       "Title": "Oversight - Examining the City's Infrastructure Projects through the Lens of Equity.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 72437,
       "MatterFile": "T2024-0147",
       "MatterName": "Oversight - Examining the City's Infrastructure Projects through the Lens of Equity.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-02-08T17:05:52.51Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-02-15T15:42:04.487Z"
+    },
+    {
+      "ID": 403671,
+      "GUID": "360D0A83-F93D-408D-9F36-49A26D258365",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7740,
+          "Slug": "carlina-rivera",
+          "FullName": "Carlina Rivera",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2024-02-15T15:42:07.783Z"
+    },
+    {
+      "ID": 403673,
+      "GUID": "CB34BFB1-04F2-4856-93AC-22C388B349EE",
+      "Title": "Oversight - Examining the City's Infrastructure Projects through the Lens of Equity.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 72437,
+      "MatterFile": "T2024-0147",
+      "MatterName": "Oversight - Examining the City's Infrastructure Projects through the Lens of Equity.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-02-15T15:42:04.487Z"
+    },
+    {
+      "ID": 403674,
+      "GUID": "76E9DD1C-EC9A-48DB-A632-59A62E025C6C",
+      "Title": "A Local Law to amend the New York city charter, in relation to establishing auditing requirements for minority and women-owned business enterprise procurement",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 72434,
+      "MatterFile": "Int 0023-2024",
+      "MatterName": "Establishing auditing requirements for minority and women-owned business enterprise procurement.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2024-02-15T15:42:04.49Z"
     }
   ],
   "AgendaLastPublished": "2024-02-08T19:36:45.213Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-02-14T19:03:23.103Z"
+  "MinutesLastPublished": "2024-02-15T15:42:16.07Z",
+  "LastModified": "2024-02-15T15:42:16.337Z"
 }
