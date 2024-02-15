@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/2/20687_A_Committee_on_Economic_Development_24-02-15_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/2/20687_M_Committee_on_Economic_Development_24-02-15_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_240215-101941.mp4",
   "InSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=20687&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,31 +20,139 @@
       "GUID": "5B28F1D3-CADC-42AB-B832-3D66C2EEB3DB",
       "Title": "Oversight - Using Shore Power at City Cruise Terminals.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 72384,
       "MatterFile": "T2024-0094",
       "MatterName": "Oversight - Using Shore Power at City Cruise Terminals.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-02-12T22:38:49.33Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-02-15T21:17:38.06Z"
     },
     {
       "ID": 403448,
       "GUID": "1FBE51BB-F1A9-461B-9858-F3B29BB4B98D",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the use of shore power by cruise terminal operators and community traffic mitigation plans in neighborhoods impacted by cruise ships at berth",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 72294,
       "MatterFile": "Int 0004-2024",
       "MatterName": "Requiring the use of shore power by cruise terminal operators and community traffic mitigation plans in neighborhoods impacted by cruise ships at berth.",
       "MatterType": "Introduction",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-02-12T22:39:01.993Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2024-02-15T21:17:49.52Z"
+    },
+    {
+      "ID": 403743,
+      "GUID": "089AE17D-4462-404B-B42D-1DCE64806686",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2024-02-15T21:17:31.523Z"
+    },
+    {
+      "ID": 403744,
+      "GUID": "62AB2F47-7560-4266-8E7E-011A271B9405",
+      "Title": "Oversight - Using Shore Power at City Cruise Terminals.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 72384,
+      "MatterFile": "T2024-0094",
+      "MatterName": "Oversight - Using Shore Power at City Cruise Terminals.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-02-15T21:17:42.853Z"
+    },
+    {
+      "ID": 403745,
+      "GUID": "AB494441-3D00-43BC-8C49-80E04F5BD079",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the use of shore power by cruise terminal operators and community traffic mitigation plans in neighborhoods impacted by cruise ships at berth",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 72294,
+      "MatterFile": "Int 0004-2024",
+      "MatterName": "Requiring the use of shore power by cruise terminal operators and community traffic mitigation plans in neighborhoods impacted by cruise ships at berth.",
+      "MatterType": "Introduction",
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2024-02-15T21:18:42.12Z"
     }
   ],
   "AgendaLastPublished": "2024-02-12T22:39:07.39Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-02-15T15:19:43.483Z"
+  "MinutesLastPublished": "2024-02-15T21:18:47.243Z",
+  "LastModified": "2024-02-15T21:18:47.307Z"
 }
