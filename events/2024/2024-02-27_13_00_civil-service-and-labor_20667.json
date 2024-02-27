@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/2/20667_A_Committee_on_Civil_Service_and_Labor_24-02-27_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/2/20667_M_Committee_on_Civil_Service_and_Labor_24-02-27_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-250-16_240227-130608.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20667&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,31 +20,164 @@
       "GUID": "35822B4D-E94C-40B5-94A1-BAFF7D36CE72",
       "Title": "Oversight - Optimizing the City Civil Service Exam System.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 72441,
       "MatterFile": "T2024-0151",
       "MatterName": "Oversight - Optimizing the City Civil Service Exam System.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-02-26T17:11:34.893Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-02-27T19:37:14.923Z"
     },
     {
       "ID": 404761,
       "GUID": "B73EC826-24A8-47A2-9653-66E5FAA7ADD6",
       "Title": "Resolution calling on the Commissioner of Citywide Administrative Services to implement the band scoring method for establishing eligible lists for competitive civil service titles.",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
       "AgendaNote": "Preconsidered",
+      "ActionID": 15,
+      "ActionName": "Hearing on P-C Item by Comm",
+      "ActionText": "This Resolution was Hearing on P-C Item by Comm",
       "MatterID": 73152,
       "MatterFile": "T2024-0862",
-      "MatterName": "To implement the band scoring method for establishing eligible lists for competitive civil service titles.",
+      "MatterName": "Implement the band scoring method for establishing eligible lists for competitive civil service titles.",
       "MatterType": "Resolution",
-      "LastModified": "2024-02-26T17:13:28.493Z"
+      "LastModified": "2024-02-27T19:37:31.247Z"
+    },
+    {
+      "ID": 404842,
+      "GUID": "D2983332-DB8D-4685-B1C1-6E2CB8D81837",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "LastModified": "2024-02-27T19:34:48.92Z"
+    },
+    {
+      "ID": 404843,
+      "GUID": "CCC32E69-37A8-46EB-8CA1-74B6EC980237",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Farías",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 30
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2024-02-27T19:37:04.853Z"
+    },
+    {
+      "ID": 404844,
+      "GUID": "3F3A524F-397F-4EFB-A9A9-4BEF3BCC5AFD",
+      "Title": "Oversight - Optimizing the City Civil Service Exam System.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 72441,
+      "MatterFile": "T2024-0151",
+      "MatterName": "Oversight - Optimizing the City Civil Service Exam System.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-02-27T19:37:18.71Z"
+    },
+    {
+      "ID": 404845,
+      "GUID": "9A83A1F6-DAAB-4C3D-8F3A-B9F8A3FD0874",
+      "Title": "Resolution calling on the Commissioner of Citywide Administrative Services to implement the band scoring method for establishing eligible lists for competitive civil service titles.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 5018,
+      "ActionName": "P-C Item Laid Over by Comm",
+      "ActionText": "This Resolution was P-C Item Laid Over by Comm",
+      "MatterID": 73152,
+      "MatterFile": "T2024-0862",
+      "MatterName": "Implement the band scoring method for establishing eligible lists for competitive civil service titles.",
+      "MatterType": "Resolution",
+      "LastModified": "2024-02-27T19:37:41.833Z"
     }
   ],
   "AgendaLastPublished": "2024-02-26T17:13:34.657Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-02-26T17:13:34.767Z"
+  "MinutesLastPublished": "2024-02-27T19:37:48.773Z",
+  "LastModified": "2024-02-27T19:37:48.897Z"
 }

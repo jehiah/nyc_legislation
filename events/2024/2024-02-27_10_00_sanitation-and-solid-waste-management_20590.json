@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/2/20590_A_Committee_on_Sanitation_and_Solid_Waste_Management_24-02-27_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/2/20590_M_Committee_on_Sanitation_and_Solid_Waste_Management_24-02-27_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_240227-100648.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20590&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,7 +20,7 @@
       "GUID": "33B6FA53-8931-4954-A3E5-DC55228FCE95",
       "Title": "Oversight - The City’s Infrastructure to Handle & Process Organic Waste.",
       "AgendaSequence": 1,
-      "MinutesSequence": 2,
+      "MinutesSequence": 3,
       "Version": "*",
       "ActionID": 54,
       "ActionName": "Hearing Held by Committee",
@@ -28,7 +29,7 @@
       "MatterFile": "T2024-0121",
       "MatterName": "Oversight - The City’s Infrastructure to Handle & Process Organic Waste.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Filed",
       "LastModified": "2024-02-27T15:46:32.063Z"
     },
     {
@@ -36,7 +37,7 @@
       "GUID": "53663BD4-D7B6-4DB7-AF91-4739629EC775",
       "Title": "Resolution calling on the New York City Department of Sanitation and the Department of Parks and Recreation to continue to engage and collaborate with local communities to encourage and allow community composting to be carried out on parkland.",
       "AgendaSequence": 5,
-      "MinutesSequence": 11,
+      "MinutesSequence": 12,
       "Version": "*",
       "AgendaNote": "Preconsidered",
       "ActionID": 15,
@@ -53,7 +54,7 @@
       "GUID": "76E1D195-D8E4-470C-A125-A806BAC9C641",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of sanitation to accept commercial solid waste at city-owned or operated marine transfer stations and city-owned or operated rail transfer stations",
       "AgendaSequence": 2,
-      "MinutesSequence": 4,
+      "MinutesSequence": 5,
       "Version": "*",
       "ActionID": 54,
       "ActionName": "Hearing Held by Committee",
@@ -69,7 +70,7 @@
       "GUID": "CA673D58-757D-40B4-9CF4-87734FCB21CF",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to increasing the civil penalty for repeated littering violations",
       "AgendaSequence": 3,
-      "MinutesSequence": 6,
+      "MinutesSequence": 7,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 97-A",
       "MinutesNote": "Proposed Int. No. 97-A",
@@ -85,9 +86,9 @@
     {
       "ID": 403909,
       "GUID": "D6E4EFDB-B951-446A-9C5F-523494C0E65A",
-      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to public organic waste receptacles",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to public organic waste receptacles.",
       "AgendaSequence": 4,
-      "MinutesSequence": 9,
+      "MinutesSequence": 10,
       "Version": "*",
       "AgendaNote": "Preconsidered",
       "ActionID": 15,
@@ -104,7 +105,7 @@
       "GUID": "16764DCD-6936-4DC3-B918-121DAA4C42CF",
       "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, A.5322-A/S.4246-A, also known as the Packaging Reduction and Recycling Infrastructure Act, which would establish an extended producer responsibility system for packaging.",
       "AgendaSequence": 6,
-      "MinutesSequence": 13,
+      "MinutesSequence": 14,
       "Version": "*",
       "AgendaNote": "Preconsidered",
       "ActionID": 15,
@@ -123,41 +124,146 @@
       "AgendaSequence": 0,
       "MinutesSequence": 1,
       "Version": "",
-      "LastModified": "2024-02-27T15:46:28.487Z"
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7749,
+          "Slug": "kalman-yeger",
+          "FullName": "Kalman Yeger",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 110
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        }
+      ],
+      "LastModified": "2024-02-27T19:45:20.553Z"
     },
     {
       "ID": 404825,
       "GUID": "48D2F73A-B2A2-4EF6-A303-89A925D077D2",
       "Title": "Oversight - The City’s Infrastructure to Handle & Process Organic Waste.",
       "AgendaSequence": 0,
-      "MinutesSequence": 3,
+      "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 72411,
       "MatterFile": "T2024-0121",
       "MatterName": "Oversight - The City’s Infrastructure to Handle & Process Organic Waste.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-02-27T15:46:11.713Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-02-27T19:48:46.6Z"
     },
     {
       "ID": 404826,
       "GUID": "48B5C6CC-996C-474E-864F-564843977AB6",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of sanitation to accept commercial solid waste at city-owned or operated marine transfer stations and city-owned or operated rail transfer stations",
       "AgendaSequence": 0,
-      "MinutesSequence": 5,
+      "MinutesSequence": 6,
       "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
       "MatterID": 72340,
       "MatterFile": "Int 0055-2024",
       "MatterName": "Requiring the department of sanitation to accept commercial solid waste at city-owned or operated marine transfer stations and city-owned or operated rail transfer stations.",
       "MatterType": "Introduction",
-      "LastModified": "2024-02-27T15:46:14.61Z"
+      "LastModified": "2024-02-27T19:45:48.91Z"
     },
     {
       "ID": 404827,
       "GUID": "31CAD151-F8F3-469B-ABE2-DC412C5473F0",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to increasing the civil penalty for repeated littering violations",
       "AgendaSequence": 0,
-      "MinutesSequence": 7,
+      "MinutesSequence": 8,
       "Version": "*",
       "ActionID": 5001,
       "ActionName": "Amendment Proposed by Comm",
@@ -173,55 +279,77 @@
       "GUID": "782A6D22-B4B9-4F33-A17C-E7E46F6C3BFF",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to increasing the civil penalty for repeated littering violations",
       "AgendaSequence": 0,
-      "MinutesSequence": 8,
+      "MinutesSequence": 9,
       "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
       "MatterID": 72408,
       "MatterFile": "Int 0097-2024",
       "MatterName": "Increasing the civil penalty for repeated littering violations.",
       "MatterType": "Introduction",
-      "LastModified": "2024-02-27T15:46:19.113Z"
+      "LastModified": "2024-02-27T19:46:00.88Z"
     },
     {
       "ID": 404829,
       "GUID": "F2124EBA-D054-46A9-A76F-8EB71DDF5149",
-      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to public organic waste receptacles",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to public organic waste receptacles.",
       "AgendaSequence": 0,
-      "MinutesSequence": 10,
+      "MinutesSequence": 11,
       "Version": "*",
+      "ActionID": 5018,
+      "ActionName": "P-C Item Laid Over by Comm",
+      "ActionText": "This Introduction was P-C Item Laid Over by Comm",
       "MatterID": 72648,
       "MatterFile": "T2024-0358",
       "MatterName": "Public organic waste receptacles.",
       "MatterType": "Introduction",
-      "LastModified": "2024-02-27T15:46:20.93Z"
+      "LastModified": "2024-02-27T19:46:12.84Z"
     },
     {
       "ID": 404830,
       "GUID": "FEA62F4C-8DF9-41DA-8F03-5EEFE8DF4DE1",
       "Title": "Resolution calling on the New York City Department of Sanitation and the Department of Parks and Recreation to continue to engage and collaborate with local communities to encourage and allow community composting to be carried out on parkland.",
       "AgendaSequence": 0,
-      "MinutesSequence": 12,
+      "MinutesSequence": 13,
       "Version": "*",
+      "ActionID": 5018,
+      "ActionName": "P-C Item Laid Over by Comm",
+      "ActionText": "This Resolution was P-C Item Laid Over by Comm",
       "MatterID": 72389,
       "MatterFile": "T2024-0099",
       "MatterName": "NYC Dept of Sanitation and the Dept of Parks and Recreation to continue to engage and collaborate with local communities to encourage and allow community composting to be carried out on parkland.",
       "MatterType": "Resolution",
-      "LastModified": "2024-02-27T15:46:23.043Z"
+      "LastModified": "2024-02-27T19:46:23.647Z"
     },
     {
       "ID": 404831,
       "GUID": "08D7D9AA-510D-47B2-BF87-FA0DF20A694A",
       "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, A.5322-A/S.4246-A, also known as the Packaging Reduction and Recycling Infrastructure Act, which would establish an extended producer responsibility system for packaging.",
       "AgendaSequence": 0,
-      "MinutesSequence": 14,
+      "MinutesSequence": 15,
       "Version": "*",
+      "ActionID": 5018,
+      "ActionName": "P-C Item Laid Over by Comm",
+      "ActionText": "This Resolution was P-C Item Laid Over by Comm",
       "MatterID": 73033,
       "MatterFile": "T2024-0743",
       "MatterName": "Packaging Reduction and Recycling Infrastructure Act (A.5322-A/S.4246-A).",
       "MatterType": "Resolution",
-      "LastModified": "2024-02-27T15:46:25.567Z"
+      "LastModified": "2024-02-27T19:46:49.18Z"
+    },
+    {
+      "ID": 404846,
+      "GUID": "AFEF229C-56B5-401C-8150-DFD74FB2A559",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Restler, Hanif and Brewer",
+      "LastModified": "2024-02-27T19:45:15.987Z"
     }
   ],
   "AgendaLastPublished": "2024-02-23T19:39:34.853Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-02-27T17:23:06.213Z"
+  "MinutesLastPublished": "2024-02-27T19:48:52.203Z",
+  "LastModified": "2024-02-27T19:48:52.563Z"
 }

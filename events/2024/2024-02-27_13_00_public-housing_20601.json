@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/2/20601_A_Committee_on_Public_Housing_24-02-27_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/2/20601_M_Committee_on_Public_Housing_24-02-27_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Contracts and the Committee on Oversight & Investigations.",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20601&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,26 +20,140 @@
       "GUID": "C5A9790E-12A1-4993-8CDC-3971E41C2C64",
       "Title": "Jointly with the Committee on Contracts and the Committee on Oversight & Investigations",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "",
-      "LastModified": "2024-02-14T17:38:08.773Z"
+      "LastModified": "2024-02-27T21:33:38.533Z"
     },
     {
       "ID": 403412,
       "GUID": "E57E503E-C2E4-4B33-B7E4-46DBA0F88195",
       "Title": "Oversight - Examining NYCHA’s Response to Bribery and Extortion in Micro-Purchase Contracts.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 72686,
       "MatterFile": "T2024-0396",
       "MatterName": "Oversight - Examining NYCHA’s Response to Bribery and Extortion in Micro-Purchase Contracts.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-02-23T21:04:35.627Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-02-27T21:33:50.67Z"
+    },
+    {
+      "ID": 404857,
+      "GUID": "57ACDCAB-A000-4186-A00A-EED524EA0553",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Brewer, Yeger, Stevens, Krishnan, Rivera, Restler, Nurse, Ayala, Williams, Vernikov, Joseph, Dinowitz, and Public Advocate Williams",
+      "LastModified": "2024-02-27T21:33:36.54Z"
+    },
+    {
+      "ID": 404858,
+      "GUID": "8A36F456-8B7D-4391-8A2A-46460B0D0227",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2024-02-27T21:33:44.7Z"
+    },
+    {
+      "ID": 404859,
+      "GUID": "634B073E-5A54-4290-BB5B-6D648C7D7D4F",
+      "Title": "Oversight - Examining NYCHA’s Response to Bribery and Extortion in Micro-Purchase Contracts.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 72686,
+      "MatterFile": "T2024-0396",
+      "MatterName": "Oversight - Examining NYCHA’s Response to Bribery and Extortion in Micro-Purchase Contracts.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-02-27T21:33:58.227Z"
     }
   ],
   "AgendaLastPublished": "2024-02-14T17:38:15.557Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-02-14T17:38:15.587Z"
+  "MinutesLastPublished": "2024-02-27T21:34:04.427Z",
+  "LastModified": "2024-02-27T21:34:04.537Z"
 }

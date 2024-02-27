@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/2/20607_A_Committee_on_Aging_24-02-27_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/2/20607_M_Committee_on_Aging_24-02-27_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Immigration.",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_240227-100837.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20607&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -37,7 +39,7 @@
       "MatterFile": "T2024-0142",
       "MatterName": "Oversight - The Needs of Immigrant Older Adults in NYC.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Filed",
       "LastModified": "2024-02-27T15:45:33.203Z"
     },
     {
@@ -64,7 +66,66 @@
       "AgendaSequence": 0,
       "MinutesSequence": 1,
       "Version": "",
-      "LastModified": "2024-02-27T15:45:22.65Z"
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2024-02-27T18:43:52.113Z"
     },
     {
       "ID": 404819,
@@ -73,8 +134,8 @@
       "AgendaSequence": 0,
       "MinutesSequence": 2,
       "Version": "",
-      "MinutesNote": "Other Council Members Attending: ",
-      "LastModified": "2024-02-27T15:45:30.343Z"
+      "MinutesNote": "Other Council Members Attending: Avilés, Hanif, Brewer, Bottcher, Joseph and Krishnan",
+      "LastModified": "2024-02-27T18:42:52.02Z"
     },
     {
       "ID": 404820,
@@ -83,12 +144,15 @@
       "AgendaSequence": 0,
       "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
       "MatterID": 72432,
       "MatterFile": "T2024-0142",
       "MatterName": "Oversight - The Needs of Immigrant Older Adults in NYC.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-02-27T15:45:17.69Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-02-27T18:43:21.387Z"
     },
     {
       "ID": 404821,
@@ -97,14 +161,17 @@
       "AgendaSequence": 0,
       "MinutesSequence": 6,
       "Version": "*",
+      "ActionID": 5018,
+      "ActionName": "P-C Item Laid Over by Comm",
+      "ActionText": "This Introduction was P-C Item Laid Over by Comm",
       "MatterID": 73027,
       "MatterFile": "T2024-0737",
       "MatterName": "The provision of information regarding the NYC Care program to older adults.",
       "MatterType": "Introduction",
-      "LastModified": "2024-02-27T15:45:19.85Z"
+      "LastModified": "2024-02-27T18:43:13.467Z"
     }
   ],
   "AgendaLastPublished": "2024-02-22T21:17:09.233Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-02-27T15:08:38.653Z"
+  "MinutesLastPublished": "2024-02-27T18:43:57.997Z",
+  "LastModified": "2024-02-27T18:43:58.243Z"
 }

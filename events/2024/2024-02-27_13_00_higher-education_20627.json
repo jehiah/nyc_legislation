@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/2/20627_A_Committee_on_Higher_Education_24-02-27_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/2/20627_M_Committee_on_Higher_Education_24-02-27_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Education.",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20627&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,26 +20,108 @@
       "GUID": "0DC33A02-6AD5-4440-97BA-8AF369086951",
       "Title": "Jointly with the Committee on Education.",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "",
-      "LastModified": "2024-02-05T23:00:44.743Z"
+      "LastModified": "2024-02-27T21:16:02.697Z"
     },
     {
       "ID": 402862,
       "GUID": "D00CA4FD-9038-483B-9456-BFF6CA63F865",
       "Title": "Oversight - Streamlined College Acceptance of NYC Public High School Graduates.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 72390,
       "MatterFile": "T2024-0100",
       "MatterName": "Oversight - Streamlined College Acceptance of NYC Public High School Graduates.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-02-05T23:02:16.22Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-02-27T21:16:17.58Z"
+    },
+    {
+      "ID": 404851,
+      "GUID": "3A4553F2-D262-49F0-B6CA-47B9F80F2AE2",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        }
+      ],
+      "LastModified": "2024-02-27T21:15:59.183Z"
+    },
+    {
+      "ID": 404852,
+      "GUID": "00457BCC-1DEC-48F2-BEB9-CAD8AA0431C9",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Joseph, Sanchez, Stevens, Lee, Gennaro, Krishnan, Schulman, Gutiérrez, Hanif, Louis, Narcisse and Hanks",
+      "LastModified": "2024-02-27T21:15:54.653Z"
+    },
+    {
+      "ID": 404853,
+      "GUID": "DC54106E-7E35-455F-B5F3-25E7C407A0D5",
+      "Title": "Oversight - Streamlined College Acceptance of NYC Public High School Graduates.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 72390,
+      "MatterFile": "T2024-0100",
+      "MatterName": "Oversight - Streamlined College Acceptance of NYC Public High School Graduates.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-02-27T21:16:08.497Z"
     }
   ],
   "AgendaLastPublished": "2024-02-05T23:02:22.643Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-02-05T23:02:22.877Z"
+  "MinutesLastPublished": "2024-02-27T21:16:25.343Z",
+  "LastModified": "2024-02-27T21:16:25.39Z"
 }
