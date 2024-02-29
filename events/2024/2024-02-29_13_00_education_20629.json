@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/2/20629_A_Committee_on_Education_24-02-29_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/2/20629_M_Committee_on_Education_24-02-29_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_240229-134831.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20629&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,30 +20,195 @@
       "GUID": "5C68815A-8E3C-4B3F-9E4A-127DCAC389F2",
       "Title": "Oversight - Implementing the State Class Size Law in New York City.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 72430,
       "MatterFile": "T2024-0140",
       "MatterName": "Oversight - Implementing the State Class Size Law in New York City.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-02-23T21:16:16.51Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-02-29T23:34:27.867Z"
     },
     {
       "ID": 402867,
       "GUID": "7D120BF4-01F7-4245-97D7-911A9643A56A",
       "Title": "A Local Law to amend the New York city charter and the administrative code of the city of New York, in relation to requiring the New York city department of education to report actual class sizes and expand reports on the amount of students in special programs in New York city public schools",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 72496,
       "MatterFile": "Int 0045-2024",
       "MatterName": "Requiring DOE to report actual class sizes and expand reports on the amount of students in special programs in New York city public schools.",
       "MatterType": "Introduction",
-      "LastModified": "2024-02-05T23:20:08.707Z"
+      "LastModified": "2024-02-29T23:34:34Z"
+    },
+    {
+      "ID": 405068,
+      "GUID": "93B074EC-9632-451F-976C-EEB85A0B1E8D",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 110
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 120
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 130
+        }
+      ],
+      "LastModified": "2024-02-29T23:34:10.067Z"
+    },
+    {
+      "ID": 405069,
+      "GUID": "8E2A2DF0-187F-45D4-A3A9-4E0E4C99948E",
+      "Title": "Oversight - Implementing the State Class Size Law in New York City.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 72430,
+      "MatterFile": "T2024-0140",
+      "MatterName": "Oversight - Implementing the State Class Size Law in New York City.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-02-29T23:34:31.037Z"
+    },
+    {
+      "ID": 405070,
+      "GUID": "EF1438B4-CF6D-462A-AB5B-745178311F94",
+      "Title": "A Local Law to amend the New York city charter and the administrative code of the city of New York, in relation to requiring the New York city department of education to report actual class sizes and expand reports on the amount of students in special programs in New York city public schools",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 72496,
+      "MatterFile": "Int 0045-2024",
+      "MatterName": "Requiring DOE to report actual class sizes and expand reports on the amount of students in special programs in New York city public schools.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-02-29T23:34:41.01Z"
+    },
+    {
+      "ID": 405071,
+      "GUID": "1431BEC0-33F0-471F-BB48-C80E59EA650F",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Brewer",
+      "LastModified": "2024-02-29T23:34:23.217Z"
     }
   ],
   "AgendaLastPublished": "2024-02-05T23:20:13.647Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-02-05T23:20:13.677Z"
+  "MinutesLastPublished": "2024-02-29T23:34:47.957Z",
+  "LastModified": "2024-02-29T23:34:48.067Z"
 }

@@ -8,10 +8,13 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/2/20694_A_Subcommittee_on_COVID___Infectious_Diseases_24-02-29_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/2/20694_M_Subcommittee_on_COVID___Infectious_Diseases_24-02-29_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Health.",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-250-16_240229-131129.mp4",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-250-16_240229-131129.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20694&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,26 +22,116 @@
       "GUID": "7DDC6855-86F8-4C9B-8323-7F5BA79969F3",
       "Title": "Jointly with the Committee on Health",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "",
-      "LastModified": "2024-02-15T17:58:06.563Z"
+      "LastModified": "2024-02-29T19:31:18.937Z"
     },
     {
       "ID": 403719,
       "GUID": "2596DC3C-1294-4CA5-BD7A-B0E9ECDD8545",
       "Title": "Oversight – Addressing the Decline in Childhood Vaccination Rates.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 72647,
       "MatterFile": "T2024-0357",
       "MatterName": "Oversight – Addressing the Decline in Childhood Vaccination Rates.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-02-23T21:15:49.277Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-02-29T19:31:54.443Z"
+    },
+    {
+      "ID": 405023,
+      "GUID": "4370F761-C907-46AE-9ACB-1E3BE4857A38",
+      "Title": "Roll Call ",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7740,
+          "Slug": "carlina-rivera",
+          "FullName": "Carlina Rivera",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 50
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        }
+      ],
+      "LastModified": "2024-02-29T19:31:15.97Z"
+    },
+    {
+      "ID": 405024,
+      "GUID": "A1F6CBD0-97BA-478B-9302-B73ED1AF24E2",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending:  Gennaro, Feliz, Yeger, De La Rosa, Ariola and  Menin",
+      "LastModified": "2024-02-29T20:42:20.87Z"
+    },
+    {
+      "ID": 405025,
+      "GUID": "887EC2A3-B3EA-48FC-A1D5-55629A8BC71F",
+      "Title": "Oversight – Addressing the Decline in Childhood Vaccination Rates.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 72647,
+      "MatterFile": "T2024-0357",
+      "MatterName": "Oversight – Addressing the Decline in Childhood Vaccination Rates.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-02-29T19:31:30Z"
     }
   ],
   "AgendaLastPublished": "2024-02-15T17:58:37.797Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-02-15T17:58:37.873Z"
+  "MinutesLastPublished": "2024-02-29T20:42:26.757Z",
+  "LastModified": "2024-02-29T20:42:26.837Z"
 }

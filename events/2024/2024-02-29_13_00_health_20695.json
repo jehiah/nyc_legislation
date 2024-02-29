@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/2/20695_A_Committee_on_Health_24-02-29_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/2/20695_M_Committee_on_Health_24-02-29_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Subcommittee on COVID & Infectious Diseases",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-250-16_240229-131129.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20695&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,26 +21,148 @@
       "GUID": "3D474FB0-F00F-410F-B30A-640FFEF0D53E",
       "Title": "Jointly with the Subcommittee on COVID & Infectious Diseases",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "",
-      "LastModified": "2024-02-15T18:00:27.78Z"
+      "LastModified": "2024-02-29T19:23:03.217Z"
     },
     {
       "ID": 403721,
       "GUID": "65C16837-9807-4CAD-BE5A-C43BA22FC05F",
       "Title": "Oversight – Addressing the Decline in Childhood Vaccination Rates.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 72654,
       "MatterFile": "T2024-0364",
       "MatterName": "Oversight – Addressing the Decline in Childhood Vaccination Rates.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-02-15T18:01:00.99Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-02-29T19:23:08.723Z"
+    },
+    {
+      "ID": 405019,
+      "GUID": "210FD76A-7A5C-4EE3-8434-E87DBC90DE30",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7749,
+          "Slug": "kalman-yeger",
+          "FullName": "Kalman Yeger",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        }
+      ],
+      "LastModified": "2024-02-29T19:23:27.353Z"
+    },
+    {
+      "ID": 405020,
+      "GUID": "CF0303D4-5297-4937-9E85-6E027E4535AB",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Mealy and Moya",
+      "LastModified": "2024-02-29T19:23:00.937Z"
+    },
+    {
+      "ID": 405021,
+      "GUID": "BA34CAA6-50E8-4624-86EA-C2A82040AE9B",
+      "Title": "Oversight – Addressing the Decline in Childhood Vaccination Rates.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 72654,
+      "MatterFile": "T2024-0364",
+      "MatterName": "Oversight – Addressing the Decline in Childhood Vaccination Rates.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-02-29T20:39:10.787Z"
     }
   ],
   "AgendaLastPublished": "2024-02-15T18:01:06.71Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-02-15T18:01:06.82Z"
+  "MinutesLastPublished": "2024-02-29T20:39:16.56Z",
+  "LastModified": "2024-02-29T20:39:16.723Z"
 }
