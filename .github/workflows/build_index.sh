@@ -84,7 +84,7 @@ else
     jq -c -s "map({File, Name, Title, Summary, StatusName, LastModified:  ([.History[]? | select(.ActionID == 27 or .ActionID == 33 or .ActionID == 32 or .ActionID == 68 or .ActionID == 58)])[-1]?.Date})" introduction/2022/????.json introduction/2023/????.json > build/search_index_2022-2023.json
 fi
 
-for FILE in resbumit/*.json; do
+for FILE in resubmit/*.json; do
     cp $FILE build/resubmit_$(basename $FILE)
 done
 
