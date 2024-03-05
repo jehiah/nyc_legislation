@@ -6,8 +6,8 @@
   "Title": "Application number C 240046 HAM (Timbale Terrace) submitted by the New York City Department of Housing Preservation and Development (HPD), pursuant to Article 16 of the General Municipal Law of New York State for the designation of an Urban Development Action Area and an Urban Development Action Area Project, and pursuant to Section 197-c of the New York City Charter for the disposition of such property to a developer to be selected by HPD, for property located at 101 East 118th Street (Block 1767, Lots 1, 2, 3, 4, 67, 68, 69, 71, 72, 168 and 169), Borough of Manhattan, Community District 11, Council District 9.",
   "TypeID": 10,
   "TypeName": "Land Use Application",
-  "StatusID": 5003,
-  "StatusName": "Companion Pending Approval by Council",
+  "StatusID": 3,
+  "StatusName": "Committee",
   "BodyID": 5261,
   "BodyName": "Subcommittee on Landmarks, Public Sitings and Dispositions",
   "IntroDate": "2024-02-08T00:00:00Z",
@@ -94,6 +94,101 @@
       "Version": "*",
       "MatterStatusID": 25,
       "LastModified": "2024-02-14T20:13:45.657Z"
+    },
+    {
+      "ID": 405180,
+      "Date": "2024-03-05T10:00:00Z",
+      "ActionID": 54,
+      "Action": "Hearing Held by Committee",
+      "Description": "This Land Use Application was Hearing Held by Committee",
+      "BodyID": 5261,
+      "BodyName": "Subcommittee on Landmarks, Public Sitings and Dispositions",
+      "EventID": 20699,
+      "AgendaSequence": 1,
+      "MinutesSequence": 2,
+      "Version": "*",
+      "MatterStatusID": 5003,
+      "LastModified": "2024-03-05T18:50:43.51Z"
+    },
+    {
+      "ID": 405797,
+      "Date": "2024-03-05T10:00:00Z",
+      "ActionID": 79,
+      "Action": "Approved by Subcommittee",
+      "Description": "This Land Use Application was Approved by Subcommittee",
+      "BodyID": 5261,
+      "BodyName": "Subcommittee on Landmarks, Public Sitings and Dispositions",
+      "EventID": 20699,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterStatusID": 3,
+      "Votes": [
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 10
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 20
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 30
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 40
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 50
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 60
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2024-03-05T18:54:52.163Z"
     },
     {
       "ID": 405167,
@@ -272,5 +367,5 @@
   ],
   "Summary": "",
   "TextID": 75888,
-  "LastModified": "2024-03-05T17:34:23.063Z"
+  "LastModified": "2024-03-05T18:52:34.983Z"
 }
