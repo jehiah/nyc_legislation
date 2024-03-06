@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/3/20691_A_Committee_on_Housing_and_Buildings_24-03-06_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/3/20691_M_Committee_on_Housing_and_Buildings_24-03-06_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_240306-101904.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20691&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,45 +20,171 @@
       "GUID": "F92922FA-5DA9-43F8-B534-815BC4DF3436",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to continuation of the New York city rent stabilization law of nineteen hundred sixty-nine",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "*",
       "AgendaNote": "Preconsidered",
+      "ActionID": 15,
+      "ActionName": "Hearing on P-C Item by Comm",
+      "ActionText": "This Introduction was Hearing on P-C Item by Comm",
       "MatterID": 73517,
-      "MatterFile": "T2024-1227",
+      "MatterFile": "Int 0653-2024",
       "MatterName": "Continuation of the New York city rent stabilization law of nineteen hundred sixty-nine.",
       "MatterType": "Introduction",
-      "LastModified": "2024-02-26T17:46:01.22Z"
+      "LastModified": "2024-03-06T18:45:52.26Z"
     },
     {
       "ID": 404768,
       "GUID": "7B5AA27F-9DE8-4384-8E06-E3FED23F7CC0",
       "Title": "Resolution determining that a public emergency requiring rent control in the City of New York continues to exist and will continue to exist on and after April 1, 2024.",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 6,
       "Version": "*",
       "AgendaNote": "Preconsidered",
+      "ActionID": 15,
+      "ActionName": "Hearing on P-C Item by Comm",
+      "ActionText": "This Resolution was Hearing on P-C Item by Comm",
       "MatterID": 73518,
-      "MatterFile": "T2024-1228",
+      "MatterFile": "Res 0256-2024",
       "MatterName": "Determining that a public emergency requiring rent control in the City of New York continues to exist and will continue to exist on and after April 1, 2024.",
       "MatterType": "Resolution",
-      "LastModified": "2024-03-01T20:43:39.153Z"
+      "LastModified": "2024-03-06T18:45:56.78Z"
     },
     {
       "ID": 404769,
       "GUID": "9E30AD1D-C27B-417C-B3EB-880A9EBE86A2",
       "Title": "Oversight - The 2023 Housing and Vacancy Survey.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 73519,
       "MatterFile": "T2024-1229",
       "MatterName": "Oversight - The 2023 Housing and Vacancy Survey.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-03-05T16:53:18.333Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-03-06T18:45:44.12Z"
+    },
+    {
+      "ID": 405832,
+      "GUID": "DE3C54F3-88B2-4EE2-A0A3-B9F8236EDAFF",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 20
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2024-03-06T18:45:40.11Z"
+    },
+    {
+      "ID": 405833,
+      "GUID": "00937295-6BF3-4A3D-BF8D-9E391B82D932",
+      "Title": "Oversight - The 2023 Housing and Vacancy Survey.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 73519,
+      "MatterFile": "T2024-1229",
+      "MatterName": "Oversight - The 2023 Housing and Vacancy Survey.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-03-06T18:45:47.613Z"
+    },
+    {
+      "ID": 405834,
+      "GUID": "229EF374-E397-4625-B24B-120F66381EFA",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to continuation of the New York city rent stabilization law of nineteen hundred sixty-nine",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 5018,
+      "ActionName": "P-C Item Laid Over by Comm",
+      "ActionText": "This Introduction was P-C Item Laid Over by Comm",
+      "MatterID": 73517,
+      "MatterFile": "Int 0653-2024",
+      "MatterName": "Continuation of the New York city rent stabilization law of nineteen hundred sixty-nine.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-03-06T18:46:02.97Z"
+    },
+    {
+      "ID": 405835,
+      "GUID": "F4D23B01-3192-4417-85EA-2F842ED2324A",
+      "Title": "Resolution determining that a public emergency requiring rent control in the City of New York continues to exist and will continue to exist on and after April 1, 2024.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 7,
+      "Version": "*",
+      "ActionID": 5018,
+      "ActionName": "P-C Item Laid Over by Comm",
+      "ActionText": "This Resolution was P-C Item Laid Over by Comm",
+      "MatterID": 73518,
+      "MatterFile": "Res 0256-2024",
+      "MatterName": "Determining that a public emergency requiring rent control in the City of New York continues to exist and will continue to exist on and after April 1, 2024.",
+      "MatterType": "Resolution",
+      "LastModified": "2024-03-06T18:47:14.113Z"
     }
   ],
   "AgendaLastPublished": "2024-02-26T17:46:13.247Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-03-06T15:19:05.857Z"
+  "MinutesLastPublished": "2024-03-06T18:47:20.123Z",
+  "LastModified": "2024-03-06T18:47:20.233Z"
 }
