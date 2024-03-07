@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/3/20709_A_Committee_on_Housing_and_Buildings_24-03-07_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/3/20709_M_Committee_on_Housing_and_Buildings_24-03-07_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_240307-112029.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20709&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,18 +21,149 @@
       "GUID": "67E760B7-F2FE-42B8-8C9B-5CF131D7209E",
       "Title": "A Local Law to amend the administrative code of the city of New York and the New York city building code, in relation to electric vehicle supply equipment in open parking lots and parking garages",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 17-B",
       "MinutesNote": "Proposed Int. No. 17-B",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 72484,
       "MatterFile": "Int 0017-2024",
       "MatterName": "Electric vehicle supply equipment in open parking lots and parking garages.",
       "MatterType": "Introduction",
-      "LastModified": "2024-03-05T17:40:01.047Z"
+      "LastModified": "2024-03-07T16:56:56.55Z"
+    },
+    {
+      "ID": 405857,
+      "GUID": "9819385D-8515-48DA-AE4D-B4893F255342",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2024-03-07T16:30:27.703Z"
+    },
+    {
+      "ID": 405882,
+      "GUID": "95C0827D-0410-4B2D-8232-1477C379AB1E",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Brewer",
+      "LastModified": "2024-03-07T16:30:48.883Z"
+    },
+    {
+      "ID": 405883,
+      "GUID": "047E74C2-1958-4E53-B2EB-8F0EFDDDA5A3",
+      "Title": "A Local Law to amend the administrative code of the city of New York and the New York city building code, in relation to electric vehicle supply equipment in open parking lots and parking garages",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 72484,
+      "MatterFile": "Int 0017-2024",
+      "MatterName": "Electric vehicle supply equipment in open parking lots and parking garages.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-03-07T16:31:10.293Z"
+    },
+    {
+      "ID": 405884,
+      "GUID": "F4E7CA1D-390D-4889-BCB9-28EFB533D9DA",
+      "Title": "A Local Law to amend the administrative code of the city of New York and the New York city building code, in relation to electric vehicle supply equipment in open parking lots and parking garages",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 72484,
+      "MatterFile": "Int 0017-2024",
+      "MatterName": "Electric vehicle supply equipment in open parking lots and parking garages.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-03-07T16:31:16.08Z"
+    },
+    {
+      "ID": 405885,
+      "GUID": "3368DE46-D1A3-4CD3-9202-CE20119E5BA8",
+      "Title": "A Local Law to amend the administrative code of the city of New York and the New York city building code, in relation to electric vehicle supply equipment in open parking lots and parking garages",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "B",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "This Introduction was Approved by Committee",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 72484,
+      "MatterFile": "Int 0017-2024",
+      "MatterName": "Electric vehicle supply equipment in open parking lots and parking garages.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-03-07T16:31:32.483Z"
     }
   ],
   "AgendaLastPublished": "2024-03-05T17:40:07.503Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-03-05T17:40:07.567Z"
+  "MinutesLastPublished": "2024-03-07T16:57:01.86Z",
+  "LastModified": "2024-03-07T16:57:01.987Z"
 }

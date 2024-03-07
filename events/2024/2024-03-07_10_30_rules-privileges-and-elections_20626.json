@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/3/20626_A_Committee_on_Rules%2C_Privileges_and_Elections_24-03-07_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/3/20626_M_Committee_on_Rules%2C_Privileges_and_Elections_24-03-07_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_240307-110457.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20626&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,31 +21,174 @@
       "GUID": "2A3C1BE9-963D-4500-9967-D7AC74314B95",
       "Title": "Communication from the Mayor - Submitting the name of Amy E. Millard to the Council for its advice and consent concerning her appointment to the New York City Conflicts of Interest Board, pursuant to Section 2602 of the New York City Charter.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Mayor's Message was Hearing Held by Committee",
       "MatterID": 72409,
       "MatterFile": "M 0022-2024",
       "MatterName": "Amy E. Millard, Conflicts of Interest Board",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2024-03-05T16:56:02.353Z"
+      "MatterStatus": "Companion Pending Approval by Council",
+      "LastModified": "2024-03-07T16:16:16.21Z"
     },
     {
       "ID": 405136,
       "GUID": "6E145852-D25C-4B18-BA4F-863EF0067DFF",
       "Title": "Communication from the Mayor - Submitting the name of Milton L. Williams,  to the Council for its advice and consent concerning his reappointment to the New York City Conflicts of Interest Board, pursuant to Section 2602 of the New York City Charter.",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Mayor's Message was Hearing Held by Committee",
       "MatterID": 72410,
       "MatterFile": "M 0023-2024",
       "MatterName": "Milton L. Williams, Conflicts of Interest Board",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2024-03-04T15:07:55.187Z"
+      "MatterStatus": "Companion Pending Approval by Council",
+      "LastModified": "2024-03-07T16:16:31.93Z"
+    },
+    {
+      "ID": 405853,
+      "GUID": "F3FA8AE5-E732-4BF2-9FD3-4B1F6F1D1680",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7741,
+          "Slug": "keith-powers",
+          "FullName": "Keith Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7739,
+          "Slug": "adrienne-e-adams",
+          "FullName": "Adrienne E. Adams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7264,
+          "Slug": "joseph-c-borelli",
+          "FullName": "Joseph C. Borelli",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 110
+        }
+      ],
+      "LastModified": "2024-03-07T16:19:10.07Z"
+    },
+    {
+      "ID": 405879,
+      "GUID": "220294FF-9653-4C6A-A8BF-97DD4C5E86C7",
+      "Title": "Communication from the Mayor - Submitting the name of Amy E. Millard to the Council for its advice and consent concerning her appointment to the New York City Conflicts of Interest Board, pursuant to Section 2602 of the New York City Charter.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "This Mayor's Message was Approved by Committee",
+      "PassedFlagName": "Fail",
+      "MatterID": 72409,
+      "MatterFile": "M 0022-2024",
+      "MatterName": "Amy E. Millard, Conflicts of Interest Board",
+      "MatterType": "Mayor's Message",
+      "MatterStatus": "Companion Pending Approval by Council",
+      "LastModified": "2024-03-07T16:16:49.05Z"
+    },
+    {
+      "ID": 405880,
+      "GUID": "5399952B-27B7-4832-B1FC-DBB5F7C80AEA",
+      "Title": "Communication from the Mayor - Submitting the name of Milton L. Williams,  to the Council for its advice and consent concerning his reappointment to the New York City Conflicts of Interest Board, pursuant to Section 2602 of the New York City Charter.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "This Mayor's Message was Approved by Committee",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 72410,
+      "MatterFile": "M 0023-2024",
+      "MatterName": "Milton L. Williams, Conflicts of Interest Board",
+      "MatterType": "Mayor's Message",
+      "MatterStatus": "Companion Pending Approval by Council",
+      "LastModified": "2024-03-07T16:41:20.53Z"
     }
   ],
   "AgendaLastPublished": "2024-03-04T22:47:54.497Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-03-04T22:47:54.633Z"
+  "MinutesLastPublished": "2024-03-07T16:41:26.683Z",
+  "LastModified": "2024-03-07T16:41:26.81Z"
 }

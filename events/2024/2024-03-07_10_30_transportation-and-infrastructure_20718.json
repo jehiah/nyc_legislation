@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/3/20718_A_Committee_on_Transportation_and_Infrastructure_24-03-07_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/3/20718_M_Committee_on_Transportation_and_Infrastructure_24-03-07_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_240307-105519.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20718&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,16 +21,131 @@
       "GUID": "9F6BD3FB-FED4-474D-BF4E-27E61651C49E",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the compensation received by for-hire vehicle drivers for advertising on the interior of for-hire vehicles",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 73028,
       "MatterFile": "Int 0172-2024",
       "MatterName": "The compensation received by for-hire vehicle drivers for advertising on the interior of for-hire vehicles.",
       "MatterType": "Introduction",
-      "LastModified": "2024-03-05T18:48:43.997Z"
+      "LastModified": "2024-03-07T16:09:37.99Z"
+    },
+    {
+      "ID": 405855,
+      "GUID": "86743DA1-F0D6-48BF-9F64-49F03741A817",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7740,
+          "Slug": "carlina-rivera",
+          "FullName": "Carlina Rivera",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 22,
+          "Value": "Maternity",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2024-03-07T16:18:38.19Z"
+    },
+    {
+      "ID": 405877,
+      "GUID": "5941DFE8-256F-41EF-9580-B4E177767C13",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Ayala",
+      "LastModified": "2024-03-07T16:18:14.343Z"
+    },
+    {
+      "ID": 405878,
+      "GUID": "399898AC-6CFD-4B1C-B426-AC7B96278EE0",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the compensation received by for-hire vehicle drivers for advertising on the interior of for-hire vehicles",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "This Introduction was Approved by Committee",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 73028,
+      "MatterFile": "Int 0172-2024",
+      "MatterName": "The compensation received by for-hire vehicle drivers for advertising on the interior of for-hire vehicles.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-03-07T16:19:35.82Z"
     }
   ],
   "AgendaLastPublished": "2024-03-05T18:48:50.867Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-03-05T18:48:50.913Z"
+  "MinutesLastPublished": "2024-03-07T16:19:40.193Z",
+  "LastModified": "2024-03-07T16:19:40.25Z"
 }

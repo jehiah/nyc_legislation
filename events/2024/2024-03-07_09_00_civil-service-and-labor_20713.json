@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/3/20713_A_Committee_on_Civil_Service_and_Labor_24-03-07_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/3/20713_M_Committee_on_Civil_Service_and_Labor_24-03-07_Meeting_Minutes.pdf",
   "Comment": "VOTE",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_240307-091818.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20713&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -22,11 +24,14 @@
       "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Preconsidered",
+      "ActionID": 15,
+      "ActionName": "Hearing on P-C Item by Comm",
+      "ActionText": "This Resolution was Hearing on P-C Item by Comm",
       "MatterID": 73672,
       "MatterFile": "Res 0202-2024",
       "MatterName": "Increase the wages and improve the working conditions of home care aides to support these workers and ensure essential growth of New York’s vital home care workforce.",
       "MatterType": "Resolution",
-      "LastModified": "2024-03-07T14:31:45.283Z"
+      "LastModified": "2024-03-07T15:17:08.877Z"
     },
     {
       "ID": 405851,
@@ -35,10 +40,103 @@
       "AgendaSequence": 0,
       "MinutesSequence": 1,
       "Version": "",
-      "LastModified": "2024-03-07T14:33:08.367Z"
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 10
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 80
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2024-03-07T16:57:52.967Z"
+    },
+    {
+      "ID": 405870,
+      "GUID": "E9191029-8D99-43F3-A866-700C2766AE8B",
+      "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, legislation to increase the wages and improve the working conditions of home care aides to support these workers and ensure essential growth of New York’s vital home care workforce.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 25,
+      "ActionName": "P-C Item Approved by Comm",
+      "ActionText": "This Resolution was P-C Item Approved by Comm",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 73672,
+      "MatterFile": "Res 0202-2024",
+      "MatterName": "Increase the wages and improve the working conditions of home care aides to support these workers and ensure essential growth of New York’s vital home care workforce.",
+      "MatterType": "Resolution",
+      "LastModified": "2024-03-07T15:17:30.06Z"
     }
   ],
   "AgendaLastPublished": "2024-03-06T17:31:18.52Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-03-07T14:18:19.663Z"
+  "MinutesLastPublished": "2024-03-07T16:57:59.193Z",
+  "LastModified": "2024-03-07T16:57:59.223Z"
 }

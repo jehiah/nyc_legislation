@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/3/20722_A_Committee_on_Finance_24-03-07_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/3/20722_M_Committee_on_Finance_24-03-07_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_240307-101946.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20722&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,31 +21,223 @@
       "GUID": "197C31A8-A021-4B08-B960-B6059714EEDB",
       "Title": "The Operating Budget of the Council of the City of New York.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 15,
+      "ActionName": "Hearing on P-C Item by Comm",
+      "ActionText": "This Communication was Hearing on P-C Item by Comm",
       "MatterID": 73588,
-      "MatterFile": "T2024-1298",
+      "MatterFile": "M 0029-2024",
       "MatterName": "The Operating Budget of the Council of the City of New York.",
       "MatterType": "Communication",
-      "MatterStatus": "Introduced",
-      "LastModified": "2024-03-06T14:49:12.187Z"
+      "MatterStatus": "Companion Pending Approval by Council",
+      "LastModified": "2024-03-07T15:30:26.517Z"
     },
     {
       "ID": 405826,
       "GUID": "8C0F2216-21A4-40FE-AB75-15EF91A64B08",
       "Title": "Schedule detailing the lump sum OTPS Unit of Appropriation of the Operating Budget of the Council of the City of New York.",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 15,
+      "ActionName": "Hearing on P-C Item by Comm",
+      "ActionText": "This Communication was Hearing on P-C Item by Comm",
       "MatterID": 73590,
-      "MatterFile": "T2024-1300",
+      "MatterFile": "M 0030-2024",
       "MatterName": "Schedule detailing the lump sum OTPS Unit of Appropriation of the Operating Budget of the Council of the City of NY.",
       "MatterType": "Communication",
-      "MatterStatus": "Introduced",
-      "LastModified": "2024-03-06T17:15:16.907Z"
+      "MatterStatus": "Companion Pending Approval by Council",
+      "LastModified": "2024-03-07T15:30:38.3Z"
+    },
+    {
+      "ID": 405852,
+      "GUID": "BDA52495-5886-473E-9191-E72792A09666",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 30
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 90
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 100
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 110
+        },
+        {
+          "ID": 7741,
+          "Slug": "keith-powers",
+          "FullName": "Keith Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 130
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 150
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 22,
+          "Value": "Maternity",
+          "Sort": 170
+        }
+      ],
+      "LastModified": "2024-03-07T15:28:45.043Z"
+    },
+    {
+      "ID": 405871,
+      "GUID": "1CCB392E-EB80-49D1-B45C-6881E302E092",
+      "Title": "The Operating Budget of the Council of the City of New York.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 25,
+      "ActionName": "P-C Item Approved by Comm",
+      "ActionText": "This Communication was P-C Item Approved by Comm",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 73588,
+      "MatterFile": "M 0029-2024",
+      "MatterName": "The Operating Budget of the Council of the City of New York.",
+      "MatterType": "Communication",
+      "MatterStatus": "Companion Pending Approval by Council",
+      "LastModified": "2024-03-07T15:30:57.63Z"
+    },
+    {
+      "ID": 405872,
+      "GUID": "1CC695A1-5E74-4A4E-968F-4BC823EAF4DC",
+      "Title": "Schedule detailing the lump sum OTPS Unit of Appropriation of the Operating Budget of the Council of the City of New York.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 25,
+      "ActionName": "P-C Item Approved by Comm",
+      "ActionText": "This Communication was P-C Item Approved by Comm",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 73590,
+      "MatterFile": "M 0030-2024",
+      "MatterName": "Schedule detailing the lump sum OTPS Unit of Appropriation of the Operating Budget of the Council of the City of NY.",
+      "MatterType": "Communication",
+      "MatterStatus": "Companion Pending Approval by Council",
+      "LastModified": "2024-03-07T16:16:41.1Z"
     }
   ],
   "AgendaLastPublished": "2024-03-06T17:15:42.467Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-03-06T17:15:42.513Z"
+  "MinutesLastPublished": "2024-03-07T16:16:46.587Z",
+  "LastModified": "2024-03-07T16:16:46.617Z"
 }

@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/3/20705_A_Committee_on_Health_24-03-07_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/3/20705_M_Committee_on_Health_24-03-07_Meeting_Minutes.pdf",
   "Comment": "VOTE",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_240307-102150.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20705&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,18 +21,173 @@
       "GUID": "E78872AA-BC35-4208-8836-6A631173FF82",
       "Title": "A Local Law in relation to the naming of the Paul A. Vallone Queens Animal Care Center",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 1-B",
       "MinutesNote": "Proposed Int. No. 1-B",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 72448,
       "MatterFile": "Int 0001-2024",
       "MatterName": "The naming of the Paul A. Vallone Queens Animal Care Center.",
       "MatterType": "Introduction",
-      "LastModified": "2024-03-01T20:45:26.89Z"
+      "LastModified": "2024-03-07T16:06:38.627Z"
+    },
+    {
+      "ID": 405854,
+      "GUID": "D7A45D3E-7BE6-4262-9349-C7F0EAEF1EA4",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 30
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7749,
+          "Slug": "kalman-yeger",
+          "FullName": "Kalman Yeger",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        }
+      ],
+      "LastModified": "2024-03-07T16:58:35.46Z"
+    },
+    {
+      "ID": 405873,
+      "GUID": "58646348-9E22-402A-90DB-09D88738A469",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Powers, Brooks-Powers, Dinowitz, Carr and Pubic Advocate Williams",
+      "LastModified": "2024-03-07T16:02:40.87Z"
+    },
+    {
+      "ID": 405874,
+      "GUID": "F00C88C6-7AFC-490C-8F3B-8DB4CCC653B3",
+      "Title": "A Local Law in relation to the naming of the Paul A. Vallone Queens Animal Care Center",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "B",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "This Introduction was Approved by Committee",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 72448,
+      "MatterFile": "Int 0001-2024",
+      "MatterName": "The naming of the Paul A. Vallone Queens Animal Care Center.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-03-07T16:13:38.353Z"
+    },
+    {
+      "ID": 405875,
+      "GUID": "1E996106-31AC-4CC4-AF7A-471B04939105",
+      "Title": "A Local Law in relation to the naming of the Paul A. Vallone Queens Animal Care Center",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 72448,
+      "MatterFile": "Int 0001-2024",
+      "MatterName": "The naming of the Paul A. Vallone Queens Animal Care Center.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-03-07T16:06:54.257Z"
+    },
+    {
+      "ID": 405876,
+      "GUID": "6953A82F-8D68-420E-848E-3F1D824B64F7",
+      "Title": "A Local Law in relation to the naming of the Paul A. Vallone Queens Animal Care Center",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 72448,
+      "MatterFile": "Int 0001-2024",
+      "MatterName": "The naming of the Paul A. Vallone Queens Animal Care Center.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-03-07T16:07:22.643Z"
     }
   ],
   "AgendaLastPublished": "2024-03-04T18:44:31.347Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-03-04T18:44:31.473Z"
+  "MinutesLastPublished": "2024-03-07T16:58:40.7Z",
+  "LastModified": "2024-03-07T16:58:40.747Z"
 }
