@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/3/20647_A_Committee_on_Oversight_and_Investigations_24-03-14_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/3/20647_M_Committee_on_Oversight_and_Investigations_24-03-14_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-250-16_240314-113320.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20647&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,17 +20,121 @@
       "GUID": "8CAB4AB6-7C8A-4CB7-B3D3-0A40630177EA",
       "Title": "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2025, The Preliminary Capital Plan for Fiscal Years 2024-2028, and The Fiscal 2024 Preliminary Mayor’s Management Report\r\n\r\n\r\n11:30 a.m.     Department of Investigation\r\n  1:30 p.m.     Public\r\n",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 72580,
       "MatterFile": "T2024-0290",
       "MatterName": "Preliminary Budget Hearing - Oversight and Investigations",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-03-12T13:32:42.163Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-03-14T17:58:36.6Z"
+    },
+    {
+      "ID": 406127,
+      "GUID": "F794C1E6-963E-45FE-92FB-BDFDECBA6FC2",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 30
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 22,
+          "Value": "Maternity",
+          "Sort": 80
+        },
+        {
+          "ID": 7749,
+          "Slug": "kalman-yeger",
+          "FullName": "Kalman Yeger",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2024-03-14T18:21:06.993Z"
+    },
+    {
+      "ID": 406128,
+      "GUID": "55DCA962-AF3E-40D6-A787-9441CF232D36",
+      "Title": "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2025, The Preliminary Capital Plan for Fiscal Years 2024-2028, and The Fiscal 2024 Preliminary Mayor’s Management Report\r\n\r\n\r\n11:30 a.m.     Department of Investigation\r\n  1:30 p.m.     Public\r\n",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 72580,
+      "MatterFile": "T2024-0290",
+      "MatterName": "Preliminary Budget Hearing - Oversight and Investigations",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-03-14T17:58:39.957Z"
     }
   ],
   "AgendaLastPublished": "2024-03-05T00:00:21.723Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-03-14T17:01:19.883Z"
+  "MinutesLastPublished": "2024-03-14T18:21:14.043Z",
+  "LastModified": "2024-03-14T18:21:14.233Z"
 }
