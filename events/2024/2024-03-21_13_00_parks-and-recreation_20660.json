@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/3/20660_A_Committee_on_Parks_and_Recreation_24-03-21_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/3/20660_M_Committee_on_Parks_and_Recreation_24-03-21_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_240321-130719.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20660&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,17 +20,123 @@
       "GUID": "5767969F-1D7D-4404-A5E9-283AE295797F",
       "Title": "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2025, The Preliminary Capital Plan for Fiscal Years 2024-2028, and The Fiscal 2024 Preliminary Mayor’s Management Report\r\n\r\n\r\n1:00 p.m.     Department of Parks & Recreation \r\n3:00 p.m.     Public\r\n\r\n\r\n\r\n\r\n\r\n\r\n       \t\r\n\r\n\r\n\r\n ",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 72599,
       "MatterFile": "T2024-0309",
       "MatterName": "Preliminary Budget Hearing -  Parks and Recreation",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-03-20T17:10:44.65Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-03-21T18:19:38.617Z"
+    },
+    {
+      "ID": 406497,
+      "GUID": "7B2282B5-F1E7-41D3-B22C-B571348CD794",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        }
+      ],
+      "LastModified": "2024-03-21T22:10:18.933Z"
+    },
+    {
+      "ID": 406498,
+      "GUID": "F1343CFE-39AC-4AF6-A1AF-7A7A0A90941E",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Nurse",
+      "LastModified": "2024-03-21T22:10:32.857Z"
+    },
+    {
+      "ID": 406499,
+      "GUID": "F4345289-498D-49BF-AC7D-ABF8A7BB6B8D",
+      "Title": "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2025, The Preliminary Capital Plan for Fiscal Years 2024-2028, and The Fiscal 2024 Preliminary Mayor’s Management Report\r\n\r\n\r\n1:00 p.m.     Department of Parks & Recreation \r\n3:00 p.m.     Public\r\n\r\n\r\n\r\n\r\n\r\n\r\n       \t\r\n\r\n\r\n\r\n ",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 72599,
+      "MatterFile": "T2024-0309",
+      "MatterName": "Preliminary Budget Hearing -  Parks and Recreation",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-03-21T22:10:42.83Z"
     }
   ],
   "AgendaLastPublished": "2024-02-20T19:40:27.873Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-03-21T17:07:20.547Z"
+  "MinutesLastPublished": "2024-03-21T22:10:48.68Z",
+  "LastModified": "2024-03-21T22:10:48.71Z"
 }

@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/3/20659_A_Committee_on_Land_Use_24-03-21_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/3/20659_M_Committee_on_Land_Use_24-03-21_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-250-16_240321-115944.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20659&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,17 +20,147 @@
       "GUID": "58184F29-FA15-4820-9575-772C2F14BF87",
       "Title": "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2025, The Preliminary Capital Plan for Fiscal Years 2024-2028, and The Fiscal 2024 Preliminary Mayor’s Management Report\r\n\r\n\r\n11:30 a.m.     Landmarks Preservation Commission \r\n12:30 p.m.     Department of City Planning\r\n  1:30 p.m.     Public\t\r\n\r\n",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 72598,
       "MatterFile": "T2024-0308",
       "MatterName": "Preliminary Budget Hearing - Land Use",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-03-19T21:09:01.34Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-03-21T18:19:09.613Z"
+    },
+    {
+      "ID": 406495,
+      "GUID": "B74E7A14-CD2E-4608-A05A-BA5A6EBB5482",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7264,
+          "Slug": "joseph-c-borelli",
+          "FullName": "Joseph C. Borelli",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 80
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        },
+        {
+          "ID": 7740,
+          "Slug": "carlina-rivera",
+          "FullName": "Carlina Rivera",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 110
+        }
+      ],
+      "LastModified": "2024-03-21T22:08:08.377Z"
+    },
+    {
+      "ID": 406496,
+      "GUID": "59C72AF9-8AD0-4828-9614-6FC6B134ABE8",
+      "Title": "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2025, The Preliminary Capital Plan for Fiscal Years 2024-2028, and The Fiscal 2024 Preliminary Mayor’s Management Report\r\n\r\n\r\n11:30 a.m.     Landmarks Preservation Commission \r\n12:30 p.m.     Department of City Planning\r\n  1:30 p.m.     Public\t\r\n\r\n",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 72598,
+      "MatterFile": "T2024-0308",
+      "MatterName": "Preliminary Budget Hearing - Land Use",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-03-21T22:08:33.237Z"
+    },
+    {
+      "ID": 406500,
+      "GUID": "2698A9C2-B946-40AC-87AB-CBD2C25886A1",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Joseph and Marte",
+      "LastModified": "2024-03-21T22:08:25.427Z"
     }
   ],
   "AgendaLastPublished": "2024-03-05T00:01:21.97Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-03-21T15:59:45.747Z"
+  "MinutesLastPublished": "2024-03-21T22:08:39.23Z",
+  "LastModified": "2024-03-21T22:08:39.403Z"
 }
