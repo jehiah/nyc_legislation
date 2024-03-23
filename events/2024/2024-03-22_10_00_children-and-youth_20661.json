@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/3/20661_A_Committee_on_Children_and_Youth_24-03-22_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/3/20661_M_Committee_on_Children_and_Youth_24-03-22_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_240322-101020.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20661&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,14 +20,17 @@
       "GUID": "AB8E6442-E3EF-423B-BBCC-67169A86E978",
       "Title": "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2025, The Preliminary Capital Plan for Fiscal Years 2024-2028, and The Fiscal 2024 Preliminary Mayor’s Management Report\r\n\r\n10:00 a.m.     Department of Youth and \r\n                        Community Development\r\n  1:00 p.m.     Administration for Children’s Services\r\n  3:00 p.m.     Public\r\n",
       "AgendaSequence": 1,
-      "MinutesSequence": 2,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 72600,
       "MatterFile": "T2024-0310",
       "MatterName": "Preliminary Budget Hearing - Children and Youth",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-03-22T17:36:31.273Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-03-23T16:07:08.647Z"
     },
     {
       "ID": 406515,
@@ -35,24 +39,88 @@
       "AgendaSequence": 0,
       "MinutesSequence": 1,
       "Version": "",
-      "LastModified": "2024-03-22T17:36:36.44Z"
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 50
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        }
+      ],
+      "LastModified": "2024-03-23T16:06:29.997Z"
     },
     {
       "ID": 406516,
       "GUID": "EFA7CD5D-4E00-441B-80AF-8D30264F4D67",
       "Title": "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2025, The Preliminary Capital Plan for Fiscal Years 2024-2028, and The Fiscal 2024 Preliminary Mayor’s Management Report\r\n\r\n10:00 a.m.     Department of Youth and \r\n                        Community Development\r\n  1:00 p.m.     Administration for Children’s Services\r\n  3:00 p.m.     Public\r\n",
       "AgendaSequence": 0,
-      "MinutesSequence": 3,
+      "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
       "MatterID": 72600,
       "MatterFile": "T2024-0310",
       "MatterName": "Preliminary Budget Hearing - Children and Youth",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-03-22T17:36:39.51Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-03-23T16:07:13.06Z"
+    },
+    {
+      "ID": 406528,
+      "GUID": "D47A3676-3C37-495F-BBA5-C4C202D90BB2",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Restler, Brewer and Aviles",
+      "LastModified": "2024-03-23T16:07:05Z"
     }
   ],
   "AgendaLastPublished": "2024-02-20T19:41:01.927Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-03-22T21:50:29.9Z"
+  "MinutesLastPublished": "2024-03-23T16:07:19.747Z",
+  "LastModified": "2024-03-23T16:07:19.95Z"
 }
