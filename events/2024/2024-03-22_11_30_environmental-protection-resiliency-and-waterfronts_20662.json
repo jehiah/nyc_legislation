@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/3/20662_A_Committee_on_Environmental_Protection%2C_Resiliency_and_Waterfronts_24-03-22_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/3/20662_M_Committee_on_Environmental_Protection%2C_Resiliency_and_Waterfronts_24-03-22_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-250-16_240322-115215.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20662&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -21,12 +22,15 @@
       "AgendaSequence": 1,
       "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 72601,
       "MatterFile": "T2024-0311",
       "MatterName": "Preliminary Budget Hearing - Environmental Protection, Resiliency and Waterfronts",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-03-22T17:36:46.47Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-03-25T13:51:23.347Z"
     },
     {
       "ID": 406517,
@@ -35,7 +39,82 @@
       "AgendaSequence": 0,
       "MinutesSequence": 1,
       "Version": "",
-      "LastModified": "2024-03-22T17:36:52.927Z"
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 30
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 80
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2024-03-25T13:51:18.413Z"
     },
     {
       "ID": 406518,
@@ -44,15 +123,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
       "MatterID": 72601,
       "MatterFile": "T2024-0311",
       "MatterName": "Preliminary Budget Hearing - Environmental Protection, Resiliency and Waterfronts",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-03-22T17:36:55.23Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-03-25T13:51:29.72Z"
     }
   ],
   "AgendaLastPublished": "2024-03-05T00:01:51.663Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-03-22T19:30:48.587Z"
+  "MinutesLastPublished": "2024-03-25T13:51:36.51Z",
+  "LastModified": "2024-03-25T13:51:36.56Z"
 }

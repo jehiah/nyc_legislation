@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/3/20664_A_Committee_on_Veterans_24-03-25_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/3/20664_M_Committee_on_Veterans_24-03-25_Meeting_Minutes.pdf",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20664&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,17 +19,89 @@
       "GUID": "59801251-FC8F-47F1-A31C-83F26FB21C6C",
       "Title": "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2025, The Preliminary Capital Plan for Fiscal Years 2024-2028, and The Fiscal 2024 Preliminary Mayor’s Management Report\r\n\r\n\r\n10:00 a.m.     Department of Veteran Affairs\r\n11:00 a.m.     Public\r\n\r\n",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 72603,
       "MatterFile": "T2024-0313",
       "MatterName": "Preliminary Budget Hearing - Veterans",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-02-20T19:42:27.24Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-03-25T17:22:30.067Z"
+    },
+    {
+      "ID": 406541,
+      "GUID": "71AF6A09-6749-4D18-8627-A682ACD4BB0A",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 40
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        }
+      ],
+      "LastModified": "2024-03-25T17:22:40.163Z"
+    },
+    {
+      "ID": 406543,
+      "GUID": "8AA35E20-0955-4903-B0F3-18907EBE7271",
+      "Title": "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2025, The Preliminary Capital Plan for Fiscal Years 2024-2028, and The Fiscal 2024 Preliminary Mayor’s Management Report\r\n\r\n\r\n10:00 a.m.     Department of Veteran Affairs\r\n11:00 a.m.     Public\r\n\r\n",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 72603,
+      "MatterFile": "T2024-0313",
+      "MatterName": "Preliminary Budget Hearing - Veterans",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-03-25T17:22:33.967Z"
     }
   ],
   "AgendaLastPublished": "2024-02-20T19:42:31Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-02-20T19:42:31.013Z"
+  "MinutesLastPublished": "2024-03-25T17:22:50.447Z",
+  "LastModified": "2024-03-25T17:22:50.59Z"
 }
