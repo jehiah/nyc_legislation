@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/3/20721_A_Committee_on_Cultural_Affairs%2C_Libraries_and_International_Intergroup_Relations_24-03-28_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/3/20721_M_Committee_on_Cultural_Affairs%2C_Libraries_and_International_Intergroup_Relations_24-03-28_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_240328-101459.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20721&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -21,25 +22,31 @@
       "AgendaSequence": 1,
       "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 73724,
       "MatterFile": "T2024-1434",
       "MatterName": "Oversight - Where Are NYC’s Artists-in-Residence?.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-03-25T19:28:18.023Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-03-28T17:50:22.08Z"
     },
     {
       "ID": 406549,
       "GUID": "9BBB6DC0-E811-4C54-BF4A-ABEE76CACF14",
       "Title": "Resolution recognizing April 17 annually as Giovanni da Verrazzano Day in the City of New York.",
       "AgendaSequence": 2,
-      "MinutesSequence": 3,
+      "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 72676,
       "MatterFile": "Res 0074-2024",
       "MatterName": "Recognizing April 17 annually as Giovanni da Verrazzano Day in the City of New York.",
       "MatterType": "Resolution",
-      "LastModified": "2024-03-28T14:42:27.033Z"
+      "LastModified": "2024-03-28T17:50:57.773Z"
     },
     {
       "ID": 406615,
@@ -48,10 +55,118 @@
       "AgendaSequence": 0,
       "MinutesSequence": 1,
       "Version": "",
-      "LastModified": "2024-03-28T14:42:33.493Z"
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7740,
+          "Slug": "carlina-rivera",
+          "FullName": "Carlina Rivera",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2024-03-28T17:51:36.7Z"
+    },
+    {
+      "ID": 406623,
+      "GUID": "A8C47871-BEC2-459B-A315-107A385E4253",
+      "Title": "Oversight - Where Are NYC’s Artists-in-Residence?.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 73724,
+      "MatterFile": "T2024-1434",
+      "MatterName": "Oversight - Where Are NYC’s Artists-in-Residence?.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-03-28T17:50:28.267Z"
+    },
+    {
+      "ID": 406624,
+      "GUID": "D2556BD5-5A94-4C76-AF4A-6F6C712E475B",
+      "Title": "Resolution recognizing April 17 annually as Giovanni da Verrazzano Day in the City of New York.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 72676,
+      "MatterFile": "Res 0074-2024",
+      "MatterName": "Recognizing April 17 annually as Giovanni da Verrazzano Day in the City of New York.",
+      "MatterType": "Resolution",
+      "LastModified": "2024-03-28T18:29:02.71Z"
     }
   ],
   "AgendaLastPublished": "2024-03-25T19:29:00.343Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-03-28T16:07:02.27Z"
+  "MinutesLastPublished": "2024-03-28T18:29:08.923Z",
+  "LastModified": "2024-03-28T18:29:09.033Z"
 }
