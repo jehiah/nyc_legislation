@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/4/20733_A_Committee_on_Health_24-04-17_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/4/20733_M_Committee_on_Health_24-04-17_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Mental Health, Disabilities and Addiction, Committee on Hospitals and the Committee on Education",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20733&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,52 +20,212 @@
       "GUID": "E2F1A79B-00A7-46A6-BB9C-22A84E55D3ED",
       "Title": "Jointly with the Committee on Mental Health, Disabilities and Addiction, Committee on Hospitals and the Committee on Education",
       "AgendaSequence": 4,
-      "MinutesSequence": 4,
+      "MinutesSequence": 9,
       "Version": "",
-      "LastModified": "2024-04-01T19:41:23.337Z"
+      "LastModified": "2024-04-17T18:07:37.5Z"
     },
     {
       "ID": 405982,
       "GUID": "DE833435-9F6C-4DC0-8F22-4356C6054165",
       "Title": "Oversight - School-Based Health Centers and School-Based Mental Health Clinics.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 73811,
       "MatterFile": "T2024-1521",
       "MatterName": "Oversight - School-Based Health Centers and School-Based Mental Health Clinics.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-04-01T19:41:07.093Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-04-17T18:07:48.39Z"
     },
     {
       "ID": 406655,
       "GUID": "3BE4C143-DBCC-4A47-8F50-DC6D233BD227",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the New York city department of education to report the number of students reported to the office of school health as having a diagnosis of sickle cell disease or trait",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 73076,
       "MatterFile": "Int 0341-2024",
       "MatterName": "Requiring the NYC DOE to report the number of students reported to the office of school health as having a diagnosis of sickle cell disease or trait.",
       "MatterType": "Introduction",
-      "LastModified": "2024-04-01T19:41:22.927Z"
+      "LastModified": "2024-04-17T23:12:30.65Z"
     },
     {
       "ID": 406656,
       "GUID": "40FB961E-BE1D-4447-8F86-DF2F74FD6C36",
       "Title": "Resolution designating the second Friday in March annually as Social and Emotional Learning Day in the City of New York and recognizing the importance of ensuring that prekindergarten through twelfth grade public school students acquire the social-emotional competencies needed to succeed in life.",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 72326,
       "MatterFile": "Res 0013-2024",
       "MatterName": "Designating the second Friday in March annually as Social and Emotional Learning Day in the City of New York.",
       "MatterType": "Resolution",
-      "LastModified": "2024-04-01T19:42:14.297Z"
+      "LastModified": "2024-04-17T23:13:21.663Z"
+    },
+    {
+      "ID": 407614,
+      "GUID": "1A7F8C96-952C-492D-93F9-2B98E94496FB",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 30
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7749,
+          "Slug": "kalman-yeger",
+          "FullName": "Kalman Yeger",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        }
+      ],
+      "LastModified": "2024-04-17T23:02:01.593Z"
+    },
+    {
+      "ID": 407615,
+      "GUID": "3518CEBA-5415-43AB-9D52-4F52583D6493",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Hanif, Moya, Joseph, Hanks, Paladino, Marmorato, Bottcher, Lee, Paladino, Cabán, Mealy, Bottcher, Krishnan, Brewer, Gutierrez, Abreu and Dinowitz\r\n",
+      "LastModified": "2024-04-17T23:03:03.17Z"
+    },
+    {
+      "ID": 407616,
+      "GUID": "5BC748D6-FA38-4B7A-AB4B-498B414F8082",
+      "Title": "Oversight - School-Based Health Centers and School-Based Mental Health Clinics.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 73811,
+      "MatterFile": "T2024-1521",
+      "MatterName": "Oversight - School-Based Health Centers and School-Based Mental Health Clinics.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-04-17T23:03:08.66Z"
+    },
+    {
+      "ID": 407617,
+      "GUID": "098E8B69-9525-4FA6-8B3E-C9B5DA9FD544",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the New York city department of education to report the number of students reported to the office of school health as having a diagnosis of sickle cell disease or trait",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 73076,
+      "MatterFile": "Int 0341-2024",
+      "MatterName": "Requiring the NYC DOE to report the number of students reported to the office of school health as having a diagnosis of sickle cell disease or trait.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-04-17T23:12:35.54Z"
+    },
+    {
+      "ID": 407618,
+      "GUID": "F7717E14-F72D-41A3-BEA4-A92FA7BB4F76",
+      "Title": "Resolution designating the second Friday in March annually as Social and Emotional Learning Day in the City of New York and recognizing the importance of ensuring that prekindergarten through twelfth grade public school students acquire the social-emotional competencies needed to succeed in life.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 72326,
+      "MatterFile": "Res 0013-2024",
+      "MatterName": "Designating the second Friday in March annually as Social and Emotional Learning Day in the City of New York.",
+      "MatterType": "Resolution",
+      "LastModified": "2024-04-17T23:13:28.567Z"
     }
   ],
   "AgendaLastPublished": "2024-04-01T22:00:32.947Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-04-01T22:00:32.983Z"
+  "MinutesLastPublished": "2024-04-17T23:03:25.673Z",
+  "LastModified": "2024-04-17T23:03:25.703Z"
 }
