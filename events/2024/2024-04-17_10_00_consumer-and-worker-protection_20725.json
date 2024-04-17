@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/4/20725_A_Committee_on_Consumer_and_Worker_Protection_24-04-17_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/4/20725_M_Committee_on_Consumer_and_Worker_Protection_24-04-17_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_240417-100703.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20725&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,17 +20,105 @@
       "GUID": "6A6F5E82-9697-4C14-B8C9-E18ADA18715F",
       "Title": "Oversight - Enforcement of the Fair Workweek Law.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 74006,
       "MatterFile": "T2024-1716",
       "MatterName": "Oversight - Enforcement of the Fair Workweek Law.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-03-27T18:52:25.883Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-04-17T15:32:55.787Z"
+    },
+    {
+      "ID": 407572,
+      "GUID": "86EA4941-0870-41B1-95D1-5ADAF167EF7A",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 50
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 22,
+          "Value": "Maternity",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2024-04-17T15:33:26.163Z"
+    },
+    {
+      "ID": 407573,
+      "GUID": "9BE1CB06-76C0-4DA2-BAD4-340881DDA5E7",
+      "Title": "Oversight - Enforcement of the Fair Workweek Law.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 74006,
+      "MatterFile": "T2024-1716",
+      "MatterName": "Oversight - Enforcement of the Fair Workweek Law.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-04-17T15:33:02.643Z"
     }
   ],
   "AgendaLastPublished": "2024-03-27T18:52:33.237Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-03-27T18:52:33.313Z"
+  "MinutesLastPublished": "2024-04-17T15:33:31.667Z",
+  "LastModified": "2024-04-17T15:33:31.837Z"
 }
