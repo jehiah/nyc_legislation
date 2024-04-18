@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/4/20740_A_Committee_on_Aging_24-04-18_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/4/20740_M_Committee_on_Aging_24-04-18_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_240418-113820.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20740&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,18 +21,139 @@
       "GUID": "BC1392E6-FDC2-4CEF-B273-F132B141B128",
       "Title": "A Local Law to amend the New York city charter, in relation to a cabinet for older New Yorkers",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 689-A",
       "MinutesNote": "Proposed Int. No. 689-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 73774,
       "MatterFile": "Int 0689-2024",
       "MatterName": "Cabinet for older New Yorkers.",
       "MatterType": "Introduction",
-      "LastModified": "2024-04-15T17:23:05.42Z"
+      "LastModified": "2024-04-18T15:56:59.127Z"
+    },
+    {
+      "ID": 407680,
+      "GUID": "FA89AA2B-DAF3-4E2A-8381-A1DF49452183",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 30
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2024-04-18T15:56:49.517Z"
+    },
+    {
+      "ID": 407682,
+      "GUID": "CC6E0430-3066-4E59-BF21-98296BC27716",
+      "Title": "A Local Law to amend the New York city charter, in relation to a cabinet for older New Yorkers",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 73774,
+      "MatterFile": "Int 0689-2024",
+      "MatterName": "Cabinet for older New Yorkers.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-04-18T15:57:04.427Z"
+    },
+    {
+      "ID": 407683,
+      "GUID": "E5E2E91B-D36D-4765-B657-75F403860C7C",
+      "Title": "A Local Law to amend the New York city charter, in relation to a cabinet for older New Yorkers",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 73774,
+      "MatterFile": "Int 0689-2024",
+      "MatterName": "Cabinet for older New Yorkers.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-04-18T15:57:09.883Z"
+    },
+    {
+      "ID": 407684,
+      "GUID": "01EE1F06-CBDB-4C83-993C-A6F932E660C3",
+      "Title": "A Local Law to amend the New York city charter, in relation to a cabinet for older New Yorkers",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 73774,
+      "MatterFile": "Int 0689-2024",
+      "MatterName": "Cabinet for older New Yorkers.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-04-18T15:59:21.14Z"
     }
   ],
   "AgendaLastPublished": "2024-04-15T17:23:12.207Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-04-15T17:23:12.32Z"
+  "MinutesLastPublished": "2024-04-18T16:30:11.707Z",
+  "LastModified": "2024-04-18T16:30:11.85Z"
 }

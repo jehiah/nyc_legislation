@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/4/20798_A_Committee_on_Environmental_Protection%2C_Resiliency_and_Waterfronts_24-04-18_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/4/20798_M_Committee_on_Environmental_Protection%2C_Resiliency_and_Waterfronts_24-04-18_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_240418-115614.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20798&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,18 +21,155 @@
       "GUID": "6B21095C-586E-4DA2-B2AD-861DC549EB0F",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing a pilot program to construct solar canopies in certain parking lots",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 129-A",
       "MinutesNote": "Proposed Int. No. 129-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 72925,
       "MatterFile": "Int 0129-2024",
       "MatterName": "Establishing a pilot program to construct solar canopies in certain parking lots.",
       "MatterType": "Introduction",
-      "LastModified": "2024-04-15T13:53:23.123Z"
+      "LastModified": "2024-04-18T16:09:15.9Z"
+    },
+    {
+      "ID": 407678,
+      "GUID": "BFC1AECA-3EB5-4C6F-AC0D-CC6DA328A16A",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "ValueID": 43,
+          "Value": "Conflict",
+          "Sort": 30
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2024-04-18T16:09:03.73Z"
+    },
+    {
+      "ID": 407686,
+      "GUID": "6B06DCBA-145E-4D22-92DF-005907498390",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing a pilot program to construct solar canopies in certain parking lots",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 72925,
+      "MatterFile": "Int 0129-2024",
+      "MatterName": "Establishing a pilot program to construct solar canopies in certain parking lots.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-04-18T16:09:20.49Z"
+    },
+    {
+      "ID": 407687,
+      "GUID": "D4C7E362-7E28-4ADF-A1B4-6849CE5E988F",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing a pilot program to construct solar canopies in certain parking lots",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 72925,
+      "MatterFile": "Int 0129-2024",
+      "MatterName": "Establishing a pilot program to construct solar canopies in certain parking lots.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-04-18T16:51:33.64Z"
+    },
+    {
+      "ID": 407688,
+      "GUID": "8A870EBB-3218-4006-B8E5-A7D2D2170656",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing a pilot program to construct solar canopies in certain parking lots",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 72925,
+      "MatterFile": "Int 0129-2024",
+      "MatterName": "Establishing a pilot program to construct solar canopies in certain parking lots.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-04-18T16:09:35.883Z"
     }
   ],
-  "AgendaLastPublished": "2024-04-15T13:53:28.86Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-04-15T13:53:29Z"
+  "AgendaLastPublished": "2024-04-18T16:17:20.513Z",
+  "MinutesLastPublished": "2024-04-18T16:52:34.717Z",
+  "LastModified": "2024-04-18T16:52:34.85Z"
 }
