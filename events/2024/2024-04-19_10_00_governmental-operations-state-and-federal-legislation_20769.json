@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/4/20769_A_Committee_on_Governmental_Operations%2C_State___Federal_Legislation_24-04-19_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/4/20769_M_Committee_on_Governmental_Operations%2C_State___Federal_Legislation_24-04-19_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_240419-101632.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20769&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,56 +20,217 @@
       "GUID": "BAEA5A5B-61F9-4F34-9AC7-2E85CE8D6476",
       "Title": "Oversight - New York City Lobbying Laws and Reform.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 74018,
       "MatterFile": "T2024-1728",
       "MatterName": "Oversight - New York City Lobbying Laws and Reform.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-03-28T19:52:31.37Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-04-19T19:59:44.847Z"
     },
     {
       "ID": 406626,
       "GUID": "6AF15704-F5F7-4BE4-9C13-B8AC1AFFD63D",
       "Title": "A Local Law to amend the New York city charter, in relation to post-employment activities of certain former public servants",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 6,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 72540,
       "MatterFile": "Int 0077-2024",
       "MatterName": "Post-employment activities of certain former public servants.",
       "MatterType": "Introduction",
-      "LastModified": "2024-04-12T15:12:08.89Z"
+      "LastModified": "2024-04-19T20:00:00.123Z"
     },
     {
       "ID": 406627,
       "GUID": "BD9EB1CF-3EF0-474C-BAD5-5EAB3032FF83",
       "Title": "A Local Law to amend the New York city charter, in relation to post-employment activities of former elected officials",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 72538,
       "MatterFile": "Int 0076-2024",
       "MatterName": "Post-employment activities of former elected officials.",
       "MatterType": "Introduction",
-      "LastModified": "2024-03-28T18:05:15.54Z"
+      "LastModified": "2024-04-19T19:59:52.663Z"
     },
     {
       "ID": 407252,
       "GUID": "6EC81286-9EF8-4A1D-B0E7-9639945CD6B4",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to lobbying prohibitions in connection with campaign-related fundraising or political consulting",
       "AgendaSequence": 4,
-      "MinutesSequence": 4,
+      "MinutesSequence": 8,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 74049,
       "MatterFile": "Int 0742-2024",
       "MatterName": "Lobbying prohibitions in connection with campaign-related fundraising or political consulting.",
       "MatterType": "Introduction",
-      "LastModified": "2024-04-18T16:18:18.233Z"
+      "LastModified": "2024-04-19T20:00:08.94Z"
+    },
+    {
+      "ID": 407717,
+      "GUID": "F82AE681-A44A-4ED9-84F0-0DC157881147",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 50
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 80
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2024-04-19T19:59:41.66Z"
+    },
+    {
+      "ID": 407718,
+      "GUID": "83534D30-0EDB-4BE2-8FB6-511F742CA468",
+      "Title": "Oversight - New York City Lobbying Laws and Reform.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 74018,
+      "MatterFile": "T2024-1728",
+      "MatterName": "Oversight - New York City Lobbying Laws and Reform.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-04-19T19:59:47.58Z"
+    },
+    {
+      "ID": 407719,
+      "GUID": "C725A16A-0BDE-499B-8F9F-9158D8F0516B",
+      "Title": "A Local Law to amend the New York city charter, in relation to post-employment activities of former elected officials",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 72538,
+      "MatterFile": "Int 0076-2024",
+      "MatterName": "Post-employment activities of former elected officials.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-04-19T19:59:56.26Z"
+    },
+    {
+      "ID": 407720,
+      "GUID": "3302721E-AE8E-4B11-A002-5EFEF2474C82",
+      "Title": "A Local Law to amend the New York city charter, in relation to post-employment activities of certain former public servants",
+      "AgendaSequence": 0,
+      "MinutesSequence": 7,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 72540,
+      "MatterFile": "Int 0077-2024",
+      "MatterName": "Post-employment activities of certain former public servants.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-04-19T20:00:04.39Z"
+    },
+    {
+      "ID": 407721,
+      "GUID": "2F3DFA24-E1C4-4FBB-8AC0-062451BF8F03",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to lobbying prohibitions in connection with campaign-related fundraising or political consulting",
+      "AgendaSequence": 0,
+      "MinutesSequence": 9,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 74049,
+      "MatterFile": "Int 0742-2024",
+      "MatterName": "Lobbying prohibitions in connection with campaign-related fundraising or political consulting.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-04-19T20:00:16.067Z"
     }
   ],
   "AgendaLastPublished": "2024-04-12T15:13:37.38Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-04-19T17:07:59.833Z"
+  "MinutesLastPublished": "2024-04-19T20:00:22.093Z",
+  "LastModified": "2024-04-19T20:00:22.153Z"
 }

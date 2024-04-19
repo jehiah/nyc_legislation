@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/4/20760_A_Committee_on_Public_Housing_24-04-19_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/4/20760_M_Committee_on_Public_Housing_24-04-19_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_240419-101519.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20760&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,30 +20,153 @@
       "GUID": "72E728DD-4B98-4013-B05A-54F8260234B8",
       "Title": "Oversight - RAD/PACT Conversions: Smoothing Transitions and Providing Clarity.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 74028,
       "MatterFile": "T2024-1738",
       "MatterName": "Oversight - RAD/PACT Conversions: Smoothing Transitions and Providing Clarity.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-04-04T16:19:45.347Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-04-19T20:56:17.837Z"
     },
     {
       "ID": 406747,
       "GUID": "EF55C1ED-CD45-4BCE-B298-9E50359A4363",
       "Title": "A Local Law in relation to a report on the permanent affordability commitment together program",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 73164,
       "MatterFile": "Int 0110-2024",
       "MatterName": "A report on the permanent affordability commitment together program.",
       "MatterType": "Introduction",
-      "LastModified": "2024-04-18T13:43:43.097Z"
+      "LastModified": "2024-04-19T21:02:01.163Z"
+    },
+    {
+      "ID": 407724,
+      "GUID": "5D4F5286-DD85-467B-9049-70A68AE9754B",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 30
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 66,
+          "Value": "Parental ",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2024-04-19T22:17:28.04Z"
+    },
+    {
+      "ID": 407725,
+      "GUID": "0A488026-0491-4440-BF5A-F50E41F2D12A",
+      "Title": "Oversight - RAD/PACT Conversions: Smoothing Transitions and Providing Clarity.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 74028,
+      "MatterFile": "T2024-1738",
+      "MatterName": "Oversight - RAD/PACT Conversions: Smoothing Transitions and Providing Clarity.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-04-19T20:56:25.3Z"
+    },
+    {
+      "ID": 407726,
+      "GUID": "046C90C2-EE16-4314-85D7-DC59F2D7803E",
+      "Title": "A Local Law in relation to a report on the permanent affordability commitment together program",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 73164,
+      "MatterFile": "Int 0110-2024",
+      "MatterName": "A report on the permanent affordability commitment together program.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-04-19T20:57:01.58Z"
     }
   ],
   "AgendaLastPublished": "2024-04-04T16:20:02.807Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-04-19T14:15:20.897Z"
+  "MinutesLastPublished": "2024-04-19T22:17:34.03Z",
+  "LastModified": "2024-04-19T22:17:34.14Z"
 }
