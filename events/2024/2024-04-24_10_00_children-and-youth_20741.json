@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/4/20741_A_Committee_on_Children_and_Youth_24-04-24_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/4/20741_M_Committee_on_Children_and_Youth_24-04-24_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_240424-100856.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20741&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,17 +20,97 @@
       "GUID": "22D158EC-BB87-4D15-B100-BF9E76F50618",
       "Title": "Oversight - Evaluating the Close to Home Program.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 73813,
       "MatterFile": "T2024-1523",
       "MatterName": "Oversight - Evaluating the Close to Home Program.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-04-18T13:44:42.497Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-04-24T18:32:11.117Z"
+    },
+    {
+      "ID": 407770,
+      "GUID": "AC6D7657-7B98-484C-9B7B-A6A33B364C57",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 50
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        }
+      ],
+      "LastModified": "2024-04-24T18:31:57.573Z"
+    },
+    {
+      "ID": 407771,
+      "GUID": "EEACDC1B-E4B0-4A99-9FB0-150501803EAE",
+      "Title": "Oversight - Evaluating the Close to Home Program.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 73813,
+      "MatterFile": "T2024-1523",
+      "MatterName": "Oversight - Evaluating the Close to Home Program.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-04-24T18:32:04.85Z"
     }
   ],
   "AgendaLastPublished": "2024-03-12T16:16:19.67Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-04-24T16:47:35.897Z"
+  "MinutesLastPublished": "2024-04-24T18:32:16.98Z",
+  "LastModified": "2024-04-24T18:32:17.027Z"
 }
