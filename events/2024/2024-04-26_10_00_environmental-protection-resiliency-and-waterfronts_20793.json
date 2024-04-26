@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/4/20793_A_Committee_on_Environmental_Protection%2C_Resiliency_and_Waterfronts_24-04-26_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/4/20793_M_Committee_on_Environmental_Protection%2C_Resiliency_and_Waterfronts_24-04-26_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_240426-101527.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20793&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,58 +20,219 @@
       "GUID": "579CAFFB-3380-4A34-91F3-25BA7423043F",
       "Title": "Oversight - Flooding and Stormwater Infrastructure.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 73938,
       "MatterFile": "T2024-1648",
       "MatterName": "Oversight - Flooding and Stormwater Infrastructure.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-04-18T14:00:29.62Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-04-26T17:42:13.49Z"
     },
     {
       "ID": 406697,
       "GUID": "BE44C82E-4DB4-4DB7-AE91-248273A32A8E",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to updating stormwater management plans and reports",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 69960,
       "MatterFile": "Int 0814-2024",
       "MatterName": "Updating stormwater management plans and reports",
       "MatterType": "Introduction",
-      "LastModified": "2024-04-12T19:33:19.4Z"
+      "LastModified": "2024-04-26T17:42:28.737Z"
     },
     {
       "ID": 406698,
       "GUID": "153928B0-8E2A-4458-ACBD-0F655BE02436",
       "Title": "Resolution calling upon the New York State Environment Facilities Corporation to remove restrictive barriers and uncap funds New York City can receive for water infrastructure upgrades.",
       "AgendaSequence": 4,
-      "MinutesSequence": 4,
+      "MinutesSequence": 8,
       "Version": "*",
       "AgendaNote": "Proposed Res. No. 144-A",
       "MinutesNote": "Proposed Res. No. 144-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 72713,
       "MatterFile": "Res 0144-2024",
       "MatterName": "New York State Environment Facilities Corporation to remove restrictive barriers and uncap funds New York City can receive for water infrastructure upgrades.",
       "MatterType": "Resolution",
-      "LastModified": "2024-04-12T19:33:19.707Z"
+      "LastModified": "2024-04-26T17:43:01.193Z"
     },
     {
       "ID": 407266,
       "GUID": "AC1175C9-E633-4396-A24A-0B4FB9AD4A98",
       "Title": "A Local Law to amend the administrative code of the city of New York and the New York city building code, in relation to the creation of an inland flood hazard area map, climate adaptation planning, and resilient construction for inland areas",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 6,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 74095,
       "MatterFile": "Int 0815-2024",
       "MatterName": "Creation of an inland flood hazard area map, climate adaptation planning, and resilient construction for inland areas.",
       "MatterType": "Introduction",
-      "LastModified": "2024-04-12T19:33:28.243Z"
+      "LastModified": "2024-04-26T17:42:40.58Z"
+    },
+    {
+      "ID": 407867,
+      "GUID": "6A14A2F8-7ACF-416A-9B13-B2629C819673",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 30
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 70
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2024-04-26T17:41:54.263Z"
+    },
+    {
+      "ID": 407868,
+      "GUID": "91ACA91B-1E15-4BF4-8F59-4402FD0986B7",
+      "Title": "Oversight - Flooding and Stormwater Infrastructure.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 73938,
+      "MatterFile": "T2024-1648",
+      "MatterName": "Oversight - Flooding and Stormwater Infrastructure.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-04-26T17:43:14.053Z"
+    },
+    {
+      "ID": 407869,
+      "GUID": "DA2CF68B-5986-4A43-A3E3-5FF6153921DB",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to updating stormwater management plans and reports",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 69960,
+      "MatterFile": "Int 0814-2024",
+      "MatterName": "Updating stormwater management plans and reports",
+      "MatterType": "Introduction",
+      "LastModified": "2024-04-26T17:42:35.443Z"
+    },
+    {
+      "ID": 407870,
+      "GUID": "9591182A-7C2B-4E61-BD4B-3C8F46AA91AA",
+      "Title": "A Local Law to amend the administrative code of the city of New York and the New York city building code, in relation to the creation of an inland flood hazard area map, climate adaptation planning, and resilient construction for inland areas",
+      "AgendaSequence": 0,
+      "MinutesSequence": 7,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 74095,
+      "MatterFile": "Int 0815-2024",
+      "MatterName": "Creation of an inland flood hazard area map, climate adaptation planning, and resilient construction for inland areas.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-04-26T17:42:47.623Z"
+    },
+    {
+      "ID": 407871,
+      "GUID": "45F92C16-4CB3-4C12-9D12-58C6C7F9BD03",
+      "Title": "Resolution calling upon the New York State Environment Facilities Corporation to remove restrictive barriers and uncap funds New York City can receive for water infrastructure upgrades.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 9,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 72713,
+      "MatterFile": "Res 0144-2024",
+      "MatterName": "New York State Environment Facilities Corporation to remove restrictive barriers and uncap funds New York City can receive for water infrastructure upgrades.",
+      "MatterType": "Resolution",
+      "LastModified": "2024-04-26T17:43:07.77Z"
     }
   ],
   "AgendaLastPublished": "2024-04-12T19:33:33.817Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-04-26T17:01:00.82Z"
+  "MinutesLastPublished": "2024-04-26T17:43:20.793Z",
+  "LastModified": "2024-04-26T17:43:20.917Z"
 }
