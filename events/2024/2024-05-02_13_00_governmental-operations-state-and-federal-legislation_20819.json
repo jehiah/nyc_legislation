@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/5/20819_A_Committee_on_Governmental_Operations%2C_State___Federal_Legislation_24-05-02_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/5/20819_M_Committee_on_Governmental_Operations%2C_State___Federal_Legislation_24-05-02_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Women and Gender Equity",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_240502-130507.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20819&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,26 +21,140 @@
       "GUID": "BFD45301-7B49-4C56-AC10-1285885A2F31",
       "Title": "Jointly with the Committee on Women and Gender Equity",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "",
-      "LastModified": "2024-04-19T20:24:08.077Z"
+      "LastModified": "2024-05-02T18:58:21.217Z"
     },
     {
       "ID": 407723,
       "GUID": "015BC78B-88D3-4635-B61D-64FC14A65C06",
       "Title": "Oversight – Update on Sexual Harassment Best Practices/Policies in New York City.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 73959,
       "MatterFile": "T2024-1669",
       "MatterName": "Oversight – Update on Sexual Harassment Best Practices/Policies in New York City.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-04-19T20:29:02.883Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-05-02T19:13:53.57Z"
+    },
+    {
+      "ID": 407927,
+      "GUID": "8EA56C3B-DCAC-49CA-A456-2A7E62469550",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 20
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 60
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 80
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2024-05-02T18:59:13.64Z"
+    },
+    {
+      "ID": 407928,
+      "GUID": "5697661D-4174-4661-B3DE-6F74F543C4F4",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Louis and Reilly",
+      "LastModified": "2024-05-02T18:59:27.237Z"
+    },
+    {
+      "ID": 407929,
+      "GUID": "657E8786-610F-480D-B840-3B8E43B36B53",
+      "Title": "Oversight – Update on Sexual Harassment Best Practices/Policies in New York City.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 73959,
+      "MatterFile": "T2024-1669",
+      "MatterName": "Oversight – Update on Sexual Harassment Best Practices/Policies in New York City.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-05-02T18:59:37.533Z"
     }
   ],
   "AgendaLastPublished": "2024-04-19T20:29:11.08Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-04-19T20:29:11.237Z"
+  "MinutesLastPublished": "2024-05-02T18:59:42.6Z",
+  "LastModified": "2024-05-02T18:59:42.74Z"
 }
