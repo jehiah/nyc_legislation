@@ -8,10 +8,13 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/5/20826_A_Committee_on_Public_Housing_24-05-07_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/5/20826_M_Committee_on_Public_Housing_24-05-07_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Finance",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_240507-095732.mp4",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_240507-095732.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20826&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,17 +22,131 @@
       "GUID": "4B931209-9C4C-4262-9C5D-42B31980BED8",
       "Title": "NEW YORK CITY COUNCIL FISCAL YEAR 2025 EXECUTIVE BUDGET HEARINGS\r\n\r\n\r\n  9:30 a.m. - 11:00 a.m.     New York City Housing Authority\r\n\r\n                    11:00 a.m.     Public\r\n\r\n\r\nJointly with the Committee on Finance",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 74169,
       "MatterFile": "T2024-1879",
       "MatterName": "Executive Budget Hearings - Public Housing",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-04-30T14:23:25.637Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-05-07T17:45:46.44Z"
+    },
+    {
+      "ID": 408004,
+      "GUID": "9961ED25-E9E6-4E64-8B62-FC17DBB6355E",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 66,
+          "Value": "Parental ",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2024-05-07T18:08:04.36Z"
+    },
+    {
+      "ID": 408005,
+      "GUID": "69AC9774-B821-4291-8950-9D4BBE3CCF52",
+      "Title": "NEW YORK CITY COUNCIL FISCAL YEAR 2025 EXECUTIVE BUDGET HEARINGS\r\n\r\n\r\n  9:30 a.m. - 11:00 a.m.     New York City Housing Authority\r\n\r\n                    11:00 a.m.     Public\r\n\r\n\r\nJointly with the Committee on Finance",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 74169,
+      "MatterFile": "T2024-1879",
+      "MatterName": "Executive Budget Hearings - Public Housing",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-05-07T18:08:04.52Z"
+    },
+    {
+      "ID": 408009,
+      "GUID": "3E1882BA-1217-4089-8D74-A90C3E736D68",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Ayala, Moya, Powers, Louis, Brooks-Powers, Brewer, Farías, Hanks, Hudson, Stevens and Salaam",
+      "LastModified": "2024-05-07T18:09:29.837Z"
     }
   ],
   "AgendaLastPublished": "2024-04-29T14:48:20.687Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-05-07T13:57:33.59Z"
+  "MinutesLastPublished": "2024-05-07T18:09:35.267Z",
+  "LastModified": "2024-05-07T18:09:35.323Z"
 }
