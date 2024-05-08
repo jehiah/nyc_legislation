@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/5/20812_A_Committee_on_Land_Use_24-05-08_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/5/20812_M_Committee_on_Land_Use_24-05-08_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-250-14_240508-125612.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20812&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
@@ -176,12 +177,15 @@
       "MinutesSequence": 20,
       "Version": "*",
       "AgendaNote": "Preconsidered",
+      "ActionID": 15,
+      "ActionName": "Hearing on P-C Item by Comm",
+      "ActionText": "This Land Use Application was Hearing on P-C Item by Comm",
       "MatterID": 74226,
       "MatterFile": "T2024-1936",
       "MatterName": "Landmarks, Timbale Terrace ESDC Grant Application, Manhattan (G 240051 GAM)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-05-08T17:34:32.947Z"
+      "MatterStatus": "Introduced",
+      "LastModified": "2024-05-08T18:20:11.873Z"
     },
     {
       "ID": 408051,
@@ -300,7 +304,7 @@
       "MatterName": "Zoning, 817 Avenue H Rezoning, Brooklyn (C 230323 ZMK)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Reported from Committee",
-      "LastModified": "2024-05-08T17:35:11.31Z"
+      "LastModified": "2024-05-08T18:20:46.83Z"
     },
     {
       "ID": 408056,
@@ -452,10 +456,29 @@
       "MatterName": "Zoning, 1289 Atlantic Avenue Rezoning, Brooklyn (N 200293 ZRK)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Reported from Committee",
-      "LastModified": "2024-05-08T17:37:42.763Z"
+      "LastModified": "2024-05-08T18:19:34.693Z"
+    },
+    {
+      "ID": 408072,
+      "GUID": "DE023F2F-73C7-498E-BB37-EB1FF20E5920",
+      "Title": "Application number G 240051 GAM (Timbale Terrace ESDC Grant Application) submitted by the City of New York (the “City”) by and through its Department of Housing Preservation and Development requesting from the New York City Council a favorable resolution in support of the City’s application for funding from the New York State Empire State Development Corporation (“ESDC”), pursuant to Section 16-n of the ESDC Act, under the Restore New York Communities Initiative in connection with the reconstruction and redevelopment of the Timbale Terrace project (Block 1767, Lots 1, 2, 3, 4, 67, 68, 69, 71, 72, 168, 169), Borough of Manhattan, Community District 11, Council District 9.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 21,
+      "Version": "*",
+      "ActionID": 5040,
+      "ActionName": "P-C Item Approved by Committee with Companion Resolution",
+      "ActionText": "A motion was made that this Land Use Application be P-C Item Approved by Committee with Companion Resolution approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 74226,
+      "MatterFile": "T2024-1936",
+      "MatterName": "Landmarks, Timbale Terrace ESDC Grant Application, Manhattan (G 240051 GAM)",
+      "MatterType": "Land Use Application",
+      "MatterStatus": "Introduced",
+      "LastModified": "2024-05-08T18:20:28.993Z"
     }
   ],
   "AgendaLastPublished": "2024-05-08T16:00:39.037Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-05-08T17:05:09.717Z"
+  "MinutesLastPublished": "2024-05-08T18:20:52.253Z",
+  "LastModified": "2024-05-08T18:20:52.323Z"
 }
