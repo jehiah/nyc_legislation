@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/5/20837_A_Committee_on_Hospitals_24-05-13_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/5/20837_M_Committee_on_Hospitals_24-05-13_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Finance",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_240513-093837.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20837&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,17 +21,115 @@
       "GUID": "156C63C1-0C4D-4294-855B-4C83B76A2542",
       "Title": "NEW YORK CITY COUNCIL FISCAL YEAR 2025 EXECUTIVE BUDGET HEARINGS\r\n\r\n\r\n  12:00 p.m. -   2:00 p.m.     Health + Hospitals\r\n \r\n                         2:30 p.m.     Public\r\n\r\n\r\n Jointly with the Committee on Finance\r\n",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 74180,
       "MatterFile": "T2024-1890",
       "MatterName": "Executive Budget Hearings - Hospitals",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-04-29T15:42:09.267Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-05-13T21:08:08.397Z"
+    },
+    {
+      "ID": 408165,
+      "GUID": "48E0B41B-D831-4E2C-BB7A-AB36E6404C1B",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7740,
+          "Slug": "carlina-rivera",
+          "FullName": "Carlina Rivera",
+          "ValueID": 66,
+          "Value": "Parental ",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2024-05-14T19:14:13.027Z"
+    },
+    {
+      "ID": 408166,
+      "GUID": "620DCFB7-D42C-481D-8B6A-02F051565B8E",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Brannan, Brewer, Louis, Restler, Sanchez and Mealy",
+      "LastModified": "2024-05-14T19:14:52.63Z"
+    },
+    {
+      "ID": 408167,
+      "GUID": "F807ADF0-B5F0-44BF-A715-1EEC4AFCC538",
+      "Title": "NEW YORK CITY COUNCIL FISCAL YEAR 2025 EXECUTIVE BUDGET HEARINGS\r\n\r\n\r\n  12:00 p.m. -   2:00 p.m.     Health + Hospitals\r\n \r\n                         2:30 p.m.     Public\r\n\r\n\r\n Jointly with the Committee on Finance\r\n",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 74180,
+      "MatterFile": "T2024-1890",
+      "MatterName": "Executive Budget Hearings - Hospitals",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-05-13T21:08:10.943Z"
     }
   ],
   "AgendaLastPublished": "2024-04-29T15:42:15.657Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-04-29T15:42:15.703Z"
+  "MinutesLastPublished": "2024-05-14T19:14:57.747Z",
+  "LastModified": "2024-05-14T19:14:57.827Z"
 }
