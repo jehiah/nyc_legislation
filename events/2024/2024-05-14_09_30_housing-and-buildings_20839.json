@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/5/20839_A_Committee_on_Housing_and_Buildings_24-05-14_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/5/20839_M_Committee_on_Housing_and_Buildings_24-05-14_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Finance",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_240514-094928.mp4",
   "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_240514-094928.mp4",
@@ -30,7 +31,7 @@
       "MatterFile": "T2024-1892",
       "MatterName": "Executive Budget Hearings - Housing and Buildings",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Filed",
       "LastModified": "2024-05-14T19:37:12.103Z"
     },
     {
@@ -40,7 +41,66 @@
       "AgendaSequence": 0,
       "MinutesSequence": 1,
       "Version": "",
-      "LastModified": "2024-05-14T19:37:04.727Z"
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2024-05-15T14:38:34.3Z"
     },
     {
       "ID": 408638,
@@ -49,8 +109,8 @@
       "AgendaSequence": 0,
       "MinutesSequence": 2,
       "Version": "",
-      "MinutesNote": "Other Council Members Attending: ",
-      "LastModified": "2024-05-14T19:37:08Z"
+      "MinutesNote": "Other Council Members Attending: Brannan, Moya, Powers, Louis, Brooks-Powers, Brewer, Hanks, Hudson, Stevens, Carr, Cabán, Nurse, and Public Advocate Williams.",
+      "LastModified": "2024-05-15T16:59:39.943Z"
     },
     {
       "ID": 408639,
@@ -59,15 +119,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
       "MatterID": 74182,
       "MatterFile": "T2024-1892",
       "MatterName": "Executive Budget Hearings - Housing and Buildings",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-05-14T19:37:01.783Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-05-15T16:59:46.52Z"
     }
   ],
   "AgendaLastPublished": "2024-04-29T15:10:22.053Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-05-14T20:40:01.863Z"
+  "MinutesLastPublished": "2024-05-15T16:59:52.627Z",
+  "LastModified": "2024-05-15T16:59:52.767Z"
 }
