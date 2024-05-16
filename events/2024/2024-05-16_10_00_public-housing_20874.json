@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/5/20874_A_Committee_on_Public_Housing_24-05-16_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/5/20874_M_Committee_on_Public_Housing_24-05-16_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_240516-102713.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20874&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
@@ -20,18 +21,155 @@
       "GUID": "EAAD1F16-02F1-4DEE-9052-979A5267BE5F",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to a report on the New York city housing authority’s permanent affordability commitment together program",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 110-A",
       "MinutesNote": "Proposed Int. No. 110-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 73164,
       "MatterFile": "Int 0110-2024",
       "MatterName": "Report on the New York city housing authority’s permanent affordability commitment together program.",
       "MatterType": "Introduction",
-      "LastModified": "2024-05-15T16:31:10.967Z"
+      "LastModified": "2024-05-16T14:47:08.257Z"
+    },
+    {
+      "ID": 408699,
+      "GUID": "14E324E7-B67C-4A34-9C82-43DE1173A77B",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 66,
+          "Value": "Parental ",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2024-05-16T16:02:18.67Z"
+    },
+    {
+      "ID": 408700,
+      "GUID": "9C9F9B69-2018-4844-8AB9-AC2A6BB3AD70",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to a report on the New York city housing authority’s permanent affordability commitment together program",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 73164,
+      "MatterFile": "Int 0110-2024",
+      "MatterName": "Report on the New York city housing authority’s permanent affordability commitment together program.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-05-16T14:47:12.193Z"
+    },
+    {
+      "ID": 408701,
+      "GUID": "3A52D3B7-2995-4353-B937-48C625079B8A",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to a report on the New York city housing authority’s permanent affordability commitment together program",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 73164,
+      "MatterFile": "Int 0110-2024",
+      "MatterName": "Report on the New York city housing authority’s permanent affordability commitment together program.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-05-16T14:47:17.797Z"
+    },
+    {
+      "ID": 408702,
+      "GUID": "7DEE30F0-66B7-4C84-9D5F-C88A6F4FE294",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to a report on the New York city housing authority’s permanent affordability commitment together program",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "This Introduction was Approved by Committee",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 73164,
+      "MatterFile": "Int 0110-2024",
+      "MatterName": "Report on the New York city housing authority’s permanent affordability commitment together program.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-05-16T15:08:37.573Z"
     }
   ],
   "AgendaLastPublished": "2024-05-10T19:45:01.17Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-05-16T14:33:55.533Z"
+  "MinutesLastPublished": "2024-05-16T16:02:23.743Z",
+  "LastModified": "2024-05-16T16:02:23.823Z"
 }

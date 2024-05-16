@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/5/20842_A_Committee_on_Higher_Education_24-05-15_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/5/20842_M_Committee_on_Higher_Education_24-05-15_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Finance",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_240515-094355.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20842&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,17 +21,99 @@
       "GUID": "D474F520-A2CE-49C6-B41B-8EA9A5FFDA6B",
       "Title": "NEW YORK CITY COUNCIL FISCAL YEAR 2025 EXECUTIVE BUDGET HEARINGS\r\n\r\n\r\n    12:30 p.m. -   2:00 p.m.     City University of New York\r\n\r\n                           2:30 p.m.     Public\r\n\r\n\r\n   Jointly with the Committee on Finance\r\n",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 74185,
       "MatterFile": "T2024-1895",
       "MatterName": "Executive Budget Hearings - Higher Education",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-04-29T15:34:04.03Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-05-15T18:09:03.887Z"
+    },
+    {
+      "ID": 408655,
+      "GUID": "63A2D34F-B696-4AC5-BF2D-6D9DCA880574",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        }
+      ],
+      "LastModified": "2024-05-15T18:08:57.073Z"
+    },
+    {
+      "ID": 408656,
+      "GUID": "3F9701E6-89B1-4FC5-969C-7BBE2F0BA1F4",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending:  Restler, Avilés and Joseph",
+      "LastModified": "2024-05-16T16:04:54.693Z"
+    },
+    {
+      "ID": 408657,
+      "GUID": "F5C450F4-8D8C-4F0B-8724-86099219B2C8",
+      "Title": "NEW YORK CITY COUNCIL FISCAL YEAR 2025 EXECUTIVE BUDGET HEARINGS\r\n\r\n\r\n    12:30 p.m. -   2:00 p.m.     City University of New York\r\n\r\n                           2:30 p.m.     Public\r\n\r\n\r\n   Jointly with the Committee on Finance\r\n",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 74185,
+      "MatterFile": "T2024-1895",
+      "MatterName": "Executive Budget Hearings - Higher Education",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-05-16T16:05:01.33Z"
     }
   ],
   "AgendaLastPublished": "2024-04-29T15:34:12.18Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-04-29T15:34:12.37Z"
+  "MinutesLastPublished": "2024-05-16T16:05:07.187Z",
+  "LastModified": "2024-05-16T16:05:07.22Z"
 }
