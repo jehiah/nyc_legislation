@@ -8,8 +8,8 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/5/20843_A_Committee_on_Finance_24-05-15_Committee_Green_Sheet.pdf",
   "Comment": "Jointly with the Committee on Education and the Committee on Higher Education.",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_240515-094355.mp4",
@@ -29,7 +29,7 @@
       "MatterFile": "T2024-1896",
       "MatterName": "Executive Budget Hearings - Finance",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Filed",
       "LastModified": "2024-05-15T18:08:36.283Z"
     },
     {
@@ -85,8 +85,8 @@
           "ID": 7810,
           "Slug": "amanda-farias",
           "FullName": "Amanda Farías",
-          "ValueID": 13,
-          "Value": "Present",
+          "ValueID": 16,
+          "Value": "Absent",
           "Sort": 60
         },
         {
@@ -173,12 +173,12 @@
           "ID": 7816,
           "Slug": "julie-won",
           "FullName": "Julie Won",
-          "ValueID": 13,
-          "Value": "Present",
+          "ValueID": 66,
+          "Value": "Parental ",
           "Sort": 170
         }
       ],
-      "LastModified": "2024-05-15T18:08:30.17Z"
+      "LastModified": "2024-05-16T14:02:06.677Z"
     },
     {
       "ID": 408653,
@@ -187,8 +187,8 @@
       "AgendaSequence": 0,
       "MinutesSequence": 2,
       "Version": "",
-      "MinutesNote": "Other Council Members Attending: ",
-      "LastModified": "2024-05-15T18:08:32.68Z"
+      "MinutesNote": "Other Council Members Attending: Speaker Adams, Dinowitz, Lee, Avilés, Schulman, Restler, Hanif, Krishnan, Narcisse, Gutiérrez, Nurse, Marte, Bottcher, Feliz and Public Advocate Williams",
+      "LastModified": "2024-05-16T14:05:13.733Z"
     },
     {
       "ID": 408654,
@@ -197,12 +197,15 @@
       "AgendaSequence": 0,
       "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
       "MatterID": 74186,
       "MatterFile": "T2024-1896",
       "MatterName": "Executive Budget Hearings - Finance",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-05-15T18:08:26.023Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-05-16T14:04:41.97Z"
     }
   ],
   "AgendaLastPublished": "2024-04-29T15:32:18.107Z",
