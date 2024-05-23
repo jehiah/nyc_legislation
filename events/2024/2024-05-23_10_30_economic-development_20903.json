@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/5/20903_A_Committee_on_Economic_Development_24-05-23_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/5/20903_M_Committee_on_Economic_Development_24-05-23_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_240523-105434.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20903&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,18 +21,139 @@
       "GUID": "687D5B9C-BA99-42F2-BB45-95ECFA6C4D7D",
       "Title": "A Local Law in relation to requiring regular reports on the redevelopment plans at John F. Kennedy International Airport",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 134-A",
       "MinutesNote": "Proposed Int. No. 134-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 73443,
       "MatterFile": "Int 0134-2024",
       "MatterName": "Requiring regular reports on the redevelopment plans at John F. Kennedy International Airport.",
       "MatterType": "Introduction",
-      "LastModified": "2024-05-17T19:22:12.647Z"
+      "LastModified": "2024-05-23T15:30:21.82Z"
+    },
+    {
+      "ID": 409222,
+      "GUID": "48AEDF2A-2E43-448D-84B0-E3F8A8EA6630",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2024-05-23T15:30:10.663Z"
+    },
+    {
+      "ID": 409223,
+      "GUID": "54AB7886-39C2-404D-B335-42D11A40AE3E",
+      "Title": "A Local Law in relation to requiring regular reports on the redevelopment plans at John F. Kennedy International Airport",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 73443,
+      "MatterFile": "Int 0134-2024",
+      "MatterName": "Requiring regular reports on the redevelopment plans at John F. Kennedy International Airport.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-05-23T15:30:26.75Z"
+    },
+    {
+      "ID": 409224,
+      "GUID": "B1B03FD1-2501-481C-9057-0753754DA95D",
+      "Title": "A Local Law in relation to requiring regular reports on the redevelopment plans at John F. Kennedy International Airport",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 73443,
+      "MatterFile": "Int 0134-2024",
+      "MatterName": "Requiring regular reports on the redevelopment plans at John F. Kennedy International Airport.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-05-23T15:30:30.98Z"
+    },
+    {
+      "ID": 409225,
+      "GUID": "D32D22DD-AC4E-4DF1-A5F3-0F741F982C9A",
+      "Title": "A Local Law in relation to requiring regular reports on the redevelopment plans at John F. Kennedy International Airport",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 73443,
+      "MatterFile": "Int 0134-2024",
+      "MatterName": "Requiring regular reports on the redevelopment plans at John F. Kennedy International Airport.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-05-23T15:41:57.54Z"
     }
   ],
   "AgendaLastPublished": "2024-05-17T19:18:36.1Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-05-17T19:18:36.147Z"
+  "MinutesLastPublished": "2024-05-23T15:32:23.23Z",
+  "LastModified": "2024-05-23T15:32:23.377Z"
 }

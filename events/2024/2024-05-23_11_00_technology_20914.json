@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/5/20914_A_Committee_on_Technology_24-05-23_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/5/20914_M_Committee_on_Technology_24-05-23_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_240523-111819.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20914&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,18 +21,123 @@
       "GUID": "CB1E2277-991D-4819-9CE8-FFDB1B4E0C6D",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to providing an estimated wait time to 311 call center customers",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 584-A",
       "MinutesNote": "Proposed Int. No. 584-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 73351,
       "MatterFile": "Int 0584-2024",
       "MatterName": "Providing an estimated wait time to 311 call center customers.",
       "MatterType": "Introduction",
-      "LastModified": "2024-05-20T17:21:37.9Z"
+      "LastModified": "2024-05-23T16:46:04.013Z"
+    },
+    {
+      "ID": 409268,
+      "GUID": "8C508871-D29A-4B9C-9CAA-0C55940FE193",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 66,
+          "Value": "Parental ",
+          "Sort": 50
+        }
+      ],
+      "LastModified": "2024-05-23T16:45:58.207Z"
+    },
+    {
+      "ID": 409269,
+      "GUID": "EA956549-34E6-45CB-9ED1-AB17A25F2AD8",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to providing an estimated wait time to 311 call center customers",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 73351,
+      "MatterFile": "Int 0584-2024",
+      "MatterName": "Providing an estimated wait time to 311 call center customers.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-05-23T16:46:09.683Z"
+    },
+    {
+      "ID": 409270,
+      "GUID": "AE57E857-C128-4D45-98C2-0A9C1CD95D3D",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to providing an estimated wait time to 311 call center customers",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 73351,
+      "MatterFile": "Int 0584-2024",
+      "MatterName": "Providing an estimated wait time to 311 call center customers.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-05-23T16:46:14.533Z"
+    },
+    {
+      "ID": 409271,
+      "GUID": "1F5A3174-36A1-42C3-BB28-B7482B7D1A75",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to providing an estimated wait time to 311 call center customers",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 73351,
+      "MatterFile": "Int 0584-2024",
+      "MatterName": "Providing an estimated wait time to 311 call center customers.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-05-23T17:01:57.97Z"
     }
   ],
   "AgendaLastPublished": "2024-05-20T17:21:49.98Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-05-20T17:21:50.06Z"
+  "MinutesLastPublished": "2024-05-23T17:02:03.137Z",
+  "LastModified": "2024-05-23T17:02:03.173Z"
 }

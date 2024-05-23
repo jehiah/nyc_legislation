@@ -6,8 +6,8 @@
   "Title": "A Local Law to amend the administrative code of the city of New York, in relation to providing an estimated wait time to 311 call center customers",
   "TypeID": 2,
   "TypeName": "Introduction",
-  "StatusID": 25,
-  "StatusName": "Laid Over in Committee",
+  "StatusID": 24,
+  "StatusName": "Reported from Committee",
   "BodyID": 5213,
   "BodyName": "Committee on Technology",
   "IntroDate": "2024-03-07T00:00:00Z",
@@ -130,12 +130,118 @@
       "Version": "*",
       "MatterStatusID": 25,
       "LastModified": "2024-04-25T17:03:33.31Z"
+    },
+    {
+      "ID": 408837,
+      "Date": "2024-05-23T11:00:00Z",
+      "ActionID": 54,
+      "Action": "Hearing Held by Committee",
+      "Description": "This Introduction was Hearing Held by Committee",
+      "BodyID": 5213,
+      "BodyName": "Committee on Technology",
+      "EventID": 20914,
+      "AgendaSequence": 1,
+      "MinutesSequence": 2,
+      "Version": "*",
+      "AgendaNote": "Proposed Int. No. 584-A",
+      "MinutesNote": "Proposed Int. No. 584-A",
+      "MatterStatusID": 3,
+      "LastModified": "2024-05-23T16:46:04.013Z"
+    },
+    {
+      "ID": 409269,
+      "Date": "2024-05-23T11:00:00Z",
+      "ActionID": 5001,
+      "Action": "Amendment Proposed by Comm",
+      "Description": "This Introduction was Amendment Proposed by Comm",
+      "BodyID": 5213,
+      "BodyName": "Committee on Technology",
+      "EventID": 20914,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2024-05-23T16:46:09.683Z"
+    },
+    {
+      "ID": 409270,
+      "Date": "2024-05-23T11:00:00Z",
+      "ActionID": 33,
+      "Action": "Amended by Committee",
+      "Description": "This Introduction was Amended by Committee",
+      "BodyID": 5213,
+      "BodyName": "Committee on Technology",
+      "EventID": 20914,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2024-05-23T16:46:14.533Z"
+    },
+    {
+      "ID": 409271,
+      "Date": "2024-05-23T11:00:00Z",
+      "ActionID": 32,
+      "Action": "Approved by Committee",
+      "Description": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "BodyID": 5213,
+      "BodyName": "Committee on Technology",
+      "EventID": 20914,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterStatusID": 24,
+      "Votes": [
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 10
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 20
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 30
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "VoteID": 66,
+          "Vote": "Parental",
+          "Sort": 50
+        }
+      ],
+      "LastModified": "2024-05-23T17:01:57.97Z"
     }
   ],
   "Attachments": [
     {
       "ID": 301965,
-      "LastModified": "2024-05-22T22:51:36.963Z",
+      "LastModified": "2024-05-23T17:07:28.353Z",
       "Name": "Summary of Int. No. 584-A",
       "Link": "https://nyc.legistar1.com/nyc/attachments/dfe245e1-33d8-4c93-a380-8e90476c3900.docx",
       "Sort": 1
@@ -191,22 +297,29 @@
     },
     {
       "ID": 302143,
-      "LastModified": "2024-05-22T22:51:37.81Z",
+      "LastModified": "2024-05-23T16:49:49.77Z",
       "Name": "Committee Report 5/23/24",
       "Link": "https://nyc.legistar1.com/nyc/attachments/fedbb592-d2b5-4130-b1aa-a1dad1779882.docx",
       "Sort": 9
     },
     {
+      "ID": 302188,
+      "LastModified": "2024-05-23T16:45:44.39Z",
+      "Name": "Committee Report - Stated Meeting",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/7a0a0491-eb95-4a19-b03a-70e840b5e841.docx",
+      "Sort": 10
+    },
+    {
       "ID": 302144,
-      "LastModified": "2024-05-22T21:42:58.98Z",
+      "LastModified": "2024-05-23T16:45:44.343Z",
       "Name": "Fiscal Impact Statement",
       "Link": "https://nyc.legistar1.com/nyc/attachments/e1b57780-dd37-49f7-8fad-2d9a0f871485.docx",
-      "Sort": 10
+      "Sort": 11
     }
   ],
   "Summary": "This bill would require the 311 call center to implement a virtual queue system that provides an estimated wait time for telephone callers. The bill would require this feature to be in place on June 30, 2025.",
   "TextID": 77882,
   "Text": "Be it enacted by the Council as follows:\n      \n      \n      Section 1. Subdivision a of section 23-302 of the administrative code of the city of New York, as added by local law number 29 for the year 2011, is amended to read as follows: \n      � 23-302 High call volume protocol. a. No later than September 30, 2011, the 311 customer service center shall implement a protocol for responding to high call volume. Such protocol shall include, but not be limited to, (i) a system to efficiently and effectively answer, direct and track all calls; (ii) increased utilization of automated telephone messages, short message services, social media, email alerts, and the city's website to disseminate information and to reduce non-critical information requests; [and] (iii) a plan to ensure adequate staffing both in anticipation of, and in response to, high call volume incidents; and (iv) a virtual queue system that provides an estimated wait time to callers when the estimated wait time is more than 60 seconds.\n      � 2. This local law takes effect on June 30, 2025.\n      \n\n\n\nSession 13\nIB\nLS #11547\n5/15/2024 9:20 PM\n\nSession 12\nJLB\nLS #11547\n1/26/2023 11:09 AM\n      \n      1\n      \n      \n      2",
   "RTF": "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang1033\\deflangfe1033{\\fonttbl{\\f0\\froman\\fprq2\\fcharset0 Times New Roman;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\n\\ul\\v0\\par\nBe it enacted by the Council as follows:\\ulnone\\par\n\\pard\\ltrpar\\fi720\\qj\\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qj Section 1. Subdivision a of section 23-302 of the administrative code of the city of New York, as added by local law number 29 for the year 2011, is amended to read as follows: \\par\n\\'a7 23-302 High call volume protocol. a. No later than September 30, 2011, the 311 customer service center shall implement a protocol for responding to high call volume. Such protocol shall include, but not be limited to, (i) a system to efficiently and effectively answer, direct and track all calls; (ii) increased utilization of automated telephone messages, short message services, social media, email alerts, and the city's website to disseminate information and to reduce non-critical information requests; [and] (iii) a plan to ensure adequate staffing both in anticipation of, and in response to, high call volume incidents\\ul ; and (iv) a virtual queue system that provides an estimated wait time to callers when the estimated wait time is more than 60 seconds\\ulnone .\\par\n\\'a7 2. This local law takes effect on June 30, 2025.\\par\n\\pard\\ltrpar\\qj\\fs18\\par\n\\par\n\\par\n\\ul Session 13\\par\n\\ulnone IB\\line LS #11547\\par\n\\lang1024 5/15/2024 9:20 PM\\lang1033\\par\n\\par\n\\ul Session 12\\par\n\\ulnone JLB\\par\nLS #11547\\par\n\\lang1024 1/26/2023 11:09 AM\\lang1033\\par\n\\pard\\ltrpar\\fi720\\fs24\\par\n}\n",
-  "LastModified": "2024-05-22T22:51:37.81Z"
+  "LastModified": "2024-05-23T17:07:28.357Z"
 }
