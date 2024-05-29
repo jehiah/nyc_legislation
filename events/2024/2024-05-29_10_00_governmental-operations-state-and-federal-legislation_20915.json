@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/5/20915_A_Committee_on_Governmental_Operations%2C_State___Federal_Legislation_24-05-29_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/5/20915_M_Committee_on_Governmental_Operations%2C_State___Federal_Legislation_24-05-29_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_240529-101458.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20915&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,16 +20,129 @@
       "GUID": "51878891-EAC2-48F2-AB2D-E401CA59779D",
       "Title": "A Local Law to amend the New York city charter, in relation to requiring council advice and consent for certain commissioners",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 74312,
       "MatterFile": "Int 0908-2024",
       "MatterName": "Requiring council advice and consent for certain commissioners.",
       "MatterType": "Introduction",
-      "LastModified": "2024-05-23T18:54:16.91Z"
+      "LastModified": "2024-05-29T18:26:24.96Z"
+    },
+    {
+      "ID": 409305,
+      "GUID": "C5F0DD13-236F-4E9C-B6B5-DCE433C0A4C7",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 50
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2024-05-29T18:25:40.107Z"
+    },
+    {
+      "ID": 409306,
+      "GUID": "F5C32DB1-3F9F-4FCE-B19A-CF1F658BD544",
+      "Title": "A Local Law to amend the New York city charter, in relation to requiring council advice and consent for certain commissioners",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 39,
+      "ActionName": "Filed by Committee",
+      "ActionText": "This Introduction was Filed by Committee",
+      "MatterID": 74312,
+      "MatterFile": "Int 0908-2024",
+      "MatterName": "Requiring council advice and consent for certain commissioners.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-05-29T18:26:31.93Z"
+    },
+    {
+      "ID": 409307,
+      "GUID": "0821F3F5-F030-4D4B-951A-AC8BFED6C584",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Speaker Adams, Powers, Hudson and Public Advocate Williams.",
+      "LastModified": "2024-05-29T18:26:21.31Z"
     }
   ],
   "AgendaLastPublished": "2024-05-23T18:54:23.88Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-05-29T16:30:50.477Z"
+  "MinutesLastPublished": "2024-05-29T18:26:37.337Z",
+  "LastModified": "2024-05-29T18:26:37.517Z"
 }
