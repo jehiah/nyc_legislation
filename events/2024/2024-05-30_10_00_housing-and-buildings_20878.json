@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/5/20878_A_Committee_on_Housing_and_Buildings_24-05-30_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/5/20878_M_Committee_on_Housing_and_Buildings_24-05-30_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_240530-101835.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20878&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,30 +20,147 @@
       "GUID": "1B0E2482-EEF9-456D-8DDB-A1D43B90F85A",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to abatement of taxation for alterations and improvements to certain multiple dwellings",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 73596,
       "MatterFile": "Int 0654-2024",
       "MatterName": "Abatement of taxation for alterations and improvements to certain multiple dwellings.",
       "MatterType": "Introduction",
-      "LastModified": "2024-05-16T21:38:58.247Z"
+      "LastModified": "2024-05-30T17:19:45.687Z"
     },
     {
       "ID": 408778,
       "GUID": "12254591-4831-4785-A1CF-AE2DD7C8FDE8",
       "Title": "Oversight - J-51 Tax Abatement.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 74306,
       "MatterFile": "T2024-2011",
       "MatterName": "Oversight - J-51 Tax Abatement.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-05-16T21:47:14.3Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-05-30T17:26:36.817Z"
+    },
+    {
+      "ID": 409336,
+      "GUID": "90AFB7F0-FA8F-48D4-BD88-8ED6B60DEC53",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2024-05-30T17:19:10.573Z"
+    },
+    {
+      "ID": 409337,
+      "GUID": "394B3D5D-A94B-4792-BCB7-A1010F4B342F",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Brewer",
+      "LastModified": "2024-05-30T17:26:38.56Z"
+    },
+    {
+      "ID": 409338,
+      "GUID": "E9A2A03F-8B16-4460-A724-7F7F540F74B1",
+      "Title": "Oversight - J-51 Tax Abatement.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 74306,
+      "MatterFile": "T2024-2011",
+      "MatterName": "Oversight - J-51 Tax Abatement.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-05-30T17:19:27.657Z"
+    },
+    {
+      "ID": 409339,
+      "GUID": "80876F52-1C4D-4EAC-BE37-F418945CFD2D",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to abatement of taxation for alterations and improvements to certain multiple dwellings",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 73596,
+      "MatterFile": "Int 0654-2024",
+      "MatterName": "Abatement of taxation for alterations and improvements to certain multiple dwellings.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-05-30T17:20:02.497Z"
     }
   ],
   "AgendaLastPublished": "2024-05-16T21:47:20.257Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-05-30T14:18:37.24Z"
+  "MinutesLastPublished": "2024-05-30T17:26:45.4Z",
+  "LastModified": "2024-05-30T17:26:45.49Z"
 }
