@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/5/20882_A_Committee_on_Transportation_and_Infrastructure_24-05-30_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/5/20882_M_Committee_on_Transportation_and_Infrastructure_24-05-30_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_240530-101727.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20882&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,43 +20,195 @@
       "GUID": "26869165-C045-417E-8B17-4841F0D53619",
       "Title": "Oversight - Future-Proofing the City’s Public Infrastructure and Spaces.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 74283,
       "MatterFile": "T2024-1993",
       "MatterName": "Oversight - Future-Proofing the City’s Public Infrastructure and Spaces.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-05-14T18:11:52.653Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-05-30T17:58:32.607Z"
     },
     {
       "ID": 408613,
       "GUID": "CD9E2BDA-DE34-47EB-81C5-757D5B1BDDF9",
       "Title": "A Local Law in relation to a capital plan and timeline for installing public bathrooms",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 73197,
       "MatterFile": "Int 0272-2024",
       "MatterName": "Capital plan and timeline for installing public bathrooms.",
       "MatterType": "Introduction",
-      "LastModified": "2024-05-14T18:12:24.28Z"
+      "LastModified": "2024-05-30T17:58:35.94Z"
     },
     {
       "ID": 408614,
       "GUID": "FDDD2F04-30D0-4DB7-B253-692FFCF7E002",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to expanding the information provided on the open space coordination platform",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 73481,
       "MatterFile": "Int 0574-2024",
       "MatterName": "Expanding the information provided on the open space coordination platform.",
       "MatterType": "Introduction",
-      "LastModified": "2024-05-14T18:12:44.423Z"
+      "LastModified": "2024-05-30T17:58:39.863Z"
+    },
+    {
+      "ID": 409343,
+      "GUID": "07AAB8B4-FE8A-409E-9010-F7127B572C15",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 40
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7740,
+          "Slug": "carlina-rivera",
+          "FullName": "Carlina Rivera",
+          "ValueID": 66,
+          "Value": "Parental ",
+          "Sort": 80
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 66,
+          "Value": "Parental ",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2024-05-30T21:48:45.41Z"
+    },
+    {
+      "ID": 409344,
+      "GUID": "635839DB-16D4-46F7-A730-4EE317B576F4",
+      "Title": "Oversight - Future-Proofing the City’s Public Infrastructure and Spaces.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 74283,
+      "MatterFile": "T2024-1993",
+      "MatterName": "Oversight - Future-Proofing the City’s Public Infrastructure and Spaces.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-05-30T21:48:23.12Z"
+    },
+    {
+      "ID": 409345,
+      "GUID": "7D09E200-06E4-4A68-8136-2C4DB3BA65BE",
+      "Title": "A Local Law in relation to a capital plan and timeline for installing public bathrooms",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 73197,
+      "MatterFile": "Int 0272-2024",
+      "MatterName": "Capital plan and timeline for installing public bathrooms.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-05-30T21:48:27.18Z"
+    },
+    {
+      "ID": 409346,
+      "GUID": "A6FAFBBC-D43D-4AC1-90DE-8FBEA23A55F9",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to expanding the information provided on the open space coordination platform",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 73481,
+      "MatterFile": "Int 0574-2024",
+      "MatterName": "Expanding the information provided on the open space coordination platform.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-05-30T21:48:35.983Z"
+    },
+    {
+      "ID": 409353,
+      "GUID": "9CF2666D-ABFE-4C30-9E89-AAC81811FB8B",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Joseph, Brewer and Restler",
+      "LastModified": "2024-05-30T23:15:52.187Z"
     }
   ],
   "AgendaLastPublished": "2024-05-14T18:12:54.777Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-05-30T16:20:42.567Z"
+  "MinutesLastPublished": "2024-05-30T23:15:57.91Z",
+  "LastModified": "2024-05-30T23:15:57.957Z"
 }
