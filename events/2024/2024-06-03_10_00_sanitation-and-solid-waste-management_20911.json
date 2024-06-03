@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/6/20911_A_Committee_on_Sanitation_and_Solid_Waste_Management_24-06-03_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/6/20911_M_Committee_on_Sanitation_and_Solid_Waste_Management_24-06-03_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_240603-100104.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20911&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,57 +20,242 @@
       "GUID": "1A082DB3-EE33-43D4-A037-F51DE783C73C",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to creating a commercial waste zones working group",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 72835,
       "MatterFile": "Int 0352-2024",
       "MatterName": "Creating a commercial waste zones working group.",
       "MatterType": "Introduction",
-      "LastModified": "2024-05-17T18:16:12.247Z"
+      "LastModified": "2024-06-03T17:42:16.8Z"
     },
     {
       "ID": 408798,
       "GUID": "A5A2A6C9-9242-4D0F-92D8-4B50127BF16D",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing organic waste composting facilities in each borough",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 6,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 72148,
       "MatterFile": "Int 0696-2024",
       "MatterName": "Establishing organic waste composting facilities in each borough.",
       "MatterType": "Introduction",
-      "LastModified": "2024-05-24T20:12:32.757Z"
+      "LastModified": "2024-06-03T17:42:28.517Z"
     },
     {
       "ID": 408799,
       "GUID": "60BBD9BA-F873-4865-8755-4A209635ED45",
       "Title": "Oversight - Commercial Waste Zones.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 74308,
       "MatterFile": "T2024-2013",
       "MatterName": "Oversight - Commercial Waste Zones.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-05-30T14:39:28.437Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-06-03T17:42:06.933Z"
     },
     {
       "ID": 409297,
       "GUID": "DF5744E8-80AA-4FCF-91EF-8D15C4051402",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to mergers, acquisitions and combinations of awardees of agreements to provide commercial waste collection services",
       "AgendaSequence": 4,
-      "MinutesSequence": 4,
+      "MinutesSequence": 8,
       "Version": "*",
       "AgendaNote": "Preconsidered",
+      "ActionID": 15,
+      "ActionName": "Hearing on P-C Item by Comm",
+      "ActionText": "This Introduction was Hearing on P-C Item by Comm",
       "MatterID": 74359,
       "MatterFile": "T2024-2064",
       "MatterName": "Mergers, acquisitions and combinations of awardees of agreements to provide commercial waste collection services.",
       "MatterType": "Introduction",
-      "LastModified": "2024-05-31T19:24:12.91Z"
+      "LastModified": "2024-06-03T17:42:40.267Z"
+    },
+    {
+      "ID": 409402,
+      "GUID": "8A34979D-4DAB-447A-91FC-12099B879853",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7749,
+          "Slug": "kalman-yeger",
+          "FullName": "Kalman Yeger",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 110
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        }
+      ],
+      "LastModified": "2024-06-03T17:47:58.957Z"
+    },
+    {
+      "ID": 409403,
+      "GUID": "4CA59C94-EF0A-445B-BAD5-201974947C6C",
+      "Title": "Oversight - Commercial Waste Zones.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 74308,
+      "MatterFile": "T2024-2013",
+      "MatterName": "Oversight - Commercial Waste Zones.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-06-03T17:42:11.17Z"
+    },
+    {
+      "ID": 409404,
+      "GUID": "2139ABD2-386C-4F9B-964F-2E0C38EB59CA",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to creating a commercial waste zones working group",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 72835,
+      "MatterFile": "Int 0352-2024",
+      "MatterName": "Creating a commercial waste zones working group.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-06-03T17:42:23.25Z"
+    },
+    {
+      "ID": 409405,
+      "GUID": "3653117E-AC36-4D83-B247-85BCF29B15AD",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing organic waste composting facilities in each borough",
+      "AgendaSequence": 0,
+      "MinutesSequence": 7,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 72148,
+      "MatterFile": "Int 0696-2024",
+      "MatterName": "Establishing organic waste composting facilities in each borough.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-06-03T17:42:32.31Z"
+    },
+    {
+      "ID": 409406,
+      "GUID": "7D95EFA8-046D-4A57-B8C0-7A1A94705C75",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to mergers, acquisitions and combinations of awardees of agreements to provide commercial waste collection services",
+      "AgendaSequence": 0,
+      "MinutesSequence": 9,
+      "Version": "*",
+      "ActionID": 5018,
+      "ActionName": "P-C Item Laid Over by Comm",
+      "ActionText": "This Introduction was P-C Item Laid Over by Comm",
+      "MatterID": 74359,
+      "MatterFile": "T2024-2064",
+      "MatterName": "Mergers, acquisitions and combinations of awardees of agreements to provide commercial waste collection services.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-06-03T17:42:46.673Z"
     }
   ],
   "AgendaLastPublished": "2024-05-24T20:12:54.36Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-06-03T14:01:06.463Z"
+  "MinutesLastPublished": "2024-06-03T17:48:06.93Z",
+  "LastModified": "2024-06-03T17:48:07.01Z"
 }
