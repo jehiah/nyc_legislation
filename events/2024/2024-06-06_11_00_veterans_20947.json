@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/6/20947_A_Committee_on_Veterans_24-06-06_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/6/20947_M_Committee_on_Veterans_24-06-06_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_240606-110522.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20947&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,16 +21,99 @@
       "GUID": "BFC21BD5-0E94-4EE8-B63D-80B7E49F2583",
       "Title": "Resolution recognizing June 6 annually as D-Day Remembrance Day in the City of New York in honor of the courage and sacrifice of the Allied soldiers on the Normandy beaches in France.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 72911,
       "MatterFile": "Res 0157-2024",
       "MatterName": "Recognizing June 6 annually as D-Day Remembrance Day.",
       "MatterType": "Resolution",
-      "LastModified": "2024-05-31T15:46:25.457Z"
+      "LastModified": "2024-06-06T15:08:06.887Z"
+    },
+    {
+      "ID": 409676,
+      "GUID": "C037DF1E-E699-44B5-A7A4-D16D7A318281",
+      "Title": "Resolution recognizing June 6 annually as D-Day Remembrance Day in the City of New York in honor of the courage and sacrifice of the Allied soldiers on the Normandy beaches in France.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "This Resolution was Approved by Committee",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 72911,
+      "MatterFile": "Res 0157-2024",
+      "MatterName": "Recognizing June 6 annually as D-Day Remembrance Day.",
+      "MatterType": "Resolution",
+      "LastModified": "2024-06-06T15:38:09.663Z"
+    },
+    {
+      "ID": 409677,
+      "GUID": "D1661E7D-A7F6-41D3-9DE6-5DB3B8123A0F",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        }
+      ],
+      "LastModified": "2024-06-06T15:34:38.05Z"
+    },
+    {
+      "ID": 409678,
+      "GUID": "7F3F9E5A-06BE-45E6-B6B6-D040D9BB5A60",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Menin",
+      "LastModified": "2024-06-06T15:33:56.293Z"
     }
   ],
   "AgendaLastPublished": "2024-05-31T15:46:30.607Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-05-31T15:46:30.653Z"
+  "MinutesLastPublished": "2024-06-06T15:57:14.25Z",
+  "LastModified": "2024-06-06T15:57:14.373Z"
 }
