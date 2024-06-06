@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/6/20959_A_City_Council_24-06-06_Council_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/6/20959_M_City_Council_24-06-06_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_240606-140824.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20959&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -22,7 +24,418 @@
       "AgendaNumber": "1.",
       "Version": "",
       "AgendaNote": "ROLL CALL",
-      "LastModified": "2024-06-06T17:02:06.537Z"
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7739,
+          "Slug": "adrienne-e-adams",
+          "FullName": "Adrienne E. Adams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7264,
+          "Slug": "joseph-c-borelli",
+          "FullName": "Joseph C. Borelli",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 110
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 130
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 150
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 170
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 190
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 200
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 210
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 220
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 230
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 240
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 250
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 260
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 270
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 280
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 290
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 300
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 310
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 320
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 330
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 340
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 350
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 360
+        },
+        {
+          "ID": 7741,
+          "Slug": "keith-powers",
+          "FullName": "Keith Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 370
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 380
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 390
+        },
+        {
+          "ID": 7740,
+          "Slug": "carlina-rivera",
+          "FullName": "Carlina Rivera",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 400
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 410
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 420
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 430
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 440
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 450
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 460
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 470
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 480
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 490
+        },
+        {
+          "ID": 7749,
+          "Slug": "kalman-yeger",
+          "FullName": "Kalman Yeger",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 500
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 510
+        }
+      ],
+      "LastModified": "2024-06-06T22:50:53.657Z"
     },
     {
       "ID": 409423,
@@ -34,358 +447,429 @@
       "Version": "",
       "AgendaNote": "INVOCATION - Delivered by: Rev Jason Andre Ridley, Community Worship Center of Seventh Day Adventist located at 145-94 176 Street, Queens, NY 11434.\r\n\r\nMotion to spread the Invocation in full upon the record by Council Member Brooks-Powers.",
       "MinutesNote": "The Invocation was delivered by Rev. Jason Andre Ridley, Community Worship Center of Seventh Day Adventist located at 145-94 176 Street, Queens, N.Y. 11434.\r\n\r\nCouncil Member Brooks-Powers moved  to spread the Invocation in full upon the record.",
-      "LastModified": "2024-06-06T17:12:58.13Z"
+      "LastModified": "2024-06-06T22:56:00.303Z"
     },
     {
       "ID": 409424,
       "GUID": "6F4F2226-3938-4057-8077-33126751C5D0",
       "Title": "Adoption of Minutes",
       "AgendaSequence": 3,
-      "MinutesSequence": 6,
+      "MinutesSequence": 15,
       "AgendaNumber": "3.",
       "Version": "",
       "AgendaNote": "ADOPTION OF MINUTES - Motion that the Minutes of the Stated Meeting of May 16, 2024 be adopted as printed by Council Member Won.",
       "MinutesNote": "Council Member Won moved that the Minutes of the Stated Meeting of May 16, 2024 be adopted as printed.",
-      "LastModified": "2024-06-06T17:02:06.583Z"
+      "LastModified": "2024-06-06T22:50:53.667Z"
     },
     {
       "ID": 409425,
       "GUID": "CBC3B273-BB3E-4633-BEBA-FFFAB4C0353A",
       "Title": "Messages & Papers from the Mayor",
       "AgendaSequence": 4,
-      "MinutesSequence": 7,
+      "MinutesSequence": 16,
       "AgendaNumber": "4.",
       "Version": "",
       "AgendaNote": "MESSAGES & PAPERS FROM THE MAYOR - None",
       "MinutesNote": "None.",
-      "LastModified": "2024-06-06T17:04:56.64Z"
+      "LastModified": "2024-06-06T22:50:53.667Z"
     },
     {
       "ID": 409426,
       "GUID": "E2CE8C53-E1D6-4D9F-ACE1-8A9B4D34DA55",
       "Title": "Communications from City, County & Borough Offices",
       "AgendaSequence": 5,
-      "MinutesSequence": 8,
+      "MinutesSequence": 17,
       "AgendaNumber": "5.",
       "Version": "",
       "AgendaNote": "COMMUNICATIONS FROM CITY, COUNTY & BOROUGH OFFICES - None",
-      "LastModified": "2024-06-06T17:05:02.737Z"
+      "MinutesNote": "None.",
+      "LastModified": "2024-06-06T22:50:53.67Z"
     },
     {
       "ID": 409427,
       "GUID": "1EA5FCA7-CF6E-445D-A45C-9E2EFB4AAC1E",
       "Title": "Petitions and Communications",
       "AgendaSequence": 6,
-      "MinutesSequence": 9,
+      "MinutesSequence": 18,
       "AgendaNumber": "6.",
       "Version": "",
       "AgendaNote": "PETITIONS & COMMUNICATIONS - None",
       "MinutesNote": "None.",
-      "LastModified": "2024-06-06T17:05:10.34Z"
+      "LastModified": "2024-06-06T22:50:53.67Z"
     },
     {
       "ID": 409428,
       "GUID": "EAC5318E-BB80-48CE-BD79-5452F3959688",
       "Title": "Land Use Call-Ups",
       "AgendaSequence": 7,
-      "MinutesSequence": 10,
+      "MinutesSequence": 19,
       "AgendaNumber": "7.",
       "Version": "",
       "AgendaNote": "PETITIONS & COMMUNICATIONS - None",
       "MinutesNote": "None.",
-      "LastModified": "2024-06-06T17:02:06.597Z"
+      "LastModified": "2024-06-06T22:50:53.67Z"
     },
     {
       "ID": 409429,
       "GUID": "03B80550-6BC1-4F2B-A058-7771900C32A7",
       "Title": "Communication from the Speaker",
       "AgendaSequence": 8,
-      "MinutesSequence": 11,
+      "MinutesSequence": 20,
       "AgendaNumber": "8.",
       "Version": "",
       "AgendaNote": "COMMUNICATION FROM THE SPEAKER",
-      "LastModified": "2024-06-06T17:02:06.597Z"
+      "LastModified": "2024-06-06T22:50:53.67Z"
     },
     {
       "ID": 409430,
       "GUID": "A1970235-7D99-4B92-8175-5AAD56EDC4DC",
       "Title": "Discussion of General Orders",
       "AgendaSequence": 9,
-      "MinutesSequence": 12,
+      "MinutesSequence": 21,
       "AgendaNumber": "9.",
       "Version": "",
       "AgendaNote": "DISCUSSION OF GENERAL ORDERS",
-      "LastModified": "2024-06-06T17:02:06.597Z"
+      "LastModified": "2024-06-06T22:50:53.67Z"
     },
     {
       "ID": 409431,
       "GUID": "02E494D1-96FF-405A-9D78-6FBDE64C67DB",
       "Title": "Reports of Special Committees",
       "AgendaSequence": 10,
-      "MinutesSequence": 13,
+      "MinutesSequence": 22,
       "AgendaNumber": "10.",
       "Version": "",
       "AgendaNote": "REPORTS OF SPECIAL COMMITTEES - None",
       "MinutesNote": "None.",
-      "LastModified": "2024-06-06T17:02:06.6Z"
+      "LastModified": "2024-06-06T22:50:53.673Z"
     },
     {
       "ID": 409432,
       "GUID": "932F9A0B-40A5-434B-A1F2-E716043D39CC",
       "Title": "Reports of Standing Committees",
       "AgendaSequence": 11,
-      "MinutesSequence": 14,
+      "MinutesSequence": 23,
       "AgendaNumber": "11.",
       "Version": "",
       "AgendaNote": "REPORTS OF STANDING COMMITTEES",
-      "LastModified": "2024-06-06T17:02:06.603Z"
+      "LastModified": "2024-06-06T22:50:53.673Z"
     },
     {
       "ID": 409434,
       "GUID": "2E803327-FC2E-4AE2-BC07-09C376966612",
       "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, S.2960/A.5741, to provide for annual adjustment of the maximum income threshold eligibility for the Senior Citizen Rent Increase Exemption (SCRIE), Disability Rent Increase Exemption (DRIE), Senior Citizen Homeowners’ Exemption (SCHE), and Disabled Homeowners’ Exemption (DHE) by any increase in the Consumer Price Index",
       "AgendaSequence": 66,
-      "MinutesSequence": 75,
+      "MinutesSequence": 73,
       "Version": "*",
       "AgendaNote": "Adopted by the Committee on Aging",
+      "MinutesNote": "Pursuant to Rule 8.50 of the Council, the Majority Leader and Acting President Pro Tempore (Council Member Farías) called for a voice vote.  Hearing no objections, the Majority Leader and Acting President Pro Tempore (Council Member Farías) declared the Resolution to be adopted.\r\n\r\nAdopted unanimously by the Council by voice-vote.",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by voice vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 72702,
       "MatterFile": "Res 0232-2024",
       "MatterName": "Provide for annual adjustment of the maximum income threshold eligibility for SCRIE, DRIE, SCHE, and DHE by any increase in the Consumer Price Index. (S.2960/A.5741)",
       "MatterType": "Resolution",
-      "LastModified": "2024-06-06T17:02:06.66Z"
+      "LastModified": "2024-06-06T22:50:53.713Z"
     },
     {
       "ID": 409435,
       "GUID": "6F77B2F3-5C77-48FE-A8E5-15AF3A8CD0BA",
       "Title": "Report of the Committee on Civil Service and Labor",
       "AgendaSequence": 12,
-      "MinutesSequence": 15,
+      "MinutesSequence": 24,
       "Version": "",
       "AgendaNote": "REPORT OF THE COMMITTEE ON CIVIL SERVICE AND LABOR",
-      "LastModified": "2024-06-06T17:02:06.603Z"
+      "LastModified": "2024-06-06T22:50:53.673Z"
     },
     {
       "ID": 409436,
       "GUID": "98D4239D-253E-4587-8C17-C9D61248B646",
       "Title": "A Local Law to amend the New York city charter and the administrative code of the city of New York, in relation to requiring city agencies to offer career counseling to municipal employees to advise them of professional development and promotional opportunities",
       "AgendaSequence": 13,
-      "MinutesSequence": 16,
+      "MinutesSequence": 25,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74058,
       "MatterFile": "Int 0743-2024",
       "MatterName": "Requiring city agencies to offer career counseling to municipal employees to advise them of professional development and promotional opportunities.",
       "MatterType": "Introduction",
-      "LastModified": "2024-06-06T17:02:06.603Z"
+      "LastModified": "2024-06-06T22:51:09.44Z"
     },
     {
       "ID": 409437,
       "GUID": "2D87A9B6-9D14-494F-9A4E-E1EC4088CDCB",
       "Title": "A Local Law to amend the New York city charter and the administrative code of the city of New York, in relation to requiring the department of citywide administrative services to administer workplace culture surveys",
       "AgendaSequence": 14,
-      "MinutesSequence": 17,
+      "MinutesSequence": 26,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74056,
       "MatterFile": "Int 0767-2024",
       "MatterName": "Requiring the department of citywide administrative services to administer workplace culture surveys.",
       "MatterType": "Introduction",
-      "LastModified": "2024-06-06T17:02:06.607Z"
+      "LastModified": "2024-06-06T22:50:53.673Z"
     },
     {
       "ID": 409438,
       "GUID": "3BD7BCD7-34DF-41F6-8A9B-B8E6FBCC6E0F",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the commissioner of citywide administrative services to report on the administration of promotion examinations",
       "AgendaSequence": 15,
-      "MinutesSequence": 18,
+      "MinutesSequence": 27,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74117,
       "MatterFile": "Int 0809-2024",
       "MatterName": "Requiring the commissioner of citywide administrative services to report on the administration of promotion examinations.",
       "MatterType": "Introduction",
-      "LastModified": "2024-06-06T17:02:06.607Z"
+      "LastModified": "2024-06-06T22:50:53.673Z"
     },
     {
       "ID": 409440,
       "GUID": "3388CEDE-0C9A-41AD-98D7-E1A4F2301267",
       "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign S7843/A4888, in relation to conditional release for eligible offenders who complete post-secondary degrees or programs.",
       "AgendaSequence": 69,
-      "MinutesSequence": 78,
+      "MinutesSequence": 76,
       "Version": "*",
       "AgendaNote": "Adopted by the Committee on Criminal Justice",
+      "MinutesNote": "Pursuant to Rule 8.50 of the Council, the Majority Leader and Acting President Pro Tempore (Council Member Farías) called for a voice vote.  Hearing those in favor, the Majority Leader and Acting President Pro Tempore (Council Member Farías) declared the Resolution to be adopted.\r\n\r\nThe following 8 Council Members formally noted their intent to vote negative against this item: \r\nCouncil Members Ariola, Carr, Holden, Paladino, Marmorato, Vernikov, Yeger, and the Minority Leader (Council Member Borelli).\r\n\r\nAdopted by the Council by voice-vote. ",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by voice vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 74100,
       "MatterFile": "Res 0365-2024",
       "MatterName": "Conditional release for eligible offenders who complete post-secondary degrees or programs (S7843/A4888).",
       "MatterType": "Resolution",
-      "LastModified": "2024-06-06T17:02:06.663Z"
+      "LastModified": "2024-06-06T22:50:53.717Z"
     },
     {
       "ID": 409441,
       "GUID": "2836A9AA-B732-4F4F-9B25-A92DBB3EBF82",
       "Title": "Report of the Committee on Finance",
       "AgendaSequence": 16,
-      "MinutesSequence": 19,
+      "MinutesSequence": 28,
       "Version": "",
       "AgendaNote": "REPORT OF THE COMMITTEE ON FINANCE",
-      "LastModified": "2024-06-06T17:02:06.607Z"
+      "LastModified": "2024-06-06T22:50:53.673Z"
     },
     {
       "ID": 409446,
       "GUID": "E87156C0-CF97-491D-8F82-6AD38DAEAFE2",
       "Title": "Report of the Committee on Immigration",
       "AgendaSequence": 30,
-      "MinutesSequence": 37,
+      "MinutesSequence": 39,
       "Version": "",
       "AgendaNote": "REPORT OF THE COMMITTEE ON IMMIGRATION",
-      "LastModified": "2024-06-06T17:02:06.623Z"
+      "LastModified": "2024-06-06T22:50:53.683Z"
     },
     {
       "ID": 409447,
       "GUID": "ED85DF1D-5D73-417F-B07A-BD7FA3E32E28",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to a workforce survey of migrants, including recent arrivals and asylum seekers, and to repeal such amendments upon the expiration thereof",
       "AgendaSequence": 31,
-      "MinutesSequence": 38,
+      "MinutesSequence": 40,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 72155,
       "MatterFile": "Int 0084-2024",
       "MatterName": "Workforce survey of migrants, including recent arrivals and asylum seekers, and to repeal such amendments upon the expiration thereof.",
       "MatterType": "Introduction",
-      "LastModified": "2024-06-06T17:02:06.623Z"
+      "LastModified": "2024-06-06T22:50:53.683Z"
     },
     {
       "ID": 409448,
       "GUID": "56F16641-BC96-45D2-B719-5B4BCE9B5ECA",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to a health survey of migrants, including recent arrivals and asylum seekers, and to repeal such amendments upon the expiration thereof",
       "AgendaSequence": 32,
-      "MinutesSequence": 39,
+      "MinutesSequence": 41,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 72159,
       "MatterFile": "Int 0085-2024",
       "MatterName": "Health survey of migrants, including recent arrivals and asylum seekers, and to repeal such amendments upon the expiration thereof.",
       "MatterType": "Introduction",
-      "LastModified": "2024-06-06T17:02:06.627Z"
+      "LastModified": "2024-06-06T22:50:53.687Z"
     },
     {
       "ID": 409449,
       "GUID": "DEB9297F-3898-46A3-983B-60301611F052",
       "Title": "Resolution calling on the U.S. Citizenship and Immigration Services (USCIS) to eliminate filing fees for humanitarian benefit applications and subsequent employment authorization applications and calling on Congress and the President to move significant funding to USCIS to cover the funding lost by the eliminated filing fees.",
       "AgendaSequence": 68,
-      "MinutesSequence": 77,
+      "MinutesSequence": 75,
       "Version": "B",
       "AgendaNote": "Amended and Adopted by the Committee on Immigration",
+      "MinutesNote": "Pursuant to Rule 8.50 of the Council, the Majority Leader and Acting President Pro Tempore (Council Member Farías) called for a voice vote.  Hearing those in favor, the Majority Leader and Acting President Pro Tempore (Council Member Farías) declared the Resolution to be adopted.\r\n\r\nThe following 7 Council Members formally noted their intent to vote negative against this item: \r\nCouncil Members Ariola, Carr, Holden, Paladino, Marmorato, Vernikov, and the Minority Leaser (Council Member Borelli).\r\n\r\nAdopted by the Council by voice-vote. ",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by voice vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 72223,
       "MatterFile": "Res 0340-2024",
       "MatterName": "USCIS to eliminate filing fees for humanitarian benefit applications and subsequent employment authorization applications and calling on Congress and the President to move significant funding to USCIS to cover the funding lost by the eliminated filing fee",
       "MatterType": "Resolution",
-      "LastModified": "2024-06-06T17:02:06.66Z"
+      "LastModified": "2024-06-06T22:50:53.713Z"
     },
     {
       "ID": 409451,
       "GUID": "6EB9F473-3E42-4C28-B6EF-A59381924795",
       "Title": "Resolution calling on the New York State Legislature to pass, and the New York State Governor to sign, S.315/A.1416, which would authorize New York City to set a five mile per hour speed limit on streets participating in the Open Streets program",
       "AgendaSequence": 64,
-      "MinutesSequence": 73,
+      "MinutesSequence": 71,
       "Version": "B",
       "AgendaNote": "Amended and Adopted by the Committee on Transportation and Infrastructure",
+      "MinutesNote": "Pursuant to Rule 8.50 of the Council, the Majority Leader and Acting President Pro Tempore (Council Member Farías) called for a voice vote.  Hearing those in favor, the Majority Leader and Acting President Pro Tempore (Council Member Farías) declared the Resolution to be adopted.\r\n\r\nThe following 9 Council Members formally noted their intent to vote negative against this item: \r\nCouncil Members Ariola, Carr, Hanks, Holden, Paladino, Marmorato, Vernikov, Yeger, and the Minority Leader (Council Member Borelli).\r\n\r\nAdopted by the Council by voice-vote. ",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by voice vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 73148,
       "MatterFile": "Res 0079-2024",
       "MatterName": "Authorize New York City to set a five mile per hour speed limit on streets participating in the Open Streets program (S.315/A.1416).",
       "MatterType": "Resolution",
-      "LastModified": "2024-06-06T17:02:06.66Z"
+      "LastModified": "2024-06-06T22:50:53.71Z"
     },
     {
       "ID": 409452,
       "GUID": "80135796-746C-48F0-A104-65B154AECC5F",
       "Title": "Report of the Committee on Governmental Operations, State & Federal Legislation",
       "AgendaSequence": 21,
-      "MinutesSequence": 28,
+      "MinutesSequence": 37,
       "Version": "",
       "AgendaNote": "REPORT OF THE COMMITTEE ON GOVERNMENTAL OPERATIONS, STATE & FEDERAL LEGISLATION",
-      "LastModified": "2024-06-06T17:02:06.617Z"
+      "LastModified": "2024-06-06T22:50:53.683Z"
     },
     {
       "ID": 409453,
       "GUID": "88D55E81-861A-4FA2-8078-F4110983CB48",
       "Title": "Resolution recognizing June 6 annually as D-Day Remembrance Day in the City of New York in honor of the courage and sacrifice of the Allied soldiers on the Normandy beaches in France.",
       "AgendaSequence": 65,
-      "MinutesSequence": 74,
+      "MinutesSequence": 72,
       "Version": "*",
       "AgendaNote": "Adopted by the Committee on Veterans",
+      "MinutesNote": "Pursuant to Rule 8.50 of the Council, the Majority Leader and Acting President Pro Tempore (Council Member Farías) called for a voice vote.  Hearing no objections, the Majority Leader and Acting President Pro Tempore (Council Member Farías) declared the Resolution to be adopted.\r\n\r\nAdopted unanimously by the Council by voice-vote.",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by voice vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 72911,
       "MatterFile": "Res 0157-2024",
       "MatterName": "Recognizing June 6 annually as D-Day Remembrance Day.",
       "MatterType": "Resolution",
-      "LastModified": "2024-06-06T17:02:06.66Z"
+      "LastModified": "2024-06-06T22:50:53.71Z"
     },
     {
       "ID": 409454,
       "GUID": "2E6F6888-6E80-4286-8897-49F78876CD2E",
       "Title": "General Orders Calendar",
       "AgendaSequence": 33,
-      "MinutesSequence": 40,
+      "MinutesSequence": 42,
       "AgendaNumber": "12.",
       "Version": "",
       "AgendaNote": "GENERAL ORDERS CALENDAR",
-      "LastModified": "2024-06-06T17:02:06.627Z"
+      "LastModified": "2024-06-06T22:50:53.687Z"
     },
     {
       "ID": 409455,
       "GUID": "895C5F8A-0A4F-4A03-A74E-BA6719C3347C",
       "Title": "Resolution approving with modifications the decision of the City Planning Commission on Application No. N 240010 ZRY, for an amendment of the text of the Zoning Resolution (L.U. No. 55).",
       "AgendaSequence": 34,
-      "MinutesSequence": 42,
+      "MinutesSequence": 44,
       "Version": "*",
       "AgendaNote": "Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 74337,
       "MatterFile": "Res 0463-2024",
       "MatterName": "LU 55 - Zoning, Zoning for Economic Opportunity, Citywide (N 240010 ZRY)",
       "MatterType": "Resolution",
-      "LastModified": "2024-06-06T17:02:06.63Z"
+      "LastModified": "2024-06-06T22:50:53.69Z"
     },
     {
       "ID": 409456,
       "GUID": "70D1A0E8-6E13-4F3B-9F93-ED51DE7546D4",
       "Title": "Resolution approving with modifications the decision of the City Planning Commission on Application No. N 240011 ZRY, for an amendment of the text of the Zoning Resolution (L.U. No. 56).",
       "AgendaSequence": 35,
-      "MinutesSequence": 44,
+      "MinutesSequence": 46,
       "Version": "*",
       "AgendaNote": "Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 74338,
       "MatterFile": "Res 0464-2024",
       "MatterName": "LU 56 - Zoning, Zoning for Economic Opportunity – Manufacturing Districts, Citywide (N 240011 ZRY)",
       "MatterType": "Resolution",
-      "LastModified": "2024-06-06T17:02:06.63Z"
+      "LastModified": "2024-06-06T22:50:53.69Z"
     },
     {
       "ID": 409457,
       "GUID": "67CEFF79-71CB-44A6-A2DE-126D466E66B3",
       "Title": "Coupled on General Orders Calendar",
       "AgendaSequence": 36,
-      "MinutesSequence": 45,
+      "MinutesSequence": 47,
       "Version": "",
       "AgendaNote": "COUPLED ON GENERAL ORDERS CALENDAR",
-      "LastModified": "2024-06-06T17:02:06.63Z"
+      "LastModified": "2024-06-06T22:50:53.69Z"
     },
     {
       "ID": 409460,
       "GUID": "8AE2BBBE-29C8-4A13-BA22-EB8F86ACB514",
       "Title": "Civil Service and Labor",
       "AgendaSequence": 37,
-      "MinutesSequence": 46,
+      "MinutesSequence": 48,
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "CIVIL SERVICE AND LABOR",
-      "LastModified": "2024-06-06T17:02:06.633Z"
+      "LastModified": "2024-06-06T22:50:53.69Z"
     },
     {
       "ID": 409461,
       "GUID": "F9B36283-DD49-46E7-A36D-63C9078D2BF7",
       "Title": "A Local Law to amend the New York city charter and the administrative code of the city of New York, in relation to requiring city agencies to offer career counseling to municipal employees to advise them of professional development and promotional opportunities",
       "AgendaSequence": 38,
-      "MinutesSequence": 47,
+      "MinutesSequence": 49,
       "AgendaNumber": "~coupled",
       "Version": "A",
       "AgendaNote": "A and GO",
@@ -393,14 +877,14 @@
       "MatterFile": "Int 0743-2024",
       "MatterName": "Requiring city agencies to offer career counseling to municipal employees to advise them of professional development and promotional opportunities.",
       "MatterType": "Introduction",
-      "LastModified": "2024-06-06T17:02:06.637Z"
+      "LastModified": "2024-06-06T22:50:53.693Z"
     },
     {
       "ID": 409462,
       "GUID": "1349E786-31C7-4C60-A8BB-A31437714378",
       "Title": "A Local Law to amend the New York city charter and the administrative code of the city of New York, in relation to requiring the department of citywide administrative services to administer workplace culture surveys",
       "AgendaSequence": 39,
-      "MinutesSequence": 48,
+      "MinutesSequence": 50,
       "AgendaNumber": "~coupled",
       "Version": "A",
       "AgendaNote": "A and GO",
@@ -408,14 +892,14 @@
       "MatterFile": "Int 0767-2024",
       "MatterName": "Requiring the department of citywide administrative services to administer workplace culture surveys.",
       "MatterType": "Introduction",
-      "LastModified": "2024-06-06T17:02:06.637Z"
+      "LastModified": "2024-06-06T22:50:53.693Z"
     },
     {
       "ID": 409463,
       "GUID": "9C7584BB-C5C1-463D-84A4-5361828A733B",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the commissioner of citywide administrative services to report on the administration of promotion examinations",
       "AgendaSequence": 40,
-      "MinutesSequence": 49,
+      "MinutesSequence": 51,
       "AgendaNumber": "~coupled",
       "Version": "A",
       "AgendaNote": "A and GO",
@@ -423,36 +907,36 @@
       "MatterFile": "Int 0809-2024",
       "MatterName": "Requiring the commissioner of citywide administrative services to report on the administration of promotion examinations.",
       "MatterType": "Introduction",
-      "LastModified": "2024-06-06T17:02:06.637Z"
+      "LastModified": "2024-06-06T22:50:53.693Z"
     },
     {
       "ID": 409466,
       "GUID": "0F50609A-37FA-4472-8B4D-D16324B07A76",
       "Title": "Finance",
       "AgendaSequence": 41,
-      "MinutesSequence": 50,
+      "MinutesSequence": 52,
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "FINANCE",
-      "LastModified": "2024-06-06T17:02:06.64Z"
+      "LastModified": "2024-06-06T22:50:53.693Z"
     },
     {
       "ID": 409471,
       "GUID": "0CF01259-013E-416B-A834-BC381C0E0D19",
       "Title": "Governmental Operations, State & Federal Legislation",
       "AgendaSequence": 46,
-      "MinutesSequence": 55,
+      "MinutesSequence": 57,
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "GOVERNMENTAL OPERATIONS, STATE & FEDERAL LEGISLATION",
-      "LastModified": "2024-06-06T17:02:06.643Z"
+      "LastModified": "2024-06-06T22:50:53.7Z"
     },
     {
       "ID": 409472,
       "GUID": "5DAAE820-F205-4321-A0F0-7337FC713852",
       "Title": "A Local Law to amend the New York city charter, in relation to requiring council advice and consent for certain commissioners",
       "AgendaSequence": 47,
-      "MinutesSequence": 56,
+      "MinutesSequence": 58,
       "AgendaNumber": "~coupled",
       "Version": "A",
       "AgendaNote": "A and GO",
@@ -460,25 +944,25 @@
       "MatterFile": "Int 0908-2024",
       "MatterName": "Requiring council advice and consent for certain commissioners.",
       "MatterType": "Introduction",
-      "LastModified": "2024-06-06T17:02:06.643Z"
+      "LastModified": "2024-06-06T22:50:53.7Z"
     },
     {
       "ID": 409473,
       "GUID": "5996E89D-2987-43F1-9590-02ECB680F05D",
       "Title": "Immigration",
       "AgendaSequence": 55,
-      "MinutesSequence": 64,
+      "MinutesSequence": 59,
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "IMMIGRATION",
-      "LastModified": "2024-06-06T17:02:06.65Z"
+      "LastModified": "2024-06-06T22:50:53.7Z"
     },
     {
       "ID": 409474,
       "GUID": "3AD7DC5A-9AD5-4AF6-9BA4-69B79D28D2BB",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to a workforce survey of migrants, including recent arrivals and asylum seekers, and to repeal such amendments upon the expiration thereof",
       "AgendaSequence": 56,
-      "MinutesSequence": 65,
+      "MinutesSequence": 60,
       "AgendaNumber": "~coupled",
       "Version": "A",
       "AgendaNote": "A and GO",
@@ -486,14 +970,14 @@
       "MatterFile": "Int 0084-2024",
       "MatterName": "Workforce survey of migrants, including recent arrivals and asylum seekers, and to repeal such amendments upon the expiration thereof.",
       "MatterType": "Introduction",
-      "LastModified": "2024-06-06T17:02:06.65Z"
+      "LastModified": "2024-06-06T22:50:53.7Z"
     },
     {
       "ID": 409475,
       "GUID": "896CDC29-06F9-4DCE-87E8-5CB5452E5138",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to a health survey of migrants, including recent arrivals and asylum seekers, and to repeal such amendments upon the expiration thereof",
       "AgendaSequence": 57,
-      "MinutesSequence": 66,
+      "MinutesSequence": 61,
       "AgendaNumber": "~coupled",
       "Version": "A",
       "AgendaNote": "A and GO",
@@ -501,25 +985,25 @@
       "MatterFile": "Int 0085-2024",
       "MatterName": "Health survey of migrants, including recent arrivals and asylum seekers, and to repeal such amendments upon the expiration thereof.",
       "MatterType": "Introduction",
-      "LastModified": "2024-06-06T17:02:06.653Z"
+      "LastModified": "2024-06-06T22:50:53.703Z"
     },
     {
       "ID": 409481,
       "GUID": "5A02370B-8FEC-427F-83FC-F2E1105860ED",
       "Title": "General Orders Calendar",
       "AgendaSequence": 58,
-      "MinutesSequence": 67,
+      "MinutesSequence": 62,
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "GENERAL ORDERS CALENDAR",
-      "LastModified": "2024-06-06T17:02:06.653Z"
+      "LastModified": "2024-06-06T22:50:53.703Z"
     },
     {
       "ID": 409482,
       "GUID": "3E8E6F6B-E030-4B8F-8E58-B32A3E3DB911",
       "Title": "Resolution approving with modifications the decision of the City Planning Commission on Application No. N 240010 ZRY, for an amendment of the text of the Zoning Resolution (L.U. No. 55).",
       "AgendaSequence": 59,
-      "MinutesSequence": 68,
+      "MinutesSequence": 63,
       "AgendaNumber": "~coupled",
       "Version": "*",
       "AgendaNote": "GO",
@@ -527,14 +1011,14 @@
       "MatterFile": "Res 0463-2024",
       "MatterName": "LU 55 - Zoning, Zoning for Economic Opportunity, Citywide (N 240010 ZRY)",
       "MatterType": "Resolution",
-      "LastModified": "2024-06-06T17:02:06.653Z"
+      "LastModified": "2024-06-06T22:50:53.703Z"
     },
     {
       "ID": 409483,
       "GUID": "13666754-32D9-4820-9788-4FAF7AE95809",
       "Title": "Resolution approving with modifications the decision of the City Planning Commission on Application No. N 240011 ZRY, for an amendment of the text of the Zoning Resolution (L.U. No. 56).",
       "AgendaSequence": 60,
-      "MinutesSequence": 69,
+      "MinutesSequence": 64,
       "AgendaNumber": "~coupled",
       "Version": "*",
       "AgendaNote": "GO",
@@ -542,79 +1026,79 @@
       "MatterFile": "Res 0464-2024",
       "MatterName": "LU 56 - Zoning, Zoning for Economic Opportunity – Manufacturing Districts, Citywide (N 240011 ZRY)",
       "MatterType": "Resolution",
-      "LastModified": "2024-06-06T17:02:06.653Z"
+      "LastModified": "2024-06-06T22:50:53.707Z"
     },
     {
       "ID": 409484,
       "GUID": "C4911219-74A8-47B1-B505-CD43A4BAA7FB",
       "Title": "Introduction & Reading of Bills\r\nSee Attached",
       "AgendaSequence": 61,
-      "MinutesSequence": 70,
+      "MinutesSequence": 68,
       "AgendaNumber": "13.",
       "Version": "",
       "AgendaNote": "INTRODUCTION & READING OF BILLS (SEE BELOW)",
-      "LastModified": "2024-06-06T17:02:06.657Z"
+      "LastModified": "2024-06-06T22:50:53.71Z"
     },
     {
       "ID": 409485,
       "GUID": "A29FEAA2-EAFE-4D80-8D1A-B994381C3E10",
       "Title": "Discussion of Resolutions",
       "AgendaSequence": 62,
-      "MinutesSequence": 71,
+      "MinutesSequence": 69,
       "AgendaNumber": "14.",
       "Version": "",
       "AgendaNote": "DISCUSSION OF RESOLUTIONS",
-      "LastModified": "2024-06-06T17:02:06.657Z"
+      "LastModified": "2024-06-06T22:50:53.71Z"
     },
     {
       "ID": 409486,
       "GUID": "260F43B7-F1C5-4405-B8E5-DC3F96D43D32",
       "Title": "Resolutions",
       "AgendaSequence": 63,
-      "MinutesSequence": 72,
+      "MinutesSequence": 70,
       "AgendaNumber": "15.",
       "Version": "",
       "AgendaNote": "RESOLUTIONS – None",
-      "LastModified": "2024-06-06T17:02:06.657Z"
+      "LastModified": "2024-06-06T22:50:53.71Z"
     },
     {
       "ID": 409487,
       "GUID": "9FB5BD80-E05C-4425-B39E-8E03CDD2C9CB",
       "Title": "General Discussion",
       "AgendaSequence": 70,
-      "MinutesSequence": 79,
+      "MinutesSequence": 77,
       "AgendaNumber": "16.",
       "Version": "",
       "AgendaNote": "GENERAL DISCUSSION",
-      "LastModified": "2024-06-06T17:02:06.663Z"
+      "LastModified": "2024-06-06T22:50:53.717Z"
     },
     {
       "ID": 409488,
       "GUID": "DD3922D4-F2C3-4F4A-8C26-447C66627F4F",
       "Title": "Extension of Remarks",
       "AgendaSequence": 71,
-      "MinutesSequence": 80,
+      "MinutesSequence": 78,
       "AgendaNumber": "17.",
       "Version": "",
       "AgendaNote": "EXTENSION OF REMARKS",
-      "LastModified": "2024-06-06T17:03:17.85Z"
+      "LastModified": "2024-06-06T22:50:53.717Z"
     },
     {
       "ID": 409489,
       "GUID": "D8A58D9F-91A2-4E5C-A773-12B63D5D6EF5",
       "Title": "INTRODUCTION AND READING OF BILLS",
       "AgendaSequence": 72,
-      "MinutesSequence": 84,
+      "MinutesSequence": 79,
       "Version": "",
       "AgendaNote": "INTRODUCTION AND READING OF BILLS",
-      "LastModified": "2024-06-06T17:02:06.663Z"
+      "LastModified": "2024-06-06T22:50:53.717Z"
     },
     {
       "ID": 409490,
       "GUID": "529E58D6-0238-4F9E-BC9C-10F26CFCF218",
       "Title": "Resolution designating the first Sunday in June annually as Flake Legacy Day in the City of New York to recognize the spiritual, educational, civic, and economic contributions of the Reverend Drs. Floyd and Elaine Flake in service to The Greater Allen A.M.E. Cathedral of New York and to their community in Queens.",
       "AgendaSequence": 73,
-      "MinutesSequence": 85,
+      "MinutesSequence": 80,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Cultural Affairs, Libraries and International Intergroup Relations",
@@ -625,14 +1109,14 @@
       "MatterFile": "Res 0447-2024",
       "MatterName": "Designating the first Sunday in June annually as Flake Legacy Day in the City of New York.",
       "MatterType": "Resolution",
-      "LastModified": "2024-06-06T17:02:06.667Z"
+      "LastModified": "2024-06-06T22:50:53.72Z"
     },
     {
       "ID": 409491,
       "GUID": "20949A0B-6F79-428B-B9AD-3DCDF954CAEC",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to annual reporting on the use of shore power at cruise terminals",
       "AgendaSequence": 75,
-      "MinutesSequence": 87,
+      "MinutesSequence": 82,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Economic Development",
@@ -643,14 +1127,14 @@
       "MatterFile": "Int 0937-2024",
       "MatterName": "Annual reporting on the use of shore power at cruise terminals.",
       "MatterType": "Introduction",
-      "LastModified": "2024-06-06T17:02:06.667Z"
+      "LastModified": "2024-06-06T22:50:53.72Z"
     },
     {
       "ID": 409492,
       "GUID": "3561A176-5D8E-4463-AA0E-953F3A0D1403",
       "Title": "A Local Law in relation to a study regarding the feasibility of providing parents with an annual $10,000 tuition reimbursement payment per student to cover the cost of nonpublic schooling and the repeal of this local law upon the expiration thereof",
       "AgendaSequence": 76,
-      "MinutesSequence": 88,
+      "MinutesSequence": 83,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Education",
@@ -661,14 +1145,14 @@
       "MatterFile": "Int 0938-2024",
       "MatterName": "Study regarding the feasibility of providing parents with an annual $10,000 tuition reimbursement payment per student to cover the cost of nonpublic schooling and the repeal of this local law upon the expiration thereof.",
       "MatterType": "Introduction",
-      "LastModified": "2024-06-06T17:02:06.667Z"
+      "LastModified": "2024-06-06T22:50:53.72Z"
     },
     {
       "ID": 409493,
       "GUID": "CC305C96-CB88-4D6B-B9A7-8F3A4605441F",
       "Title": "Resolution declaring butterfly milkweed as the official wildflower of New York City.",
       "AgendaSequence": 77,
-      "MinutesSequence": 89,
+      "MinutesSequence": 84,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Cultural Affairs, Libraries and International Intergroup Relations",
@@ -679,14 +1163,14 @@
       "MatterFile": "Res 0448-2024",
       "MatterName": "Declaring butterfly milkweed as the official wildflower of New York City.",
       "MatterType": "Resolution",
-      "LastModified": "2024-06-06T17:02:06.67Z"
+      "LastModified": "2024-06-06T22:50:53.72Z"
     },
     {
       "ID": 409499,
       "GUID": "03CAC42A-6126-4351-BE2A-D126DFEC06CF",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to allowing commuter vans to accept hails from prospective passengers in the street",
       "AgendaSequence": 78,
-      "MinutesSequence": 90,
+      "MinutesSequence": 85,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Transportation and Infrastructure",
@@ -697,14 +1181,14 @@
       "MatterFile": "Int 0939-2024",
       "MatterName": "Allowing commuter vans to accept hails from prospective passengers in the street",
       "MatterType": "Introduction",
-      "LastModified": "2024-06-06T17:02:06.67Z"
+      "LastModified": "2024-06-06T22:50:53.723Z"
     },
     {
       "ID": 409500,
       "GUID": "00C8ACF1-3269-4622-996E-199B91B77BE1",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to a program for the waiver of fees for certain vacant storefront areas.",
       "AgendaSequence": 79,
-      "MinutesSequence": 91,
+      "MinutesSequence": 86,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Housing and Buildings",
@@ -715,14 +1199,14 @@
       "MatterFile": "Int 0940-2024",
       "MatterName": "Program for the waiver of fees for certain vacant storefront areas.",
       "MatterType": "Introduction",
-      "LastModified": "2024-06-06T17:02:06.67Z"
+      "LastModified": "2024-06-06T22:50:53.723Z"
     },
     {
       "ID": 409501,
       "GUID": "17017443-EE2A-4FC0-ABF1-57713DAE513D",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to regulating the idling of engines and the use of citizen’s complaints to enforce laws enforced by the department of environmental protection",
       "AgendaSequence": 80,
-      "MinutesSequence": 92,
+      "MinutesSequence": 87,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Environmental Protection, Resiliency and Waterfronts",
@@ -733,14 +1217,14 @@
       "MatterFile": "Int 0941-2024",
       "MatterName": "Regulating the idling of engines and the use of citizen’s complaints to enforce laws enforced by the department of environmental protection",
       "MatterType": "Introduction",
-      "LastModified": "2024-06-06T17:02:06.67Z"
+      "LastModified": "2024-06-06T22:50:53.723Z"
     },
     {
       "ID": 409502,
       "GUID": "295609A4-0D49-4401-BB89-45F4168E2F2E",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the replacement of lead water service lines",
       "AgendaSequence": 81,
-      "MinutesSequence": 93,
+      "MinutesSequence": 88,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Environmental Protection, Resiliency and Waterfronts",
@@ -751,14 +1235,14 @@
       "MatterFile": "Int 0942-2024",
       "MatterName": "Replacement of lead water service lines.",
       "MatterType": "Introduction",
-      "LastModified": "2024-06-06T17:02:06.67Z"
+      "LastModified": "2024-06-06T22:50:53.723Z"
     },
     {
       "ID": 409503,
       "GUID": "8C37FD90-A0D1-4BE8-89B3-CB905D6CB65F",
       "Title": "A Local Law to amend the New York city charter, in relation to temporary absence procedures for citywide public officials",
       "AgendaSequence": 82,
-      "MinutesSequence": 94,
+      "MinutesSequence": 89,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Governmental Operations, State & Federal Legislation",
@@ -769,14 +1253,14 @@
       "MatterFile": "Int 0943-2024",
       "MatterName": "Temporary absence procedures for citywide public officials.",
       "MatterType": "Introduction",
-      "LastModified": "2024-06-06T17:02:06.673Z"
+      "LastModified": "2024-06-06T22:50:53.727Z"
     },
     {
       "ID": 409504,
       "GUID": "9D0E7CC6-AC12-450C-953B-29BC79CDC671",
       "Title": "A Local Law to amend the administrative code of the City of New York, in relation to carrying out testing for and reporting on the presence of controlled substances with significant potential for addiction or other serious health consequences in wastewater",
       "AgendaSequence": 83,
-      "MinutesSequence": 95,
+      "MinutesSequence": 90,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Environmental Protection, Resiliency and Waterfronts",
@@ -787,14 +1271,14 @@
       "MatterFile": "Int 0944-2024",
       "MatterName": "Carrying out testing for and reporting on the presence of controlled substances with significant potential for addiction or other serious health consequences in wastewater.",
       "MatterType": "Introduction",
-      "LastModified": "2024-06-06T17:02:06.673Z"
+      "LastModified": "2024-06-06T22:50:53.727Z"
     },
     {
       "ID": 409505,
       "GUID": "4BEE1C6C-1328-4C67-A8D3-AE0AA6BB3BCB",
       "Title": "A Local Law to repeal sections 9-131, 9-205, 10-178, and 14-154 of the administrative code of the city of New York, relating to persons not to be detained and immigration enforcement",
       "AgendaSequence": 84,
-      "MinutesSequence": 96,
+      "MinutesSequence": 91,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Public Safety",
@@ -805,14 +1289,14 @@
       "MatterFile": "Int 0945-2024",
       "MatterName": "Repeal sections 9-131, 9-205, 10-178, and 14-154 of the administrative code of the city of New York, relating to persons not to be detained and immigration enforcement.",
       "MatterType": "Introduction",
-      "LastModified": "2024-06-06T17:02:06.673Z"
+      "LastModified": "2024-06-06T22:50:53.727Z"
     },
     {
       "ID": 409506,
       "GUID": "3AD80BC3-585F-4354-B1C3-718D83DEB5C7",
       "Title": "Resolution calling upon the New York State Legislature to introduce and pass, and the Governor to sign, legislation increasing penalties on drivers who improperly register vehicles in another state.",
       "AgendaSequence": 87,
-      "MinutesSequence": 99,
+      "MinutesSequence": 94,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Transportation and Infrastructure",
@@ -823,14 +1307,14 @@
       "MatterFile": "Res 0451-2024",
       "MatterName": "Increasing penalties on drivers who improperly register vehicles in another state.",
       "MatterType": "Resolution",
-      "LastModified": "2024-06-06T17:02:06.68Z"
+      "LastModified": "2024-06-06T22:50:53.73Z"
     },
     {
       "ID": 409507,
       "GUID": "AC355922-6433-40C2-83EF-0678905EF539",
       "Title": "Resolution calling on the State legislature to increase the cap on commercial overnight fines for cities.",
       "AgendaSequence": 85,
-      "MinutesSequence": 97,
+      "MinutesSequence": 92,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Transportation and Infrastructure",
@@ -841,14 +1325,14 @@
       "MatterFile": "Res 0449-2024",
       "MatterName": "Increase the cap on commercial overnight fines for cities.",
       "MatterType": "Resolution",
-      "LastModified": "2024-06-06T17:02:06.677Z"
+      "LastModified": "2024-06-06T22:50:53.73Z"
     },
     {
       "ID": 409508,
       "GUID": "CBD0D403-B185-4D83-9ECF-0DF058F9FBA9",
       "Title": "Resolution calling on the Metropolitan Transportation Authority to exempt veterans from tolls under the Central Business District Tolling Program.",
       "AgendaSequence": 86,
-      "MinutesSequence": 98,
+      "MinutesSequence": 93,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Veterans",
@@ -859,14 +1343,14 @@
       "MatterFile": "Res 0450-2024",
       "MatterName": "MTA to exempt veterans from tolls under the Central Business District Tolling Program",
       "MatterType": "Resolution",
-      "LastModified": "2024-06-06T17:02:06.677Z"
+      "LastModified": "2024-06-06T22:50:53.73Z"
     },
     {
       "ID": 409509,
       "GUID": "6C1E6F76-737B-44D4-B422-A532C31DB6E1",
       "Title": "Resolution calling on the United States Congress to pass, and the President to sign, legislation to lower the age of eligibility for Older Americans Act-supported social services and programs from 60 to 45 years for individuals living with HIV.",
       "AgendaSequence": 88,
-      "MinutesSequence": 100,
+      "MinutesSequence": 95,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Aging",
@@ -877,14 +1361,14 @@
       "MatterFile": "Res 0452-2024",
       "MatterName": "Lower the age of eligibility for Older Americans Act-supported social services and programs from 60 to 45 years for individuals living with HIV.",
       "MatterType": "Resolution",
-      "LastModified": "2024-06-06T17:02:06.68Z"
+      "LastModified": "2024-06-06T22:50:53.73Z"
     },
     {
       "ID": 409510,
       "GUID": "62E89D57-5D47-460D-907F-F667B92AC7FF",
       "Title": "A Local Law to amend the New York city charter, in relation to a job bank for individuals with federal employment authorization",
       "AgendaSequence": 89,
-      "MinutesSequence": 101,
+      "MinutesSequence": 96,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Withdrawn",
@@ -895,14 +1379,14 @@
       "MatterFile": "Int 0946-2024",
       "MatterName": "Job bank for individuals with federal employment authorization.",
       "MatterType": "Introduction",
-      "LastModified": "2024-06-06T17:02:06.68Z"
+      "LastModified": "2024-06-06T22:50:53.73Z"
     },
     {
       "ID": 409511,
       "GUID": "701FD40E-D6CA-493C-B7D1-6D209A0CAE83",
       "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, S.310-A/A.4819-A, to establish requirements for licensure and practice of Certified Professional Midwifery.",
       "AgendaSequence": 90,
-      "MinutesSequence": 102,
+      "MinutesSequence": 97,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Health",
@@ -913,14 +1397,14 @@
       "MatterFile": "Res 0453-2024",
       "MatterName": "Establish requirements for licensure and practice of Certified Professional Midwifery (S.310-A/A.4819-A).",
       "MatterType": "Resolution",
-      "LastModified": "2024-06-06T17:02:06.68Z"
+      "LastModified": "2024-06-06T22:50:53.733Z"
     },
     {
       "ID": 409512,
       "GUID": "AE3E2E8E-4299-466B-BDD0-43F1768835C2",
       "Title": "Resolution approving the appointment of Helen Skipper as a member of the New York City Board of Corrections.",
       "AgendaSequence": 91,
-      "MinutesSequence": 103,
+      "MinutesSequence": 98,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Rules, Privileges and Elections",
@@ -931,14 +1415,14 @@
       "MatterFile": "Res 0454-2024",
       "MatterName": "Helen Skipper, New York City Board of Corrections.",
       "MatterType": "Resolution",
-      "LastModified": "2024-06-06T17:02:06.683Z"
+      "LastModified": "2024-06-06T22:50:53.733Z"
     },
     {
       "ID": 409513,
       "GUID": "AD10FD5A-8771-4367-8F0A-42DA270DA14C",
       "Title": "Resolution designating Tricia Taitt, a resident Queens, for appointment by the Mayor as a director of the New York City Health and Hospitals Corporation.",
       "AgendaSequence": 92,
-      "MinutesSequence": 104,
+      "MinutesSequence": 99,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Rules, Privileges and Elections",
@@ -949,14 +1433,14 @@
       "MatterFile": "Res 0455-2024",
       "MatterName": "Tricia Taitt, New York City Health and Hospitals Corporation.",
       "MatterType": "Resolution",
-      "LastModified": "2024-06-06T17:02:06.683Z"
+      "LastModified": "2024-06-06T22:50:53.733Z"
     },
     {
       "ID": 409514,
       "GUID": "364E4B58-A0F5-4778-BB63-5726EB268E2B",
       "Title": "Resolution designating Dr. Vincent Calamia, a resident of Staten Island, for appointment by the Mayor as a director of the New York City Health and Hospitals Corporation",
       "AgendaSequence": 93,
-      "MinutesSequence": 105,
+      "MinutesSequence": 100,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Rules, Privileges and Elections",
@@ -967,14 +1451,14 @@
       "MatterFile": "Res 0456-2024",
       "MatterName": "Dr. Vincent Calamia, New York City Health and Hospitals Corporation",
       "MatterType": "Resolution",
-      "LastModified": "2024-06-06T17:02:06.683Z"
+      "LastModified": "2024-06-06T22:50:53.733Z"
     },
     {
       "ID": 409515,
       "GUID": "C0E616A6-5C4D-4803-9242-0E5B6F88A2EC",
       "Title": "Resolution approving the re-appointment by the Council of Michael M. McSweeney as City Clerk and Clerk of the Council.",
       "AgendaSequence": 94,
-      "MinutesSequence": 106,
+      "MinutesSequence": 101,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Rules, Privileges and Elections",
@@ -985,14 +1469,14 @@
       "MatterFile": "Res 0457-2024",
       "MatterName": "Michael M. McSweeney as City Clerk and Clerk of the Council.",
       "MatterType": "Resolution",
-      "LastModified": "2024-06-06T17:02:06.683Z"
+      "LastModified": "2024-06-06T22:50:53.737Z"
     },
     {
       "ID": 409516,
       "GUID": "C0EA6DCF-60B2-4058-9330-95B9CCB90D51",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the verification of intermediated contributions to candidates for election and contributions requiring contribution cards",
       "AgendaSequence": 100,
-      "MinutesSequence": 112,
+      "MinutesSequence": 107,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Governmental Operations, State & Federal Legislation",
@@ -1003,14 +1487,14 @@
       "MatterFile": "Int 0952-2024",
       "MatterName": "Verification of intermediated contributions to candidates for election and contributions requiring contribution cards.",
       "MatterType": "Introduction",
-      "LastModified": "2024-06-06T17:02:06.693Z"
+      "LastModified": "2024-06-06T22:50:53.74Z"
     },
     {
       "ID": 409517,
       "GUID": "4F3A5077-2C22-4BA4-9FBB-D3579D6F3315",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to limiting bundling of campaign contributions by persons who have business dealings with the city",
       "AgendaSequence": 101,
-      "MinutesSequence": 113,
+      "MinutesSequence": 108,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Governmental Operations, State & Federal Legislation",
@@ -1021,14 +1505,14 @@
       "MatterFile": "Int 0953-2024",
       "MatterName": "Limiting bundling of campaign contributions by persons who have business dealings with the city",
       "MatterType": "Introduction",
-      "LastModified": "2024-06-06T17:02:06.693Z"
+      "LastModified": "2024-06-06T22:50:53.74Z"
     },
     {
       "ID": 409518,
       "GUID": "7F6A5CA6-281B-43EA-8F7C-80773BA058B8",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to acknowledgment of campaign contributions made in connection with covered elections",
       "AgendaSequence": 102,
-      "MinutesSequence": 114,
+      "MinutesSequence": 109,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Governmental Operations, State & Federal Legislation",
@@ -1039,14 +1523,14 @@
       "MatterFile": "Int 0954-2024",
       "MatterName": "Acknowledgment of campaign contributions made in connection with covered elections",
       "MatterType": "Introduction",
-      "LastModified": "2024-06-06T17:02:06.697Z"
+      "LastModified": "2024-06-06T22:50:53.743Z"
     },
     {
       "ID": 409519,
       "GUID": "5CB5FC9A-0957-49D4-8364-FFE690C84948",
       "Title": "A Local Law to amend the New York city charter, in relation to comptroller audits of city agencies",
       "AgendaSequence": 99,
-      "MinutesSequence": 111,
+      "MinutesSequence": 106,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Governmental Operations, State & Federal Legislation",
@@ -1057,14 +1541,14 @@
       "MatterFile": "Int 0951-2024",
       "MatterName": "Comptroller audits of city agencies.",
       "MatterType": "Introduction",
-      "LastModified": "2024-06-06T17:02:06.69Z"
+      "LastModified": "2024-06-06T22:50:53.74Z"
     },
     {
       "ID": 409520,
       "GUID": "27E88838-E9AF-45F7-A4B4-33C286C5160D",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring annual reports on afterschool programs",
       "AgendaSequence": 110,
-      "MinutesSequence": 122,
+      "MinutesSequence": 117,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Education",
@@ -1075,14 +1559,14 @@
       "MatterFile": "Int 0955-2024",
       "MatterName": "Requiring annual reports on afterschool programs",
       "MatterType": "Introduction",
-      "LastModified": "2024-06-06T17:02:06.703Z"
+      "LastModified": "2024-06-06T22:50:53.75Z"
     },
     {
       "ID": 409521,
       "GUID": "3A9472A8-D85A-41BC-8659-CFA3BF0FBADF",
       "Title": "A Local Law to amend the New York city building code, in relation to the display of artwork on temporary protective structures on construction sites",
       "AgendaSequence": 111,
-      "MinutesSequence": 123,
+      "MinutesSequence": 118,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Housing and Buildings",
@@ -1093,14 +1577,14 @@
       "MatterFile": "Int 0956-2024",
       "MatterName": "Display of artwork on temporary protective structures on construction sites.",
       "MatterType": "Introduction",
-      "LastModified": "2024-06-06T17:02:06.703Z"
+      "LastModified": "2024-06-06T22:50:53.75Z"
     },
     {
       "ID": 409522,
       "GUID": "D0C98327-2BDC-41EC-AD2F-0A640EBF784A",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to discounted quarterly municipal parking field permits for seniors",
       "AgendaSequence": 112,
-      "MinutesSequence": 124,
+      "MinutesSequence": 119,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Transportation and Infrastructure",
@@ -1111,14 +1595,14 @@
       "MatterFile": "Int 0957-2024",
       "MatterName": "Discounted quarterly municipal parking field permits for seniors",
       "MatterType": "Introduction",
-      "LastModified": "2024-06-06T17:02:06.707Z"
+      "LastModified": "2024-06-06T22:50:53.75Z"
     },
     {
       "ID": 409523,
       "GUID": "263FD753-C4CF-45D0-82CB-94CDCCE6BF7B",
       "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, S.8995/A.9897, in relation to clarifying the definition of \"tenant\" to exclude squatters and making squatting a criminal trespass in the third degree.",
       "AgendaSequence": 113,
-      "MinutesSequence": 125,
+      "MinutesSequence": 120,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Housing and Buildings",
@@ -1129,14 +1613,14 @@
       "MatterFile": "Res 0458-2024",
       "MatterName": "Clarifying the definition of \"tenant\" to exclude squatters and making squatting a criminal trespass in the third degree (S.8995/A.9897).",
       "MatterType": "Resolution",
-      "LastModified": "2024-06-06T17:02:06.707Z"
+      "LastModified": "2024-06-06T22:50:53.753Z"
     },
     {
       "ID": 409524,
       "GUID": "ABC8B124-67CE-49DD-9EC1-32F216C6D29D",
       "Title": "A Local Law to amend the New York city charter, in relation to requiring quarterly reporting on enforcement interactions with street vendors",
       "AgendaSequence": 95,
-      "MinutesSequence": 107,
+      "MinutesSequence": 102,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Consumer and Worker Protection",
@@ -1147,14 +1631,14 @@
       "MatterFile": "Int 0947-2024",
       "MatterName": "Requiring quarterly reporting on enforcement interactions with street vendors.",
       "MatterType": "Introduction",
-      "LastModified": "2024-06-06T17:02:06.687Z"
+      "LastModified": "2024-06-06T22:50:53.737Z"
     },
     {
       "ID": 409525,
       "GUID": "783469F6-118D-412F-A39B-708CDA0A8DEB",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to increasing the number of violations required to revoke authorization to operate a commuter van service",
       "AgendaSequence": 98,
-      "MinutesSequence": 110,
+      "MinutesSequence": 105,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Transportation and Infrastructure",
@@ -1165,14 +1649,14 @@
       "MatterFile": "Int 0950-2024",
       "MatterName": "Increasing the number of violations required to revoke authorization to operate a commuter van service.",
       "MatterType": "Introduction",
-      "LastModified": "2024-06-06T17:02:06.69Z"
+      "LastModified": "2024-06-06T22:50:53.74Z"
     },
     {
       "ID": 409526,
       "GUID": "8376D6E8-41DC-4C98-BB41-4717B838EF93",
       "Title": "A Local Law to amend the New York city building code and administrative code of the city of New York, in relation to boarders, lodgers or roomers in a private dwelling",
       "AgendaSequence": 96,
-      "MinutesSequence": 108,
+      "MinutesSequence": 103,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Housing and Buildings",
@@ -1183,14 +1667,14 @@
       "MatterFile": "Int 0948-2024",
       "MatterName": "Boarders, lodgers or roomers in a private dwelling.",
       "MatterType": "Introduction",
-      "LastModified": "2024-06-06T17:02:06.687Z"
+      "LastModified": "2024-06-06T22:50:53.737Z"
     },
     {
       "ID": 409527,
       "GUID": "56157C66-4921-4280-8B39-710C718907A3",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the provision of sufficient receptacles for the storage of solid waste",
       "AgendaSequence": 97,
-      "MinutesSequence": 109,
+      "MinutesSequence": 104,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Sanitation and Solid Waste Management",
@@ -1201,14 +1685,14 @@
       "MatterFile": "Int 0949-2024",
       "MatterName": "Provision of sufficient receptacles for the storage of solid waste",
       "MatterType": "Introduction",
-      "LastModified": "2024-06-06T17:02:06.687Z"
+      "LastModified": "2024-06-06T22:50:53.737Z"
     },
     {
       "ID": 409528,
       "GUID": "EFD978DF-75C4-4EC4-BD63-FF9A3CE60C6D",
       "Title": "Application number C 230351 ZMK (2118 Avenue U) submitted by 2118 Avenue U, LLC, pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section No. 29a, eliminating from within an existing R4 District a C1-3 District, changing from an R4 District to an R6A District, and establishing within the proposed R6A District a C2-4 District, Borough of Brooklyn, Community District 15, Council District 48.",
       "AgendaSequence": 118,
-      "MinutesSequence": 130,
+      "MinutesSequence": 125,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Zoning and Franchises",
@@ -1220,14 +1704,14 @@
       "MatterName": "Zoning, 2118 Avenue U, Brooklyn (C 230351 ZMK)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2024-06-06T17:02:06.71Z"
+      "LastModified": "2024-06-06T22:50:53.757Z"
     },
     {
       "ID": 409529,
       "GUID": "D597072C-E69A-4B5C-87DA-571FE1DACB0A",
       "Title": "Application number N 230352 ZRK (2118 Avenue U) submitted by 2118 Avenue U, LLC, pursuant to Section 201 of the New York City Charter, for an amendment of the Zoning Resolution of the City of New York, modifying APPENDIX F for the purpose of establishing a Mandatory Inclusionary Housing area, Borough of Brooklyn, Community District 15, Council District 48.",
       "AgendaSequence": 119,
-      "MinutesSequence": 132,
+      "MinutesSequence": 127,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Zoning and Franchises",
@@ -1239,14 +1723,14 @@
       "MatterName": "Zoning, 2118 Avenue U, Brooklyn (N 230352 ZRK)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2024-06-06T17:02:06.713Z"
+      "LastModified": "2024-06-06T22:50:53.76Z"
     },
     {
       "ID": 409530,
       "GUID": "9811A775-F63B-4516-B9AB-E6C81091B847",
       "Title": "Application number C 230276 ZMQ (58-75 Queens Midtown Expressway Rezoning) submitted by Lucky Supply Holding, LLC, pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section No. 13c, by changing from an M1-1 District to an M1-4 District, Borough of Queens, Community District 2, Council District 26.",
       "AgendaSequence": 120,
-      "MinutesSequence": 134,
+      "MinutesSequence": 129,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Zoning and Franchises",
@@ -1258,14 +1742,14 @@
       "MatterName": "Zoning, 58-75 Queens Midtown Expressway Rezoning, Queens (C 230276 ZMQ)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2024-06-06T17:02:06.717Z"
+      "LastModified": "2024-06-06T22:50:53.76Z"
     },
     {
       "ID": 409531,
       "GUID": "9439DB1E-CCC9-44BE-A0AE-4FFB5887BB66",
       "Title": "Application number C 220185 ZMQ (27-24 College Point Boulevard Commercial Overlay) submitted by Bacele Realty Corp., pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section No. 10a, by establishing within an existing R4 District a C2-3 District and establishing within an existing R5B District a C2-3 District, Borough of Queens, Community District 7, Council District 19.",
       "AgendaSequence": 121,
-      "MinutesSequence": 136,
+      "MinutesSequence": 131,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Zoning and Franchises",
@@ -1277,14 +1761,14 @@
       "MatterName": "Zoning, 27-24 College Point Boulevard Commercial Overlay, Queens (C 220185 ZMQ)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2024-06-06T17:02:06.717Z"
+      "LastModified": "2024-06-06T22:50:53.76Z"
     },
     {
       "ID": 409555,
       "GUID": "907AAC4C-0824-4331-ADB7-970253B60327",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to mergers, acquisitions and combinations of awardees of agreements to provide commercial waste collection services",
       "AgendaSequence": 74,
-      "MinutesSequence": 86,
+      "MinutesSequence": 81,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Sanitation and Solid Waste Management",
@@ -1295,84 +1779,113 @@
       "MatterFile": "Int 0936-2024",
       "MatterName": "Mergers, acquisitions and combinations of awardees of agreements to provide commercial waste collection services.",
       "MatterType": "Introduction",
-      "LastModified": "2024-06-06T17:02:06.667Z"
+      "LastModified": "2024-06-06T22:50:53.72Z"
     },
     {
       "ID": 409567,
       "GUID": "39E7C777-CDBE-405C-8847-13A2B264AB89",
       "Title": "Miramar Court:  Block 2623, Lot 4; Block 2623, Lot 1; Block 2623, Lot 60, Bronx, Community District No. 1, Council District No. 17.",
       "AgendaSequence": 17,
-      "MinutesSequence": 21,
+      "MinutesSequence": 30,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74379,
       "MatterFile": "Res 0459-2024",
       "MatterName": "LU 86 - Miramar Court:  Block 2623, Lot 4; Block 2623, Lot 1; Block 2623, Lot 60, Bronx, Community District No. 1, Council District No. 17.",
       "MatterType": "Resolution",
-      "LastModified": "2024-06-06T17:02:06.61Z"
+      "LastModified": "2024-06-06T22:50:53.677Z"
     },
     {
       "ID": 409568,
       "GUID": "8F63D22D-9730-4353-9B33-74AFA54F1EC5",
       "Title": "Marion Avenue:  Block 3026, Lot 5, Bronx, Community District No. 5, Council District No. 15.",
       "AgendaSequence": 18,
-      "MinutesSequence": 23,
+      "MinutesSequence": 32,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74381,
       "MatterFile": "Res 0460-2024",
       "MatterName": "LU 87 - Marion Avenue:  Block 3026, Lot 5, Bronx, Community District No. 5, Council District No. 15.",
       "MatterType": "Resolution",
-      "LastModified": "2024-06-06T17:02:06.61Z"
+      "LastModified": "2024-06-06T22:50:53.68Z"
     },
     {
       "ID": 409569,
       "GUID": "8837487A-1690-43E9-8EC5-547CEE0768B7",
       "Title": "West Farms.HUDMF.FY24:  Block 3006, Lots 53, 67, and 84, Bronx, Community District No. 3, Council District No. 17.",
       "AgendaSequence": 19,
-      "MinutesSequence": 25,
+      "MinutesSequence": 34,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74385,
       "MatterFile": "Res 0461-2024",
       "MatterName": "LU 88 - West Farms.HUDMF.FY24:  Block 3006, Lots 53, 67, and 84, Bronx, Community District No. 3, Council District No. 17.",
       "MatterType": "Resolution",
-      "LastModified": "2024-06-06T17:02:06.613Z"
+      "LastModified": "2024-06-06T22:50:53.68Z"
     },
     {
       "ID": 409570,
       "GUID": "4B2E4C78-5B6D-436D-8BD4-6F02F53AFA7B",
       "Title": "Fulton Street South:  Block 1861, Lot 20, Brooklyn, Community District No. 3, Council District No. 36.",
       "AgendaSequence": 20,
-      "MinutesSequence": 27,
+      "MinutesSequence": 36,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74387,
       "MatterFile": "Res 0462-2024",
       "MatterName": "LU 89 - Fulton Street South:  Block 1861, Lot 20, Brooklyn, Community District No. 3, Council District No. 36.",
       "MatterType": "Resolution",
-      "LastModified": "2024-06-06T17:02:06.617Z"
+      "LastModified": "2024-06-06T22:50:53.68Z"
     },
     {
       "ID": 409571,
       "GUID": "CCA42878-0691-4AC8-9590-2428AFDCACAC",
       "Title": "A Local Law to amend the New York city charter, in relation to requiring council advice and consent for certain commissioners",
       "AgendaSequence": 22,
-      "MinutesSequence": 29,
+      "MinutesSequence": 38,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 74312,
       "MatterFile": "Int 0908-2024",
       "MatterName": "Requiring council advice and consent for certain commissioners.",
       "MatterType": "Introduction",
-      "LastModified": "2024-06-06T17:02:06.617Z"
+      "LastModified": "2024-06-06T22:50:53.683Z"
     },
     {
       "ID": 409572,
       "GUID": "977DA34C-6B15-42D8-AB45-8FC33E2A7F6C",
       "Title": "Miramar Court:  Block 2623, Lot 4; Block 2623, Lot 1; Block 2623, Lot 60, Bronx, Community District No. 1, Council District No. 17.",
       "AgendaSequence": 42,
-      "MinutesSequence": 51,
+      "MinutesSequence": 53,
       "AgendaNumber": "~coupled",
       "Version": "*",
       "AgendaNote": "Preconsidered – GO",
@@ -1380,14 +1893,14 @@
       "MatterFile": "Res 0459-2024",
       "MatterName": "LU 86 - Miramar Court:  Block 2623, Lot 4; Block 2623, Lot 1; Block 2623, Lot 60, Bronx, Community District No. 1, Council District No. 17.",
       "MatterType": "Resolution",
-      "LastModified": "2024-06-06T17:02:06.64Z"
+      "LastModified": "2024-06-06T22:50:53.697Z"
     },
     {
       "ID": 409573,
       "GUID": "57C5765B-D7AC-432C-9ADC-8718D4F6BDC7",
       "Title": "Marion Avenue:  Block 3026, Lot 5, Bronx, Community District No. 5, Council District No. 15.",
       "AgendaSequence": 43,
-      "MinutesSequence": 52,
+      "MinutesSequence": 54,
       "AgendaNumber": "~coupled",
       "Version": "*",
       "AgendaNote": "Preconsidered – GO",
@@ -1395,14 +1908,14 @@
       "MatterFile": "Res 0460-2024",
       "MatterName": "LU 87 - Marion Avenue:  Block 3026, Lot 5, Bronx, Community District No. 5, Council District No. 15.",
       "MatterType": "Resolution",
-      "LastModified": "2024-06-06T17:02:06.64Z"
+      "LastModified": "2024-06-06T22:50:53.697Z"
     },
     {
       "ID": 409574,
       "GUID": "4737B6BD-246D-48B8-B1FB-5091B319AC68",
       "Title": "West Farms.HUDMF.FY24:  Block 3006, Lots 53, 67, and 84, Bronx, Community District No. 3, Council District No. 17.",
       "AgendaSequence": 44,
-      "MinutesSequence": 53,
+      "MinutesSequence": 55,
       "AgendaNumber": "~coupled",
       "Version": "*",
       "AgendaNote": "Preconsidered – GO",
@@ -1410,14 +1923,14 @@
       "MatterFile": "Res 0461-2024",
       "MatterName": "LU 88 - West Farms.HUDMF.FY24:  Block 3006, Lots 53, 67, and 84, Bronx, Community District No. 3, Council District No. 17.",
       "MatterType": "Resolution",
-      "LastModified": "2024-06-06T17:02:06.64Z"
+      "LastModified": "2024-06-06T22:50:53.697Z"
     },
     {
       "ID": 409575,
       "GUID": "12540CB2-1370-4310-BC64-50D999B999E4",
       "Title": "Fulton Street South:  Block 1861, Lot 20, Brooklyn, Community District No. 3, Council District No. 36.",
       "AgendaSequence": 45,
-      "MinutesSequence": 54,
+      "MinutesSequence": 56,
       "AgendaNumber": "~coupled",
       "Version": "*",
       "AgendaNote": "Preconsidered – GO",
@@ -1425,14 +1938,14 @@
       "MatterFile": "Res 0462-2024",
       "MatterName": "LU 89 - Fulton Street South:  Block 1861, Lot 20, Brooklyn, Community District No. 3, Council District No. 36.",
       "MatterType": "Resolution",
-      "LastModified": "2024-06-06T17:02:06.643Z"
+      "LastModified": "2024-06-06T22:50:53.7Z"
     },
     {
       "ID": 409576,
       "GUID": "F46E15F1-ECEF-4A98-9600-10FEBFCFA941",
       "Title": "Miramar Court:  Block 2623, Lot 4; Block 2623, Lot 1; Block 2623, Lot 60, Bronx, Community District No. 1, Council District No. 17.",
       "AgendaSequence": 114,
-      "MinutesSequence": 126,
+      "MinutesSequence": 121,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Finance",
@@ -1443,15 +1956,15 @@
       "MatterFile": "LU 0086-2024",
       "MatterName": "Miramar Court:  Block 2623, Lot 4; Block 2623, Lot 1; Block 2623, Lot 60, Bronx, Community District No. 1, Council District No. 17.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-06-06T17:02:06.707Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-06-06T22:50:53.753Z"
     },
     {
       "ID": 409577,
       "GUID": "8907D5DA-ADED-43EB-93A9-28063F7387F5",
       "Title": "Marion Avenue:  Block 3026, Lot 5, Bronx, Community District No. 5, Council District No. 15.",
       "AgendaSequence": 115,
-      "MinutesSequence": 127,
+      "MinutesSequence": 122,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Finance",
@@ -1462,15 +1975,15 @@
       "MatterFile": "LU 0087-2024",
       "MatterName": "Marion Avenue:  Block 3026, Lot 5, Bronx, Community District No. 5, Council District No. 15.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-06-06T17:02:06.71Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-06-06T22:50:53.753Z"
     },
     {
       "ID": 409578,
       "GUID": "A316727C-DE6B-45E5-AE03-2751AF59C272",
       "Title": "West Farms.HUDMF.FY24:  Block 3006, Lots 53, 67, and 84, Bronx, Community District No. 3, Council District No. 17.",
       "AgendaSequence": 116,
-      "MinutesSequence": 128,
+      "MinutesSequence": 123,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Finance",
@@ -1481,15 +1994,15 @@
       "MatterFile": "LU 0088-2024",
       "MatterName": "West Farms.HUDMF.FY24:  Block 3006, Lots 53, 67, and 84, Bronx, Community District No. 3, Council District No. 17.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-06-06T17:02:06.71Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-06-06T22:50:53.757Z"
     },
     {
       "ID": 409579,
       "GUID": "02759635-AC3E-4365-B927-DFE2228611F8",
       "Title": "Fulton Street South:  Block 1861, Lot 20, Brooklyn, Community District No. 3, Council District No. 36.",
       "AgendaSequence": 117,
-      "MinutesSequence": 129,
+      "MinutesSequence": 124,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Finance",
@@ -1500,28 +2013,129 @@
       "MatterFile": "LU 0089-2024",
       "MatterName": "Fulton Street South:  Block 1861, Lot 20, Brooklyn, Community District No. 3, Council District No. 36.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-06-06T17:02:06.71Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-06-06T22:50:53.757Z"
     },
     {
       "ID": 409583,
       "GUID": "2927808A-524A-451B-886D-86635E7FBAAD",
       "Title": "Resolution calling on the Department of Citywide Administrative Services to grant additional points on promotional exams to examinees who have completed the agency’s Executive Development and Management & Supervision trainings, or to examinees who have earned a degree or certificate from the City University of New York, or a similarly accredited institution.",
       "AgendaSequence": 67,
-      "MinutesSequence": 76,
+      "MinutesSequence": 74,
       "Version": "B",
       "AgendaNote": "Amended and Adopted by the Committee on Civil Service and Labor",
+      "MinutesNote": "Pursuant to Rule 8.50 of the Council, the Majority Leader and Acting President Pro Tempore (Council Member Farías) called for a voice vote.  Hearing no objections, the Majority Leader and Acting President Pro Tempore (Council Member Farías) declared the Resolution to be adopted.\r\n\r\nAdopted unanimously by the Council by voice-vote.",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by voice vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 74060,
       "MatterFile": "Res 0306-2024",
       "MatterName": "DCAS to grant additional points on promotional exams to examinees who have completed the agency’s Executive Development and Management & Supervision trainings, or to examinees who have earned a degree or certificate from CUNY, or a similarly accredited in",
       "MatterType": "Resolution",
-      "LastModified": "2024-06-06T17:02:06.66Z"
+      "LastModified": "2024-06-06T22:50:53.713Z"
     },
     {
       "ID": 409600,
       "GUID": "0865D314-2F96-43AC-B4D8-5C036EBD207A",
       "Title": "State Legislation Resolution requesting the New York State Legislature to pass bills introduced by Senator Gounardes, S.2812-A, and Assembly Member Dinowitz, A.5259-A, “AN ACT to amend the vehicle and traffic law and the administrative code of the city of New York, in relation to increasing the number of intersections where traffic-control signal photo violation-monitoring systems may be installed and operated; to amend chapter 746 of the laws of 1988, amending the vehicle and traffic law, the general municipal law and the public officers law relating to the civil liability of vehicle owners for traffic control signal violations, in relation to extending the effectiveness thereof; and to amend local law number 46 of the city of New York for the year 1989, amending the administrative code of the city of New York relating to civil liability of vehicle owners for traffic control signal violations, in relation to extending the effectiveness thereof”.",
       "AgendaSequence": 103,
+      "MinutesSequence": 110,
+      "AgendaNumber": "~SPONSOR",
+      "Version": "*",
+      "AgendaNote": "Governmental Operations, State & Federal Legislation",
+      "ActionID": 43,
+      "ActionName": "Referred to Comm by Council",
+      "ActionText": "This SLR was Referred to Comm by Council to the Committee on Governmental Operations, State & Federal Legislation",
+      "MatterID": 74396,
+      "MatterFile": "SLR 0008-2024",
+      "MatterName": "Increasing the number of intersections where traffic-control signal photo violation-monitoring systems may be installed and operated (S.2812-A/A.5259-A)",
+      "MatterType": "SLR",
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-06-06T22:50:53.743Z"
+    },
+    {
+      "ID": 409601,
+      "GUID": "2F9E41F6-F9B0-4AC2-8C67-E4AB68D87F76",
+      "Title": "State Legislation Resolution requesting the New York State Legislature to pass bills introduced by Senator Jackson, S.6306-B, and Assembly Member Pheffer Amato, A.7344-B, “AN ACT to amend the retirement and social security law, in relation to providing WTC-related benefits to certain employees who worked at the Verrazano Bridge Toll Facility”.",
+      "AgendaSequence": 104,
+      "MinutesSequence": 111,
+      "AgendaNumber": "~SPONSOR",
+      "Version": "*",
+      "AgendaNote": "Governmental Operations, State & Federal Legislation",
+      "ActionID": 43,
+      "ActionName": "Referred to Comm by Council",
+      "ActionText": "This SLR was Referred to Comm by Council to the Committee on Governmental Operations, State & Federal Legislation",
+      "MatterID": 74397,
+      "MatterFile": "SLR 0009-2024",
+      "MatterName": "Providing WTC-related benefits to certain employees who worked at the Verrazano Bridge Toll Facility (S.6306-B/A.7344-B).",
+      "MatterType": "SLR",
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-06-06T22:50:53.743Z"
+    },
+    {
+      "ID": 409602,
+      "GUID": "4085F481-F9F1-4837-B963-22A78622E514",
+      "Title": "State Legislation Resolution requesting the New York State Legislature to pass bills introduced by Senator Gounardes, S.7128-B, and Assembly Member Pheffer Amato, A.7681-A, “AN ACT to amend the general municipal law, in relation to allowing certain members of the New York city fire department pension fund to receive a membership date in the New York city fire department pension fund attributable to service in the titles of police cadet program or police cadet program II in the New York city police department cadet program”.",
+      "AgendaSequence": 105,
+      "MinutesSequence": 112,
+      "AgendaNumber": "~SPONSOR",
+      "Version": "*",
+      "AgendaNote": "Governmental Operations, State & Federal Legislation",
+      "ActionID": 43,
+      "ActionName": "Referred to Comm by Council",
+      "ActionText": "This SLR was Referred to Comm by Council to the Committee on Governmental Operations, State & Federal Legislation",
+      "MatterID": 74398,
+      "MatterFile": "SLR 0010-2024",
+      "MatterName": "Allowing certain members of the NYC fire dept pension fund to receive a membership date in the NYC fire dept pension fund attributable to service in the titles of police cadet program or police cadet program II in the NYC police dept cadet program (S.7128",
+      "MatterType": "SLR",
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-06-06T22:50:53.743Z"
+    },
+    {
+      "ID": 409603,
+      "GUID": "ED0955C3-EF58-407E-ACBE-AD052210CDDB",
+      "Title": "State Legislation Resolution requesting the New York State Legislature to pass bills introduced by Senator Jackson, S.7498-A, and Assembly Member Pheffer Amato, A.7572-A, “AN ACT to amend the retirement and social security law, in relation to eligibility for participants in the automotive 25 year/age 50 pension plan with more than 30 years of credited service who remain in active service after age 62 to receive a service retirement benefit equivalent to the standard service retirement benefit received by Tier IV members with the same age and service”.",
+      "AgendaSequence": 106,
+      "MinutesSequence": 113,
+      "AgendaNumber": "~SPONSOR",
+      "Version": "*",
+      "AgendaNote": "Governmental Operations, State & Federal Legislation",
+      "ActionID": 43,
+      "ActionName": "Referred to Comm by Council",
+      "ActionText": "This SLR was Referred to Comm by Council to the Committee on Governmental Operations, State & Federal Legislation",
+      "MatterID": 74399,
+      "MatterFile": "SLR 0011-2024",
+      "MatterName": "Eligibility for participants in the automotive 25 year/age 50 pension plan with more than 30 years of credited service who remain in active service after age 62 to receive a service retirement. (S.7498-A/A.7572-A)",
+      "MatterType": "SLR",
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-06-06T22:50:53.747Z"
+    },
+    {
+      "ID": 409604,
+      "GUID": "BEE2B4FF-2BEA-4479-B8F0-53C7B677707B",
+      "Title": "State Legislation Resolution requesting the New York State Legislature to pass bills introduced by Senator Gounardes, S.8649, and Assembly Member Pheffer Amato, A.9399, “AN ACT to amend the administrative code of the city of New York, in relation to health insurance coverage for surviving spouses or domestic partners of members of the New York city fire department employed as fire protection inspectors”.",
+      "AgendaSequence": 107,
+      "MinutesSequence": 114,
+      "AgendaNumber": "~SPONSOR",
+      "Version": "*",
+      "AgendaNote": "Governmental Operations, State & Federal Legislation",
+      "ActionID": 43,
+      "ActionName": "Referred to Comm by Council",
+      "ActionText": "This SLR was Referred to Comm by Council to the Committee on Governmental Operations, State & Federal Legislation",
+      "MatterID": 74400,
+      "MatterFile": "SLR 0012-2024",
+      "MatterName": "Health insurance coverage for surviving spouses or domestic partners of members of the New York city fire department employed as fire protection inspectors (S.8649/A.9399).",
+      "MatterType": "SLR",
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-06-06T22:50:53.747Z"
+    },
+    {
+      "ID": 409605,
+      "GUID": "E8FDE6D4-FB04-476D-9475-377756492CC9",
+      "Title": "State Legislation Resolution requesting the New York State Legislature to pass bills introduced by Senator Jackson, S.8756-A, and Assembly Member Cunningham, A.8902-C, “AN ACT to amend the vehicle and traffic law, in relation to owner liability for failure of an operator to comply with street cleaning parking rules; to amend the public officers law, in relation to access to records prepared pursuant to street cleaning parking rules; and providing for the repeal of certain provisions upon expiration thereof”.",
+      "AgendaSequence": 108,
       "MinutesSequence": 115,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
@@ -1529,18 +2143,18 @@
       "ActionID": 43,
       "ActionName": "Referred to Comm by Council",
       "ActionText": "This SLR was Referred to Comm by Council to the Committee on Governmental Operations, State & Federal Legislation",
-      "MatterID": 74396,
-      "MatterFile": "SLR 0008-2024",
-      "MatterName": "Increasing the number of intersections where traffic-control signal photo violation-monitoring systems may be installed and operated (S.2812-A/A.5259-A)",
+      "MatterID": 74401,
+      "MatterFile": "SLR 0013-2024",
+      "MatterName": "Owner liability for failure of an operator to comply with street cleaning parking rules. (S.8756-A/A.8902-C)",
       "MatterType": "SLR",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-06-06T17:02:06.697Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-06-06T22:50:53.747Z"
     },
     {
-      "ID": 409601,
-      "GUID": "2F9E41F6-F9B0-4AC2-8C67-E4AB68D87F76",
-      "Title": "State Legislation Resolution requesting the New York State Legislature to pass bills introduced by Senator Jackson, S.6306-B, and Assembly Member Pheffer Amato, A.7344-B, “AN ACT to amend the retirement and social security law, in relation to providing WTC-related benefits to certain employees who worked at the Verrazano Bridge Toll Facility”.",
-      "AgendaSequence": 104,
+      "ID": 409606,
+      "GUID": "9D704674-0BDD-411E-9C12-A2DAAC6072B5",
+      "Title": "State Legislation Resolution requesting the New York State Legislature to pass bills introduced by Senator Gounardes, S.9373, and Assembly Member Pheffer Amato, A.9925, “AN ACT to amend the retirement and social security law, in relation to the definition of overtime ceiling”.",
+      "AgendaSequence": 109,
       "MinutesSequence": 116,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
@@ -1548,219 +2162,159 @@
       "ActionID": 43,
       "ActionName": "Referred to Comm by Council",
       "ActionText": "This SLR was Referred to Comm by Council to the Committee on Governmental Operations, State & Federal Legislation",
-      "MatterID": 74397,
-      "MatterFile": "SLR 0009-2024",
-      "MatterName": "Providing WTC-related benefits to certain employees who worked at the Verrazano Bridge Toll Facility (S.6306-B/A.7344-B).",
-      "MatterType": "SLR",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-06-06T17:02:06.697Z"
-    },
-    {
-      "ID": 409602,
-      "GUID": "4085F481-F9F1-4837-B963-22A78622E514",
-      "Title": "State Legislation Resolution requesting the New York State Legislature to pass bills introduced by Senator Gounardes, S.7128-B, and Assembly Member Pheffer Amato, A.7681-A, “AN ACT to amend the general municipal law, in relation to allowing certain members of the New York city fire department pension fund to receive a membership date in the New York city fire department pension fund attributable to service in the titles of police cadet program or police cadet program II in the New York city police department cadet program”.",
-      "AgendaSequence": 105,
-      "MinutesSequence": 117,
-      "AgendaNumber": "~SPONSOR",
-      "Version": "*",
-      "AgendaNote": "Governmental Operations, State & Federal Legislation",
-      "ActionID": 43,
-      "ActionName": "Referred to Comm by Council",
-      "ActionText": "This SLR was Referred to Comm by Council to the Committee on Governmental Operations, State & Federal Legislation",
-      "MatterID": 74398,
-      "MatterFile": "SLR 0010-2024",
-      "MatterName": "Allowing certain members of the NYC fire dept pension fund to receive a membership date in the NYC fire dept pension fund attributable to service in the titles of police cadet program or police cadet program II in the NYC police dept cadet program (S.7128",
-      "MatterType": "SLR",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-06-06T17:02:06.697Z"
-    },
-    {
-      "ID": 409603,
-      "GUID": "ED0955C3-EF58-407E-ACBE-AD052210CDDB",
-      "Title": "State Legislation Resolution requesting the New York State Legislature to pass bills introduced by Senator Jackson, S.7498-A, and Assembly Member Pheffer Amato, A.7572-A, “AN ACT to amend the retirement and social security law, in relation to eligibility for participants in the automotive 25 year/age 50 pension plan with more than 30 years of credited service who remain in active service after age 62 to receive a service retirement benefit equivalent to the standard service retirement benefit received by Tier IV members with the same age and service”.",
-      "AgendaSequence": 106,
-      "MinutesSequence": 118,
-      "AgendaNumber": "~SPONSOR",
-      "Version": "*",
-      "AgendaNote": "Governmental Operations, State & Federal Legislation",
-      "ActionID": 43,
-      "ActionName": "Referred to Comm by Council",
-      "ActionText": "This SLR was Referred to Comm by Council to the Committee on Governmental Operations, State & Federal Legislation",
-      "MatterID": 74399,
-      "MatterFile": "SLR 0011-2024",
-      "MatterName": "Eligibility for participants in the automotive 25 year/age 50 pension plan with more than 30 years of credited service who remain in active service after age 62 to receive a service retirement. (S.7498-A/A.7572-A)",
-      "MatterType": "SLR",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-06-06T17:02:06.7Z"
-    },
-    {
-      "ID": 409604,
-      "GUID": "BEE2B4FF-2BEA-4479-B8F0-53C7B677707B",
-      "Title": "State Legislation Resolution requesting the New York State Legislature to pass bills introduced by Senator Gounardes, S.8649, and Assembly Member Pheffer Amato, A.9399, “AN ACT to amend the administrative code of the city of New York, in relation to health insurance coverage for surviving spouses or domestic partners of members of the New York city fire department employed as fire protection inspectors”.",
-      "AgendaSequence": 107,
-      "MinutesSequence": 119,
-      "AgendaNumber": "~SPONSOR",
-      "Version": "*",
-      "AgendaNote": "Governmental Operations, State & Federal Legislation",
-      "ActionID": 43,
-      "ActionName": "Referred to Comm by Council",
-      "ActionText": "This SLR was Referred to Comm by Council to the Committee on Governmental Operations, State & Federal Legislation",
-      "MatterID": 74400,
-      "MatterFile": "SLR 0012-2024",
-      "MatterName": "Health insurance coverage for surviving spouses or domestic partners of members of the New York city fire department employed as fire protection inspectors (S.8649/A.9399).",
-      "MatterType": "SLR",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-06-06T17:02:06.7Z"
-    },
-    {
-      "ID": 409605,
-      "GUID": "E8FDE6D4-FB04-476D-9475-377756492CC9",
-      "Title": "State Legislation Resolution requesting the New York State Legislature to pass bills introduced by Senator Jackson, S.8756-A, and Assembly Member Cunningham, A.8902-C, “AN ACT to amend the vehicle and traffic law, in relation to owner liability for failure of an operator to comply with street cleaning parking rules; to amend the public officers law, in relation to access to records prepared pursuant to street cleaning parking rules; and providing for the repeal of certain provisions upon expiration thereof”.",
-      "AgendaSequence": 108,
-      "MinutesSequence": 120,
-      "AgendaNumber": "~SPONSOR",
-      "Version": "*",
-      "AgendaNote": "Governmental Operations, State & Federal Legislation",
-      "ActionID": 43,
-      "ActionName": "Referred to Comm by Council",
-      "ActionText": "This SLR was Referred to Comm by Council to the Committee on Governmental Operations, State & Federal Legislation",
-      "MatterID": 74401,
-      "MatterFile": "SLR 0013-2024",
-      "MatterName": "Owner liability for failure of an operator to comply with street cleaning parking rules. (S.8756-A/A.8902-C)",
-      "MatterType": "SLR",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-06-06T17:02:06.7Z"
-    },
-    {
-      "ID": 409606,
-      "GUID": "9D704674-0BDD-411E-9C12-A2DAAC6072B5",
-      "Title": "State Legislation Resolution requesting the New York State Legislature to pass bills introduced by Senator Gounardes, S.9373, and Assembly Member Pheffer Amato, A.9925, “AN ACT to amend the retirement and social security law, in relation to the definition of overtime ceiling”.",
-      "AgendaSequence": 109,
-      "MinutesSequence": 121,
-      "AgendaNumber": "~SPONSOR",
-      "Version": "*",
-      "AgendaNote": "Governmental Operations, State & Federal Legislation",
-      "ActionID": 43,
-      "ActionName": "Referred to Comm by Council",
-      "ActionText": "This SLR was Referred to Comm by Council to the Committee on Governmental Operations, State & Federal Legislation",
       "MatterID": 74402,
       "MatterFile": "SLR 0014-2024",
       "MatterName": "Definition of overtime ceiling (S.9373/A.9925)",
       "MatterType": "SLR",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-06-06T17:02:06.703Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-06-06T22:50:53.747Z"
     },
     {
       "ID": 409607,
       "GUID": "04770AAA-6BA2-4440-95CD-BABF2E09331B",
       "Title": "State Legislation Resolution requesting the New York State Legislature to pass bills introduced by Senator Gounardes, S.2812-A, and Assembly Member Dinowitz, A.5259-A, “AN ACT to amend the vehicle and traffic law and the administrative code of the city of New York, in relation to increasing the number of intersections where traffic-control signal photo violation-monitoring systems may be installed and operated; to amend chapter 746 of the laws of 1988, amending the vehicle and traffic law, the general municipal law and the public officers law relating to the civil liability of vehicle owners for traffic control signal violations, in relation to extending the effectiveness thereof; and to amend local law number 46 of the city of New York for the year 1989, amending the administrative code of the city of New York relating to civil liability of vehicle owners for traffic control signal violations, in relation to extending the effectiveness thereof”.",
       "AgendaSequence": 23,
-      "MinutesSequence": 30,
+      "MinutesSequence": 7,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this SLR be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 74396,
       "MatterFile": "SLR 0008-2024",
       "MatterName": "Increasing the number of intersections where traffic-control signal photo violation-monitoring systems may be installed and operated (S.2812-A/A.5259-A)",
       "MatterType": "SLR",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-06-06T17:02:06.62Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-06-06T22:50:53.66Z"
     },
     {
       "ID": 409608,
       "GUID": "721D2239-6C58-4B81-B3BA-54B24DE09644",
       "Title": "State Legislation Resolution requesting the New York State Legislature to pass bills introduced by Senator Jackson, S.6306-B, and Assembly Member Pheffer Amato, A.7344-B, “AN ACT to amend the retirement and social security law, in relation to providing WTC-related benefits to certain employees who worked at the Verrazano Bridge Toll Facility”.",
       "AgendaSequence": 24,
-      "MinutesSequence": 31,
+      "MinutesSequence": 8,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": ".",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74397,
       "MatterFile": "SLR 0009-2024",
       "MatterName": "Providing WTC-related benefits to certain employees who worked at the Verrazano Bridge Toll Facility (S.6306-B/A.7344-B).",
       "MatterType": "SLR",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-06-06T17:02:06.62Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-06-06T22:50:53.66Z"
     },
     {
       "ID": 409609,
       "GUID": "62B45DBF-C431-4E27-9EC5-1632A548841B",
       "Title": "State Legislation Resolution requesting the New York State Legislature to pass bills introduced by Senator Gounardes, S.7128-B, and Assembly Member Pheffer Amato, A.7681-A, “AN ACT to amend the general municipal law, in relation to allowing certain members of the New York city fire department pension fund to receive a membership date in the New York city fire department pension fund attributable to service in the titles of police cadet program or police cadet program II in the New York city police department cadet program”.",
       "AgendaSequence": 25,
-      "MinutesSequence": 32,
+      "MinutesSequence": 9,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this SLR be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74398,
       "MatterFile": "SLR 0010-2024",
       "MatterName": "Allowing certain members of the NYC fire dept pension fund to receive a membership date in the NYC fire dept pension fund attributable to service in the titles of police cadet program or police cadet program II in the NYC police dept cadet program (S.7128",
       "MatterType": "SLR",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-06-06T17:02:06.62Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-06-06T22:50:53.66Z"
     },
     {
       "ID": 409610,
       "GUID": "7818D4AD-1BC4-445C-9CCC-3C45ED25B491",
       "Title": "State Legislation Resolution requesting the New York State Legislature to pass bills introduced by Senator Jackson, S.7498-A, and Assembly Member Pheffer Amato, A.7572-A, “AN ACT to amend the retirement and social security law, in relation to eligibility for participants in the automotive 25 year/age 50 pension plan with more than 30 years of credited service who remain in active service after age 62 to receive a service retirement benefit equivalent to the standard service retirement benefit received by Tier IV members with the same age and service”.",
       "AgendaSequence": 26,
-      "MinutesSequence": 33,
+      "MinutesSequence": 10,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this SLR be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74399,
       "MatterFile": "SLR 0011-2024",
       "MatterName": "Eligibility for participants in the automotive 25 year/age 50 pension plan with more than 30 years of credited service who remain in active service after age 62 to receive a service retirement. (S.7498-A/A.7572-A)",
       "MatterType": "SLR",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-06-06T17:02:06.62Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-06-06T22:50:53.663Z"
     },
     {
       "ID": 409611,
       "GUID": "7548C3EB-A70E-40C3-8D0B-C827FC035E7A",
       "Title": "State Legislation Resolution requesting the New York State Legislature to pass bills introduced by Senator Gounardes, S.8649, and Assembly Member Pheffer Amato, A.9399, “AN ACT to amend the administrative code of the city of New York, in relation to health insurance coverage for surviving spouses or domestic partners of members of the New York city fire department employed as fire protection inspectors”.",
       "AgendaSequence": 27,
-      "MinutesSequence": 34,
+      "MinutesSequence": 11,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this SLR be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74400,
       "MatterFile": "SLR 0012-2024",
       "MatterName": "Health insurance coverage for surviving spouses or domestic partners of members of the New York city fire department employed as fire protection inspectors (S.8649/A.9399).",
       "MatterType": "SLR",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-06-06T17:02:06.62Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-06-06T22:50:53.663Z"
     },
     {
       "ID": 409612,
       "GUID": "B2397CC7-8909-41FE-91AD-149E205B68AF",
       "Title": "State Legislation Resolution requesting the New York State Legislature to pass bills introduced by Senator Jackson, S.8756-A, and Assembly Member Cunningham, A.8902-C, “AN ACT to amend the vehicle and traffic law, in relation to owner liability for failure of an operator to comply with street cleaning parking rules; to amend the public officers law, in relation to access to records prepared pursuant to street cleaning parking rules; and providing for the repeal of certain provisions upon expiration thereof”.",
       "AgendaSequence": 28,
-      "MinutesSequence": 35,
+      "MinutesSequence": 12,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this SLR be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 74401,
       "MatterFile": "SLR 0013-2024",
       "MatterName": "Owner liability for failure of an operator to comply with street cleaning parking rules. (S.8756-A/A.8902-C)",
       "MatterType": "SLR",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-06-06T17:02:06.623Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-06-06T22:50:53.663Z"
     },
     {
       "ID": 409613,
       "GUID": "9F368646-1C73-4ABC-927C-606012E14E51",
       "Title": "State Legislation Resolution requesting the New York State Legislature to pass bills introduced by Senator Gounardes, S.9373, and Assembly Member Pheffer Amato, A.9925, “AN ACT to amend the retirement and social security law, in relation to the definition of overtime ceiling”.",
       "AgendaSequence": 29,
-      "MinutesSequence": 36,
+      "MinutesSequence": 13,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on General Orders",
+      "Consent": 1,
       "MatterID": 74402,
       "MatterFile": "SLR 0014-2024",
       "MatterName": "Definition of overtime ceiling (S.9373/A.9925)",
       "MatterType": "SLR",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-06-06T17:02:06.623Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-06-06T22:50:53.667Z"
     },
     {
       "ID": 409614,
       "GUID": "EA3BFA4D-9191-4681-8E8E-01DAD5815FC0",
       "Title": "State Legislation Resolution requesting the New York State Legislature to pass bills introduced by Senator Gounardes, S.2812-A, and Assembly Member Dinowitz, A.5259-A, “AN ACT to amend the vehicle and traffic law and the administrative code of the city of New York, in relation to increasing the number of intersections where traffic-control signal photo violation-monitoring systems may be installed and operated; to amend chapter 746 of the laws of 1988, amending the vehicle and traffic law, the general municipal law and the public officers law relating to the civil liability of vehicle owners for traffic control signal violations, in relation to extending the effectiveness thereof; and to amend local law number 46 of the city of New York for the year 1989, amending the administrative code of the city of New York relating to civil liability of vehicle owners for traffic control signal violations, in relation to extending the effectiveness thereof”.",
       "AgendaSequence": 48,
-      "MinutesSequence": 57,
+      "MinutesSequence": 0,
       "AgendaNumber": "~coupled",
       "Version": "*",
       "AgendaNote": "Preconsidered – GO",
@@ -1768,15 +2322,15 @@
       "MatterFile": "SLR 0008-2024",
       "MatterName": "Increasing the number of intersections where traffic-control signal photo violation-monitoring systems may be installed and operated (S.2812-A/A.5259-A)",
       "MatterType": "SLR",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-06-06T17:02:06.643Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-06-06T22:50:53.65Z"
     },
     {
       "ID": 409615,
       "GUID": "42FBB23D-77FC-4579-A3E3-9547425D6997",
       "Title": "State Legislation Resolution requesting the New York State Legislature to pass bills introduced by Senator Jackson, S.6306-B, and Assembly Member Pheffer Amato, A.7344-B, “AN ACT to amend the retirement and social security law, in relation to providing WTC-related benefits to certain employees who worked at the Verrazano Bridge Toll Facility”.",
       "AgendaSequence": 49,
-      "MinutesSequence": 58,
+      "MinutesSequence": 0,
       "AgendaNumber": "~coupled",
       "Version": "*",
       "AgendaNote": "Preconsidered – GO",
@@ -1784,15 +2338,15 @@
       "MatterFile": "SLR 0009-2024",
       "MatterName": "Providing WTC-related benefits to certain employees who worked at the Verrazano Bridge Toll Facility (S.6306-B/A.7344-B).",
       "MatterType": "SLR",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-06-06T17:02:06.647Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-06-06T22:50:53.647Z"
     },
     {
       "ID": 409616,
       "GUID": "DDDCEB20-81B0-43F3-8413-3587ECB7E11F",
       "Title": "State Legislation Resolution requesting the New York State Legislature to pass bills introduced by Senator Gounardes, S.7128-B, and Assembly Member Pheffer Amato, A.7681-A, “AN ACT to amend the general municipal law, in relation to allowing certain members of the New York city fire department pension fund to receive a membership date in the New York city fire department pension fund attributable to service in the titles of police cadet program or police cadet program II in the New York city police department cadet program”.",
       "AgendaSequence": 50,
-      "MinutesSequence": 59,
+      "MinutesSequence": 0,
       "AgendaNumber": "~coupled",
       "Version": "*",
       "AgendaNote": "Preconsidered – GO",
@@ -1800,15 +2354,15 @@
       "MatterFile": "SLR 0010-2024",
       "MatterName": "Allowing certain members of the NYC fire dept pension fund to receive a membership date in the NYC fire dept pension fund attributable to service in the titles of police cadet program or police cadet program II in the NYC police dept cadet program (S.7128",
       "MatterType": "SLR",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-06-06T17:02:06.647Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-06-06T22:50:53.647Z"
     },
     {
       "ID": 409617,
       "GUID": "EE5B5003-7AD3-4155-A683-E8C9EC75C53F",
       "Title": "State Legislation Resolution requesting the New York State Legislature to pass bills introduced by Senator Jackson, S.7498-A, and Assembly Member Pheffer Amato, A.7572-A, “AN ACT to amend the retirement and social security law, in relation to eligibility for participants in the automotive 25 year/age 50 pension plan with more than 30 years of credited service who remain in active service after age 62 to receive a service retirement benefit equivalent to the standard service retirement benefit received by Tier IV members with the same age and service”.",
       "AgendaSequence": 51,
-      "MinutesSequence": 60,
+      "MinutesSequence": 0,
       "AgendaNumber": "~coupled",
       "Version": "*",
       "AgendaNote": "Preconsidered – GO",
@@ -1816,15 +2370,15 @@
       "MatterFile": "SLR 0011-2024",
       "MatterName": "Eligibility for participants in the automotive 25 year/age 50 pension plan with more than 30 years of credited service who remain in active service after age 62 to receive a service retirement. (S.7498-A/A.7572-A)",
       "MatterType": "SLR",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-06-06T17:02:06.647Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-06-06T22:50:53.643Z"
     },
     {
       "ID": 409618,
       "GUID": "0F4A9135-95E9-463A-976C-1FD8A891F98A",
       "Title": "State Legislation Resolution requesting the New York State Legislature to pass bills introduced by Senator Gounardes, S.8649, and Assembly Member Pheffer Amato, A.9399, “AN ACT to amend the administrative code of the city of New York, in relation to health insurance coverage for surviving spouses or domestic partners of members of the New York city fire department employed as fire protection inspectors”.",
       "AgendaSequence": 52,
-      "MinutesSequence": 61,
+      "MinutesSequence": 0,
       "AgendaNumber": "~coupled",
       "Version": "*",
       "AgendaNote": "Preconsidered – GO",
@@ -1832,15 +2386,15 @@
       "MatterFile": "SLR 0012-2024",
       "MatterName": "Health insurance coverage for surviving spouses or domestic partners of members of the New York city fire department employed as fire protection inspectors (S.8649/A.9399).",
       "MatterType": "SLR",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-06-06T17:02:06.65Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-06-06T22:50:53.64Z"
     },
     {
       "ID": 409619,
       "GUID": "BCC1B1A8-E7EB-4E78-B426-A580CCF20731",
       "Title": "State Legislation Resolution requesting the New York State Legislature to pass bills introduced by Senator Jackson, S.8756-A, and Assembly Member Cunningham, A.8902-C, “AN ACT to amend the vehicle and traffic law, in relation to owner liability for failure of an operator to comply with street cleaning parking rules; to amend the public officers law, in relation to access to records prepared pursuant to street cleaning parking rules; and providing for the repeal of certain provisions upon expiration thereof”.",
       "AgendaSequence": 53,
-      "MinutesSequence": 62,
+      "MinutesSequence": 0,
       "AgendaNumber": "~coupled",
       "Version": "*",
       "AgendaNote": "Preconsidered – GO",
@@ -1848,15 +2402,15 @@
       "MatterFile": "SLR 0013-2024",
       "MatterName": "Owner liability for failure of an operator to comply with street cleaning parking rules. (S.8756-A/A.8902-C)",
       "MatterType": "SLR",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-06-06T17:02:06.65Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-06-06T22:50:53.64Z"
     },
     {
       "ID": 409620,
       "GUID": "4BCCD41F-FD71-4A63-9E60-D88902D74570",
       "Title": "State Legislation Resolution requesting the New York State Legislature to pass bills introduced by Senator Gounardes, S.9373, and Assembly Member Pheffer Amato, A.9925, “AN ACT to amend the retirement and social security law, in relation to the definition of overtime ceiling”.",
       "AgendaSequence": 54,
-      "MinutesSequence": 63,
+      "MinutesSequence": 0,
       "AgendaNumber": "~coupled",
       "Version": "*",
       "AgendaNote": "Preconsidered – GO",
@@ -1864,112 +2418,146 @@
       "MatterFile": "SLR 0014-2024",
       "MatterName": "Definition of overtime ceiling (S.9373/A.9925)",
       "MatterType": "SLR",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-06-06T17:02:06.65Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-06-06T22:50:53.64Z"
     },
     {
       "ID": 409638,
       "GUID": "47004573-BDE1-4F84-8B6F-DB64B859CD62",
       "Title": "Miramar Court:  Block 2623, Lot 4; Block 2623, Lot 1; Block 2623, Lot 60, Bronx, Community District No. 1, Council District No. 17.",
       "AgendaSequence": 0,
-      "MinutesSequence": 20,
+      "MinutesSequence": 29,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74378,
       "MatterFile": "LU 0086-2024",
       "MatterName": "Miramar Court:  Block 2623, Lot 4; Block 2623, Lot 1; Block 2623, Lot 60, Bronx, Community District No. 1, Council District No. 17.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-06-06T17:02:06.61Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-06-06T22:50:53.677Z"
     },
     {
       "ID": 409639,
       "GUID": "ACB8D862-CD21-47BF-BEF5-BC33317472D7",
       "Title": "Marion Avenue:  Block 3026, Lot 5, Bronx, Community District No. 5, Council District No. 15.",
       "AgendaSequence": 0,
-      "MinutesSequence": 22,
+      "MinutesSequence": 31,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74380,
       "MatterFile": "LU 0087-2024",
       "MatterName": "Marion Avenue:  Block 3026, Lot 5, Bronx, Community District No. 5, Council District No. 15.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-06-06T17:02:06.61Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-06-06T22:50:53.677Z"
     },
     {
       "ID": 409640,
       "GUID": "5CCA14C7-41FF-460C-8AE2-0EC70F921975",
       "Title": "West Farms.HUDMF.FY24:  Block 3006, Lots 53, 67, and 84, Bronx, Community District No. 3, Council District No. 17.",
       "AgendaSequence": 0,
-      "MinutesSequence": 24,
+      "MinutesSequence": 33,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74384,
       "MatterFile": "LU 0088-2024",
       "MatterName": "West Farms.HUDMF.FY24:  Block 3006, Lots 53, 67, and 84, Bronx, Community District No. 3, Council District No. 17.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-06-06T17:02:06.613Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-06-06T22:50:53.68Z"
     },
     {
       "ID": 409641,
       "GUID": "396AD7CC-D3B9-4641-B391-FAD01184B258",
       "Title": "Fulton Street South:  Block 1861, Lot 20, Brooklyn, Community District No. 3, Council District No. 36.",
       "AgendaSequence": 0,
-      "MinutesSequence": 26,
+      "MinutesSequence": 35,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74386,
       "MatterFile": "LU 0089-2024",
       "MatterName": "Fulton Street South:  Block 1861, Lot 20, Brooklyn, Community District No. 3, Council District No. 36.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-06-06T17:02:06.613Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-06-06T22:50:53.68Z"
     },
     {
       "ID": 409642,
       "GUID": "E78EAD5E-256A-46B8-84D3-39D3CF759538",
       "Title": "Application number N 240010 ZRY (Zoning for Economic Opportunity) submitted by New York City Department of City Planning, pursuant to Section 201 of the New York City Charter, for an amendment of the Zoning Resolution of the City of New York, modifying multiple Sections to support economic growth and resiliency by providing businesses with additional zoning flexibility to locate and expand, Citywide.",
       "AgendaSequence": 0,
-      "MinutesSequence": 41,
+      "MinutesSequence": 43,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 73992,
       "MatterFile": "LU 0055-2024",
       "MatterName": "Zoning, Zoning for Economic Opportunity, Citywide (N 240010 ZRY)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2024-06-06T17:02:06.627Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-06-06T22:50:53.687Z"
     },
     {
       "ID": 409643,
       "GUID": "A01596A3-8F0C-4ABD-B935-ACDAAE14002E",
       "Title": "Application number N 240011 ZRY (Zoning for Economic Opportunity – Manufacturing Districts) submitted by New York City Department of City Planning, pursuant to Section 201 of the New York City Charter, for an amendment of the Zoning Resolution of the City of New York, modifying multiple Sections to add new Manufacturing District options, Citywide.",
       "AgendaSequence": 0,
-      "MinutesSequence": 43,
+      "MinutesSequence": 45,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 73993,
       "MatterFile": "LU 0056-2024",
       "MatterName": "Zoning, Zoning for Economic Opportunity – Manufacturing Districts, Citywide (N 240011 ZRY)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2024-06-06T17:02:06.63Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-06-06T22:50:53.69Z"
     },
     {
       "ID": 409679,
       "GUID": "B7CC381A-6122-490D-9937-8C2A9E1243D4",
       "Title": "",
       "AgendaSequence": 0,
-      "MinutesSequence": 138,
+      "MinutesSequence": 133,
       "Version": "",
       "MinutesNote": "At this point the Speaker (Council Member Adams) made the following announcements:",
-      "LastModified": "2024-06-06T17:02:06.72Z"
+      "LastModified": "2024-06-06T22:50:53.763Z"
     },
     {
       "ID": 409680,
       "GUID": "F8C3230E-D2B6-4B71-992E-A8DAE0C464B5",
       "Title": "",
       "AgendaSequence": 0,
-      "MinutesSequence": 139,
+      "MinutesSequence": 134,
       "Version": "",
-      "MinutesNote": "Whereupon on motion of the Speaker (Council Member Adams), the Majority Leader and Acting President Pro Tempore (Council Member Farías) adjourned these proceedings to meet again for the Stated Meeting of Thursday, June 20, 2024.\r\n\r\n\r\n\r\nMICHAEL McSWEENEY, City Clerk\r\n\r\nClerk of the Council",
-      "LastModified": "2024-06-06T17:05:18.47Z"
+      "MinutesNote": "Whereupon on motion of the Speaker (Council Member Adams), the Majority Leader and Acting President Pro Tempore (Council Member Farías) adjourned these proceedings to meet again for the Stated Meeting of Thursday, June 20, 2024.\r\n\r\nMICHAEL McSWEENEY, City Clerk\r\nClerk of the Council",
+      "LastModified": "2024-06-06T22:50:53.763Z"
     },
     {
       "ID": 409682,
@@ -1978,8 +2566,8 @@
       "AgendaSequence": 0,
       "MinutesSequence": 3,
       "Version": "",
-      "MinutesNote": "The presence of a quorum was announced by the Majority Leader and Acting President Pro Tempore (Council Member Farías).\r\n\r\nThere were XX Council Members marked present at this Stated Meeting.",
-      "LastModified": "2024-06-06T17:04:50.417Z"
+      "MinutesNote": "The presence of a quorum was announced by the Majority Leader and Acting President Pro Tempore (Council Member Farías).\r\n\r\nThere were 51 Council Members marked present at this Stated Meeting.",
+      "LastModified": "2024-06-06T22:53:40.593Z"
     },
     {
       "ID": 409683,
@@ -1989,14 +2577,14 @@
       "MinutesSequence": 1,
       "Version": "",
       "MinutesNote": "The Majority Leader (Council Member Farías) presiding as the President Pro Tempore.",
-      "LastModified": "2024-06-06T17:02:06.533Z"
+      "LastModified": "2024-06-06T22:50:53.657Z"
     },
     {
       "ID": 409684,
       "GUID": "5B6C2C9D-9C64-4B8F-BF85-5BC58BC68717",
       "Title": "Application number C 230351 ZMK (2118 Avenue U) submitted by 2118 Avenue U, LLC, pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section No. 29a, eliminating from within an existing R4 District a C1-3 District, changing from an R4 District to an R6A District, and establishing within the proposed R6A District a C2-4 District, Borough of Brooklyn, Community District 15, Council District 48.",
       "AgendaSequence": 0,
-      "MinutesSequence": 131,
+      "MinutesSequence": 126,
       "Version": "*",
       "ActionID": 43,
       "ActionName": "Referred to Comm by Council",
@@ -2006,14 +2594,14 @@
       "MatterName": "Zoning, 2118 Avenue U, Brooklyn (C 230351 ZMK)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2024-06-06T17:02:06.713Z"
+      "LastModified": "2024-06-06T22:50:53.757Z"
     },
     {
       "ID": 409685,
       "GUID": "08092609-F247-495C-A1AA-CBC988FE26D8",
       "Title": "Application number N 230352 ZRK (2118 Avenue U) submitted by 2118 Avenue U, LLC, pursuant to Section 201 of the New York City Charter, for an amendment of the Zoning Resolution of the City of New York, modifying APPENDIX F for the purpose of establishing a Mandatory Inclusionary Housing area, Borough of Brooklyn, Community District 15, Council District 48.",
       "AgendaSequence": 0,
-      "MinutesSequence": 133,
+      "MinutesSequence": 128,
       "Version": "*",
       "ActionID": 43,
       "ActionName": "Referred to Comm by Council",
@@ -2023,14 +2611,14 @@
       "MatterName": "Zoning, 2118 Avenue U, Brooklyn (N 230352 ZRK)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2024-06-06T17:02:06.713Z"
+      "LastModified": "2024-06-06T22:50:53.76Z"
     },
     {
       "ID": 409686,
       "GUID": "022A1016-E15A-4905-8D6B-AEDA13E981A7",
       "Title": "Application number C 230276 ZMQ (58-75 Queens Midtown Expressway Rezoning) submitted by Lucky Supply Holding, LLC, pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section No. 13c, by changing from an M1-1 District to an M1-4 District, Borough of Queens, Community District 2, Council District 26.",
       "AgendaSequence": 0,
-      "MinutesSequence": 135,
+      "MinutesSequence": 130,
       "Version": "*",
       "ActionID": 43,
       "ActionName": "Referred to Comm by Council",
@@ -2040,14 +2628,14 @@
       "MatterName": "Zoning, 58-75 Queens Midtown Expressway Rezoning, Queens (C 230276 ZMQ)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2024-06-06T17:02:06.717Z"
+      "LastModified": "2024-06-06T22:50:53.76Z"
     },
     {
       "ID": 409687,
       "GUID": "F3D60B91-DF80-4FEE-A988-FE2D8A97BD94",
       "Title": "Application number C 220185 ZMQ (27-24 College Point Boulevard Commercial Overlay) submitted by Bacele Realty Corp., pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section No. 10a, by establishing within an existing R4 District a C2-3 District and establishing within an existing R5B District a C2-3 District, Borough of Queens, Community District 7, Council District 19.",
       "AgendaSequence": 0,
-      "MinutesSequence": 137,
+      "MinutesSequence": 132,
       "Version": "*",
       "ActionID": 43,
       "ActionName": "Referred to Comm by Council",
@@ -2057,46 +2645,80 @@
       "MatterName": "Zoning, 27-24 College Point Boulevard Commercial Overlay, Queens (C 220185 ZMQ)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2024-06-06T17:02:06.72Z"
-    },
-    {
-      "ID": 409688,
-      "GUID": "D5305398-EB27-4B9F-A834-46AB3737E6BC",
-      "Title": "",
-      "AgendaSequence": 0,
-      "MinutesSequence": 81,
-      "Version": "",
-      "LastModified": "2024-06-06T17:03:20.2Z"
-    },
-    {
-      "ID": 409689,
-      "GUID": "4ACD9B3D-0980-4BA8-8079-ED7963051F36",
-      "Title": "",
-      "AgendaSequence": 0,
-      "MinutesSequence": 82,
-      "Version": "",
-      "LastModified": "2024-06-06T17:03:22.85Z"
-    },
-    {
-      "ID": 409690,
-      "GUID": "4C4CC1F1-62E1-4AF2-8986-58D12943423F",
-      "Title": "",
-      "AgendaSequence": 0,
-      "MinutesSequence": 83,
-      "Version": "",
-      "LastModified": "2024-06-06T17:03:22.94Z"
+      "LastModified": "2024-06-06T22:50:53.763Z"
     },
     {
       "ID": 409691,
       "GUID": "B5300032-799A-4187-822B-BFB2AB9B1FCC",
+      "Title": "Motion - Home Rule Messages pursuant to Rule 9.60 and make a motion pursuant to Rule 8.00 to place the Home Rule messages and the Report of the Committee on Government Operations on the agenda after the Invocation.   Pursuant rule 9.160 such motion would not be debatable.  \r\n \r\nRule 8.00 provides the order of business may be change\r\n",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "MatterID": 74413,
+      "MatterFile": "Motion 0001-2024",
+      "MatterName": "Motion -",
+      "MatterType": "Motion",
+      "MatterStatus": "Draft",
+      "LastModified": "2024-06-06T22:50:53.66Z"
+    },
+    {
+      "ID": 409702,
+      "GUID": "A7701242-14CF-49A6-BAFB-A0B351B8B649",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 65,
+      "Version": "",
+      "MinutesNote": "The Majority Leader (Council Member Farías) presiding as the President Pro Tempore.",
+      "LastModified": "2024-06-06T22:50:53.707Z"
+    },
+    {
+      "ID": 409703,
+      "GUID": "48F917FA-5E7D-441D-9C9C-2F93B8A8479C",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 67,
+      "Version": "",
+      "MinutesNote": "The following files were removed from the General Orders Calendar and voted separately:\r\n\r\nInt. No. 908-A,  VOTE: 46-4-0\r\nNegative: Council Members Hanks, Paladino, Yeger, and the Minority Leader (Council Member Borelli)\r\nPresent but Not Voting: Council Member Vernikov.\r\n\r\nL.U. No. 55 & Res. No. 463,  VOTE: 34-16-0\r\nNegative: Ariola, Banks, Carr, Dinowitz, Hanks, Holden, Lee, Louis, Marmorato, Mealy, Narcisse, Nurse, Paladino, Yeger, Zhuang, and the Minority Leader (Council Member Borelli).\r\n\r\nL.U. No. 56 & Res. No. 464,  VOTE: 35-15-0\r\nNegative: Ariola, Banks, Carr, Dinowitz, Hanks, Holden, Lee, Louis, Marmorato, Mealy, Narcisse, Paladino, Yeger, Zhuang, and the Minority Leader (Council Member Borelli).\r\n",
+      "LastModified": "2024-06-06T22:50:53.707Z"
+    },
+    {
+      "ID": 409704,
+      "GUID": "F7D121D5-108F-4B29-8C3C-0837279738F3",
       "Title": "",
       "AgendaSequence": 0,
       "MinutesSequence": 5,
       "Version": "",
-      "LastModified": "2024-06-06T17:12:59.74Z"
+      "MinutesNote": "\r\n\r\nAt this point, the Majority Leader (Council Member Farías) made a Motion to move pursuant to Rule 9.60 of the Council Rules to separate the Home Rule Message items SLR numbers 8 to 14 of 2024 from the General Orders  for consideration and a vote.  She reminded those assembled that this motion was not open to debate.  The Majority Leader (Council Member Farías) asked for a voice-vote on the motion:",
+      "LastModified": "2024-06-06T22:56:13.157Z"
+    },
+    {
+      "ID": 409706,
+      "GUID": "4F70A1D3-94CA-4561-A604-584895337BBB",
+      "Title": "Passed The Consent Agenda",
+      "AgendaSequence": 0,
+      "MinutesSequence": 14,
+      "Version": "",
+      "ActionText": "A motion was made that these files be approved by consent vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
+      "LastModified": "2024-06-06T22:50:53.667Z"
+    },
+    {
+      "ID": 409707,
+      "GUID": "9F43A2C5-94D0-46D4-9FBA-48844AD1820A",
+      "Title": "Passed The Consent Agenda",
+      "AgendaSequence": 0,
+      "MinutesSequence": 66,
+      "Version": "",
+      "ActionText": "A motion was made that these files be approved by consent vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
+      "LastModified": "2024-06-06T22:50:53.707Z"
     }
   ],
   "AgendaLastPublished": "2024-06-06T15:27:00.257Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-06-06T15:27:00.3Z"
+  "MinutesLastPublished": "2024-06-06T22:57:01.657Z",
+  "LastModified": "2024-06-06T22:57:01.79Z"
 }
