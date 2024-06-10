@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/6/20872_A_Committee_on_Higher_Education_24-06-10_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/6/20872_M_Committee_on_Higher_Education_24-06-10_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_240610-140523.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20872&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,17 +20,89 @@
       "GUID": "5105E19F-5742-4797-BB1A-52BFF59240CB",
       "Title": "Oversight - Addressing Obstacles Facing CUNY’s Transfer Students.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 74259,
       "MatterFile": "T2024-1969",
       "MatterName": "Oversight - Addressing Obstacles Facing CUNY’s Transfer Students.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-05-31T20:07:29.787Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-06-10T17:58:29.61Z"
+    },
+    {
+      "ID": 409751,
+      "GUID": "96D4E995-2DFB-48E8-BC76-EB4877F68E94",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        }
+      ],
+      "LastModified": "2024-06-10T20:20:04.387Z"
+    },
+    {
+      "ID": 409752,
+      "GUID": "D8877236-6AB4-4362-8557-578D58A77091",
+      "Title": "Oversight - Addressing Obstacles Facing CUNY’s Transfer Students.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 74259,
+      "MatterFile": "T2024-1969",
+      "MatterName": "Oversight - Addressing Obstacles Facing CUNY’s Transfer Students.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-06-10T20:25:16.007Z"
     }
   ],
   "AgendaLastPublished": "2024-05-31T20:10:14.963Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-05-31T20:10:15.103Z"
+  "MinutesLastPublished": "2024-06-10T20:25:22.3Z",
+  "LastModified": "2024-06-10T20:25:22.547Z"
 }
