@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/6/20820_A_Committee_on_Consumer_and_Worker_Protection_24-06-12_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/6/20820_M_Committee_on_Consumer_and_Worker_Protection_24-06-12_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-250-16_240612-154452.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20820&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,16 +20,113 @@
       "GUID": "37F9168E-D584-4220-B808-B08B124F6E69",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the fees charged in a residential rental real estate transaction",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 73003,
       "MatterFile": "Int 0360-2024",
       "MatterName": "The fees charged in a residential rental real estate transaction.",
       "MatterType": "Introduction",
-      "LastModified": "2024-06-06T13:45:14.71Z"
+      "LastModified": "2024-06-12T20:46:50.53Z"
+    },
+    {
+      "ID": 409869,
+      "GUID": "BECB6508-5471-4695-90C6-D8650430E966",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 66,
+          "Value": "Parental ",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2024-06-12T20:46:06.843Z"
+    },
+    {
+      "ID": 409870,
+      "GUID": "A850F83F-5FDD-48CA-AFA2-E96DC8735621",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the fees charged in a residential rental real estate transaction",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 73003,
+      "MatterFile": "Int 0360-2024",
+      "MatterName": "The fees charged in a residential rental real estate transaction.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-06-12T20:46:56.51Z"
+    },
+    {
+      "ID": 409871,
+      "GUID": "5219AAB7-A028-41C1-8100-70C2EF135464",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Aviles, Marte, De La Rosa, Nurse, Hudson, Powers and Public Advocate Williams.  ",
+      "LastModified": "2024-06-12T20:46:46.767Z"
     }
   ],
-  "AgendaLastPublished": "2024-04-19T17:39:40.69Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-06-12T14:07:43.137Z"
+  "AgendaLastPublished": "2024-06-12T18:58:21.72Z",
+  "MinutesLastPublished": "2024-06-12T22:03:34.243Z",
+  "LastModified": "2024-06-12T22:03:34.47Z"
 }
