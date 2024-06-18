@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/6/20956_A_Committee_on_Health_24-06-18_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/6/20956_M_Committee_on_Health_24-06-18_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-250-16_240618-101451.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20956&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,46 +20,237 @@
       "GUID": "68E304AF-9109-4EFF-8CCE-E6BC02F4FD39",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring family building benefits for city employees",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 6,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 73780,
       "MatterFile": "Int 0718-2024",
       "MatterName": "Requiring family building benefits for city employees.",
       "MatterType": "Introduction",
-      "LastModified": "2024-06-14T17:14:50.133Z"
+      "LastModified": "2024-06-18T16:39:24.733Z"
     },
     {
       "ID": 409744,
       "GUID": "09F6BA12-20A8-4CA0-802D-E8D7F83B9391",
       "Title": "Resolution calling upon New York State Legislature to pass, and the Governor to sign, S-6118-A/A-6177-A, known as the Equity in Fertility Treatment Act.",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 8,
       "Version": "*",
       "AgendaNote": "Proposed Res. No. 165-A",
       "MinutesNote": "Proposed Res. No. 165-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 73079,
       "MatterFile": "Res 0165-2024",
       "MatterName": "Equity in Fertility Treatment Act (S.6118-A/A.6177-A)",
       "MatterType": "Resolution",
-      "LastModified": "2024-06-14T17:14:50.137Z"
+      "LastModified": "2024-06-18T16:39:28.33Z"
     },
     {
       "ID": 409791,
       "GUID": "79D59835-61E3-4852-9306-0BE2BD71CEEC",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to expanding availability of rapid testing for sexually transmitted infections",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 435-A",
       "MinutesNote": "Proposed Int. No. 435-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 72897,
       "MatterFile": "Int 0435-2024",
       "MatterName": "Expanding availability of rapid testing for sexually transmitted infections.",
       "MatterType": "Introduction",
-      "LastModified": "2024-06-14T17:17:26.777Z"
+      "LastModified": "2024-06-18T16:39:17.03Z"
+    },
+    {
+      "ID": 410184,
+      "GUID": "83CBBFD5-EFAE-43CC-B5F8-904E42ACF98A",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7749,
+          "Slug": "kalman-yeger",
+          "FullName": "Kalman Yeger",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 90
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        }
+      ],
+      "LastModified": "2024-06-18T16:42:41.713Z"
+    },
+    {
+      "ID": 410185,
+      "GUID": "6C5D1D6C-9DC0-4557-9061-B639573E7AD9",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to expanding availability of rapid testing for sexually transmitted infections",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 72897,
+      "MatterFile": "Int 0435-2024",
+      "MatterName": "Expanding availability of rapid testing for sexually transmitted infections.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-06-18T16:39:21.33Z"
+    },
+    {
+      "ID": 410186,
+      "GUID": "AE248B55-6875-4C82-8D75-43FBACDA7ED5",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to expanding availability of rapid testing for sexually transmitted infections",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 72897,
+      "MatterFile": "Int 0435-2024",
+      "MatterName": "Expanding availability of rapid testing for sexually transmitted infections.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-06-18T16:43:07.55Z"
+    },
+    {
+      "ID": 410187,
+      "GUID": "3A71B39A-731B-490F-AF9C-86F9728D3410",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring family building benefits for city employees",
+      "AgendaSequence": 0,
+      "MinutesSequence": 7,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 73780,
+      "MatterFile": "Int 0718-2024",
+      "MatterName": "Requiring family building benefits for city employees.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-06-18T16:43:11.23Z"
+    },
+    {
+      "ID": 410188,
+      "GUID": "3A199F1C-7D9E-4064-A405-B46603D06BF6",
+      "Title": "Resolution calling upon New York State Legislature to pass, and the Governor to sign, S-6118-A/A-6177-A, known as the Equity in Fertility Treatment Act.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 9,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Resolution was Amendment Proposed by Comm",
+      "MatterID": 73079,
+      "MatterFile": "Res 0165-2024",
+      "MatterName": "Equity in Fertility Treatment Act (S.6118-A/A.6177-A)",
+      "MatterType": "Resolution",
+      "LastModified": "2024-06-18T16:39:33.353Z"
+    },
+    {
+      "ID": 410189,
+      "GUID": "31D69643-F27C-4D27-8F70-C4287B0445C5",
+      "Title": "Resolution calling upon New York State Legislature to pass, and the Governor to sign, S-6118-A/A-6177-A, known as the Equity in Fertility Treatment Act.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 10,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 73079,
+      "MatterFile": "Res 0165-2024",
+      "MatterName": "Equity in Fertility Treatment Act (S.6118-A/A.6177-A)",
+      "MatterType": "Resolution",
+      "LastModified": "2024-06-18T16:43:17.41Z"
+    },
+    {
+      "ID": 410196,
+      "GUID": "D0B06CA6-439E-4108-B9E3-2595DA19974A",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending:  Sanchez and Restler",
+      "LastModified": "2024-06-18T16:43:02.29Z"
     }
   ],
   "AgendaLastPublished": "2024-06-14T17:17:33.403Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-06-14T17:17:33.577Z"
+  "MinutesLastPublished": "2024-06-18T16:43:21.657Z",
+  "LastModified": "2024-06-18T16:43:21.687Z"
 }

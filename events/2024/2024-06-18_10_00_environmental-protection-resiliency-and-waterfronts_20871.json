@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/6/20871_A_Committee_on_Environmental_Protection%2C_Resiliency_and_Waterfronts_24-06-18_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/6/20871_M_Committee_on_Environmental_Protection%2C_Resiliency_and_Waterfronts_24-06-18_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-250-14_240618-101733.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20871&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,43 +20,185 @@
       "GUID": "AB7B8679-1F2B-49FE-914F-381AE179E1A1",
       "Title": "Oversight - Lead Service Lines.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 74258,
       "MatterFile": "T2024-1968",
       "MatterName": "Oversight - Lead Service Lines.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-06-06T15:43:26.173Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-06-18T16:40:33.63Z"
     },
     {
       "ID": 409393,
       "GUID": "C3D1AD66-7FD6-4CFC-BC3F-D4FD5D9964BB",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the replacement of lead water service lines",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 74353,
       "MatterFile": "Int 0942-2024",
       "MatterName": "Replacement of lead water service lines.",
       "MatterType": "Introduction",
-      "LastModified": "2024-06-06T15:43:51.967Z"
+      "LastModified": "2024-06-18T16:40:36.493Z"
     },
     {
       "ID": 409396,
       "GUID": "1A75EF51-F387-455C-B5F0-0DD0C0C45CD1",
       "Title": "Resolution calling upon the New York State Department of Health and New York State Environmental Facilities Corporation to fairly allocate grants and loans for lead service line replacement approved in the Federal Bipartisan Infrastructure Law and to remove all rules preventing New York City from receiving a fair share of this funding.",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 6,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 72504,
       "MatterFile": "Res 0008-2024",
       "MatterName": "NYS Department of Health and NYS Environmental Facilities Corporation to fairly allocate grants and loans for lead service line replacement approved in the Federal Bipartisan Infrastructure Law and to remove all rules preventing NYC from receiving a fair",
       "MatterType": "Resolution",
-      "LastModified": "2024-06-03T16:20:56.717Z"
+      "LastModified": "2024-06-18T16:40:39.15Z"
+    },
+    {
+      "ID": 410192,
+      "GUID": "1880EFF9-DFE9-4A7C-83BD-D5B1170CF240",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 30
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2024-06-18T16:40:50.443Z"
+    },
+    {
+      "ID": 410193,
+      "GUID": "4FFE2367-63C9-4CA9-AEAA-1C187BBB7E23",
+      "Title": "Oversight - Lead Service Lines.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 74258,
+      "MatterFile": "T2024-1968",
+      "MatterName": "Oversight - Lead Service Lines.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-06-18T16:40:55.553Z"
+    },
+    {
+      "ID": 410194,
+      "GUID": "9C11B6AB-8E46-4F5E-BFF9-46E01D9460BC",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the replacement of lead water service lines",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 74353,
+      "MatterFile": "Int 0942-2024",
+      "MatterName": "Replacement of lead water service lines.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-06-18T16:40:58.607Z"
+    },
+    {
+      "ID": 410195,
+      "GUID": "D3597E33-959E-493C-8E39-82CE9A8BC439",
+      "Title": "Resolution calling upon the New York State Department of Health and New York State Environmental Facilities Corporation to fairly allocate grants and loans for lead service line replacement approved in the Federal Bipartisan Infrastructure Law and to remove all rules preventing New York City from receiving a fair share of this funding.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 7,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 72504,
+      "MatterFile": "Res 0008-2024",
+      "MatterName": "NYS Department of Health and NYS Environmental Facilities Corporation to fairly allocate grants and loans for lead service line replacement approved in the Federal Bipartisan Infrastructure Law and to remove all rules preventing NYC from receiving a fair",
+      "MatterType": "Resolution",
+      "LastModified": "2024-06-18T17:10:40.227Z"
     }
   ],
   "AgendaLastPublished": "2024-06-06T15:43:57.157Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-06-06T15:43:57.41Z"
+  "MinutesLastPublished": "2024-06-18T17:10:45.347Z",
+  "LastModified": "2024-06-18T17:10:45.38Z"
 }
