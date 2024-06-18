@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/6/20935_A_Committee_on_Veterans_24-06-18_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/6/20935_M_Committee_on_Veterans_24-06-18_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-250-14_240618-130515.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20935&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -27,7 +29,7 @@
       "MatterFile": "T2024-2062",
       "MatterName": "Oversight - Promising Therapies for Veterans’ Mental and Emotional Health.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Filed",
       "LastModified": "2024-06-18T17:13:10.977Z"
     },
     {
@@ -69,7 +71,50 @@
       "AgendaSequence": 0,
       "MinutesSequence": 1,
       "Version": "",
-      "LastModified": "2024-06-18T17:13:06.703Z"
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        }
+      ],
+      "LastModified": "2024-06-18T20:53:57.083Z"
     },
     {
       "ID": 410213,
@@ -78,12 +123,15 @@
       "AgendaSequence": 0,
       "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
       "MatterID": 74357,
       "MatterFile": "T2024-2062",
       "MatterName": "Oversight - Promising Therapies for Veterans’ Mental and Emotional Health.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-06-18T17:12:58.273Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-06-18T20:54:06.013Z"
     },
     {
       "ID": 410214,
@@ -92,11 +140,14 @@
       "AgendaSequence": 0,
       "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
       "MatterID": 74302,
       "MatterFile": "Res 0440-2024",
       "MatterName": "Enact the Fair Access to Co-ops for Veterans Act of 2024 (H.R. 7703)",
       "MatterType": "Resolution",
-      "LastModified": "2024-06-18T17:13:02.123Z"
+      "LastModified": "2024-06-18T20:54:13.707Z"
     },
     {
       "ID": 410215,
@@ -105,14 +156,17 @@
       "AgendaSequence": 0,
       "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
       "MatterID": 74261,
       "MatterFile": "Res 0441-2024",
       "MatterName": "Designating March 29 annually as Vietnam Veterans Day in the City of New York.",
       "MatterType": "Resolution",
-      "LastModified": "2024-06-18T17:13:04.797Z"
+      "LastModified": "2024-06-18T20:54:38.347Z"
     }
   ],
   "AgendaLastPublished": "2024-06-10T14:10:17.28Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-06-18T17:05:16.597Z"
+  "MinutesLastPublished": "2024-06-18T20:54:45.32Z",
+  "LastModified": "2024-06-18T20:54:45.613Z"
 }
