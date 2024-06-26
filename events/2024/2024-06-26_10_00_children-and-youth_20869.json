@@ -8,10 +8,13 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/6/20869_A_Committee_on_Children_and_Youth_24-06-26_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/6/20869_M_Committee_on_Children_and_Youth_24-06-26_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Criminal Justice.",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_240626-101237.mp4",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_240626-101237.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20869&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -30,12 +33,15 @@
       "AgendaSequence": 1,
       "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 74362,
       "MatterFile": "T2024-2067",
       "MatterName": "Oversight - Coordinating the Administration’s Youth Decarceration Plan.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-06-13T20:05:42.023Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-06-26T18:44:18.653Z"
     },
     {
       "ID": 409902,
@@ -44,11 +50,14 @@
       "AgendaSequence": 2,
       "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 72517,
       "MatterFile": "Int 0087-2024",
       "MatterName": "Requiring the administration for children’s services and the department of probation to report on juvenile justice statistics.",
       "MatterType": "Introduction",
-      "LastModified": "2024-06-18T13:14:31.2Z"
+      "LastModified": "2024-06-26T18:44:26.723Z"
     },
     {
       "ID": 410149,
@@ -57,11 +66,14 @@
       "AgendaSequence": 3,
       "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 74426,
       "MatterFile": "Int 0977-2024",
       "MatterName": "Requiring the department of probation to report on technical probation violations and all programming offered by the department.",
       "MatterType": "Introduction",
-      "LastModified": "2024-06-18T13:14:39.857Z"
+      "LastModified": "2024-06-26T18:52:15.823Z"
     },
     {
       "ID": 410452,
@@ -70,7 +82,58 @@
       "AgendaSequence": 0,
       "MinutesSequence": 1,
       "Version": "",
-      "LastModified": "2024-06-26T16:24:31.877Z"
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 50
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        }
+      ],
+      "LastModified": "2024-06-26T18:42:00.923Z"
     },
     {
       "ID": 410453,
@@ -79,8 +142,8 @@
       "AgendaSequence": 0,
       "MinutesSequence": 2,
       "Version": "",
-      "MinutesNote": "Other Council Members Attending: ",
-      "LastModified": "2024-06-26T16:24:41.773Z"
+      "MinutesNote": "Other Council Members Attending: Narcisse, Lee, Cabán, Restler, Avilés, Menin, Williams, Ayala, Hanif and Abreu",
+      "LastModified": "2024-06-26T18:44:15.22Z"
     },
     {
       "ID": 410454,
@@ -89,12 +152,15 @@
       "AgendaSequence": 0,
       "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
       "MatterID": 74362,
       "MatterFile": "T2024-2067",
       "MatterName": "Oversight - Coordinating the Administration’s Youth Decarceration Plan.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-06-26T16:24:21.177Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-06-26T18:44:22.2Z"
     },
     {
       "ID": 410455,
@@ -103,11 +169,14 @@
       "AgendaSequence": 0,
       "MinutesSequence": 6,
       "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
       "MatterID": 72517,
       "MatterFile": "Int 0087-2024",
       "MatterName": "Requiring the administration for children’s services and the department of probation to report on juvenile justice statistics.",
       "MatterType": "Introduction",
-      "LastModified": "2024-06-26T16:24:24.923Z"
+      "LastModified": "2024-06-26T18:51:41.113Z"
     },
     {
       "ID": 410456,
@@ -116,14 +185,17 @@
       "AgendaSequence": 0,
       "MinutesSequence": 8,
       "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
       "MatterID": 74426,
       "MatterFile": "Int 0977-2024",
       "MatterName": "Requiring the department of probation to report on technical probation violations and all programming offered by the department.",
       "MatterType": "Introduction",
-      "LastModified": "2024-06-26T16:24:29.2Z"
+      "LastModified": "2024-06-26T18:52:21.907Z"
     }
   ],
   "AgendaLastPublished": "2024-06-18T15:01:03.46Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-06-26T14:12:39.593Z"
+  "MinutesLastPublished": "2024-06-26T18:50:22.203Z",
+  "LastModified": "2024-06-26T18:50:22.377Z"
 }

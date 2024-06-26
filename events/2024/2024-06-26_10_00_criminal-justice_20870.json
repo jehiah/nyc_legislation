@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/6/20870_A_Committee_on_Criminal_Justice_24-06-26_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/6/20870_M_Committee_on_Criminal_Justice_24-06-26_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Children and Youth",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_240626-101237.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20870&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,52 +21,204 @@
       "GUID": "E3AB499C-0EAE-4809-A69A-62452B74BE48",
       "Title": "Jointly with the Committee on Children and Youth",
       "AgendaSequence": 4,
-      "MinutesSequence": 4,
+      "MinutesSequence": 9,
       "Version": "",
-      "LastModified": "2024-06-18T13:14:00.613Z"
+      "LastModified": "2024-06-26T16:23:40.91Z"
     },
     {
       "ID": 409299,
       "GUID": "628A237B-B404-4C32-ACD9-98BCD5007C1C",
       "Title": "Oversight - Coordinating the Administration’s Youth Decarceration Plan.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 74363,
       "MatterFile": "T2024-2068",
       "MatterName": "Oversight - Coordinating the Administration’s Youth Decarceration Plan.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-06-20T13:43:57.183Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-06-26T17:50:32.31Z"
     },
     {
       "ID": 409900,
       "GUID": "D168D052-0D48-48D5-ACBE-29D10B3AF407",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the administration for children’s services and the department of probation to report on juvenile justice statistics",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 72517,
       "MatterFile": "Int 0087-2024",
       "MatterName": "Requiring the administration for children’s services and the department of probation to report on juvenile justice statistics.",
       "MatterType": "Introduction",
-      "LastModified": "2024-06-18T13:14:00.41Z"
+      "LastModified": "2024-06-26T18:51:46.317Z"
     },
     {
       "ID": 410148,
       "GUID": "04DF7AA0-DAAB-41FA-9017-845FF32BAD2F",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of probation to report on technical probation violations and all programming offered by the department",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 74426,
       "MatterFile": "Int 0977-2024",
       "MatterName": "Requiring the department of probation to report on technical probation violations and all programming offered by the department.",
       "MatterType": "Introduction",
-      "LastModified": "2024-06-18T13:14:08.42Z"
+      "LastModified": "2024-06-26T17:50:48.743Z"
+    },
+    {
+      "ID": 410447,
+      "GUID": "CDA11018-F320-4631-A459-77165B207F2F",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2024-06-26T17:50:08.047Z"
+    },
+    {
+      "ID": 410448,
+      "GUID": "41B58BAB-2ED1-4E17-AEE2-2FD822B10BA8",
+      "Title": "Oversight - Coordinating the Administration’s Youth Decarceration Plan.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 74363,
+      "MatterFile": "T2024-2068",
+      "MatterName": "Oversight - Coordinating the Administration’s Youth Decarceration Plan.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-06-26T17:50:35.58Z"
+    },
+    {
+      "ID": 410449,
+      "GUID": "1FB253E1-7C66-487C-9979-1C61D7F8996C",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the administration for children’s services and the department of probation to report on juvenile justice statistics",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 72517,
+      "MatterFile": "Int 0087-2024",
+      "MatterName": "Requiring the administration for children’s services and the department of probation to report on juvenile justice statistics.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-06-26T18:51:52.017Z"
+    },
+    {
+      "ID": 410450,
+      "GUID": "24D203B4-D129-4F52-B0C6-063E03F67033",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of probation to report on technical probation violations and all programming offered by the department",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 74426,
+      "MatterFile": "Int 0977-2024",
+      "MatterName": "Requiring the department of probation to report on technical probation violations and all programming offered by the department.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-06-26T18:52:10.637Z"
+    },
+    {
+      "ID": 410451,
+      "GUID": "7AF749B6-469A-42AD-A5CA-8E9734B4D225",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Lee, Aviles, Menin, Williams, Joseph and Salaam",
+      "LastModified": "2024-06-26T17:50:29.027Z"
     }
   ],
   "AgendaLastPublished": "2024-06-20T13:44:05.16Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-06-20T13:44:05.19Z"
+  "MinutesLastPublished": "2024-06-26T17:51:01.64Z",
+  "LastModified": "2024-06-26T17:51:01.707Z"
 }
