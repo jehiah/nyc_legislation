@@ -6,8 +6,8 @@
   "Title": "Application No. G 240054 NUR (Resilient Homes Staten Island) submitted by the New York City Department of Housing Preservation and Development, pursuant to Article 16 of the General Municipal Law for approval of a real property tax exemption, urban development action area project, and waiver of the area designation requirement and Section 197-c and 197-d of the New York City Charter, for fifteen properties (Tax Map Block 3124, Lot 116; Block 3728, Lot 20; Block 3734, Lots 38, 39, and 41; Block 3736, Lot 20; Block 3738, Lots 5 and 6; Block 3795, Lot 37 (Tentative Lots 37 and 38); Block 3802, Lot 5; Block 3873, Lot 28; Block 3881, Lot 1 (Tentative Lots 1 and 3); Block 3884, Lots 14 and 15 (Tentative Lot 14)) located in the Borough of Staten Island, Community District 2, Council District 50.",
   "TypeID": 10,
   "TypeName": "Land Use Application",
-  "StatusID": 25,
-  "StatusName": "Laid Over in Committee",
+  "StatusID": 3,
+  "StatusName": "Committee",
   "BodyID": 5261,
   "BodyName": "Subcommittee on Landmarks, Public Sitings and Dispositions",
   "IntroDate": "2024-06-20T00:00:00Z",
@@ -95,12 +95,106 @@
       "Version": "*",
       "MatterStatusID": 3,
       "LastModified": "2024-06-20T16:31:12.71Z"
+    },
+    {
+      "ID": 410307,
+      "Date": "2024-06-26T13:00:00Z",
+      "ActionID": 54,
+      "Action": "Hearing Held by Committee",
+      "Description": "This Land Use Application was Hearing Held by Committee",
+      "BodyID": 5261,
+      "BodyName": "Subcommittee on Landmarks, Public Sitings and Dispositions",
+      "EventID": 20886,
+      "AgendaSequence": 2,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "MatterStatusID": 25,
+      "LastModified": "2024-06-26T17:24:15.583Z"
+    },
+    {
+      "ID": 410484,
+      "Date": "2024-06-26T13:00:00Z",
+      "ActionID": 79,
+      "Action": "Approved by Subcommittee",
+      "Description": "This Land Use Application was Approved by Subcommittee",
+      "BodyID": 5261,
+      "BodyName": "Subcommittee on Landmarks, Public Sitings and Dispositions",
+      "EventID": 20886,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterStatusID": 3,
+      "Votes": [
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 10
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 20
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 30
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "VoteID": 46,
+          "Vote": "Medical",
+          "Sort": 40
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 50
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "VoteID": 43,
+          "Vote": "Conflict",
+          "Sort": 60
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2024-06-26T17:28:32.85Z"
     }
   ],
   "Attachments": [
     {
       "ID": 303020,
-      "LastModified": "2024-06-11T21:59:31.737Z",
+      "LastModified": "2024-06-26T14:05:38.603Z",
       "Name": "Calendar of the Landmarks Subcommittee Meeting - June 12, 2024",
       "Link": "https://nyc.legistar1.com/nyc/attachments/b40ed1f6-4f8e-446e-a0b7-6a9f2c05164b.pdf",
       "Sort": 1
@@ -113,21 +207,21 @@
       "Sort": 2
     },
     {
-      "ID": 305008,
-      "LastModified": "2024-06-25T13:52:11.327Z",
+      "ID": 305063,
+      "LastModified": "2024-06-26T14:05:40.533Z",
       "Name": "Calendar of the Subcommittee Meetings  - June 26, 2024",
-      "Link": "https://nyc.legistar1.com/nyc/attachments/1bf41d04-a35a-4bc0-a4ae-a5753080f16c.pdf",
-      "Sort": 3
+      "Link": "https://nyc.legistar1.com/nyc/attachments/0442e138-f0b7-473b-b3ad-8deb54fa28d6.pdf",
+      "Sort": 4
     },
     {
       "ID": 305015,
-      "LastModified": "2024-06-25T13:53:26.2Z",
+      "LastModified": "2024-06-26T14:05:39.72Z",
       "Name": "Calendar of the Land Use Meeting - June 26, 2024",
       "Link": "https://nyc.legistar1.com/nyc/attachments/1f00cdd7-47c4-469d-9de8-6448b654ff92.pdf",
-      "Sort": 4
+      "Sort": 5
     }
   ],
   "Summary": "",
   "TextID": 78015,
-  "LastModified": "2024-06-25T13:53:26.2Z"
+  "LastModified": "2024-06-26T17:24:20.047Z"
 }
