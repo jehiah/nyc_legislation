@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/7/21000_A_Committee_on_Education_24-07-17_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/7/21000_M_Committee_on_Education_24-07-17_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21000&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,31 +20,221 @@
       "GUID": "A786317C-EDFB-4126-97F0-311D975D5287",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to posting information and reporting on dress code policies in New York city public schools, and to repeal section two of such local law upon the expiration thereof",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 118-A",
       "MinutesNote": "Proposed Int. No. 118-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 73407,
       "MatterFile": "Int 0118-2024",
       "MatterName": "Posting information and reporting on dress code policies in NYC public schools, and to repeal section two of such local law upon the expiration thereof.",
       "MatterType": "Introduction",
-      "LastModified": "2024-07-12T18:25:29.89Z"
+      "LastModified": "2024-07-17T15:42:11.563Z"
     },
     {
       "ID": 410903,
       "GUID": "22AAC756-8615-48E3-A524-9DACBC078773",
       "Title": "Resolution calling on the New York City Department of Education to create an inclusive school dress code policy that complies with Title IX of the Federal Education Amendments Act and accounts for diverse cultures, gender expressions and body diversity.",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 6,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 71019,
       "MatterFile": "Res 0292-2024",
       "MatterName": "Department of Education to create an inclusive school dress code policy that complies with Title IX of the Federal Education Amendments Act and accounts for diverse cultures, gender expressions and body diversity.",
       "MatterType": "Resolution",
-      "LastModified": "2024-07-12T20:10:15.977Z"
+      "LastModified": "2024-07-17T15:42:19.3Z"
+    },
+    {
+      "ID": 411093,
+      "GUID": "DA63A54B-4770-4FA2-B830-28BFB8F95BE6",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 30
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 110
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 130
+        }
+      ],
+      "LastModified": "2024-07-17T15:52:45.857Z"
+    },
+    {
+      "ID": 411094,
+      "GUID": "A497273D-D2C2-40DC-9A37-A2CC4676D6FC",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to posting information and reporting on dress code policies in New York city public schools, and to repeal section two of such local law upon the expiration thereof",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 73407,
+      "MatterFile": "Int 0118-2024",
+      "MatterName": "Posting information and reporting on dress code policies in NYC public schools, and to repeal section two of such local law upon the expiration thereof.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-07-17T15:42:16.08Z"
+    },
+    {
+      "ID": 411095,
+      "GUID": "3A319607-6FEF-454E-B458-1D305D47E325",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to posting information and reporting on dress code policies in New York city public schools, and to repeal section two of such local law upon the expiration thereof",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 73407,
+      "MatterFile": "Int 0118-2024",
+      "MatterName": "Posting information and reporting on dress code policies in NYC public schools, and to repeal section two of such local law upon the expiration thereof.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-07-17T15:52:52.813Z"
+    },
+    {
+      "ID": 411096,
+      "GUID": "55F64A37-C14B-4876-9EE8-CC4AAF88E132",
+      "Title": "Resolution calling on the New York City Department of Education to create an inclusive school dress code policy that complies with Title IX of the Federal Education Amendments Act and accounts for diverse cultures, gender expressions and body diversity.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 7,
+      "Version": "*",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Resolution be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 71019,
+      "MatterFile": "Res 0292-2024",
+      "MatterName": "Department of Education to create an inclusive school dress code policy that complies with Title IX of the Federal Education Amendments Act and accounts for diverse cultures, gender expressions and body diversity.",
+      "MatterType": "Resolution",
+      "LastModified": "2024-07-17T15:53:32.273Z"
+    },
+    {
+      "ID": 411097,
+      "GUID": "A5E5E449-AA75-4DF9-B4C3-9FA996CC807C",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to posting information and reporting on dress code policies in New York city public schools, and to repeal section two of such local law upon the expiration thereof",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 73407,
+      "MatterFile": "Int 0118-2024",
+      "MatterName": "Posting information and reporting on dress code policies in NYC public schools, and to repeal section two of such local law upon the expiration thereof.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-07-17T15:53:01.453Z"
     }
   ],
   "AgendaLastPublished": "2024-07-12T20:15:50.633Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-07-12T20:15:50.853Z"
+  "MinutesLastPublished": "2024-07-17T15:53:37.53Z",
+  "LastModified": "2024-07-17T15:53:37.557Z"
 }
