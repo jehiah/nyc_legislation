@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/7/21005_A_City_Council_24-07-18_Council_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/7/21005_M_City_Council_24-07-18_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_240718-140221.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21005&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -22,7 +24,418 @@
       "AgendaNumber": "1.",
       "Version": "",
       "AgendaNote": "ROLL CALL",
-      "LastModified": "2024-07-18T14:39:20.43Z"
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7739,
+          "Slug": "adrienne-e-adams",
+          "FullName": "Adrienne E. Adams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7264,
+          "Slug": "joseph-c-borelli",
+          "FullName": "Joseph C. Borelli",
+          "ValueID": 4,
+          "Value": "Excused",
+          "Sort": 70
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 110
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 4,
+          "Value": "Excused",
+          "Sort": 130
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 150
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 170
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 180
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 190
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 200
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 210
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 220
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 230
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 240
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 250
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 260
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 270
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 280
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 290
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 300
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 310
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 320
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 330
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 340
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 350
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 360
+        },
+        {
+          "ID": 7741,
+          "Slug": "keith-powers",
+          "FullName": "Keith Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 370
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 380
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 390
+        },
+        {
+          "ID": 7740,
+          "Slug": "carlina-rivera",
+          "FullName": "Carlina Rivera",
+          "ValueID": 66,
+          "Value": "Parental ",
+          "Sort": 400
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 410
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 420
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 430
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 440
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 450
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 460
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "ValueID": 4,
+          "Value": "Excused",
+          "Sort": 470
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 480
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 490
+        },
+        {
+          "ID": 7749,
+          "Slug": "kalman-yeger",
+          "FullName": "Kalman Yeger",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 500
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 510
+        }
+      ],
+      "LastModified": "2024-07-18T23:07:09.19Z"
     },
     {
       "ID": 410952,
@@ -34,7 +447,7 @@
       "Version": "",
       "AgendaNote": "INVOCATION - Delivered by: Rabbi Yirmi Levy, Sephardic Congeration of Mill Basin located at 2133 64th Street, Brooklyn, NY 11234.\r\n\r\nMotion to spread the Invocation in full upon the record by Council Member Narcisse.",
       "MinutesNote": "The Invocation was delivered by Rabbi Yirmi Levy, Sephardic Congregation of Mill Basin located at 2133 64th Street, Brooklyn, N.Y. 11234.\r\n\r\nCouncil Member Narcisse moved to spread the Invocation in full upon the Record.",
-      "LastModified": "2024-07-18T15:01:00.363Z"
+      "LastModified": "2024-07-18T23:07:09.193Z"
     },
     {
       "ID": 410953,
@@ -46,7 +459,7 @@
       "Version": "",
       "AgendaNote": "ADOPTION OF MINUTES - Motion that the Minutes of the Stated Meeting of June 20, 2024 be adopted as printed by Council Member Schulman.",
       "MinutesNote": "Council Member Schulman moved that the Minutes of the Stated Meeting of June 20, 2024 be adopted as printed.",
-      "LastModified": "2024-07-18T15:01:23.643Z"
+      "LastModified": "2024-07-18T23:07:09.193Z"
     },
     {
       "ID": 410954,
@@ -58,7 +471,7 @@
       "Version": "",
       "AgendaNote": "MESSAGES & PAPERS FROM THE MAYOR - None",
       "MinutesNote": "None.",
-      "LastModified": "2024-07-18T14:39:20.433Z"
+      "LastModified": "2024-07-18T23:07:09.193Z"
     },
     {
       "ID": 410955,
@@ -69,7 +482,7 @@
       "AgendaNumber": "5.",
       "Version": "",
       "AgendaNote": "COMMUNICATIONS FROM CITY, COUNTY & BOROUGH OFFICES",
-      "LastModified": "2024-07-18T15:07:47.65Z"
+      "LastModified": "2024-07-18T23:07:09.193Z"
     },
     {
       "ID": 410956,
@@ -87,7 +500,7 @@
       "MatterName": "Bronx Borough President's Office submitting their 2023 Bronx Community Board Demographics Report.",
       "MatterType": "Communication",
       "MatterStatus": "Received, Ordered, Printed and Filed",
-      "LastModified": "2024-07-18T14:50:10.78Z"
+      "LastModified": "2024-07-18T23:07:09.197Z"
     },
     {
       "ID": 410957,
@@ -99,7 +512,7 @@
       "Version": "",
       "AgendaNote": "PETITIONS & COMMUNICATIONS - None",
       "MinutesNote": "None.",
-      "LastModified": "2024-07-18T14:39:20.437Z"
+      "LastModified": "2024-07-18T23:07:09.197Z"
     },
     {
       "ID": 410958,
@@ -110,7 +523,7 @@
       "AgendaNumber": "7.",
       "Version": "",
       "AgendaNote": "LAND USE CALL-UPS",
-      "LastModified": "2024-07-18T14:39:20.437Z"
+      "LastModified": "2024-07-18T23:07:09.197Z"
     },
     {
       "ID": 410959,
@@ -120,12 +533,18 @@
       "MinutesSequence": 11,
       "Version": "*",
       "AgendaNote": "Coupled on Call-Up Vote",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Call-Up be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74575,
       "MatterFile": "M 0059-2024",
       "MatterName": "Zoning, Bronx Metro North Station Area Study, Bronx (C 240157 MMX, C 240158 MMX, C 240159 MMX, C 240160 MMX, C 240163 MMX, C 240015 ZMX and N 240016 ZRX)",
       "MatterType": "Land Use Call-Up",
-      "MatterStatus": "Coupled on Call-Up Vote",
-      "LastModified": "2024-07-18T15:07:53.683Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-07-18T23:07:09.2Z"
     },
     {
       "ID": 410960,
@@ -135,12 +554,18 @@
       "MinutesSequence": 12,
       "Version": "*",
       "AgendaNote": "Coupled on Call-Up Vote",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Call-Up be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74576,
       "MatterFile": "M 0060-2024",
       "MatterName": "Zoning, 500 Kent Avenue, Brooklyn (C 230294 ZSK, C 230296 ZSK and C 230293 ZMK)",
       "MatterType": "Land Use Call-Up",
-      "MatterStatus": "Coupled on Call-Up Vote",
-      "LastModified": "2024-07-18T15:07:54.42Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-07-18T23:07:09.2Z"
     },
     {
       "ID": 410961,
@@ -150,12 +575,18 @@
       "MinutesSequence": 13,
       "Version": "*",
       "AgendaNote": "Coupled on Call-Up Vote",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Call-Up be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74577,
       "MatterFile": "M 0061-2024",
       "MatterName": "Zoning, Prince's Point Development, Staten Island (C 230172 MMR and N 240120 ZRR)",
       "MatterType": "Land Use Call-Up",
-      "MatterStatus": "Coupled on Call-Up Vote",
-      "LastModified": "2024-07-18T15:07:55.18Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-07-18T23:07:09.2Z"
     },
     {
       "ID": 410962,
@@ -165,329 +596,413 @@
       "MinutesSequence": 14,
       "Version": "*",
       "AgendaNote": "Coupled on Call-Up Vote",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Call-Up be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74580,
       "MatterFile": "M 0062-2024",
       "MatterName": "Zoning, SWQ Wings & Seafood, Queens (D 2450087057)",
       "MatterType": "Land Use Call-Up",
-      "MatterStatus": "Coupled on Call-Up Vote",
-      "LastModified": "2024-07-18T14:49:27.19Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-07-18T23:07:09.2Z"
     },
     {
       "ID": 410963,
       "GUID": "1091216D-BB5A-426F-8785-F8AC9123E985",
       "Title": "Communication from the Speaker",
       "AgendaSequence": 13,
-      "MinutesSequence": 17,
+      "MinutesSequence": 18,
       "AgendaNumber": "8.",
       "Version": "",
       "AgendaNote": "COMMUNICATION FROM THE SPEAKER",
-      "LastModified": "2024-07-18T15:08:07.19Z"
+      "LastModified": "2024-07-18T23:07:09.203Z"
     },
     {
       "ID": 410964,
       "GUID": "9F48B841-167B-4E53-9B5F-E3FE6F0C16B8",
       "Title": "Discussion of General Orders",
       "AgendaSequence": 14,
-      "MinutesSequence": 18,
+      "MinutesSequence": 19,
       "AgendaNumber": "9.",
       "Version": "",
       "AgendaNote": "DISCUSSION OF GENERAL ORDERS",
-      "LastModified": "2024-07-18T15:08:08.103Z"
+      "LastModified": "2024-07-18T23:07:09.207Z"
     },
     {
       "ID": 410965,
       "GUID": "C9EC9733-3740-4DEE-A495-DEA7ABFDE6FE",
       "Title": "Reports of Special Committees",
       "AgendaSequence": 15,
-      "MinutesSequence": 19,
+      "MinutesSequence": 20,
       "AgendaNumber": "10.",
       "Version": "",
       "AgendaNote": "REPORTS OF SPECIAL COMMITTEES - None",
       "MinutesNote": "None.",
-      "LastModified": "2024-07-18T14:39:20.443Z"
+      "LastModified": "2024-07-18T23:07:09.207Z"
     },
     {
       "ID": 410966,
       "GUID": "6A5DD353-FC71-451E-A022-9C1C7A0792EC",
       "Title": "Reports of Standing Committees",
       "AgendaSequence": 16,
-      "MinutesSequence": 20,
+      "MinutesSequence": 21,
       "AgendaNumber": "11.",
       "Version": "",
       "AgendaNote": "REPORTS OF STANDING COMMITTEES",
-      "LastModified": "2024-07-18T15:08:09.88Z"
+      "LastModified": "2024-07-18T23:07:09.207Z"
     },
     {
       "ID": 410972,
       "GUID": "6457E05F-DE90-4060-A35A-B101A8F1EAEE",
       "Title": "Report of the Committee on Contracts",
       "AgendaSequence": 17,
-      "MinutesSequence": 21,
+      "MinutesSequence": 22,
       "Version": "",
       "AgendaNote": "REPORT OF THE COMMITTEE ON CONTRACTS",
-      "LastModified": "2024-07-18T14:39:20.443Z"
+      "LastModified": "2024-07-18T23:07:09.207Z"
     },
     {
       "ID": 410973,
       "GUID": "A2C101FC-555B-4A57-B26F-67AE6A17A779",
       "Title": "A Local Law to amend the New York city charter, in relation to expanding the application of procurement procedures for certain service contracts, and enhancing public notice requirements for changes to planned contract actions",
       "AgendaSequence": 18,
-      "MinutesSequence": 22,
+      "MinutesSequence": 23,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74202,
       "MatterFile": "Int 0863-2024",
       "MatterName": "Expanding the application of procurement procedures for certain service contracts, and enhancing public notice requirements for changes to planned contract actions",
       "MatterType": "Introduction",
-      "LastModified": "2024-07-18T15:08:16.453Z"
+      "LastModified": "2024-07-18T23:07:09.21Z"
     },
     {
       "ID": 410976,
       "GUID": "08178E4F-7740-4F0D-9358-5B69E0A49522",
       "Title": "Report of the Committee on Education",
       "AgendaSequence": 19,
-      "MinutesSequence": 23,
+      "MinutesSequence": 24,
       "Version": "",
       "AgendaNote": "REPORT OF THE COMMITTEE ON EDUCATION",
-      "LastModified": "2024-07-18T14:39:20.447Z"
+      "LastModified": "2024-07-18T23:07:09.21Z"
     },
     {
       "ID": 410977,
       "GUID": "98813FC0-6808-41FC-9023-D63ED5593C87",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to posting information and reporting on dress code policies in New York city public schools, and to repeal section two of such local law upon the expiration thereof",
       "AgendaSequence": 20,
-      "MinutesSequence": 24,
+      "MinutesSequence": 25,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 73407,
       "MatterFile": "Int 0118-2024",
       "MatterName": "Posting information and reporting on dress code policies in NYC public schools, and to repeal section two of such local law upon the expiration thereof.",
       "MatterType": "Introduction",
-      "LastModified": "2024-07-18T14:39:20.447Z"
+      "LastModified": "2024-07-18T23:07:09.21Z"
     },
     {
       "ID": 410978,
       "GUID": "FFE9312A-F882-485F-A31C-F1D0FF97360B",
       "Title": "Resolution calling on the New York City Department of Education to create an inclusive school dress code policy that complies with Title IX of the Federal Education Amendments Act and accounts for diverse cultures, gender expressions and body diversity.",
       "AgendaSequence": 58,
-      "MinutesSequence": 72,
+      "MinutesSequence": 73,
       "Version": "*",
       "AgendaNote": "Adopted by the Committee on Education",
+      "MinutesNote": "Pursuant to Rule 8.50 of the Council, Majority Leader and Acting President Pro Tempore (Council Member Farías) called for a voice vote.  Hearing those in favor, the Majority Leader and Acting President Pro Tempore (Council Member Farías) declared the Resolution to be adopted.\r\n\r\nThe following 4 Council Members formally noted their intention to vote negative on this item:  \r\nCouncil Members Ariola, Holden, Marmorato, and Paladino.\r\n\r\nThe following Council Member formally noted his intention to abstain from voting on this item: \r\nCouncil Member Yeger.\r\n\r\nAdopted by the Council by voice-vote.",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by voice vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 71019,
       "MatterFile": "Res 0292-2024",
       "MatterName": "Department of Education to create an inclusive school dress code policy that complies with Title IX of the Federal Education Amendments Act and accounts for diverse cultures, gender expressions and body diversity.",
       "MatterType": "Resolution",
-      "LastModified": "2024-07-18T14:39:20.517Z"
+      "LastModified": "2024-07-18T23:08:14.787Z"
     },
     {
       "ID": 410979,
       "GUID": "5891F647-CC04-4288-BD7F-FE59AD6876D0",
       "Title": "Report of the Committee on Finance",
       "AgendaSequence": 21,
-      "MinutesSequence": 25,
+      "MinutesSequence": 26,
       "Version": "",
       "AgendaNote": "REPORT OF THE COMMITTEE ON FINANCE",
-      "LastModified": "2024-07-18T14:39:20.447Z"
+      "LastModified": "2024-07-18T23:07:09.21Z"
     },
     {
       "ID": 410980,
       "GUID": "2E7C818E-F7CC-4CDC-9742-F92423747120",
       "Title": "Resolution approving an amendment to a previously approved real property tax exemption pursuant to Section 125(1)(a) of the Private Housing Finance Law for property located at (Block 1861, Lot 20), Brooklyn (Preconsidered L.U. No. 105).",
       "AgendaSequence": 22,
-      "MinutesSequence": 27,
+      "MinutesSequence": 28,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74543,
       "MatterFile": "Res 0509-2024",
       "MatterName": "LU 105 - Fulton Street South, Block 1861, Lot 20, Brooklyn, Community District No. 3, Council District No. 36.",
       "MatterType": "Resolution",
-      "LastModified": "2024-07-18T14:39:20.45Z"
+      "LastModified": "2024-07-18T23:07:09.213Z"
     },
     {
       "ID": 410984,
       "GUID": "6ABBCCE7-D9CB-4F57-A88F-6C0FAA06ECFB",
       "Title": "Report of the Committee on Health",
       "AgendaSequence": 23,
-      "MinutesSequence": 28,
+      "MinutesSequence": 29,
       "Version": "",
       "AgendaNote": "REPORT OF THE COMMITTEE ON HEALTH",
-      "LastModified": "2024-07-18T14:39:20.45Z"
+      "LastModified": "2024-07-18T23:07:09.213Z"
     },
     {
       "ID": 410985,
       "GUID": "9DD87407-4292-4B7E-AD66-2D829828E233",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to expanding availability of rapid testing for sexually transmitted infections",
       "AgendaSequence": 24,
-      "MinutesSequence": 29,
+      "MinutesSequence": 30,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 72897,
       "MatterFile": "Int 0435-2024",
       "MatterName": "Expanding availability of rapid testing for sexually transmitted infections.",
       "MatterType": "Introduction",
-      "LastModified": "2024-07-18T14:39:20.45Z"
+      "LastModified": "2024-07-18T23:07:09.213Z"
     },
     {
       "ID": 410986,
       "GUID": "88A19F03-EFA6-45A2-850A-C19E0A840C69",
       "Title": "Report of the Committee on Land Use",
       "AgendaSequence": 25,
-      "MinutesSequence": 30,
+      "MinutesSequence": 31,
       "Version": "",
       "AgendaNote": "REPORT OF THE COMMITTEE ON LAND USE",
-      "LastModified": "2024-07-18T14:39:20.453Z"
+      "LastModified": "2024-07-18T23:07:09.213Z"
     },
     {
       "ID": 410987,
       "GUID": "3184EDD4-0D28-4C08-818D-A4AB2FD2CD4C",
       "Title": "Resolution approving the decision of the City Planning Commission on ULURP No. C 230351 ZMK, a Zoning Map amendment (L.U. No. 90).",
       "AgendaSequence": 26,
-      "MinutesSequence": 32,
+      "MinutesSequence": 33,
       "Version": "*",
       "AgendaNote": "Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74483,
       "MatterFile": "Res 0510-2024",
       "MatterName": "LU 90 - Zoning, 2118 Avenue U, Brooklyn (C 230351 ZMK)",
       "MatterType": "Resolution",
-      "LastModified": "2024-07-18T14:39:20.453Z"
+      "LastModified": "2024-07-18T23:07:09.217Z"
     },
     {
       "ID": 410988,
       "GUID": "14AFE68F-8A6D-49F5-B844-BD0CE8E3377F",
       "Title": "Resolution approving the decision of the City Planning Commission on Application No. N 230352 ZRK, for an amendment of the text of the Zoning Resolution (L.U. No. 91).",
       "AgendaSequence": 27,
-      "MinutesSequence": 34,
+      "MinutesSequence": 35,
       "Version": "*",
       "AgendaNote": "Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74484,
       "MatterFile": "Res 0511-2024",
       "MatterName": "LU 91 - Zoning, 2118 Avenue U, Brooklyn (N 230352 ZRK)",
       "MatterType": "Resolution",
-      "LastModified": "2024-07-18T14:39:20.457Z"
+      "LastModified": "2024-07-18T23:07:09.22Z"
     },
     {
       "ID": 410989,
       "GUID": "56BA9383-31DF-48B2-A4FB-840FF1D28CFD",
       "Title": "Resolution approving the decision of the City Planning Commission on ULURP No. C 230276 ZMQ, a Zoning Map amendment (L.U. No. 92).",
       "AgendaSequence": 28,
-      "MinutesSequence": 36,
+      "MinutesSequence": 37,
       "Version": "*",
       "AgendaNote": "Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74485,
       "MatterFile": "Res 0512-2024",
       "MatterName": "LU 92 - Zoning, 58-75 Queens Midtown Expressway Rezoning, Queens (C 230276 ZMQ)",
       "MatterType": "Resolution",
-      "LastModified": "2024-07-18T14:39:20.46Z"
+      "LastModified": "2024-07-18T23:07:09.22Z"
     },
     {
       "ID": 410990,
       "GUID": "E0BC10EF-E1DF-4B6C-9CAD-024D7663F3A4",
       "Title": "Resolution approving the decision of the City Planning Commission on ULURP No. C 220185 ZMQ, a Zoning Map amendment (L.U. No. 93).",
       "AgendaSequence": 29,
-      "MinutesSequence": 38,
+      "MinutesSequence": 39,
       "Version": "*",
       "AgendaNote": "Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74486,
       "MatterFile": "Res 0513-2024",
       "MatterName": "LU 93 - Zoning, 27-24 College Point Boulevard Commercial Overlay, Queens (C 220185 ZMQ)",
       "MatterType": "Resolution",
-      "LastModified": "2024-07-18T14:39:20.477Z"
+      "LastModified": "2024-07-18T23:07:09.22Z"
     },
     {
       "ID": 410991,
       "GUID": "72A6059B-F5D6-4498-A3BA-D168F9D84404",
       "Title": "Resolution affirming the designation by the Landmarks Preservation Commission of the Old Croton Aqueduct Walk located at 2200 Aqueduct Avenue (Tax Map Block 3210 Lots 1 and 7; Block 3211, p/o Lot 1; Block 3212 Lots 1, 67, and 71; Block 3213, Lots 27, 48, 49, and 70; Block 3214, Lot 33; and Block 3215, Lot 31), Borough of the Bronx, Designation List No. 538/LP-2673 (L.U. No. 98; N 240327 HIX).",
       "AgendaSequence": 30,
-      "MinutesSequence": 40,
+      "MinutesSequence": 41,
       "Version": "*",
       "AgendaNote": "Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74487,
       "MatterFile": "Res 0514-2024",
       "MatterName": "LU 98 - Landmarks, Old Croton Aqueduct Walk, Bronx (N 240327 HIX)",
       "MatterType": "Resolution",
-      "LastModified": "2024-07-18T14:39:20.48Z"
+      "LastModified": "2024-07-18T23:07:09.223Z"
     },
     {
       "ID": 410992,
       "GUID": "9648CE50-E2EE-44E4-8EA6-63F2469E4663",
       "Title": "Resolution approving an Urban Development Action Area Project and a real property tax exemption pursuant to Article 16 of the General Municipal Law for properties located at 123 Father Capodanno Blvd. (Block 3124, Lot 116), 398 Hamden Avenue (Block 3728, Lot 20), 181-187 Moreland Street (Block 3734, Lots 38, 39, and 41), 176 Kiswick Street (Block 3736, Lot 20), 455-457 Lincoln Avenue (Block 3738, Lots 5 and 6), 111-113 Grimsby Street (Block 3795, Lot 37 (Tentative Lots 37 and 38)), 521 Lincoln Avenue (Block 3802, Lot 5), 770 Patterson Avenue (Block 3873, Lot 28), 527-529 Greeley Avenue (Block 3881, Lot 1 (Tentative Lots 1 and 3)), 1142-1144 Olympia Blvd. (Block 3884, Lots 14 and 15 (Tentative Lot 14), Borough of Staten Island; and waiving the urban development action area designation requirement and the Uniform Land Use Review Procedure, Community District 2, Borough of Staten Island (L.U. No. 99; G 240054 NUR).",
       "AgendaSequence": 31,
-      "MinutesSequence": 42,
+      "MinutesSequence": 43,
       "Version": "*",
       "AgendaNote": "Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74488,
       "MatterFile": "Res 0515-2024",
       "MatterName": "LU 99 - Landmarks, Resilient Homes Staten Island UDAAP, Staten Island (G 240054 NUR)",
       "MatterType": "Resolution",
-      "LastModified": "2024-07-18T14:39:20.48Z"
+      "LastModified": "2024-07-18T23:07:09.223Z"
     },
     {
       "ID": 410993,
       "GUID": "E70E2E02-79C7-4F9A-86B5-7BFDCCFD3CA4",
       "Title": "Resolution approving a tax exemption pursuant to Article XI of the Private Housing Finance Law for properties located at 123 Father Capodanno Blvd. (Block 3124, Lot 116), 398 Hamden Avenue (Block 3728, Lot 20), 181-187 Moreland Street (Block 3734, Lots 38, 39, and 41), 176 Kiswick Street (Block 3736, Lot 20), 455-457 Lincoln Avenue (Block 3738, Lots 5 and 6), 111-113 Grimsby Street (Block 3795, Lot 37 (Tentative Lots 37 and 38)), 521 Lincoln Avenue (Block 3802, Lot 5), 770 Patterson Avenue (Block 3873, Lot 28), 527-529 Greeley Avenue (Block 3881, Lot 1 (Tentative Lots 1 and 3)), 1142-1144 Olympia Blvd. (Block 3884, Lots 14 and 15 (Tentative Lot 14), Community District 2, Borough of Staten Island (L.U. No. 100; Non-ULURP No. G 240055 XAR).",
       "AgendaSequence": 32,
-      "MinutesSequence": 44,
+      "MinutesSequence": 45,
       "Version": "*",
       "AgendaNote": "Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74489,
       "MatterFile": "Res 0516-2024",
       "MatterName": "LU 100 - Landmarks, Resilient Homes Staten Island Article XI, Staten Island (G 240055 XAR)",
       "MatterType": "Resolution",
-      "LastModified": "2024-07-18T14:39:20.483Z"
+      "LastModified": "2024-07-18T23:07:09.227Z"
     },
     {
       "ID": 410996,
       "GUID": "6A30FAED-EB7C-4108-9E92-FE12459555B6",
       "Title": "General Orders Calendar",
       "AgendaSequence": 33,
-      "MinutesSequence": 45,
+      "MinutesSequence": 46,
       "AgendaNumber": "12.",
       "Version": "",
       "AgendaNote": "GENERAL ORDERS CALENDAR",
-      "LastModified": "2024-07-18T14:39:20.483Z"
+      "LastModified": "2024-07-18T23:07:09.227Z"
     },
     {
       "ID": 410997,
       "GUID": "13CDFC34-97F3-4F54-8E5B-A6CEB4CC615A",
       "Title": "Commissioner of Deeds",
       "AgendaSequence": 34,
-      "MinutesSequence": 46,
+      "MinutesSequence": 47,
       "Version": "*",
       "AgendaNote": "Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Commissioner of Deeds be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 72293,
       "MatterFile": "T2024-0003",
       "MatterName": "Commissioner of Deeds",
       "MatterType": "Commissioner of Deeds",
-      "MatterStatus": "General Orders Calendar",
-      "LastModified": "2024-07-18T14:39:20.487Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-07-18T23:07:09.23Z"
     },
     {
       "ID": 410998,
       "GUID": "173D7A52-9F09-4018-AEFD-A4897D895E62",
       "Title": "Coupled on General Orders Calendar",
       "AgendaSequence": 35,
-      "MinutesSequence": 47,
+      "MinutesSequence": 48,
       "Version": "",
       "AgendaNote": "COUPLED ON GENERAL ORDERS CALENDAR",
-      "LastModified": "2024-07-18T14:39:20.487Z"
+      "LastModified": "2024-07-18T23:07:09.23Z"
     },
     {
       "ID": 411004,
       "GUID": "C4EEA665-4EB2-4AE7-B308-32056CC08CB9",
       "Title": "Contracts",
       "AgendaSequence": 36,
-      "MinutesSequence": 48,
+      "MinutesSequence": 49,
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "CONTRACTS",
-      "LastModified": "2024-07-18T14:39:20.487Z"
+      "LastModified": "2024-07-18T23:07:09.23Z"
     },
     {
       "ID": 411005,
       "GUID": "AD3CA3D6-3AF9-4241-957A-3EBA3591DEC5",
       "Title": "A Local Law to amend the New York city charter, in relation to expanding the application of procurement procedures for certain service contracts, and enhancing public notice requirements for changes to planned contract actions",
       "AgendaSequence": 37,
-      "MinutesSequence": 49,
+      "MinutesSequence": 50,
       "AgendaNumber": "~coupled",
       "Version": "A",
       "AgendaNote": "A and GO",
@@ -495,25 +1010,25 @@
       "MatterFile": "Int 0863-2024",
       "MatterName": "Expanding the application of procurement procedures for certain service contracts, and enhancing public notice requirements for changes to planned contract actions",
       "MatterType": "Introduction",
-      "LastModified": "2024-07-18T14:39:20.487Z"
+      "LastModified": "2024-07-18T23:07:09.23Z"
     },
     {
       "ID": 411008,
       "GUID": "74FFE26A-B1C7-4303-95B2-41362AD15611",
       "Title": "Education",
       "AgendaSequence": 38,
-      "MinutesSequence": 50,
+      "MinutesSequence": 51,
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "EDUCATION",
-      "LastModified": "2024-07-18T14:39:20.49Z"
+      "LastModified": "2024-07-18T23:07:09.23Z"
     },
     {
       "ID": 411009,
       "GUID": "BE1FA7CD-8040-4F93-8462-C85CA6583186",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to posting information and reporting on dress code policies in New York city public schools, and to repeal section two of such local law upon the expiration thereof",
       "AgendaSequence": 39,
-      "MinutesSequence": 51,
+      "MinutesSequence": 52,
       "AgendaNumber": "~coupled",
       "Version": "A",
       "AgendaNote": "A and GO",
@@ -521,25 +1036,25 @@
       "MatterFile": "Int 0118-2024",
       "MatterName": "Posting information and reporting on dress code policies in NYC public schools, and to repeal section two of such local law upon the expiration thereof.",
       "MatterType": "Introduction",
-      "LastModified": "2024-07-18T14:39:20.49Z"
+      "LastModified": "2024-07-18T23:07:09.233Z"
     },
     {
       "ID": 411011,
       "GUID": "0CFE7120-D24C-4ED1-9966-90F6D410016C",
       "Title": "Finance",
       "AgendaSequence": 40,
-      "MinutesSequence": 52,
+      "MinutesSequence": 53,
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "FINANCE",
-      "LastModified": "2024-07-18T14:39:20.49Z"
+      "LastModified": "2024-07-18T23:07:09.233Z"
     },
     {
       "ID": 411012,
       "GUID": "64802E0C-1507-424A-8355-8A5694A31BD0",
       "Title": "Resolution approving an amendment to a previously approved real property tax exemption pursuant to Section 125(1)(a) of the Private Housing Finance Law for property located at (Block 1861, Lot 20), Brooklyn (Preconsidered L.U. No. 105).",
       "AgendaSequence": 41,
-      "MinutesSequence": 53,
+      "MinutesSequence": 54,
       "AgendaNumber": "~coupled",
       "Version": "*",
       "AgendaNote": "Preconsidered - GO",
@@ -547,25 +1062,25 @@
       "MatterFile": "Res 0509-2024",
       "MatterName": "LU 105 - Fulton Street South, Block 1861, Lot 20, Brooklyn, Community District No. 3, Council District No. 36.",
       "MatterType": "Resolution",
-      "LastModified": "2024-07-18T14:39:20.497Z"
+      "LastModified": "2024-07-18T23:07:09.233Z"
     },
     {
       "ID": 411016,
       "GUID": "BFB9E90A-7344-41E9-858C-34A1DD257DBB",
       "Title": "Health",
       "AgendaSequence": 42,
-      "MinutesSequence": 54,
+      "MinutesSequence": 55,
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "HEALTH",
-      "LastModified": "2024-07-18T14:39:20.497Z"
+      "LastModified": "2024-07-18T23:07:09.233Z"
     },
     {
       "ID": 411017,
       "GUID": "F27DAF0D-37F6-436D-B4B8-B17BEDAFCB8C",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to expanding availability of rapid testing for sexually transmitted infections",
       "AgendaSequence": 43,
-      "MinutesSequence": 55,
+      "MinutesSequence": 56,
       "AgendaNumber": "~coupled",
       "Version": "A",
       "AgendaNote": "GO",
@@ -573,25 +1088,25 @@
       "MatterFile": "Int 0435-2024",
       "MatterName": "Expanding availability of rapid testing for sexually transmitted infections.",
       "MatterType": "Introduction",
-      "LastModified": "2024-07-18T14:39:20.497Z"
+      "LastModified": "2024-07-18T23:07:09.237Z"
     },
     {
       "ID": 411018,
       "GUID": "AD27BDD5-3FA4-4226-A27A-FF6ADF061E35",
       "Title": "Land Use",
       "AgendaSequence": 44,
-      "MinutesSequence": 56,
+      "MinutesSequence": 57,
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "LAND USE",
-      "LastModified": "2024-07-18T14:39:20.5Z"
+      "LastModified": "2024-07-18T23:07:09.237Z"
     },
     {
       "ID": 411019,
       "GUID": "755DF206-D411-4BEA-B7AF-64CE96ECFF6A",
       "Title": "Resolution approving the decision of the City Planning Commission on ULURP No. C 230351 ZMK, a Zoning Map amendment (L.U. No. 90).",
       "AgendaSequence": 45,
-      "MinutesSequence": 57,
+      "MinutesSequence": 58,
       "AgendaNumber": "~coupled",
       "Version": "*",
       "AgendaNote": "GO",
@@ -599,14 +1114,14 @@
       "MatterFile": "Res 0510-2024",
       "MatterName": "LU 90 - Zoning, 2118 Avenue U, Brooklyn (C 230351 ZMK)",
       "MatterType": "Resolution",
-      "LastModified": "2024-07-18T14:39:20.5Z"
+      "LastModified": "2024-07-18T23:07:09.237Z"
     },
     {
       "ID": 411020,
       "GUID": "87885B2A-64A1-47DD-9317-7D81546BEE9F",
       "Title": "Resolution approving the decision of the City Planning Commission on Application No. N 230352 ZRK, for an amendment of the text of the Zoning Resolution (L.U. No. 91).",
       "AgendaSequence": 46,
-      "MinutesSequence": 58,
+      "MinutesSequence": 59,
       "AgendaNumber": "~coupled",
       "Version": "*",
       "AgendaNote": "GO",
@@ -614,14 +1129,14 @@
       "MatterFile": "Res 0511-2024",
       "MatterName": "LU 91 - Zoning, 2118 Avenue U, Brooklyn (N 230352 ZRK)",
       "MatterType": "Resolution",
-      "LastModified": "2024-07-18T14:39:20.5Z"
+      "LastModified": "2024-07-18T23:07:09.24Z"
     },
     {
       "ID": 411021,
       "GUID": "0CC95456-BCBF-4F75-ABF4-B5E4B2C96605",
       "Title": "Resolution approving the decision of the City Planning Commission on ULURP No. C 230276 ZMQ, a Zoning Map amendment (L.U. No. 92).",
       "AgendaSequence": 47,
-      "MinutesSequence": 59,
+      "MinutesSequence": 60,
       "AgendaNumber": "~coupled",
       "Version": "*",
       "AgendaNote": "GO",
@@ -629,14 +1144,14 @@
       "MatterFile": "Res 0512-2024",
       "MatterName": "LU 92 - Zoning, 58-75 Queens Midtown Expressway Rezoning, Queens (C 230276 ZMQ)",
       "MatterType": "Resolution",
-      "LastModified": "2024-07-18T14:39:20.503Z"
+      "LastModified": "2024-07-18T23:07:09.24Z"
     },
     {
       "ID": 411022,
       "GUID": "C91604AD-EFB4-429E-B6D7-E41058B4FE92",
       "Title": "Resolution approving the decision of the City Planning Commission on ULURP No. C 220185 ZMQ, a Zoning Map amendment (L.U. No. 93).",
       "AgendaSequence": 48,
-      "MinutesSequence": 60,
+      "MinutesSequence": 61,
       "AgendaNumber": "~coupled",
       "Version": "*",
       "AgendaNote": "GO",
@@ -644,14 +1159,14 @@
       "MatterFile": "Res 0513-2024",
       "MatterName": "LU 93 - Zoning, 27-24 College Point Boulevard Commercial Overlay, Queens (C 220185 ZMQ)",
       "MatterType": "Resolution",
-      "LastModified": "2024-07-18T14:39:20.503Z"
+      "LastModified": "2024-07-18T23:07:09.24Z"
     },
     {
       "ID": 411023,
       "GUID": "1A913B46-2257-4A50-AF4C-4AD5ADE7FDCF",
       "Title": "Resolution affirming the designation by the Landmarks Preservation Commission of the Old Croton Aqueduct Walk located at 2200 Aqueduct Avenue (Tax Map Block 3210 Lots 1 and 7; Block 3211, p/o Lot 1; Block 3212 Lots 1, 67, and 71; Block 3213, Lots 27, 48, 49, and 70; Block 3214, Lot 33; and Block 3215, Lot 31), Borough of the Bronx, Designation List No. 538/LP-2673 (L.U. No. 98; N 240327 HIX).",
       "AgendaSequence": 49,
-      "MinutesSequence": 61,
+      "MinutesSequence": 62,
       "AgendaNumber": "~coupled",
       "Version": "*",
       "AgendaNote": "GO",
@@ -659,14 +1174,14 @@
       "MatterFile": "Res 0514-2024",
       "MatterName": "LU 98 - Landmarks, Old Croton Aqueduct Walk, Bronx (N 240327 HIX)",
       "MatterType": "Resolution",
-      "LastModified": "2024-07-18T14:39:20.503Z"
+      "LastModified": "2024-07-18T23:07:09.24Z"
     },
     {
       "ID": 411024,
       "GUID": "AF18FFE2-E8AA-4D8A-910F-F3E5F4B26DC2",
       "Title": "Resolution approving an Urban Development Action Area Project and a real property tax exemption pursuant to Article 16 of the General Municipal Law for properties located at 123 Father Capodanno Blvd. (Block 3124, Lot 116), 398 Hamden Avenue (Block 3728, Lot 20), 181-187 Moreland Street (Block 3734, Lots 38, 39, and 41), 176 Kiswick Street (Block 3736, Lot 20), 455-457 Lincoln Avenue (Block 3738, Lots 5 and 6), 111-113 Grimsby Street (Block 3795, Lot 37 (Tentative Lots 37 and 38)), 521 Lincoln Avenue (Block 3802, Lot 5), 770 Patterson Avenue (Block 3873, Lot 28), 527-529 Greeley Avenue (Block 3881, Lot 1 (Tentative Lots 1 and 3)), 1142-1144 Olympia Blvd. (Block 3884, Lots 14 and 15 (Tentative Lot 14), Borough of Staten Island; and waiving the urban development action area designation requirement and the Uniform Land Use Review Procedure, Community District 2, Borough of Staten Island (L.U. No. 99; G 240054 NUR).",
       "AgendaSequence": 50,
-      "MinutesSequence": 62,
+      "MinutesSequence": 63,
       "AgendaNumber": "~coupled",
       "Version": "*",
       "AgendaNote": "GO",
@@ -674,14 +1189,14 @@
       "MatterFile": "Res 0515-2024",
       "MatterName": "LU 99 - Landmarks, Resilient Homes Staten Island UDAAP, Staten Island (G 240054 NUR)",
       "MatterType": "Resolution",
-      "LastModified": "2024-07-18T14:39:20.507Z"
+      "LastModified": "2024-07-18T23:07:09.24Z"
     },
     {
       "ID": 411025,
       "GUID": "4114841A-AE35-4E83-B4C6-EA5763522504",
       "Title": "Resolution approving a tax exemption pursuant to Article XI of the Private Housing Finance Law for properties located at 123 Father Capodanno Blvd. (Block 3124, Lot 116), 398 Hamden Avenue (Block 3728, Lot 20), 181-187 Moreland Street (Block 3734, Lots 38, 39, and 41), 176 Kiswick Street (Block 3736, Lot 20), 455-457 Lincoln Avenue (Block 3738, Lots 5 and 6), 111-113 Grimsby Street (Block 3795, Lot 37 (Tentative Lots 37 and 38)), 521 Lincoln Avenue (Block 3802, Lot 5), 770 Patterson Avenue (Block 3873, Lot 28), 527-529 Greeley Avenue (Block 3881, Lot 1 (Tentative Lots 1 and 3)), 1142-1144 Olympia Blvd. (Block 3884, Lots 14 and 15 (Tentative Lot 14), Community District 2, Borough of Staten Island (L.U. No. 100; Non-ULURP No. G 240055 XAR).",
       "AgendaSequence": 51,
-      "MinutesSequence": 63,
+      "MinutesSequence": 64,
       "AgendaNumber": "~coupled",
       "Version": "*",
       "AgendaNote": "GO",
@@ -689,39 +1204,45 @@
       "MatterFile": "Res 0516-2024",
       "MatterName": "LU 100 - Landmarks, Resilient Homes Staten Island Article XI, Staten Island (G 240055 XAR)",
       "MatterType": "Resolution",
-      "LastModified": "2024-07-18T14:39:20.507Z"
+      "LastModified": "2024-07-18T23:07:09.243Z"
     },
     {
       "ID": 411027,
       "GUID": "FCE4D876-733B-4ED3-B12C-574E7DB237A3",
       "Title": "Resolution recognizing July 27 annually as Korean War Veterans Armistice Day in the City of New York to honor the courage and sacrifice of those who served.",
       "AgendaSequence": 57,
-      "MinutesSequence": 71,
+      "MinutesSequence": 72,
       "Version": "*",
       "AgendaNote": "Adopted by the Committee on Veterans",
+      "MinutesNote": "Pursuant to Rule 8.50 of the Council, the Majority Leader and Acting President Pro Tempore (Council Member Farías) called for a voice vote.  Hearing no objections, the Majority Leader and Acting President Pro Tempore (Council Member Farías) declared the Resolution to be adopted.\r\n\r\nAdopted unanimously by the Council by voice-vote.",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by voice vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 72440,
       "MatterFile": "Res 0010-2024",
       "MatterName": "Recognizing July 27 annually as Korean War Veterans Armistice Day in the City of New York.",
       "MatterType": "Resolution",
-      "LastModified": "2024-07-18T14:39:20.517Z"
+      "LastModified": "2024-07-18T23:07:35.66Z"
     },
     {
       "ID": 411028,
       "GUID": "E41C49D4-8BA4-4255-8925-588ABB3F41C6",
       "Title": "General Orders Calendar",
       "AgendaSequence": 52,
-      "MinutesSequence": 64,
+      "MinutesSequence": 65,
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "GENERAL ORDERS CALENDAR",
-      "LastModified": "2024-07-18T14:39:20.507Z"
+      "LastModified": "2024-07-18T23:07:09.243Z"
     },
     {
       "ID": 411029,
       "GUID": "D933F95B-765F-4871-9C9E-73E19F0C6CA9",
       "Title": "Commissioner of Deeds",
       "AgendaSequence": 53,
-      "MinutesSequence": 65,
+      "MinutesSequence": 66,
       "AgendaNumber": "~coupled",
       "Version": "*",
       "AgendaNote": "GO",
@@ -729,80 +1250,80 @@
       "MatterFile": "T2024-0003",
       "MatterName": "Commissioner of Deeds",
       "MatterType": "Commissioner of Deeds",
-      "MatterStatus": "General Orders Calendar",
-      "LastModified": "2024-07-18T14:39:20.51Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-07-18T23:07:09.243Z"
     },
     {
       "ID": 411030,
       "GUID": "BA4BFCCC-9423-4C27-9CE9-5224FB82D504",
       "Title": "Introduction & Reading of Bills\r\nSee Attached",
       "AgendaSequence": 54,
-      "MinutesSequence": 68,
+      "MinutesSequence": 69,
       "AgendaNumber": "13.",
       "Version": "",
       "AgendaNote": "INTRODUCTION & READING OF BILLS (SEE BELOW)",
-      "LastModified": "2024-07-18T14:39:20.513Z"
+      "LastModified": "2024-07-18T23:07:17.49Z"
     },
     {
       "ID": 411031,
       "GUID": "C01372B2-4BCB-4CDD-867B-41EDCFA135AF",
       "Title": "Discussion of Resolutions",
       "AgendaSequence": 55,
-      "MinutesSequence": 69,
+      "MinutesSequence": 70,
       "AgendaNumber": "14.",
       "Version": "",
       "AgendaNote": "DISCUSSION OF RESOLUTIONS",
-      "LastModified": "2024-07-18T14:39:20.513Z"
+      "LastModified": "2024-07-18T23:07:09.247Z"
     },
     {
       "ID": 411032,
       "GUID": "2AC65B04-230F-4F7E-B984-61A63F37A0F7",
       "Title": "Resolutions",
       "AgendaSequence": 56,
-      "MinutesSequence": 70,
+      "MinutesSequence": 71,
       "AgendaNumber": "15.",
       "Version": "",
       "AgendaNote": "RESOLUTIONS",
-      "LastModified": "2024-07-18T14:39:20.513Z"
+      "LastModified": "2024-07-18T23:07:09.25Z"
     },
     {
       "ID": 411033,
       "GUID": "D664B418-9F34-4C62-AE22-6E0C6FDACF5C",
       "Title": "General Discussion",
       "AgendaSequence": 60,
-      "MinutesSequence": 74,
+      "MinutesSequence": 75,
       "AgendaNumber": "16.",
       "Version": "",
       "AgendaNote": "GENERAL DISCUSSION",
-      "LastModified": "2024-07-18T14:39:20.52Z"
+      "LastModified": "2024-07-18T23:07:09.25Z"
     },
     {
       "ID": 411034,
       "GUID": "EEFA616F-14B3-43AC-BE37-26B6D1975459",
       "Title": "Extension of Remarks",
       "AgendaSequence": 61,
-      "MinutesSequence": 75,
+      "MinutesSequence": 76,
       "AgendaNumber": "17.",
       "Version": "",
       "AgendaNote": "EXTENSION OF REMARKS",
-      "LastModified": "2024-07-18T14:39:20.52Z"
+      "LastModified": "2024-07-18T23:07:09.253Z"
     },
     {
       "ID": 411035,
       "GUID": "387C1A0E-925A-442D-B8F5-53C6859AEDC5",
       "Title": "INTRODUCTION AND READING OF BILLS",
       "AgendaSequence": 62,
-      "MinutesSequence": 76,
+      "MinutesSequence": 77,
       "Version": "",
       "AgendaNote": "INTRODUCTION AND READING OF BILLS",
-      "LastModified": "2024-07-18T14:39:20.523Z"
+      "LastModified": "2024-07-18T23:07:09.253Z"
     },
     {
       "ID": 411036,
       "GUID": "B909D1BD-59C9-48B7-BFC6-BA5835A0F1D4",
       "Title": "Resolution calling on the NYPD Protest Response Oversight Committee to examine and prevent nuanced ways in which protestors may be silenced when monitoring NYPD’s compliance of new reforms established in a recent legal settlement.",
       "AgendaSequence": 63,
-      "MinutesSequence": 77,
+      "MinutesSequence": 78,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Public Safety",
@@ -813,14 +1334,14 @@
       "MatterFile": "Res 0497-2024",
       "MatterName": "NYPD Protest Response Oversight Committee to examine and prevent nuanced ways in which protestors may be silenced when monitoring NYPD’s compliance of new reforms established in a recent legal settlement",
       "MatterType": "Resolution",
-      "LastModified": "2024-07-18T14:51:01.873Z"
+      "LastModified": "2024-07-18T23:07:09.253Z"
     },
     {
       "ID": 411037,
       "GUID": "E73CC764-59B4-4592-8C23-C51BE6B70E2A",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to reporting on enforcement of unlicensed sellers of cigarettes, electronic cigarettes, tobacco products and illicit cannabis",
       "AgendaSequence": 64,
-      "MinutesSequence": 78,
+      "MinutesSequence": 79,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Finance",
@@ -831,14 +1352,14 @@
       "MatterFile": "Int 0981-2024",
       "MatterName": "Reporting on enforcement of unlicensed sellers of cigarettes, electronic cigarettes, tobacco products and illicit cannabis.",
       "MatterType": "Introduction",
-      "LastModified": "2024-07-18T14:51:12.86Z"
+      "LastModified": "2024-07-18T23:07:09.257Z"
     },
     {
       "ID": 411038,
       "GUID": "52898FB3-9265-49B9-9ED7-768674605014",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to compliance with equal pay laws",
       "AgendaSequence": 65,
-      "MinutesSequence": 79,
+      "MinutesSequence": 80,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Consumer and Worker Protection",
@@ -849,14 +1370,14 @@
       "MatterFile": "Int 0982-2024",
       "MatterName": "Compliance with equal pay laws.",
       "MatterType": "Introduction",
-      "LastModified": "2024-07-18T14:51:25.937Z"
+      "LastModified": "2024-07-18T23:07:09.257Z"
     },
     {
       "ID": 411039,
       "GUID": "2A1EBF28-661B-44BC-8A0F-549AA5C11599",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to a study on pay and employment equity for private employees",
       "AgendaSequence": 67,
-      "MinutesSequence": 81,
+      "MinutesSequence": 82,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Civil and Human Rights",
@@ -867,14 +1388,14 @@
       "MatterFile": "Int 0984-2024",
       "MatterName": "Study on pay and employment equity for private employees.",
       "MatterType": "Introduction",
-      "LastModified": "2024-07-18T14:51:50.12Z"
+      "LastModified": "2024-07-18T23:07:09.257Z"
     },
     {
       "ID": 411040,
       "GUID": "4D09F736-3C7E-459F-97DA-E56F3790AFDF",
       "Title": "Resolution calling on the Metropolitan Transportation Authority (MTA) to create a program that provides New York City’s first responder agencies with real-time Global Positioning System (GPS) data for all MTA buses.",
       "AgendaSequence": 68,
-      "MinutesSequence": 82,
+      "MinutesSequence": 83,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Transportation and Infrastructure",
@@ -885,14 +1406,14 @@
       "MatterFile": "Res 0498-2024",
       "MatterName": "MTA to create a program that provides New York City’s first responder agencies with real-time GPS data for all MTA buses.",
       "MatterType": "Resolution",
-      "LastModified": "2024-07-18T14:52:04.643Z"
+      "LastModified": "2024-07-18T23:07:09.26Z"
     },
     {
       "ID": 411041,
       "GUID": "296C31BC-20C3-43C2-8E94-AD9E977297B4",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to prohibiting the sale of electronic cigarettes that resemble school supplies",
       "AgendaSequence": 69,
-      "MinutesSequence": 83,
+      "MinutesSequence": 84,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Health",
@@ -903,14 +1424,14 @@
       "MatterFile": "Int 0985-2024",
       "MatterName": "Prohibiting the sale of electronic cigarettes that resemble school supplies.",
       "MatterType": "Introduction",
-      "LastModified": "2024-07-18T14:52:15.283Z"
+      "LastModified": "2024-07-18T23:07:09.26Z"
     },
     {
       "ID": 411042,
       "GUID": "6D3E743E-21E7-49BA-B45D-A02F10818B08",
       "Title": "A Local Law in relation to a pilot program to involve mental health professionals and professional candidates in student wellness clubs in public middle and high schools",
       "AgendaSequence": 70,
-      "MinutesSequence": 84,
+      "MinutesSequence": 85,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Mental Health, Disabilities and Addiction",
@@ -921,14 +1442,14 @@
       "MatterFile": "Int 0986-2024",
       "MatterName": "Pilot program to involve mental health professionals and professional candidates in student wellness clubs in public middle and high schools.",
       "MatterType": "Introduction",
-      "LastModified": "2024-07-18T14:52:33.87Z"
+      "LastModified": "2024-07-18T23:07:09.263Z"
     },
     {
       "ID": 411043,
       "GUID": "DA18FFA2-4951-47C0-977C-189357A73CA4",
       "Title": "A Local Law in relation to a pilot program to develop and distribute educational materials regarding the reduction of surplus food in public schools",
       "AgendaSequence": 71,
-      "MinutesSequence": 85,
+      "MinutesSequence": 86,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Education",
@@ -939,14 +1460,14 @@
       "MatterFile": "Int 0987-2024",
       "MatterName": "Pilot program to develop and distribute educational materials regarding the reduction of surplus food in public schools.",
       "MatterType": "Introduction",
-      "LastModified": "2024-07-18T14:52:44.01Z"
+      "LastModified": "2024-07-18T23:07:09.267Z"
     },
     {
       "ID": 411044,
       "GUID": "2AA72EBF-9453-46AF-9E59-FDF91310CFA9",
       "Title": "Resolution calling on the United States Congress to pass, and the President to sign, the Protecting Consumers from Deceptive AI Act.",
       "AgendaSequence": 72,
-      "MinutesSequence": 86,
+      "MinutesSequence": 87,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Consumer and Worker Protection",
@@ -957,14 +1478,14 @@
       "MatterFile": "Res 0499-2024",
       "MatterName": "Protecting Consumers from Deceptive AI Act.",
       "MatterType": "Resolution",
-      "LastModified": "2024-07-18T14:52:58.247Z"
+      "LastModified": "2024-07-18T23:07:09.267Z"
     },
     {
       "ID": 411045,
       "GUID": "641E1D3A-BCBA-49A6-B847-D9242A1B1B1D",
       "Title": "Resolution calling on the New York State Legislature to introduce and pass, and the Governor to sign, legislation entitled The New York State College Safety Act to require that all campuses of The State University of New York and The City University of New York permit autoimmune and immunocompromised students and faculty to learn and teach via remote instruction in as many courses as feasible whenever students or faculty are dealing with an unpredictable or temporarily debilitating impact of their condition.",
       "AgendaSequence": 73,
-      "MinutesSequence": 87,
+      "MinutesSequence": 88,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Higher Education",
@@ -975,14 +1496,14 @@
       "MatterFile": "Res 0500-2024",
       "MatterName": "The New York State College Safety Act",
       "MatterType": "Resolution",
-      "LastModified": "2024-07-18T14:53:10.12Z"
+      "LastModified": "2024-07-18T23:07:09.267Z"
     },
     {
       "ID": 411046,
       "GUID": "7DA9C710-1A0D-40B6-818A-5ECC388E832A",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to an interactive map for the posting of information regarding swimming pools under the jurisdiction of the department of parks and recreation",
       "AgendaSequence": 74,
-      "MinutesSequence": 88,
+      "MinutesSequence": 89,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Parks and Recreation",
@@ -993,14 +1514,14 @@
       "MatterFile": "Int 0988-2024",
       "MatterName": "Interactive map for the posting of information regarding swimming pools under the jurisdiction of the department of parks and recreation.",
       "MatterType": "Introduction",
-      "LastModified": "2024-07-18T14:53:21.583Z"
+      "LastModified": "2024-07-18T23:07:09.267Z"
     },
     {
       "ID": 411047,
       "GUID": "06AE140B-F5D2-4116-8395-85B1A0F78557",
       "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, S.2545A/A.4846 to require school districts to send water safety informational materials home to students’ parents or guardians and to permit school districts to provide water safety instruction in school for K-12 students.",
       "AgendaSequence": 75,
-      "MinutesSequence": 89,
+      "MinutesSequence": 90,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Education",
@@ -1011,14 +1532,14 @@
       "MatterFile": "Res 0501-2024",
       "MatterName": "Require school districts to send water safety informational materials home to students’ parents or guardians and to permit school districts to provide water safety instruction in school for K-12 students. (S.2545A/A.4846)",
       "MatterType": "Resolution",
-      "LastModified": "2024-07-18T14:53:31.84Z"
+      "LastModified": "2024-07-18T23:07:09.27Z"
     },
     {
       "ID": 411048,
       "GUID": "320E7F90-4049-49F7-AC10-BB12C6CE06AC",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to student wellness club toolkits",
       "AgendaSequence": 76,
-      "MinutesSequence": 90,
+      "MinutesSequence": 91,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Mental Health, Disabilities and Addiction",
@@ -1029,14 +1550,14 @@
       "MatterFile": "Int 0989-2024",
       "MatterName": "Student wellness club toolkits.",
       "MatterType": "Introduction",
-      "LastModified": "2024-07-18T14:53:48.483Z"
+      "LastModified": "2024-07-18T23:07:09.27Z"
     },
     {
       "ID": 411049,
       "GUID": "26413582-83A1-4774-B92D-4E08532E46A9",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing a decorative manhole cover program",
       "AgendaSequence": 77,
-      "MinutesSequence": 91,
+      "MinutesSequence": 92,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Environmental Protection, Resiliency and Waterfronts",
@@ -1047,14 +1568,14 @@
       "MatterFile": "Int 0990-2024",
       "MatterName": "Establishing a decorative manhole cover program.",
       "MatterType": "Introduction",
-      "LastModified": "2024-07-18T14:53:59.28Z"
+      "LastModified": "2024-07-18T23:07:09.27Z"
     },
     {
       "ID": 411050,
       "GUID": "AA0E330C-E3DB-4B66-B996-68615138FE44",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to licensing hotels",
       "AgendaSequence": 78,
-      "MinutesSequence": 92,
+      "MinutesSequence": 93,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Consumer and Worker Protection",
@@ -1065,14 +1586,14 @@
       "MatterFile": "Int 0991-2024",
       "MatterName": "Licensing Hotels",
       "MatterType": "Introduction",
-      "LastModified": "2024-07-18T14:54:11.29Z"
+      "LastModified": "2024-07-18T23:07:09.273Z"
     },
     {
       "ID": 411051,
       "GUID": "3B322894-4B7C-41AF-83BA-E7DA864DCB2B",
       "Title": "Resolution calling on the Department of Education to provide the necessary funding and resources to support the development and implementation of conflict resolution centers in New York City Public Schools.",
       "AgendaSequence": 79,
-      "MinutesSequence": 93,
+      "MinutesSequence": 94,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Education",
@@ -1083,14 +1604,14 @@
       "MatterFile": "Res 0502-2024",
       "MatterName": "DOE to provide the necessary funding and resources to support the development and implementation of conflict resolution centers in NYC Public Schools.",
       "MatterType": "Resolution",
-      "LastModified": "2024-07-18T14:54:22.383Z"
+      "LastModified": "2024-07-18T23:07:09.273Z"
     },
     {
       "ID": 411052,
       "GUID": "4F9162FD-0BBE-4147-9B32-44793D9A7F47",
       "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, S. 1148/A. 10504, providing that public schools not be used as early voting polling sites.",
       "AgendaSequence": 80,
-      "MinutesSequence": 94,
+      "MinutesSequence": 95,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Governmental Operations, State & Federal Legislation",
@@ -1101,14 +1622,14 @@
       "MatterFile": "Res 0503-2024",
       "MatterName": "Providing that public schools not be used as early voting polling sites (S. 1148/A. 10504).",
       "MatterType": "Resolution",
-      "LastModified": "2024-07-18T14:54:34.69Z"
+      "LastModified": "2024-07-18T23:07:09.273Z"
     },
     {
       "ID": 411053,
       "GUID": "8F156AA9-D1D7-4EB6-96C4-AF3A97B78436",
       "Title": "A Local Law to amend the New York city charter, in relation to requiring the office for neighborhood safety and the prevention of gun violence to provide notice and report on the crisis management system",
       "AgendaSequence": 81,
-      "MinutesSequence": 95,
+      "MinutesSequence": 96,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Public Safety",
@@ -1119,14 +1640,14 @@
       "MatterFile": "Int 0992-2024",
       "MatterName": "Requiring the office for neighborhood safety and the prevention of gun violence to provide notice and report on the crisis management system.",
       "MatterType": "Introduction",
-      "LastModified": "2024-07-18T14:54:46.88Z"
+      "LastModified": "2024-07-18T23:07:09.277Z"
     },
     {
       "ID": 411054,
       "GUID": "75C914B1-1983-462E-8161-512EC4D4A7B3",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to creating lock change procedures in response to illegal lockouts",
       "AgendaSequence": 83,
-      "MinutesSequence": 97,
+      "MinutesSequence": 98,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Housing and Buildings",
@@ -1137,14 +1658,14 @@
       "MatterFile": "Int 0993-2024",
       "MatterName": "Creating lock change procedures in response to illegal lockouts.",
       "MatterType": "Introduction",
-      "LastModified": "2024-07-18T14:55:13.343Z"
+      "LastModified": "2024-07-18T23:07:09.28Z"
     },
     {
       "ID": 411055,
       "GUID": "A13D25A1-201C-42CF-BAA4-DA849A3BCD08",
       "Title": "Resolution authorizing the Speaker to commence legal action on behalf of the Council of the City of New York to oppose the Department of Correction’s efforts to suspend Local Law 42 of 2024.",
       "AgendaSequence": 82,
-      "MinutesSequence": 96,
+      "MinutesSequence": 97,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Criminal Justice",
@@ -1155,14 +1676,14 @@
       "MatterFile": "Res 0504-2024",
       "MatterName": "Authorizing the Speaker to commence legal action on behalf of the Council of the City of New York to oppose the Department of Correction’s efforts to suspend Local Law 42 of 2024.",
       "MatterType": "Resolution",
-      "LastModified": "2024-07-18T14:54:58.433Z"
+      "LastModified": "2024-07-18T23:07:09.277Z"
     },
     {
       "ID": 411056,
       "GUID": "AC3CC129-34E0-46CA-9054-0506DD5A4F80",
       "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, legislation to convert the School Construction Authority from a public benefit corporation to a New York City agency.",
       "AgendaSequence": 84,
-      "MinutesSequence": 98,
+      "MinutesSequence": 99,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Education",
@@ -1173,14 +1694,14 @@
       "MatterFile": "Res 0505-2024",
       "MatterName": "Convert the School Construction Authority from a public benefit corporation to a New York City agency.",
       "MatterType": "Resolution",
-      "LastModified": "2024-07-18T14:55:22.587Z"
+      "LastModified": "2024-07-18T23:07:09.28Z"
     },
     {
       "ID": 411057,
       "GUID": "0B72F54C-B564-4CAD-B494-4CB0B8D4A895",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring that tenant-occupied dwellings be provided with cooled and dehumidified air",
       "AgendaSequence": 85,
-      "MinutesSequence": 99,
+      "MinutesSequence": 100,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Housing and Buildings",
@@ -1191,14 +1712,14 @@
       "MatterFile": "Int 0994-2024",
       "MatterName": "Requiring that tenant-occupied dwellings be provided with cooled and dehumidified air.",
       "MatterType": "Introduction",
-      "LastModified": "2024-07-18T14:55:31.973Z"
+      "LastModified": "2024-07-18T23:07:09.28Z"
     },
     {
       "ID": 411058,
       "GUID": "7436057B-0EB1-42F6-B272-5B457070147E",
       "Title": "A Local Law in relation to a feasibility study of carbon capture and sequestration of certain byproducts of the anaerobic digestion process used to break down compost, sewage, and other organic matter",
       "AgendaSequence": 86,
-      "MinutesSequence": 100,
+      "MinutesSequence": 101,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Environmental Protection, Resiliency and Waterfronts",
@@ -1209,14 +1730,14 @@
       "MatterFile": "Int 0995-2024",
       "MatterName": "Feasibility study of carbon capture and sequestration of certain byproducts of the anaerobic digestion process used to break down compost, sewage, and other organic matter.",
       "MatterType": "Introduction",
-      "LastModified": "2024-07-18T14:55:41.453Z"
+      "LastModified": "2024-07-18T23:07:09.283Z"
     },
     {
       "ID": 411059,
       "GUID": "2424BF33-AD9C-4470-B507-426CEFC3D46F",
       "Title": "Resolution calling on Congress to pass, and the President to sign, S.1302/H.R.2389, the “Resident Physician Shortage Reduction Act of 2023,” to increase the number of residency positions eligible for graduate medical education payments under Medicare for qualifying hospitals, including hospitals in rural areas and health professional shortage areas.",
       "AgendaSequence": 87,
-      "MinutesSequence": 101,
+      "MinutesSequence": 102,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Health",
@@ -1227,14 +1748,14 @@
       "MatterFile": "Res 0506-2024",
       "MatterName": "Resident Physician Shortage Reduction Act of 2023 (S.1302/H.R.2389).",
       "MatterType": "Resolution",
-      "LastModified": "2024-07-18T14:55:51.907Z"
+      "LastModified": "2024-07-18T23:07:09.283Z"
     },
     {
       "ID": 411060,
       "GUID": "512AE552-538D-4F16-870D-852F76D66827",
       "Title": "Resolution calling on the New York State Assembly to pass, and the Governor to sign, S.4786/A.8345A, to enact the “New York affordable drug manufacturing act”.",
       "AgendaSequence": 88,
-      "MinutesSequence": 102,
+      "MinutesSequence": 103,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Consumer and Worker Protection",
@@ -1245,14 +1766,14 @@
       "MatterFile": "Res 0507-2024",
       "MatterName": "New York affordable drug manufacturing act. (S.4786/A.8345A)",
       "MatterType": "Resolution",
-      "LastModified": "2024-07-18T14:56:03.15Z"
+      "LastModified": "2024-07-18T23:07:09.283Z"
     },
     {
       "ID": 411061,
       "GUID": "62A82128-B514-43BD-AA62-F9B51A2C4E69",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the creation of a peer-to-peer mental health training program",
       "AgendaSequence": 89,
-      "MinutesSequence": 103,
+      "MinutesSequence": 104,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Mental Health, Disabilities and Addiction",
@@ -1263,14 +1784,14 @@
       "MatterFile": "Int 0996-2024",
       "MatterName": "Creation of a peer-to-peer mental health training program.",
       "MatterType": "Introduction",
-      "LastModified": "2024-07-18T14:56:17.447Z"
+      "LastModified": "2024-07-18T23:07:09.283Z"
     },
     {
       "ID": 411062,
       "GUID": "D9471EEC-CB69-4D5D-A290-A9AEC9B74B67",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to a voluntary notice program and registry for temporarily vacant homes",
       "AgendaSequence": 90,
-      "MinutesSequence": 104,
+      "MinutesSequence": 105,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Public Safety",
@@ -1281,14 +1802,14 @@
       "MatterFile": "Int 0997-2024",
       "MatterName": "Voluntary notice program and registry for temporarily vacant homes.",
       "MatterType": "Introduction",
-      "LastModified": "2024-07-18T14:56:36.303Z"
+      "LastModified": "2024-07-18T23:07:09.287Z"
     },
     {
       "ID": 411063,
       "GUID": "BEED26F0-D6D4-46F8-ACF5-466ACEF3120C",
       "Title": "Resolution designating October 10 annually as Casey Benjamin Day in the City of New York and celebrating the genius of his music and his unique contributions to a variety of music genres.",
       "AgendaSequence": 91,
-      "MinutesSequence": 105,
+      "MinutesSequence": 106,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Cultural Affairs, Libraries and International Intergroup Relations",
@@ -1299,14 +1820,14 @@
       "MatterFile": "Res 0508-2024",
       "MatterName": "Designating October 10 annually as Casey Benjamin Day in the City of New York and celebrating the genius of his music and his unique contributions to a variety of music genres.",
       "MatterType": "Resolution",
-      "LastModified": "2024-07-18T14:56:46.26Z"
+      "LastModified": "2024-07-18T23:07:09.287Z"
     },
     {
       "ID": 411064,
       "GUID": "F474CE73-B119-4935-85E3-6AF7A6EA2251",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to cooling centers",
       "AgendaSequence": 92,
-      "MinutesSequence": 106,
+      "MinutesSequence": 107,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Health",
@@ -1317,14 +1838,14 @@
       "MatterFile": "Int 0998-2024",
       "MatterName": "Cooling centers.",
       "MatterType": "Introduction",
-      "LastModified": "2024-07-18T14:56:58.523Z"
+      "LastModified": "2024-07-18T23:07:09.29Z"
     },
     {
       "ID": 411065,
       "GUID": "7B1BD8C3-C0B8-4065-9E99-5E03AF227B5C",
       "Title": "Fulton Street South, Block 1861, Lot 20, Brooklyn, Community District No. 3, Council District No. 36.",
       "AgendaSequence": 93,
-      "MinutesSequence": 107,
+      "MinutesSequence": 108,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Finance",
@@ -1335,15 +1856,15 @@
       "MatterFile": "LU 0105-2024",
       "MatterName": "Fulton Street South, Block 1861, Lot 20, Brooklyn, Community District No. 3, Council District No. 36.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2024-07-18T14:47:48.03Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-07-18T23:07:09.29Z"
     },
     {
       "ID": 411066,
       "GUID": "418A2331-4D70-4566-BB4C-DC6A8F7D4859",
       "Title": "Application number C 240015 ZMX (Bronx Metro-North Station Area Study) submitted by the NYC Department of City Planning pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section Nos. 4a & 4b: eliminating from within an R4 District a C1-2 District, eliminating from within an existing R6 District a C1-2 District, eliminating from within an existing R4 District a C2-2 District, eliminating from within an existing R6 District a C2-2 District, eliminating a Special Planned Community Preservation District (PC), changing from a C8-1 District to an R4 District, changing from an R4 District to an R6-1 District, changing from an R5 District to an R6-1 District, changing from an R6 District to an R6-1 District, changing from a C8-1 District to an R6-1 District, changing from an M1-1 District to an R6-1 District, changing from an R5 District to an R6A District, changing from an R4 District to an R7-2 District, changing from a C8-1 District to an R7-2 District, changing from an M1-1 District to an R7-2 District, changing from an R6 District to an R8X District, changing from a C8-1 District to an R8X District, changing from a C8-4 District to an R8X District, changing from an R4 District to a C4-3 District, changing from an M1-1 District to a C4-3 District, changing from an M1-1 District to a C4-4 District, changing from a C8-1 District to a C8-2 District, changing from an M1-1 District to a C8-2 District, changing from an M1-1 District to an M1-1A/R7-3 District, establishing within an existing R4 District a C2-4 District, establishing within an existing R6 District a C2-4 District, establishing within a proposed R6-1 District a C2-4 District, establishing within an existing R6A District a C2-4 District, establishing within a proposed R7-2 District a C2-4 District, establishing within a proposed R8X District a C2-4 District, and establishing a Special Eastchester – East Tremont Corridor District (ETC), related to property in the Parkchester/Van Nest and Morris Park neighborhoods, Borough of the Bronx, Community Districts 9, 10 & 11, Council Districts 13, 17, and 18.",
       "AgendaSequence": 94,
-      "MinutesSequence": 108,
+      "MinutesSequence": 109,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Zoning and Franchises",
@@ -1355,14 +1876,14 @@
       "MatterName": "Zoning, Bronx Metro North Station Area Study, Bronx (C 240015 ZMX)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2024-07-18T14:39:20.583Z"
+      "LastModified": "2024-07-18T23:07:09.29Z"
     },
     {
       "ID": 411067,
       "GUID": "ABD79AE7-8384-4B57-98A8-E1973F420D90",
       "Title": "Application number N 240016 ZRX (Bronx Metro-North Station Area Study) submitted by New York City Department of City Planning, pursuant to Section 201 of the New York City Charter, for an amendment of the Zoning Resolution of the City of New York establishing the Special Eastchester – East Tremont Corridor District (Article XIV, Chapter 5), and modifying APPENDIX F for the purpose of establishing a Mandatory Inclusionary Housing area, APPENDIX I for the purpose of expanding an existing Transit Zone, and related Sections, Borough of the Bronx, Community Districts 9, 10 & 11, Council Districts 13, 17, and 18.",
       "AgendaSequence": 95,
-      "MinutesSequence": 110,
+      "MinutesSequence": 111,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Zoning and Franchises",
@@ -1374,14 +1895,14 @@
       "MatterName": "Zoning, Bronx Metro North Station Area Study, Bronx (N 240016 ZRX)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2024-07-18T14:39:20.583Z"
+      "LastModified": "2024-07-18T23:07:09.293Z"
     },
     {
       "ID": 411068,
       "GUID": "8194E0BC-7E2D-4E33-8289-8E178774E8B2",
       "Title": "Application number N 240374 HIM, for the proposed designation by the Landmarks Preservation Commission of the Heckscher Building (now the Crown Building), located at 730 Fifth Avenue (Block 1272, Lot 7503), as an historic landmark (DL-539/LP-2678), submitted pursuant to Section 3020 of the New York City Charter and Section 25-303 of the Administrative Code of the City of New York, Borough of Manhattan, Community District 5, Council District 4.",
       "AgendaSequence": 96,
-      "MinutesSequence": 112,
+      "MinutesSequence": 113,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Landmarks, Public Sitings and Dispositions",
@@ -1393,14 +1914,14 @@
       "MatterName": "Landmarks, Heckscher Building, Manhattan (N 240374 HIM)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2024-07-18T14:39:20.59Z"
+      "LastModified": "2024-07-18T23:07:09.293Z"
     },
     {
       "ID": 411069,
       "GUID": "87756F1A-C5EA-45CD-8E40-B0E041036ACD",
       "Title": "Application number C 240157 MMX (Bronx Metro-North Station Area Study) submitted by the New York City Department of City Planning pursuant to Sections 197-c and 199 of the New York City Charter and Section 5-430 et seq. of the New York City Administrative Code for an amendment to the City Map involving the elimination, discontinuance, and closing of a portion of Unionport Road between East Tremont Avenue and Guerlain Street and the adjustment of grades and block dimensions necessitated thereby; including authorization for any acquisition or disposition of real property related thereto, in accordance with Map No. 13153 dated January 20, 2024 and signed by the Borough President, Borough of the Bronx, Community Districts 9, 10 & 11, Council Districts 13, 17, and 18.",
       "AgendaSequence": 97,
-      "MinutesSequence": 114,
+      "MinutesSequence": 115,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Zoning and Franchises",
@@ -1412,14 +1933,14 @@
       "MatterName": "Zoning, Bronx Metro North Station Area Study, Bronx (C 240157 MMX)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2024-07-18T14:39:20.59Z"
+      "LastModified": "2024-07-18T23:07:09.297Z"
     },
     {
       "ID": 411070,
       "GUID": "AD7FE595-20B4-4A8A-A70F-A86C1C14754C",
       "Title": "Application number C 240158 MMX (Bronx Metro-North Station Area Study) submitted by the New York City Department of City Planning pursuant to Sections 197-c and 199 of the New York City Charter for an amendment to the City Map involving: the widening of Marconi Street north of Waters Place; and the adjustment of grades and block dimensions necessitated thereby; including authorization for any acquisition or disposition of real property related thereto, in accordance with Map No. 13151 dated January 20, 2024 and signed by the Borough President, Borough of the Bronx, Community Districts 9, 10 & 11, Council Districts 13, 17, and 18.",
       "AgendaSequence": 98,
-      "MinutesSequence": 116,
+      "MinutesSequence": 117,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Zoning and Franchises",
@@ -1431,14 +1952,14 @@
       "MatterName": "Zoning, Bronx Metro North Station Area Study, Bronx (C 240158 MMX)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2024-07-18T14:39:20.593Z"
+      "LastModified": "2024-07-18T23:07:09.297Z"
     },
     {
       "ID": 411071,
       "GUID": "69526937-4DB8-4BB0-92CF-8DED7678A317",
       "Title": "Application number C 240159 MMX (Bronx Metro-North Station Area Study) submitted by the New York City Department of City Planning pursuant to Sections 197-c and 199 of the New York City Charter for an amendment to the City Map involving: the establishment of Morris Park Station Plaza south of Morris Park Avenue and west of Bassett Avenue; and the adjustment of grades and block dimensions necessitated thereby; including authorization for any acquisition or disposition of real property related thereto, in accordance with Map No. 13152 dated January 20, 2024 and signed by the Borough President, Borough of the Bronx, Community Districts 9, 10 & 11, Council Districts 13, 17, and 18.",
       "AgendaSequence": 99,
-      "MinutesSequence": 118,
+      "MinutesSequence": 119,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Zoning and Franchises",
@@ -1450,14 +1971,14 @@
       "MatterName": "Zoning, Bronx Metro North Station Area Study, Bronx (C 240159 MMX)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2024-07-18T14:39:20.597Z"
+      "LastModified": "2024-07-18T23:07:09.3Z"
     },
     {
       "ID": 411072,
       "GUID": "CA3B4FF2-5A9E-4064-951A-4ADFD7856FF3",
       "Title": "Application number C 240160 MMX (Bronx Metro-North Station Area Study) submitted by the New York City Department of City Planning pursuant to Sections 197-c and 199 of the New York City Charter for an amendment to the City Map involving: the establishment of a street volume from the northern terminus of Marconi Street to Pelham Parkway to facilitate a future bridge connection between these two streets; and the future adjustment of grades and block dimensions necessitated thereby; including authorization for any acquisition or disposition of real property related thereto, in accordance with an alteration map to be prepared pursuant to the appropriate resolutions of approval, Borough of the Bronx, Community Districts 9, 10 & 11, Council Districts 13, 17, and 18.",
       "AgendaSequence": 100,
-      "MinutesSequence": 120,
+      "MinutesSequence": 121,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Zoning and Franchises",
@@ -1469,14 +1990,14 @@
       "MatterName": "Zoning, Bronx Metro North Station Area Study, Bronx (C 240160 MMX)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2024-07-18T14:39:20.6Z"
+      "LastModified": "2024-07-18T23:07:09.3Z"
     },
     {
       "ID": 411073,
       "GUID": "EA1CFAD4-F4B8-43EE-A175-A9B2A4431E0D",
       "Title": "Application number C 240163 MMX (Bronx Metro-North Station Area Study) submitted by 1601 Bronxdale Property Owner LLC pursuant to Sections 197-c and 199 of the New York City Charter for an amendment to the City Map involving: the establishment of Pierce Avenue west of Bronxdale Avenue; and the adjustment of grades and block dimensions necessitated thereby; including authorization for any acquisition or disposition of real property related thereto, in accordance with Map No. 13150 dated January 20, 2024 and signed by the Borough President, Borough of the Bronx, Community Districts 9, 10 & 11, Council Districts 13, 17, and 18.",
       "AgendaSequence": 101,
-      "MinutesSequence": 122,
+      "MinutesSequence": 123,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Zoning and Franchises",
@@ -1488,14 +2009,14 @@
       "MatterName": "Zoning, Bronx Metro North Station Area Study, Bronx (C 240163 MMX)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2024-07-18T14:39:20.613Z"
+      "LastModified": "2024-07-18T23:07:09.303Z"
     },
     {
       "ID": 411074,
       "GUID": "80609E4E-B2A2-4BDA-BBDC-EC84E884FC7A",
       "Title": "Application number C 230293 ZMK (500 Kent Avenue) submitted by 500 Kent LLC and United Jewish Organizations of Williamsburg, Inc. pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section No. 12d, changing from an M3-1 District to an M1-5 District, property bounded by Division Avenue, Kent Avenue, the easterly prolongation of the N.Y.C. Pierhead Line, and the U.S. Pierhead and Bulkhead Line, Borough of Brooklyn, Community District 2, Council District 33.",
       "AgendaSequence": 102,
-      "MinutesSequence": 124,
+      "MinutesSequence": 125,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Zoning and Franchises",
@@ -1507,14 +2028,14 @@
       "MatterName": "Zoning, 500 Kent Avenue, Brooklyn (C 230293 ZMK)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2024-07-18T14:39:20.623Z"
+      "LastModified": "2024-07-18T23:07:09.303Z"
     },
     {
       "ID": 411075,
       "GUID": "08172D5C-88B7-4DE4-B7FB-279B806AC52F",
       "Title": "Application number C 230294 ZSK (500 Kent Avenue) submitted by 500 Kent LLC and United Jewish Organizations of Williamsburg, Inc. pursuant to Sections 197-c and 201 of the New York City Charter for the grant of a special permit pursuant to Section 62-837(a) of the Zoning Resolution to modify the height and setback, and the maximum width of walls facing the shoreline requirements of Section 62-34 (Height and Setback Regulations on Waterfront Blocks), in connection with a proposed commercial development on property bounded by Division Avenue, Kent Avenue, the easterly prolongation of the N.Y.C. Pierhead Line, and the U.S. Pierhead and Bulkhead Line (Block 2023, Lot 10), Borough of Brooklyn, Community District 2, Council District 33.",
       "AgendaSequence": 103,
-      "MinutesSequence": 126,
+      "MinutesSequence": 127,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Zoning and Franchises",
@@ -1526,14 +2047,14 @@
       "MatterName": "Zoning, 500 Kent Avenue, Brooklyn (C 230294 ZSK)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2024-07-18T14:39:20.627Z"
+      "LastModified": "2024-07-18T23:07:09.307Z"
     },
     {
       "ID": 411076,
       "GUID": "B16CFD5A-EC00-4593-8EAE-3E5A0A050D4F",
       "Title": "Application number C 230296 ZSK (500 Kent Avenue) submitted by 500 Kent LLC and United Jewish Organizations of Williamsburg, Inc. pursuant to Sections 197-c and 201 of the New York City Charter for the grant of special permit pursuant to Section 74-52 of the Zoning Resolution to allow an attended public parking garage with a maximum capacity of 234 parking spaces, in connection with a proposed commercial development on property bounded by Division Avenue, Kent Avenue, the easterly prolongation of the N.Y.C. Pierhead Line, and the U.S. Pierhead and Bulkhead Line (Block 2023, Lot 10), Borough of Brooklyn, Community District 2, Council District 33.",
       "AgendaSequence": 104,
-      "MinutesSequence": 128,
+      "MinutesSequence": 129,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Zoning and Franchises",
@@ -1545,14 +2066,14 @@
       "MatterName": "Zoning, 500 Kent Avenue, Brooklyn (C 230296 ZSK)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2024-07-18T14:39:20.627Z"
+      "LastModified": "2024-07-18T23:07:09.307Z"
     },
     {
       "ID": 411077,
       "GUID": "5F50501A-7077-487D-9108-1ACEB0049F41",
       "Title": "Application number C 240131 ZMK (3033 Avenue V Rezoning) submitted by Ford Coyle Properties Inc. pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section No. 29a, eliminating from within an existing R4 District a C1-2 District, changing from an R4 District to an R7D District, and establishing within the proposed R7D District a C2-4 District, property bounded by a line 100 feet northerly of Avenue V, Coyle Street, Avenue V, and Ford Street, Borough of Brooklyn, Community District 15, Council District 46.",
       "AgendaSequence": 105,
-      "MinutesSequence": 130,
+      "MinutesSequence": 131,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Zoning and Franchises",
@@ -1564,14 +2085,14 @@
       "MatterName": "Zoning, 3033 Avenue V Rezoning, Brooklyn (C 240131 ZMK)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2024-07-18T14:39:20.63Z"
+      "LastModified": "2024-07-18T23:07:09.31Z"
     },
     {
       "ID": 411078,
       "GUID": "A4990C0F-6C1E-43F2-BAAF-BFB1278120AE",
       "Title": "Application number N 240132 ZRK (3033 Avenue V Rezoning) an application submitted by Ford Coyle Properties Inc., pursuant to Section 201 of the New York City Charter, for an amendment of the Zoning Resolution of the City of New York, modifying APPENDIX F for the purpose of establishing a Mandatory Inclusionary Housing area. Borough of Brooklyn, Community District 15, Council District 46.",
       "AgendaSequence": 106,
-      "MinutesSequence": 132,
+      "MinutesSequence": 133,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Zoning and Franchises",
@@ -1583,14 +2104,14 @@
       "MatterName": "Zoning, 3033 Avenue V Rezoning, Brooklyn (N 240132 ZRK)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2024-07-18T14:39:20.63Z"
+      "LastModified": "2024-07-18T23:07:09.31Z"
     },
     {
       "ID": 411079,
       "GUID": "E43F8DF6-FE4D-4A66-97F6-19C1002C5F34",
       "Title": "Application number C 240072 ZMK (197 Berry St Rezoning) submitted by Bensing 250 LLC pursuant to Sections 197- c and 201 of the New York City Charter for an amendment of the Zoning Map, Section Nos. 12c and 12d, by changing from an M1-2/R6B District to an M1-4/R6B District, property bounded by Berry Street, a line midway between North 4th Street and North 3rd Street, Bedford Avenue, and North 3rd Street, Borough of Brooklyn, Community District 1, Council District 34.",
       "AgendaSequence": 107,
-      "MinutesSequence": 134,
+      "MinutesSequence": 135,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Zoning and Franchises",
@@ -1602,14 +2123,14 @@
       "MatterName": "Zoning, 197 Berry St Rezoning, Brooklyn (C 240072 ZMK)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2024-07-18T14:39:20.63Z"
+      "LastModified": "2024-07-18T23:07:09.313Z"
     },
     {
       "ID": 411080,
       "GUID": "CCFB570A-8D8F-4C66-8BD4-8E4F391F1552",
       "Title": "Application number C 230258 ZMK (712 Myrtle Avenue) submitted by Joel Berkowitz pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section No. 13b, changing from an M1-2 District to an R7D District and establishing within the proposed R7D District a C2-4 District, property bounded by Myrtle Avenue, Walworth Street, a line 100 feet southerly of Myrtle Avenue, and Spencer Street, Borough of Brooklyn, Community District 3, Council District 33.",
       "AgendaSequence": 108,
-      "MinutesSequence": 136,
+      "MinutesSequence": 137,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Zoning and Franchises",
@@ -1621,14 +2142,14 @@
       "MatterName": "Zoning, 712 Myrtle Avenue, Brooklyn (C 230258 ZMK)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2024-07-18T14:39:20.633Z"
+      "LastModified": "2024-07-18T23:07:09.313Z"
     },
     {
       "ID": 411081,
       "GUID": "CD551BFA-1EA5-4D83-BC18-C8B12B6C6016",
       "Title": "Application number N 230259 ZRK (712 Myrtle Avenue) submitted by Joel Berkowitz, pursuant to Section 201 of the New York City Charter, for an amendment of the Zoning Resolution of the City of New York, modifying APPENDIX F for the purpose of establishing a Mandatory Inclusionary Housing area, Borough of Brooklyn, Community District 3, Council District 33.",
       "AgendaSequence": 109,
-      "MinutesSequence": 138,
+      "MinutesSequence": 139,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Zoning and Franchises",
@@ -1640,14 +2161,14 @@
       "MatterName": "Zoning, 712 Myrtle Avenue, Brooklyn (N 230259 ZRK)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2024-07-18T14:39:20.64Z"
+      "LastModified": "2024-07-18T23:07:09.317Z"
     },
     {
       "ID": 411082,
       "GUID": "53079859-DB16-4907-B604-20EA7AD769C7",
       "Title": "Application number C 230172 MMR (Prince's Point Development) submitted by PMBL LLC pursuant to Sections 197-c and 199 of the New York City Charter for an amendment to the City Map involving: the establishment of Coastal Loop, Dune Lane, Schooner Lane, and Anchorage Lane and the adjustment of grades and block dimensions necessitated thereby, including authorization for any acquisition or disposition of real property related thereto, in accordance with Map No. 4274 dated February 21, 2024 and signed by the Borough President, Borough of Staten Island, Community District 3, Council District 51.",
       "AgendaSequence": 110,
-      "MinutesSequence": 140,
+      "MinutesSequence": 141,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Zoning and Franchises",
@@ -1659,14 +2180,14 @@
       "MatterName": "Zoning, Prince's Point Development, Staten Island (C 230172 MMR)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2024-07-18T14:39:20.643Z"
+      "LastModified": "2024-07-18T23:07:09.317Z"
     },
     {
       "ID": 411083,
       "GUID": "546521D1-733A-4998-B551-CA0DF28F3851",
       "Title": "Application number N 240120 ZRR (Prince’s Point Vesting Amendment) submitted by the NYC Department of City Planning, pursuant to Section 201 of the New York City Charter, for an amendment of the Zoning Resolution of the City of New York, modifying Article I, Chapter 1 (Title, Establishment of Controls and Interpretation of Regulations) and Article X, Chapter 7 (Special South Richmond Development District), Borough of Staten Island, Community District 3, Council District 51.",
       "AgendaSequence": 111,
-      "MinutesSequence": 142,
+      "MinutesSequence": 143,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Zoning and Franchises",
@@ -1678,14 +2199,14 @@
       "MatterName": "Zoning, Prince's Point Development, Staten Island (N 240120 ZRR)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2024-07-18T14:39:20.647Z"
+      "LastModified": "2024-07-18T23:07:09.32Z"
     },
     {
       "ID": 411099,
       "GUID": "21E1AFD3-967B-49C8-8B84-0A4A6628D7C9",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the administration of employee benefits",
       "AgendaSequence": 66,
-      "MinutesSequence": 80,
+      "MinutesSequence": 81,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Civil Service and Labor",
@@ -1696,14 +2217,14 @@
       "MatterFile": "Int 0983-2024",
       "MatterName": "Administration of employee benefits.",
       "MatterType": "Introduction",
-      "LastModified": "2024-07-18T14:51:36.173Z"
+      "LastModified": "2024-07-18T23:07:09.257Z"
     },
     {
       "ID": 411100,
       "GUID": "17F580EE-FE3E-4939-BF5F-FF4DD4535CDA",
       "Title": "Application number D 2450087057 SWQ Wings & Seafood, pursuant to Section 19-160.2 of the Administrative Code of the City of New York, for a revocable consent to establish, maintain, and operate a sidewalk café located at 785 Fairview Avenue, Borough of Queens, Community District 5, Council District 30.",
       "AgendaSequence": 112,
-      "MinutesSequence": 144,
+      "MinutesSequence": 145,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Zoning and Franchises",
@@ -1715,133 +2236,187 @@
       "MatterName": "Zoning, SWQ Wings & Seafood, Queens (D 2450087057)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2024-07-18T14:39:20.647Z"
+      "LastModified": "2024-07-18T23:07:09.32Z"
     },
     {
       "ID": 411104,
       "GUID": "37375EDD-6E29-482D-A12E-4BFB330ABA94",
       "Title": "Resolution authorizing the Speaker to commence legal action on behalf of the Council of the City of New York to oppose the Department of Correction’s efforts to suspend Local Law 42 of 2024.",
       "AgendaSequence": 59,
-      "MinutesSequence": 73,
+      "MinutesSequence": 74,
       "Version": "*",
       "AgendaNote": "Preconsidered - Adopted by the Committee on Criminal Justice",
+      "MinutesNote": "Pursuant to Rule 8.50 of the Council, the Majority Leader and Acting President Pro Tempore (Council Member Farías) called for a voice vote.  Hearing those in favor, the Majority Leader and Acting President Pro Tempore (Council Member Farías) declared the Resolution to be adopted.\r\n\r\nThe following 5 Council Members formally noted their intention to vote negative on this item: \r\nCouncil Members Ariola, Holden, Marmorato, Paladino, and Yeger.\r\n\r\nAdopted by the Council by voice-vote. ",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by voice vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 74554,
       "MatterFile": "Res 0504-2024",
       "MatterName": "Authorizing the Speaker to commence legal action on behalf of the Council of the City of New York to oppose the Department of Correction’s efforts to suspend Local Law 42 of 2024.",
       "MatterType": "Resolution",
-      "LastModified": "2024-07-18T14:39:20.52Z"
+      "LastModified": "2024-07-18T23:08:41.473Z"
     },
     {
       "ID": 411105,
       "GUID": "AD96018B-3AC4-41BB-9F0A-FA9D822104CC",
       "Title": "Fulton Street South, Block 1861, Lot 20, Brooklyn, Community District No. 3, Council District No. 36.",
       "AgendaSequence": 0,
-      "MinutesSequence": 26,
+      "MinutesSequence": 27,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74542,
       "MatterFile": "LU 0105-2024",
       "MatterName": "Fulton Street South, Block 1861, Lot 20, Brooklyn, Community District No. 3, Council District No. 36.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2024-07-18T14:39:20.45Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-07-18T23:07:09.21Z"
     },
     {
       "ID": 411106,
       "GUID": "E4FE8064-54C1-4296-8A84-169EDF827E98",
       "Title": "Application number C 230351 ZMK (2118 Avenue U) submitted by 2118 Avenue U, LLC, pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section No. 29a, eliminating from within an existing R4 District a C1-3 District, changing from an R4 District to an R6A District, and establishing within the proposed R6A District a C2-4 District, Borough of Brooklyn, Community District 15, Council District 48.",
       "AgendaSequence": 0,
-      "MinutesSequence": 31,
+      "MinutesSequence": 32,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74391,
       "MatterFile": "LU 0090-2024",
       "MatterName": "Zoning, 2118 Avenue U, Brooklyn (C 230351 ZMK)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2024-07-18T14:39:20.453Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-07-18T23:07:09.217Z"
     },
     {
       "ID": 411107,
       "GUID": "6898238F-5686-4B53-8C7C-3AA8D04B7592",
       "Title": "Application number N 230352 ZRK (2118 Avenue U) submitted by 2118 Avenue U, LLC, pursuant to Section 201 of the New York City Charter, for an amendment of the Zoning Resolution of the City of New York, modifying APPENDIX F for the purpose of establishing a Mandatory Inclusionary Housing area, Borough of Brooklyn, Community District 15, Council District 48.",
       "AgendaSequence": 0,
-      "MinutesSequence": 33,
+      "MinutesSequence": 34,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74392,
       "MatterFile": "LU 0091-2024",
       "MatterName": "Zoning, 2118 Avenue U, Brooklyn (N 230352 ZRK)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2024-07-18T14:39:20.457Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-07-18T23:07:09.217Z"
     },
     {
       "ID": 411108,
       "GUID": "4DB4F9DE-E78F-4032-82C2-89170589E80F",
       "Title": "Application number C 230276 ZMQ (58-75 Queens Midtown Expressway Rezoning) submitted by Lucky Supply Holding, LLC, pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section No. 13c, by changing from an M1-1 District to an M1-4 District, Borough of Queens, Community District 2, Council District 26.",
       "AgendaSequence": 0,
-      "MinutesSequence": 35,
+      "MinutesSequence": 36,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74393,
       "MatterFile": "LU 0092-2024",
       "MatterName": "Zoning, 58-75 Queens Midtown Expressway Rezoning, Queens (C 230276 ZMQ)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2024-07-18T14:39:20.457Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-07-18T23:07:09.22Z"
     },
     {
       "ID": 411109,
       "GUID": "C92C50B2-6635-4DF8-8668-F0C5FF868980",
       "Title": "Application number C 220185 ZMQ (27-24 College Point Boulevard Commercial Overlay) submitted by Bacele Realty Corp., pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section No. 10a, by establishing within an existing R4 District a C2-3 District and establishing within an existing R5B District a C2-3 District, Borough of Queens, Community District 7, Council District 19.",
       "AgendaSequence": 0,
-      "MinutesSequence": 37,
+      "MinutesSequence": 38,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74394,
       "MatterFile": "LU 0093-2024",
       "MatterName": "Zoning, 27-24 College Point Boulevard Commercial Overlay, Queens (C 220185 ZMQ)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2024-07-18T14:39:20.467Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-07-18T23:07:09.22Z"
     },
     {
       "ID": 411110,
       "GUID": "0245EF70-98A2-4EBE-8E0A-238FA7FC86A7",
       "Title": "Application number N 240327 HIX (Old Croton Aqueduct Walk, DL-538/LP-2673) submitted by the Landmarks Preservation Commission, pursuant to the provisions Section 3020 of the Charter of the City of New York and Chapter 3 of Title 25 of the Administrative Code of the City of New York, for the designation of the Old Croton Aqueduct Walk located along Aqueduct Avenue between West Kingsbridge Road and West Burnside Avenue (Tax Map Block 3210, Lots 1 and 7; Block 3211, Lot 1 in part; Block 3212, Lots 1, 67, 71; Block 3213, Lots 27, 48, 49, 70; Block 3214, Lot 33; Block 3215 Lot 31), Borough of the Bronx, Community District 5 & 7, Council District 14.",
       "AgendaSequence": 0,
-      "MinutesSequence": 39,
+      "MinutesSequence": 40,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74429,
       "MatterFile": "LU 0098-2024",
       "MatterName": "Landmarks, Old Croton Aqueduct Walk, Bronx (N 240327 HIX)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2024-07-18T14:39:20.48Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-07-18T23:07:09.223Z"
     },
     {
       "ID": 411111,
       "GUID": "F1F6EB7F-86B7-489D-828E-A19B444D151B",
       "Title": "Application No. G 240054 NUR (Resilient Homes Staten Island) submitted by the New York City Department of Housing Preservation and Development, pursuant to Article 16 of the General Municipal Law for approval of a real property tax exemption, urban development action area project, and waiver of the area designation requirement and Section 197-c and 197-d of the New York City Charter, for fifteen properties (Tax Map Block 3124, Lot 116; Block 3728, Lot 20; Block 3734, Lots 38, 39, and 41; Block 3736, Lot 20; Block 3738, Lots 5 and 6; Block 3795, Lot 37 (Tentative Lots 37 and 38); Block 3802, Lot 5; Block 3873, Lot 28; Block 3881, Lot 1 (Tentative Lots 1 and 3); Block 3884, Lots 14 and 15 (Tentative Lot 14)) located in the Borough of Staten Island, Community District 2, Council District 50.",
       "AgendaSequence": 0,
-      "MinutesSequence": 41,
+      "MinutesSequence": 42,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74431,
       "MatterFile": "LU 0099-2024",
       "MatterName": "Landmarks, Resilient Homes Staten Island UDAAP, Staten Island (G 240054 NUR)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2024-07-18T14:39:20.48Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-07-18T23:07:09.223Z"
     },
     {
       "ID": 411112,
       "GUID": "B9940FB9-0EDD-4F08-BCE9-C5282BC82F1C",
       "Title": "Application No. G 240055 XAR (Resilient Homes Staten Island) submitted by the New York City Department of Housing Preservation and Development, pursuant to Section 577 of the Private Housing Finance Law for approval of a real property tax exemption for fifteen properties (Tax Map Block 3124, Lot 116; Block 3728, Lot 20; Block 3734, Lots 38, 39, and 41; Block 3736, Lot 20; Block 3738, Lots 5 and 6; Block 3795, Lot 37 (Tentative Lots 37 and 38); Block 3802, Lot 5; Block 3873, Lot 28; Block 3881, Lot 1 (Tentative Lots 1 and 3); Block 3884, Lots 14 and 15 (Tentative Lot 14)) located in the Borough of Staten Island, Community District 2, Council District 50.",
       "AgendaSequence": 0,
-      "MinutesSequence": 43,
+      "MinutesSequence": 44,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74432,
       "MatterFile": "LU 0100-2024",
       "MatterName": "Landmarks, Resilient Homes Staten Island Article XI, Staten Island (G 240055 XAR)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2024-07-18T14:39:20.483Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-07-18T23:07:09.227Z"
     },
     {
       "ID": 411117,
@@ -1851,7 +2426,7 @@
       "MinutesSequence": 1,
       "Version": "",
       "MinutesNote": "The Majority Leader (Council Member Farías) presiding as the President Pro Tempore.",
-      "LastModified": "2024-07-18T14:39:20.423Z"
+      "LastModified": "2024-07-18T23:07:09.19Z"
     },
     {
       "ID": 411118,
@@ -1860,35 +2435,35 @@
       "AgendaSequence": 0,
       "MinutesSequence": 3,
       "Version": "",
-      "MinutesNote": "The presence of a quorum was announced by the Majority Leader and Acting President Pro Tempore (Council Member Farías).\r\n\r\nThere were XX Council Members marked present for this Stated Meeting.",
-      "LastModified": "2024-07-18T14:59:10.68Z"
+      "MinutesNote": "The presence of a quorum was announced by the Majority Leader and Acting President Pro Tempore (Council Member Farías).\r\n\r\nThere were 42 Council Members marked present for this Stated Meeting.",
+      "LastModified": "2024-07-18T23:07:09.19Z"
     },
     {
       "ID": 411119,
       "GUID": "7EC6EF72-060C-4E53-AB5D-3CE14105F832",
       "Title": "",
       "AgendaSequence": 0,
-      "MinutesSequence": 146,
+      "MinutesSequence": 147,
       "Version": "",
       "MinutesNote": "At this point the Speaker (Council Member Adams) made the following announcements:",
-      "LastModified": "2024-07-18T14:58:24.097Z"
+      "LastModified": "2024-07-18T23:07:09.323Z"
     },
     {
       "ID": 411120,
       "GUID": "1595F969-08F5-459A-97E5-F1881AFCC896",
       "Title": "",
       "AgendaSequence": 0,
-      "MinutesSequence": 147,
+      "MinutesSequence": 148,
       "Version": "",
       "MinutesNote": "Whereupon on motion of the Speaker (Council Member Adams), the Majority Leader and Acting President Pro Tempore (Council Member Farías) adjourned these proceedings to meet again for the Stated Meeting of Thursday, August 15, 2024.\r\n\r\nMICHAEL M. McSWEENEY, City Clerk\r\nClerk of the Council",
-      "LastModified": "2024-07-18T15:03:09.717Z"
+      "LastModified": "2024-07-18T23:07:09.323Z"
     },
     {
       "ID": 411121,
       "GUID": "613D0816-08C3-47A0-921F-94AD78B3C1FA",
       "Title": "Application number D 2450087057 SWQ Wings & Seafood, pursuant to Section 19-160.2 of the Administrative Code of the City of New York, for a revocable consent to establish, maintain, and operate a sidewalk café located at 785 Fairview Avenue, Borough of Queens, Community District 5, Council District 30.",
       "AgendaSequence": 0,
-      "MinutesSequence": 145,
+      "MinutesSequence": 146,
       "Version": "*",
       "ActionID": 43,
       "ActionName": "Referred to Comm by Council",
@@ -1898,14 +2473,14 @@
       "MatterName": "Zoning, SWQ Wings & Seafood, Queens (D 2450087057)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2024-07-18T14:47:36.62Z"
+      "LastModified": "2024-07-18T23:07:09.323Z"
     },
     {
       "ID": 411122,
       "GUID": "D934CCDD-17B5-4E7D-8754-ED4C3E6412DB",
       "Title": "Application number N 240120 ZRR (Prince’s Point Vesting Amendment) submitted by the NYC Department of City Planning, pursuant to Section 201 of the New York City Charter, for an amendment of the Zoning Resolution of the City of New York, modifying Article I, Chapter 1 (Title, Establishment of Controls and Interpretation of Regulations) and Article X, Chapter 7 (Special South Richmond Development District), Borough of Staten Island, Community District 3, Council District 51.",
       "AgendaSequence": 0,
-      "MinutesSequence": 143,
+      "MinutesSequence": 144,
       "Version": "*",
       "ActionID": 43,
       "ActionName": "Referred to Comm by Council",
@@ -1915,14 +2490,14 @@
       "MatterName": "Zoning, Prince's Point Development, Staten Island (N 240120 ZRR)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2024-07-18T14:47:20.873Z"
+      "LastModified": "2024-07-18T23:07:09.32Z"
     },
     {
       "ID": 411124,
       "GUID": "65F2BDB0-45C8-4911-AC6D-05AA624D0EBA",
       "Title": "Application number C 230172 MMR (Prince's Point Development) submitted by PMBL LLC pursuant to Sections 197-c and 199 of the New York City Charter for an amendment to the City Map involving: the establishment of Coastal Loop, Dune Lane, Schooner Lane, and Anchorage Lane and the adjustment of grades and block dimensions necessitated thereby, including authorization for any acquisition or disposition of real property related thereto, in accordance with Map No. 4274 dated February 21, 2024 and signed by the Borough President, Borough of Staten Island, Community District 3, Council District 51.",
       "AgendaSequence": 0,
-      "MinutesSequence": 141,
+      "MinutesSequence": 142,
       "Version": "*",
       "ActionID": 43,
       "ActionName": "Referred to Comm by Council",
@@ -1932,14 +2507,14 @@
       "MatterName": "Zoning, Prince's Point Development, Staten Island (C 230172 MMR)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2024-07-18T14:47:07.917Z"
+      "LastModified": "2024-07-18T23:07:09.32Z"
     },
     {
       "ID": 411125,
       "GUID": "D2B01C11-5CE8-4E5A-BA4F-07983722E3B8",
       "Title": "Application number N 230259 ZRK (712 Myrtle Avenue) submitted by Joel Berkowitz, pursuant to Section 201 of the New York City Charter, for an amendment of the Zoning Resolution of the City of New York, modifying APPENDIX F for the purpose of establishing a Mandatory Inclusionary Housing area, Borough of Brooklyn, Community District 3, Council District 33.",
       "AgendaSequence": 0,
-      "MinutesSequence": 139,
+      "MinutesSequence": 140,
       "Version": "*",
       "ActionID": 43,
       "ActionName": "Referred to Comm by Council",
@@ -1949,14 +2524,14 @@
       "MatterName": "Zoning, 712 Myrtle Avenue, Brooklyn (N 230259 ZRK)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2024-07-18T14:46:55.187Z"
+      "LastModified": "2024-07-18T23:07:09.317Z"
     },
     {
       "ID": 411126,
       "GUID": "74405390-4D0F-4617-985D-66AB4DDB3840",
       "Title": "Application number C 230258 ZMK (712 Myrtle Avenue) submitted by Joel Berkowitz pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section No. 13b, changing from an M1-2 District to an R7D District and establishing within the proposed R7D District a C2-4 District, property bounded by Myrtle Avenue, Walworth Street, a line 100 feet southerly of Myrtle Avenue, and Spencer Street, Borough of Brooklyn, Community District 3, Council District 33.",
       "AgendaSequence": 0,
-      "MinutesSequence": 137,
+      "MinutesSequence": 138,
       "Version": "*",
       "ActionID": 43,
       "ActionName": "Referred to Comm by Council",
@@ -1966,14 +2541,14 @@
       "MatterName": "Zoning, 712 Myrtle Avenue, Brooklyn (C 230258 ZMK)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2024-07-18T14:46:42.487Z"
+      "LastModified": "2024-07-18T23:07:09.313Z"
     },
     {
       "ID": 411127,
       "GUID": "D49B917C-ED7B-4D2A-BE64-9FC282823878",
       "Title": "Application number C 240072 ZMK (197 Berry St Rezoning) submitted by Bensing 250 LLC pursuant to Sections 197- c and 201 of the New York City Charter for an amendment of the Zoning Map, Section Nos. 12c and 12d, by changing from an M1-2/R6B District to an M1-4/R6B District, property bounded by Berry Street, a line midway between North 4th Street and North 3rd Street, Bedford Avenue, and North 3rd Street, Borough of Brooklyn, Community District 1, Council District 34.",
       "AgendaSequence": 0,
-      "MinutesSequence": 135,
+      "MinutesSequence": 136,
       "Version": "*",
       "ActionID": 43,
       "ActionName": "Referred to Comm by Council",
@@ -1983,14 +2558,14 @@
       "MatterName": "Zoning, 197 Berry St Rezoning, Brooklyn (C 240072 ZMK)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2024-07-18T14:46:28.573Z"
+      "LastModified": "2024-07-18T23:07:09.313Z"
     },
     {
       "ID": 411128,
       "GUID": "C66D0601-5CD6-409A-AA98-9D4F4521B179",
       "Title": "Application number N 240132 ZRK (3033 Avenue V Rezoning) an application submitted by Ford Coyle Properties Inc., pursuant to Section 201 of the New York City Charter, for an amendment of the Zoning Resolution of the City of New York, modifying APPENDIX F for the purpose of establishing a Mandatory Inclusionary Housing area. Borough of Brooklyn, Community District 15, Council District 46.",
       "AgendaSequence": 0,
-      "MinutesSequence": 133,
+      "MinutesSequence": 134,
       "Version": "*",
       "ActionID": 43,
       "ActionName": "Referred to Comm by Council",
@@ -2000,14 +2575,14 @@
       "MatterName": "Zoning, 3033 Avenue V Rezoning, Brooklyn (N 240132 ZRK)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2024-07-18T14:46:07.523Z"
+      "LastModified": "2024-07-18T23:07:09.31Z"
     },
     {
       "ID": 411129,
       "GUID": "6B5661E6-C38E-4001-8F31-5B86765D981B",
       "Title": "Application number C 240131 ZMK (3033 Avenue V Rezoning) submitted by Ford Coyle Properties Inc. pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section No. 29a, eliminating from within an existing R4 District a C1-2 District, changing from an R4 District to an R7D District, and establishing within the proposed R7D District a C2-4 District, property bounded by a line 100 feet northerly of Avenue V, Coyle Street, Avenue V, and Ford Street, Borough of Brooklyn, Community District 15, Council District 46.",
       "AgendaSequence": 0,
-      "MinutesSequence": 131,
+      "MinutesSequence": 132,
       "Version": "*",
       "ActionID": 43,
       "ActionName": "Referred to Comm by Council",
@@ -2017,14 +2592,14 @@
       "MatterName": "Zoning, 3033 Avenue V Rezoning, Brooklyn (C 240131 ZMK)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2024-07-18T14:45:40.48Z"
+      "LastModified": "2024-07-18T23:07:09.31Z"
     },
     {
       "ID": 411130,
       "GUID": "7A9328D2-C580-4FF3-A679-449336414695",
       "Title": "Application number C 230296 ZSK (500 Kent Avenue) submitted by 500 Kent LLC and United Jewish Organizations of Williamsburg, Inc. pursuant to Sections 197-c and 201 of the New York City Charter for the grant of special permit pursuant to Section 74-52 of the Zoning Resolution to allow an attended public parking garage with a maximum capacity of 234 parking spaces, in connection with a proposed commercial development on property bounded by Division Avenue, Kent Avenue, the easterly prolongation of the N.Y.C. Pierhead Line, and the U.S. Pierhead and Bulkhead Line (Block 2023, Lot 10), Borough of Brooklyn, Community District 2, Council District 33.",
       "AgendaSequence": 0,
-      "MinutesSequence": 129,
+      "MinutesSequence": 130,
       "Version": "*",
       "ActionID": 43,
       "ActionName": "Referred to Comm by Council",
@@ -2034,14 +2609,14 @@
       "MatterName": "Zoning, 500 Kent Avenue, Brooklyn (C 230296 ZSK)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2024-07-18T14:45:27.127Z"
+      "LastModified": "2024-07-18T23:07:09.307Z"
     },
     {
       "ID": 411131,
       "GUID": "79CEE784-9552-4EF8-B7EE-D662C530DCFF",
       "Title": "Application number C 230294 ZSK (500 Kent Avenue) submitted by 500 Kent LLC and United Jewish Organizations of Williamsburg, Inc. pursuant to Sections 197-c and 201 of the New York City Charter for the grant of a special permit pursuant to Section 62-837(a) of the Zoning Resolution to modify the height and setback, and the maximum width of walls facing the shoreline requirements of Section 62-34 (Height and Setback Regulations on Waterfront Blocks), in connection with a proposed commercial development on property bounded by Division Avenue, Kent Avenue, the easterly prolongation of the N.Y.C. Pierhead Line, and the U.S. Pierhead and Bulkhead Line (Block 2023, Lot 10), Borough of Brooklyn, Community District 2, Council District 33.",
       "AgendaSequence": 0,
-      "MinutesSequence": 127,
+      "MinutesSequence": 128,
       "Version": "*",
       "ActionID": 43,
       "ActionName": "Referred to Comm by Council",
@@ -2051,14 +2626,14 @@
       "MatterName": "Zoning, 500 Kent Avenue, Brooklyn (C 230294 ZSK)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2024-07-18T14:45:10.347Z"
+      "LastModified": "2024-07-18T23:07:09.307Z"
     },
     {
       "ID": 411132,
       "GUID": "63F0B67A-DD00-4FE0-A62C-31F7FC38936E",
       "Title": "Application number C 230293 ZMK (500 Kent Avenue) submitted by 500 Kent LLC and United Jewish Organizations of Williamsburg, Inc. pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section No. 12d, changing from an M3-1 District to an M1-5 District, property bounded by Division Avenue, Kent Avenue, the easterly prolongation of the N.Y.C. Pierhead Line, and the U.S. Pierhead and Bulkhead Line, Borough of Brooklyn, Community District 2, Council District 33.",
       "AgendaSequence": 0,
-      "MinutesSequence": 125,
+      "MinutesSequence": 126,
       "Version": "*",
       "ActionID": 43,
       "ActionName": "Referred to Comm by Council",
@@ -2068,14 +2643,14 @@
       "MatterName": "Zoning, 500 Kent Avenue, Brooklyn (C 230293 ZMK)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2024-07-18T14:44:57.06Z"
+      "LastModified": "2024-07-18T23:07:09.303Z"
     },
     {
       "ID": 411133,
       "GUID": "766AC372-696D-40C0-97C5-4785888D165B",
       "Title": "Application number C 240163 MMX (Bronx Metro-North Station Area Study) submitted by 1601 Bronxdale Property Owner LLC pursuant to Sections 197-c and 199 of the New York City Charter for an amendment to the City Map involving: the establishment of Pierce Avenue west of Bronxdale Avenue; and the adjustment of grades and block dimensions necessitated thereby; including authorization for any acquisition or disposition of real property related thereto, in accordance with Map No. 13150 dated January 20, 2024 and signed by the Borough President, Borough of the Bronx, Community Districts 9, 10 & 11, Council Districts 13, 17, and 18.",
       "AgendaSequence": 0,
-      "MinutesSequence": 123,
+      "MinutesSequence": 124,
       "Version": "*",
       "ActionID": 43,
       "ActionName": "Referred to Comm by Council",
@@ -2085,14 +2660,14 @@
       "MatterName": "Zoning, Bronx Metro North Station Area Study, Bronx (C 240163 MMX)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2024-07-18T14:44:43.333Z"
+      "LastModified": "2024-07-18T23:07:09.303Z"
     },
     {
       "ID": 411134,
       "GUID": "23D43A6A-8941-47F8-9BB2-06B82FFE66F8",
       "Title": "Application number C 240160 MMX (Bronx Metro-North Station Area Study) submitted by the New York City Department of City Planning pursuant to Sections 197-c and 199 of the New York City Charter for an amendment to the City Map involving: the establishment of a street volume from the northern terminus of Marconi Street to Pelham Parkway to facilitate a future bridge connection between these two streets; and the future adjustment of grades and block dimensions necessitated thereby; including authorization for any acquisition or disposition of real property related thereto, in accordance with an alteration map to be prepared pursuant to the appropriate resolutions of approval, Borough of the Bronx, Community Districts 9, 10 & 11, Council Districts 13, 17, and 18.",
       "AgendaSequence": 0,
-      "MinutesSequence": 121,
+      "MinutesSequence": 122,
       "Version": "*",
       "ActionID": 43,
       "ActionName": "Referred to Comm by Council",
@@ -2102,14 +2677,14 @@
       "MatterName": "Zoning, Bronx Metro North Station Area Study, Bronx (C 240160 MMX)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2024-07-18T14:44:30.253Z"
+      "LastModified": "2024-07-18T23:07:09.3Z"
     },
     {
       "ID": 411135,
       "GUID": "C081DEAC-14E4-4BB1-B62A-EDE889B2FBED",
       "Title": "Application number C 240159 MMX (Bronx Metro-North Station Area Study) submitted by the New York City Department of City Planning pursuant to Sections 197-c and 199 of the New York City Charter for an amendment to the City Map involving: the establishment of Morris Park Station Plaza south of Morris Park Avenue and west of Bassett Avenue; and the adjustment of grades and block dimensions necessitated thereby; including authorization for any acquisition or disposition of real property related thereto, in accordance with Map No. 13152 dated January 20, 2024 and signed by the Borough President, Borough of the Bronx, Community Districts 9, 10 & 11, Council Districts 13, 17, and 18.",
       "AgendaSequence": 0,
-      "MinutesSequence": 119,
+      "MinutesSequence": 120,
       "Version": "*",
       "ActionID": 43,
       "ActionName": "Referred to Comm by Council",
@@ -2119,14 +2694,14 @@
       "MatterName": "Zoning, Bronx Metro North Station Area Study, Bronx (C 240159 MMX)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2024-07-18T14:44:16.543Z"
+      "LastModified": "2024-07-18T23:07:09.3Z"
     },
     {
       "ID": 411136,
       "GUID": "61D24EF3-A2C9-4310-B49F-664BE7F4C8CB",
       "Title": "Application number C 240158 MMX (Bronx Metro-North Station Area Study) submitted by the New York City Department of City Planning pursuant to Sections 197-c and 199 of the New York City Charter for an amendment to the City Map involving: the widening of Marconi Street north of Waters Place; and the adjustment of grades and block dimensions necessitated thereby; including authorization for any acquisition or disposition of real property related thereto, in accordance with Map No. 13151 dated January 20, 2024 and signed by the Borough President, Borough of the Bronx, Community Districts 9, 10 & 11, Council Districts 13, 17, and 18.",
       "AgendaSequence": 0,
-      "MinutesSequence": 117,
+      "MinutesSequence": 118,
       "Version": "*",
       "ActionID": 43,
       "ActionName": "Referred to Comm by Council",
@@ -2136,14 +2711,14 @@
       "MatterName": "Zoning, Bronx Metro North Station Area Study, Bronx (C 240158 MMX)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2024-07-18T14:44:01.303Z"
+      "LastModified": "2024-07-18T23:07:09.297Z"
     },
     {
       "ID": 411137,
       "GUID": "83024552-9178-400E-8B72-54D41BACEC97",
       "Title": "Application number C 240157 MMX (Bronx Metro-North Station Area Study) submitted by the New York City Department of City Planning pursuant to Sections 197-c and 199 of the New York City Charter and Section 5-430 et seq. of the New York City Administrative Code for an amendment to the City Map involving the elimination, discontinuance, and closing of a portion of Unionport Road between East Tremont Avenue and Guerlain Street and the adjustment of grades and block dimensions necessitated thereby; including authorization for any acquisition or disposition of real property related thereto, in accordance with Map No. 13153 dated January 20, 2024 and signed by the Borough President, Borough of the Bronx, Community Districts 9, 10 & 11, Council Districts 13, 17, and 18.",
       "AgendaSequence": 0,
-      "MinutesSequence": 115,
+      "MinutesSequence": 116,
       "Version": "*",
       "ActionID": 43,
       "ActionName": "Referred to Comm by Council",
@@ -2153,14 +2728,14 @@
       "MatterName": "Zoning, Bronx Metro North Station Area Study, Bronx (C 240157 MMX)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2024-07-18T14:43:17.383Z"
+      "LastModified": "2024-07-18T23:07:09.297Z"
     },
     {
       "ID": 411138,
       "GUID": "24831188-1C8E-4417-BE53-F5BE83417340",
       "Title": "Application number N 240374 HIM, for the proposed designation by the Landmarks Preservation Commission of the Heckscher Building (now the Crown Building), located at 730 Fifth Avenue (Block 1272, Lot 7503), as an historic landmark (DL-539/LP-2678), submitted pursuant to Section 3020 of the New York City Charter and Section 25-303 of the Administrative Code of the City of New York, Borough of Manhattan, Community District 5, Council District 4.",
       "AgendaSequence": 0,
-      "MinutesSequence": 113,
+      "MinutesSequence": 114,
       "Version": "*",
       "ActionID": 43,
       "ActionName": "Referred to Comm by Council",
@@ -2170,14 +2745,14 @@
       "MatterName": "Landmarks, Heckscher Building, Manhattan (N 240374 HIM)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2024-07-18T15:11:49.853Z"
+      "LastModified": "2024-07-18T23:07:09.293Z"
     },
     {
       "ID": 411139,
       "GUID": "F7BA3253-85ED-462F-A688-6FDBF5E6E3D5",
       "Title": "Application number N 240016 ZRX (Bronx Metro-North Station Area Study) submitted by New York City Department of City Planning, pursuant to Section 201 of the New York City Charter, for an amendment of the Zoning Resolution of the City of New York establishing the Special Eastchester – East Tremont Corridor District (Article XIV, Chapter 5), and modifying APPENDIX F for the purpose of establishing a Mandatory Inclusionary Housing area, APPENDIX I for the purpose of expanding an existing Transit Zone, and related Sections, Borough of the Bronx, Community Districts 9, 10 & 11, Council Districts 13, 17, and 18.",
       "AgendaSequence": 0,
-      "MinutesSequence": 111,
+      "MinutesSequence": 112,
       "Version": "*",
       "ActionID": 43,
       "ActionName": "Referred to Comm by Council",
@@ -2187,14 +2762,14 @@
       "MatterName": "Zoning, Bronx Metro North Station Area Study, Bronx (N 240016 ZRX)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2024-07-18T14:42:48.797Z"
+      "LastModified": "2024-07-18T23:07:09.293Z"
     },
     {
       "ID": 411140,
       "GUID": "D491470C-7BA1-4EA3-A298-C1618F8785B7",
       "Title": "Application number C 240015 ZMX (Bronx Metro-North Station Area Study) submitted by the NYC Department of City Planning pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section Nos. 4a & 4b: eliminating from within an R4 District a C1-2 District, eliminating from within an existing R6 District a C1-2 District, eliminating from within an existing R4 District a C2-2 District, eliminating from within an existing R6 District a C2-2 District, eliminating a Special Planned Community Preservation District (PC), changing from a C8-1 District to an R4 District, changing from an R4 District to an R6-1 District, changing from an R5 District to an R6-1 District, changing from an R6 District to an R6-1 District, changing from a C8-1 District to an R6-1 District, changing from an M1-1 District to an R6-1 District, changing from an R5 District to an R6A District, changing from an R4 District to an R7-2 District, changing from a C8-1 District to an R7-2 District, changing from an M1-1 District to an R7-2 District, changing from an R6 District to an R8X District, changing from a C8-1 District to an R8X District, changing from a C8-4 District to an R8X District, changing from an R4 District to a C4-3 District, changing from an M1-1 District to a C4-3 District, changing from an M1-1 District to a C4-4 District, changing from a C8-1 District to a C8-2 District, changing from an M1-1 District to a C8-2 District, changing from an M1-1 District to an M1-1A/R7-3 District, establishing within an existing R4 District a C2-4 District, establishing within an existing R6 District a C2-4 District, establishing within a proposed R6-1 District a C2-4 District, establishing within an existing R6A District a C2-4 District, establishing within a proposed R7-2 District a C2-4 District, establishing within a proposed R8X District a C2-4 District, and establishing a Special Eastchester – East Tremont Corridor District (ETC), related to property in the Parkchester/Van Nest and Morris Park neighborhoods, Borough of the Bronx, Community Districts 9, 10 & 11, Council Districts 13, 17, and 18.",
       "AgendaSequence": 0,
-      "MinutesSequence": 109,
+      "MinutesSequence": 110,
       "Version": "*",
       "ActionID": 43,
       "ActionName": "Referred to Comm by Council",
@@ -2204,27 +2779,17 @@
       "MatterName": "Zoning, Bronx Metro North Station Area Study, Bronx (C 240015 ZMX)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2024-07-18T14:41:31.667Z"
+      "LastModified": "2024-07-18T23:07:09.29Z"
     },
     {
       "ID": 411141,
       "GUID": "704E0903-A9C2-42D9-B9DC-E98583CCFAF6",
       "Title": "",
       "AgendaSequence": 0,
-      "MinutesSequence": 66,
-      "Version": "",
-      "MinutesNote": "The Majority Leader and Acting President Pro Tempore (Council Member Farías) put the question whether the Council would agree with and adopt such reports, which were decided in the affirmative by the following vote:",
-      "LastModified": "2024-07-18T14:48:17.82Z"
-    },
-    {
-      "ID": 411142,
-      "GUID": "4A4F729C-0697-4DD2-AAA8-1C8EE0A21A3B",
-      "Title": "",
-      "AgendaSequence": 0,
       "MinutesSequence": 67,
       "Version": "",
-      "MinutesNote": "The following files were removed from the General Order Calendar and voted separately:\r\n\r\nSee files for individual votes.",
-      "LastModified": "2024-07-18T14:48:30.113Z"
+      "MinutesNote": "The Majority Leader and Acting President Pro Tempore (Council Member Farías) put the question whether the Council would agree with and adopt such reports, which were decided in the affirmative by the following vote:",
+      "LastModified": "2024-07-18T23:07:09.243Z"
     },
     {
       "ID": 411147,
@@ -2234,20 +2799,46 @@
       "MinutesSequence": 15,
       "Version": "",
       "MinutesNote": "The Majority Leader and Acting President Pro Tempore (Council Member Farías) put the question whether the Council would agree with and adopt such motion which was decided in the affirmative by the following vote:",
-      "LastModified": "2024-07-18T15:01:40.337Z"
+      "LastModified": "2024-07-18T23:07:09.2Z"
     },
     {
       "ID": 411148,
       "GUID": "CFF5ED9F-AC11-4C84-913E-242A37CEA867",
       "Title": "",
       "AgendaSequence": 0,
-      "MinutesSequence": 16,
+      "MinutesSequence": 17,
       "Version": "",
       "MinutesNote": "At this point, the Majority Leader and Acting President Pro Tempore (Council Member Farías) declared that the aforementioned items were adopted and referred to the Committee on Land Use and to the appropriate Land Use Subcommittee.",
-      "LastModified": "2024-07-18T15:01:55.4Z"
+      "LastModified": "2024-07-18T23:07:09.203Z"
+    },
+    {
+      "ID": 411157,
+      "GUID": "D1E68951-8234-4C74-9DC7-4F2B8DFA0642",
+      "Title": "Passed The Consent Agenda",
+      "AgendaSequence": 0,
+      "MinutesSequence": 16,
+      "Version": "",
+      "ActionText": "A motion was made that these files be approved by consent vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
+      "LastModified": "2024-07-18T23:07:09.203Z"
+    },
+    {
+      "ID": 411158,
+      "GUID": "6E8A76B5-6A4C-4EDA-9FDD-1879F6920585",
+      "Title": "Passed The Consent Agenda",
+      "AgendaSequence": 0,
+      "MinutesSequence": 68,
+      "Version": "",
+      "ActionText": "A motion was made that these files be approved by consent vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
+      "LastModified": "2024-07-18T23:07:09.247Z"
     }
   ],
   "AgendaLastPublished": "2024-07-18T15:29:39.727Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-07-18T15:29:39.947Z"
+  "MinutesLastPublished": "2024-07-18T23:08:49.507Z",
+  "LastModified": "2024-07-18T23:08:49.613Z"
 }
