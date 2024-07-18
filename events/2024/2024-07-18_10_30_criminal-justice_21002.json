@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/7/21002_A_Committee_on_Criminal_Justice_24-07-18_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/7/21002_M_Committee_on_Criminal_Justice_24-07-18_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_240718-111227.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21002&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,17 +21,122 @@
       "GUID": "82FEADED-EE53-4D73-97DA-E27CCB1CDBDE",
       "Title": "Resolution authorizing the Speaker to commence legal action on behalf of the Council of the City of New York to oppose the Department of Correction’s efforts to suspend Local Law 42 of 2024.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Preconsidered",
+      "ActionID": 15,
+      "ActionName": "Hearing on P-C Item by Comm",
+      "ActionText": "This Resolution was Hearing on P-C Item by Comm",
       "MatterID": 74554,
       "MatterFile": "Res 0504-2024",
       "MatterName": "Authorizing the Speaker to commence legal action on behalf of the Council of the City of New York to oppose the Department of Correction’s efforts to suspend Local Law 42 of 2024.",
       "MatterType": "Resolution",
-      "LastModified": "2024-07-18T13:30:42.247Z"
+      "LastModified": "2024-07-18T14:47:42.343Z"
+    },
+    {
+      "ID": 411145,
+      "GUID": "5E76EA27-7A9E-4D97-ADD0-7661F9FE495E",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 80
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2024-07-18T14:47:18.06Z"
+    },
+    {
+      "ID": 411146,
+      "GUID": "534AC853-F241-43D2-BBC2-F8986D35BBCA",
+      "Title": "Resolution authorizing the Speaker to commence legal action on behalf of the Council of the City of New York to oppose the Department of Correction’s efforts to suspend Local Law 42 of 2024.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 25,
+      "ActionName": "P-C Item Approved by Comm",
+      "ActionText": "A motion was made that this Resolution be P-C Item Approved by Comm approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 74554,
+      "MatterFile": "Res 0504-2024",
+      "MatterName": "Authorizing the Speaker to commence legal action on behalf of the Council of the City of New York to oppose the Department of Correction’s efforts to suspend Local Law 42 of 2024.",
+      "MatterType": "Resolution",
+      "LastModified": "2024-07-18T14:48:07.987Z"
     }
   ],
   "AgendaLastPublished": "2024-07-18T13:30:47.333Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-07-18T13:30:47.403Z"
+  "MinutesLastPublished": "2024-07-18T14:55:06.267Z",
+  "LastModified": "2024-07-18T15:15:31.787Z"
 }

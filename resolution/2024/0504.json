@@ -6,8 +6,8 @@
   "Title": "Resolution authorizing the Speaker to commence legal action on behalf of the Council of the City of New York to oppose the Department of Correction’s efforts to suspend Local Law 42 of 2024.",
   "TypeID": 1,
   "TypeName": "Resolution",
-  "StatusID": 2,
-  "StatusName": "Introduced",
+  "StatusID": 24,
+  "StatusName": "Reported from Committee",
   "BodyID": 5237,
   "BodyName": "Committee on Criminal Justice",
   "IntroDate": "2024-07-18T00:00:00Z",
@@ -20,9 +20,127 @@
       "ID": 7824,
       "Slug": "sandy-nurse",
       "FullName": "Sandy Nurse"
+    },
+    {
+      "ID": 7740,
+      "Slug": "carlina-rivera",
+      "FullName": "Carlina Rivera"
     }
   ],
   "History": [
+    {
+      "ID": 410914,
+      "Date": "2024-07-18T10:30:00Z",
+      "ActionID": 15,
+      "Action": "Hearing on P-C Item by Comm",
+      "Description": "This Resolution was Hearing on P-C Item by Comm",
+      "BodyID": 5237,
+      "BodyName": "Committee on Criminal Justice",
+      "EventID": 21002,
+      "AgendaSequence": 1,
+      "MinutesSequence": 2,
+      "Version": "*",
+      "AgendaNote": "Preconsidered",
+      "MatterStatusID": 2,
+      "LastModified": "2024-07-18T14:47:42.343Z"
+    },
+    {
+      "ID": 411146,
+      "Date": "2024-07-18T10:30:00Z",
+      "ActionID": 25,
+      "Action": "P-C Item Approved by Comm",
+      "Description": "A motion was made that this Resolution be P-C Item Approved by Comm approved by Roll Call.",
+      "BodyID": 5237,
+      "BodyName": "Committee on Criminal Justice",
+      "EventID": 21002,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterStatusID": 37,
+      "Votes": [
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 10
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 20
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 30
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 40
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 50
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 70
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 80
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2024-07-18T14:48:07.987Z"
+    },
     {
       "ID": 410913,
       "Date": "2024-07-18T13:25:00Z",
@@ -34,12 +152,29 @@
       "Version": "*",
       "MatterStatusID": 2,
       "LastModified": "2024-07-15T14:55:16.61Z"
+    },
+    {
+      "ID": 411055,
+      "Date": "2024-07-18T13:30:00Z",
+      "ActionID": 43,
+      "Action": "Referred to Comm by Council",
+      "Description": "This Resolution was Referred to Comm by Council to the Committee on Criminal Justice",
+      "BodyID": 1,
+      "BodyName": "City Council",
+      "EventID": 21005,
+      "AgendaSequence": 82,
+      "MinutesSequence": 96,
+      "AgendaNumber": "~SPONSOR",
+      "Version": "*",
+      "AgendaNote": "Preconsidered - Criminal Justice",
+      "MatterStatusID": 3,
+      "LastModified": "2024-07-18T14:54:58.433Z"
     }
   ],
   "Attachments": [
     {
       "ID": 306399,
-      "LastModified": "2024-07-18T13:53:09.543Z",
+      "LastModified": "2024-07-18T17:27:14.39Z",
       "Name": "Res. No. 504",
       "Link": "https://nyc.legistar1.com/nyc/attachments/dbb92680-bfc7-4a19-bec6-5aa5d0bd19e4.docx",
       "Sort": 1
@@ -50,11 +185,18 @@
       "Name": "Committee Report",
       "Link": "https://nyc.legistar1.com/nyc/attachments/ea4e76de-3b21-41df-8489-67270f626ed6.docx",
       "Sort": 2
+    },
+    {
+      "ID": 306621,
+      "LastModified": "2024-07-18T17:16:47.02Z",
+      "Name": "July 18, 2024 - Stated Meeting Agenda",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/3ee5afdf-1167-4ab9-ae63-b1ca49dbe932.pdf",
+      "Sort": 4
     }
   ],
   "Summary": "",
   "TextID": 78150,
   "Text": "Whereas, Prolonged solitary confinement is recognized as torture by the United Nations; and \n      Whereas, Research by scholars at Cornell University found that solitary confinement, even only for a few days, increases the likelihood a person in custody will die by suicide, violence, or overdose; and \n      Whereas, A large body of research has established that solitary confinement leads to anxiety, depression, psychosis, and other impairments that reduce a person in custody's ability to reintegrate into society when they are released, including studies published by the U.S. Department of Justice Bureau of Justice Statistics; and\n      Whereas, Several people have died after being held in solitary confinement at the Rikers Island jail complex over the last decade; and  \n      Whereas, The Council of the City of New York (\"Council\") has a responsibility to New Yorkers who have been persistently harmed and failed by Department of Correction (\"DOC\") policies that maintain the status quo; and\n      Whereas, After extensive public debate and consultation with corrections experts, impacted families, advocates, and labor unions, on January 30, 2024, the Council passed Local Law 42 of 2024, over a Mayoral veto, to address these problems; and\n      Whereas, Local Law 42 effectively bans solitary confinement in City jails and establishes standards for the use of restrictive housing and emergency lock-ins; and\n      Whereas, Local Law 42 enhances fairness, transparency, and accountability by, among other things, providing individuals in DOC's custody due process protections prior to being placed in restrictive housing or in continued use of restraints; and\n      Whereas, Local Law 42 goes into effect on July 28, 2024; and\n      Whereas, On June 25, 2024 the Board of Correction voted unanimously to approve its rules for the implementation of Local Law 42; and \n      Whereas, The DOC seeks to suspend the requirements of Local Law 42, as made clear by its June 5, 2024 letter in Nunez, et al. v. City of New York et al.; and\n      Whereas, Seeking suspension of Local Law 42 prior to its effective date is premature and inappropriate; and\n      Whereas, Local Law 42 is a vital piece of legislation that will save lives and improve safety and security in City jails for both detained individuals and staff; and\n      Whereas, The DOC is duty bound to implement valid local laws like Local Law 42; now, therefore, be it\n      Resolved, That the Council of the City of New York authorizes the Speaker to engage in legal action on behalf of the Council to defend Local Law 42 of 2024.\n\nFFG\n7/8/24",
-  "RTF": "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang1033\\deflangfe1033{\\fonttbl{\\f0\\froman\\fprq2\\fcharset0 Times New Roman;}{\\f1\\froman\\fprq2\\fcharset0 Century Schoolbook;}}\n\\viewkind4\\uc1\n\\b\\v0\\par\n\\b0 By Council Member Nurse\\par\n\\b\\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qj\\b0 Whereas, Prolonged solitary confinement is recognized as torture by the United Nations; and \\par\nWhereas, Research by scholars at Cornell University found that solitary confinement, even only for a few days, increases the likelihood a person in custody will die by suicide, violence, or overdose; and \\par\nWhereas, A large body of research has established that solitary confinement leads to anxiety, depression, psychosis, and other impairments that reduce a person in custody\\rquote s ability to reintegrate into society when they are released, including studies published by the U.S. Department of Justice Bureau of Justice Statistics; and\\par\nWhereas, Several people have died after being held in solitary confinement at the Rikers Island jail complex over the last decade; and  \\par\nWhereas, The Council of the City of New York (\\ldblquote Council\\rdblquote ) has a responsibility to New Yorkers who have been persistently harmed and failed by Department of Correction (\\ldblquote DOC\\rdblquote ) policies that maintain the status quo; and\\par\nWhereas, After extensive public debate and consultation with corrections experts, impacted families, advocates, and labor unions, on January 30, 2024, the Council passed Local Law 42 of 2024, over a Mayoral veto, to address these problems; and\\par\nWhereas, Local Law 42 effectively bans solitary confinement in City jails and establishes standards for the use of restrictive housing and emergency lock-ins; and\\par\nWhereas, Local Law 42 enhances fairness, transparency, and accountability by, among other things, providing individuals in DOC\\rquote s custody due process protections prior to being placed in restrictive housing or in continued use of restraints; and\\par\nWhereas, Local Law 42 goes into effect on July 28, 2024; and\\par\nWhereas, On June 25, 2024 the Board of Correction voted unanimously to approve its rules for the implementation of Local Law 42; and \\b\\par\n\\b0 Whereas, The DOC seeks to suspend the requirements of Local Law 42, as made clear by its June 5, 2024 letter in \\i Nunez, et al. v. City of New York et al\\i0 .; and\\b\\par\n\\b0 Whereas, Seeking suspension of Local Law 42 prior to its effective date is premature and inappropriate; and\\b\\par\n\\b0 Whereas, Local Law 42 is a vital piece of legislation that will save lives and improve safety and security in City jails for both detained individuals and staff; and\\par\nWhereas, The DOC is duty bound to implement valid local laws like Local Law 42; now, therefore, be it\\b\\par\n\\b0 Resolved,\\b  \\b0 That the Council of the City of New York authorizes the Speaker\\f1  \\f0 to engage in legal action on behalf of the Council to defend Local Law 42 of 2024.\\par\n\\pard\\ltrpar\\par\n\\fs22 FFG\\b\\par\n\\b0 7/8/24\\b\\par\n}\n",
-  "LastModified": "2024-07-18T13:53:09.543Z"
+  "RTF": "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang1033\\deflangfe1033{\\fonttbl{\\f0\\froman\\fprq2\\fcharset0 Times New Roman;}{\\f1\\froman\\fprq2\\fcharset0 Century Schoolbook;}}\n\\viewkind4\\uc1\n\\b\\v0\\par\n\\b0 By Council Members Nurse and Rivera\\par\n\\b\\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qj\\b0 Whereas, Prolonged solitary confinement is recognized as torture by the United Nations; and \\par\nWhereas, Research by scholars at Cornell University found that solitary confinement, even only for a few days, increases the likelihood a person in custody will die by suicide, violence, or overdose; and \\par\nWhereas, A large body of research has established that solitary confinement leads to anxiety, depression, psychosis, and other impairments that reduce a person in custody\\rquote s ability to reintegrate into society when they are released, including studies published by the U.S. Department of Justice Bureau of Justice Statistics; and\\par\nWhereas, Several people have died after being held in solitary confinement at the Rikers Island jail complex over the last decade; and  \\par\nWhereas, The Council of the City of New York (\\ldblquote Council\\rdblquote ) has a responsibility to New Yorkers who have been persistently harmed and failed by Department of Correction (\\ldblquote DOC\\rdblquote ) policies that maintain the status quo; and\\par\nWhereas, After extensive public debate and consultation with corrections experts, impacted families, advocates, and labor unions, on January 30, 2024, the Council passed Local Law 42 of 2024, over a Mayoral veto, to address these problems; and\\par\nWhereas, Local Law 42 effectively bans solitary confinement in City jails and establishes standards for the use of restrictive housing and emergency lock-ins; and\\par\nWhereas, Local Law 42 enhances fairness, transparency, and accountability by, among other things, providing individuals in DOC\\rquote s custody due process protections prior to being placed in restrictive housing or in continued use of restraints; and\\par\nWhereas, Local Law 42 goes into effect on July 28, 2024; and\\par\nWhereas, On June 25, 2024 the Board of Correction voted unanimously to approve its rules for the implementation of Local Law 42; and \\b\\par\n\\b0 Whereas, The DOC seeks to suspend the requirements of Local Law 42, as made clear by its June 5, 2024 letter in \\i Nunez, et al. v. City of New York et al\\i0 .; and\\b\\par\n\\b0 Whereas, Seeking suspension of Local Law 42 prior to its effective date is premature and inappropriate; and\\b\\par\n\\b0 Whereas, Local Law 42 is a vital piece of legislation that will save lives and improve safety and security in City jails for both detained individuals and staff; and\\par\nWhereas, The DOC is duty bound to implement valid local laws like Local Law 42; now, therefore, be it\\b\\par\n\\b0 Resolved,\\b  \\b0 That the Council of the City of New York authorizes the Speaker\\f1  \\f0 to engage in legal action on behalf of the Council to defend Local Law 42 of 2024.\\par\n\\pard\\ltrpar\\par\n\\fs22 FFG\\b\\par\n\\b0 7/8/24\\b\\par\n}\n",
+  "LastModified": "2024-07-18T17:27:14.39Z"
 }
