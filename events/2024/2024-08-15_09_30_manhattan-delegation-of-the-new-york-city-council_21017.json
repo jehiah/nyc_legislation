@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/8/21017_A_Manhattan_Delegation_of_the_New_York_City_Council_24-08-15_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/8/21017_M_Manhattan_Delegation_of_the_New_York_City_Council_24-08-15_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_240815-100935.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21017&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,17 +21,131 @@
       "GUID": "4819F16D-3C91-45A9-A1ED-7215E2E1D871",
       "Title": "Pursuant to Section 2403 of the New York City Charter, the members of the Council representing the Borough of Manhattan will meet to vote on the nomination of Mark Meridy for appointment to the Department for the Aging Advisory Council.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This N/A was Hearing Held by Committee",
       "MatterID": 74594,
       "MatterFile": "T2024-2299",
       "MatterName": "Members of the Council representing the Borough of Manhattan will meet to vote on the nomination of Mark Meridy for appointment to the Department for the Aging Advisory Council.",
       "MatterType": "N/A",
       "MatterStatus": "Committee",
-      "LastModified": "2024-08-14T16:42:52.113Z"
+      "LastModified": "2024-08-15T14:22:06.67Z"
+    },
+    {
+      "ID": 411806,
+      "GUID": "EE2271DD-620C-4BDD-840E-2EEBFD1246CC",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7740,
+          "Slug": "carlina-rivera",
+          "FullName": "Carlina Rivera",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7741,
+          "Slug": "keith-powers",
+          "FullName": "Keith Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 90
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        }
+      ],
+      "LastModified": "2024-08-15T14:21:47.457Z"
+    },
+    {
+      "ID": 411808,
+      "GUID": "17D3A586-5709-44ED-BD68-B87179697612",
+      "Title": "Pursuant to Section 2403 of the New York City Charter, the members of the Council representing the Borough of Manhattan will meet to vote on the nomination of Mark Meridy for appointment to the Department for the Aging Advisory Council.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5065,
+      "ActionName": "Adopted by the Committee",
+      "ActionText": "This N/A was Adopted by the Committee",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 74594,
+      "MatterFile": "T2024-2299",
+      "MatterName": "Members of the Council representing the Borough of Manhattan will meet to vote on the nomination of Mark Meridy for appointment to the Department for the Aging Advisory Council.",
+      "MatterType": "N/A",
+      "MatterStatus": "Committee",
+      "LastModified": "2024-08-15T14:24:08.123Z"
     }
   ],
   "AgendaLastPublished": "2024-08-14T16:42:57.08Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-08-14T16:42:57.257Z"
+  "MinutesLastPublished": "2024-08-15T14:24:21.143Z",
+  "LastModified": "2024-08-15T14:24:22.327Z"
 }
