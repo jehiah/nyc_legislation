@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/8/21018_A_Queens_Delegation_of_the_New_York_City_Council_24-08-15_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/8/21018_M_Queens_Delegation_of_the_New_York_City_Council_24-08-15_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_240815-105243.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21018&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,17 +21,171 @@
       "GUID": "C8464CA8-3653-485C-9761-711B2CB23AFB",
       "Title": "Pursuant to Section 2403 of the New York City Charter, the members of the Council representing the Borough of Queens will meet to vote on the nomination of Myoungmi Kim for appointment to the Department for the Aging Advisory Council.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This N/A was Hearing Held by Committee",
       "MatterID": 74592,
       "MatterFile": "T2024-2297",
       "MatterName": "Members of the Council representing the Borough of Queens will meet to vote on the nomination of Myoungmi Kim for appointment to the Department for the Aging Advisory Council.",
       "MatterType": "N/A",
       "MatterStatus": "Committee",
-      "LastModified": "2024-07-19T15:47:47.003Z"
+      "LastModified": "2024-08-15T15:05:18.727Z"
+    },
+    {
+      "ID": 411858,
+      "GUID": "1E8E1595-4E15-44DB-91B2-4BF4A1C536BB",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7739,
+          "Slug": "adrienne-e-adams",
+          "FullName": "Adrienne E. Adams",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 10
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 20
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 50
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 75
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 66,
+          "Value": "Parental ",
+          "Sort": 90
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 100
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 110
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 120
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 130
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2024-08-15T15:05:12.757Z"
+    },
+    {
+      "ID": 411859,
+      "GUID": "3AB2638B-7AA2-44CB-9C7F-EA5F6D39CB4F",
+      "Title": "Pursuant to Section 2403 of the New York City Charter, the members of the Council representing the Borough of Queens will meet to vote on the nomination of Myoungmi Kim for appointment to the Department for the Aging Advisory Council.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5065,
+      "ActionName": "Adopted by the Committee",
+      "ActionText": "A motion was made that this N/A be Adopted by the Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 74592,
+      "MatterFile": "T2024-2297",
+      "MatterName": "Members of the Council representing the Borough of Queens will meet to vote on the nomination of Myoungmi Kim for appointment to the Department for the Aging Advisory Council.",
+      "MatterType": "N/A",
+      "MatterStatus": "Committee",
+      "LastModified": "2024-08-15T15:05:32.577Z"
     }
   ],
   "AgendaLastPublished": "2024-07-19T14:52:25.233Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-07-19T14:52:25.283Z"
+  "MinutesLastPublished": "2024-08-15T15:05:39.02Z",
+  "LastModified": "2024-08-15T15:05:39.143Z"
 }
