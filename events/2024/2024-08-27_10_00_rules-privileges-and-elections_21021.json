@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/8/21021_A_Committee_on_Rules%2C_Privileges_and_Elections_24-08-27_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/8/21021_M_Committee_on_Rules%2C_Privileges_and_Elections_24-08-27_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_240827-102648.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21021&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,17 +20,147 @@
       "GUID": "AE012084-51A1-48B2-A59D-815C5A05A528",
       "Title": "Communication from the Mayor – Submitting the name of Randy Mastro to the City Council for advice and consent regarding his appointment as Corporation Counsel pursuant to Sections 31 and 391 of the New York City Charter.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Mayor's Message was Filed by Committee",
       "MatterID": 74611,
       "MatterFile": "M 0063-2024",
       "MatterName": "Randy Mastro, Corporation Counsel",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-08-23T16:14:53.31Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2024-08-28T16:26:41.693Z"
+    },
+    {
+      "ID": 411950,
+      "GUID": "4D5728AC-7E57-49AB-AA21-A4321A1CBE7B",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7741,
+          "Slug": "keith-powers",
+          "FullName": "Keith Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7739,
+          "Slug": "adrienne-e-adams",
+          "FullName": "Adrienne E. Adams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7264,
+          "Slug": "joseph-c-borelli",
+          "FullName": "Joseph C. Borelli",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 110
+        }
+      ],
+      "LastModified": "2024-08-28T16:22:20.713Z"
+    },
+    {
+      "ID": 411951,
+      "GUID": "CC0E3205-9097-4391-A53E-B1079ECC283A",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Rivera, Marte, Hanks, Nurse, De La Rosa, Joseph, Ossé, Salaam, Avilés, Paladino, Ariola, Krishnan, Gennaro, Sanchez, Restler, Feliz, Schulman and Public Advocate Williams",
+      "LastModified": "2024-08-28T16:25:46.757Z"
+    },
+    {
+      "ID": 411952,
+      "GUID": "3B34A9C9-8DF6-4C97-B389-6A13DBAD70FF",
+      "Title": "Communication from the Mayor – Submitting the name of Randy Mastro to the City Council for advice and consent regarding his appointment as Corporation Counsel pursuant to Sections 31 and 391 of the New York City Charter.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 39,
+      "ActionName": "Filed by Committee",
+      "ActionText": "This Mayor's Message was Filed by Committee",
+      "MatterID": 74611,
+      "MatterFile": "M 0063-2024",
+      "MatterName": "Randy Mastro, Corporation Counsel",
+      "MatterType": "Mayor's Message",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2024-08-28T16:27:06.407Z"
     }
   ],
   "AgendaLastPublished": "2024-08-15T13:10:27.723Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-08-27T14:26:50.33Z"
+  "MinutesLastPublished": "2024-08-28T16:27:12.317Z",
+  "LastModified": "2024-08-28T16:27:12.453Z"
 }
