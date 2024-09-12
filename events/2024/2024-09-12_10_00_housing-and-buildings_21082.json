@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/9/21082_A_Committee_on_Housing_and_Buildings_24-09-12_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/9/21082_M_Committee_on_Housing_and_Buildings_24-09-12_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_240912-103357.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21082&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,7 +21,7 @@
       "GUID": "88F19D17-7B9B-488F-9E78-DB733E98A7E7",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to tenant education and outreach on residential vacate orders due to damage caused by fires",
       "AgendaSequence": 1,
-      "MinutesSequence": 2,
+      "MinutesSequence": 3,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 6-A",
       "MinutesNote": "Proposed Int. No. 6-A",
@@ -77,8 +79,8 @@
           "ID": 7798,
           "Slug": "oswald-feliz",
           "FullName": "Oswald Feliz",
-          "ValueID": 13,
-          "Value": "Present",
+          "ValueID": 16,
+          "Value": "Absent",
           "Sort": 50
         },
         {
@@ -98,14 +100,14 @@
           "Sort": 70
         }
       ],
-      "LastModified": "2024-09-12T14:13:30.11Z"
+      "LastModified": "2024-09-12T14:48:51.683Z"
     },
     {
       "ID": 412302,
       "GUID": "6536DAC7-2FD0-46EE-8D63-0801B90258B7",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to tenant education and outreach on residential vacate orders due to damage caused by fires",
       "AgendaSequence": 0,
-      "MinutesSequence": 3,
+      "MinutesSequence": 4,
       "Version": "*",
       "ActionID": 5001,
       "ActionName": "Amendment Proposed by Comm",
@@ -121,7 +123,7 @@
       "GUID": "7A23EB9F-CAFF-42D1-80AA-3DA0B3807457",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to tenant education and outreach on residential vacate orders due to damage caused by fires",
       "AgendaSequence": 0,
-      "MinutesSequence": 4,
+      "MinutesSequence": 5,
       "Version": "*",
       "ActionID": 33,
       "ActionName": "Amended by Committee",
@@ -137,16 +139,31 @@
       "GUID": "9001FC5C-F9E5-4AB5-81D2-737257ED5E8E",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to tenant education and outreach on residential vacate orders due to damage caused by fires",
       "AgendaSequence": 0,
-      "MinutesSequence": 5,
+      "MinutesSequence": 6,
       "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 72486,
       "MatterFile": "Int 0006-2024",
       "MatterName": "Tenant education and outreach on residential vacate orders due to damage caused by fires.",
       "MatterType": "Introduction",
-      "LastModified": "2024-09-12T14:13:18.26Z"
+      "LastModified": "2024-09-12T14:48:51.78Z"
+    },
+    {
+      "ID": 412339,
+      "GUID": "767B926C-20C6-4CEC-A502-5AD523D77F3C",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Brewer and Carr",
+      "LastModified": "2024-09-12T14:49:19.317Z"
     }
   ],
   "AgendaLastPublished": "2024-09-11T15:00:58.293Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-09-12T14:33:59.063Z"
+  "MinutesLastPublished": "2024-09-12T16:38:24.93Z",
+  "LastModified": "2024-09-12T16:38:25.033Z"
 }
