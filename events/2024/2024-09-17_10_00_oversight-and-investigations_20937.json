@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/9/20937_A_Committee_on_Oversight_and_Investigations_24-09-17_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/9/20937_M_Committee_on_Oversight_and_Investigations_24-09-17_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Finance.",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_240917-101552.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20937&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,54 +21,222 @@
       "GUID": "347D8E72-D76C-484E-BB95-A0A020C4DC59",
       "Title": "Jointly with the Committee on Finance",
       "AgendaSequence": 4,
-      "MinutesSequence": 4,
+      "MinutesSequence": 10,
       "Version": "",
-      "LastModified": "2024-07-30T17:08:43.28Z"
+      "LastModified": "2024-09-17T17:22:45.433Z"
     },
     {
       "ID": 409303,
       "GUID": "65387F87-5D96-4E8C-92F7-689BDEE1840C",
       "Title": "Oversight – The Mayoral Administration’s Implementation of Cannabis Enforcement Laws.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 74366,
       "MatterFile": "T2024-2071",
       "MatterName": "Oversight – The Mayoral Administration’s Implementation of Cannabis Enforcement Laws.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-07-30T17:12:01.093Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-09-17T17:22:55.283Z"
     },
     {
       "ID": 411229,
       "GUID": "1EEF2DB3-9385-4C4A-AE3B-1F0D0202252D",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to reporting on enforcement of unlicensed sellers of cigarettes, electronic cigarettes, tobacco products and illicit cannabis",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 8,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 74502,
       "MatterFile": "Int 0981-2024",
       "MatterName": "Reporting on enforcement of unlicensed sellers of cigarettes, electronic cigarettes, tobacco products and illicit cannabis.",
       "MatterType": "Introduction",
-      "LastModified": "2024-07-25T17:15:46.027Z"
+      "LastModified": "2024-09-17T18:04:06.627Z"
     },
     {
       "ID": 411237,
       "GUID": "AADC1B66-8A09-4D03-9E63-8B1536906865",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to adding a 311 complaint category for unlicensed cannabis retailers.",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 557-A",
       "MinutesNote": "Proposed Int. No. 557-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 73487,
       "MatterFile": "Int 0557-2024",
       "MatterName": "Adding a 311 complaint category for unlicensed cannabis retailers.",
       "MatterType": "Introduction",
-      "LastModified": "2024-07-30T17:11:54.86Z"
+      "LastModified": "2024-09-17T18:03:35.267Z"
+    },
+    {
+      "ID": 412506,
+      "GUID": "578F0703-7385-463E-AC80-0E8E94C24F69",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 80
+        },
+        {
+          "ID": 7749,
+          "Slug": "kalman-yeger",
+          "FullName": "Kalman Yeger",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2024-09-17T17:54:35.317Z"
+    },
+    {
+      "ID": 412507,
+      "GUID": "4A44E4D8-4E67-4F73-923E-F6E12BA18C4A",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Brannan, Moya, Carr, Hanks, Brooks-Powers, Salaam, Sanchez, Louis, Hudson, Holden, Farías, Powers, Ossé, Stevens and Public Advocate Williams",
+      "LastModified": "2024-09-17T17:55:23.993Z"
+    },
+    {
+      "ID": 412508,
+      "GUID": "62B09AC2-8055-4973-A27E-13B6EEA306F1",
+      "Title": "Oversight – The Mayoral Administration’s Implementation of Cannabis Enforcement Laws.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 74366,
+      "MatterFile": "T2024-2071",
+      "MatterName": "Oversight – The Mayoral Administration’s Implementation of Cannabis Enforcement Laws.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-09-17T17:55:29.15Z"
+    },
+    {
+      "ID": 412509,
+      "GUID": "835E344E-225A-442E-85C4-1B8B3D9B6E8F",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to adding a 311 complaint category for unlicensed cannabis retailers.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 73487,
+      "MatterFile": "Int 0557-2024",
+      "MatterName": "Adding a 311 complaint category for unlicensed cannabis retailers.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-09-17T18:03:40.177Z"
+    },
+    {
+      "ID": 412510,
+      "GUID": "CE03F3F0-C575-4D60-AB0B-179D85DEA422",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to adding a 311 complaint category for unlicensed cannabis retailers.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 7,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 73487,
+      "MatterFile": "Int 0557-2024",
+      "MatterName": "Adding a 311 complaint category for unlicensed cannabis retailers.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-09-17T18:03:45.367Z"
+    },
+    {
+      "ID": 412511,
+      "GUID": "2314FD19-2A18-47F2-9F5D-F74A7DED33C3",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to reporting on enforcement of unlicensed sellers of cigarettes, electronic cigarettes, tobacco products and illicit cannabis",
+      "AgendaSequence": 0,
+      "MinutesSequence": 9,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 74502,
+      "MatterFile": "Int 0981-2024",
+      "MatterName": "Reporting on enforcement of unlicensed sellers of cigarettes, electronic cigarettes, tobacco products and illicit cannabis.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-09-17T18:04:11.937Z"
     }
   ],
   "AgendaLastPublished": "2024-07-30T17:12:05.967Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-07-30T17:12:06.03Z"
+  "MinutesLastPublished": "2024-09-17T17:55:47.96Z",
+  "LastModified": "2024-09-17T17:55:49.653Z"
 }

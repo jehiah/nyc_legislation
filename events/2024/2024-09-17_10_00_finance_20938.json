@@ -8,11 +8,13 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/9/20938_A_Committee_on_Finance_24-09-17_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/9/20938_M_Committee_on_Finance_24-09-17_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Oversight and Investigations",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_240917-101552.mp4",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_240917-101552.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=20938&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -38,7 +40,7 @@
       "MatterFile": "T2024-2070",
       "MatterName": "Oversight – The Mayoral Administration’s Implementation of Cannabis Enforcement Laws.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Filed",
       "LastModified": "2024-09-17T17:22:12.533Z"
     },
     {
@@ -81,7 +83,146 @@
       "AgendaSequence": 0,
       "MinutesSequence": 1,
       "Version": "",
-      "LastModified": "2024-09-17T17:22:08.23Z"
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 110
+        },
+        {
+          "ID": 7741,
+          "Slug": "keith-powers",
+          "FullName": "Keith Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 130
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 150
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 170
+        }
+      ],
+      "LastModified": "2024-09-17T17:57:56.367Z"
     },
     {
       "ID": 412501,
@@ -90,8 +231,8 @@
       "AgendaSequence": 0,
       "MinutesSequence": 2,
       "Version": "",
-      "MinutesNote": "Other Council Members Attending: ",
-      "LastModified": "2024-09-17T17:21:52.157Z"
+      "MinutesNote": "Other Council Members Attending: Banks, Krishnan, Holden, Restler, Joseph and Public Advocate Williams",
+      "LastModified": "2024-09-17T17:57:55.047Z"
     },
     {
       "ID": 412502,
@@ -100,12 +241,15 @@
       "AgendaSequence": 0,
       "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
       "MatterID": 74365,
       "MatterFile": "T2024-2070",
       "MatterName": "Oversight – The Mayoral Administration’s Implementation of Cannabis Enforcement Laws.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-09-17T17:21:56.683Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-09-17T17:58:35.673Z"
     },
     {
       "ID": 412503,
@@ -121,7 +265,7 @@
       "MatterFile": "Int 0557-2024",
       "MatterName": "Adding a 311 complaint category for unlicensed cannabis retailers.",
       "MatterType": "Introduction",
-      "LastModified": "2024-09-17T17:22:21.103Z"
+      "LastModified": "2024-09-17T18:03:26.83Z"
     },
     {
       "ID": 412504,
@@ -130,11 +274,14 @@
       "AgendaSequence": 0,
       "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
       "MatterID": 73487,
       "MatterFile": "Int 0557-2024",
       "MatterName": "Adding a 311 complaint category for unlicensed cannabis retailers.",
       "MatterType": "Introduction",
-      "LastModified": "2024-09-17T17:22:01.347Z"
+      "LastModified": "2024-09-17T18:03:31.28Z"
     },
     {
       "ID": 412505,
@@ -143,14 +290,17 @@
       "AgendaSequence": 0,
       "MinutesSequence": 9,
       "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
       "MatterID": 74502,
       "MatterFile": "Int 0981-2024",
       "MatterName": "Reporting on enforcement of unlicensed sellers of cigarettes, electronic cigarettes, tobacco products and illicit cannabis.",
       "MatterType": "Introduction",
-      "LastModified": "2024-09-17T17:22:05.093Z"
+      "LastModified": "2024-09-17T18:04:02.41Z"
     }
   ],
   "AgendaLastPublished": "2024-07-30T17:12:59.517Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-09-17T17:16:38.48Z"
+  "MinutesLastPublished": "2024-09-17T18:03:08.403Z",
+  "LastModified": "2024-09-17T18:03:08.567Z"
 }
