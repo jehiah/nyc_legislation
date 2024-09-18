@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/9/21060_A_Committee_on_Public_Housing_24-09-18_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/9/21060_M_Committee_on_Public_Housing_24-09-18_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_240918-111012.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21060&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -21,12 +22,15 @@
       "AgendaSequence": 1,
       "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 74706,
       "MatterFile": "T2024-2411",
       "MatterName": "Oversight – Rent Arrears and Evictions (Resulting from Underfunding ERAP).",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-09-18T16:15:13.993Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-09-18T18:52:41.61Z"
     },
     {
       "ID": 412538,
@@ -35,7 +39,82 @@
       "AgendaSequence": 0,
       "MinutesSequence": 1,
       "Version": "",
-      "LastModified": "2024-09-18T16:15:18.423Z"
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2024-09-18T18:53:20.12Z"
     },
     {
       "ID": 412539,
@@ -44,15 +123,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
       "MatterID": 74706,
       "MatterFile": "T2024-2411",
       "MatterName": "Oversight – Rent Arrears and Evictions (Resulting from Underfunding ERAP).",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-09-18T16:15:20.453Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-09-18T19:11:08.553Z"
     }
   ],
   "AgendaLastPublished": "2024-09-17T23:30:01.053Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-09-18T17:13:49.98Z"
+  "MinutesLastPublished": "2024-09-18T19:11:13.783Z",
+  "LastModified": "2024-09-18T19:11:13.907Z"
 }
