@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/9/21027_A_Committee_on_Public_Safety_24-09-23_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/9/21027_M_Committee_on_Public_Safety_24-09-23_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Mental Health, Disabilities and Addiction, Committee on Hospitals and the Committee on Fire and Emergency Management",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_240923-101407.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21027&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,52 +21,218 @@
       "GUID": "5A22ACCB-426D-4997-BA39-A61FC8138C37",
       "Title": "Oversight - Behavioral Health Emergency Assistance Response Division (B-HEARD) and Responses to Mental Health Crises.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 74345,
       "MatterFile": "T2024-2050",
       "MatterName": "Oversight - Behavioral Health Emergency Assistance Response Division (B-HEARD) and Responses to Mental Health Crises.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-08-14T23:40:21.55Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-09-23T19:58:06.37Z"
     },
     {
       "ID": 411209,
       "GUID": "FA45C41B-7FEE-43AC-87B4-841377D85FAC",
       "Title": "Jointly with the Committee on Mental Health, Disabilities and Addiction, Committee on Hospitals and the Committee on Fire and Emergency Management",
       "AgendaSequence": 4,
-      "MinutesSequence": 4,
+      "MinutesSequence": 8,
       "Version": "",
-      "LastModified": "2024-09-18T18:54:45.06Z"
+      "LastModified": "2024-09-23T19:58:06.373Z"
     },
     {
       "ID": 411804,
       "GUID": "7BE054B7-B3BA-4994-9C7D-F7106DEF190C",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to reimbursing small nonpublic schools for the cost of security guard services",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 73410,
       "MatterFile": "Int 0532-2024",
       "MatterName": "Reimbursing small nonpublic schools for the cost of security guard services.",
       "MatterType": "Introduction",
-      "LastModified": "2024-09-18T18:54:44.913Z"
+      "LastModified": "2024-09-23T19:58:06.37Z"
     },
     {
       "ID": 412545,
       "GUID": "2D4DCB69-E4A1-4FED-B8CF-0D9060928E6A",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the reporting and publication of mental health emergency response data",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 6,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 74719,
       "MatterFile": "Int 1019-2024",
       "MatterName": "Reporting and publication of mental health emergency response data.",
       "MatterType": "Introduction",
-      "LastModified": "2024-09-18T18:54:54.43Z"
+      "LastModified": "2024-09-23T20:01:57.363Z"
+    },
+    {
+      "ID": 412666,
+      "GUID": "7D1B011F-3FBF-4D6E-AF17-223F20BBEFA6",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 30
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 80
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 90
+        },
+        {
+          "ID": 7740,
+          "Slug": "carlina-rivera",
+          "FullName": "Carlina Rivera",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 110
+        },
+        {
+          "ID": 7749,
+          "Slug": "kalman-yeger",
+          "FullName": "Kalman Yeger",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        }
+      ],
+      "LastModified": "2024-09-23T19:58:06.37Z"
+    },
+    {
+      "ID": 412668,
+      "GUID": "A3623C37-404F-4FE5-91E1-489FB3822262",
+      "Title": "Oversight - Behavioral Health Emergency Assistance Response Division (B-HEARD) and Responses to Mental Health Crises.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 74345,
+      "MatterFile": "T2024-2050",
+      "MatterName": "Oversight - Behavioral Health Emergency Assistance Response Division (B-HEARD) and Responses to Mental Health Crises.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-09-23T19:58:14.357Z"
+    },
+    {
+      "ID": 412669,
+      "GUID": "FF7E9163-82C7-4DEE-9B87-68C4FAEF9EAC",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to reimbursing small nonpublic schools for the cost of security guard services",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 73410,
+      "MatterFile": "Int 0532-2024",
+      "MatterName": "Reimbursing small nonpublic schools for the cost of security guard services.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-09-23T20:00:54.74Z"
+    },
+    {
+      "ID": 412670,
+      "GUID": "7058C15D-3B52-4642-95DF-BFDBEF188412",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the reporting and publication of mental health emergency response data",
+      "AgendaSequence": 0,
+      "MinutesSequence": 7,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 74719,
+      "MatterFile": "Int 1019-2024",
+      "MatterName": "Reporting and publication of mental health emergency response data.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-09-23T20:02:01.75Z"
     }
   ],
   "AgendaLastPublished": "2024-09-18T18:54:58.843Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-09-18T18:54:58.857Z"
+  "MinutesLastPublished": "2024-09-23T19:58:29.48Z",
+  "LastModified": "2024-09-23T19:58:29.517Z"
 }
