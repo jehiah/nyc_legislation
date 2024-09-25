@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/9/21031_A_Committee_on_Immigration_24-09-24_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/9/21031_M_Committee_on_Immigration_24-09-24_Meeting_Minutes.pdf",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21031&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,7 +19,7 @@
       "GUID": "ECB91AF1-0C22-4F70-9AB0-0100C6C4C209",
       "Title": "Oversight -  Assessing the Mayoral Administration's Compliance with Local Law 30 of 2017.",
       "AgendaSequence": 1,
-      "MinutesSequence": 2,
+      "MinutesSequence": 3,
       "Version": "*",
       "ActionID": 54,
       "ActionName": "Hearing Held by Committee",
@@ -27,7 +28,7 @@
       "MatterFile": "T2024-2431",
       "MatterName": "Oversight -  Assessing the Mayoral Administration's Compliance with Local Law 30 of 2017.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Filed",
       "LastModified": "2024-09-24T18:37:47.75Z"
     },
     {
@@ -35,7 +36,7 @@
       "GUID": "87F1A8B4-9A2E-4143-B7A2-61CC0508637A",
       "Title": "A Local Law to amend the New York city charter, in relation to establishing an office of translation and interpretation within the office of immigrant affairs",
       "AgendaSequence": 2,
-      "MinutesSequence": 4,
+      "MinutesSequence": 5,
       "Version": "*",
       "ActionID": 54,
       "ActionName": "Hearing Held by Committee",
@@ -53,37 +54,112 @@
       "AgendaSequence": 0,
       "MinutesSequence": 1,
       "Version": "",
-      "LastModified": "2024-09-24T18:37:44.267Z"
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 30
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2024-09-25T13:57:47.643Z"
     },
     {
       "ID": 412791,
       "GUID": "1CC9BEC7-E3A0-46F2-92A8-6AC1F4250314",
       "Title": "Oversight -  Assessing the Mayoral Administration's Compliance with Local Law 30 of 2017.",
       "AgendaSequence": 0,
-      "MinutesSequence": 3,
+      "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
       "MatterID": 74726,
       "MatterFile": "T2024-2431",
       "MatterName": "Oversight -  Assessing the Mayoral Administration's Compliance with Local Law 30 of 2017.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-09-24T18:37:39.69Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-09-25T13:58:45.107Z"
     },
     {
       "ID": 412792,
       "GUID": "E11D7112-74B4-4559-AB2F-74847A38A114",
       "Title": "A Local Law to amend the New York city charter, in relation to establishing an office of translation and interpretation within the office of immigrant affairs",
       "AgendaSequence": 0,
-      "MinutesSequence": 5,
+      "MinutesSequence": 6,
       "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
       "MatterID": 73087,
       "MatterFile": "Int 0215-2024",
       "MatterName": "Establishing an office of translation and interpretation within the office of immigrant affairs.",
       "MatterType": "Introduction",
-      "LastModified": "2024-09-24T18:37:42.293Z"
+      "LastModified": "2024-09-25T13:58:51.06Z"
+    },
+    {
+      "ID": 412796,
+      "GUID": "FA300D65-A4F1-4D57-B276-59925DE66336",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Salaam",
+      "LastModified": "2024-09-25T13:58:38.73Z"
     }
   ],
   "AgendaLastPublished": "2024-09-17T22:47:02.703Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-09-24T21:20:52.91Z"
+  "MinutesLastPublished": "2024-09-25T13:59:02.567Z",
+  "LastModified": "2024-09-25T13:59:02.613Z"
 }
