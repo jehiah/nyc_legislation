@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/9/21090_A_Committee_on_Technology_24-09-30_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/9/21090_M_Committee_on_Technology_24-09-30_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_240930-131710.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21090&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,30 +20,131 @@
       "GUID": "A38160C2-8202-45E1-BE65-8634401A1D8B",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the creation of a centralized mobile application for accessing city services",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 73851,
       "MatterFile": "Int 0821-2024",
       "MatterName": "Creation of a centralized mobile application for accessing city services",
       "MatterType": "Introduction",
-      "LastModified": "2024-09-11T19:09:37.617Z"
+      "LastModified": "2024-09-30T19:39:44.737Z"
     },
     {
       "ID": 412284,
       "GUID": "9C083048-B5E6-418F-AD9B-3DD0D1FAB847",
       "Title": "Oversight - The “MyCity” Portal.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 74697,
       "MatterFile": "T2024-2402",
       "MatterName": "Oversight - The “MyCity” Portal.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-09-11T19:09:54.577Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-09-30T19:39:41.953Z"
+    },
+    {
+      "ID": 413083,
+      "GUID": "277EE704-F12F-4E21-95CE-F82C5418AD8F",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        }
+      ],
+      "LastModified": "2024-09-30T21:07:03.333Z"
+    },
+    {
+      "ID": 413084,
+      "GUID": "34D86554-DBCB-4147-9AFB-E2370E450E2C",
+      "Title": "Oversight - The “MyCity” Portal.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 74697,
+      "MatterFile": "T2024-2402",
+      "MatterName": "Oversight - The “MyCity” Portal.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-09-30T21:07:48.98Z"
+    },
+    {
+      "ID": 413085,
+      "GUID": "A23241F2-BE00-4C32-8EE1-BB5EAF69976C",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the creation of a centralized mobile application for accessing city services",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 73851,
+      "MatterFile": "Int 0821-2024",
+      "MatterName": "Creation of a centralized mobile application for accessing city services",
+      "MatterType": "Introduction",
+      "LastModified": "2024-09-30T21:07:56.217Z"
+    },
+    {
+      "ID": 413091,
+      "GUID": "E197F069-FEED-4938-8CA5-A029C38CD49E",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Joseph",
+      "LastModified": "2024-09-30T21:07:46.543Z"
     }
   ],
   "AgendaLastPublished": "2024-09-11T19:09:59.463Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-09-30T17:17:12.24Z"
+  "MinutesLastPublished": "2024-09-30T21:08:02.627Z",
+  "LastModified": "2024-09-30T21:08:02.66Z"
 }
