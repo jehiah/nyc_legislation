@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/9/21054_A_Committee_on_Housing_and_Buildings_24-09-30_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/9/21054_M_Committee_on_Housing_and_Buildings_24-09-30_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-250-14_240930-132212.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21054&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,7 +20,7 @@
       "GUID": "99C39F45-4EEF-4201-878E-7EAE8EE67A4D",
       "Title": "Oversight - Third Party Transfer Program.",
       "AgendaSequence": 1,
-      "MinutesSequence": 2,
+      "MinutesSequence": 3,
       "Version": "*",
       "ActionID": 54,
       "ActionName": "Hearing Held by Committee",
@@ -28,7 +29,7 @@
       "MatterFile": "T2024-2479",
       "MatterName": "Oversight - Third Party Transfer Program.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Filed",
       "LastModified": "2024-09-30T19:40:17.777Z"
     },
     {
@@ -36,7 +37,7 @@
       "GUID": "10D4C7BF-D4A2-4989-B5C6-2EB0E9E159DA",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the third party transfer program, and to repeal sections 11-425, 11-426, and 11-427 of such code, relating to agreements for payment of delinquent taxes and charges in installments",
       "AgendaSequence": 2,
-      "MinutesSequence": 4,
+      "MinutesSequence": 5,
       "Version": "*",
       "ActionID": 54,
       "ActionName": "Hearing Held by Committee",
@@ -45,7 +46,7 @@
       "MatterFile": "Int 1063-2024",
       "MatterName": "Third party transfer program, and to repeal sections 11-425, 11-426, and 11-427 of such code, relating to agreements for payment of delinquent taxes and charges in installments.",
       "MatterType": "Introduction",
-      "LastModified": "2024-09-30T19:40:20.373Z"
+      "LastModified": "2024-10-01T13:43:12.6Z"
     },
     {
       "ID": 413086,
@@ -113,37 +114,53 @@
           "Sort": 70
         }
       ],
-      "LastModified": "2024-09-30T19:40:14.15Z"
+      "LastModified": "2024-10-01T13:42:13.21Z"
     },
     {
       "ID": 413087,
       "GUID": "D78FF80C-F9AE-4B2A-BC09-FF795031080A",
       "Title": "Oversight - Third Party Transfer Program.",
       "AgendaSequence": 0,
-      "MinutesSequence": 3,
+      "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
       "MatterID": 74774,
       "MatterFile": "T2024-2479",
       "MatterName": "Oversight - Third Party Transfer Program.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-09-30T19:40:02.66Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-10-01T13:42:34.03Z"
     },
     {
       "ID": 413088,
       "GUID": "7FA23F5F-918B-437E-8D7B-017C76E9EB09",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the third party transfer program, and to repeal sections 11-425, 11-426, and 11-427 of such code, relating to agreements for payment of delinquent taxes and charges in installments",
       "AgendaSequence": 0,
-      "MinutesSequence": 5,
+      "MinutesSequence": 6,
       "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
       "MatterID": 73682,
       "MatterFile": "Int 1063-2024",
       "MatterName": "Third party transfer program, and to repeal sections 11-425, 11-426, and 11-427 of such code, relating to agreements for payment of delinquent taxes and charges in installments.",
       "MatterType": "Introduction",
-      "LastModified": "2024-09-30T19:40:05.787Z"
+      "LastModified": "2024-10-01T13:42:37.813Z"
+    },
+    {
+      "ID": 413092,
+      "GUID": "84F56511-1905-4780-A5A2-9D6354F24215",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Brewer",
+      "LastModified": "2024-10-01T13:42:29.2Z"
     }
   ],
   "AgendaLastPublished": "2024-09-30T16:03:41.47Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-09-30T20:47:30.55Z"
+  "MinutesLastPublished": "2024-10-01T13:43:18.163Z",
+  "LastModified": "2024-10-01T13:43:18.317Z"
 }
