@@ -8,66 +8,220 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/10/21101_A_Committee_on_General_Welfare_24-10-09_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/10/21101_M_Committee_on_General_Welfare_24-10-09_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Women and Gender Equity.",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_241009-100857.mp4",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_241009-100857.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21101&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
       "ID": 412441,
       "GUID": "83B066FD-BABB-49D6-BD8A-7DCBAECA0A37",
       "Title": "Jointly with the Committee on Women and Gender Equity",
-      "AgendaSequence": 4,
-      "MinutesSequence": 4,
+      "AgendaSequence": 5,
+      "MinutesSequence": 9,
       "Version": "",
-      "LastModified": "2024-10-01T16:54:40.187Z"
+      "LastModified": "2024-10-09T17:58:11.637Z"
     },
     {
       "ID": 412793,
       "GUID": "627ECD33-E1BE-417E-A80B-144EB1189611",
       "Title": "Oversight - Supporting Domestic Violence Survivors in NYC’s Shelter System.",
-      "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "AgendaSequence": 2,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 74853,
       "MatterFile": "T2024-2558",
       "MatterName": "Oversight - Supporting Domestic Violence Survivors in NYC’s Shelter System.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-09-27T17:23:12.757Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-10-09T17:58:26.907Z"
     },
     {
       "ID": 413109,
       "GUID": "DC960D93-9712-4953-8EA9-FCD30F9D97DD",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to expanding reporting on domestic violence shelter exits",
-      "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "AgendaSequence": 3,
+      "MinutesSequence": 5,
       "Version": "*",
       "AgendaNote": "Preconsidered",
+      "ActionID": 15,
+      "ActionName": "Hearing on P-C Item by Comm",
+      "ActionText": "This Introduction was Hearing on P-C Item by Comm",
       "MatterID": 74867,
       "MatterFile": "T2024-2572",
       "MatterName": "Expanding reporting on domestic violence shelter exits.",
       "MatterType": "Introduction",
-      "LastModified": "2024-10-01T16:54:52.577Z"
+      "LastModified": "2024-10-09T17:58:38.13Z"
     },
     {
       "ID": 413110,
       "GUID": "E1A49646-D460-426C-B7BB-D10C6FE2C697",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to reporting on demand for domestic violence emergency and tier II shelters",
-      "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "AgendaSequence": 4,
+      "MinutesSequence": 7,
       "Version": "*",
       "AgendaNote": "Preconsidered",
+      "ActionID": 15,
+      "ActionName": "Hearing on P-C Item by Comm",
+      "ActionText": "This Introduction was Hearing on P-C Item by Comm",
       "MatterID": 74868,
       "MatterFile": "T2024-2573",
       "MatterName": "Reporting on demand for domestic violence emergency and tier II shelters.",
       "MatterType": "Introduction",
-      "LastModified": "2024-10-08T17:03:09.923Z"
+      "LastModified": "2024-10-09T17:58:53.363Z"
+    },
+    {
+      "ID": 413435,
+      "GUID": "AABA6240-7153-449C-8D68-E656C612F569",
+      "Title": "Roll Call",
+      "AgendaSequence": 1,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 40
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 50
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2024-10-09T18:03:38.19Z"
+    },
+    {
+      "ID": 413441,
+      "GUID": "99B848CB-282B-4FE7-8264-EF4AF50DC5DD",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Louis and Gutiérrez",
+      "LastModified": "2024-10-09T18:03:48.64Z"
+    },
+    {
+      "ID": 413442,
+      "GUID": "F7DD330A-A59D-4ACB-828A-535295464909",
+      "Title": "Oversight - Supporting Domestic Violence Survivors in NYC’s Shelter System.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 74853,
+      "MatterFile": "T2024-2558",
+      "MatterName": "Oversight - Supporting Domestic Violence Survivors in NYC’s Shelter System.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-10-09T17:58:33.623Z"
+    },
+    {
+      "ID": 413443,
+      "GUID": "5A28AAC4-5FB1-4FEE-9FE5-A14F2FDDE658",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to expanding reporting on domestic violence shelter exits",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 5018,
+      "ActionName": "P-C Item Laid Over by Comm",
+      "ActionText": "This Introduction was P-C Item Laid Over by Comm",
+      "MatterID": 74867,
+      "MatterFile": "T2024-2572",
+      "MatterName": "Expanding reporting on domestic violence shelter exits.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-10-09T17:59:12.097Z"
+    },
+    {
+      "ID": 413444,
+      "GUID": "D974538A-9693-42D2-A876-E47576EC41BC",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to reporting on demand for domestic violence emergency and tier II shelters",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 5018,
+      "ActionName": "P-C Item Laid Over by Comm",
+      "ActionText": "This Introduction was P-C Item Laid Over by Comm",
+      "MatterID": 74868,
+      "MatterFile": "T2024-2573",
+      "MatterName": "Reporting on demand for domestic violence emergency and tier II shelters.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-10-09T18:00:34.053Z"
     }
   ],
   "AgendaLastPublished": "2024-10-04T16:20:47.57Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-10-09T17:19:00.817Z"
+  "MinutesLastPublished": "2024-10-09T18:03:53.417Z",
+  "LastModified": "2024-10-09T18:03:53.453Z"
 }

@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/10/21119_A_Committee_on_Rules%2C_Privileges_and_Elections_24-10-09_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/10/21119_M_Committee_on_Rules%2C_Privileges_and_Elections_24-10-09_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-250-14_241009-131659.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21119&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,30 +20,169 @@
       "GUID": "AC6336CD-FA0A-4338-8148-8A900E7BB1E7",
       "Title": "Resolution pursuant to Rule 10.60 of the Rules of the Council and Section 440 of the New York City Charter, approving the appointment by the Council of Dr. Mohammad Khalid, a resident of Staten Island, to the Civilian Complaint Review Board.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 74801,
       "MatterFile": "Res 0579-2024",
       "MatterName": "Mohammad Khalid, Civilian Complaint Review Board",
       "MatterType": "Resolution",
-      "LastModified": "2024-10-08T17:03:40.813Z"
+      "LastModified": "2024-10-09T20:59:27.097Z"
     },
     {
       "ID": 413018,
       "GUID": "A5EFC36A-FE54-4790-A79D-7AC73756A305",
       "Title": "Communication from the Queens Borough President - Submitting the name of Oudeshram “Raj” Rampershad  to the Council for its advice and consent regarding his reappointment to the City Planning Commission, pursuant to Sections 31 and 192 of the City Charter.",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Communication was Hearing Held by Committee",
       "MatterID": 74822,
       "MatterFile": "M 0071-2024",
       "MatterName": "Oudeshram “Raj” Rampershad, City Planning Commission",
       "MatterType": "Communication",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-09-26T14:55:52.273Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2024-10-09T20:59:38.74Z"
+    },
+    {
+      "ID": 413452,
+      "GUID": "E9A9AA5B-62DD-4B71-AE7C-DE119DAE2EAA",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7741,
+          "Slug": "keith-powers",
+          "FullName": "Keith Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7739,
+          "Slug": "adrienne-e-adams",
+          "FullName": "Adrienne E. Adams",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 20
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7264,
+          "Slug": "joseph-c-borelli",
+          "FullName": "Joseph C. Borelli",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 110
+        }
+      ],
+      "LastModified": "2024-10-09T20:59:07.573Z"
+    },
+    {
+      "ID": 413453,
+      "GUID": "733D352E-A69A-437D-8049-1F6012993535",
+      "Title": "Resolution pursuant to Rule 10.60 of the Rules of the Council and Section 440 of the New York City Charter, approving the appointment by the Council of Dr. Mohammad Khalid, a resident of Staten Island, to the Civilian Complaint Review Board.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 74801,
+      "MatterFile": "Res 0579-2024",
+      "MatterName": "Mohammad Khalid, Civilian Complaint Review Board",
+      "MatterType": "Resolution",
+      "LastModified": "2024-10-09T20:59:31.47Z"
+    },
+    {
+      "ID": 413454,
+      "GUID": "2F063388-C0C5-49C9-8F2A-E96DA3CA8775",
+      "Title": "Communication from the Queens Borough President - Submitting the name of Oudeshram “Raj” Rampershad  to the Council for its advice and consent regarding his reappointment to the City Planning Commission, pursuant to Sections 31 and 192 of the City Charter.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 39,
+      "ActionName": "Filed by Committee",
+      "ActionText": "This Communication was Filed by Committee",
+      "MatterID": 74822,
+      "MatterFile": "M 0071-2024",
+      "MatterName": "Oudeshram “Raj” Rampershad, City Planning Commission",
+      "MatterType": "Communication",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2024-10-09T20:59:59.24Z"
     }
   ],
   "AgendaLastPublished": "2024-09-26T15:45:19.567Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-10-09T17:17:00.747Z"
+  "MinutesLastPublished": "2024-10-09T22:10:01.38Z",
+  "LastModified": "2024-10-09T22:10:01.407Z"
 }

@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/10/21144_A_Committee_on_Consumer_and_Worker_Protection_24-10-09_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/10/21144_M_Committee_on_Consumer_and_Worker_Protection_24-10-09_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_241009-102029.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21144&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,31 +20,163 @@
       "GUID": "9938E521-6C66-41F5-BF8C-C4FBA057C811",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to licensing hotels",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 991-B",
       "MinutesNote": "Proposed Int. No. 991-B",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 74583,
       "MatterFile": "Int 0991-2024",
       "MatterName": "Licensing Hotels",
       "MatterType": "Introduction",
-      "LastModified": "2024-10-08T14:59:48.1Z"
+      "LastModified": "2024-10-09T22:03:10.297Z"
     },
     {
       "ID": 413215,
       "GUID": "211A7408-ECF5-4875-9892-3FE51905F99F",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to licensing massage therapy businesses",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 74272,
       "MatterFile": "Int 0970-2024",
       "MatterName": "Licensing massage therapy businesses.",
       "MatterType": "Introduction",
-      "LastModified": "2024-10-08T17:02:24.857Z"
+      "LastModified": "2024-10-09T22:03:10.293Z"
+    },
+    {
+      "ID": 413447,
+      "GUID": "4385E6DD-6474-4863-927F-E4D7B56A88D2",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2024-10-09T22:03:25.02Z"
+    },
+    {
+      "ID": 413448,
+      "GUID": "94FA8D83-1B17-474A-9CC7-67C6F5845DD9",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to licensing massage therapy businesses",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 74272,
+      "MatterFile": "Int 0970-2024",
+      "MatterName": "Licensing massage therapy businesses.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-10-09T22:03:10.293Z"
+    },
+    {
+      "ID": 413449,
+      "GUID": "B1314CB2-1D36-44EA-B048-A2D1182AF56E",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to licensing hotels",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 74583,
+      "MatterFile": "Int 0991-2024",
+      "MatterName": "Licensing Hotels",
+      "MatterType": "Introduction",
+      "LastModified": "2024-10-09T22:03:10.297Z"
+    },
+    {
+      "ID": 413450,
+      "GUID": "A6903DC8-6661-40CF-8FBC-A1BEFAA3C416",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to licensing hotels",
+      "AgendaSequence": 0,
+      "MinutesSequence": 7,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 74583,
+      "MatterFile": "Int 0991-2024",
+      "MatterName": "Licensing Hotels",
+      "MatterType": "Introduction",
+      "LastModified": "2024-10-09T22:03:10.297Z"
+    },
+    {
+      "ID": 413455,
+      "GUID": "D0580035-D7C1-49A0-8112-E025644FFA61",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Moya, Hudson, De La Rosa, Ariola, Schulman, Banks and Powers",
+      "LastModified": "2024-10-09T22:03:10.293Z"
     }
   ],
   "AgendaLastPublished": "2024-10-08T15:20:12.983Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-10-09T14:20:31.227Z"
+  "MinutesLastPublished": "2024-10-09T22:03:30.547Z",
+  "LastModified": "2024-10-09T22:03:30.68Z"
 }
