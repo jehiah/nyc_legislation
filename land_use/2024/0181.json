@@ -8,8 +8,8 @@
   "TypeName": "Land Use Application",
   "StatusID": 3,
   "StatusName": "Committee",
-  "BodyID": 17,
-  "BodyName": "Committee on Land Use",
+  "BodyID": 34,
+  "BodyName": "Subcommittee on Zoning and Franchises",
   "IntroDate": "2024-10-10T00:00:00Z",
   "AgendaDate": "2024-10-10T00:00:00Z",
   "PassedDate": "0001-01-01T00:00:00Z",
@@ -45,15 +45,29 @@
       "BodyName": "City Council",
       "EventID": 21153,
       "AgendaSequence": 124,
-      "MinutesSequence": 150,
+      "MinutesSequence": 152,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Zoning and Franchises",
       "MatterStatusID": 3,
       "LastModified": "2024-10-10T14:23:45.147Z"
+    },
+    {
+      "ID": 413485,
+      "Date": "2024-10-10T13:30:00Z",
+      "ActionID": 43,
+      "Action": "Referred to Comm by Council",
+      "Description": "This Land Use Application was Referred to Comm by Council to the Subcommittee on Zoning and Franchises",
+      "BodyID": 1,
+      "BodyName": "City Council",
+      "EventID": 21153,
+      "MinutesSequence": 153,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2024-10-10T16:18:56.667Z"
     }
   ],
   "Summary": "",
   "TextID": 78527,
-  "LastModified": "2024-10-10T14:23:44.93Z"
+  "LastModified": "2024-10-10T16:18:56.277Z"
 }

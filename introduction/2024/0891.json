@@ -6,8 +6,8 @@
   "Title": "A Local Law to amend the administrative code of the city of New York, in relation to information about the maternal mortality and morbidity review committee",
   "TypeID": 2,
   "TypeName": "Introduction",
-  "StatusID": 25,
-  "StatusName": "Laid Over in Committee",
+  "StatusID": 24,
+  "StatusName": "Reported from Committee",
   "BodyID": 5244,
   "BodyName": "Committee on Women and Gender Equity",
   "IntroDate": "2024-05-16T00:00:00Z",
@@ -80,6 +80,11 @@
       "ID": 7808,
       "Slug": "pierina-ana-sanchez",
       "FullName": "Pierina Ana Sanchez"
+    },
+    {
+      "ID": 7816,
+      "Slug": "julie-won",
+      "FullName": "Julie Won"
     }
   ],
   "History": [
@@ -169,12 +174,120 @@
       "Version": "*",
       "MatterStatusID": 25,
       "LastModified": "2024-06-25T18:55:42.79Z"
+    },
+    {
+      "ID": 413199,
+      "Date": "2024-10-10T10:00:00Z",
+      "ActionID": 54,
+      "Action": "Hearing Held by Committee",
+      "Description": "This Introduction was Hearing Held by Committee",
+      "BodyID": 5244,
+      "BodyName": "Committee on Women and Gender Equity",
+      "EventID": 21138,
+      "AgendaSequence": 1,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "AgendaNote": "Proposed Int. No. 891-A",
+      "MinutesNote": "Proposed Int. No. 891-A",
+      "MatterStatusID": 3,
+      "LastModified": "2024-10-10T14:53:47.69Z"
+    },
+    {
+      "ID": 413488,
+      "Date": "2024-10-10T10:00:00Z",
+      "ActionID": 5001,
+      "Action": "Amendment Proposed by Comm",
+      "Description": "This Introduction was Amendment Proposed by Comm",
+      "BodyID": 5244,
+      "BodyName": "Committee on Women and Gender Equity",
+      "EventID": 21138,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2024-10-10T14:55:02.51Z"
+    },
+    {
+      "ID": 413489,
+      "Date": "2024-10-10T10:00:00Z",
+      "ActionID": 33,
+      "Action": "Amended by Committee",
+      "Description": "This Introduction was Amended by Committee",
+      "BodyID": 5244,
+      "BodyName": "Committee on Women and Gender Equity",
+      "EventID": 21138,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2024-10-10T14:55:07.833Z"
+    },
+    {
+      "ID": 413490,
+      "Date": "2024-10-10T10:00:00Z",
+      "ActionID": 32,
+      "Action": "Approved by Committee",
+      "Description": "This Introduction was Approved by Committee",
+      "BodyID": 5244,
+      "BodyName": "Committee on Women and Gender Equity",
+      "EventID": 21138,
+      "MinutesSequence": 6,
+      "Version": "A",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterStatusID": 24,
+      "Votes": [
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 10
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 20
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 30
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 40
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 50
+        }
+      ],
+      "LastModified": "2024-10-10T14:59:04.873Z"
     }
   ],
   "Attachments": [
     {
       "ID": 308610,
-      "LastModified": "2024-10-10T13:53:51.55Z",
+      "LastModified": "2024-10-10T17:36:37.297Z",
       "Name": "Summary of Int. No. 891-A",
       "Link": "https://nyc.legistar1.com/nyc/attachments/5f7ddd21-d7eb-4f06-bb1c-b8a16581f8e2.docx",
       "Sort": 1
@@ -230,22 +343,29 @@
     },
     {
       "ID": 308611,
-      "LastModified": "2024-09-20T14:52:57.32Z",
+      "LastModified": "2024-10-10T17:25:20.02Z",
       "Name": "Proposed Int. No. 891-A - 9/19/24",
       "Link": "https://nyc.legistar1.com/nyc/attachments/a3691505-a862-434f-b7fe-92b44aaab2d9.docx",
       "Sort": 9
     },
     {
       "ID": 310040,
-      "LastModified": "2024-10-10T13:53:51.673Z",
+      "LastModified": "2024-10-10T15:47:42.167Z",
       "Name": "Fiscal Impact Statement",
       "Link": "https://nyc.legistar1.com/nyc/attachments/25c8626f-a45e-4516-bc98-4f4bf7446a37.docx",
       "Sort": 10
+    },
+    {
+      "ID": 310058,
+      "LastModified": "2024-10-10T15:47:42.167Z",
+      "Name": "Committee Report 10/10/24",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/16ff488d-bb9c-4795-9bde-96412296a4cb.docx",
+      "Sort": 11
     }
   ],
   "Summary": "This bill would require the Department of Health and Mental Hygiene to annually post online information related to the maternal mortality and morbidity review committee. Such information required for posting would include the names and titles of committee members as well as a report on the committees work for the preceding year. Names and titles of members serving up until 2026 would only be posted with prior consent by current committee members but consent would no longer be required after January 1, 2026.",
   "TextID": 78421,
   "Text": "Be it enacted by the Council as follows:\n       \n      Section 1. Subdivision c of section 17-199.3.1 of the administrative code of the city of New York, as added by local law number 188 for the year 2018, is amended to read as follows:\n      c. [The] No later than 45 days after the effective date of the local law that amended this subdivision, and annually thereafter, the department shall post and update as necessary on its website a list of the disciplines represented on the committee established pursuant to this section, the names and titles of the individuals who serve on such committee, and a summary of such committee's activities over the preceding year.\n      � 2. Despite the requirements of subdivision c of section 17-199.3.1 of the administrative code of the city of New York, prior to January 1, 2026, the department of health and mental hygiene shall not post the names and titles of individuals who serve on the maternal mortality and morbidity review committee without receiving the consent of such individuals. \n      � 3. This local law takes effect immediately.\n\nWCJ/SM\nLS #8605\n9/18/2024 7:50 PM",
   "RTF": "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang1033\\deflangfe1033{\\fonttbl{\\f0\\froman\\fprq2\\fcharset0 Times New Roman;}{\\f1\\fswiss\\fprq2\\fcharset0 Calibri;}}\n{\\colortbl ;\\red0\\green0\\blue0;\\red255\\green255\\blue255;}\n\\viewkind4\\uc1\n\\cf1\\v0\\f0\\fs24  \\cf0\\f1\\fs22\\par\n\\cf1\\ul\\f0\\fs24 Be it enacted by the Council as follows:\\cf0\\ulnone\\f1\\fs22\\par\n\\pard\\cbpat2\\ltrpar\\fi720\\sl252\\slmult1\\qj\\cf1\\f0\\fs24  \\cf0\\f1\\fs22\\par\n\\pard\\cbpat2\\ltrpar\\fi720\\sl480\\slmult1\\qj\\cf1\\f0\\fs24 Section 1. Subdivision c of section 17-199.3.1 of the administrative code of the city of New York, as added by local law number 188 for the year 2018, is amended to read as follows:\\cf0\\f1\\fs22\\par\n\\cf1\\f0\\fs24 c. [The] \\ul No later than 45 days after the effective date of the local law that amended this subdivision, and annually thereafter, the\\ulnone  department shall post and update as necessary on its website a list of the disciplines represented on the committee established pursuant to this section\\ul , the names and titles of the individuals who serve on such committee, and a summary of such committee\\rquote s activities over the preceding year\\ulnone .\\par\n\\'a7 2. Despite the requirements of subdivision c of section 17-199.3.1 of the administrative code of the city of New York, prior to January 1, 2026, the department of health and mental hygiene shall not post the names and titles of individuals who serve on the maternal mortality and morbidity review committee without receiving the consent of such individuals. \\cf0\\f1\\fs22\\par\n\\cf1\\f0\\fs24\\'a7 3. This local law takes effect immediately.\\cf0\\f1\\fs22\\par\n\\pard\\cbpat2\\ltrpar\\sl480\\slmult1\\cf1\\f0\\fs18\\par\n\\pard\\cbpat2\\ltrpar WCJ/SM\\fs27\\par\n\\fs18 LS #8605\\fs27\\par\n\\fs18 9/18/2024 7:50 PM\\fs27\\par\n\\pard\\ltrpar\\sa160\\sl252\\slmult1\\cf0\\f1\\fs22\\par\n}\n",
-  "LastModified": "2024-10-10T13:53:51.673Z"
+  "LastModified": "2024-10-10T17:36:37.297Z"
 }

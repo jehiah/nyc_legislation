@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/10/21129_A_Committee_on_Housing_and_Buildings_24-10-10_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/10/21129_M_Committee_on_Housing_and_Buildings_24-10-10_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_241010-110935.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21129&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,18 +21,139 @@
       "GUID": "E75D7397-CB03-4D60-A2DD-AB05759E79A8",
       "Title": "A Local Law to amend the New York city building code, in relation to the display of artwork on temporary protective structures on construction sites",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 956-C",
       "MinutesNote": "Proposed Int. No. 956-C",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 74262,
       "MatterFile": "Int 0956-2024",
       "MatterName": "Display of artwork on temporary protective structures on construction sites.",
       "MatterType": "Introduction",
-      "LastModified": "2024-10-07T15:22:21.517Z"
+      "LastModified": "2024-10-10T15:21:08.09Z"
+    },
+    {
+      "ID": 413517,
+      "GUID": "1CD48585-E2BB-4B5A-A9E5-15579C4CC751",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2024-10-10T15:21:03.06Z"
+    },
+    {
+      "ID": 413518,
+      "GUID": "1E4189C8-1A2F-4AC8-984F-8FD640E1C0AD",
+      "Title": "A Local Law to amend the New York city building code, in relation to the display of artwork on temporary protective structures on construction sites",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 74262,
+      "MatterFile": "Int 0956-2024",
+      "MatterName": "Display of artwork on temporary protective structures on construction sites.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-10-10T15:21:14.933Z"
+    },
+    {
+      "ID": 413519,
+      "GUID": "89FCD940-71FE-48AD-89E2-3C68260178D9",
+      "Title": "A Local Law to amend the New York city building code, in relation to the display of artwork on temporary protective structures on construction sites",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 74262,
+      "MatterFile": "Int 0956-2024",
+      "MatterName": "Display of artwork on temporary protective structures on construction sites.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-10-10T15:21:18.907Z"
+    },
+    {
+      "ID": 413520,
+      "GUID": "588DC0E2-3F62-4D20-A50D-BB95FD2D00A2",
+      "Title": "A Local Law to amend the New York city building code, in relation to the display of artwork on temporary protective structures on construction sites",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "C",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "This Introduction was Approved by Committee",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 74262,
+      "MatterFile": "Int 0956-2024",
+      "MatterName": "Display of artwork on temporary protective structures on construction sites.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-10-10T15:49:25.127Z"
     }
   ],
   "AgendaLastPublished": "2024-10-07T15:22:26.797Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-10-07T15:22:26.907Z"
+  "MinutesLastPublished": "2024-10-10T15:49:29.41Z",
+  "LastModified": "2024-10-10T15:49:29.43Z"
 }
