@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/10/21112_A_Committee_on_Children_and_Youth_24-10-15_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/10/21112_M_Committee_on_Children_and_Youth_24-10-15_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Immigration",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_241015-115737.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21112&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,39 +21,138 @@
       "GUID": "599D7F24-1659-4E6B-B1EC-99351A673593",
       "Title": "Jointly with the Committee on Immigration",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 6,
       "Version": "",
-      "LastModified": "2024-10-11T20:18:24.9Z"
+      "LastModified": "2024-10-15T22:07:29.703Z"
     },
     {
       "ID": 412535,
       "GUID": "36AC889E-A9D7-4D97-8FB0-323163495C0D",
       "Title": "Oversight - Resources for Immigrant Youth Who Arrived to the United States as Unaccompanied Children.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 74788,
       "MatterFile": "T2024-2493",
       "MatterName": "Oversight - Resources for Immigrant Youth Who Arrived to the United States as Unaccompanied Children.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-10-11T20:18:24.75Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-10-15T22:07:29.7Z"
     },
     {
       "ID": 413535,
       "GUID": "FABF434B-EFAC-44B1-A0B5-CA4BB0F2788D",
       "Title": "Resolution calling on the New York State Legislature to introduce and pass, and the Governor to sign, legislation amending the tax law to authorize the City of New York to offer a tax credit for businesses to incentivize the creation of workforce development and training programs for newly arrived immigrants.",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 74763,
       "MatterFile": "Res 0576-2024",
       "MatterName": "Amending the tax law to authorize the City of New York to offer a tax credit for businesses to incentivize the creation of workforce development and training programs for newly arrived immigrants.",
       "MatterType": "Resolution",
-      "LastModified": "2024-10-11T20:18:38.24Z"
+      "LastModified": "2024-10-15T22:32:53.087Z"
+    },
+    {
+      "ID": 413579,
+      "GUID": "98E2EE44-1040-4247-BD66-BF387057126D",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        }
+      ],
+      "LastModified": "2024-10-15T22:07:29.7Z"
+    },
+    {
+      "ID": 413581,
+      "GUID": "4B8A45FF-0DA2-427B-8B17-2C16D4C5DC47",
+      "Title": "Oversight - Resources for Immigrant Youth Who Arrived to the United States as Unaccompanied Children.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 74788,
+      "MatterFile": "T2024-2493",
+      "MatterName": "Oversight - Resources for Immigrant Youth Who Arrived to the United States as Unaccompanied Children.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-10-15T22:07:38.227Z"
+    },
+    {
+      "ID": 413582,
+      "GUID": "AAEFBF8E-9098-4ECB-9128-F3CA233F6751",
+      "Title": "Resolution calling on the New York State Legislature to introduce and pass, and the Governor to sign, legislation amending the tax law to authorize the City of New York to offer a tax credit for businesses to incentivize the creation of workforce development and training programs for newly arrived immigrants.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 74763,
+      "MatterFile": "Res 0576-2024",
+      "MatterName": "Amending the tax law to authorize the City of New York to offer a tax credit for businesses to incentivize the creation of workforce development and training programs for newly arrived immigrants.",
+      "MatterType": "Resolution",
+      "LastModified": "2024-10-15T22:33:03.6Z"
     }
   ],
   "AgendaLastPublished": "2024-10-11T20:18:42.967Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-10-11T20:18:43.01Z"
+  "MinutesLastPublished": "2024-10-15T22:08:32.657Z",
+  "LastModified": "2024-10-15T22:08:32.697Z"
 }
