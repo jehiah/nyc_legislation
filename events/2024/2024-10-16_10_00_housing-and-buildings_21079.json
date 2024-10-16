@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/10/21079_A_Committee_on_Housing_and_Buildings_24-10-16_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/10/21079_M_Committee_on_Housing_and_Buildings_24-10-16_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_241016-101004.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21079&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,29 +20,145 @@
       "GUID": "270535DD-08DB-4526-AE88-B00A19940F7F",
       "Title": "A Local Law to amend the administrative code of the city of New York and the fuel gas code in relation to periodic inspections of gas piping systems, ordinary plumbing work, reestablishing the plumbing and fire suppression piping contractor license board, piping systems, emergency work, fire suppression piping work, and seizure",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 72881,
       "MatterFile": "Int 0429-2024",
       "MatterName": "Periodic inspections of gas piping systems, ordinary plumbing work, reestablishing the plumbing and fire suppression piping contractor license board, piping systems, emergency work, fire suppression piping work, and seizure.",
       "MatterType": "Introduction",
-      "LastModified": "2024-10-14T22:54:33.72Z"
+      "LastModified": "2024-10-16T15:59:35.433Z"
     },
     {
       "ID": 411989,
       "GUID": "A781DC59-79B9-406B-9143-4F26B6CD2435",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the inspection of steam radiators in multiple dwellings",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 74113,
       "MatterFile": "Int 0925-2024",
       "MatterName": "Requiring the inspection of steam radiators in multiple dwellings.",
       "MatterType": "Introduction",
-      "LastModified": "2024-10-15T15:27:59.237Z"
+      "LastModified": "2024-10-16T15:59:37.83Z"
+    },
+    {
+      "ID": 413596,
+      "GUID": "665DFD8C-38FE-46D9-996A-A3FA3ABB1E6B",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2024-10-16T16:32:19.817Z"
+    },
+    {
+      "ID": 413597,
+      "GUID": "A82CE375-0C3C-4556-BC73-C6979FD6F200",
+      "Title": "A Local Law to amend the administrative code of the city of New York and the fuel gas code in relation to periodic inspections of gas piping systems, ordinary plumbing work, reestablishing the plumbing and fire suppression piping contractor license board, piping systems, emergency work, fire suppression piping work, and seizure",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 72881,
+      "MatterFile": "Int 0429-2024",
+      "MatterName": "Periodic inspections of gas piping systems, ordinary plumbing work, reestablishing the plumbing and fire suppression piping contractor license board, piping systems, emergency work, fire suppression piping work, and seizure.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-10-16T16:32:23.843Z"
+    },
+    {
+      "ID": 413598,
+      "GUID": "FC6E1FC9-A442-4E5B-83FD-62A7E8623825",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the inspection of steam radiators in multiple dwellings",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 74113,
+      "MatterFile": "Int 0925-2024",
+      "MatterName": "Requiring the inspection of steam radiators in multiple dwellings.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-10-16T16:41:47.613Z"
+    },
+    {
+      "ID": 413603,
+      "GUID": "61A0A4A2-10D3-40C4-BE05-A4B6160060EF",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Louis and Cabán",
+      "LastModified": "2024-10-16T16:32:13.593Z"
     }
   ],
   "AgendaLastPublished": "2024-10-14T22:54:40.383Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-10-14T22:54:40.423Z"
+  "MinutesLastPublished": "2024-10-16T16:42:10.983Z",
+  "LastModified": "2024-10-16T16:42:11.007Z"
 }
