@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/10/21172_A_Committee_on_Consumer_and_Worker_Protection_24-10-23_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/10/21172_M_Committee_on_Consumer_and_Worker_Protection_24-10-23_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_241023-104355.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21172&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,18 +21,139 @@
       "GUID": "79120CD5-7CA2-42A3-AB43-CC181C2971C2",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to licensing hotels",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 991-C",
       "MinutesNote": "Proposed Int. No. 991-C",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 74583,
       "MatterFile": "Int 0991-2024",
       "MatterName": "Licensing Hotels",
       "MatterType": "Introduction",
-      "LastModified": "2024-10-18T16:57:22.913Z"
+      "LastModified": "2024-10-23T14:56:31.157Z"
+    },
+    {
+      "ID": 413901,
+      "GUID": "86E1C17F-5B08-4A72-9688-B2E38B3B6F2C",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2024-10-23T14:56:12.763Z"
+    },
+    {
+      "ID": 413902,
+      "GUID": "3C16C39B-DE19-4E2D-92AF-4F4D90BED75F",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to licensing hotels",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 74583,
+      "MatterFile": "Int 0991-2024",
+      "MatterName": "Licensing Hotels",
+      "MatterType": "Introduction",
+      "LastModified": "2024-10-23T14:56:35.29Z"
+    },
+    {
+      "ID": 413903,
+      "GUID": "7447E19C-5FE0-4D28-B87E-54915EA349A0",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to licensing hotels",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 74583,
+      "MatterFile": "Int 0991-2024",
+      "MatterName": "Licensing Hotels",
+      "MatterType": "Introduction",
+      "LastModified": "2024-10-23T14:56:39.437Z"
+    },
+    {
+      "ID": 413904,
+      "GUID": "337FC6F6-CA89-4955-B041-D27FF5A92789",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to licensing hotels",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "C",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 74583,
+      "MatterFile": "Int 0991-2024",
+      "MatterName": "Licensing Hotels",
+      "MatterType": "Introduction",
+      "LastModified": "2024-10-23T15:14:28.537Z"
     }
   ],
   "AgendaLastPublished": "2024-10-18T16:57:34.28Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-10-18T16:57:34.3Z"
+  "MinutesLastPublished": "2024-10-23T15:14:33.137Z",
+  "LastModified": "2024-10-23T15:14:33.173Z"
 }
