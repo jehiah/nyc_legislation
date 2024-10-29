@@ -8,10 +8,13 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/10/21157_A_Committee_on_Veterans_24-10-29_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/10/21157_M_Committee_on_Veterans_24-10-29_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Mental Health, Disabilities, and Addiction.",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_241029-130752.mp4",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_241029-130752.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21157&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,26 +22,108 @@
       "GUID": "32276C7B-2DA5-40D0-8DB6-FDFA8F68B4B0",
       "Title": "Jointly with the Committee on Mental Health, Disabilities, and Addiction.",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "",
-      "LastModified": "2024-10-08T19:02:49.383Z"
+      "LastModified": "2024-10-29T18:43:33.433Z"
     },
     {
       "ID": 413414,
       "GUID": "3CCAD918-A46C-41B7-825C-5A59353D5078",
       "Title": "Oversight - Supporting the Families of Veterans with PTSD.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 74770,
       "MatterFile": "T2024-2475",
       "MatterName": "Oversight - Supporting the Families of Veterans with PTSD.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-10-08T19:03:37.957Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-10-29T18:43:45.487Z"
+    },
+    {
+      "ID": 414020,
+      "GUID": "E53501FD-E830-4840-9FC6-17EFA105B7E1",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        }
+      ],
+      "LastModified": "2024-10-29T20:27:28.097Z"
+    },
+    {
+      "ID": 414021,
+      "GUID": "1A823A4F-8F0A-459E-AC09-69F38B91B532",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Lee, Cabán, Abreu, Bottcher, Hanif and Mealy ",
+      "LastModified": "2024-10-29T20:28:28.003Z"
+    },
+    {
+      "ID": 414022,
+      "GUID": "DDA01CAE-87E5-48CD-B2DF-53951475CDB7",
+      "Title": "Oversight - Supporting the Families of Veterans with PTSD.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 74770,
+      "MatterFile": "T2024-2475",
+      "MatterName": "Oversight - Supporting the Families of Veterans with PTSD.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-10-29T20:28:35.677Z"
     }
   ],
   "AgendaLastPublished": "2024-10-08T19:03:45.773Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-10-29T17:07:54.28Z"
+  "MinutesLastPublished": "2024-10-29T20:28:42.4Z",
+  "LastModified": "2024-10-29T20:28:42.45Z"
 }

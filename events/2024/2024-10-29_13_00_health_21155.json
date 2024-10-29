@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/10/21155_A_Committee_on_Health_24-10-29_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/10/21155_M_Committee_on_Health_24-10-29_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Hospitals",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_241029-131632.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21155&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,41 +21,278 @@
       "GUID": "7CD6BD8E-712A-4B80-A213-6F085E569B24",
       "Title": "Jointly with the Committee on Hospitals",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 8,
       "Version": "",
-      "LastModified": "2024-10-16T18:11:58.563Z"
+      "LastModified": "2024-10-29T18:42:25.793Z"
     },
     {
       "ID": 413409,
       "GUID": "CFFAC9B1-A0A9-4CF9-A6E1-D20165B4B5CB",
       "Title": "Oversight - Examining the Effects of Hospital Closures on Community Needs.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 74778,
       "MatterFile": "T2024-2483",
       "MatterName": "Oversight - Examining the Effects of Hospital Closures on Community Needs.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-10-28T14:31:20.293Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-10-29T18:42:14.523Z"
     },
     {
       "ID": 413629,
       "GUID": "7B7AD8BE-8EEC-4A7C-8679-CCA4CE1A5F8A",
       "Title": "Resolution calling on the New York State Governor to Sign S.8843A/A.1633B, the Local Input in Community Healthcare (LICH) Act.",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
       "AgendaNote": "Proposed Res. No. 339-A",
       "MinutesNote": "Proposed Res. No. 339-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 72979,
       "MatterFile": "Res 0339-2024",
       "MatterName": "Local Input in Community Healthcare (LICH) Act (S.8843A/A.1633B)",
       "MatterType": "Resolution",
-      "LastModified": "2024-10-28T14:31:23.757Z"
+      "LastModified": "2024-10-29T21:33:52.373Z"
+    },
+    {
+      "ID": 414010,
+      "GUID": "E9EA104E-576A-4DF4-86C6-638E99BFD408",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 50
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7749,
+          "Slug": "kalman-yeger",
+          "FullName": "Kalman Yeger",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 50
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7749,
+          "Slug": "kalman-yeger",
+          "FullName": "Kalman Yeger",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        }
+      ],
+      "LastModified": "2024-10-29T21:33:00.45Z"
+    },
+    {
+      "ID": 414011,
+      "GUID": "F504666B-091A-4B0E-AD72-CDA7900683A5",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Rivera, Moya, Marte, Paladino, Powers, Joseph, Brooks-Powers and Public Advocate Williams. ",
+      "LastModified": "2024-10-29T21:33:00.02Z"
+    },
+    {
+      "ID": 414012,
+      "GUID": "EA1F0E9A-FE31-4843-B60C-935D346BA390",
+      "Title": "Oversight - Examining the Effects of Hospital Closures on Community Needs.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 74778,
+      "MatterFile": "T2024-2483",
+      "MatterName": "Oversight - Examining the Effects of Hospital Closures on Community Needs.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-10-29T21:33:05.087Z"
+    },
+    {
+      "ID": 414013,
+      "GUID": "2D8032AE-498C-4640-BFF9-F6956FD7313F",
+      "Title": "Resolution calling on the New York State Governor to Sign S.8843A/A.1633B, the Local Input in Community Healthcare (LICH) Act.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Resolution was Amendment Proposed by Comm",
+      "MatterID": 72979,
+      "MatterFile": "Res 0339-2024",
+      "MatterName": "Local Input in Community Healthcare (LICH) Act (S.8843A/A.1633B)",
+      "MatterType": "Resolution",
+      "LastModified": "2024-10-29T21:33:57.333Z"
+    },
+    {
+      "ID": 414014,
+      "GUID": "9CB5E38D-C836-4477-8573-84B93C061B05",
+      "Title": "Resolution calling on the New York State Governor to Sign S.8843A/A.1633B, the Local Input in Community Healthcare (LICH) Act.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 7,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 72979,
+      "MatterFile": "Res 0339-2024",
+      "MatterName": "Local Input in Community Healthcare (LICH) Act (S.8843A/A.1633B)",
+      "MatterType": "Resolution",
+      "LastModified": "2024-10-29T21:34:02.71Z"
     }
   ],
   "AgendaLastPublished": "2024-10-28T14:26:44.123Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-10-28T14:26:44.15Z"
+  "MinutesLastPublished": "2024-10-29T21:33:18.703Z",
+  "LastModified": "2024-10-29T21:33:18.77Z"
 }

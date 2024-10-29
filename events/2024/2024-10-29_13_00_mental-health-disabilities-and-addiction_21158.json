@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/10/21158_A_Committee_on_Mental_Health%2C_Disabilities_and_Addiction_24-10-29_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/10/21158_M_Committee_on_Mental_Health%2C_Disabilities_and_Addiction_24-10-29_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Veterans",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_241029-130752.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21158&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,26 +21,132 @@
       "GUID": "C18C5B20-0AB6-4E4C-A918-24FDB3CC959D",
       "Title": "Oversight - Supporting the Families of Veterans with PTSD.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 74771,
       "MatterFile": "T2024-2476",
       "MatterName": "Oversight - Supporting the Families of Veterans with PTSD.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-10-08T19:06:43.853Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-10-29T18:44:13.707Z"
     },
     {
       "ID": 413416,
       "GUID": "8628F13D-4534-4028-9424-C06FD7F0B625",
       "Title": "Jointly with the Committee on Veterans",
       "AgendaSequence": 2,
+      "MinutesSequence": 5,
+      "Version": "",
+      "LastModified": "2024-10-29T18:44:03.91Z"
+    },
+    {
+      "ID": 414023,
+      "GUID": "E8500C24-8975-42CF-ABD7-940052126F6D",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        }
+      ],
+      "LastModified": "2024-10-29T19:30:54.863Z"
+    },
+    {
+      "ID": 414024,
+      "GUID": "3517AF4A-731B-4885-BFEF-8F3884AEC355",
+      "Title": "",
+      "AgendaSequence": 0,
       "MinutesSequence": 2,
       "Version": "",
-      "LastModified": "2024-10-08T19:06:53.137Z"
+      "MinutesNote": "Other Council Members Attending: Holden, Nurse, Ariola and Paladino",
+      "LastModified": "2024-10-29T19:30:41.897Z"
+    },
+    {
+      "ID": 414025,
+      "GUID": "CA7CAE35-9A2D-486B-A933-90CBF8CC5F08",
+      "Title": "Oversight - Supporting the Families of Veterans with PTSD.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 74771,
+      "MatterFile": "T2024-2476",
+      "MatterName": "Oversight - Supporting the Families of Veterans with PTSD.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-10-29T20:36:39.78Z"
     }
   ],
   "AgendaLastPublished": "2024-10-08T19:06:59.42Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-10-08T19:06:59.467Z"
+  "MinutesLastPublished": "2024-10-29T20:36:45.133Z",
+  "LastModified": "2024-10-29T20:36:45.177Z"
 }

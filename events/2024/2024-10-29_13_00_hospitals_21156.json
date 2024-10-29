@@ -8,10 +8,13 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/10/21156_A_Committee_on_Hospitals_24-10-29_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/10/21156_M_Committee_on_Hospitals_24-10-29_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Health.",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_241029-131632.mp4",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_241029-131632.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21156&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,41 +22,174 @@
       "GUID": "A9162F07-5C1D-4B64-815C-7B07CA886B16",
       "Title": "Oversight - Examining the Effects of Hospital Closures on Community Needs.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 74777,
       "MatterFile": "T2024-2482",
       "MatterName": "Oversight - Examining the Effects of Hospital Closures on Community Needs.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-10-28T14:31:34.04Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-10-29T18:42:56.507Z"
     },
     {
       "ID": 413411,
       "GUID": "E0ACD5A8-B69C-433A-B24B-567443AB6564",
       "Title": "Jointly with the Committee on Health",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 8,
       "Version": "",
-      "LastModified": "2024-10-16T18:11:27.7Z"
+      "LastModified": "2024-10-29T18:42:47.11Z"
     },
     {
       "ID": 413628,
       "GUID": "0338299B-ECD2-4A26-9B53-DA7B3E4E9C3A",
       "Title": "Resolution calling on the New York State Governor to Sign S.8843A/A.1633B, the Local Input in Community Healthcare (LICH) Act.",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
       "AgendaNote": "Proposed Res. No. 339-A",
       "MinutesNote": "Proposed Res. No. 339-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 72979,
       "MatterFile": "Res 0339-2024",
       "MatterName": "Local Input in Community Healthcare (LICH) Act (S.8843A/A.1633B)",
       "MatterType": "Resolution",
-      "LastModified": "2024-10-28T14:31:37.647Z"
+      "LastModified": "2024-10-29T18:42:59.693Z"
+    },
+    {
+      "ID": 414015,
+      "GUID": "04CFD2E6-E8F9-4138-A789-5C1EB9987DE4",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 30
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7740,
+          "Slug": "carlina-rivera",
+          "FullName": "Carlina Rivera",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2024-10-29T21:28:28.977Z"
+    },
+    {
+      "ID": 414016,
+      "GUID": "A2260E98-229C-432E-92D3-4A110C6BE6CE",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Menin, Yeger, Marte, Ariola, Powers, Feliz, Zhuang, De La Rosa and Public Advocate Williams. ",
+      "LastModified": "2024-10-29T21:29:39.227Z"
+    },
+    {
+      "ID": 414017,
+      "GUID": "AE38EC70-E7FC-47E8-99F3-A0705E2F9E03",
+      "Title": "Oversight - Examining the Effects of Hospital Closures on Community Needs.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 74777,
+      "MatterFile": "T2024-2482",
+      "MatterName": "Oversight - Examining the Effects of Hospital Closures on Community Needs.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-10-29T21:29:44.17Z"
+    },
+    {
+      "ID": 414018,
+      "GUID": "803FE796-A51A-456E-918C-8A6BFC2E837E",
+      "Title": "Resolution calling on the New York State Governor to Sign S.8843A/A.1633B, the Local Input in Community Healthcare (LICH) Act.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Resolution was Amendment Proposed by Comm",
+      "MatterID": 72979,
+      "MatterFile": "Res 0339-2024",
+      "MatterName": "Local Input in Community Healthcare (LICH) Act (S.8843A/A.1633B)",
+      "MatterType": "Resolution",
+      "LastModified": "2024-10-29T21:33:38.273Z"
+    },
+    {
+      "ID": 414019,
+      "GUID": "38C558D9-67AD-4E0D-8B0C-D427DC69F066",
+      "Title": "Resolution calling on the New York State Governor to Sign S.8843A/A.1633B, the Local Input in Community Healthcare (LICH) Act.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 7,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 72979,
+      "MatterFile": "Res 0339-2024",
+      "MatterName": "Local Input in Community Healthcare (LICH) Act (S.8843A/A.1633B)",
+      "MatterType": "Resolution",
+      "LastModified": "2024-10-29T21:33:44.41Z"
     }
   ],
   "AgendaLastPublished": "2024-10-28T14:27:16.057Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-10-29T17:16:34.223Z"
+  "MinutesLastPublished": "2024-10-29T21:29:56.7Z",
+  "LastModified": "2024-10-29T21:29:56.827Z"
 }
