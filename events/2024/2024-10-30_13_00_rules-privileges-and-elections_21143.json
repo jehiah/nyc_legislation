@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/10/21143_A_Committee_on_Rules%2C_Privileges_and_Elections_24-10-30_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/10/21143_M_Committee_on_Rules%2C_Privileges_and_Elections_24-10-30_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-250-14_241030-131557.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21143&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,7 +20,7 @@
       "GUID": "0DEF1D88-2417-44AE-ACE4-78887EEDB4C1",
       "Title": "Resolution approving the designation by the Council of Michael Espiritu, a resident of Manhattan, for appointment by the Mayor to the Health & Hospitals Corporation.",
       "AgendaSequence": 1,
-      "MinutesSequence": 2,
+      "MinutesSequence": 3,
       "Version": "*",
       "AgendaNote": "Preconsidered",
       "ActionID": 15,
@@ -35,7 +37,7 @@
       "GUID": "A003EB90-67C6-4222-9350-4F12C40F4E61",
       "Title": "Resolution approving the designation by the Council of Vanessa Rodriguez, a resident of the Bronx, for appointment by the Mayor to the Health & Hospitals Corporation.",
       "AgendaSequence": 2,
-      "MinutesSequence": 4,
+      "MinutesSequence": 5,
       "Version": "*",
       "AgendaNote": "Preconsidered",
       "ActionID": 15,
@@ -54,36 +56,143 @@
       "AgendaSequence": 0,
       "MinutesSequence": 1,
       "Version": "",
-      "LastModified": "2024-10-30T17:34:11.347Z"
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7741,
+          "Slug": "keith-powers",
+          "FullName": "Keith Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7739,
+          "Slug": "adrienne-e-adams",
+          "FullName": "Adrienne E. Adams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7264,
+          "Slug": "joseph-c-borelli",
+          "FullName": "Joseph C. Borelli",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 90
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 110
+        }
+      ],
+      "LastModified": "2024-10-30T19:54:31.663Z"
     },
     {
       "ID": 414077,
       "GUID": "87EB1635-F4F1-417A-9E2E-C50960B9057B",
       "Title": "Resolution approving the designation by the Council of Michael Espiritu, a resident of Manhattan, for appointment by the Mayor to the Health & Hospitals Corporation.",
       "AgendaSequence": 0,
-      "MinutesSequence": 3,
+      "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 5018,
+      "ActionName": "P-C Item Laid Over by Comm",
+      "ActionText": "This Resolution was P-C Item Laid Over by Comm",
       "MatterID": 74980,
       "MatterFile": "T2024-2685",
       "MatterName": "Michael Espiritu, Health & Hospitals Corporation",
       "MatterType": "Resolution",
-      "LastModified": "2024-10-30T17:34:13.057Z"
+      "LastModified": "2024-10-30T19:55:04.97Z"
     },
     {
       "ID": 414078,
       "GUID": "38DD4C77-ACF0-4255-A5BD-DB15A5F401AC",
       "Title": "Resolution approving the designation by the Council of Vanessa Rodriguez, a resident of the Bronx, for appointment by the Mayor to the Health & Hospitals Corporation.",
       "AgendaSequence": 0,
-      "MinutesSequence": 5,
+      "MinutesSequence": 6,
       "Version": "*",
+      "ActionID": 5018,
+      "ActionName": "P-C Item Laid Over by Comm",
+      "ActionText": "This Resolution was P-C Item Laid Over by Comm",
       "MatterID": 74981,
       "MatterFile": "T2024-2686",
       "MatterName": "Vanessa Rodriguez, Health & Hospitals Corporation.",
       "MatterType": "Resolution",
-      "LastModified": "2024-10-30T17:34:14.947Z"
+      "LastModified": "2024-10-30T19:58:22.72Z"
+    },
+    {
+      "ID": 414084,
+      "GUID": "3874C6C6-E844-4E31-BDA5-C9361D4386CE",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Marte",
+      "LastModified": "2024-10-30T19:54:59.373Z"
     }
   ],
   "AgendaLastPublished": "2024-10-30T17:02:52.323Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-10-30T17:15:59.38Z"
+  "MinutesLastPublished": "2024-10-30T19:58:27.637Z",
+  "LastModified": "2024-10-30T19:58:27.76Z"
 }

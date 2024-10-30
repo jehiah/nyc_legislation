@@ -8,11 +8,13 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/10/21123_A_Committee_on_Small_Business_24-10-30_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/10/21123_M_Committee_on_Small_Business_24-10-30_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Cultural Affairs, Libraries and International Intergroup Relations.",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-250-14_241030-102524.mp4",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-250-14_241030-102524.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21123&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -38,7 +40,7 @@
       "MatterFile": "T2024-2518",
       "MatterName": "Oversight - Public Space Activation and Small Business Revitalization in Naturally Occurring Cultural Districts.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Filed",
       "LastModified": "2024-10-30T17:24:30.397Z"
     },
     {
@@ -48,7 +50,66 @@
       "AgendaSequence": 0,
       "MinutesSequence": 1,
       "Version": "",
-      "LastModified": "2024-10-30T17:24:21.867Z"
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2024-10-30T18:15:09.35Z"
     },
     {
       "ID": 414053,
@@ -57,8 +118,8 @@
       "AgendaSequence": 0,
       "MinutesSequence": 2,
       "Version": "",
-      "MinutesNote": "Other Council Members Attending: ",
-      "LastModified": "2024-10-30T17:33:10.993Z"
+      "MinutesNote": "Other Council Members Attending: Rivera, Carr, Hanks, Hanif, Williams and Louis",
+      "LastModified": "2024-10-30T18:18:10.49Z"
     },
     {
       "ID": 414054,
@@ -67,15 +128,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
       "MatterID": 74813,
       "MatterFile": "T2024-2518",
       "MatterName": "Oversight - Public Space Activation and Small Business Revitalization in Naturally Occurring Cultural Districts.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-10-30T17:24:23.053Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-10-30T18:15:59.3Z"
     }
   ],
   "AgendaLastPublished": "2024-09-21T02:34:54.297Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-10-30T16:55:57.797Z"
+  "MinutesLastPublished": "2024-10-30T18:18:15.68Z",
+  "LastModified": "2024-10-30T18:18:15.707Z"
 }

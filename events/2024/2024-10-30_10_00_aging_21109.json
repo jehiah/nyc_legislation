@@ -8,10 +8,13 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/10/21109_A_Committee_on_Aging_24-10-30_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/10/21109_M_Committee_on_Aging_24-10-30_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Public Safety.",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_241030-102238.mp4",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_241030-102238.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21109&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -37,7 +40,7 @@
       "MatterFile": "T2024-2488",
       "MatterName": "Oversight - Elder Fraud",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Filed",
       "LastModified": "2024-10-30T17:28:43.94Z"
     },
     {
@@ -86,7 +89,7 @@
       "MatterFile": "Int 1101-2024",
       "MatterName": "Requiring the police department to disseminate information and provide officer training on requisites for filing reports and criminal complaints of identity theft and related crimes.",
       "MatterType": "Introduction",
-      "LastModified": "2024-10-30T17:29:33.913Z"
+      "LastModified": "2024-10-30T18:59:42.48Z"
     },
     {
       "ID": 414064,
@@ -95,7 +98,66 @@
       "AgendaSequence": 0,
       "MinutesSequence": 1,
       "Version": "",
-      "LastModified": "2024-10-30T17:27:57.907Z"
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 40
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2024-10-30T17:46:50.65Z"
     },
     {
       "ID": 414065,
@@ -104,8 +166,8 @@
       "AgendaSequence": 0,
       "MinutesSequence": 2,
       "Version": "",
-      "MinutesNote": "Other Council Members Attending: ",
-      "LastModified": "2024-10-30T17:30:35.663Z"
+      "MinutesNote": "Other Council Members Attending: Marte, Ariola, Holden, Joseph, Banks, Schulman and Stevens",
+      "LastModified": "2024-10-30T17:46:41.85Z"
     },
     {
       "ID": 414066,
@@ -114,12 +176,15 @@
       "AgendaSequence": 0,
       "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
       "MatterID": 74783,
       "MatterFile": "T2024-2488",
       "MatterName": "Oversight - Elder Fraud",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-10-30T17:28:08.687Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-10-30T17:46:57.483Z"
     },
     {
       "ID": 414067,
@@ -128,11 +193,14 @@
       "AgendaSequence": 0,
       "MinutesSequence": 6,
       "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
       "MatterID": 74888,
       "MatterFile": "Int 1092-2024",
       "MatterName": "Educating older adults about elder fraud, end of life preparation, and financial literacy.",
       "MatterType": "Introduction",
-      "LastModified": "2024-10-30T17:28:10.73Z"
+      "LastModified": "2024-10-30T18:59:15.477Z"
     },
     {
       "ID": 414068,
@@ -141,11 +209,14 @@
       "AgendaSequence": 0,
       "MinutesSequence": 8,
       "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
       "MatterID": 74973,
       "MatterFile": "Int 1101-2024",
       "MatterName": "Requiring the police department to disseminate information and provide officer training on requisites for filing reports and criminal complaints of identity theft and related crimes.",
       "MatterType": "Introduction",
-      "LastModified": "2024-10-30T17:28:12.583Z"
+      "LastModified": "2024-10-30T18:59:47.63Z"
     },
     {
       "ID": 414069,
@@ -154,15 +225,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 10,
       "Version": "*",
-      "MinutesNote": "Other Council Members Attending: ",
+      "MinutesNote": "Other Council Members Attending:",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
       "MatterID": 74582,
       "MatterFile": "Res 0561-2024",
       "MatterName": "Create a statewide public guardianship system to address current inequities and deficits and safeguard vulnerable New Yorkers in need of protective arrangements.",
       "MatterType": "Resolution",
-      "LastModified": "2024-10-30T17:28:39.03Z"
+      "LastModified": "2024-10-30T19:00:04.503Z"
     }
   ],
   "AgendaLastPublished": "2024-10-21T14:48:44.703Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-10-30T14:22:40.297Z"
+  "MinutesLastPublished": "2024-10-30T17:47:20.183Z",
+  "LastModified": "2024-10-30T17:47:20.303Z"
 }
