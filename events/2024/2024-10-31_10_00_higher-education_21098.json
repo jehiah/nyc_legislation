@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/10/21098_A_Committee_on_Higher_Education_24-10-31_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/10/21098_M_Committee_on_Higher_Education_24-10-31_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Civil Service and Labor",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21098&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,26 +20,108 @@
       "GUID": "A619A33C-5DC7-4D6D-A085-FF584A5FB843",
       "Title": "Jointly with the Committee on Civil Service and Labor ",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "",
-      "LastModified": "2024-09-19T18:02:14.43Z"
+      "LastModified": "2024-10-31T16:07:08.253Z"
     },
     {
       "ID": 412591,
       "GUID": "3E80C90F-6EBE-4A76-802C-DE554B8821EA",
       "Title": "Oversight - Pathways into New York City's Civil Service.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 74795,
       "MatterFile": "T2024-2500",
       "MatterName": "Oversight - Pathways into New York City's Civil Service.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-09-19T18:02:45.27Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-10-31T16:07:12.013Z"
+    },
+    {
+      "ID": 414088,
+      "GUID": "FDA99987-6324-4949-A64F-E13739F6B46B",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        }
+      ],
+      "LastModified": "2024-10-31T16:41:32.8Z"
+    },
+    {
+      "ID": 414089,
+      "GUID": "66AA3DAD-92D8-4B78-B6EE-391283AE8644",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: De La Rosa, Moya, Hanks, Cabán, Salaam and  Restler ",
+      "LastModified": "2024-10-31T16:42:42.223Z"
+    },
+    {
+      "ID": 414090,
+      "GUID": "8A3AB5F4-AF32-4E52-8D6A-3F2AB0023CCC",
+      "Title": "Oversight - Pathways into New York City's Civil Service.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 74795,
+      "MatterFile": "T2024-2500",
+      "MatterName": "Oversight - Pathways into New York City's Civil Service.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-10-31T16:07:15.453Z"
     }
   ],
   "AgendaLastPublished": "2024-09-19T18:02:49.783Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-09-19T18:02:49.82Z"
+  "MinutesLastPublished": "2024-10-31T16:43:05.063Z",
+  "LastModified": "2024-10-31T16:43:05.11Z"
 }

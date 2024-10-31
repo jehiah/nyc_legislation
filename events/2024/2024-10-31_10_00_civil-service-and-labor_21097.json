@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/10/21097_A_Committee_on_Civil_Service_and_Labor_24-10-31_Committee_Green_Sheet.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/10/21097_M_Committee_on_Civil_Service_and_Labor_24-10-31_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Higher Education.",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_241031-101649.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21097&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,26 +21,140 @@
       "GUID": "D02429C4-2469-4D72-BD6E-A316F24F2F0C",
       "Title": "Jointly with the Committee on Higher Education",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "",
-      "LastModified": "2024-09-19T18:01:23.323Z"
+      "LastModified": "2024-10-31T16:05:40.467Z"
     },
     {
       "ID": 412590,
       "GUID": "67514E26-C75F-407B-96BC-19C5ABD05809",
       "Title": "Oversight - Pathways into New York City's Civil Service.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 74794,
       "MatterFile": "T2024-2499",
       "MatterName": "Oversight - Pathways into New York City's Civil Service.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-10-25T18:55:24.07Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-10-31T16:05:45.663Z"
+    },
+    {
+      "ID": 414085,
+      "GUID": "7B2DA53E-B727-42BA-AC3F-4488127B68A0",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 70
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2024-10-31T16:05:34.33Z"
+    },
+    {
+      "ID": 414086,
+      "GUID": "5A3C125F-8C98-483D-9095-887C8BE417E8",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Brewer, Marte, and  Restler",
+      "LastModified": "2024-10-31T16:05:30.097Z"
+    },
+    {
+      "ID": 414087,
+      "GUID": "0F8FFEF8-89D5-4B05-8AD6-51B04923E93B",
+      "Title": "Oversight - Pathways into New York City's Civil Service.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 74794,
+      "MatterFile": "T2024-2499",
+      "MatterName": "Oversight - Pathways into New York City's Civil Service.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-10-31T16:05:50.77Z"
     }
   ],
   "AgendaLastPublished": "2024-09-19T18:01:53.893Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-10-31T14:16:50.993Z"
+  "MinutesLastPublished": "2024-10-31T16:05:55.87Z",
+  "LastModified": "2024-10-31T16:05:55.997Z"
 }
