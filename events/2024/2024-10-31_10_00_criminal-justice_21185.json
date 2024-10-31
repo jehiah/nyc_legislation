@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/10/21185_A_Committee_on_Criminal_Justice_24-10-31_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/10/21185_M_Committee_on_Criminal_Justice_24-10-31_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_241031-100759.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21185&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,43 +20,195 @@
       "GUID": "F08CA34F-7C3D-4625-9568-6616678D5807",
       "Title": "Oversight - Preventing and Addressing Sexual Assault and Harassment in City Jails.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 74866,
       "MatterFile": "T2024-2571",
       "MatterName": "Oversight - Preventing and Addressing Sexual Assault and Harassment in City Jails.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-10-25T18:55:51.14Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-10-31T18:26:35.64Z"
     },
     {
       "ID": 413684,
       "GUID": "F85C6A19-C84E-4FCA-87A1-924274AC1751",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the commissioner of correction to develop a comprehensive training program for investigation of sexual crimes",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 68947,
       "MatterFile": "Int 0830-2024",
       "MatterName": "Requiring the commissioner of correction to develop a comprehensive training program for investigation of sexual crimes.",
       "MatterType": "Introduction",
-      "LastModified": "2024-10-23T16:29:32.567Z"
+      "LastModified": "2024-10-31T18:26:49.337Z"
     },
     {
       "ID": 413950,
       "GUID": "5EB06BEE-B5CF-43A2-83F4-538AD51B4318",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of correction to use an electronic case management system to track investigations of sexual abuse",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 73711,
       "MatterFile": "Int 0792-2024",
       "MatterName": "Requiring the department of correction to use an electronic case management system to track investigations of sexual abuse",
       "MatterType": "Introduction",
-      "LastModified": "2024-10-23T16:29:41.43Z"
+      "LastModified": "2024-10-31T18:26:57.993Z"
+    },
+    {
+      "ID": 414094,
+      "GUID": "859D6A37-D9AC-4351-B525-1CDCFF888792",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2024-10-31T18:26:26.677Z"
+    },
+    {
+      "ID": 414095,
+      "GUID": "20FF3096-3583-4650-8254-8151CD2E1814",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Rivera and Sanchez",
+      "LastModified": "2024-10-31T18:26:21.703Z"
+    },
+    {
+      "ID": 414096,
+      "GUID": "AE2C62A4-0C75-46CE-AF83-58344E42A8FC",
+      "Title": "Oversight - Preventing and Addressing Sexual Assault and Harassment in City Jails.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 74866,
+      "MatterFile": "T2024-2571",
+      "MatterName": "Oversight - Preventing and Addressing Sexual Assault and Harassment in City Jails.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-10-31T18:26:38.69Z"
+    },
+    {
+      "ID": 414097,
+      "GUID": "6ADD5789-9201-4D16-96B6-BE73731A4838",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of correction to use an electronic case management system to track investigations of sexual abuse",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 73711,
+      "MatterFile": "Int 0792-2024",
+      "MatterName": "Requiring the department of correction to use an electronic case management system to track investigations of sexual abuse",
+      "MatterType": "Introduction",
+      "LastModified": "2024-10-31T18:26:46.157Z"
+    },
+    {
+      "ID": 414098,
+      "GUID": "584FF319-03E9-474A-9E38-2EF5A84E8DC2",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the commissioner of correction to develop a comprehensive training program for investigation of sexual crimes",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 68947,
+      "MatterFile": "Int 0830-2024",
+      "MatterName": "Requiring the commissioner of correction to develop a comprehensive training program for investigation of sexual crimes.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-10-31T18:26:53.07Z"
     }
   ],
   "AgendaLastPublished": "2024-10-23T16:29:49.35Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-10-31T14:08:01.293Z"
+  "MinutesLastPublished": "2024-10-31T18:27:05.623Z",
+  "LastModified": "2024-10-31T18:27:05.673Z"
 }
