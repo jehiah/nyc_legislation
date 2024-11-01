@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/11/21184_A_Committee_on_Oversight_and_Investigations_24-11-01_Committee_Agenda.pdf",
-  "Comment": "Jointly with the Committee on Fire and Emergency Management",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/11/21184_M_Committee_on_Oversight_and_Investigations_24-11-01_Meeting_Minutes.pdf",
+  "Comment": "Jointly with the Committee on the Committee on Fire and Emergency Management and the Committee on Hospitals",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_241101-100558.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21184&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,26 +21,140 @@
       "GUID": "1F9C8960-3140-4CEC-B19B-90E22CCA38E8",
       "Title": "Oversight - Ambulance Response Times.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 74789,
       "MatterFile": "T2024-2494",
       "MatterName": "Oversight - Ambulance Response Times.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-10-18T18:13:00.393Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-11-01T17:18:58.493Z"
     },
     {
       "ID": 413679,
       "GUID": "59A6C6AC-91FB-4E77-B1AE-6C0E584FCE83",
-      "Title": "Jointly with the Committee on Fire and Emergency Management",
+      "Title": "Jointly with the Committee on Fire and Emergency Management and the Committee on Hospitals",
       "AgendaSequence": 2,
+      "MinutesSequence": 5,
+      "Version": "",
+      "LastModified": "2024-11-01T17:18:30.33Z"
+    },
+    {
+      "ID": 414112,
+      "GUID": "30A6607A-5A8C-416D-B590-17509D96D604",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 20
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 50
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 70
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 80
+        },
+        {
+          "ID": 7749,
+          "Slug": "kalman-yeger",
+          "FullName": "Kalman Yeger",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2024-11-01T17:33:24.927Z"
+    },
+    {
+      "ID": 414113,
+      "GUID": "42C078B5-215F-4640-A7D3-2692F36CEFF9",
+      "Title": "",
+      "AgendaSequence": 0,
       "MinutesSequence": 2,
       "Version": "",
-      "LastModified": "2024-10-18T18:12:19.61Z"
+      "MinutesNote": "Other Council Members Attending: Ariola, Narcisse, Moya, Zhuang, Marmorato, Feliz, Rivera, Riley and Gennaro",
+      "LastModified": "2024-11-01T17:33:44.117Z"
+    },
+    {
+      "ID": 414114,
+      "GUID": "474891C4-1078-4A4A-96D0-D9E794EC9C58",
+      "Title": "Oversight - Ambulance Response Times.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 74789,
+      "MatterFile": "T2024-2494",
+      "MatterName": "Oversight - Ambulance Response Times.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-11-01T17:33:48.003Z"
     }
   ],
   "AgendaLastPublished": "2024-10-18T18:13:06.4Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-10-18T18:13:06.42Z"
+  "MinutesLastPublished": "2024-11-01T17:33:53.083Z",
+  "LastModified": "2024-11-01T17:33:53.2Z"
 }

@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/11/21183_A_Committee_on_Fire_and_Emergency_Management_24-11-01_Committee_Agenda.pdf",
-  "Comment": "Jointly with the Committee on Oversight and Investigations.",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/11/21183_M_Committee_on_Fire_and_Emergency_Management_24-11-01_Meeting_Minutes.pdf",
+  "Comment": "Jointly with the Committee on Oversight and Investigations and the Committee on Hospitals.",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_241101-100558.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21183&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,26 +21,122 @@
       "GUID": "9EC2A337-45C8-47A6-830A-4A435EB331FF",
       "Title": "Oversight - Ambulance Response Times.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 74926,
       "MatterFile": "T2024-2631",
       "MatterName": "Oversight - Ambulance Response Times.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-10-18T18:09:42.43Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-11-01T17:26:25.89Z"
     },
     {
       "ID": 413677,
       "GUID": "FD1BC886-8F1B-4C9B-B7EB-1C0FBE7E1CDE",
-      "Title": "Jointly with the Committee on Oversight and Investigations",
+      "Title": "Jointly with the Committee on Oversight and Investigations and the Committee on Hospitals",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "",
-      "LastModified": "2024-10-18T18:09:57.503Z"
+      "LastModified": "2024-11-01T17:26:25.893Z"
+    },
+    {
+      "ID": 414115,
+      "GUID": "3169B5EF-E999-4A94-9419-C6E0DAB30A60",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 20
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7749,
+          "Slug": "kalman-yeger",
+          "FullName": "Kalman Yeger",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        }
+      ],
+      "LastModified": "2024-11-01T17:26:25.89Z"
+    },
+    {
+      "ID": 414117,
+      "GUID": "EC5F3A52-5895-428B-A833-C7921F758E46",
+      "Title": "Oversight - Ambulance Response Times.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 74926,
+      "MatterFile": "T2024-2631",
+      "MatterName": "Oversight - Ambulance Response Times.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-11-01T17:26:49.78Z"
     }
   ],
   "AgendaLastPublished": "2024-10-18T18:12:35.55Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-10-18T18:12:35.573Z"
+  "MinutesLastPublished": "2024-11-01T17:26:54.607Z",
+  "LastModified": "2024-11-01T17:26:54.627Z"
 }
