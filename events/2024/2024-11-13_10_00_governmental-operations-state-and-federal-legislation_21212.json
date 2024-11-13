@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/11/21212_A_Committee_on_Governmental_Operations%2C_State___Federal_Legislation_24-11-13_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/11/21212_M_Committee_on_Governmental_Operations%2C_State___Federal_Legislation_24-11-13_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_241113-103741.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21212&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,18 +21,155 @@
       "GUID": "70E65F6B-E921-4C1B-B5A6-11F5E94F908A",
       "Title": "A Local Law in relation to establishing a charter revision commission to draft a new or revised city charter",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 1088-A",
       "MinutesNote": "Proposed Int. No. 1088-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 74952,
       "MatterFile": "Int 1088-2024",
       "MatterName": "Charter revision commission to draft a new or revised city charter.",
       "MatterType": "Introduction",
-      "LastModified": "2024-11-08T16:19:48.813Z"
+      "LastModified": "2024-11-13T15:46:24.717Z"
+    },
+    {
+      "ID": 414420,
+      "GUID": "2928B878-AFC1-407A-8963-E9E8718FFEA9",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 80
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2024-11-13T15:45:45.463Z"
+    },
+    {
+      "ID": 414421,
+      "GUID": "5888B1EE-F8F2-4FD2-9A30-02E65839B35C",
+      "Title": "A Local Law in relation to establishing a charter revision commission to draft a new or revised city charter",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 74952,
+      "MatterFile": "Int 1088-2024",
+      "MatterName": "Charter revision commission to draft a new or revised city charter.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-11-13T15:46:28.627Z"
+    },
+    {
+      "ID": 414422,
+      "GUID": "89E86874-6A70-4702-BB46-1AF971594F60",
+      "Title": "A Local Law in relation to establishing a charter revision commission to draft a new or revised city charter",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 74952,
+      "MatterFile": "Int 1088-2024",
+      "MatterName": "Charter revision commission to draft a new or revised city charter.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-11-13T15:46:34.807Z"
+    },
+    {
+      "ID": 414423,
+      "GUID": "0F620ACC-B06B-4006-B495-45D37A2EEF37",
+      "Title": "A Local Law in relation to establishing a charter revision commission to draft a new or revised city charter",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 74952,
+      "MatterFile": "Int 1088-2024",
+      "MatterName": "Charter revision commission to draft a new or revised city charter.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-11-13T15:55:43.39Z"
     }
   ],
-  "AgendaLastPublished": "2024-11-12T20:05:50.247Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-11-12T20:05:50.3Z"
+  "AgendaLastPublished": "2024-11-13T03:30:57.327Z",
+  "MinutesLastPublished": "2024-11-13T16:57:36.167Z",
+  "LastModified": "2024-11-13T16:57:36.22Z"
 }
