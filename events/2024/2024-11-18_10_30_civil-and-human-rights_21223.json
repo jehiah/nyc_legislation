@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/11/21223_A_Committee_on_Civil_and_Human_Rights_24-11-18_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/11/21223_M_Committee_on_Civil_and_Human_Rights_24-11-18_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_241118-103849.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21223&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,16 +21,99 @@
       "GUID": "D59F0D27-79B2-4C84-AD81-A82D76983DEC",
       "Title": "Resolution designating November 30 annually as Shirley Chisholm Day in the City of New York to recognize her contributions as an educator, activist, and elected official, who served the people of New York City with passion and dignity.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 73777,
       "MatterFile": "Res 0280-2024",
       "MatterName": "Designating November 30 annually as Shirley Chisholm Day.",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-13T18:29:48.997Z"
+      "LastModified": "2024-11-18T15:55:57.7Z"
+    },
+    {
+      "ID": 414573,
+      "GUID": "05684597-BB35-43B6-95DD-DEA854E91623",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 50
+        }
+      ],
+      "LastModified": "2024-11-18T15:55:41.427Z"
+    },
+    {
+      "ID": 414574,
+      "GUID": "1F03713F-70C1-46F7-8E89-5B03D6BC66A6",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Louis",
+      "LastModified": "2024-11-18T15:55:53.39Z"
+    },
+    {
+      "ID": 414575,
+      "GUID": "3DB0DC87-1C54-469E-833E-6109A994C5E3",
+      "Title": "Resolution designating November 30 annually as Shirley Chisholm Day in the City of New York to recognize her contributions as an educator, activist, and elected official, who served the people of New York City with passion and dignity.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Resolution be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 73777,
+      "MatterFile": "Res 0280-2024",
+      "MatterName": "Designating November 30 annually as Shirley Chisholm Day.",
+      "MatterType": "Resolution",
+      "LastModified": "2024-11-18T15:56:11.873Z"
     }
   ],
   "AgendaLastPublished": "2024-11-13T20:34:12.497Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-11-13T20:34:12.52Z"
+  "MinutesLastPublished": "2024-11-18T16:30:47.833Z",
+  "LastModified": "2024-11-18T16:30:47.96Z"
 }
