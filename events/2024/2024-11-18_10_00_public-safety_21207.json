@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/11/21207_A_Committee_on_Public_Safety_24-11-18_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/11/21207_M_Committee_on_Public_Safety_24-11-18_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Transportation and Infrastructure, Committee on Education and the Committee on Children and Youth",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_241118-102249.mp4",
   "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_241118-102249.mp4",
@@ -39,7 +40,7 @@
       "MatterFile": "T2024-2712",
       "MatterName": "Oversight - Riding Safely: Addressing the Dangers of Subway Surfing.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Filed",
       "LastModified": "2024-11-18T16:59:11.263Z"
     },
     {
@@ -56,7 +57,7 @@
       "MatterFile": "Res 0059-2024",
       "MatterName": "Metropolitan Transportation Authority to conduct a comprehensive Environmental Impact Study on the viability of the proposed QueensLink project.",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-18T16:59:15.96Z"
+      "LastModified": "2024-11-19T14:49:36.327Z"
     },
     {
       "ID": 414165,
@@ -72,7 +73,7 @@
       "MatterFile": "Res 0187-2024",
       "MatterName": "MTA to conduct a comprehensive Environmental Impact Statement for the proposed Gun Hill Road Electric Bus Depot Charging Facility.",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-18T16:59:19.62Z"
+      "LastModified": "2024-11-19T14:50:24.477Z"
     },
     {
       "ID": 414581,
@@ -81,7 +82,106 @@
       "AgendaSequence": 0,
       "MinutesSequence": 1,
       "Version": "",
-      "LastModified": "2024-11-18T16:57:54.59Z"
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 30
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 50
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 90
+        },
+        {
+          "ID": 7740,
+          "Slug": "carlina-rivera",
+          "FullName": "Carlina Rivera",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 110
+        },
+        {
+          "ID": 7749,
+          "Slug": "kalman-yeger",
+          "FullName": "Kalman Yeger",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 120
+        }
+      ],
+      "LastModified": "2024-11-19T17:04:49.477Z"
     },
     {
       "ID": 414582,
@@ -90,8 +190,8 @@
       "AgendaSequence": 0,
       "MinutesSequence": 2,
       "Version": "",
-      "MinutesNote": "Other Council Members Attending: ",
-      "LastModified": "2024-11-18T16:59:08.08Z"
+      "MinutesNote": "Other Council Members Attending: Brooks-Powers, Riley, Hanks, Narcisse, Louis, Dinowitz, Menin, Farías, Gennaro, Hanif, Williams, Sanchez, Lee, Banks, Krishnan and Public Advocate Williams",
+      "LastModified": "2024-11-19T16:15:41.38Z"
     },
     {
       "ID": 414583,
@@ -100,12 +200,15 @@
       "AgendaSequence": 0,
       "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
       "MatterID": 75007,
       "MatterFile": "T2024-2712",
       "MatterName": "Oversight - Riding Safely: Addressing the Dangers of Subway Surfing.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-11-18T16:57:46.637Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-11-19T14:48:43.29Z"
     },
     {
       "ID": 414584,
@@ -114,11 +217,14 @@
       "AgendaSequence": 0,
       "MinutesSequence": 6,
       "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
       "MatterID": 73358,
       "MatterFile": "Res 0059-2024",
       "MatterName": "Metropolitan Transportation Authority to conduct a comprehensive Environmental Impact Study on the viability of the proposed QueensLink project.",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-18T16:57:48.613Z"
+      "LastModified": "2024-11-19T14:49:40.777Z"
     },
     {
       "ID": 414585,
@@ -127,14 +233,17 @@
       "AgendaSequence": 0,
       "MinutesSequence": 8,
       "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
       "MatterID": 73013,
       "MatterFile": "Res 0187-2024",
       "MatterName": "MTA to conduct a comprehensive Environmental Impact Statement for the proposed Gun Hill Road Electric Bus Depot Charging Facility.",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-18T16:57:51.07Z"
+      "LastModified": "2024-11-19T14:50:28.35Z"
     }
   ],
   "AgendaLastPublished": "2024-11-06T22:15:44.527Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-11-18T18:59:11.607Z"
+  "MinutesLastPublished": "2024-11-19T17:04:54Z",
+  "LastModified": "2024-11-19T17:04:54.043Z"
 }
