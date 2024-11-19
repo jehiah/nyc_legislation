@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/11/21132_A_Committee_on_Immigration_24-11-19_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/11/21132_M_Committee_on_Immigration_24-11-19_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on General Welfare",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21132&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,48 +20,165 @@
       "GUID": "324B260C-ECDB-449F-8D5C-5343441A56E2",
       "Title": "Jointly with the Committee on General Welfare",
       "AgendaSequence": 0,
-      "MinutesSequence": 4,
+      "MinutesSequence": 7,
       "Version": "",
-      "LastModified": "2024-11-07T16:21:55.33Z"
+      "LastModified": "2024-11-19T20:06:04.907Z"
     },
     {
       "ID": 413590,
       "GUID": "25B1615D-DD9B-4FF6-A09E-F46DFE26D6AD",
       "Title": "Oversight - Updates on the Implementation of the 30- and 60- day rules for Asylum Seekers.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 74937,
       "MatterFile": "T2024-2642",
       "MatterName": "Oversight - Updates on the Implementation of the 30- and 60- day rules for Asylum Seekers.",
       "MatterType": "Oversight",
       "MatterStatus": "Committee",
-      "LastModified": "2024-11-07T16:21:55.17Z"
+      "LastModified": "2024-11-19T20:06:16.437Z"
     },
     {
       "ID": 413591,
       "GUID": "BDD52F89-06BE-4289-9AD7-7F12368F59A1",
       "Title": "Jointly with the Committee on General Welfare",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 0,
       "Version": "",
-      "LastModified": "2024-11-07T16:21:55.327Z"
+      "LastModified": "2024-11-19T20:05:59.363Z"
     },
     {
       "ID": 414180,
       "GUID": "A6914417-45B3-4414-B9A4-4D474E51DEEE",
       "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, legislation to create the New York State Working Families Tax Credit.",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 73183,
       "MatterFile": "Res 0041-2024",
       "MatterName": "Create the New York State Working Families Tax Credit.",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-07T16:22:04.72Z"
+      "LastModified": "2024-11-19T20:06:20.023Z"
+    },
+    {
+      "ID": 414623,
+      "GUID": "3116D1AC-8D92-4E02-A490-CA3D68D7CEE6",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 50
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2024-11-19T22:05:49.76Z"
+    },
+    {
+      "ID": 414624,
+      "GUID": "302EA5F7-FDEB-40D9-BD5A-2C12C949BA8D",
+      "Title": "Oversight - Updates on the Implementation of the 30- and 60- day rules for Asylum Seekers.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
+      "MatterID": 74937,
+      "MatterFile": "T2024-2642",
+      "MatterName": "Oversight - Updates on the Implementation of the 30- and 60- day rules for Asylum Seekers.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Committee",
+      "LastModified": "2024-11-19T22:06:04.773Z"
+    },
+    {
+      "ID": 414625,
+      "GUID": "B8F55A95-CB0D-4E8B-99F3-50CA3693B09E",
+      "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, legislation to create the New York State Working Families Tax Credit.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 73183,
+      "MatterFile": "Res 0041-2024",
+      "MatterName": "Create the New York State Working Families Tax Credit.",
+      "MatterType": "Resolution",
+      "LastModified": "2024-11-19T22:06:23.163Z"
+    },
+    {
+      "ID": 414626,
+      "GUID": "081FBFFE-DE61-4C78-969B-46195E9BB2A1",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Ayala, Ossé, Banks, Ung and Cabán",
+      "LastModified": "2024-11-19T22:06:01.17Z"
     }
   ],
   "AgendaLastPublished": "2024-11-07T16:22:09.56Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-11-07T16:22:09.593Z"
+  "MinutesLastPublished": "2024-11-19T22:06:29.113Z",
+  "LastModified": "2024-11-19T22:06:29.257Z"
 }

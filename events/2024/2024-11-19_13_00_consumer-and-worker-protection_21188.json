@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/11/21188_A_Committee_on_Consumer_and_Worker_Protection_24-11-19_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/11/21188_M_Committee_on_Consumer_and_Worker_Protection_24-11-19_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Aging",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21188&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,52 +20,188 @@
       "GUID": "201FA056-459A-4B2F-BF54-18C46D08E2D1",
       "Title": "Oversight - Deed Theft.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 74977,
       "MatterFile": "T2024-2682",
       "MatterName": "Oversight - Deed Theft.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-10-22T18:57:27.46Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-11-19T20:10:25.373Z"
     },
     {
       "ID": 413696,
       "GUID": "572F09BE-15B3-492F-B96D-C50F827FE187",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring disclosures of market value for unsolicited offers to purchase residential properties",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 74205,
       "MatterFile": "Int 0888-2024",
       "MatterName": "Requiring disclosures of market value for unsolicited offers to purchase residential properties.",
       "MatterType": "Introduction",
-      "LastModified": "2024-10-21T18:37:46.07Z"
+      "LastModified": "2024-11-19T20:10:27.403Z"
     },
     {
       "ID": 413697,
       "GUID": "A1785A1D-9007-40D6-87C3-CD23DC323F66",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the office of financial empowerment to provide assistance to homeowners",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 74203,
       "MatterFile": "Int 0901-2024",
       "MatterName": "Requiring the office of financial empowerment to provide assistance to homeowners",
       "MatterType": "Introduction",
-      "LastModified": "2024-10-21T18:38:05.947Z"
+      "LastModified": "2024-11-19T20:10:29.63Z"
     },
     {
       "ID": 413698,
       "GUID": "A1963469-2F70-433A-8BD8-77F4E745334F",
       "Title": "Jointly with the Committee on Aging ",
       "AgendaSequence": 4,
-      "MinutesSequence": 4,
+      "MinutesSequence": 9,
       "Version": "",
-      "LastModified": "2024-11-13T18:52:11.157Z"
+      "LastModified": "2024-11-19T20:10:16.36Z"
+    },
+    {
+      "ID": 414632,
+      "GUID": "79A1BC42-8C86-42EF-A1C8-472C88D2A073",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2024-11-19T21:06:36.23Z"
+    },
+    {
+      "ID": 414633,
+      "GUID": "CE5A319D-BE26-4781-ABFE-2613D17860DA",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Zhuang, Salaam, Mealy, Lee, Banks, Joseph, Nurse and Sanchez",
+      "LastModified": "2024-11-19T21:06:12.107Z"
+    },
+    {
+      "ID": 414634,
+      "GUID": "D9A98CE5-F122-4815-9810-910A0B05AF0D",
+      "Title": "Oversight - Deed Theft.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 74977,
+      "MatterFile": "T2024-2682",
+      "MatterName": "Oversight - Deed Theft.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-11-19T21:07:19.967Z"
+    },
+    {
+      "ID": 414635,
+      "GUID": "270B7028-C330-4349-9172-6FD15E4DD9B9",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring disclosures of market value for unsolicited offers to purchase residential properties",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 74205,
+      "MatterFile": "Int 0888-2024",
+      "MatterName": "Requiring disclosures of market value for unsolicited offers to purchase residential properties.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-11-19T21:07:24.397Z"
+    },
+    {
+      "ID": 414636,
+      "GUID": "F5A77395-7791-439B-8AAA-3A7FBE6F0FCD",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the office of financial empowerment to provide assistance to homeowners",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 74203,
+      "MatterFile": "Int 0901-2024",
+      "MatterName": "Requiring the office of financial empowerment to provide assistance to homeowners",
+      "MatterType": "Introduction",
+      "LastModified": "2024-11-19T21:07:32.48Z"
     }
   ],
   "AgendaLastPublished": "2024-11-13T18:52:15.457Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-11-13T18:52:15.507Z"
+  "MinutesLastPublished": "2024-11-19T21:07:39.34Z",
+  "LastModified": "2024-11-19T21:07:39.493Z"
 }

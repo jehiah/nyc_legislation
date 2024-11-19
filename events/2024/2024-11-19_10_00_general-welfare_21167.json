@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/11/21167_A_Committee_on_General_Welfare_24-11-19_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/11/21167_M_Committee_on_General_Welfare_24-11-19_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Immigration.",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_241119-102239.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21167&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,39 +21,172 @@
       "GUID": "0BFEF3BB-240D-4C52-89BE-E2C8EEBA68A7",
       "Title": "Oversight - Updates on the Implementation of the 30- and 60- day rules for Asylum Seekers.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 74936,
       "MatterFile": "T2024-2641",
       "MatterName": "Oversight - Updates on the Implementation of the 30- and 60- day rules for Asylum Seekers.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-11-15T20:30:51.89Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-11-19T20:05:31.82Z"
     },
     {
       "ID": 413589,
       "GUID": "627CA1C4-0D13-4188-B0A8-494F185D03ED",
       "Title": "Jointly with the Committee on Immigration",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "",
-      "LastModified": "2024-11-07T16:21:11.17Z"
+      "LastModified": "2024-11-19T20:05:15.437Z"
     },
     {
       "ID": 414179,
       "GUID": "A870B83D-FA7D-401E-8A47-30040971B27D",
       "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, legislation to create the New York State Working Families Tax Credit.",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 73183,
       "MatterFile": "Res 0041-2024",
       "MatterName": "Create the New York State Working Families Tax Credit.",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-07T16:21:36.38Z"
+      "LastModified": "2024-11-19T20:05:35.053Z"
+    },
+    {
+      "ID": 414619,
+      "GUID": "0A5E4C1E-DF4C-407B-8859-2D2447CB69EC",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 43,
+          "Value": "Conflict",
+          "Sort": 60
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 70
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 80
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2024-11-19T22:09:09.22Z"
+    },
+    {
+      "ID": 414620,
+      "GUID": "F63B6CAE-6830-4F97-83EF-136A26243B89",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Brewer, Joseph, Bottcher and Krishnan",
+      "LastModified": "2024-11-19T22:08:53.7Z"
+    },
+    {
+      "ID": 414621,
+      "GUID": "E661ED74-EF8E-43CD-92A0-24297E2AB572",
+      "Title": "Oversight - Updates on the Implementation of the 30- and 60- day rules for Asylum Seekers.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 74936,
+      "MatterFile": "T2024-2641",
+      "MatterName": "Oversight - Updates on the Implementation of the 30- and 60- day rules for Asylum Seekers.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-11-19T22:09:14.91Z"
+    },
+    {
+      "ID": 414622,
+      "GUID": "02AB4F8F-94FC-4C71-BA2E-37D6A20FC7BE",
+      "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, legislation to create the New York State Working Families Tax Credit.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 73183,
+      "MatterFile": "Res 0041-2024",
+      "MatterName": "Create the New York State Working Families Tax Credit.",
+      "MatterType": "Resolution",
+      "LastModified": "2024-11-19T22:09:58.717Z"
     }
   ],
   "AgendaLastPublished": "2024-11-07T16:21:41.077Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-11-19T15:22:41.327Z"
+  "MinutesLastPublished": "2024-11-19T22:10:04.61Z",
+  "LastModified": "2024-11-19T22:10:04.733Z"
 }
