@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/11/21142_A_Committee_on_Rules%2C_Privileges_and_Elections_24-11-20_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/11/21142_M_Committee_on_Rules%2C_Privileges_and_Elections_24-11-20_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_241120-102444.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21142&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,17 +20,147 @@
       "GUID": "7D5F5C79-6875-4F40-BF3A-97BE9571CC38",
       "Title": "Communication from the Mayor - Submitting the name Muriel Goode-Trufant to the Council for its advice and consent regarding her appointment to be the Corporation Counsel, pursuant to Section 31 and 391 of the City Charter.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Mayor's Message was Hearing Held by Committee",
       "MatterID": 74988,
       "MatterFile": "M 0079-2024",
       "MatterName": "Muriel Goode-Trufant, Corporation Counsel.",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-11-15T19:17:38.05Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2024-11-20T19:34:17.833Z"
+    },
+    {
+      "ID": 414821,
+      "GUID": "FD508330-8947-4863-A260-21C4159E4DE0",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7741,
+          "Slug": "keith-powers",
+          "FullName": "Keith Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7739,
+          "Slug": "adrienne-e-adams",
+          "FullName": "Adrienne E. Adams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7264,
+          "Slug": "joseph-c-borelli",
+          "FullName": "Joseph C. Borelli",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 50
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 110
+        }
+      ],
+      "LastModified": "2024-11-20T21:26:06.057Z"
+    },
+    {
+      "ID": 414822,
+      "GUID": "E9C9AF4F-0FC8-4DE2-A211-87102B1AE4AE",
+      "Title": "Communication from the Mayor - Submitting the name Muriel Goode-Trufant to the Council for its advice and consent regarding her appointment to be the Corporation Counsel, pursuant to Section 31 and 391 of the City Charter.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Mayor's Message was Laid Over by Committee",
+      "MatterID": 74988,
+      "MatterFile": "M 0079-2024",
+      "MatterName": "Muriel Goode-Trufant, Corporation Counsel.",
+      "MatterType": "Mayor's Message",
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2024-11-20T21:27:18.543Z"
+    },
+    {
+      "ID": 414825,
+      "GUID": "FF3A9825-39E5-47E2-80AC-EB1B8AD219B7",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Ariola and Restler",
+      "LastModified": "2024-11-20T22:21:01.227Z"
     }
   ],
   "AgendaLastPublished": "2024-11-13T14:25:31.323Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-11-20T16:45:53.62Z"
+  "MinutesLastPublished": "2024-11-20T22:21:06.74Z",
+  "LastModified": "2024-11-20T22:21:06.863Z"
 }
