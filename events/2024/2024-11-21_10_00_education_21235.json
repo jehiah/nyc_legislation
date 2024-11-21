@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/11/21235_A_Committee_on_Education_24-11-21_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/11/21235_M_Committee_on_Education_24-11-21_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_241121-101856.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21235&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,31 +21,227 @@
       "GUID": "7ED65DC6-C710-4EB6-A263-335434A14FEF",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of education to report information about employees of school bus transportation vendors",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 515-A",
       "MinutesNote": "Proposed Int. No. 515-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 72545,
       "MatterFile": "Int 0515-2024",
       "MatterName": "Requiring the department of education to report information about employees of school bus transportation vendors.",
       "MatterType": "Introduction",
-      "LastModified": "2024-11-18T15:35:01.867Z"
+      "LastModified": "2024-11-21T15:22:57.663Z"
     },
     {
       "ID": 414572,
       "GUID": "349B0C97-9D90-460F-ABAE-132E6E6B35BC",
       "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, legislation that would require all school buses operating within the state, regardless of seating capacity, to have a stop-arm on each side, and to prohibit any school buses from operating if they do not have functioning stop-arms.",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 73304,
       "MatterFile": "Res 0250-2024",
       "MatterName": "Require all school buses operating within the state, regardless of seating capacity, to have a stop-arm on each side, and to prohibit any school buses from operating if they do not have functioning stop-arms.",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-18T15:37:18.427Z"
+      "LastModified": "2024-11-21T15:23:27.707Z"
+    },
+    {
+      "ID": 414842,
+      "GUID": "DDB6EA66-AD61-4312-94C4-C52A32B2B2B5",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 110
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 130
+        }
+      ],
+      "LastModified": "2024-11-21T15:30:43.21Z"
+    },
+    {
+      "ID": 414843,
+      "GUID": "CBE25A3D-3474-4077-B50A-369D1B25BF06",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of education to report information about employees of school bus transportation vendors",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 72545,
+      "MatterFile": "Int 0515-2024",
+      "MatterName": "Requiring the department of education to report information about employees of school bus transportation vendors.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-11-21T15:23:04.34Z"
+    },
+    {
+      "ID": 414844,
+      "GUID": "C9F9142A-A302-410B-ACAE-EF6BDD179147",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of education to report information about employees of school bus transportation vendors",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 72545,
+      "MatterFile": "Int 0515-2024",
+      "MatterName": "Requiring the department of education to report information about employees of school bus transportation vendors.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-11-21T15:23:10.533Z"
+    },
+    {
+      "ID": 414845,
+      "GUID": "57F325B8-A90E-42B0-97B4-30DBCA406E2F",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of education to report information about employees of school bus transportation vendors",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "This Introduction was Approved by Committee",
+      "MatterID": 72545,
+      "MatterFile": "Int 0515-2024",
+      "MatterName": "Requiring the department of education to report information about employees of school bus transportation vendors.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-11-21T15:30:31.063Z"
+    },
+    {
+      "ID": 414846,
+      "GUID": "07030DFC-586B-4D1D-ADF3-B2C9F9A86AAA",
+      "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, legislation that would require all school buses operating within the state, regardless of seating capacity, to have a stop-arm on each side, and to prohibit any school buses from operating if they do not have functioning stop-arms.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "This Resolution was Approved by Committee",
+      "MatterID": 73304,
+      "MatterFile": "Res 0250-2024",
+      "MatterName": "Require all school buses operating within the state, regardless of seating capacity, to have a stop-arm on each side, and to prohibit any school buses from operating if they do not have functioning stop-arms.",
+      "MatterType": "Resolution",
+      "LastModified": "2024-11-21T15:30:38.71Z"
+    },
+    {
+      "ID": 414862,
+      "GUID": "BEBB9F2C-1720-43E6-BB18-294F2618A328",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Zhuang and Riley",
+      "LastModified": "2024-11-21T15:34:25.853Z"
     }
   ],
   "AgendaLastPublished": "2024-11-18T15:37:45.75Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-11-18T15:37:45.8Z"
+  "MinutesLastPublished": "2024-11-21T15:34:30.783Z",
+  "LastModified": "2024-11-21T15:34:30.82Z"
 }

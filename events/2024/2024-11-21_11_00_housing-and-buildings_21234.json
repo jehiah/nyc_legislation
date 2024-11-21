@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/11/21234_A_Committee_on_Housing_and_Buildings_24-11-21_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/11/21234_M_Committee_on_Housing_and_Buildings_24-11-21_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_241121-111126.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21234&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,18 +21,139 @@
       "GUID": "F46FCC2A-090E-4ECF-A358-AD034CE7A1FC",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the electrical code and local law 55 for the year 2024, in relation to electric vehicle supply equipment in open parking lots and parking garages, and repealing chapter 3 of title 27 of the administrative code of the city of New York in relation thereto",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 436-A",
       "MinutesNote": "Proposed Int. No. 436-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 72623,
       "MatterFile": "Int 0436-2024",
       "MatterName": "Electrical code and local law 55 for the year 2024, in relation to electric vehicle supply equipment in open parking lots and parking garages, and repealing chapter 3 of title 27 of the administrative code of the city of New York in relation thereto.",
       "MatterType": "Introduction",
-      "LastModified": "2024-11-15T15:15:22.54Z"
+      "LastModified": "2024-11-21T15:22:31.4Z"
+    },
+    {
+      "ID": 414851,
+      "GUID": "29542EA0-5FDA-49D3-AB91-4575EA5BEDAC",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the electrical code and local law 55 for the year 2024, in relation to electric vehicle supply equipment in open parking lots and parking garages, and repealing chapter 3 of title 27 of the administrative code of the city of New York in relation thereto",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 72623,
+      "MatterFile": "Int 0436-2024",
+      "MatterName": "Electrical code and local law 55 for the year 2024, in relation to electric vehicle supply equipment in open parking lots and parking garages, and repealing chapter 3 of title 27 of the administrative code of the city of New York in relation thereto.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-11-21T15:22:35.19Z"
+    },
+    {
+      "ID": 414852,
+      "GUID": "91F8F37C-DB40-42E1-AAE6-D4AD53324164",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the electrical code and local law 55 for the year 2024, in relation to electric vehicle supply equipment in open parking lots and parking garages, and repealing chapter 3 of title 27 of the administrative code of the city of New York in relation thereto",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 72623,
+      "MatterFile": "Int 0436-2024",
+      "MatterName": "Electrical code and local law 55 for the year 2024, in relation to electric vehicle supply equipment in open parking lots and parking garages, and repealing chapter 3 of title 27 of the administrative code of the city of New York in relation thereto.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-11-21T15:22:40.57Z"
+    },
+    {
+      "ID": 414853,
+      "GUID": "C80D48E2-4FE5-43BB-B6D5-DD7A2A236936",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the electrical code and local law 55 for the year 2024, in relation to electric vehicle supply equipment in open parking lots and parking garages, and repealing chapter 3 of title 27 of the administrative code of the city of New York in relation thereto",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 72623,
+      "MatterFile": "Int 0436-2024",
+      "MatterName": "Electrical code and local law 55 for the year 2024, in relation to electric vehicle supply equipment in open parking lots and parking garages, and repealing chapter 3 of title 27 of the administrative code of the city of New York in relation thereto.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-11-21T16:20:33.527Z"
+    },
+    {
+      "ID": 414854,
+      "GUID": "BF9204A4-F6F9-427A-98AC-534547FF74C6",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2024-11-21T16:16:37.51Z"
     }
   ],
   "AgendaLastPublished": "2024-11-15T15:34:10.4Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-11-15T15:34:10.457Z"
+  "MinutesLastPublished": "2024-11-21T17:06:28.137Z",
+  "LastModified": "2024-11-21T17:06:28.193Z"
 }
