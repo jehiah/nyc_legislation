@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/11/21239_A_City_Council_24-11-21_Council_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/11/21239_M_City_Council_24-11-21_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_241121-184803.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21239&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -22,7 +24,418 @@
       "AgendaNumber": "1.",
       "Version": "",
       "AgendaNote": "ROLL CALL",
-      "LastModified": "2024-11-21T22:59:59.963Z"
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7739,
+          "Slug": "adrienne-e-adams",
+          "FullName": "Adrienne E. Adams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7264,
+          "Slug": "joseph-c-borelli",
+          "FullName": "Joseph C. Borelli",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 110
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 130
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 150
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 170
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 190
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 200
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 210
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 220
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 230
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 240
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 250
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 260
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 270
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 280
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 290
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 300
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 310
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 320
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 330
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 340
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 350
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 360
+        },
+        {
+          "ID": 7741,
+          "Slug": "keith-powers",
+          "FullName": "Keith Powers",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 370
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 380
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 390
+        },
+        {
+          "ID": 7740,
+          "Slug": "carlina-rivera",
+          "FullName": "Carlina Rivera",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 400
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 410
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 420
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 430
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 440
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 450
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 460
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 470
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 480
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 490
+        },
+        {
+          "ID": 7749,
+          "Slug": "kalman-yeger",
+          "FullName": "Kalman Yeger",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 500
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 510
+        }
+      ],
+      "LastModified": "2024-11-22T02:29:34.463Z"
     },
     {
       "ID": 414650,
@@ -33,7 +446,8 @@
       "AgendaNumber": "2.",
       "Version": "",
       "AgendaNote": "INVOCATION - None",
-      "LastModified": "2024-11-21T22:48:51.113Z"
+      "MinutesNote": "None.",
+      "LastModified": "2024-11-22T02:41:06.127Z"
     },
     {
       "ID": 414651,
@@ -45,7 +459,7 @@
       "Version": "",
       "AgendaNote": "ADOPTION OF MINUTES - None",
       "MinutesNote": "None.",
-      "LastModified": "2024-11-21T22:48:51.113Z"
+      "LastModified": "2024-11-22T01:08:15.803Z"
     },
     {
       "ID": 414652,
@@ -57,7 +471,7 @@
       "Version": "",
       "AgendaNote": "MESSAGES & PAPERS FROM THE MAYOR - None",
       "MinutesNote": "None.",
-      "LastModified": "2024-11-21T22:48:51.117Z"
+      "LastModified": "2024-11-22T00:58:56.143Z"
     },
     {
       "ID": 414653,
@@ -69,7 +483,7 @@
       "Version": "",
       "AgendaNote": "COMMUNICATIONS FROM CITY, COUNTY & BOROUGH OFFICES - None",
       "MinutesNote": "None.",
-      "LastModified": "2024-11-21T22:48:51.117Z"
+      "LastModified": "2024-11-22T00:58:56.143Z"
     },
     {
       "ID": 414654,
@@ -81,7 +495,7 @@
       "Version": "",
       "AgendaNote": "PETITIONS & COMMUNICATIONS - None",
       "MinutesNote": "None.",
-      "LastModified": "2024-11-21T22:48:51.117Z"
+      "LastModified": "2024-11-22T00:58:56.147Z"
     },
     {
       "ID": 414655,
@@ -93,7 +507,7 @@
       "Version": "",
       "AgendaNote": "LAND USE CALL-UPS – None",
       "MinutesNote": "None.",
-      "LastModified": "2024-11-21T22:48:51.12Z"
+      "LastModified": "2024-11-22T00:58:56.147Z"
     },
     {
       "ID": 414656,
@@ -104,7 +518,7 @@
       "AgendaNumber": "8.",
       "Version": "",
       "AgendaNote": "COMMUNICATION FROM THE SPEAKER",
-      "LastModified": "2024-11-21T22:48:51.12Z"
+      "LastModified": "2024-11-22T00:58:56.147Z"
     },
     {
       "ID": 414657,
@@ -115,7 +529,7 @@
       "AgendaNumber": "9.",
       "Version": "",
       "AgendaNote": "DISCUSSION OF GENERAL ORDERS",
-      "LastModified": "2024-11-21T22:48:51.12Z"
+      "LastModified": "2024-11-22T00:58:56.15Z"
     },
     {
       "ID": 414658,
@@ -127,7 +541,7 @@
       "Version": "",
       "AgendaNote": "REPORTS OF SPECIAL COMMITTEES - None",
       "MinutesNote": "None.",
-      "LastModified": "2024-11-21T22:48:51.123Z"
+      "LastModified": "2024-11-22T00:58:56.15Z"
     },
     {
       "ID": 414659,
@@ -138,7 +552,7 @@
       "AgendaNumber": "11.",
       "Version": "",
       "AgendaNote": "REPORTS OF STANDING COMMITTEES",
-      "LastModified": "2024-11-21T22:48:51.123Z"
+      "LastModified": "2024-11-22T00:58:56.15Z"
     },
     {
       "ID": 414660,
@@ -148,7 +562,7 @@
       "MinutesSequence": 14,
       "Version": "",
       "AgendaNote": "REPORT OF THE COMMITTEE ON AGING",
-      "LastModified": "2024-11-21T22:48:51.123Z"
+      "LastModified": "2024-11-22T00:58:56.15Z"
     },
     {
       "ID": 414661,
@@ -158,11 +572,17 @@
       "MinutesSequence": 15,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on GO",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74709,
       "MatterFile": "Int 1025-2024",
       "MatterName": "Provision of information regarding employment discrimination and older adult workforce programs.",
       "MatterType": "Introduction",
-      "LastModified": "2024-11-21T22:48:51.127Z"
+      "LastModified": "2024-11-22T02:33:52.05Z"
     },
     {
       "ID": 414662,
@@ -172,25 +592,37 @@
       "MinutesSequence": 16,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on GO",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74765,
       "MatterFile": "Int 1053-2024",
       "MatterName": "A study and report on the feasibility of creating older adult information points.",
       "MatterType": "Introduction",
-      "LastModified": "2024-11-21T22:48:51.127Z"
+      "LastModified": "2024-11-22T02:41:22.433Z"
     },
     {
       "ID": 414666,
       "GUID": "78914097-611D-4254-948B-340514CF5B36",
       "Title": "Resolution designating November 30 annually as Shirley Chisholm Day in the City of New York to recognize her contributions as an educator, activist, and elected official, who served the people of New York City with passion and dignity.",
       "AgendaSequence": 95,
-      "MinutesSequence": 118,
+      "MinutesSequence": 121,
       "Version": "*",
       "AgendaNote": "Adopted by the Committee on Education",
+      "MinutesNote": "Pursuant to Rule 8.50 of the Council, the Majority Leader and Acting President Pro Tempore (Council Member Farías) called for a voice vote.  Hearing no objections, the Majority Leader and Acting President Pro Tempore (Council Member Farías) declared the Resolution to be adopted.\r\n\r\nAdopted unanimously by the Council by voice-vote.",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by voice vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 73777,
       "MatterFile": "Res 0280-2024",
       "MatterName": "Designating November 30 annually as Shirley Chisholm Day.",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.233Z"
+      "LastModified": "2024-11-22T02:43:55.13Z"
     },
     {
       "ID": 414669,
@@ -200,7 +632,7 @@
       "MinutesSequence": 17,
       "Version": "",
       "AgendaNote": "REPORT OF THE COMMITTEE ON EDUCATION",
-      "LastModified": "2024-11-21T22:48:51.127Z"
+      "LastModified": "2024-11-22T00:58:56.153Z"
     },
     {
       "ID": 414670,
@@ -210,11 +642,17 @@
       "MinutesSequence": 18,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on GO",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 72545,
       "MatterFile": "Int 0515-2024",
       "MatterName": "Requiring the department of education to report information about employees of school bus transportation vendors.",
       "MatterType": "Introduction",
-      "LastModified": "2024-11-21T22:48:51.13Z"
+      "LastModified": "2024-11-22T00:58:56.153Z"
     },
     {
       "ID": 414672,
@@ -224,7 +662,7 @@
       "MinutesSequence": 19,
       "Version": "",
       "AgendaNote": "REPORT OF THE COMMITTEE ON FINANCE",
-      "LastModified": "2024-11-21T22:48:51.13Z"
+      "LastModified": "2024-11-22T00:58:56.153Z"
     },
     {
       "ID": 414673,
@@ -234,11 +672,17 @@
       "MinutesSequence": 20,
       "Version": "B",
       "AgendaNote": "Amended and Coupled on GO",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 73487,
       "MatterFile": "Int 0557-2024",
       "MatterName": "Adding a 311 complaint category for unlicensed cannabis retailers.",
       "MatterType": "Introduction",
-      "LastModified": "2024-11-21T22:48:51.13Z"
+      "LastModified": "2024-11-22T00:58:56.157Z"
     },
     {
       "ID": 414674,
@@ -248,11 +692,17 @@
       "MinutesSequence": 21,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on GO",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74502,
       "MatterFile": "Int 0981-2024",
       "MatterName": "Reporting on enforcement of unlicensed sellers of cigarettes, electronic cigarettes, tobacco products and illicit cannabis.",
       "MatterType": "Introduction",
-      "LastModified": "2024-11-21T22:48:51.13Z"
+      "LastModified": "2024-11-22T00:58:56.157Z"
     },
     {
       "ID": 414675,
@@ -262,11 +712,17 @@
       "MinutesSequence": 23,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 75048,
       "MatterFile": "Res 0656-2024",
       "MatterName": "LU 191 - Sunset Gardens:  Block 729, Lot 72, Brooklyn, Community District No. 7, Council District No. 38.",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.133Z"
+      "LastModified": "2024-11-22T02:41:29.3Z"
     },
     {
       "ID": 414676,
@@ -276,11 +732,17 @@
       "MinutesSequence": 25,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 75050,
       "MatterFile": "Res 0657-2024",
       "MatterName": "LU 192 - Harbor Hill:  Block 837, Lot 1, Brooklyn, Community District No. 7, Council District No. 38.",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.137Z"
+      "LastModified": "2024-11-22T02:41:31.713Z"
     },
     {
       "ID": 414677,
@@ -290,11 +752,17 @@
       "MinutesSequence": 27,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 75052,
       "MatterFile": "Res 0658-2024",
       "MatterName": "LU 193 - Three Arts Club:  Block 1246, Lot 49, Manhattan, Community District No. 7, Council District No. 6.",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.137Z"
+      "LastModified": "2024-11-22T02:41:36.113Z"
     },
     {
       "ID": 414678,
@@ -304,11 +772,17 @@
       "MinutesSequence": 29,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 75054,
       "MatterFile": "Res 0659-2024",
       "MatterName": "LU 194 - Eastchester Heights:  Block 4712, Lot 1; Block 4713, Lot 1; Block 4720, Lot 1; Block 4721, Lot 17; Block 4722, Lot 12, Bronx, Community District No. 12; Council District No. 12.",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.14Z"
+      "LastModified": "2024-11-22T02:41:38.543Z"
     },
     {
       "ID": 414679,
@@ -318,11 +792,17 @@
       "MinutesSequence": 31,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 75056,
       "MatterFile": "Res 0660-2024",
       "MatterName": "LU 195 - 551 West 149th Street:  Block 2081, Lot 10, Manhattan, Community District No. 9, Council District No. 7.",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.14Z"
+      "LastModified": "2024-11-22T02:41:40.783Z"
     },
     {
       "ID": 414680,
@@ -332,11 +812,17 @@
       "MinutesSequence": 33,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 75058,
       "MatterFile": "Res 0661-2024",
       "MatterName": "LU 196 - 142 West 139th Street:  Block 2007, Lot 59, Manhattan, Community District No. 10, Council District No. 9.",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.143Z"
+      "LastModified": "2024-11-22T02:41:44.973Z"
     },
     {
       "ID": 414681,
@@ -346,7 +832,7 @@
       "MinutesSequence": 34,
       "Version": "",
       "AgendaNote": "REPORT OF THE COMMITTEE ON GENERAL WELFARE",
-      "LastModified": "2024-11-21T23:09:57.997Z"
+      "LastModified": "2024-11-22T00:58:56.17Z"
     },
     {
       "ID": 414682,
@@ -356,11 +842,17 @@
       "MinutesSequence": 35,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on GO",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74867,
       "MatterFile": "Int 1070-2024",
       "MatterName": "Expanding reporting on domestic violence shelter exits.",
       "MatterType": "Introduction",
-      "LastModified": "2024-11-21T22:48:51.147Z"
+      "LastModified": "2024-11-22T02:41:46.313Z"
     },
     {
       "ID": 414683,
@@ -370,11 +862,17 @@
       "MinutesSequence": 36,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on GO",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74868,
       "MatterFile": "Int 1071-2024",
       "MatterName": "Reporting on domestic violence emergency and tier II shelters.",
       "MatterType": "Introduction",
-      "LastModified": "2024-11-21T22:48:51.147Z"
+      "LastModified": "2024-11-22T02:41:47.713Z"
     },
     {
       "ID": 414684,
@@ -384,7 +882,7 @@
       "MinutesSequence": 37,
       "Version": "",
       "AgendaNote": "REPORT OF THE COMMITTEE ON HEALTH",
-      "LastModified": "2024-11-21T22:48:51.147Z"
+      "LastModified": "2024-11-22T00:58:56.17Z"
     },
     {
       "ID": 414685,
@@ -394,11 +892,16 @@
       "MinutesSequence": 38,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on GO",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 74659,
       "MatterFile": "Int 1018-2024",
       "MatterName": "Prohibiting the sale of dogs and cats in pet shops, and to repeal paragraph 5 of subdivision d of section 17-373, and sections 17-1703, 17-1704, and 17-1705 of such code, relating to required information, recordkeeping, and minimum standards in pet shops.",
       "MatterType": "Introduction",
-      "LastModified": "2024-11-21T22:48:51.15Z"
+      "LastModified": "2024-11-22T02:32:06.127Z"
     },
     {
       "ID": 414686,
@@ -408,7 +911,7 @@
       "MinutesSequence": 39,
       "Version": "",
       "AgendaNote": "REPORT OF THE COMMITTEE ON HOUSING AND BUILDINGS",
-      "LastModified": "2024-11-21T22:48:51.15Z"
+      "LastModified": "2024-11-22T00:58:56.173Z"
     },
     {
       "ID": 414687,
@@ -418,11 +921,17 @@
       "MinutesSequence": 40,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on GO",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 72623,
       "MatterFile": "Int 0436-2024",
       "MatterName": "Electrical code and local law 55 for the year 2024, in relation to electric vehicle supply equipment in open parking lots and parking garages, and repealing chapter 3 of title 27 of the administrative code of the city of New York in relation thereto.",
       "MatterType": "Introduction",
-      "LastModified": "2024-11-21T22:48:51.15Z"
+      "LastModified": "2024-11-22T00:58:56.173Z"
     },
     {
       "ID": 414691,
@@ -433,7 +942,7 @@
       "AgendaNumber": "12.",
       "Version": "",
       "AgendaNote": "GENERAL ORDERS CALENDAR",
-      "LastModified": "2024-11-21T22:48:51.16Z"
+      "LastModified": "2024-11-22T00:58:56.18Z"
     },
     {
       "ID": 414692,
@@ -444,12 +953,18 @@
       "AgendaNumber": "~coupled",
       "Version": "*",
       "AgendaNote": "Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Commissioner of Deeds be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 72293,
       "MatterFile": "T2024-0003",
       "MatterName": "Commissioner of Deeds",
       "MatterType": "Commissioner of Deeds",
-      "MatterStatus": "General Orders Calendar",
-      "LastModified": "2024-11-21T22:48:51.183Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-11-22T00:58:56.203Z"
     },
     {
       "ID": 414693,
@@ -459,11 +974,17 @@
       "MinutesSequence": 51,
       "Version": "*",
       "AgendaNote": "Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 75016,
       "MatterFile": "Res 0665-2024",
       "MatterName": "LU 161 - Zoning, 962-972 Franklin Avenue Rezoning, Brooklyn (C 230356 ZMK).",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.16Z"
+      "LastModified": "2024-11-22T02:42:24.083Z"
     },
     {
       "ID": 414694,
@@ -473,11 +994,17 @@
       "MinutesSequence": 53,
       "Version": "*",
       "AgendaNote": "Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 75018,
       "MatterFile": "Res 0666-2024",
       "MatterName": "LU 162 - Zoning, 962-972 Franklin Avenue Rezoning, Brooklyn (N 230357(A) ZRK).",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.163Z"
+      "LastModified": "2024-11-22T02:42:26.713Z"
     },
     {
       "ID": 414695,
@@ -487,11 +1014,17 @@
       "MinutesSequence": 55,
       "Version": "*",
       "AgendaNote": "Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 75019,
       "MatterFile": "Res 0667-2024",
       "MatterName": "LU 163 - Zoning, 962-972 Franklin Avenue Rezoning, Brooklyn (C 230358 ZSK)",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.163Z"
+      "LastModified": "2024-11-22T02:42:29.537Z"
     },
     {
       "ID": 414696,
@@ -501,11 +1034,17 @@
       "MinutesSequence": 57,
       "Version": "*",
       "AgendaNote": "Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 75020,
       "MatterFile": "Res 0668-2024",
       "MatterName": "LU 164 - Zoning, Brooklyn Yards, Brooklyn (C 230182 ZMK).",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.167Z"
+      "LastModified": "2024-11-22T02:42:32.02Z"
     },
     {
       "ID": 414697,
@@ -515,11 +1054,17 @@
       "MinutesSequence": 59,
       "Version": "*",
       "AgendaNote": "Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 75021,
       "MatterFile": "Res 0669-2024",
       "MatterName": "LU 165 - Zoning, Brooklyn Yards, Brooklyn (N 230183 ZRK).",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.17Z"
+      "LastModified": "2024-11-22T02:42:36.84Z"
     },
     {
       "ID": 414698,
@@ -529,11 +1074,17 @@
       "MinutesSequence": 61,
       "Version": "*",
       "AgendaNote": "Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 75022,
       "MatterFile": "Res 0670-2024",
       "MatterName": "LU 166 - Zoning, Brooklyn Yards, Brooklyn (C 230184 ZSK).",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.17Z"
+      "LastModified": "2024-11-22T02:42:39.287Z"
     },
     {
       "ID": 414699,
@@ -543,11 +1094,17 @@
       "MinutesSequence": 63,
       "Version": "*",
       "AgendaNote": "Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 75023,
       "MatterFile": "Res 0671-2024",
       "MatterName": "LU 167 - Zoning, Brooklyn Yards, Brooklyn (C 230185 ZSK).",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.173Z"
+      "LastModified": "2024-11-22T02:42:41.78Z"
     },
     {
       "ID": 414700,
@@ -557,11 +1114,17 @@
       "MinutesSequence": 65,
       "Version": "*",
       "AgendaNote": "Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 75024,
       "MatterFile": "Res 0672-2024",
       "MatterName": "LU 168 - Zoning, Brooklyn Yards, Brooklyn (C 230188 ZSK).",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.173Z"
+      "LastModified": "2024-11-22T02:42:44.217Z"
     },
     {
       "ID": 414701,
@@ -571,11 +1134,16 @@
       "MinutesSequence": 67,
       "Version": "*",
       "AgendaNote": "Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 75025,
       "MatterFile": "Res 0673-2024",
       "MatterName": "LU 169 - Zoning, Brooklyn Yards, Brooklyn (C 230189 ZSK).",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.177Z"
+      "LastModified": "2024-11-22T02:43:05.24Z"
     },
     {
       "ID": 414702,
@@ -585,11 +1153,17 @@
       "MinutesSequence": 69,
       "Version": "*",
       "AgendaNote": "Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 75026,
       "MatterFile": "Res 0674-2024",
       "MatterName": "LU 170 - Zoning, Brooklyn Yards, Brooklyn (C 230190 ZSK).",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.18Z"
+      "LastModified": "2024-11-22T02:43:09.083Z"
     },
     {
       "ID": 414703,
@@ -599,11 +1173,17 @@
       "MinutesSequence": 71,
       "Version": "*",
       "AgendaNote": "Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 75027,
       "MatterFile": "Res 0675-2024",
       "MatterName": "LU 171 - Zoning, Brooklyn Yards, Brooklyn (C 230191 ZSK)",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.18Z"
+      "LastModified": "2024-11-22T02:43:13.547Z"
     },
     {
       "ID": 414704,
@@ -613,11 +1193,17 @@
       "MinutesSequence": 73,
       "Version": "*",
       "AgendaNote": "Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 75028,
       "MatterFile": "Res 0676-2024",
       "MatterName": "LU 172 - Zoning, Brooklyn Yards, Brooklyn (C 230196 ZSK).",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.183Z"
+      "LastModified": "2024-11-22T00:58:56.203Z"
     },
     {
       "ID": 414705,
@@ -627,7 +1213,7 @@
       "MinutesSequence": 75,
       "Version": "",
       "AgendaNote": "COUPLED ON GENERAL ORDERS CALENDAR",
-      "LastModified": "2024-11-21T22:48:51.187Z"
+      "LastModified": "2024-11-22T00:58:56.203Z"
     },
     {
       "ID": 414706,
@@ -638,7 +1224,7 @@
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "AGING",
-      "LastModified": "2024-11-21T22:48:51.187Z"
+      "LastModified": "2024-11-22T00:58:56.207Z"
     },
     {
       "ID": 414707,
@@ -653,7 +1239,7 @@
       "MatterFile": "Int 1025-2024",
       "MatterName": "Provision of information regarding employment discrimination and older adult workforce programs.",
       "MatterType": "Introduction",
-      "LastModified": "2024-11-21T22:48:51.187Z"
+      "LastModified": "2024-11-22T00:58:56.207Z"
     },
     {
       "ID": 414708,
@@ -668,7 +1254,7 @@
       "MatterFile": "Int 1053-2024",
       "MatterName": "A study and report on the feasibility of creating older adult information points.",
       "MatterType": "Introduction",
-      "LastModified": "2024-11-21T22:48:51.19Z"
+      "LastModified": "2024-11-22T00:58:56.207Z"
     },
     {
       "ID": 414711,
@@ -679,7 +1265,7 @@
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "EDUCATION",
-      "LastModified": "2024-11-21T22:48:51.19Z"
+      "LastModified": "2024-11-22T00:58:56.21Z"
     },
     {
       "ID": 414712,
@@ -694,21 +1280,27 @@
       "MatterFile": "Int 0515-2024",
       "MatterName": "Requiring the department of education to report information about employees of school bus transportation vendors.",
       "MatterType": "Introduction",
-      "LastModified": "2024-11-21T22:48:51.19Z"
+      "LastModified": "2024-11-22T00:58:56.21Z"
     },
     {
       "ID": 414713,
       "GUID": "BF883ADD-A65A-4C56-A7C2-1743E0280F40",
       "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, legislation that would require all school buses operating within the state, regardless of seating capacity, to have a stop-arm on each side, and to prohibit any school buses from operating if they do not have functioning stop-arms.",
       "AgendaSequence": 96,
-      "MinutesSequence": 119,
+      "MinutesSequence": 122,
       "Version": "*",
       "AgendaNote": "Adopted by the Committee on Civil and Human Rights",
+      "MinutesNote": "Pursuant to Rule 8.50 of the Council, the Majority Leader and Acting President Pro Tempore (Council Member Farías) called for a voice vote.  Hearing no objections, the Majority Leader and Acting President Pro Tempore (Council Member Farías) declared the Resolution to be adopted.\r\n\r\nAdopted unanimously by the Council by voice-vote.",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by voice vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 73304,
       "MatterFile": "Res 0250-2024",
       "MatterName": "Require all school buses operating within the state, regardless of seating capacity, to have a stop-arm on each side, and to prohibit any school buses from operating if they do not have functioning stop-arms.",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.233Z"
+      "LastModified": "2024-11-22T02:44:13.357Z"
     },
     {
       "ID": 414714,
@@ -719,7 +1311,7 @@
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "FINANCE",
-      "LastModified": "2024-11-21T22:48:51.193Z"
+      "LastModified": "2024-11-22T00:58:56.21Z"
     },
     {
       "ID": 414715,
@@ -734,7 +1326,7 @@
       "MatterFile": "Int 0557-2024",
       "MatterName": "Adding a 311 complaint category for unlicensed cannabis retailers.",
       "MatterType": "Introduction",
-      "LastModified": "2024-11-21T22:48:51.193Z"
+      "LastModified": "2024-11-22T00:58:56.21Z"
     },
     {
       "ID": 414716,
@@ -749,7 +1341,7 @@
       "MatterFile": "Int 0981-2024",
       "MatterName": "Reporting on enforcement of unlicensed sellers of cigarettes, electronic cigarettes, tobacco products and illicit cannabis.",
       "MatterType": "Introduction",
-      "LastModified": "2024-11-21T22:48:51.193Z"
+      "LastModified": "2024-11-22T00:58:56.21Z"
     },
     {
       "ID": 414717,
@@ -764,7 +1356,7 @@
       "MatterFile": "Res 0656-2024",
       "MatterName": "LU 191 - Sunset Gardens:  Block 729, Lot 72, Brooklyn, Community District No. 7, Council District No. 38.",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.197Z"
+      "LastModified": "2024-11-22T00:58:56.213Z"
     },
     {
       "ID": 414718,
@@ -779,7 +1371,7 @@
       "MatterFile": "Res 0657-2024",
       "MatterName": "LU 192 - Harbor Hill:  Block 837, Lot 1, Brooklyn, Community District No. 7, Council District No. 38.",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.197Z"
+      "LastModified": "2024-11-22T00:58:56.213Z"
     },
     {
       "ID": 414719,
@@ -794,7 +1386,7 @@
       "MatterFile": "Res 0658-2024",
       "MatterName": "LU 193 - Three Arts Club:  Block 1246, Lot 49, Manhattan, Community District No. 7, Council District No. 6.",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.197Z"
+      "LastModified": "2024-11-22T00:58:56.213Z"
     },
     {
       "ID": 414720,
@@ -809,7 +1401,7 @@
       "MatterFile": "Res 0659-2024",
       "MatterName": "LU 194 - Eastchester Heights:  Block 4712, Lot 1; Block 4713, Lot 1; Block 4720, Lot 1; Block 4721, Lot 17; Block 4722, Lot 12, Bronx, Community District No. 12; Council District No. 12.",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.2Z"
+      "LastModified": "2024-11-22T00:58:56.213Z"
     },
     {
       "ID": 414721,
@@ -824,7 +1416,7 @@
       "MatterFile": "Res 0660-2024",
       "MatterName": "LU 195 - 551 West 149th Street:  Block 2081, Lot 10, Manhattan, Community District No. 9, Council District No. 7.",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.2Z"
+      "LastModified": "2024-11-22T00:58:56.217Z"
     },
     {
       "ID": 414722,
@@ -839,7 +1431,7 @@
       "MatterFile": "Res 0661-2024",
       "MatterName": "LU 196 - 142 West 139th Street:  Block 2007, Lot 59, Manhattan, Community District No. 10, Council District No. 9.",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.2Z"
+      "LastModified": "2024-11-22T00:58:56.217Z"
     },
     {
       "ID": 414723,
@@ -850,7 +1442,7 @@
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "GENERAL WELFARE",
-      "LastModified": "2024-11-21T22:48:51.203Z"
+      "LastModified": "2024-11-22T00:58:56.217Z"
     },
     {
       "ID": 414724,
@@ -865,7 +1457,7 @@
       "MatterFile": "Int 1070-2024",
       "MatterName": "Expanding reporting on domestic violence shelter exits.",
       "MatterType": "Introduction",
-      "LastModified": "2024-11-21T22:48:51.203Z"
+      "LastModified": "2024-11-22T00:58:56.22Z"
     },
     {
       "ID": 414725,
@@ -880,7 +1472,7 @@
       "MatterFile": "Int 1071-2024",
       "MatterName": "Reporting on domestic violence emergency and tier II shelters.",
       "MatterType": "Introduction",
-      "LastModified": "2024-11-21T22:48:51.207Z"
+      "LastModified": "2024-11-22T00:58:56.22Z"
     },
     {
       "ID": 414726,
@@ -891,7 +1483,7 @@
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "HEALTH",
-      "LastModified": "2024-11-21T22:48:51.207Z"
+      "LastModified": "2024-11-22T00:58:56.22Z"
     },
     {
       "ID": 414727,
@@ -906,7 +1498,7 @@
       "MatterFile": "Int 1018-2024",
       "MatterName": "Prohibiting the sale of dogs and cats in pet shops, and to repeal paragraph 5 of subdivision d of section 17-373, and sections 17-1703, 17-1704, and 17-1705 of such code, relating to required information, recordkeeping, and minimum standards in pet shops.",
       "MatterType": "Introduction",
-      "LastModified": "2024-11-21T22:48:51.207Z"
+      "LastModified": "2024-11-22T00:58:56.22Z"
     },
     {
       "ID": 414728,
@@ -917,7 +1509,7 @@
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "HOUSING AND BUILDINGS",
-      "LastModified": "2024-11-21T22:48:51.21Z"
+      "LastModified": "2024-11-22T00:58:56.22Z"
     },
     {
       "ID": 414729,
@@ -932,7 +1524,7 @@
       "MatterFile": "Int 0436-2024",
       "MatterName": "Electrical code and local law 55 for the year 2024, in relation to electric vehicle supply equipment in open parking lots and parking garages, and repealing chapter 3 of title 27 of the administrative code of the city of New York in relation thereto.",
       "MatterType": "Introduction",
-      "LastModified": "2024-11-21T22:48:51.21Z"
+      "LastModified": "2024-11-22T00:58:56.223Z"
     },
     {
       "ID": 414730,
@@ -943,7 +1535,7 @@
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "GENERAL ORDERS CALENDAR",
-      "LastModified": "2024-11-21T22:48:51.217Z"
+      "LastModified": "2024-11-22T00:58:56.227Z"
     },
     {
       "ID": 414731,
@@ -958,8 +1550,8 @@
       "MatterFile": "T2024-0003",
       "MatterName": "Commissioner of Deeds",
       "MatterType": "Commissioner of Deeds",
-      "MatterStatus": "General Orders Calendar",
-      "LastModified": "2024-11-21T22:48:51.23Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-11-22T00:59:24.907Z"
     },
     {
       "ID": 414732,
@@ -974,7 +1566,7 @@
       "MatterFile": "Res 0665-2024",
       "MatterName": "LU 161 - Zoning, 962-972 Franklin Avenue Rezoning, Brooklyn (C 230356 ZMK).",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.217Z"
+      "LastModified": "2024-11-22T00:58:56.227Z"
     },
     {
       "ID": 414733,
@@ -989,7 +1581,7 @@
       "MatterFile": "Res 0666-2024",
       "MatterName": "LU 162 - Zoning, 962-972 Franklin Avenue Rezoning, Brooklyn (N 230357(A) ZRK).",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.217Z"
+      "LastModified": "2024-11-22T00:58:56.23Z"
     },
     {
       "ID": 414734,
@@ -1004,7 +1596,7 @@
       "MatterFile": "Res 0667-2024",
       "MatterName": "LU 163 - Zoning, 962-972 Franklin Avenue Rezoning, Brooklyn (C 230358 ZSK)",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.217Z"
+      "LastModified": "2024-11-22T00:58:56.23Z"
     },
     {
       "ID": 414735,
@@ -1019,7 +1611,7 @@
       "MatterFile": "Res 0668-2024",
       "MatterName": "LU 164 - Zoning, Brooklyn Yards, Brooklyn (C 230182 ZMK).",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.22Z"
+      "LastModified": "2024-11-22T00:58:56.23Z"
     },
     {
       "ID": 414736,
@@ -1034,7 +1626,7 @@
       "MatterFile": "Res 0669-2024",
       "MatterName": "LU 165 - Zoning, Brooklyn Yards, Brooklyn (N 230183 ZRK).",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.22Z"
+      "LastModified": "2024-11-22T00:58:56.23Z"
     },
     {
       "ID": 414737,
@@ -1049,7 +1641,7 @@
       "MatterFile": "Res 0670-2024",
       "MatterName": "LU 166 - Zoning, Brooklyn Yards, Brooklyn (C 230184 ZSK).",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.22Z"
+      "LastModified": "2024-11-22T00:58:56.233Z"
     },
     {
       "ID": 414738,
@@ -1064,7 +1656,7 @@
       "MatterFile": "Res 0671-2024",
       "MatterName": "LU 167 - Zoning, Brooklyn Yards, Brooklyn (C 230185 ZSK).",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.223Z"
+      "LastModified": "2024-11-22T00:58:56.233Z"
     },
     {
       "ID": 414739,
@@ -1079,7 +1671,7 @@
       "MatterFile": "Res 0672-2024",
       "MatterName": "LU 168 - Zoning, Brooklyn Yards, Brooklyn (C 230188 ZSK).",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.223Z"
+      "LastModified": "2024-11-22T00:58:56.233Z"
     },
     {
       "ID": 414740,
@@ -1094,7 +1686,7 @@
       "MatterFile": "Res 0673-2024",
       "MatterName": "LU 169 - Zoning, Brooklyn Yards, Brooklyn (C 230189 ZSK).",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.223Z"
+      "LastModified": "2024-11-22T00:58:56.237Z"
     },
     {
       "ID": 414741,
@@ -1109,7 +1701,7 @@
       "MatterFile": "Res 0674-2024",
       "MatterName": "LU 170 - Zoning, Brooklyn Yards, Brooklyn (C 230190 ZSK).",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.227Z"
+      "LastModified": "2024-11-22T00:58:56.237Z"
     },
     {
       "ID": 414742,
@@ -1124,7 +1716,7 @@
       "MatterFile": "Res 0675-2024",
       "MatterName": "LU 171 - Zoning, Brooklyn Yards, Brooklyn (C 230191 ZSK)",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.227Z"
+      "LastModified": "2024-11-22T00:58:56.237Z"
     },
     {
       "ID": 414743,
@@ -1139,79 +1731,79 @@
       "MatterFile": "Res 0676-2024",
       "MatterName": "LU 172 - Zoning, Brooklyn Yards, Brooklyn (C 230196 ZSK).",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.227Z"
+      "LastModified": "2024-11-22T00:58:56.237Z"
     },
     {
       "ID": 414744,
       "GUID": "408E6213-3F7E-419C-8E96-C66457BE81A5",
       "Title": "Introduction & Reading of Bills\r\nSee Attached",
       "AgendaSequence": 92,
-      "MinutesSequence": 115,
+      "MinutesSequence": 118,
       "AgendaNumber": "13.",
       "Version": "",
       "AgendaNote": "INTRODUCTION & READING OF BILLS (SEE BELOW)",
-      "LastModified": "2024-11-21T22:48:51.23Z"
+      "LastModified": "2024-11-22T00:58:56.24Z"
     },
     {
       "ID": 414745,
       "GUID": "A60FC44C-10EE-4520-A0C5-6F90DD8487E0",
       "Title": "Discussion of Resolutions",
       "AgendaSequence": 93,
-      "MinutesSequence": 116,
+      "MinutesSequence": 119,
       "AgendaNumber": "14.",
       "Version": "",
       "AgendaNote": "DISCUSSION OF RESOLUTIONS",
-      "LastModified": "2024-11-21T22:48:51.23Z"
+      "LastModified": "2024-11-22T01:02:55.173Z"
     },
     {
       "ID": 414746,
       "GUID": "C1D72CA0-A26C-44A5-9798-F262DEA71161",
       "Title": "Resolutions",
       "AgendaSequence": 94,
-      "MinutesSequence": 117,
+      "MinutesSequence": 120,
       "AgendaNumber": "15.",
       "Version": "",
       "AgendaNote": "RESOLUTIONS",
-      "LastModified": "2024-11-21T23:00:57.56Z"
+      "LastModified": "2024-11-22T02:43:39.91Z"
     },
     {
       "ID": 414747,
       "GUID": "6EE95B19-B96E-4699-86E8-910627A33695",
       "Title": "General Discussion",
       "AgendaSequence": 97,
-      "MinutesSequence": 120,
+      "MinutesSequence": 123,
       "AgendaNumber": "16.",
       "Version": "",
       "AgendaNote": "GENERAL DISCUSSION",
-      "LastModified": "2024-11-21T22:48:51.233Z"
+      "LastModified": "2024-11-22T00:58:56.243Z"
     },
     {
       "ID": 414748,
       "GUID": "ABD715C5-AB58-468D-A20B-D7E57E8C0D98",
       "Title": "Extension of Remarks",
       "AgendaSequence": 98,
-      "MinutesSequence": 121,
+      "MinutesSequence": 124,
       "AgendaNumber": "17.",
       "Version": "",
       "AgendaNote": "EXTENSION OF REMARKS",
-      "LastModified": "2024-11-21T22:48:51.237Z"
+      "LastModified": "2024-11-22T00:58:56.247Z"
     },
     {
       "ID": 414749,
       "GUID": "A16ADB78-B4B3-40DA-9ACB-83C9CA8BE987",
       "Title": "INTRODUCTION AND READING OF BILLS",
       "AgendaSequence": 99,
-      "MinutesSequence": 122,
+      "MinutesSequence": 125,
       "Version": "",
       "AgendaNote": "INTRODUCTION AND READING OF BILLS",
-      "LastModified": "2024-11-21T22:48:51.237Z"
+      "LastModified": "2024-11-22T00:58:56.247Z"
     },
     {
       "ID": 414750,
       "GUID": "9A6EFDD9-BDA2-4442-9468-A55FEEDD7BDC",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to stationary on-street containers for the storage and collection of waste from buildings owned by the city",
       "AgendaSequence": 100,
-      "MinutesSequence": 123,
+      "MinutesSequence": 126,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Sanitation and Solid Waste Management",
@@ -1222,14 +1814,14 @@
       "MatterFile": "Int 1115-2024",
       "MatterName": "Stationary on-street containers for the storage and collection of waste from buildings owned by the city.",
       "MatterType": "Introduction",
-      "LastModified": "2024-11-21T22:48:51.24Z"
+      "LastModified": "2024-11-22T00:58:56.247Z"
     },
     {
       "ID": 414751,
       "GUID": "195F0B89-B098-4F67-BF9A-14D1298D65BA",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to an inventory of vacant industrial space, and an estimate of underutilization of industrial space, in significant maritime industrial areas",
       "AgendaSequence": 101,
-      "MinutesSequence": 124,
+      "MinutesSequence": 127,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Environmental Protection, Resiliency and Waterfronts",
@@ -1240,14 +1832,14 @@
       "MatterFile": "Int 1116-2024",
       "MatterName": "Inventory of vacant industrial space, and an estimate of underutilization of industrial space, in significant maritime industrial areas.",
       "MatterType": "Introduction",
-      "LastModified": "2024-11-21T22:48:51.24Z"
+      "LastModified": "2024-11-22T00:58:56.247Z"
     },
     {
       "ID": 414752,
       "GUID": "2CCD7525-77D5-4A3B-8972-897A0B81B15A",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring an annual report on the state of waterfront infrastructure",
       "AgendaSequence": 102,
-      "MinutesSequence": 125,
+      "MinutesSequence": 128,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Small Business",
@@ -1258,14 +1850,14 @@
       "MatterFile": "Int 1117-2024",
       "MatterName": "Requiring an annual report on the state of waterfront infrastructure.",
       "MatterType": "Introduction",
-      "LastModified": "2024-11-21T22:48:51.24Z"
+      "LastModified": "2024-11-22T00:58:56.25Z"
     },
     {
       "ID": 414753,
       "GUID": "B49A75C7-21A2-4CC9-AE42-BE2F88882BB6",
       "Title": "Resolution calling on the United States Congress to pass, and the President to sign, legislation declaring the ocean liner the SS United States a historic location, allocating funds for the ocean liner’s restoration, and its relocation to the city of New York.",
       "AgendaSequence": 103,
-      "MinutesSequence": 126,
+      "MinutesSequence": 129,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Cultural Affairs, Libraries and International Intergroup Relations",
@@ -1276,14 +1868,14 @@
       "MatterFile": "Res 0649-2024",
       "MatterName": "Declaring the ocean liner the SS United States a historic location, allocating funds for the ocean liner’s restoration, and its relocation to the city of New York.",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.24Z"
+      "LastModified": "2024-11-22T00:58:56.25Z"
     },
     {
       "ID": 414754,
       "GUID": "7F89F5F8-4858-4D04-A813-08B83DB55842",
       "Title": "Resolution to urge the federal government to continue its scientific, forward-thinking advocacy and commitment to protecting American public health",
       "AgendaSequence": 104,
-      "MinutesSequence": 127,
+      "MinutesSequence": 130,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Health",
@@ -1294,14 +1886,14 @@
       "MatterFile": "Res 0650-2024",
       "MatterName": "Urge the federal government to continue its scientific, forward-thinking advocacy and commitment to protecting American public health.",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.243Z"
+      "LastModified": "2024-11-22T00:58:56.25Z"
     },
     {
       "ID": 414755,
       "GUID": "49CBB683-0E82-48F5-9332-08B6B8968048",
       "Title": "A Local Law to amend the New York city charter, in relation to the ability of supreme court justices in the twelfth and thirteenth judicial districts to hear objections to charter amendment petitions",
       "AgendaSequence": 106,
-      "MinutesSequence": 129,
+      "MinutesSequence": 132,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Governmental Operations, State & Federal Legislation",
@@ -1312,14 +1904,14 @@
       "MatterFile": "Int 1119-2024",
       "MatterName": "Ability of supreme court justices in the twelfth and thirteenth judicial districts to hear objections to charter amendment petitions.",
       "MatterType": "Introduction",
-      "LastModified": "2024-11-21T22:48:51.243Z"
+      "LastModified": "2024-11-22T00:58:56.253Z"
     },
     {
       "ID": 414756,
       "GUID": "33242C6D-5762-4CD6-BB0E-43851A123A27",
       "Title": "A Local Law to amend the New York city charter, in relation to the ability of supreme court justices in the twelfth and thirteenth judicial districts to order summary inquiries into official misconduct",
       "AgendaSequence": 105,
-      "MinutesSequence": 128,
+      "MinutesSequence": 131,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Governmental Operations, State & Federal Legislation",
@@ -1330,14 +1922,14 @@
       "MatterFile": "Int 1118-2024",
       "MatterName": "Ability of supreme court justices in the twelfth and thirteenth judicial districts to order summary inquiries into official misconduct.",
       "MatterType": "Introduction",
-      "LastModified": "2024-11-21T22:48:51.243Z"
+      "LastModified": "2024-11-22T00:58:56.25Z"
     },
     {
       "ID": 414757,
       "GUID": "C45A6FC3-3454-4592-A27F-754B070FB1D9",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to providing contracted ferry service at reduced cost to middle school students",
       "AgendaSequence": 108,
-      "MinutesSequence": 131,
+      "MinutesSequence": 134,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Economic Development",
@@ -1348,14 +1940,14 @@
       "MatterFile": "Int 1121-2024",
       "MatterName": "Providing contracted ferry service at reduced cost to middle school students.",
       "MatterType": "Introduction",
-      "LastModified": "2024-11-21T22:48:51.247Z"
+      "LastModified": "2024-11-22T00:58:56.253Z"
     },
     {
       "ID": 414758,
       "GUID": "1EB2623B-58EC-4DC3-9190-ED17ADFA6DF4",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing timelines for cooperative corporations to approve or deny the sale of cooperative apartments",
       "AgendaSequence": 107,
-      "MinutesSequence": 130,
+      "MinutesSequence": 133,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Housing and Buildings",
@@ -1366,14 +1958,14 @@
       "MatterFile": "Int 1120-2024",
       "MatterName": "Establishing timelines for cooperative corporations to approve or deny the sale of cooperative apartments.",
       "MatterType": "Introduction",
-      "LastModified": "2024-11-21T22:48:51.247Z"
+      "LastModified": "2024-11-22T00:58:56.253Z"
     },
     {
       "ID": 414759,
       "GUID": "CF4A7665-70F0-40BA-94C0-DBCDB7249E89",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to a plan for expanding home access to broadband internet",
       "AgendaSequence": 109,
-      "MinutesSequence": 132,
+      "MinutesSequence": 135,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Technology",
@@ -1384,14 +1976,14 @@
       "MatterFile": "Int 1122-2024",
       "MatterName": "Plan for expanding home access to broadband internet.",
       "MatterType": "Introduction",
-      "LastModified": "2024-11-21T22:48:51.247Z"
+      "LastModified": "2024-11-22T00:58:56.257Z"
     },
     {
       "ID": 414760,
       "GUID": "DDE67359-4AD0-4D90-9238-126CB564B2F7",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to stationary on-street containers for the storage and collection of residential waste",
       "AgendaSequence": 110,
-      "MinutesSequence": 133,
+      "MinutesSequence": 136,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Sanitation and Solid Waste Management",
@@ -1402,14 +1994,14 @@
       "MatterFile": "Int 1123-2024",
       "MatterName": "Stationary on-street containers for the storage and collection of residential waste.",
       "MatterType": "Introduction",
-      "LastModified": "2024-11-21T22:48:51.25Z"
+      "LastModified": "2024-11-22T00:58:56.257Z"
     },
     {
       "ID": 414761,
       "GUID": "65F93E37-5523-4729-B78F-C51DDD1207A8",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to prohibiting the sale of disposable electronic cigarettes",
       "AgendaSequence": 111,
-      "MinutesSequence": 134,
+      "MinutesSequence": 137,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Health",
@@ -1420,14 +2012,14 @@
       "MatterFile": "Int 1124-2024",
       "MatterName": "Prohibiting the sale of disposable electronic cigarettes.",
       "MatterType": "Introduction",
-      "LastModified": "2024-11-21T22:48:51.25Z"
+      "LastModified": "2024-11-22T00:58:56.257Z"
     },
     {
       "ID": 414762,
       "GUID": "EA21073E-4637-4D0D-845A-58CCBCD6E41B",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of education to report on school librarians and library access in New York city public schools",
       "AgendaSequence": 112,
-      "MinutesSequence": 135,
+      "MinutesSequence": 138,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Education",
@@ -1438,14 +2030,14 @@
       "MatterFile": "Int 1125-2024",
       "MatterName": "Requiring the department of education to report on school librarians and library access in New York city public schools.",
       "MatterType": "Introduction",
-      "LastModified": "2024-11-21T22:48:51.25Z"
+      "LastModified": "2024-11-22T00:58:56.26Z"
     },
     {
       "ID": 414764,
       "GUID": "763510E2-5ADD-42CF-8083-84FBFAF53E77",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to official waste bins for residential buildings with nine or fewer dwelling units",
       "AgendaSequence": 113,
-      "MinutesSequence": 136,
+      "MinutesSequence": 139,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Sanitation and Solid Waste Management",
@@ -1456,14 +2048,14 @@
       "MatterFile": "Int 1126-2024",
       "MatterName": "Official waste bins for residential buildings with nine or fewer dwelling units.",
       "MatterType": "Introduction",
-      "LastModified": "2024-11-21T22:48:51.25Z"
+      "LastModified": "2024-11-22T00:58:56.26Z"
     },
     {
       "ID": 414765,
       "GUID": "2DADFCCF-774C-467B-BD69-52C54147AA65",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to construction of ancillary dwelling units",
       "AgendaSequence": 115,
-      "MinutesSequence": 138,
+      "MinutesSequence": 141,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Housing and Buildings",
@@ -1474,14 +2066,14 @@
       "MatterFile": "Int 1128-2024",
       "MatterName": "Construction of ancillary dwelling units.",
       "MatterType": "Introduction",
-      "LastModified": "2024-11-21T22:48:51.253Z"
+      "LastModified": "2024-11-22T00:58:56.26Z"
     },
     {
       "ID": 414766,
       "GUID": "DA76FBA9-2428-403E-A188-66A0D6609434",
       "Title": "A Local Law to establish a pilot program to convert existing basement or cellar apartments to habitable dwelling units",
       "AgendaSequence": 114,
-      "MinutesSequence": 137,
+      "MinutesSequence": 140,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Housing and Buildings",
@@ -1492,14 +2084,14 @@
       "MatterFile": "Int 1127-2024",
       "MatterName": "Pilot program to convert existing basement or cellar apartments to habitable dwelling units.",
       "MatterType": "Introduction",
-      "LastModified": "2024-11-21T22:48:51.253Z"
+      "LastModified": "2024-11-22T00:58:56.26Z"
     },
     {
       "ID": 414767,
       "GUID": "F9F47FDA-4520-4CF7-ABD3-0E79B32E3669",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to complaints to 311 about overhead wires",
       "AgendaSequence": 116,
-      "MinutesSequence": 139,
+      "MinutesSequence": 142,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Technology",
@@ -1510,14 +2102,14 @@
       "MatterFile": "Int 1129-2024",
       "MatterName": "Complaints to 311 about overhead wires.",
       "MatterType": "Introduction",
-      "LastModified": "2024-11-21T22:48:51.253Z"
+      "LastModified": "2024-11-22T00:58:56.26Z"
     },
     {
       "ID": 414768,
       "GUID": "F7F7B531-D47B-4159-B7B4-585434A65636",
       "Title": "Resolution calling on the New York State Legislature to reintroduce and pass, and the Governor to sign, legislation in relation to establishing a task force to study and report on the potential implementation of blockchain technology in state record keeping, information storage, and service delivery.",
       "AgendaSequence": 121,
-      "MinutesSequence": 144,
+      "MinutesSequence": 147,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Technology",
@@ -1528,14 +2120,14 @@
       "MatterFile": "Res 0655-2024",
       "MatterName": "Establishing a task force to study and report on the potential implementation of blockchain technology in state record keeping, information storage, and service delivery.",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.26Z"
+      "LastModified": "2024-11-22T00:58:56.267Z"
     },
     {
       "ID": 414769,
       "GUID": "84BF2046-E651-4430-9E98-C4C8EFA30655",
       "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, A.8593/S.6420, in relation to foreclosure of certain rental properties.",
       "AgendaSequence": 120,
-      "MinutesSequence": 143,
+      "MinutesSequence": 146,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Housing and Buildings",
@@ -1546,14 +2138,14 @@
       "MatterFile": "Res 0654-2024",
       "MatterName": "Foreclosure of certain rental properties.(A.8593/S.6420).",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.26Z"
+      "LastModified": "2024-11-22T00:58:56.263Z"
     },
     {
       "ID": 414770,
       "GUID": "125F1F65-9DAE-472F-B8F1-1D7723FAB8E5",
       "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, S.1755-C/A.2720-B, to establish a temporary state commission to conduct a feasibility study on the formation and control of a state public bank.",
       "AgendaSequence": 117,
-      "MinutesSequence": 140,
+      "MinutesSequence": 143,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Finance",
@@ -1564,14 +2156,14 @@
       "MatterFile": "Res 0651-2024",
       "MatterName": "Establish a temporary state commission to conduct a feasibility study on the formation and control of a state public bank (S.1755-C/A.2720-B).",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.253Z"
+      "LastModified": "2024-11-22T00:58:56.263Z"
     },
     {
       "ID": 414771,
       "GUID": "D3ECEE45-633F-4643-B2B4-A427A9FE485A",
       "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, A.1814, to impose an additional tax on certain non-primary residence class one and class two properties in New York City.",
       "AgendaSequence": 118,
-      "MinutesSequence": 141,
+      "MinutesSequence": 144,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Finance",
@@ -1582,14 +2174,14 @@
       "MatterFile": "Res 0652-2024",
       "MatterName": "Impose an additional tax on certain non-primary residence class one and class two properties in New York City (A.1814).",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.257Z"
+      "LastModified": "2024-11-22T00:58:56.263Z"
     },
     {
       "ID": 414772,
       "GUID": "DA16A2F4-FC87-4AEC-B1F6-FC97D25B8BBC",
       "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, S.7871-A/A.9673-A, to create a pilot program for implementation of local land value taxation.",
       "AgendaSequence": 119,
-      "MinutesSequence": 142,
+      "MinutesSequence": 145,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Finance",
@@ -1600,14 +2192,14 @@
       "MatterFile": "Res 0653-2024",
       "MatterName": "Create a pilot program for implementation of local land value taxation. (S.7871-A/A.9673-A)",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.257Z"
+      "LastModified": "2024-11-22T00:58:56.263Z"
     },
     {
       "ID": 414773,
       "GUID": "373A0CE7-C949-4617-AD68-63F874948335",
       "Title": "Sunset Gardens:  Block 729, Lot 72, Brooklyn, Community District No. 7, Council District No. 38.",
       "AgendaSequence": 122,
-      "MinutesSequence": 145,
+      "MinutesSequence": 148,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Finance",
@@ -1618,15 +2210,15 @@
       "MatterFile": "LU 0191-2024",
       "MatterName": "Sunset Gardens:  Block 729, Lot 72, Brooklyn, Community District No. 7, Council District No. 38.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2024-11-21T22:48:51.26Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-11-22T00:58:56.267Z"
     },
     {
       "ID": 414774,
       "GUID": "788C7D17-FAD9-4B09-B89F-EEE92E0F23EB",
       "Title": "Harbor Hill:  Block 837, Lot 1, Brooklyn, Community District No. 7, Council District No. 38.",
       "AgendaSequence": 123,
-      "MinutesSequence": 146,
+      "MinutesSequence": 149,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Finance",
@@ -1637,15 +2229,15 @@
       "MatterFile": "LU 0192-2024",
       "MatterName": "Harbor Hill:  Block 837, Lot 1, Brooklyn, Community District No. 7, Council District No. 38.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2024-11-21T22:48:51.26Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-11-22T00:58:56.267Z"
     },
     {
       "ID": 414775,
       "GUID": "14BB2680-1F6F-4C96-9A3F-3F5DB33579E3",
       "Title": "Three Arts Club:  Block 1246, Lot 49, Manhattan, Community District No. 7, Council District No. 6.",
       "AgendaSequence": 124,
-      "MinutesSequence": 147,
+      "MinutesSequence": 150,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Finance",
@@ -1656,15 +2248,15 @@
       "MatterFile": "LU 0193-2024",
       "MatterName": "Three Arts Club:  Block 1246, Lot 49, Manhattan, Community District No. 7, Council District No. 6.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2024-11-21T22:48:51.263Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-11-22T00:58:56.267Z"
     },
     {
       "ID": 414776,
       "GUID": "AB71B933-C94C-4139-910D-349856F3DEA5",
       "Title": "Eastchester Heights:  Block 4712, Lot 1; Block 4713, Lot 1; Block 4720, Lot 1; Block 4721, Lot 17; Block 4722, Lot 12, Bronx, Community District No. 12; Council District No. 12.",
       "AgendaSequence": 125,
-      "MinutesSequence": 148,
+      "MinutesSequence": 151,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Finance",
@@ -1675,15 +2267,15 @@
       "MatterFile": "LU 0194-2024",
       "MatterName": "Eastchester Heights:  Block 4712, Lot 1; Block 4713, Lot 1; Block 4720, Lot 1; Block 4721, Lot 17; Block 4722, Lot 12, Bronx, Community District No. 12; Council District No. 12.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2024-11-21T22:48:51.263Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-11-22T00:58:56.27Z"
     },
     {
       "ID": 414777,
       "GUID": "626CA9B6-8FE1-4AA1-8D34-6C0372AA8792",
       "Title": "551 West 149th Street:  Block 2081, Lot 10, Manhattan, Community District No. 9, Council District No. 7.",
       "AgendaSequence": 126,
-      "MinutesSequence": 149,
+      "MinutesSequence": 152,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Finance",
@@ -1694,15 +2286,15 @@
       "MatterFile": "LU 0195-2024",
       "MatterName": "551 West 149th Street:  Block 2081, Lot 10, Manhattan, Community District No. 9, Council District No. 7.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2024-11-21T22:48:51.263Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-11-22T00:58:56.27Z"
     },
     {
       "ID": 414778,
       "GUID": "5E4D5A63-079B-4AA9-84E6-9D4E4E8B1A1F",
       "Title": "142 West 139th Street:  Block 2007, Lot 59, Manhattan, Community District No. 10, Council District No. 9.",
       "AgendaSequence": 127,
-      "MinutesSequence": 150,
+      "MinutesSequence": 153,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Finance",
@@ -1713,50 +2305,68 @@
       "MatterFile": "LU 0196-2024",
       "MatterName": "142 West 139th Street:  Block 2007, Lot 59, Manhattan, Community District No. 10, Council District No. 9.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2024-11-21T22:48:51.267Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-11-22T00:58:56.27Z"
     },
     {
       "ID": 414784,
       "GUID": "62DC2C68-40AF-49D7-B372-F05C127BB5C5",
-      "Title": "Application number N 240354 ZRM (Port Authority Bus Terminal Replacement) submitted by The Port Authority of New York and New Jersey, pursuant to Section 201 of the New York City Charter, for an amendment of the Zoning Resolution of the City of New York, modifying Article VII, Chapter 4 (Special Permits by the City Planning Commission), Borough of Manhattan, Community District 4, Council District 3.",
+      "Title": "Resolution approving the decision of the City Planning Commission on Application No. N 240354 ZRM, for an amendment of the text of the Zoning Resolution (L.U. No. 185).",
       "AgendaSequence": 35,
       "MinutesSequence": 44,
       "Version": "*",
       "AgendaNote": "Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 75076,
       "MatterFile": "Res 0662-2024",
       "MatterName": "LU 185 - Zoning, Port Authority Bus Terminal Replacement, Manhattan (N 240354 ZRM)",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.153Z"
+      "LastModified": "2024-11-22T02:42:14.767Z"
     },
     {
       "ID": 414785,
       "GUID": "E5374FFE-0EF3-4A84-B50E-72C6FB18339D",
-      "Title": "Application number C 240336 MMM (Port Authority Bus Terminal Mapping Actions) submitted by The Port Authority of New York and New Jersey pursuant to Sections 197-c and 199 of the New York City Charter and Section 5-430 et-seq. of the New York City Administrative Code for an amendment to the City Map involving the elimination, discontinuance, and closing of a portion of West 41st Street between Eighth Avenue and Ninth Avenue, a portion of West 40th Street between Tenth Avenue and Eleventh Avenue; and the elimination, discontinuance, and closing of various volumes from West 41st Street, West 42nd Street, Ninth Avenue, West 40th Street, Tenth Avenue, West 39th Street and Eleventh Avenue, including authorization for any acquisition or disposition of real property related thereto, in accordance with Map No. 30275 dated May 21, 2024 and signed by the Borough President, Borough of Manhattan, Community District 4, Council District 3.",
+      "Title": "Resolution approving the decision of the City Planning Commission on ULURP No. C 240336 MMM, an amendment to the City Map (L.U. No. 186).",
       "AgendaSequence": 36,
       "MinutesSequence": 46,
       "Version": "*",
       "AgendaNote": "Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 75077,
       "MatterFile": "Res 0663-2024",
       "MatterName": "LU 186 - Zoning, Port Authority Bus Terminal Replacement, Manhattan (C 240336 MMM)",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.157Z"
+      "LastModified": "2024-11-22T02:42:17.22Z"
     },
     {
       "ID": 414786,
       "GUID": "FDE5B2CB-AA30-4B71-96B2-2322E81F5949",
-      "Title": "Application number C 240353 ZSM (Port Authority Bus Terminal Replacement) submitted by The Port Authority of New York and New Jersey pursuant to Sections 197-c and 201 of the New York City Charter for the grant of a special permit pursuant to Section 74-631 of the Zoning Resolution, to permit the construction of a bus station with 10 or more berths for buses on a site of any size; to permit within demapped air space above a street the development of a building or portion thereof which is part of such bus station; to allow the distribution of floor area on the development site without regard to zoning district boundaries; to modify the height and setback requirements of Section 81-26 (Height and Setback Regulations – Daylight Compensation); and to modify the Mandatory District Plan Elements of Section 81-45 (Pedestrian Circulation Space), Section 81-47 (Major Building Entrances) and Section 37-50 (REQUIREMENTS FOR PEDESTRIAN CIRCULATION SPACE), in connection with a proposed development on property generally bounded by West 40th Street, 10th Avenue, West 41st Street, 9th Avenue, West 42nd Street, 8th Avenue, West 40th Street, 9th Avenue, West 39th Street, and 11th Avenue, (Block 711, Lot 1, Block 737, Lots 1, 17 & 22, Block 1032, Lot 29, Block 1050, Lots 13 & 32, and demapped portions of West 39th Street, West 40th Street, West 41st Street, West 42nd Street, 9th Avenue and 10th Avenue), partially within C6-7, C1-7A, C6-3, R8A/C2-5, C2-8, and C6-4 Districts, partially within Special Midtown District and Special Hudson Yards District, Borough of Manhattan, Community District 4, Council District 3.",
+      "Title": "Resolution approving the decision of the City Planning Commission on ULURP No. C 240353 ZSM, for the grant of a special permit (L.U. No. 187).",
       "AgendaSequence": 37,
       "MinutesSequence": 48,
       "Version": "*",
       "AgendaNote": "Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 75078,
       "MatterFile": "Res 0664-2024",
       "MatterName": "LU 187 - Zoning, Port Authority Bus Terminal Replacement, Manhattan (C 240353 ZSM)",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.157Z"
+      "LastModified": "2024-11-22T02:42:21.71Z"
     },
     {
       "ID": 414787,
@@ -1766,7 +2376,7 @@
       "MinutesSequence": 41,
       "Version": "",
       "AgendaNote": "REPORT OF THE COMMITTEE ON LAND USE",
-      "LastModified": "2024-11-21T23:10:16.06Z"
+      "LastModified": "2024-11-22T00:58:56.173Z"
     },
     {
       "ID": 414788,
@@ -1777,12 +2387,12 @@
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "LAND USE",
-      "LastModified": "2024-11-21T22:48:51.21Z"
+      "LastModified": "2024-11-22T00:58:56.223Z"
     },
     {
       "ID": 414790,
       "GUID": "4E549342-B1FE-4BD2-9DD9-1AD59ADA7A0B",
-      "Title": "Application number N 240354 ZRM (Port Authority Bus Terminal Replacement) submitted by The Port Authority of New York and New Jersey, pursuant to Section 201 of the New York City Charter, for an amendment of the Zoning Resolution of the City of New York, modifying Article VII, Chapter 4 (Special Permits by the City Planning Commission), Borough of Manhattan, Community District 4, Council District 3.",
+      "Title": "Resolution approving the decision of the City Planning Commission on Application No. N 240354 ZRM, for an amendment of the text of the Zoning Resolution (L.U. No. 185).",
       "AgendaSequence": 75,
       "MinutesSequence": 98,
       "AgendaNumber": "~coupled",
@@ -1792,12 +2402,12 @@
       "MatterFile": "Res 0662-2024",
       "MatterName": "LU 185 - Zoning, Port Authority Bus Terminal Replacement, Manhattan (N 240354 ZRM)",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.213Z"
+      "LastModified": "2024-11-22T00:58:56.223Z"
     },
     {
       "ID": 414791,
       "GUID": "7CF28AA5-6D07-411A-A852-8046873849A8",
-      "Title": "Application number C 240336 MMM (Port Authority Bus Terminal Mapping Actions) submitted by The Port Authority of New York and New Jersey pursuant to Sections 197-c and 199 of the New York City Charter and Section 5-430 et-seq. of the New York City Administrative Code for an amendment to the City Map involving the elimination, discontinuance, and closing of a portion of West 41st Street between Eighth Avenue and Ninth Avenue, a portion of West 40th Street between Tenth Avenue and Eleventh Avenue; and the elimination, discontinuance, and closing of various volumes from West 41st Street, West 42nd Street, Ninth Avenue, West 40th Street, Tenth Avenue, West 39th Street and Eleventh Avenue, including authorization for any acquisition or disposition of real property related thereto, in accordance with Map No. 30275 dated May 21, 2024 and signed by the Borough President, Borough of Manhattan, Community District 4, Council District 3.",
+      "Title": "Resolution approving the decision of the City Planning Commission on ULURP No. C 240336 MMM, an amendment to the City Map (L.U. No. 186).",
       "AgendaSequence": 76,
       "MinutesSequence": 99,
       "AgendaNumber": "~coupled",
@@ -1807,12 +2417,12 @@
       "MatterFile": "Res 0663-2024",
       "MatterName": "LU 186 - Zoning, Port Authority Bus Terminal Replacement, Manhattan (C 240336 MMM)",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.213Z"
+      "LastModified": "2024-11-22T00:58:56.227Z"
     },
     {
       "ID": 414792,
       "GUID": "654172BE-05B0-4A8C-8CAA-5691CB351CB3",
-      "Title": "Application number C 240353 ZSM (Port Authority Bus Terminal Replacement) submitted by The Port Authority of New York and New Jersey pursuant to Sections 197-c and 201 of the New York City Charter for the grant of a special permit pursuant to Section 74-631 of the Zoning Resolution, to permit the construction of a bus station with 10 or more berths for buses on a site of any size; to permit within demapped air space above a street the development of a building or portion thereof which is part of such bus station; to allow the distribution of floor area on the development site without regard to zoning district boundaries; to modify the height and setback requirements of Section 81-26 (Height and Setback Regulations – Daylight Compensation); and to modify the Mandatory District Plan Elements of Section 81-45 (Pedestrian Circulation Space), Section 81-47 (Major Building Entrances) and Section 37-50 (REQUIREMENTS FOR PEDESTRIAN CIRCULATION SPACE), in connection with a proposed development on property generally bounded by West 40th Street, 10th Avenue, West 41st Street, 9th Avenue, West 42nd Street, 8th Avenue, West 40th Street, 9th Avenue, West 39th Street, and 11th Avenue, (Block 711, Lot 1, Block 737, Lots 1, 17 & 22, Block 1032, Lot 29, Block 1050, Lots 13 & 32, and demapped portions of West 39th Street, West 40th Street, West 41st Street, West 42nd Street, 9th Avenue and 10th Avenue), partially within C6-7, C1-7A, C6-3, R8A/C2-5, C2-8, and C6-4 Districts, partially within Special Midtown District and Special Hudson Yards District, Borough of Manhattan, Community District 4, Council District 3.",
+      "Title": "Resolution approving the decision of the City Planning Commission on ULURP No. C 240353 ZSM, for the grant of a special permit (L.U. No. 187).",
       "AgendaSequence": 77,
       "MinutesSequence": 100,
       "AgendaNumber": "~coupled",
@@ -1822,7 +2432,7 @@
       "MatterFile": "Res 0664-2024",
       "MatterName": "LU 187 - Zoning, Port Authority Bus Terminal Replacement, Manhattan (C 240353 ZSM)",
       "MatterType": "Resolution",
-      "LastModified": "2024-11-21T22:48:51.213Z"
+      "LastModified": "2024-11-22T00:58:56.227Z"
     },
     {
       "ID": 414863,
@@ -1831,12 +2441,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 22,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 75047,
       "MatterFile": "LU 0191-2024",
       "MatterName": "Sunset Gardens:  Block 729, Lot 72, Brooklyn, Community District No. 7, Council District No. 38.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2024-11-21T22:48:51.133Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-11-22T02:41:27.98Z"
     },
     {
       "ID": 414864,
@@ -1845,12 +2461,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 24,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 75049,
       "MatterFile": "LU 0192-2024",
       "MatterName": "Harbor Hill:  Block 837, Lot 1, Brooklyn, Community District No. 7, Council District No. 38.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2024-11-21T22:48:51.133Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-11-22T02:41:30.53Z"
     },
     {
       "ID": 414865,
@@ -1859,12 +2481,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 26,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 75051,
       "MatterFile": "LU 0193-2024",
       "MatterName": "Three Arts Club:  Block 1246, Lot 49, Manhattan, Community District No. 7, Council District No. 6.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2024-11-21T22:48:51.137Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-11-22T02:41:34.133Z"
     },
     {
       "ID": 414866,
@@ -1873,12 +2501,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 28,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 75053,
       "MatterFile": "LU 0194-2024",
       "MatterName": "Eastchester Heights:  Block 4712, Lot 1; Block 4713, Lot 1; Block 4720, Lot 1; Block 4721, Lot 17; Block 4722, Lot 12, Bronx, Community District No. 12; Council District No. 12.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2024-11-21T22:48:51.14Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-11-22T02:41:37.38Z"
     },
     {
       "ID": 414867,
@@ -1887,12 +2521,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 30,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 75055,
       "MatterFile": "LU 0195-2024",
       "MatterName": "551 West 149th Street:  Block 2081, Lot 10, Manhattan, Community District No. 9, Council District No. 7.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2024-11-21T22:48:51.14Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-11-22T02:41:39.627Z"
     },
     {
       "ID": 414868,
@@ -1901,12 +2541,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 32,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 75057,
       "MatterFile": "LU 0196-2024",
       "MatterName": "142 West 139th Street:  Block 2007, Lot 59, Manhattan, Community District No. 10, Council District No. 9.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2024-11-21T22:48:51.143Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-11-22T02:41:42.09Z"
     },
     {
       "ID": 414869,
@@ -1915,12 +2561,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 43,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74964,
       "MatterFile": "LU 0185-2024",
       "MatterName": "Zoning, Port Authority Bus Terminal Replacement, Manhattan (N 240354 ZRM)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2024-11-21T23:04:54.017Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-11-22T00:58:56.177Z"
     },
     {
       "ID": 414870,
@@ -1929,12 +2581,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 45,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74965,
       "MatterFile": "LU 0186-2024",
       "MatterName": "Zoning, Port Authority Bus Terminal Replacement, Manhattan (C 240336 MMM)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2024-11-21T22:48:51.153Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-11-22T02:42:15.977Z"
     },
     {
       "ID": 414871,
@@ -1943,12 +2601,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 47,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74963,
       "MatterFile": "LU 0187-2024",
       "MatterName": "Zoning, Port Authority Bus Terminal Replacement, Manhattan (C 240353 ZSM)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2024-11-21T22:48:51.157Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-11-22T02:42:18.57Z"
     },
     {
       "ID": 414872,
@@ -1957,12 +2621,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 50,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74826,
       "MatterFile": "LU 0161-2024",
       "MatterName": "Zoning, 962-972 Franklin Avenue Rezoning, Brooklyn (C 230356 ZMK).",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2024-11-21T22:48:51.16Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-11-22T02:42:22.89Z"
     },
     {
       "ID": 414873,
@@ -1971,12 +2641,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 52,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74827,
       "MatterFile": "LU 0162-2024",
       "MatterName": "Zoning, 962-972 Franklin Avenue Rezoning, Brooklyn (N 230357(A) ZRK).",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2024-11-21T22:48:51.16Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-11-22T02:42:25.393Z"
     },
     {
       "ID": 414874,
@@ -1985,12 +2661,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 54,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74828,
       "MatterFile": "LU 0163-2024",
       "MatterName": "Zoning, 962-972 Franklin Avenue Rezoning, Brooklyn (C 230358 ZSK)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2024-11-21T22:48:51.163Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-11-22T02:42:28.06Z"
     },
     {
       "ID": 414875,
@@ -1999,12 +2681,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 56,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74829,
       "MatterFile": "LU 0164-2024",
       "MatterName": "Zoning, Brooklyn Yards, Brooklyn (C 230182 ZMK).",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2024-11-21T22:48:51.167Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-11-22T02:42:30.767Z"
     },
     {
       "ID": 414876,
@@ -2013,12 +2701,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 58,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74830,
       "MatterFile": "LU 0165-2024",
       "MatterName": "Zoning, Brooklyn Yards, Brooklyn (N 230183 ZRK).",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2024-11-21T22:48:51.167Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-11-22T02:42:33.29Z"
     },
     {
       "ID": 414877,
@@ -2027,12 +2721,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 60,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74831,
       "MatterFile": "LU 0166-2024",
       "MatterName": "Zoning, Brooklyn Yards, Brooklyn (C 230184 ZSK).",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2024-11-21T22:48:51.17Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-11-22T02:42:38.107Z"
     },
     {
       "ID": 414878,
@@ -2041,12 +2741,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 62,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74832,
       "MatterFile": "LU 0167-2024",
       "MatterName": "Zoning, Brooklyn Yards, Brooklyn (C 230185 ZSK).",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2024-11-21T22:48:51.17Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-11-22T02:42:40.467Z"
     },
     {
       "ID": 414879,
@@ -2055,12 +2761,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 64,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74833,
       "MatterFile": "LU 0168-2024",
       "MatterName": "Zoning, Brooklyn Yards, Brooklyn (C 230188 ZSK).",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2024-11-21T22:48:51.173Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-11-22T02:42:43.047Z"
     },
     {
       "ID": 414880,
@@ -2069,12 +2781,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 66,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74834,
       "MatterFile": "LU 0169-2024",
       "MatterName": "Zoning, Brooklyn Yards, Brooklyn (C 230189 ZSK).",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2024-11-21T22:48:51.177Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-11-22T02:42:45.68Z"
     },
     {
       "ID": 414881,
@@ -2083,12 +2801,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 68,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74835,
       "MatterFile": "LU 0170-2024",
       "MatterName": "Zoning, Brooklyn Yards, Brooklyn (C 230190 ZSK).",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2024-11-21T22:48:51.177Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-11-22T02:42:47.997Z"
     },
     {
       "ID": 414882,
@@ -2097,12 +2821,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 70,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74836,
       "MatterFile": "LU 0171-2024",
       "MatterName": "Zoning, Brooklyn Yards, Brooklyn (C 230191 ZSK).",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2024-11-21T22:48:51.18Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-11-22T02:43:10.24Z"
     },
     {
       "ID": 414883,
@@ -2111,12 +2841,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 72,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74837,
       "MatterFile": "LU 0172-2024",
       "MatterName": "Zoning, Brooklyn Yards, Brooklyn (C 230196 ZSK).",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2024-11-21T22:48:51.18Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2024-11-22T02:43:14.76Z"
     },
     {
       "ID": 414894,
@@ -2125,8 +2861,8 @@
       "AgendaSequence": 0,
       "MinutesSequence": 3,
       "Version": "",
-      "MinutesNote": "The presence of a quorum was announced by the Majority Leader and Acting President Pro Tempore (Council Member Farías).\r\n\r\nThere were XX Council Members marked present at this Stated Meeting.",
-      "LastModified": "2024-11-21T22:48:51.113Z"
+      "MinutesNote": "The presence of a quorum was announced by the Majority Leader and Acting President Pro Tempore (Council Member Farías).\r\n\r\nThere were 45 Council Members marked present at this Stated Meeting.",
+      "LastModified": "2024-11-22T01:07:56.473Z"
     },
     {
       "ID": 414895,
@@ -2136,27 +2872,27 @@
       "MinutesSequence": 1,
       "Version": "",
       "MinutesNote": "The Majority Leader (Council Member Farías) presiding as the President Pro Tempore.",
-      "LastModified": "2024-11-21T22:48:51.11Z"
+      "LastModified": "2024-11-22T00:58:56.14Z"
     },
     {
       "ID": 414896,
       "GUID": "84F3FDF0-D056-420E-83AB-5406C1081B82",
       "Title": "",
       "AgendaSequence": 0,
-      "MinutesSequence": 151,
+      "MinutesSequence": 154,
       "Version": "",
       "MinutesNote": "At this point the Speaker (Council Member Adams) made the following announcements:",
-      "LastModified": "2024-11-21T22:48:51.267Z"
+      "LastModified": "2024-11-22T00:58:56.27Z"
     },
     {
       "ID": 414897,
       "GUID": "082B13EF-32D0-4BE1-AA05-EB8387CDCE21",
       "Title": "",
       "AgendaSequence": 0,
-      "MinutesSequence": 152,
+      "MinutesSequence": 155,
       "Version": "",
       "MinutesNote": "Whereupon on motion of the Speaker (Council Member Adams), the Majority Leader and Acting President Pro Tempore (Council Member Farías) adjourned these proceedings to meet again for the Stated Meeting of Thursday, December 5, 2024.\r\n\r\nMICHAEL McSWEENEY, City Clerk\r\nClerk of the Council",
-      "LastModified": "2024-11-21T22:48:51.267Z"
+      "LastModified": "2024-11-22T00:59:31.497Z"
     },
     {
       "ID": 414914,
@@ -2174,10 +2910,43 @@
       "MatterName": "Zoning, City of Yes for Housing Opportunity (N 240290 ZRY)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Reported from Committee",
-      "LastModified": "2024-11-21T23:04:50.987Z"
+      "LastModified": "2024-11-22T01:00:38.64Z"
+    },
+    {
+      "ID": 414915,
+      "GUID": "00DD838F-9EF9-4EF6-A60E-B664B6FB5D67",
+      "Title": "Passed The Consent Agenda",
+      "AgendaSequence": 0,
+      "MinutesSequence": 116,
+      "Version": "",
+      "ActionText": "A motion was made that these files be approved by consent vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
+      "LastModified": "2024-11-22T00:59:31.41Z"
+    },
+    {
+      "ID": 414917,
+      "GUID": "71C13265-1B81-4A30-880D-8EEC7C521629",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 115,
+      "Version": "",
+      "MinutesNote": "The Majority Leader and Acting President Pro Tempore (Council Member Farías) put the question whether the Council would agree with and adopt such reports, which were decided in the affirmative by the following vote:",
+      "LastModified": "2024-11-22T01:04:50.257Z"
+    },
+    {
+      "ID": 414918,
+      "GUID": "A451093C-C243-4D0E-997C-7CCCDD0EC4DB",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 117,
+      "Version": "",
+      "MinutesNote": "The following files were removed from the General Order Calendar and voted separately:\r\n\r\nInt. No. 1018-A,  VOTE: 40-5-0\r\nNegative:  Council Members Carr, Marmorato, Vernikov, Yeger, and Borelli.\r\n\r\nSee files for individual votes.",
+      "LastModified": "2024-11-22T02:43:37.237Z"
     }
   ],
   "AgendaLastPublished": "2024-11-21T23:10:22.373Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-11-21T23:10:22.58Z"
+  "MinutesLastPublished": "2024-11-22T02:44:21.17Z",
+  "LastModified": "2024-11-22T02:44:21.243Z"
 }
