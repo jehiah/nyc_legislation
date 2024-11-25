@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/11/21238_A_Committee_on_Technology_24-11-25_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/11/21238_M_Committee_on_Technology_24-11-25_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_241125-132434.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21238&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,42 +20,151 @@
       "GUID": "00B4F6A1-E059-4789-AFC6-D58330DF7D87",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to sign language public service announcements for persons who are deaf or hard of hearing on LinkNYC kiosks",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 73441,
       "MatterFile": "Int 0138-2024",
       "MatterName": "Sign language public service announcements for persons who are deaf or hard of hearing on LinkNYC kiosks.",
       "MatterType": "Introduction",
-      "LastModified": "2024-11-15T20:40:09.82Z"
+      "LastModified": "2024-11-25T19:42:42.683Z"
     },
     {
       "ID": 414543,
       "GUID": "BAB9072E-343E-4356-BB16-0DCC590F4A81",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring text to 911 and next generation 911 to be available in the designated citywide languages",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 72756,
       "MatterFile": "Int 0197-2024",
       "MatterName": "Requiring text to 911 and next generation 911 to be available in the designated citywide languages.",
       "MatterType": "Introduction",
-      "LastModified": "2024-11-15T20:40:21.127Z"
+      "LastModified": "2024-11-25T19:42:56.39Z"
     },
     {
       "ID": 414544,
       "GUID": "D1ED146D-D4B0-4D0D-8DB4-F23FCF70F8EA",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to accessibility for the deaf, hard of hearing, or deaf-blind community in the implementation of text-to-911",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 6,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 73524,
       "MatterFile": "Int 0646-2024",
       "MatterName": "Accessibility for the deaf, hard of hearing, or deaf-blind community in the implementation of text-to-911.",
       "MatterType": "Introduction",
-      "LastModified": "2024-11-15T20:40:37.623Z"
+      "LastModified": "2024-11-25T19:43:06.703Z"
+    },
+    {
+      "ID": 414941,
+      "GUID": "5897744D-DEA8-45C6-85E1-81F57CC1A367",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 50
+        }
+      ],
+      "LastModified": "2024-11-25T19:42:34.64Z"
+    },
+    {
+      "ID": 414942,
+      "GUID": "2DEEF144-25FC-4116-9AE4-3160E2F97334",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to sign language public service announcements for persons who are deaf or hard of hearing on LinkNYC kiosks",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 73441,
+      "MatterFile": "Int 0138-2024",
+      "MatterName": "Sign language public service announcements for persons who are deaf or hard of hearing on LinkNYC kiosks.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-11-25T19:42:47.343Z"
+    },
+    {
+      "ID": 414943,
+      "GUID": "350E4338-2B03-42C8-A5E6-1F8F1BED5F2D",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring text to 911 and next generation 911 to be available in the designated citywide languages",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 72756,
+      "MatterFile": "Int 0197-2024",
+      "MatterName": "Requiring text to 911 and next generation 911 to be available in the designated citywide languages.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-11-25T19:43:00.627Z"
+    },
+    {
+      "ID": 414944,
+      "GUID": "CE02C559-28EC-40F4-B786-2E54CB1AEBA5",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to accessibility for the deaf, hard of hearing, or deaf-blind community in the implementation of text-to-911",
+      "AgendaSequence": 0,
+      "MinutesSequence": 7,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 73524,
+      "MatterFile": "Int 0646-2024",
+      "MatterName": "Accessibility for the deaf, hard of hearing, or deaf-blind community in the implementation of text-to-911.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-11-25T19:45:17.17Z"
     }
   ],
   "AgendaLastPublished": "2024-11-15T20:40:43.977Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-11-15T20:40:44.007Z"
+  "MinutesLastPublished": "2024-11-25T19:45:23.397Z",
+  "LastModified": "2024-11-25T19:45:23.67Z"
 }

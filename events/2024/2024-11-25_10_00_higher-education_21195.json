@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/11/21195_A_Committee_on_Higher_Education_24-11-25_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/11/21195_M_Committee_on_Higher_Education_24-11-25_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_241125-100159.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21195&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,7 +20,7 @@
       "GUID": "380DB011-2961-40AE-B68E-5D002F1A50F0",
       "Title": "Oversight - CUNY's Response to the Lippman Report.",
       "AgendaSequence": 1,
-      "MinutesSequence": 2,
+      "MinutesSequence": 3,
       "Version": "*",
       "ActionID": 54,
       "ActionName": "Hearing Held by Committee",
@@ -27,7 +29,7 @@
       "MatterFile": "T2024-2637",
       "MatterName": "Oversight - CUNY's Response to the Lippman Report.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Filed",
       "LastModified": "2024-11-25T15:27:32.323Z"
     },
     {
@@ -37,24 +39,80 @@
       "AgendaSequence": 0,
       "MinutesSequence": 1,
       "Version": "",
-      "LastModified": "2024-11-25T15:27:21.667Z"
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        }
+      ],
+      "LastModified": "2024-11-25T20:42:44.813Z"
     },
     {
       "ID": 414932,
       "GUID": "B4D840DD-E3DE-4468-959D-072CEE9FDF0C",
       "Title": "Oversight - CUNY's Response to the Lippman Report.",
       "AgendaSequence": 0,
-      "MinutesSequence": 3,
+      "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
       "MatterID": 74932,
       "MatterFile": "T2024-2637",
       "MatterName": "Oversight - CUNY's Response to the Lippman Report.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-11-25T15:27:24.23Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-11-25T20:43:29.03Z"
+    },
+    {
+      "ID": 414945,
+      "GUID": "BE504DB3-5E2B-4104-A3B2-D258470B7848",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Vernikov, Yeger and Paladino",
+      "LastModified": "2024-11-25T20:43:20.54Z"
     }
   ],
   "AgendaLastPublished": "2024-10-23T21:56:49.663Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-11-25T15:02:00.733Z"
+  "MinutesLastPublished": "2024-11-25T20:43:35.417Z",
+  "LastModified": "2024-11-25T20:43:35.537Z"
 }
