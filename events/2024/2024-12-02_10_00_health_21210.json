@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/12/21210_A_Committee_on_Health_24-12-02_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/12/21210_M_Committee_on_Health_24-12-02_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_241202-101434.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21210&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,43 +20,203 @@
       "GUID": "CB61993E-1BE1-443C-B620-A4DCC1692136",
       "Title": "Oversight - HealthyNYC.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 74953,
       "MatterFile": "T2024-2658",
       "MatterName": "Oversight - HealthyNYC.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-11-04T14:14:37.733Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-12-02T18:40:00.827Z"
     },
     {
       "ID": 414124,
       "GUID": "7F2FF73F-1BA4-4B8F-9AFF-BCD33AFF33F3",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to nutrition standards and beverage options for children’s meals served in food service establishments",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 73525,
       "MatterFile": "Int 0641-2024",
       "MatterName": "Nutrition standards and beverage options for children’s meals served in food service establishments.",
       "MatterType": "Introduction",
-      "LastModified": "2024-11-04T14:14:47.413Z"
+      "LastModified": "2024-12-02T18:40:07.08Z"
     },
     {
       "ID": 414125,
       "GUID": "F2B8C743-F773-443F-A900-75FEDA3AF760",
       "Title": "A Local Law in relation to establishing a sleep apnea screening pilot program and public education and outreach campaign",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 74257,
       "MatterFile": "Int 1047-2024",
       "MatterName": "Establishing a sleep apnea screening pilot program and public education and outreach campaign.",
       "MatterType": "Introduction",
-      "LastModified": "2024-11-04T14:14:55.977Z"
+      "LastModified": "2024-12-02T18:40:13.43Z"
+    },
+    {
+      "ID": 415018,
+      "GUID": "CE32AB29-F817-419A-B1F8-930B056E74F3",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 50
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7749,
+          "Slug": "kalman-yeger",
+          "FullName": "Kalman Yeger",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 90
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        }
+      ],
+      "LastModified": "2024-12-02T18:39:30.76Z"
+    },
+    {
+      "ID": 415019,
+      "GUID": "67465555-27FC-4F5B-91DE-B4DAF70177DF",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Abreu and Riley",
+      "LastModified": "2024-12-02T18:39:56.74Z"
+    },
+    {
+      "ID": 415020,
+      "GUID": "72D8E1AD-8576-427E-A0D4-5829BE3EB21E",
+      "Title": "Oversight - HealthyNYC.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 74953,
+      "MatterFile": "T2024-2658",
+      "MatterName": "Oversight - HealthyNYC.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-12-02T18:40:03.99Z"
+    },
+    {
+      "ID": 415021,
+      "GUID": "A188FF48-085F-401E-BCD4-720849DE324A",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to nutrition standards and beverage options for children’s meals served in food service establishments",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 73525,
+      "MatterFile": "Int 0641-2024",
+      "MatterName": "Nutrition standards and beverage options for children’s meals served in food service establishments.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-12-02T18:40:10.453Z"
+    },
+    {
+      "ID": 415022,
+      "GUID": "4EF9537F-AC55-4186-9700-3954BE5C6BD4",
+      "Title": "A Local Law in relation to establishing a sleep apnea screening pilot program and public education and outreach campaign",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 74257,
+      "MatterFile": "Int 1047-2024",
+      "MatterName": "Establishing a sleep apnea screening pilot program and public education and outreach campaign.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-12-02T18:40:46.017Z"
     }
   ],
   "AgendaLastPublished": "2024-11-04T14:16:13.54Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-12-02T15:14:36.403Z"
+  "MinutesLastPublished": "2024-12-02T18:40:26.557Z",
+  "LastModified": "2024-12-02T18:40:26.68Z"
 }
