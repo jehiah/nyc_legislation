@@ -6,8 +6,8 @@
   "Title": "A Local Law to amend the administrative code of the city of New York, in relation to addressing sewer backups",
   "TypeID": 2,
   "TypeName": "Introduction",
-  "StatusID": 25,
-  "StatusName": "Laid Over in Committee",
+  "StatusID": 24,
+  "StatusName": "Reported from Committee",
   "BodyID": 5290,
   "BodyName": "Committee on Environmental Protection, Resiliency and Waterfronts",
   "IntroDate": "2024-04-18T00:00:00Z",
@@ -117,6 +117,16 @@
       "FullName": "Erik D. Bottcher"
     },
     {
+      "ID": 7867,
+      "Slug": "susan-zhuang",
+      "FullName": "Susan Zhuang"
+    },
+    {
+      "ID": 7746,
+      "Slug": "robert-f-holden",
+      "FullName": "Robert F. Holden"
+    },
+    {
       "ID": 7865,
       "Slug": "kristy-marmorato",
       "FullName": "Kristy Marmorato"
@@ -180,12 +190,154 @@
       "Version": "*",
       "MatterStatusID": 25,
       "LastModified": "2024-04-26T17:42:35.443Z"
+    },
+    {
+      "ID": 415010,
+      "Date": "2024-12-05T07:00:00Z",
+      "ActionID": 54,
+      "Action": "Hearing Held by Committee",
+      "Description": "This Introduction was Hearing Held by Committee",
+      "BodyID": 5290,
+      "BodyName": "Committee on Environmental Protection, Resiliency and Waterfronts",
+      "EventID": 21257,
+      "AgendaSequence": 1,
+      "MinutesSequence": 2,
+      "Version": "*",
+      "AgendaNote": "Proposed Int. No. 814-A",
+      "MinutesNote": "Proposed Int. No. 814-A",
+      "MatterStatusID": 3,
+      "LastModified": "2024-12-05T17:04:48.09Z"
+    },
+    {
+      "ID": 415225,
+      "Date": "2024-12-05T07:00:00Z",
+      "ActionID": 5001,
+      "Action": "Amendment Proposed by Comm",
+      "Description": "This Introduction was Amendment Proposed by Comm",
+      "BodyID": 5290,
+      "BodyName": "Committee on Environmental Protection, Resiliency and Waterfronts",
+      "EventID": 21257,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2024-12-05T17:04:58.053Z"
+    },
+    {
+      "ID": 415226,
+      "Date": "2024-12-05T07:00:00Z",
+      "ActionID": 33,
+      "Action": "Amended by Committee",
+      "Description": "This Introduction was Amended by Committee",
+      "BodyID": 5290,
+      "BodyName": "Committee on Environmental Protection, Resiliency and Waterfronts",
+      "EventID": 21257,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2024-12-05T17:05:06.607Z"
+    },
+    {
+      "ID": 415227,
+      "Date": "2024-12-05T07:00:00Z",
+      "ActionID": 32,
+      "Action": "Approved by Committee",
+      "Description": "This Introduction was Approved by Committee",
+      "BodyID": 5290,
+      "BodyName": "Committee on Environmental Protection, Resiliency and Waterfronts",
+      "EventID": 21257,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterStatusID": 24,
+      "Votes": [
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 10
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 20
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 30
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 40
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 50
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 60
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 70
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 80
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2024-12-05T17:05:46.05Z"
     }
   ],
   "Attachments": [
     {
       "ID": 312160,
-      "LastModified": "2024-12-03T23:41:48.74Z",
+      "LastModified": "2024-12-05T17:05:44.51Z",
       "Name": "Summary of Int. No. 814-A",
       "Link": "https://nyc.legistar1.com/nyc/attachments/ac0a1763-835b-4f87-bb57-fb8d178a914d.docx",
       "Sort": 1
@@ -248,7 +400,7 @@
     },
     {
       "ID": 312152,
-      "LastModified": "2024-12-03T20:35:19.74Z",
+      "LastModified": "2024-12-05T17:05:59.84Z",
       "Name": "Proposed Int. No. 814-A - 12/2/24",
       "Link": "https://nyc.legistar1.com/nyc/attachments/148c85f3-ff08-407c-92ab-b8f8301f2590.docx",
       "Sort": 10
@@ -256,7 +408,7 @@
   ],
   "Summary": "This bill would require that the Department of Environmental Protection (DEP) update by 2025 its plan to prevent sewer backups and conduct further updates every 5 years thereafter. Additionally, the plan would be expanded to include the identification of areas with a significant number of notices of claims filed with the Comptroller alleging losses due to sewer backups. Further, this bill would require DEP to provide timely notice of unconfirmed sewer backups to impacted residents and to sewer backup complainants. Such notice would include a determination from DEP that the backup complaint was not associated with a condition in the city-owned sewer system, a statement that the backup may be related to an adverse condition in a privately-owned sewer, and an informational pamphlet detailing potential causes of backups in privately-owned sewers.",
   "TextID": 78782,
-  "Text": "Be it enacted by the Council as follows:\n      \n      \n      Section 1. Section 24-503.1 of the administrative code of the city of New York, as added by local law number 60 for the year 2019, is amended to read as follows:\n      � 24-503.1 [Confirmed sewer] Sewer backups. a. As used in this section, the following terms have the following meanings:\n      Confirmed sewer backup. The term \"confirmed sewer backup\" means a [sewer backup complaint] determination by the department that, upon field investigation by the department, a sewer backup complaint is [confirmed to be] associated with a condition in a sewer system. Such conditions may include surcharging, temporary overtaxing, blockages, or collapses.\n      Sewer system. The term \"sewer system\" means all sewers, drains, pipes, and appurtenances used to convey sewage and under the jurisdiction of the commissioner of environmental protection.\n      Unconfirmed sewer backup. The term \"unconfirmed sewer backup\" means a determination by the department that, upon field investigation by the department, a sewer backup complaint is associated with a condition other than a condition in a sewer system.\n      b. Where a confirmed sewer backup occurs, the commissioner shall ensure that the sewer segment causing the confirmed sewer backup is identified, inspected, and cleaned as necessary within 10 calendar days of [such] a confirmation by the department of such backup.\n      c. Within 30 calendar days of an unconfirmed sewer backup, the department shall provide notice of such unconfirmed sewer backup to the person who submitted to the department the sewer backup complaint and to the resident of the property about which the complaint was made. Such notice shall provide, but need not be limited to, the following:\n      1. The department's determination that the sewer backup complaint was not associated with a condition in a sewer system;\n      2. A statement that a backup complaint may be related to an adverse condition in a privately owned sewer, pipe, or appurtenance and that if backups continue then such owner should consider conducting an inspection of such privately owned sewer, pipe, or appurtenance; and\n      3. An informational pamphlet regarding potential causes of adverse conditions in privately owned sewers, pipes, and appurtenances that are used to convey sewage from a private property to a sewer system.\n      � 2. Subdivision b of section 24-503.2 of the administrative code of the city of New York, as added by local law number 61 for the year 2019, is amended to read as follows:\n      b. No later than [December 31, 2019] June 30, 2025, and every 5 years thereafter, the commissioner of environmental protection shall submit to the mayor and the speaker of the council, and post on the department of environmental protection's website, a plan to prevent confirmed sewer backups for the sewer system. Such plan shall include, but need not be limited to:\n      1. Confirmed sewer backup prevention and response measures;\n      2. [An identification of] Identifying areas with, on average, more than [one] 1 confirmed sewer backup in a 12-month period;\n      3. Procedures targeting reductions in confirmed sewer backups in the portions of the sewer system most heavily impacted;\n      4. Procedures targeting reductions in recurring confirmed sewer backups;\n      5. A review of root control strategies of other municipalities; and following such review, the department may recommend root control strategies for private property owners; [and]\n      6. A comprehensive grease management program including commercial establishments and residential households; and\n      7. Identifying areas where notices of claim filed with the comptroller during the preceding 5 years allege that a sewer backup has damaged persons or property, to the extent it is practicable for the department to review such notices.\n      � 3. This local law takes effect immediately.\n      \n\nJSA/BJR/NAW/CCM/AGB\nLS #7129/13803\n11/27/2024 4:13 PM\n      3\n      \n      \n      2",
+  "Text": "Be it enacted by the Council as follows:\n      \n      \n      Section 1. Section 24-503.1 of the administrative code of the city of New York, as added by local law number 60 for the year 2019, is amended to read as follows:\n      � 24-503.1 [Confirmed sewer] Sewer backups. a. As used in this section, the following terms have the following meanings:\n      Confirmed sewer backup. The term \"confirmed sewer backup\" means a [sewer backup complaint] determination by the department that, upon field investigation by the department, a sewer backup complaint is [confirmed to be] associated with a condition in a sewer system. Such conditions may include surcharging, temporary overtaxing, blockages, or collapses.\n      Sewer system. The term \"sewer system\" means all sewers, drains, pipes, and appurtenances used to convey sewage and under the jurisdiction of the commissioner of environmental protection.\n      Unconfirmed sewer backup. The term \"unconfirmed sewer backup\" means a determination by the department that, upon field investigation by the department, a sewer backup complaint is associated with a condition other than a condition in a sewer system.\n      b. Where a confirmed sewer backup occurs, the commissioner shall ensure that the sewer segment causing the confirmed sewer backup is identified, inspected, and cleaned as necessary within 10 calendar days of [such] a confirmation by the department of such backup.\n      c. Within 30 calendar days of an unconfirmed sewer backup, the department shall provide notice of such unconfirmed sewer backup to the person who submitted to the department the sewer backup complaint and to the resident of the property about which the complaint was made. Such notice shall provide, but need not be limited to, the following:\n      1. The department's determination that the sewer backup complaint was not associated with a condition in a sewer system;\n      2. A statement that a backup complaint may be related to an adverse condition in a privately owned sewer, pipe, or appurtenance and that if backups continue then such owner should consider conducting an inspection of such privately owned sewer, pipe, or appurtenance; and\n      3. An informational pamphlet regarding potential causes of adverse conditions in privately owned sewers, pipes, and appurtenances that are used to convey sewage from a private property to a sewer system.\n      � 2. Subdivision b of section 24-503.2 of the administrative code of the city of New York, as added by local law number 61 for the year 2019, is amended to read as follows:\n      b. No later than [December 31, 2019] June 30, 2025, and every 5 years thereafter, the commissioner of environmental protection shall submit to the mayor and the speaker of the council, and post on the department of environmental protection's website, a plan to prevent confirmed sewer backups for the sewer system. Such plan shall include, but need not be limited to:\n      1. Confirmed sewer backup prevention and response measures;\n      2. [An identification of] Identifying areas with, on average, more than [one] 1 confirmed sewer backup in a 12-month period;\n      3. Procedures targeting reductions in confirmed sewer backups in the portions of the sewer system most heavily impacted;\n      4. Procedures targeting reductions in recurring confirmed sewer backups;\n      5. A review of root control strategies of other municipalities; and following such review, the department may recommend root control strategies for private property owners; [and]\n      6. A comprehensive grease management program including commercial establishments and residential households; and\n      7. Identifying areas where notices of claim filed with the comptroller during the preceding 5 years allege that a sewer backup has damaged persons or property, to the extent it is practicable for the department to review such notices.\n      � 3. This local law takes effect immediately.\n      \n\nJSA/BJR/NAW/CCM/AGB\nLS #7129/13803\n11/27/2024 4:13 PM\n      1\n      \n      \n      2",
   "RTF": "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang1033\\deflangfe1033{\\fonttbl{\\f0\\froman\\fprq2\\fcharset0 Times New Roman;}}\n{\\colortbl ;\\red33\\green37\\blue41;\\red0\\green0\\blue0;\\red255\\green255\\blue255;}\n\\viewkind4\\uc1\n\\ul\\v0\\par\nBe it enacted by the Council as follows:\\ulnone\\par\n\\pard\\ltrpar\\fi720\\qj\\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qj Section 1. Section 24-503.1 of the administrative code of the city of New York, as added by local law number 60 for the year 2019, is amended to read as follows:\\par\n\\'a7 24-503.1 [Confirmed sewer] \\ul Sewer\\ulnone  backups. a. As used in this section, the following terms have the following meanings:\\par\nConfirmed sewer backup. The term \\ldblquote confirmed sewer backup\\rdblquote  means a [sewer backup complaint] \\ul determination by the department\\ulnone  that, upon field investigation by the department, \\ul a sewer backup complaint\\ulnone  is [confirmed to be] associated with a condition in a sewer system. Such conditions may include surcharging, temporary overtaxing, blockages, or collapses.\\par\nSewer system. The term \\ldblquote sewer system\\rdblquote  means all sewers, drains, pipes\\ul ,\\ulnone  and appurtenances used to convey sewage and under the jurisdiction of the commissioner of environmental protection.\\par\n\\ul Unconfirmed sewer backup. The term \\ldblquote unconfirmed sewer backup\\rdblquote  means a determination by the department that, upon field investigation by the department, a sewer backup complaint is associated with a condition other than a condition in a sewer system.\\ulnone\\par\nb. Where a confirmed sewer backup occurs, the commissioner shall ensure that the sewer segment causing the confirmed sewer backup is identified, inspected, and cleaned as necessary within 10 calendar days of [such] \\ul a\\ulnone  confirmation \\ul by the department of such backup\\ulnone .\\ul\\par\nc. Within 30 calendar days of an unconfirmed sewer backup, the department shall provide notice of such unconfirmed sewer backup to the person who submitted to the department the sewer backup complaint and to the resident of the property about which the complaint was made. Such notice shall provide, but need not be limited to, the following:\\par\n1. The department\\rquote s determination that the sewer backup complaint was not associated with a condition in a sewer system;\\par\n2. A statement that a backup complaint may be related to an adverse condition in a privately owned sewer, pipe, or appurtenance and that if backups continue then such owner should consider conducting an inspection of such privately owned sewer, pipe, or appurtenance; and\\par\n3. An informational pamphlet regarding potential causes of adverse conditions in privately owned sewers, pipes, and appurtenances that are used to convey sewage from a private property to a sewer system.\\ulnone\\par\n\\'a7 2. Subdivision b of section 24-503.2 of the administrative code of the city of New York, as added by local law number 61 for the year 2019, is amended to read as follows:\\par\nb. No later than [December 31, 2019] \\ul June 30, 2025, and every 5 years thereafter\\ulnone , the commissioner of environmental protection shall submit to the mayor and the speaker of the council, and post on the department of environmental \\cf1 protection\\rquote s website, a plan to prevent confirmed sewer backups for the sewer system. Such plan shall include, but need not be limited to:\\par\n1. Confirmed sewer backup prevention and response measures;\\par\n\\pard\\cbpat3\\ltrpar\\fi720\\sl480\\slmult1\\qj 2. [An identification of] \\ul Identifying\\ulnone  areas with, on average, more than [one] \\ul 1\\ulnone  confirmed sewer backup in a 12-month period;\\par\n3. Procedures targeting reductions in confirmed sewer backups in the portions of the sewer system most heavily impacted;\\par\n4. Procedures targeting reductions in recurring confirmed sewer backups;\\par\n5. A review of root control strategies of other municipalities; and following such review, the department may recommend root control strategies for private property owners; [and]\\par\n6. A comprehensive grease management program including commercial establishments and residential households\\ul ; and\\par\n7. Identifying areas where notices of claim filed with the comptroller during the preceding 5 years allege that a sewer backup has damaged persons or property, to the extent it is practicable for the department to review such notices\\ulnone .\\ul\\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qj\\cf2\\ulnone\\'a7 3. This local law takes effect immediately.\\cf0\\ul\\par\n\\pard\\ltrpar\\qj\\ulnone\\fs18\\par\nJSA/BJR/NAW/CCM/AGB\\par\nLS #7129/13803\\par\n\\pard\\ltrpar 11/27/2024 4:13 PM\\par\n}\n",
-  "LastModified": "2024-12-05T12:07:42.087Z"
+  "LastModified": "2024-12-05T17:13:28.917Z"
 }
