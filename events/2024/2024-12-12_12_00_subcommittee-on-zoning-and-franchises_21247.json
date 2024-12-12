@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/12/21247_A_Subcommittee_on_Zoning_and_Franchises_24-12-12_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/12/21247_M_Subcommittee_on_Zoning_and_Franchises_24-12-12_Meeting_Minutes.pdf",
+  "Comment": "VOTE*",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-250-14_241212-120527.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21247&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,18 +21,118 @@
       "GUID": "5C57B217-7870-4D16-8359-CD540963A486",
       "Title": "Application number G 240065 GAX (Kingsbridge Armory ESDC Grant) submitted by the City of New York (the “City”) by and through its Economic Development Corporation requesting from the New York City Council a favorable resolution in support of the City’s application for funding from the New York State Empire State Development Corporation (“ESDC”), pursuant to Section 16-n of the ESDC Act, under the Restore New York Communities Initiative in connection with the redevelopment of the Kingsbridge Armory (Block 3247, Lot 10), Borough of the Bronx, Community District 7, Council District 14. ",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
       "AgendaNote": "Preconsidered",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Land Use Application was Hearing Held by Committee",
       "MatterID": 75103,
       "MatterFile": "T2024-2808",
       "MatterName": "Zoning, Kingsbridge Armory ESDC Grant, Bronx (G 240065 GAX).",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Introduced",
-      "LastModified": "2024-12-11T18:46:58.6Z"
+      "MatterStatus": "Committee",
+      "LastModified": "2024-12-12T18:06:47.967Z"
+    },
+    {
+      "ID": 415284,
+      "GUID": "4765C323-8487-4CA5-A62C-2EC69DA73F23",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2024-12-12T18:23:24.563Z"
+    },
+    {
+      "ID": 415285,
+      "GUID": "49B5FFE5-39EC-4E96-8830-A1538EFED8E6",
+      "Title": "Application number G 240065 GAX (Kingsbridge Armory ESDC Grant) submitted by the City of New York (the “City”) by and through its Economic Development Corporation requesting from the New York City Council a favorable resolution in support of the City’s application for funding from the New York State Empire State Development Corporation (“ESDC”), pursuant to Section 16-n of the ESDC Act, under the Restore New York Communities Initiative in connection with the redevelopment of the Kingsbridge Armory (Block 3247, Lot 10), Borough of the Bronx, Community District 7, Council District 14. ",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 79,
+      "ActionName": "Approved by Subcommittee",
+      "ActionText": "This Land Use Application was Approved by Subcommittee",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 75103,
+      "MatterFile": "T2024-2808",
+      "MatterName": "Zoning, Kingsbridge Armory ESDC Grant, Bronx (G 240065 GAX).",
+      "MatterType": "Land Use Application",
+      "MatterStatus": "Committee",
+      "LastModified": "2024-12-12T18:23:24.647Z"
+    },
+    {
+      "ID": 415287,
+      "GUID": "7E60191A-4FEB-4F13-99AD-95E8B133FA50",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Sanchez",
+      "LastModified": "2024-12-12T18:23:42.97Z"
     }
   ],
   "AgendaLastPublished": "2024-12-11T19:03:13.517Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-12-12T17:24:35.553Z"
+  "MinutesLastPublished": "2024-12-12T18:23:48.213Z",
+  "LastModified": "2024-12-12T18:23:48.28Z"
 }

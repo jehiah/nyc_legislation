@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/12/21222_A_Committee_on_Children_and_Youth_24-12-12_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/12/21222_M_Committee_on_Children_and_Youth_24-12-12_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_241212-100446.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21222&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,45 +20,163 @@
       "GUID": "1171DF4A-BDA6-4F0D-80BD-75BC8D067B38",
       "Title": "Oversight - Examination of ACS’s Preventative Services Programming.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 75036,
       "MatterFile": "T2024-2741",
       "MatterName": "Oversight - Examination of ACS’s Preventative Services Programming.",
       "MatterType": "Oversight",
       "MatterStatus": "Committee",
-      "LastModified": "2024-12-06T20:50:48.81Z"
+      "LastModified": "2024-12-12T19:41:42.563Z"
     },
     {
       "ID": 414598,
       "GUID": "B8764DA9-A225-4BFB-935A-EF28E58FF82E",
       "Title": "A Local Law in relation to requiring the commissioner of health and mental hygiene to establish and operate a pilot program providing free mental health services to children who have been returned to their home following a removal, and providing for the repeal of such provisions upon the expiration thereof",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 6,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 73630,
       "MatterFile": "Int 0652-2024",
       "MatterName": "Establish and operate a pilot program providing free mental health services to children who have been returned to their home following a removal, and providing for the repeal of such provisions upon the expiration thereof.",
       "MatterType": "Introduction",
-      "LastModified": "2024-12-04T15:59:10.603Z"
+      "LastModified": "2024-12-12T19:41:51.08Z"
     },
     {
       "ID": 415140,
       "GUID": "B8E8B43A-4B08-40AD-A56D-637E141F540D",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to providing information about obtaining counsel at the first point of contact during an ACS investigation",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 9-A",
       "MinutesNote": "Proposed Int. No. 9-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 72518,
       "MatterFile": "Int 0009-2024",
       "MatterName": "Providing information about obtaining counsel at the first point of contact during an ACS investigation.",
       "MatterType": "Introduction",
-      "LastModified": "2024-12-04T17:24:53.237Z"
+      "LastModified": "2024-12-12T19:41:46.663Z"
+    },
+    {
+      "ID": 415288,
+      "GUID": "FD110A96-A934-42AE-BC5B-B4D814D7BE74",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 50
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        }
+      ],
+      "LastModified": "2024-12-12T20:52:05.99Z"
+    },
+    {
+      "ID": 415289,
+      "GUID": "073F218D-B431-4085-9E9B-74AB6621F7E7",
+      "Title": "Oversight - Examination of ACS’s Preventative Services Programming.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
+      "MatterID": 75036,
+      "MatterFile": "T2024-2741",
+      "MatterName": "Oversight - Examination of ACS’s Preventative Services Programming.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Committee",
+      "LastModified": "2024-12-12T20:52:12.507Z"
+    },
+    {
+      "ID": 415290,
+      "GUID": "303B6921-BBDA-451C-AFD5-FCF9326A09E4",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to providing information about obtaining counsel at the first point of contact during an ACS investigation",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 72518,
+      "MatterFile": "Int 0009-2024",
+      "MatterName": "Providing information about obtaining counsel at the first point of contact during an ACS investigation.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-12-12T20:52:21.743Z"
+    },
+    {
+      "ID": 415291,
+      "GUID": "BF50698B-0013-4387-9425-795C67E7EFD4",
+      "Title": "A Local Law in relation to requiring the commissioner of health and mental hygiene to establish and operate a pilot program providing free mental health services to children who have been returned to their home following a removal, and providing for the repeal of such provisions upon the expiration thereof",
+      "AgendaSequence": 0,
+      "MinutesSequence": 7,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 73630,
+      "MatterFile": "Int 0652-2024",
+      "MatterName": "Establish and operate a pilot program providing free mental health services to children who have been returned to their home following a removal, and providing for the repeal of such provisions upon the expiration thereof.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-12-12T20:52:29.577Z"
     }
   ],
   "AgendaLastPublished": "2024-12-04T17:25:06.723Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-12-12T15:04:47.85Z"
+  "MinutesLastPublished": "2024-12-12T20:52:36.763Z",
+  "LastModified": "2024-12-12T20:52:36.927Z"
 }
