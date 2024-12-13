@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/12/21218_A_Committee_on_Civil_and_Human_Rights_24-12-12_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/12/21218_M_Committee_on_Civil_and_Human_Rights_24-12-12_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_241212-132909.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21218&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,7 +20,7 @@
       "GUID": "921A7D84-9E5B-4C84-8BC6-A7F19636288D",
       "Title": "Oversight - Discrimination in the Workplace.",
       "AgendaSequence": 1,
-      "MinutesSequence": 2,
+      "MinutesSequence": 3,
       "Version": "*",
       "ActionID": 54,
       "ActionName": "Hearing Held by Committee",
@@ -28,7 +29,7 @@
       "MatterFile": "T2024-2747",
       "MatterName": "Oversight - Discrimination in the Workplace.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Filed",
       "LastModified": "2024-12-12T21:28:54.133Z"
     },
     {
@@ -36,7 +37,7 @@
       "GUID": "AA2B87CA-3DD5-4F97-BE12-A15009901842",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to information required in job listings",
       "AgendaSequence": 2,
-      "MinutesSequence": 4,
+      "MinutesSequence": 5,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 808-A",
       "MinutesNote": "Proposed Int. No. 808-A",
@@ -54,7 +55,7 @@
       "GUID": "B3BE8D45-83D7-4BAD-B261-E08C11661B58",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to extending reasonable workplace accommodations to caregivers",
       "AgendaSequence": 3,
-      "MinutesSequence": 6,
+      "MinutesSequence": 7,
       "Version": "*",
       "ActionID": 54,
       "ActionName": "Hearing Held by Committee",
@@ -70,7 +71,7 @@
       "GUID": "3247D4C1-F19F-4C16-BA65-77AC2A07B784",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to compliance with equal pay laws",
       "AgendaSequence": 4,
-      "MinutesSequence": 8,
+      "MinutesSequence": 9,
       "Version": "*",
       "ActionID": 54,
       "ActionName": "Hearing Held by Committee",
@@ -86,7 +87,7 @@
       "GUID": "EC32E63A-F9EE-4762-BEB7-C18E9360760C",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to a study on pay and employment equity for private employees",
       "AgendaSequence": 5,
-      "MinutesSequence": 10,
+      "MinutesSequence": 11,
       "Version": "*",
       "ActionID": 54,
       "ActionName": "Hearing Held by Committee",
@@ -102,7 +103,7 @@
       "GUID": "EDF4BAFE-6A4B-4CCB-9035-3D0DBD51B3E8",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring transparency concerning promotional opportunities",
       "AgendaSequence": 6,
-      "MinutesSequence": 12,
+      "MinutesSequence": 13,
       "Version": "*",
       "ActionID": 54,
       "ActionName": "Hearing Held by Committee",
@@ -120,89 +121,160 @@
       "AgendaSequence": 0,
       "MinutesSequence": 1,
       "Version": "",
-      "LastModified": "2024-12-12T21:27:34.717Z"
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 50
+        }
+      ],
+      "LastModified": "2024-12-13T19:26:08.103Z"
     },
     {
       "ID": 415307,
       "GUID": "49D93C75-D5C2-48E2-B4A3-4ADC8473755B",
       "Title": "Oversight - Discrimination in the Workplace.",
       "AgendaSequence": 0,
-      "MinutesSequence": 3,
+      "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
       "MatterID": 75042,
       "MatterFile": "T2024-2747",
       "MatterName": "Oversight - Discrimination in the Workplace.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-12-12T21:27:36.557Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-12-13T19:27:09.733Z"
     },
     {
       "ID": 415308,
       "GUID": "2A24DD1B-9C68-4CBD-9556-8E4FD6E4C339",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring transparency concerning promotional opportunities",
       "AgendaSequence": 0,
-      "MinutesSequence": 13,
+      "MinutesSequence": 14,
       "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
       "MatterID": 74796,
       "MatterFile": "Int 1064-2024",
       "MatterName": "Requiring transparency concerning promotional opportunities.",
       "MatterType": "Introduction",
-      "LastModified": "2024-12-12T21:28:39.92Z"
+      "LastModified": "2024-12-13T19:27:26.727Z"
     },
     {
       "ID": 415309,
       "GUID": "8152D2A1-C6D9-4562-BCAF-E79C49BDC823",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to a study on pay and employment equity for private employees",
       "AgendaSequence": 0,
-      "MinutesSequence": 11,
+      "MinutesSequence": 12,
       "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
       "MatterID": 74500,
       "MatterFile": "Int 0984-2024",
       "MatterName": "Study on pay and employment equity for private employees.",
       "MatterType": "Introduction",
-      "LastModified": "2024-12-12T21:27:48.14Z"
+      "LastModified": "2024-12-13T19:27:24.2Z"
     },
     {
       "ID": 415310,
       "GUID": "619B2479-4511-43E9-91C0-90C871C2D94C",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to compliance with equal pay laws",
       "AgendaSequence": 0,
-      "MinutesSequence": 9,
+      "MinutesSequence": 10,
       "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
       "MatterID": 74557,
       "MatterFile": "Int 0982-2024",
       "MatterName": "Compliance with equal pay laws.",
       "MatterType": "Introduction",
-      "LastModified": "2024-12-12T21:27:59.303Z"
+      "LastModified": "2024-12-13T19:27:54.877Z"
     },
     {
       "ID": 415311,
       "GUID": "D83CB79B-EFAD-415C-B99D-17C296229A43",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to extending reasonable workplace accommodations to caregivers",
       "AgendaSequence": 0,
-      "MinutesSequence": 7,
+      "MinutesSequence": 8,
       "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
       "MatterID": 71704,
       "MatterFile": "Int 0871-2024",
       "MatterName": "Extending reasonable workplace accommodations to caregivers.",
       "MatterType": "Introduction",
-      "LastModified": "2024-12-12T21:28:30.717Z"
+      "LastModified": "2024-12-13T19:27:16.88Z"
     },
     {
       "ID": 415312,
       "GUID": "1E2E31D2-D579-42DF-A0E7-8F40E67F1E35",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to information required in job listings",
       "AgendaSequence": 0,
-      "MinutesSequence": 5,
+      "MinutesSequence": 6,
       "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
       "MatterID": 73434,
       "MatterFile": "Int 0808-2024",
       "MatterName": "Information required in job listings.",
       "MatterType": "Introduction",
-      "LastModified": "2024-12-12T21:28:39.93Z"
+      "LastModified": "2024-12-13T19:27:13.58Z"
+    },
+    {
+      "ID": 415317,
+      "GUID": "264CAA1C-B544-49B6-B1F4-06888EB9CE05",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Farías, Brooks-Powers, Hanks and Cabán ",
+      "LastModified": "2024-12-13T19:27:04.677Z"
     }
   ],
   "AgendaLastPublished": "2024-11-26T17:02:42.13Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-12-12T21:06:19.207Z"
+  "MinutesLastPublished": "2024-12-13T19:28:01.537Z",
+  "LastModified": "2024-12-13T19:28:01.693Z"
 }
