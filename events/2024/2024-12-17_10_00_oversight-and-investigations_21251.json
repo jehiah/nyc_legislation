@@ -8,10 +8,13 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/12/21251_A_Committee_on_Oversight_and_Investigations_24-12-17_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/12/21251_M_Committee_on_Oversight_and_Investigations_24-12-17_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on General Welfare, the Committee on Finance and the Committee on Contracts.",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_241217-100812.mp4",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_241217-100812.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21251&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,16 +22,16 @@
       "GUID": "482F1807-F459-4835-A2F9-94C637F15291",
       "Title": "Jointly with the Committee on General Welfare, the Committee on Finance and the Committee on Contracts",
       "AgendaSequence": 3,
-      "MinutesSequence": 7,
+      "MinutesSequence": 6,
       "Version": "",
-      "LastModified": "2024-12-17T15:22:20.523Z"
+      "LastModified": "2024-12-17T20:17:35.477Z"
     },
     {
       "ID": 415000,
       "GUID": "65994B66-92AD-41E0-AED5-498F8D6CBC3A",
       "Title": "Oversight – Examining the Mayoral Administration’s Oversight of City-Funded Homeless Shelter Providers.",
       "AgendaSequence": 1,
-      "MinutesSequence": 3,
+      "MinutesSequence": 2,
       "Version": "*",
       "ActionID": 54,
       "ActionName": "Hearing Held by Committee",
@@ -37,15 +40,15 @@
       "MatterFile": "T2024-2814",
       "MatterName": "Oversight – Examining the Mayoral Administration’s Oversight of City-Funded Homeless Shelter Providers.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-12-17T15:22:29.74Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-12-17T20:17:35.473Z"
     },
     {
       "ID": 415142,
       "GUID": "FE98EAB7-32DF-4B80-AD9B-A2D93347EFA1",
       "Title": "A Local Law in relation to reporting on shelter food consumption, and providing the repeal thereof.",
       "AgendaSequence": 2,
-      "MinutesSequence": 5,
+      "MinutesSequence": 4,
       "Version": "*",
       "ActionID": 54,
       "ActionName": "Hearing Held by Committee",
@@ -54,7 +57,7 @@
       "MatterFile": "Int 0979-2024",
       "MatterName": "Reporting on shelter food consumption, and providing the repeal thereof.",
       "MatterType": "Introduction",
-      "LastModified": "2024-12-17T15:22:33.213Z"
+      "LastModified": "2024-12-17T21:26:43.333Z"
     },
     {
       "ID": 415377,
@@ -63,47 +66,118 @@
       "AgendaSequence": 0,
       "MinutesSequence": 1,
       "Version": "",
-      "LastModified": "2024-12-17T15:22:23.67Z"
-    },
-    {
-      "ID": 415378,
-      "GUID": "4B7F9730-5F87-474A-8847-76FEFA0A5862",
-      "Title": "",
-      "AgendaSequence": 0,
-      "MinutesSequence": 2,
-      "Version": "",
-      "MinutesNote": "Other Council Members Attending: ",
-      "LastModified": "2024-12-17T15:22:27.103Z"
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7749,
+          "Slug": "kalman-yeger",
+          "FullName": "Kalman Yeger",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2024-12-17T20:17:35.47Z"
     },
     {
       "ID": 415379,
       "GUID": "65304774-2EE4-4E53-8FE3-1EC75DE8397E",
       "Title": "Oversight – Examining the Mayoral Administration’s Oversight of City-Funded Homeless Shelter Providers.",
       "AgendaSequence": 0,
-      "MinutesSequence": 4,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
       "MatterID": 75109,
       "MatterFile": "T2024-2814",
       "MatterName": "Oversight – Examining the Mayoral Administration’s Oversight of City-Funded Homeless Shelter Providers.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-12-17T15:22:18.607Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-12-17T20:17:35.473Z"
     },
     {
       "ID": 415380,
       "GUID": "17F3EB2E-0C05-4E4C-97AC-BEE9C95FDB27",
       "Title": "A Local Law in relation to reporting on shelter food consumption, and providing the repeal thereof.",
       "AgendaSequence": 0,
-      "MinutesSequence": 6,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
       "MatterID": 74424,
       "MatterFile": "Int 0979-2024",
       "MatterName": "Reporting on shelter food consumption, and providing the repeal thereof.",
       "MatterType": "Introduction",
-      "LastModified": "2024-12-17T15:22:20.527Z"
+      "LastModified": "2024-12-17T21:26:48.003Z"
     }
   ],
   "AgendaLastPublished": "2024-12-03T15:59:47.72Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-12-17T15:08:14.447Z"
+  "MinutesLastPublished": "2024-12-17T20:17:47.637Z",
+  "LastModified": "2024-12-17T20:17:47.653Z"
 }

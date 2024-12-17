@@ -8,37 +8,153 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/12/21254_A_Committee_on_Contracts_24-12-17_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/12/21254_M_Committee_on_Contracts_24-12-17_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Oversight and Investigations, the Committee on General Welfare and the Committee on Finance",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_241217-100812.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21254&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
       "ID": 414996,
       "GUID": "B7A6E5E4-669D-48BB-9982-7A4E6A3DFEBD",
       "Title": "Jointly with the Committee on Oversight and Investigations and the Committee on General Welfare and the Committee on Finance",
-      "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "AgendaSequence": 3,
+      "MinutesSequence": 7,
       "Version": "",
-      "LastModified": "2024-11-27T20:52:34.437Z"
+      "LastModified": "2024-12-17T15:21:12.267Z"
     },
     {
       "ID": 414997,
       "GUID": "D682187B-E8CC-4E03-B025-1EA205CB7E14",
       "Title": "Oversight – Examining the Mayoral Administration’s Oversight of City-Funded Homeless Shelter Providers.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 75106,
       "MatterFile": "T2024-2811",
       "MatterName": "Oversight – Examining the Mayoral Administration’s Oversight of City-Funded Homeless Shelter Providers.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-12-02T21:08:19.61Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2024-12-17T15:21:29.837Z"
+    },
+    {
+      "ID": 415145,
+      "GUID": "6E9DAAB1-3607-4DDD-9941-61DFB984072E",
+      "Title": "A Local Law in relation to reporting on shelter food consumption, and providing the repeal thereof.",
+      "AgendaSequence": 2,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
+      "MatterID": 74424,
+      "MatterFile": "Int 0979-2024",
+      "MatterName": "Reporting on shelter food consumption, and providing the repeal thereof.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-12-17T21:27:00.987Z"
+    },
+    {
+      "ID": 415369,
+      "GUID": "514B10CA-5BA4-43BD-AE13-207B7DF90784",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 30
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        }
+      ],
+      "LastModified": "2024-12-17T19:13:55.373Z"
+    },
+    {
+      "ID": 415370,
+      "GUID": "E55B7E31-C7B6-4DEB-9060-07B4CE42C267",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Salaam, Louis, Brannan, Brewer, Hudson, Farías, Avilés, Cabán, Ossé, Carr, Brooks-Powers, Moya, Williams, Powers, Zhuang, Joseph, Rivera and Krishnan",
+      "LastModified": "2024-12-17T20:14:15.347Z"
+    },
+    {
+      "ID": 415371,
+      "GUID": "C0B70AE3-8C29-436C-A323-45286378DE08",
+      "Title": "Oversight – Examining the Mayoral Administration’s Oversight of City-Funded Homeless Shelter Providers.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 75106,
+      "MatterFile": "T2024-2811",
+      "MatterName": "Oversight – Examining the Mayoral Administration’s Oversight of City-Funded Homeless Shelter Providers.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2024-12-17T19:07:36.78Z"
+    },
+    {
+      "ID": 415372,
+      "GUID": "CB87F26B-66CB-4EED-B73F-46D321BFADE8",
+      "Title": "A Local Law in relation to reporting on shelter food consumption, and providing the repeal thereof.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 74424,
+      "MatterFile": "Int 0979-2024",
+      "MatterName": "Reporting on shelter food consumption, and providing the repeal thereof.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-12-17T21:27:05.333Z"
     }
   ],
   "AgendaLastPublished": "2024-12-03T16:00:31.99Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-12-03T16:00:32.07Z"
+  "MinutesLastPublished": "2024-12-17T20:14:59.227Z",
+  "LastModified": "2024-12-17T20:14:59.26Z"
 }
