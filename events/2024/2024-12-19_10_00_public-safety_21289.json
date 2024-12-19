@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2024/12/21289_A_Committee_on_Public_Safety_24-12-19_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2024/12/21289_M_Committee_on_Public_Safety_24-12-19_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_241219-103522.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21289&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,18 +21,179 @@
       "GUID": "16D545D0-30EA-4600-818D-2C9A0E09C7BB",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to reimbursing small nonpublic schools for the cost of security guard services",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 532-A",
       "MinutesNote": "Proposed Int. No. 532-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 73410,
       "MatterFile": "Int 0532-2024",
       "MatterName": "Reimbursing small nonpublic schools for the cost of security guard services.",
       "MatterType": "Introduction",
-      "LastModified": "2024-12-16T18:39:11.177Z"
+      "LastModified": "2024-12-19T16:11:00.613Z"
+    },
+    {
+      "ID": 415733,
+      "GUID": "E1D7209E-C36B-4C17-A326-4F0A2DFB3787",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        },
+        {
+          "ID": 7740,
+          "Slug": "carlina-rivera",
+          "FullName": "Carlina Rivera",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 100
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 110
+        },
+        {
+          "ID": 7749,
+          "Slug": "kalman-yeger",
+          "FullName": "Kalman Yeger",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        }
+      ],
+      "LastModified": "2024-12-19T16:11:53.397Z"
+    },
+    {
+      "ID": 415734,
+      "GUID": "5369AB81-2BB0-4993-B51C-4C5B9C8B4DC0",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to reimbursing small nonpublic schools for the cost of security guard services",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 73410,
+      "MatterFile": "Int 0532-2024",
+      "MatterName": "Reimbursing small nonpublic schools for the cost of security guard services.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-12-19T16:11:06.473Z"
+    },
+    {
+      "ID": 415735,
+      "GUID": "DA83FD68-4358-471B-BB96-86A0202382AD",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to reimbursing small nonpublic schools for the cost of security guard services",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 73410,
+      "MatterFile": "Int 0532-2024",
+      "MatterName": "Reimbursing small nonpublic schools for the cost of security guard services.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-12-19T16:11:14.92Z"
+    },
+    {
+      "ID": 415736,
+      "GUID": "731A9C68-B3E4-4160-BBD0-BDD4A2EDD915",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to reimbursing small nonpublic schools for the cost of security guard services",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "This Introduction was Approved by Committee",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 73410,
+      "MatterFile": "Int 0532-2024",
+      "MatterName": "Reimbursing small nonpublic schools for the cost of security guard services.",
+      "MatterType": "Introduction",
+      "LastModified": "2024-12-19T16:13:25.11Z"
     }
   ],
   "AgendaLastPublished": "2024-12-16T19:56:41.82Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-12-16T19:56:41.837Z"
+  "MinutesLastPublished": "2024-12-19T16:13:30.75Z",
+  "LastModified": "2024-12-19T16:13:30.837Z"
 }
