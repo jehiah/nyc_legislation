@@ -8,7 +8,7 @@ set -e
 
 declare -a RECENT_YEARS
 CURRENT_YEAR=$(date +%Y)
-CURRENT_YEAR="2024"
+CURRENT_YEAR="2025"
 START=${START:-"2024"}
 while [ $START -le $CURRENT_YEAR ]; do
     RECENT_YEARS+=( "${START}" )
@@ -69,19 +69,19 @@ for PERSON in people/*.json; do
         continue
     fi
     echo "building legislation_$(basename $PERSON)"
-    if [ -e introduction/2024 ]; then
-        jq -c -s "map(select(.Sponsors[]?.ID == ${PERSON_ID})) | map(del(.RTF,.GUID,.TextID,.StatusID,.TypeID,.TypeName,.AgendaDate,.Attachments,.Text,.Version)) | map(.History = [(.History[]? | del(.Votes))])" introduction/2024/????.json > build/legislation_$(basename $PERSON .json).json;
+    if [ -e introduction/2025 ]; then
+        jq -c -s "map(select(.Sponsors[]?.ID == ${PERSON_ID})) | map(del(.RTF,.GUID,.TextID,.StatusID,.TypeID,.TypeName,.AgendaDate,.Attachments,.Text,.Version)) | map(.History = [(.History[]? | del(.Votes))])" introduction/2024/????.json introduction/2025/????.json > build/legislation_$(basename $PERSON .json).json;
     else
-        jq -c -s "map(select(.Sponsors[]?.ID == ${PERSON_ID})) | map(del(.RTF,.GUID,.TextID,.StatusID,.TypeID,.TypeName,.AgendaDate,.Attachments,.Text, .Version)) | map(.History = [(.History[]? | del(.Votes))])" introduction/2022/????.json introduction/2023/????.json  > build/legislation_$(basename $PERSON .json).json;
+        jq -c -s "map(select(.Sponsors[]?.ID == ${PERSON_ID})) | map(del(.RTF,.GUID,.TextID,.StatusID,.TypeID,.TypeName,.AgendaDate,.Attachments,.Text,.Version)) | map(.History = [(.History[]? | del(.Votes))])" introduction/2024/????.json > build/legislation_$(basename $PERSON .json).json;
     fi
 done
 
-if [ -e introduction/2024 ]; then
+if [ -e introduction/2025 ]; then
+    echo "building search_index_2024-2025.json"
+    jq -c -s "map({File, Name, Title, Summary, StatusName, LastModified:  ([.History[]? | select(.ActionID == 27 or .ActionID == 33 or .ActionID == 32 or .ActionID == 68 or .ActionID == 58)])[-1]?.Date})" introduction/2024/????.json introduction/2025/????.json > build/search_index_2024-2025.json
+else
     echo "building search_index_2024-2025.json"
     jq -c -s "map({File, Name, Title, Summary, StatusName, LastModified:  ([.History[]? | select(.ActionID == 27 or .ActionID == 33 or .ActionID == 32 or .ActionID == 68 or .ActionID == 58)])[-1]?.Date})" introduction/2024/????.json > build/search_index_2024-2025.json
-else
-    echo "building search_index_2022-2023.json"
-    jq -c -s "map({File, Name, Title, Summary, StatusName, LastModified:  ([.History[]? | select(.ActionID == 27 or .ActionID == 33 or .ActionID == 32 or .ActionID == 68 or .ActionID == 58)])[-1]?.Date})" introduction/2022/????.json introduction/2023/????.json > build/search_index_2022-2023.json
 fi
 
 for FILE in resubmit/*.json; do
