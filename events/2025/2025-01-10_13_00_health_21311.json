@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/1/21311_A_Committee_on_Health_25-01-10_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/1/21311_M_Committee_on_Health_25-01-10_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Hospitals and the Committee on Civil Service and Labor",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_250110-130951.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21311&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,26 +21,140 @@
       "GUID": "A0FE1B08-25FA-4B72-B18F-FEF93396B452",
       "Title": "Oversight - Health and Hospitals Doctors Council Work Stoppage.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 75207,
       "MatterFile": "T2025-2912",
       "MatterName": "Oversight - Health and Hospitals Doctors Council Work Stoppage.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-12-30T14:21:37.193Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-01-13T15:14:45.92Z"
     },
     {
       "ID": 415825,
       "GUID": "DB63D451-F05F-4FF1-85AC-7972DD2675E3",
       "Title": "Jointly with the Committee on Hospitals and the Committee on Civil Service and Labor",
       "AgendaSequence": 2,
+      "MinutesSequence": 5,
+      "Version": "",
+      "LastModified": "2025-01-13T15:13:28.133Z"
+    },
+    {
+      "ID": 416059,
+      "GUID": "F0A127BA-4CA7-479C-AD76-4A7079D34165",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        }
+      ],
+      "LastModified": "2025-01-13T15:13:38.637Z"
+    },
+    {
+      "ID": 416060,
+      "GUID": "CE843291-9A4A-4602-8960-5C6A75F8C32D",
+      "Title": "Oversight - Health and Hospitals Doctors Council Work Stoppage.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 75207,
+      "MatterFile": "T2025-2912",
+      "MatterName": "Oversight - Health and Hospitals Doctors Council Work Stoppage.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-01-13T15:14:52.37Z"
+    },
+    {
+      "ID": 416061,
+      "GUID": "86D4DF7D-9237-43C3-9668-10BBFEA27C5F",
+      "Title": "",
+      "AgendaSequence": 0,
       "MinutesSequence": 2,
       "Version": "",
-      "LastModified": "2024-12-30T14:21:23.08Z"
+      "MinutesNote": "Other Council Members Attending: Moya, Cabán, De La Rosa, Bottcher, Dinowitz, Brooks-Powers and Brewer",
+      "LastModified": "2025-01-13T15:14:42.383Z"
     }
   ],
   "AgendaLastPublished": "2024-12-30T14:21:42.25Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-12-30T14:21:42.283Z"
+  "MinutesLastPublished": "2025-01-13T15:14:59.283Z",
+  "LastModified": "2025-01-13T15:14:59.407Z"
 }
