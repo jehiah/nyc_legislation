@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/1/21262_A_Committee_on_Finance_25-01-14_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/1/21262_M_Committee_on_Finance_25-01-14_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_250114-100531.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21262&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,70 +20,323 @@
       "GUID": "40FB270B-22E6-4024-9C21-744B45F406A3",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to outreach to property owners subject to municipal property taxes",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 782-A",
       "MinutesNote": "Proposed Int. No. 782-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 74061,
       "MatterFile": "Int 0782-2024",
       "MatterName": "Outreach to property owners subject to municipal property taxes.",
       "MatterType": "Introduction",
-      "LastModified": "2025-01-08T22:11:21.187Z"
+      "LastModified": "2025-01-14T17:36:51.52Z"
     },
     {
       "ID": 415024,
       "GUID": "1D3C4FCF-6B0F-4CC6-89D5-AF939645D281",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the public recording of tax liens",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 74062,
       "MatterFile": "Int 0783-2024",
       "MatterName": "Public recording of tax liens.",
       "MatterType": "Introduction",
-      "LastModified": "2025-01-08T22:04:44.147Z"
+      "LastModified": "2025-01-14T17:36:58.157Z"
     },
     {
       "ID": 415025,
       "GUID": "E6B4B52A-9255-420F-839D-60FE1D423203",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to providing notification to council members of the recording of certain real estate instruments",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 73458,
       "MatterFile": "Int 0889-2024",
       "MatterName": "Providing notification to council members of the recording of certain real estate instruments.",
       "MatterType": "Introduction",
-      "LastModified": "2025-01-08T22:04:37.427Z"
+      "LastModified": "2025-01-14T17:37:07.083Z"
     },
     {
       "ID": 415026,
       "GUID": "E7769376-9F13-466C-8E3D-2D9E2D6BC40D",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to notifying interested parties of the recording of certain real estate instruments",
       "AgendaSequence": 4,
-      "MinutesSequence": 4,
+      "MinutesSequence": 9,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 74851,
       "MatterFile": "Int 1086-2024",
       "MatterName": "Notifying interested parties of the recording of certain real estate instruments.",
       "MatterType": "Introduction",
-      "LastModified": "2025-01-08T22:04:37.427Z"
+      "LastModified": "2025-01-14T17:37:14.857Z"
     },
     {
       "ID": 416006,
       "GUID": "A9E4B23A-DED0-4346-8EAA-92FB5033492B",
       "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, legislation allowing for property owners who receive tax exemptions to have the exemption apply retroactively where eligible.",
       "AgendaSequence": 5,
-      "MinutesSequence": 5,
+      "MinutesSequence": 11,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 74063,
       "MatterFile": "Res 0327-2024",
       "MatterName": "Allowing for property owners who receive tax exemptions to have the exemption apply retroactively where eligible.",
       "MatterType": "Resolution",
-      "LastModified": "2025-01-08T22:04:37.43Z"
+      "LastModified": "2025-01-14T17:37:22.82Z"
+    },
+    {
+      "ID": 416109,
+      "GUID": "FB21DC84-FFA9-4EA2-B9AD-2AA435D43042",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 30
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 70
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 90
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 100
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 110
+        },
+        {
+          "ID": 7741,
+          "Slug": "keith-powers",
+          "FullName": "Keith Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 130
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 66,
+          "Value": "Parental ",
+          "Sort": 140
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 150
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 160
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 170
+        }
+      ],
+      "LastModified": "2025-01-14T17:35:31.657Z"
+    },
+    {
+      "ID": 416110,
+      "GUID": "61E9D0B5-0DDA-4EB5-995C-9EF96BA7DA37",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Nurse",
+      "LastModified": "2025-01-14T17:32:43.72Z"
+    },
+    {
+      "ID": 416111,
+      "GUID": "1C5C2687-FD01-45C5-B5A1-BE9B1F562BCC",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to outreach to property owners subject to municipal property taxes",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 74061,
+      "MatterFile": "Int 0782-2024",
+      "MatterName": "Outreach to property owners subject to municipal property taxes.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-01-14T17:36:54.737Z"
+    },
+    {
+      "ID": 416112,
+      "GUID": "D65764AE-F839-4C59-BCB9-48B45240E132",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the public recording of tax liens",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 74062,
+      "MatterFile": "Int 0783-2024",
+      "MatterName": "Public recording of tax liens.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-01-14T17:37:02.007Z"
+    },
+    {
+      "ID": 416113,
+      "GUID": "FE449D88-2808-48DB-8290-1658C4A51B7C",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to providing notification to council members of the recording of certain real estate instruments",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 73458,
+      "MatterFile": "Int 0889-2024",
+      "MatterName": "Providing notification to council members of the recording of certain real estate instruments.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-01-14T17:37:11.743Z"
+    },
+    {
+      "ID": 416114,
+      "GUID": "70838E3C-F5E8-427E-ABA4-E228131A37F6",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to notifying interested parties of the recording of certain real estate instruments",
+      "AgendaSequence": 0,
+      "MinutesSequence": 10,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 74851,
+      "MatterFile": "Int 1086-2024",
+      "MatterName": "Notifying interested parties of the recording of certain real estate instruments.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-01-14T17:37:18.343Z"
+    },
+    {
+      "ID": 416115,
+      "GUID": "3DD5FBAC-157F-4CD1-A95A-AADDE195C4F0",
+      "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, legislation allowing for property owners who receive tax exemptions to have the exemption apply retroactively where eligible.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 12,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 74063,
+      "MatterFile": "Res 0327-2024",
+      "MatterName": "Allowing for property owners who receive tax exemptions to have the exemption apply retroactively where eligible.",
+      "MatterType": "Resolution",
+      "LastModified": "2025-01-14T17:37:32.827Z"
     }
   ],
   "AgendaLastPublished": "2025-01-08T22:11:27.48Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-01-08T22:11:27.527Z"
+  "MinutesLastPublished": "2025-01-14T17:37:39.217Z",
+  "LastModified": "2025-01-14T17:37:39.263Z"
 }
