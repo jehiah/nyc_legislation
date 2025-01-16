@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/1/21244_A_Committee_on_Immigration_25-01-16_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/1/21244_M_Committee_on_Immigration_25-01-16_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_250116-102111.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21244&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,45 +20,181 @@
       "GUID": "7CC44808-754E-48D6-A7E6-61EC8FE35583",
       "Title": "Oversight - Protection for Immigrant Communities.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 75086,
       "MatterFile": "T2024-2791",
       "MatterName": "Oversight - Protection for Immigrant Communities.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-01-13T18:52:01.843Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-01-16T21:52:46.783Z"
     },
     {
       "ID": 416079,
       "GUID": "14C8FACC-B275-4B4E-A65B-D1952952523A",
       "Title": "Resolution calling on the New York State Legislature to reintroduce and pass, and the Governor to sign, the New York for All Act, which would prohibit and regulate the discovery and disclosure of immigration status by New York state and local government entities.",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
       "AgendaNote": "Preconsidered",
+      "ActionID": 15,
+      "ActionName": "Hearing on P-C Item by Comm",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 75265,
       "MatterFile": "T2025-2970",
       "MatterName": "The New York for All Act, which would prohibit and regulate the discovery and disclosure of immigration status by New York state and local government entities.",
       "MatterType": "Resolution",
-      "LastModified": "2025-01-13T18:52:31.457Z"
+      "LastModified": "2025-01-16T21:54:30.52Z"
     },
     {
       "ID": 416080,
       "GUID": "F52DD618-28D0-4967-ABD1-F12978E06AF1",
       "Title": "Resolution calling on the New York State Legislature to pass and the Governor to sign A.270/S.141, also known as the Access to Representation Act, which establishes the right to legal counsel in immigration court proceedings and provides for the administration thereof.",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
       "AgendaNote": "Preconsidered",
+      "ActionID": 15,
+      "ActionName": "Hearing on P-C Item by Comm",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 75266,
       "MatterFile": "T2025-2971",
       "MatterName": "Access to Representation Act, which establishes the right to legal counsel in immigration court proceedings and provides for the administration thereof (A.270/S.141).",
       "MatterType": "Resolution",
-      "LastModified": "2025-01-13T19:01:23.7Z"
+      "LastModified": "2025-01-16T21:54:43.407Z"
+    },
+    {
+      "ID": 416151,
+      "GUID": "CE28B3F9-4C22-4CF5-82AA-0A243D0FB7C4",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2025-01-16T21:52:10.91Z"
+    },
+    {
+      "ID": 416152,
+      "GUID": "013A54FB-C039-4DE6-AF96-CCEE0DD5D7AD",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Nurse, Hudson and Public Advocate Williams",
+      "LastModified": "2025-01-16T21:52:38.11Z"
+    },
+    {
+      "ID": 416153,
+      "GUID": "A0A012C5-2F5A-4B69-A264-3DAB32DBD4F5",
+      "Title": "Oversight - Protection for Immigrant Communities.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 75086,
+      "MatterFile": "T2024-2791",
+      "MatterName": "Oversight - Protection for Immigrant Communities.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-01-16T21:52:50.713Z"
+    },
+    {
+      "ID": 416154,
+      "GUID": "C7C54297-3C9A-4B56-9110-9E1752CAF008",
+      "Title": "Resolution calling on the New York State Legislature to reintroduce and pass, and the Governor to sign, the New York for All Act, which would prohibit and regulate the discovery and disclosure of immigration status by New York state and local government entities.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 5018,
+      "ActionName": "P-C Item Laid Over by Comm",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 75265,
+      "MatterFile": "T2025-2970",
+      "MatterName": "The New York for All Act, which would prohibit and regulate the discovery and disclosure of immigration status by New York state and local government entities.",
+      "MatterType": "Resolution",
+      "LastModified": "2025-01-16T21:54:36.41Z"
+    },
+    {
+      "ID": 416155,
+      "GUID": "D6034516-F0B8-40A8-A506-EF9FE4C3AC60",
+      "Title": "Resolution calling on the New York State Legislature to pass and the Governor to sign A.270/S.141, also known as the Access to Representation Act, which establishes the right to legal counsel in immigration court proceedings and provides for the administration thereof.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 5018,
+      "ActionName": "P-C Item Laid Over by Comm",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 75266,
+      "MatterFile": "T2025-2971",
+      "MatterName": "Access to Representation Act, which establishes the right to legal counsel in immigration court proceedings and provides for the administration thereof (A.270/S.141).",
+      "MatterType": "Resolution",
+      "LastModified": "2025-01-16T21:54:51.943Z"
     }
   ],
   "AgendaLastPublished": "2025-01-13T19:03:20.237Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-01-16T15:21:13.013Z"
+  "MinutesLastPublished": "2025-01-16T21:54:59.897Z",
+  "LastModified": "2025-01-16T21:54:59.993Z"
 }
