@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/1/21292_A_Committee_on_Sanitation_and_Solid_Waste_Management_25-01-22_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/1/21292_M_Committee_on_Sanitation_and_Solid_Waste_Management_25-01-22_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-250-14_250122-100533.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21292&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,43 +20,201 @@
       "GUID": "B1950A74-5E0D-425C-94F6-B56522A1CF7E",
       "Title": "Oversight - DSNY’S Snow Preparedness Plans for the 2025 Winter Season.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 75189,
       "MatterFile": "T2024-2894",
       "MatterName": "Oversight - DSNY’S Snow Preparedness Plans for the 2025 Winter Season.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2024-12-20T17:44:27.6Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-01-22T16:14:28.94Z"
     },
     {
       "ID": 415779,
       "GUID": "ECF2B5B8-04AE-431A-A534-644CBCD3FB90",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the emergency and resiliency plans of the department of sanitation",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 72833,
       "MatterFile": "Int 0355-2024",
       "MatterName": "The emergency and resiliency plans of the department of sanitation.",
       "MatterType": "Introduction",
-      "LastModified": "2024-12-20T17:44:35.83Z"
+      "LastModified": "2025-01-22T16:14:31.31Z"
     },
     {
       "ID": 415780,
       "GUID": "29569CAA-6729-4345-883D-219C682B2B8F",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to increasing penalties on chain businesses for failure to remove snow, ice and dirt from sidewalks",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 6,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 72549,
       "MatterFile": "Int 0534-2024",
       "MatterName": "Increasing penalties on chain businesses for failure to remove snow, ice and dirt from sidewalks.",
       "MatterType": "Introduction",
-      "LastModified": "2024-12-20T17:45:14.873Z"
+      "LastModified": "2025-01-22T16:14:33.717Z"
+    },
+    {
+      "ID": 416248,
+      "GUID": "D3E64B42-AB7D-42F9-8EAA-17037B760B7D",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 80
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        }
+      ],
+      "LastModified": "2025-01-22T16:14:24.47Z"
+    },
+    {
+      "ID": 416249,
+      "GUID": "5EE2C09F-BE54-4B3C-A33C-7CC59D0584FC",
+      "Title": "Oversight - DSNY’S Snow Preparedness Plans for the 2025 Winter Season.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 75189,
+      "MatterFile": "T2024-2894",
+      "MatterName": "Oversight - DSNY’S Snow Preparedness Plans for the 2025 Winter Season.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-01-22T16:14:36.593Z"
+    },
+    {
+      "ID": 416250,
+      "GUID": "A60534B4-966A-429D-843F-D28DCDB05A24",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the emergency and resiliency plans of the department of sanitation",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 72833,
+      "MatterFile": "Int 0355-2024",
+      "MatterName": "The emergency and resiliency plans of the department of sanitation.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-01-22T16:14:39.833Z"
+    },
+    {
+      "ID": 416251,
+      "GUID": "B9E72B4B-08AC-4CE8-8EA2-A078B925D22F",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to increasing penalties on chain businesses for failure to remove snow, ice and dirt from sidewalks",
+      "AgendaSequence": 0,
+      "MinutesSequence": 7,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 72549,
+      "MatterFile": "Int 0534-2024",
+      "MatterName": "Increasing penalties on chain businesses for failure to remove snow, ice and dirt from sidewalks.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-01-22T16:14:44.833Z"
     }
   ],
   "AgendaLastPublished": "2024-12-20T17:45:20.29Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2024-12-20T17:45:20.4Z"
+  "MinutesLastPublished": "2025-01-22T16:14:50.587Z",
+  "LastModified": "2025-01-22T16:14:50.717Z"
 }
