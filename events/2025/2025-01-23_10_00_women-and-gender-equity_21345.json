@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/1/21345_A_Committee_on_Women_and_Gender_Equity_25-01-23_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/1/21345_M_Committee_on_Women_and_Gender_Equity_25-01-23_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_250123-103115.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21345&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,16 +21,89 @@
       "GUID": "B5259DA4-CA0F-4585-B4A9-FFD77A1ED9C8",
       "Title": "Resolution designating January 31 annually as Cecilia Gentili Day in the City of New York to recognize her significant contributions as an author, performer, policymaker, and activist, who fought for the rights of undocumented immigrants, sex workers, and LGBTQIA+ individuals.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 74111,
       "MatterFile": "Res 0678-2024",
       "MatterName": "Designating January 31 annually as Cecilia Gentili Day.",
       "MatterType": "Resolution",
-      "LastModified": "2025-01-17T21:13:44.58Z"
+      "LastModified": "2025-01-23T15:45:04.91Z"
+    },
+    {
+      "ID": 416489,
+      "GUID": "0AF9E1FB-A94B-47E4-87CC-3FAF7772AD72",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 66,
+          "Value": "Parental ",
+          "Sort": 30
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        }
+      ],
+      "LastModified": "2025-01-23T15:44:59.24Z"
+    },
+    {
+      "ID": 416490,
+      "GUID": "170A96D8-2B29-4E9D-89DD-A4010D9934A3",
+      "Title": "Resolution designating January 31 annually as Cecilia Gentili Day in the City of New York to recognize her significant contributions as an author, performer, policymaker, and activist, who fought for the rights of undocumented immigrants, sex workers, and LGBTQIA+ individuals.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Resolution be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 74111,
+      "MatterFile": "Res 0678-2024",
+      "MatterName": "Designating January 31 annually as Cecilia Gentili Day.",
+      "MatterType": "Resolution",
+      "LastModified": "2025-01-23T15:55:24.187Z"
     }
   ],
   "AgendaLastPublished": "2025-01-17T21:13:49.6Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-01-17T21:13:49.643Z"
+  "MinutesLastPublished": "2025-01-23T15:55:29.74Z",
+  "LastModified": "2025-01-23T15:55:29.773Z"
 }
