@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/1/21320_A_Committee_on_Civil_Service_and_Labor_25-01-27_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/1/21320_M_Committee_on_Civil_Service_and_Labor_25-01-27_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-250-16_250127-131746.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21320&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,56 +20,227 @@
       "GUID": "09E9B197-6E67-4A83-B70C-77D6686E579D",
       "Title": "Oversight - Improving Workforce Retention in the Civil Service.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 75242,
       "MatterFile": "T2025-2947",
       "MatterName": "Oversight - Improving Workforce Retention in the Civil Service.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-01-22T17:15:20.203Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-01-27T20:15:10.197Z"
     },
     {
       "ID": 415892,
       "GUID": "D4A38C46-F04E-4E83-8950-5C380E545A00",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to civil service examination fee waivers",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 73644,
       "MatterFile": "Int 0671-2024",
       "MatterName": "Civil service examination fee waivers.",
       "MatterType": "Introduction",
-      "LastModified": "2025-01-03T19:05:07.55Z"
+      "LastModified": "2025-01-27T20:15:18.247Z"
     },
     {
       "ID": 415893,
       "GUID": "63167CF5-8F86-400D-ABC5-C2FA70AE22A7",
       "Title": "Resolution calling on the New York State Legislature to pass, and the New York State Governor to sign, S. 1828 /A. 3103, which would eliminate the subminimum wage for employees based on their disability or age.",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 73258,
       "MatterFile": "Res 0333-2024",
       "MatterName": "Eliminate the subminimum wage for employees based on their disability or age. (S. 1828 /A. 3103)",
       "MatterType": "Resolution",
-      "LastModified": "2025-01-03T19:05:23.67Z"
+      "LastModified": "2025-01-27T20:15:26.197Z"
     },
     {
       "ID": 415894,
       "GUID": "488C21D7-98CB-4EE2-B441-6FD54BE8E9A1",
       "Title": "Resolution calling on New York City health care institutions to contract with industrial laundry companies that respect workers’ legal rights and adhere to area standards for wages and benefits.",
       "AgendaSequence": 4,
-      "MinutesSequence": 4,
+      "MinutesSequence": 9,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 74087,
       "MatterFile": "Res 0598-2024",
       "MatterName": "New York City health care institutions to contract with industrial laundry companies that respect workers’ legal rights and adhere to area standards for wages and benefits.",
       "MatterType": "Resolution",
-      "LastModified": "2025-01-03T19:05:33.587Z"
+      "LastModified": "2025-01-27T20:15:32.373Z"
+    },
+    {
+      "ID": 416553,
+      "GUID": "46CF636E-C9F0-4BD0-BF94-BEBDA7E1E70B",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2025-01-27T20:15:45.177Z"
+    },
+    {
+      "ID": 416554,
+      "GUID": "E0490F1B-28CA-4026-86FA-6F1BE3EBECAE",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Public Advocate Williams",
+      "LastModified": "2025-01-27T20:14:45.48Z"
+    },
+    {
+      "ID": 416555,
+      "GUID": "05C42BFC-BE02-46E2-896C-4BFC071FF4AD",
+      "Title": "Oversight - Improving Workforce Retention in the Civil Service.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 75242,
+      "MatterFile": "T2025-2947",
+      "MatterName": "Oversight - Improving Workforce Retention in the Civil Service.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-01-27T20:15:14.11Z"
+    },
+    {
+      "ID": 416556,
+      "GUID": "DA43E0CB-C890-48AF-B422-8C80A7A68A7C",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to civil service examination fee waivers",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 73644,
+      "MatterFile": "Int 0671-2024",
+      "MatterName": "Civil service examination fee waivers.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-01-27T20:15:22.81Z"
+    },
+    {
+      "ID": 416557,
+      "GUID": "0E2E331F-F11B-4660-B941-307AAA8DF896",
+      "Title": "Resolution calling on the New York State Legislature to pass, and the New York State Governor to sign, S. 1828 /A. 3103, which would eliminate the subminimum wage for employees based on their disability or age.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 73258,
+      "MatterFile": "Res 0333-2024",
+      "MatterName": "Eliminate the subminimum wage for employees based on their disability or age. (S. 1828 /A. 3103)",
+      "MatterType": "Resolution",
+      "LastModified": "2025-01-27T20:15:29.73Z"
+    },
+    {
+      "ID": 416558,
+      "GUID": "0844501E-F763-4018-8820-F646960B6AD1",
+      "Title": "Resolution calling on New York City health care institutions to contract with industrial laundry companies that respect workers’ legal rights and adhere to area standards for wages and benefits.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 10,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 74087,
+      "MatterFile": "Res 0598-2024",
+      "MatterName": "New York City health care institutions to contract with industrial laundry companies that respect workers’ legal rights and adhere to area standards for wages and benefits.",
+      "MatterType": "Resolution",
+      "LastModified": "2025-01-27T20:15:36.96Z"
     }
   ],
   "AgendaLastPublished": "2025-01-22T17:15:25.083Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-01-22T17:15:25.113Z"
+  "MinutesLastPublished": "2025-01-27T20:15:50.56Z",
+  "LastModified": "2025-01-27T20:15:50.593Z"
 }
