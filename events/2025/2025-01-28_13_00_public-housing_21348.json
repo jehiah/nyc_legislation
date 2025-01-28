@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/1/21348_A_Committee_on_Public_Housing_25-01-28_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/1/21348_M_Committee_on_Public_Housing_25-01-28_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Aging",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21348&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,26 +20,140 @@
       "GUID": "9D798F8F-C905-4432-B500-EDE3BBA677EE",
       "Title": "Jointly with the Committee on Aging",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "",
-      "LastModified": "2025-01-17T15:51:26.293Z"
+      "LastModified": "2025-01-28T21:04:23.527Z"
     },
     {
       "ID": 416146,
       "GUID": "7EE66D3A-4588-4AC1-B8B5-E56773D95EB5",
       "Title": "Oversight - Older Adult Centers at NYCHA Facilities.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 75297,
       "MatterFile": "T2025-3002",
       "MatterName": "Oversight - Older Adult Centers at NYCHA Facilities.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-01-16T14:15:02.35Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-01-28T21:04:27.583Z"
+    },
+    {
+      "ID": 416592,
+      "GUID": "A5D9175F-2846-45C9-A307-0296D0D70944",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2025-01-28T22:08:44.87Z"
+    },
+    {
+      "ID": 416593,
+      "GUID": "24B3B0AD-42C5-4B11-A616-F82631AD6F65",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Hudson, Rivera, Brewer, Schulman and Lee",
+      "LastModified": "2025-01-28T22:09:30.153Z"
+    },
+    {
+      "ID": 416594,
+      "GUID": "3FA0B93D-F3FE-45C8-9CF7-0518EBC516A7",
+      "Title": "Oversight - Older Adult Centers at NYCHA Facilities.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 75297,
+      "MatterFile": "T2025-3002",
+      "MatterName": "Oversight - Older Adult Centers at NYCHA Facilities.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-01-28T21:04:30.707Z"
     }
   ],
   "AgendaLastPublished": "2025-01-17T15:51:37.71Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-01-17T15:51:37.757Z"
+  "MinutesLastPublished": "2025-01-28T22:09:34.65Z",
+  "LastModified": "2025-01-28T22:09:34.703Z"
 }

@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/1/21321_A_Committee_on_Mental_Health%2C_Disabilities_and_Addiction_25-01-28_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/1/21321_M_Committee_on_Mental_Health%2C_Disabilities_and_Addiction_25-01-28_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Hospitals.",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_250128-131153.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21321&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,26 +21,132 @@
       "GUID": "94A8F9E4-12F3-4F08-AD5A-73368E798AC7",
       "Title": "Jointly with the Committee on Hospitals.",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "",
-      "LastModified": "2025-01-03T19:09:59.98Z"
+      "LastModified": "2025-01-28T20:57:59.317Z"
     },
     {
       "ID": 415899,
       "GUID": "7B896B4C-F423-4267-ACFC-644F0FF964E9",
       "Title": "Oversight - Examining New York City Opioid Settlement Fund Investments.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 75212,
       "MatterFile": "T2025-2917",
       "MatterName": "Oversight - Examining New York City Opioid Settlement Fund Investments.",
       "MatterType": "Oversight",
       "MatterStatus": "Committee",
-      "LastModified": "2025-01-03T19:10:10.607Z"
+      "LastModified": "2025-01-28T20:58:02.583Z"
+    },
+    {
+      "ID": 416581,
+      "GUID": "1E59C60C-EF70-480D-AC04-E92F1ED29CC7",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        }
+      ],
+      "LastModified": "2025-01-28T21:16:12.44Z"
+    },
+    {
+      "ID": 416582,
+      "GUID": "E26342EA-AC06-42D8-B88E-55CAB949A72B",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Schulman, Narcisse, Rivera, Paladino, Brooks-Powers and Moya",
+      "LastModified": "2025-01-28T20:57:49.79Z"
+    },
+    {
+      "ID": 416583,
+      "GUID": "38851729-1C19-4AD7-8C83-F737E07B1DEC",
+      "Title": "Oversight - Examining New York City Opioid Settlement Fund Investments.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
+      "MatterID": 75212,
+      "MatterFile": "T2025-2917",
+      "MatterName": "Oversight - Examining New York City Opioid Settlement Fund Investments.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Committee",
+      "LastModified": "2025-01-28T20:58:52.573Z"
     }
   ],
   "AgendaLastPublished": "2025-01-16T16:03:38.683Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-01-16T16:03:38.74Z"
+  "MinutesLastPublished": "2025-01-28T21:16:18.03Z",
+  "LastModified": "2025-01-28T21:16:18.063Z"
 }

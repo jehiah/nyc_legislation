@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/1/21322_A_Committee_on_Hospitals_25-01-28_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/1/21322_M_Committee_on_Hospitals_25-01-28_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Mental Health, Disabilities and Addiction",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21322&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,26 +20,124 @@
       "GUID": "F0D204C4-BEB8-471E-AEDF-36815E060CF0",
       "Title": "Oversight - Examining New York City Opioid Settlement Fund Investments.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 75213,
       "MatterFile": "T2025-2918",
       "MatterName": "Oversight - Examining New York City Opioid Settlement Fund Investments.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-01-03T19:46:51.21Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-01-28T20:55:29.673Z"
     },
     {
       "ID": 415901,
       "GUID": "755D1F2E-51A3-49E7-937D-5498367EBDE5",
       "Title": "Jointly with the Committee on Mental Health, Disabilities and Addiction",
       "AgendaSequence": 2,
+      "MinutesSequence": 5,
+      "Version": "",
+      "LastModified": "2025-01-28T20:52:02.01Z"
+    },
+    {
+      "ID": 416577,
+      "GUID": "6DA9A6BD-EC9C-41A8-BD62-6A9EEDCD4F6F",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 66,
+          "Value": "Parental ",
+          "Sort": 30
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7740,
+          "Slug": "carlina-rivera",
+          "FullName": "Carlina Rivera",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2025-01-28T21:15:36.71Z"
+    },
+    {
+      "ID": 416578,
+      "GUID": "71043F9E-B167-42BD-9115-B6DB4270680B",
+      "Title": "",
+      "AgendaSequence": 0,
       "MinutesSequence": 2,
       "Version": "",
-      "LastModified": "2025-01-03T19:12:16.063Z"
+      "MinutesNote": "Other Council Members Attending: Lee, Schulman, Cabán, Bottcher, Abreu, Mealy and Louis  ",
+      "LastModified": "2025-01-28T20:55:25.973Z"
+    },
+    {
+      "ID": 416579,
+      "GUID": "0E4840D8-6F0C-4247-A131-4F9D1A7759BE",
+      "Title": "Oversight - Examining New York City Opioid Settlement Fund Investments.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 75213,
+      "MatterFile": "T2025-2918",
+      "MatterName": "Oversight - Examining New York City Opioid Settlement Fund Investments.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-01-28T20:55:35.04Z"
     }
   ],
   "AgendaLastPublished": "2025-01-16T16:03:18.09Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-01-16T16:03:18.263Z"
+  "MinutesLastPublished": "2025-01-28T21:15:42.09Z",
+  "LastModified": "2025-01-28T21:15:42.137Z"
 }
