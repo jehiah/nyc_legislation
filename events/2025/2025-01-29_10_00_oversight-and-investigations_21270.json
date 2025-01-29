@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/1/21270_A_Committee_on_Oversight_and_Investigations_25-01-29_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/1/21270_M_Committee_on_Oversight_and_Investigations_25-01-29_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_250129-100540.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21270&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,43 +20,187 @@
       "GUID": "DF7C333A-9A85-4DA9-B9C3-84AE16560D6C",
       "Title": "Oversight - The Department of Investigation’s Office of the Inspector General for the NYPD.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 75140,
       "MatterFile": "T2024-2845",
       "MatterName": "Oversight - The Department of Investigation’s Office of the Inspector General for the NYPD.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-01-24T19:06:02.4Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-01-29T19:57:53.003Z"
     },
     {
       "ID": 415315,
       "GUID": "69868625-E634-4105-891D-7ACF0334AAF5",
       "Title": "A Local Law to amend the New York city charter, in relation to the replacement of the individual responsible for implementing certain duties of the commissioner of investigation relating to the police department and reporting on investigations relating to the police department",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 72036,
       "MatterFile": "Int 1020-2024",
       "MatterName": "Replacement of the individual responsible for implementing certain duties of the commissioner of investigation relating to the police department and reporting on investigations relating to the police department.",
       "MatterType": "Introduction",
-      "LastModified": "2024-12-13T19:22:37.35Z"
+      "LastModified": "2025-01-29T19:57:59.397Z"
     },
     {
       "ID": 415316,
       "GUID": "7DD1DC5A-829D-4457-8856-A24A1EA47B6C",
       "Title": "Resolution directing the Department of Investigation to conduct an investigation to ascertain the knowledge possessed by mayoral administrations on environmental toxins produced by the September 11, 2001 terrorist attacks on the World Trade Center and to submit a report to the Council thereon.",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 74716,
       "MatterFile": "Res 0560-2024",
       "MatterName": "DOI to conduct an investigation to ascertain the knowledge possessed by mayoral administrations on environmental toxins produced by the September 11, 2001 terrorist attacks on the World Trade Center and to submit a report to the Council thereon.",
       "MatterType": "Resolution",
-      "LastModified": "2025-01-17T17:03:02.41Z"
+      "LastModified": "2025-01-29T19:58:07.83Z"
+    },
+    {
+      "ID": 416623,
+      "GUID": "BEE4235D-4DCC-41FA-BE9D-C7E713593584",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 30
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 50
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 66,
+          "Value": "Parental ",
+          "Sort": 60
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        }
+      ],
+      "LastModified": "2025-01-29T19:57:07.87Z"
+    },
+    {
+      "ID": 416624,
+      "GUID": "4DCFAF6E-75EB-4F61-9C29-8EDB4B65B2C1",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Salaam",
+      "LastModified": "2025-01-29T19:56:24.043Z"
+    },
+    {
+      "ID": 416625,
+      "GUID": "955DAF1D-891B-4FB3-9788-9302377B39B6",
+      "Title": "Oversight - The Department of Investigation’s Office of the Inspector General for the NYPD.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 75140,
+      "MatterFile": "T2024-2845",
+      "MatterName": "Oversight - The Department of Investigation’s Office of the Inspector General for the NYPD.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-01-29T19:57:56.123Z"
+    },
+    {
+      "ID": 416626,
+      "GUID": "B897BF05-67D7-4330-9424-FC2220546237",
+      "Title": "A Local Law to amend the New York city charter, in relation to the replacement of the individual responsible for implementing certain duties of the commissioner of investigation relating to the police department and reporting on investigations relating to the police department",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 72036,
+      "MatterFile": "Int 1020-2024",
+      "MatterName": "Replacement of the individual responsible for implementing certain duties of the commissioner of investigation relating to the police department and reporting on investigations relating to the police department.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-01-29T19:58:03.273Z"
+    },
+    {
+      "ID": 416627,
+      "GUID": "515EEC17-C20D-42CF-A211-E7C0336AADE2",
+      "Title": "Resolution directing the Department of Investigation to conduct an investigation to ascertain the knowledge possessed by mayoral administrations on environmental toxins produced by the September 11, 2001 terrorist attacks on the World Trade Center and to submit a report to the Council thereon.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 74716,
+      "MatterFile": "Res 0560-2024",
+      "MatterName": "DOI to conduct an investigation to ascertain the knowledge possessed by mayoral administrations on environmental toxins produced by the September 11, 2001 terrorist attacks on the World Trade Center and to submit a report to the Council thereon.",
+      "MatterType": "Resolution",
+      "LastModified": "2025-01-29T19:58:13.65Z"
     }
   ],
   "AgendaLastPublished": "2025-01-17T17:03:31.3Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-01-29T15:05:42.233Z"
+  "MinutesLastPublished": "2025-01-29T19:58:18.953Z",
+  "LastModified": "2025-01-29T19:58:19.08Z"
 }
