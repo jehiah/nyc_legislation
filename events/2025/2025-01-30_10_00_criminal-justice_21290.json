@@ -8,11 +8,13 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/1/21290_A_Committee_on_Criminal_Justice_25-01-30_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/1/21290_M_Committee_on_Criminal_Justice_25-01-30_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Contracts.",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_250130-101216.mp4",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_250130-101216.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21290&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -20,39 +22,172 @@
       "GUID": "BF4CE2E4-C006-4209-A2BE-16AF9C15FEBC",
       "Title": "Oversight - Contracted Jail Services.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 75185,
       "MatterFile": "T2024-2890",
       "MatterName": "Oversight - Contracted Jail Services.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-01-24T19:08:47.087Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-01-30T20:43:15.92Z"
     },
     {
       "ID": 416013,
       "GUID": "DED80120-2B2B-4C50-BD6A-075FE83A9A99",
       "Title": "Jointly with the Committee on Contracts",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "",
-      "LastModified": "2025-01-09T19:19:36.783Z"
+      "LastModified": "2025-01-30T20:43:10.377Z"
     },
     {
       "ID": 416014,
       "GUID": "25BA1FD5-0BB7-4C01-98BA-F7AE6AF49ED9",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to returning funds remaining in commissary accounts when incarcerated individuals are released from custody",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 72307,
       "MatterFile": "Int 0825-2024",
       "MatterName": "Returning funds remaining in commissary accounts when incarcerated individuals are released from custody.",
       "MatterType": "Introduction",
-      "LastModified": "2025-01-09T19:19:45.68Z"
+      "LastModified": "2025-01-30T20:43:25.22Z"
+    },
+    {
+      "ID": 416656,
+      "GUID": "F2DACCE7-B493-4E32-8BB9-D219AFE3A6CD",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 20
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 66,
+          "Value": "Parental ",
+          "Sort": 80
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2025-01-30T20:43:41.753Z"
+    },
+    {
+      "ID": 416657,
+      "GUID": "7C82C0C0-5E51-4310-8B47-761D7EF9A875",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Won, Bottcher and Vernikov",
+      "LastModified": "2025-01-30T20:42:29.007Z"
+    },
+    {
+      "ID": 416658,
+      "GUID": "2F533E19-78AA-49E5-94E5-49F62D0CB466",
+      "Title": "Oversight - Contracted Jail Services.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 75185,
+      "MatterFile": "T2024-2890",
+      "MatterName": "Oversight - Contracted Jail Services.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-01-30T20:43:20.64Z"
+    },
+    {
+      "ID": 416659,
+      "GUID": "D39CF87B-9D73-47D4-B313-658EE4C18C67",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to returning funds remaining in commissary accounts when incarcerated individuals are released from custody",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 72307,
+      "MatterFile": "Int 0825-2024",
+      "MatterName": "Returning funds remaining in commissary accounts when incarcerated individuals are released from custody.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-01-30T21:50:31.47Z"
     }
   ],
   "AgendaLastPublished": "2025-01-09T19:25:07.34Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-01-30T17:06:19.153Z"
+  "MinutesLastPublished": "2025-01-30T21:51:00.14Z",
+  "LastModified": "2025-01-30T21:51:00.173Z"
 }

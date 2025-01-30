@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/1/21336_A_Committee_on_Fire_and_Emergency_Management_25-01-30_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/1/21336_M_Committee_on_Fire_and_Emergency_Management_25-01-30_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Parks and Recreation",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21336&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,53 +20,189 @@
       "GUID": "94059377-7BF2-4255-9F26-D471F8553E30",
       "Title": "Oversight - Preventing Brush Fires in Parks.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 75261,
       "MatterFile": "T2025-2966",
       "MatterName": "Oversight - Preventing Brush Fires in Parks.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-01-13T15:46:11.827Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-01-30T21:02:46.123Z"
     },
     {
       "ID": 416057,
       "GUID": "19E0AFEF-F865-4CA2-B472-3FEF30290643",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to tree maintenance prioritization",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 73939,
       "MatterFile": "Int 0800-2024",
       "MatterName": "Tree maintenance prioritization",
       "MatterType": "Introduction",
-      "LastModified": "2025-01-22T21:57:32.967Z"
+      "LastModified": "2025-01-30T21:02:57.65Z"
     },
     {
       "ID": 416058,
       "GUID": "C3E8079F-AB64-492F-A1A5-DE30402F4AB2",
       "Title": "Jointly with the Committee on Parks and Recreation",
       "AgendaSequence": 4,
-      "MinutesSequence": 4,
+      "MinutesSequence": 9,
       "Version": "",
-      "LastModified": "2025-01-22T21:57:33.12Z"
+      "LastModified": "2025-01-30T21:02:41.263Z"
     },
     {
       "ID": 416454,
       "GUID": "FB3EBD9A-4BB3-4DBA-AF78-8DE8405E15E6",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to a plan to mitigate wildfires in parks under the jurisdiction of the department of parks and recreation",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
       "AgendaNote": "Preconsidered",
+      "ActionID": 15,
+      "ActionName": "Hearing on P-C Item by Comm",
+      "ActionText": "This Introduction was Hearing on P-C Item by Comm",
       "MatterID": 75310,
       "MatterFile": "T2025-3015",
       "MatterName": "Plan to mitigate wildfires in parks under the jurisdiction of the department of parks and recreation,",
       "MatterType": "Introduction",
-      "LastModified": "2025-01-22T22:25:00.823Z"
+      "LastModified": "2025-01-30T21:03:07.977Z"
+    },
+    {
+      "ID": 416660,
+      "GUID": "3A6CD83A-FC13-4947-A00D-C0F76B078300",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 50
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        }
+      ],
+      "LastModified": "2025-01-30T21:01:34.53Z"
+    },
+    {
+      "ID": 416661,
+      "GUID": "B1B58C55-7271-4158-B217-5BA2CF88C175",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Krishnan, Paladino, Williams, Carr, Menin, Ung, Lee and Narcisse",
+      "LastModified": "2025-01-30T21:02:35.543Z"
+    },
+    {
+      "ID": 416662,
+      "GUID": "0A370825-1879-4F5A-A9AE-D97093011DB8",
+      "Title": "Oversight - Preventing Brush Fires in Parks.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 75261,
+      "MatterFile": "T2025-2966",
+      "MatterName": "Oversight - Preventing Brush Fires in Parks.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-01-30T21:02:51.133Z"
+    },
+    {
+      "ID": 416663,
+      "GUID": "39F5706D-479A-40E3-AF94-B318AFE1F49D",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to tree maintenance prioritization",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 73939,
+      "MatterFile": "Int 0800-2024",
+      "MatterName": "Tree maintenance prioritization",
+      "MatterType": "Introduction",
+      "LastModified": "2025-01-30T21:03:03.873Z"
+    },
+    {
+      "ID": 416664,
+      "GUID": "9B1463B8-D402-4454-8EB2-7A80E5B1ED17",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to a plan to mitigate wildfires in parks under the jurisdiction of the department of parks and recreation",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 5018,
+      "ActionName": "P-C Item Laid Over by Comm",
+      "ActionText": "This Introduction was P-C Item Laid Over by Comm",
+      "MatterID": 75310,
+      "MatterFile": "T2025-3015",
+      "MatterName": "Plan to mitigate wildfires in parks under the jurisdiction of the department of parks and recreation,",
+      "MatterType": "Introduction",
+      "LastModified": "2025-01-30T21:03:32.777Z"
     }
   ],
   "AgendaLastPublished": "2025-01-22T22:25:06.653Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-01-22T22:25:06.703Z"
+  "MinutesLastPublished": "2025-01-30T21:03:38.77Z",
+  "LastModified": "2025-01-30T21:03:38.897Z"
 }

@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/1/21346_A_Committee_on_Economic_Development_25-01-30_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/1/21346_M_Committee_on_Economic_Development_25-01-30_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Small Business",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_250130-135110.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21346&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,65 +21,220 @@
       "GUID": "A2EA5A17-4FF0-4B33-B72D-3BC5E1319D06",
       "Title": "Oversight - Legal and Regulatory Challenges Facing Small Businesses.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 75291,
       "MatterFile": "T2025-2996",
       "MatterName": "Oversight - Legal and Regulatory Challenges Facing Small Businesses.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-01-15T17:03:55.933Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-01-30T22:11:33.473Z"
     },
     {
       "ID": 416125,
       "GUID": "99F98713-C10D-4075-B289-3AD4F5F6F26C",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the creation of a commercial landlord watch list",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 73210,
       "MatterFile": "Int 0449-2024",
       "MatterName": "Creation of a commerical landlord watch list.",
       "MatterType": "Introduction",
-      "LastModified": "2025-01-17T20:36:24.833Z"
+      "LastModified": "2025-01-30T22:11:43.533Z"
     },
     {
       "ID": 416126,
       "GUID": "DCAD423E-682E-4BCF-B9CB-523EC444186E",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to geographically targeted regulatory compliance services for small businesses",
       "AgendaSequence": 4,
-      "MinutesSequence": 4,
+      "MinutesSequence": 9,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 75098,
       "MatterFile": "Int 1132-2024",
       "MatterName": "Geographically targeted regulatory compliance services for small businesses.",
       "MatterType": "Introduction",
-      "LastModified": "2025-01-15T17:04:13.21Z"
+      "LastModified": "2025-01-30T22:12:06.877Z"
     },
     {
       "ID": 416127,
       "GUID": "0481B03A-894D-4A34-8192-EE3541C82435",
       "Title": "Jointly with the Committee on Small Business",
       "AgendaSequence": 5,
-      "MinutesSequence": 5,
+      "MinutesSequence": 11,
       "Version": "",
-      "LastModified": "2025-01-24T18:32:31.343Z"
+      "LastModified": "2025-01-30T22:11:28.78Z"
     },
     {
       "ID": 416170,
       "GUID": "374659AA-DC34-4354-A44F-19A07D47EA3B",
       "Title": "A Local Law in relation to a study and report on fees and costs required to start and maintain a small business",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 74889,
       "MatterFile": "Int 1082-2024",
       "MatterName": "Study and report on fees and costs required to start and maintain a small business.",
       "MatterType": "Introduction",
-      "LastModified": "2025-01-17T20:36:38.557Z"
+      "LastModified": "2025-01-30T22:11:56.33Z"
+    },
+    {
+      "ID": 416671,
+      "GUID": "417CA989-B634-41CE-B48C-A6BE6DFD0E8E",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 20
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 66,
+          "Value": "Parental ",
+          "Sort": 40
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 50
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2025-01-30T22:11:20.82Z"
+    },
+    {
+      "ID": 416672,
+      "GUID": "3D5340CC-9B23-47D1-9392-7D0BECB3A9C7",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending:  Feliz, Brooks-Power, Narcisse, Ung, Zhuang, Paladino and Krishnan",
+      "LastModified": "2025-01-30T22:10:38.19Z"
+    },
+    {
+      "ID": 416673,
+      "GUID": "5367C1A5-12CB-42AF-BAC8-4A9FF9045316",
+      "Title": "Oversight - Legal and Regulatory Challenges Facing Small Businesses.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 75291,
+      "MatterFile": "T2025-2996",
+      "MatterName": "Oversight - Legal and Regulatory Challenges Facing Small Businesses.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-01-30T22:11:36.46Z"
+    },
+    {
+      "ID": 416674,
+      "GUID": "A77E4790-F2F3-4F6E-87CD-023FD38C08BB",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the creation of a commercial landlord watch list",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 73210,
+      "MatterFile": "Int 0449-2024",
+      "MatterName": "Creation of a commerical landlord watch list.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-01-30T22:11:51.357Z"
+    },
+    {
+      "ID": 416675,
+      "GUID": "DD688AC5-5A5C-4A37-9F5F-002D25D89BD8",
+      "Title": "A Local Law in relation to a study and report on fees and costs required to start and maintain a small business",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 74889,
+      "MatterFile": "Int 1082-2024",
+      "MatterName": "Study and report on fees and costs required to start and maintain a small business.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-01-30T22:15:09.643Z"
+    },
+    {
+      "ID": 416676,
+      "GUID": "90F14EA8-D121-4FC7-9619-C8F8306BC89E",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to geographically targeted regulatory compliance services for small businesses",
+      "AgendaSequence": 0,
+      "MinutesSequence": 10,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 75098,
+      "MatterFile": "Int 1132-2024",
+      "MatterName": "Geographically targeted regulatory compliance services for small businesses.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-01-30T22:12:13.593Z"
     }
   ],
   "AgendaLastPublished": "2025-01-24T18:32:54.303Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-01-24T18:32:54.417Z"
+  "MinutesLastPublished": "2025-01-30T22:15:15.497Z",
+  "LastModified": "2025-01-30T22:15:15.583Z"
 }
