@@ -11,6 +11,7 @@
   "MinutesStatusID": 2,
   "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/2/21333_A_Subcommittee_on_Landmarks%2C_Public_Sitings_and_Dispositions_25-02-05_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/2/21333_M_Subcommittee_on_Landmarks%2C_Public_Sitings_and_Dispositions_25-02-05_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-250-16_250205-111419.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21333&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -74,12 +75,13 @@
       "Version": "*",
       "ActionID": 54,
       "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Land Use Application was Hearing Held by Committee",
       "MatterID": 75272,
       "MatterFile": "LU 0227-2025",
       "MatterName": "Landmarks, The Beacon, Manhattan (C 240387 HAM)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-02-05T17:38:30.84Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2025-02-05T17:38:31.15Z"
     },
     {
       "ID": 416644,
@@ -88,12 +90,15 @@
       "AgendaSequence": 5,
       "MinutesSequence": 10,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Land Use Application was Hearing Held by Committee",
       "MatterID": 75273,
       "MatterFile": "LU 0228-2025",
       "MatterName": "Landmarks, The Beacon, Manhattan (N 240388 ZRM)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-02-05T17:37:39.72Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2025-02-05T17:38:45.71Z"
     },
     {
       "ID": 416653,
@@ -103,12 +108,15 @@
       "MinutesSequence": 14,
       "Version": "*",
       "AgendaNote": "Preconsidered",
+      "ActionID": 15,
+      "ActionName": "Hearing on P-C Item by Comm",
+      "ActionText": "This Land Use Application was Hearing Held by Committee",
       "MatterID": 75386,
       "MatterFile": "T2025-3091",
       "MatterName": "Landmarks, 581 Grant Avenue Development, Brooklyn (C 240403 ZMK)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Introduced",
-      "LastModified": "2025-02-05T17:37:44.103Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2025-02-05T17:45:45.517Z"
     },
     {
       "ID": 416654,
@@ -118,12 +126,15 @@
       "MinutesSequence": 16,
       "Version": "*",
       "AgendaNote": "Preconsidered",
+      "ActionID": 15,
+      "ActionName": "Hearing on P-C Item by Comm",
+      "ActionText": "This Land Use Application was Hearing Held by Committee",
       "MatterID": 75387,
       "MatterFile": "T2025-3092",
       "MatterName": "Landmarks, 581 Grant Avenue Development, Brooklyn (N 240404 ZRK)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Introduced",
-      "LastModified": "2025-02-05T17:37:45.797Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2025-02-05T17:45:55.51Z"
     },
     {
       "ID": 416655,
@@ -133,12 +144,15 @@
       "MinutesSequence": 12,
       "Version": "*",
       "AgendaNote": "Preconsidered",
+      "ActionID": 15,
+      "ActionName": "Hearing on P-C Item by Comm",
+      "ActionText": "This Land Use Application was Hearing Held by Committee",
       "MatterID": 75384,
       "MatterFile": "T2025-3089",
       "MatterName": "Landmarks, 581 Grant Avenue Development, Brooklyn (C 240402 HAK)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Introduced",
-      "LastModified": "2025-02-05T17:37:42.45Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2025-02-05T17:45:30.537Z"
     },
     {
       "ID": 416718,
@@ -147,7 +161,66 @@
       "AgendaSequence": 0,
       "MinutesSequence": 1,
       "Version": "",
-      "LastModified": "2025-02-05T17:37:13.177Z"
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 10
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2025-02-05T17:39:32.32Z"
     },
     {
       "ID": 416720,
@@ -159,12 +232,14 @@
       "ActionID": 79,
       "ActionName": "Approved by Subcommittee",
       "ActionText": "This Land Use Application was Approved by Subcommittee",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 75223,
       "MatterFile": "LU 0207-2025",
       "MatterName": "Landmarks, Jacob Day Residence, Manhattan (N 250101 HIM)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2025-02-05T17:38:03.89Z"
+      "LastModified": "2025-02-05T17:40:05.44Z"
     },
     {
       "ID": 416721,
@@ -207,12 +282,15 @@
       "AgendaSequence": 0,
       "MinutesSequence": 9,
       "Version": "*",
+      "ActionID": 5050,
+      "ActionName": "Laid Over by Subcommittee",
+      "ActionText": "This Land Use Application was Laid Over by Subcommittee",
       "MatterID": 75272,
       "MatterFile": "LU 0227-2025",
       "MatterName": "Landmarks, The Beacon, Manhattan (C 240387 HAM)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-02-05T17:37:37.67Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2025-02-05T17:38:41.07Z"
     },
     {
       "ID": 416724,
@@ -221,12 +299,15 @@
       "AgendaSequence": 0,
       "MinutesSequence": 11,
       "Version": "*",
+      "ActionID": 5050,
+      "ActionName": "Laid Over by Subcommittee",
+      "ActionText": "This Land Use Application was Laid Over by Subcommittee",
       "MatterID": 75273,
       "MatterFile": "LU 0228-2025",
       "MatterName": "Landmarks, The Beacon, Manhattan (N 240388 ZRM)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-02-05T17:37:39.79Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2025-02-05T17:38:50.18Z"
     },
     {
       "ID": 416725,
@@ -235,12 +316,15 @@
       "AgendaSequence": 0,
       "MinutesSequence": 13,
       "Version": "*",
+      "ActionID": 5018,
+      "ActionName": "P-C Item Laid Over by Comm",
+      "ActionText": "This Land Use Application was Laid Over by Subcommittee",
       "MatterID": 75384,
       "MatterFile": "T2025-3089",
       "MatterName": "Landmarks, 581 Grant Avenue Development, Brooklyn (C 240402 HAK)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Introduced",
-      "LastModified": "2025-02-05T17:37:42.52Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2025-02-05T17:45:38.677Z"
     },
     {
       "ID": 416726,
@@ -249,12 +333,15 @@
       "AgendaSequence": 0,
       "MinutesSequence": 15,
       "Version": "*",
+      "ActionID": 5018,
+      "ActionName": "P-C Item Laid Over by Comm",
+      "ActionText": "This Land Use Application was Laid Over by Subcommittee",
       "MatterID": 75386,
       "MatterFile": "T2025-3091",
       "MatterName": "Landmarks, 581 Grant Avenue Development, Brooklyn (C 240403 ZMK)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Introduced",
-      "LastModified": "2025-02-05T17:37:44.173Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2025-02-05T17:46:01.473Z"
     },
     {
       "ID": 416727,
@@ -263,15 +350,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 17,
       "Version": "*",
+      "ActionID": 5018,
+      "ActionName": "P-C Item Laid Over by Comm",
+      "ActionText": "This Land Use Application was Laid Over by Subcommittee",
       "MatterID": 75387,
       "MatterFile": "T2025-3092",
       "MatterName": "Landmarks, 581 Grant Avenue Development, Brooklyn (N 240404 ZRK)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Introduced",
-      "LastModified": "2025-02-05T17:37:45.86Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2025-02-05T17:46:07.477Z"
     }
   ],
   "AgendaLastPublished": "2025-01-30T19:50:41.073Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-02-05T17:01:48.323Z"
+  "MinutesLastPublished": "2025-02-05T17:46:12.857Z",
+  "LastModified": "2025-02-05T17:46:12.903Z"
 }
