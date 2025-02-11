@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/2/21358_A_Committee_on_Consumer_and_Worker_Protection_25-02-11_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/2/21358_M_Committee_on_Consumer_and_Worker_Protection_25-02-11_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_250211-130257.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21358&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,56 +20,211 @@
       "GUID": "FCFB2A51-AC74-444C-9972-6743112A4596",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to prohibiting businesses from setting a minimum purchase requirement greater than $10 for credit card transactions",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 72784,
       "MatterFile": "Int 0374-2024",
       "MatterName": "Prohibiting businesses from setting a minimum purchase requirement greater than $10 for credit card transactions.",
       "MatterType": "Introduction",
-      "LastModified": "2025-01-21T21:32:29.563Z"
+      "LastModified": "2025-02-11T19:17:07.343Z"
     },
     {
       "ID": 416218,
       "GUID": "641B67B7-EED2-40E1-812E-3DF77D822610",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring sellers of petroleum products for use in motor vehicles or motor boats to disclose preauthorization holds",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 74754,
       "MatterFile": "Int 1049-2024",
       "MatterName": "Requiring sellers of petroleum products for use in motor vehicles or motor boats to disclose preauthorization holds.",
       "MatterType": "Introduction",
-      "LastModified": "2025-01-21T21:32:45.487Z"
+      "LastModified": "2025-02-11T19:17:09.46Z"
     },
     {
       "ID": 416219,
       "GUID": "263BD821-7529-4471-A440-EC26B534AA30",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring certain retail stores to accept flexible benefit cards",
       "AgendaSequence": 4,
-      "MinutesSequence": 4,
+      "MinutesSequence": 9,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 74581,
       "MatterFile": "Int 1097-2024",
       "MatterName": "Requiring certain retail stores to accept flexible benefit cards.",
       "MatterType": "Introduction",
-      "LastModified": "2025-01-31T20:49:05.927Z"
+      "LastModified": "2025-02-11T19:17:11.957Z"
     },
     {
       "ID": 416699,
       "GUID": "EE1EC7AB-9293-4B7E-A6DD-DA1DC3E7961A",
       "Title": "Oversight - Consumer financial experiences in the retail industry.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 75393,
       "MatterFile": "T2025-3098",
       "MatterName": "Oversight - Consumer financial experiences in the retail industry.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-01-31T21:50:19.997Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-02-11T19:17:05.457Z"
+    },
+    {
+      "ID": 416868,
+      "GUID": "A644B9CD-75E2-426B-8D6E-DAE7091A9D7C",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2025-02-11T19:16:22.353Z"
+    },
+    {
+      "ID": 416869,
+      "GUID": "D01334DD-2D80-4ECA-99A7-F7D17DAA5631",
+      "Title": "Oversight - Consumer financial experiences in the retail industry.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 75393,
+      "MatterFile": "T2025-3098",
+      "MatterName": "Oversight - Consumer financial experiences in the retail industry.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-02-11T19:17:18.843Z"
+    },
+    {
+      "ID": 416870,
+      "GUID": "F3A134E8-354D-4EE2-8BE3-0C26FF9C1617",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to prohibiting businesses from setting a minimum purchase requirement greater than $10 for credit card transactions",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 72784,
+      "MatterFile": "Int 0374-2024",
+      "MatterName": "Prohibiting businesses from setting a minimum purchase requirement greater than $10 for credit card transactions.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-02-11T19:17:22.1Z"
+    },
+    {
+      "ID": 416871,
+      "GUID": "E0A69C42-D04D-4163-99C6-CC4659A194F7",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring sellers of petroleum products for use in motor vehicles or motor boats to disclose preauthorization holds",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 74754,
+      "MatterFile": "Int 1049-2024",
+      "MatterName": "Requiring sellers of petroleum products for use in motor vehicles or motor boats to disclose preauthorization holds.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-02-11T19:17:24.217Z"
+    },
+    {
+      "ID": 416872,
+      "GUID": "37C6D49E-EF49-4C52-A69C-3F82AFE435F3",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring certain retail stores to accept flexible benefit cards",
+      "AgendaSequence": 0,
+      "MinutesSequence": 10,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 74581,
+      "MatterFile": "Int 1097-2024",
+      "MatterName": "Requiring certain retail stores to accept flexible benefit cards.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-02-11T19:17:31.44Z"
+    },
+    {
+      "ID": 416873,
+      "GUID": "BF794638-F885-4D1F-B471-DB5B405B26D4",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Riley and Marte",
+      "LastModified": "2025-02-11T19:17:02.653Z"
     }
   ],
   "AgendaLastPublished": "2025-01-31T21:50:26.07Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-01-31T21:50:26.087Z"
+  "MinutesLastPublished": "2025-02-11T19:17:37.293Z",
+  "LastModified": "2025-02-11T19:17:37.383Z"
 }
