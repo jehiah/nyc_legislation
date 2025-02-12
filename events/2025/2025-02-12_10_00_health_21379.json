@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/2/21379_A_Committee_on_Health_25-02-12_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/2/21379_M_Committee_on_Health_25-02-12_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on General Welfare",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21379&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,53 +20,205 @@
       "GUID": "9F19AE80-8658-4EA7-B75B-8E5D281B366C",
       "Title": "Oversight - HASA Administration.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 75183,
       "MatterFile": "T2024-2888",
       "MatterName": "Oversight - HASA Administration.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-02-03T21:40:19.387Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-02-12T17:14:40.523Z"
     },
     {
       "ID": 416255,
       "GUID": "BDB1BBB4-BE86-4238-B96B-858A84379A60",
       "Title": "Jointly with the Committee on General Welfare",
       "AgendaSequence": 4,
-      "MinutesSequence": 4,
+      "MinutesSequence": 9,
       "Version": "",
-      "LastModified": "2025-02-07T19:52:39.22Z"
+      "LastModified": "2025-02-12T17:13:34.94Z"
     },
     {
       "ID": 416709,
       "GUID": "FC0BF675-5B71-4919-A244-EF7EDD0DBAFC",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the provision of services to people living with HIV and AIDS",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
       "AgendaNote": "Preconsidered",
+      "ActionID": 15,
+      "ActionName": "Hearing on P-C Item by Comm",
+      "ActionText": "This Introduction was Hearing on P-C Item by Comm",
       "MatterID": 75391,
       "MatterFile": "T2025-3096",
       "MatterName": "Provision of services to people living with HIV and AIDS.",
       "MatterType": "Introduction",
-      "LastModified": "2025-02-07T19:52:39.003Z"
+      "LastModified": "2025-02-12T17:14:48.723Z"
     },
     {
       "ID": 416764,
       "GUID": "2E9490F2-B25B-4ED1-A1D2-A9F00569634D",
       "Title": "Resolution calling upon the New York State Legislature to pass, and the Governor to sign, S.183/A.2418, which would amend the Social Services Law to mandate each local department of social service link persons living with HIV with benefits and services and provide that persons living with HIV who are receiving housing assistance shall not be required to pay more than 30% of household income towards shelter costs.",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 73007,
       "MatterFile": "Res 0175-2024",
       "MatterName": "Social Services Law (S.183/A.2418).",
       "MatterType": "Resolution",
-      "LastModified": "2025-02-07T19:52:57.393Z"
+      "LastModified": "2025-02-12T17:14:59.267Z"
+    },
+    {
+      "ID": 416894,
+      "GUID": "C31B5F1A-DB4E-4914-9D8B-7054C989D5D2",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 50
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        }
+      ],
+      "LastModified": "2025-02-12T17:13:52.233Z"
+    },
+    {
+      "ID": 416895,
+      "GUID": "FD20A957-EDA6-423C-823E-BF88F850E06F",
+      "Title": "Oversight - HASA Administration.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 75183,
+      "MatterFile": "T2024-2888",
+      "MatterName": "Oversight - HASA Administration.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-02-12T17:14:43.397Z"
+    },
+    {
+      "ID": 416896,
+      "GUID": "4D85DE1F-BF44-4877-B22F-DA4E56000C49",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the provision of services to people living with HIV and AIDS",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 5018,
+      "ActionName": "P-C Item Laid Over by Comm",
+      "ActionText": "This Introduction was P-C Item Laid Over by Comm",
+      "MatterID": 75391,
+      "MatterFile": "T2025-3096",
+      "MatterName": "Provision of services to people living with HIV and AIDS.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-02-12T17:14:54.95Z"
+    },
+    {
+      "ID": 416897,
+      "GUID": "A354F292-5312-4B0B-89DC-9B4C1994379E",
+      "Title": "Resolution calling upon the New York State Legislature to pass, and the Governor to sign, S.183/A.2418, which would amend the Social Services Law to mandate each local department of social service link persons living with HIV with benefits and services and provide that persons living with HIV who are receiving housing assistance shall not be required to pay more than 30% of household income towards shelter costs.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 73007,
+      "MatterFile": "Res 0175-2024",
+      "MatterName": "Social Services Law (S.183/A.2418).",
+      "MatterType": "Resolution",
+      "LastModified": "2025-02-12T17:15:06.14Z"
+    },
+    {
+      "ID": 416898,
+      "GUID": "AFA66CFE-7E95-40C3-AC08-3595355A5BFD",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Ayala, Ossé, Ung, Cabán, Banks and Stevens",
+      "LastModified": "2025-02-12T17:14:37.15Z"
     }
   ],
   "AgendaLastPublished": "2025-02-07T19:53:03.4Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-02-07T19:53:03.443Z"
+  "MinutesLastPublished": "2025-02-12T17:15:11.207Z",
+  "LastModified": "2025-02-12T17:15:11.3Z"
 }
