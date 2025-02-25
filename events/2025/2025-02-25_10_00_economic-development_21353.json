@@ -8,10 +8,13 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/2/21353_A_Committee_on_Economic_Development_25-02-25_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/2/21353_M_Committee_on_Economic_Development_25-02-25_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Contracts.",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_250225-101427.mp4",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_250225-101427.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21353&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,39 +22,156 @@
       "GUID": "82E22D90-721C-4858-8EFC-E4E0301267C3",
       "Title": "Jointly with the Committee on Contracts",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "",
-      "LastModified": "2025-02-11T22:03:23.97Z"
+      "LastModified": "2025-02-25T18:17:46.7Z"
     },
     {
       "ID": 416267,
       "GUID": "8007B2F3-CFF6-43EB-A7DA-009A666968F8",
       "Title": "Oversight - Food Quality in New York City Shelters.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 75350,
       "MatterFile": "T2025-3055",
       "MatterName": "Oversight - Food Quality in New York City Shelters.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-02-11T22:03:23.8Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-02-25T18:17:41.71Z"
     },
     {
       "ID": 416875,
       "GUID": "B1754F96-80EB-46CD-9D29-C38C5EE85616",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring standardized feedback surveys from food services contractors",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 74242,
       "MatterFile": "Int 0905-2024",
       "MatterName": "Requiring standardized feedback surveys from food services contractors.",
       "MatterType": "Introduction",
-      "LastModified": "2025-02-11T22:29:59.967Z"
+      "LastModified": "2025-02-25T20:01:58.24Z"
+    },
+    {
+      "ID": 417386,
+      "GUID": "FB61903F-8BA1-44A1-8362-91D595F70BF6",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Won, Nurse, Stevens, Salamanca and Brewer",
+      "LastModified": "2025-02-25T18:16:16.983Z"
+    },
+    {
+      "ID": 417387,
+      "GUID": "6357EF51-AF6D-4958-B2BF-2068B9A50A30",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 30
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 66,
+          "Value": "Parental ",
+          "Sort": 40
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2025-02-25T18:16:29.137Z"
+    },
+    {
+      "ID": 417388,
+      "GUID": "E263AEE4-A734-4C58-8FC3-C257ABA63D91",
+      "Title": "Oversight - Food Quality in New York City Shelters.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 75350,
+      "MatterFile": "T2025-3055",
+      "MatterName": "Oversight - Food Quality in New York City Shelters.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-02-25T18:17:45.247Z"
+    },
+    {
+      "ID": 417389,
+      "GUID": "FBC0CAF1-7C12-49A2-93F9-E2A7859B75DB",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring standardized feedback surveys from food services contractors",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 74242,
+      "MatterFile": "Int 0905-2024",
+      "MatterName": "Requiring standardized feedback surveys from food services contractors.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-02-25T20:02:03.44Z"
     }
   ],
   "AgendaLastPublished": "2025-02-11T22:30:04.79Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-02-25T15:14:29.073Z"
+  "MinutesLastPublished": "2025-02-25T18:18:03.203Z",
+  "LastModified": "2025-02-25T18:18:03.327Z"
 }
