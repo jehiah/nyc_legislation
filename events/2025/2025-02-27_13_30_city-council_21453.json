@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/2/21453_A_City_Council_25-02-27_Council_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/2/21453_M_City_Council_25-02-27_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_250227-140308.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21453&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -22,7 +24,402 @@
       "AgendaNumber": "1.",
       "Version": "",
       "AgendaNote": "ROLL CALL",
-      "LastModified": "2025-02-27T16:25:07.66Z"
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7739,
+          "Slug": "adrienne-e-adams",
+          "FullName": "Adrienne E. Adams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 41
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 80
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 110
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 120
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 130
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 150
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 170
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 66,
+          "Value": "Parental ",
+          "Sort": 190
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 200
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 210
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 220
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 230
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 240
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 250
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 260
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 270
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 280
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 290
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 300
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 310
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 320
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 330
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 340
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 350
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 361
+        },
+        {
+          "ID": 7741,
+          "Slug": "keith-powers",
+          "FullName": "Keith Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 370
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 380
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 390
+        },
+        {
+          "ID": 7740,
+          "Slug": "carlina-rivera",
+          "FullName": "Carlina Rivera",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 400
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 410
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 420
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 430
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 440
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 450
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 460
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 471
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 480
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 490
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 510
+        }
+      ],
+      "LastModified": "2025-02-27T22:29:10.05Z"
     },
     {
       "ID": 417423,
@@ -34,7 +431,7 @@
       "Version": "",
       "AgendaNote": "INVOCATION - Delivered by: Bishop George Shorts, Pilgrim Cathedral of East New York located at 590 New Lots Avenue, Brooklyn NY 11207.\r\n\r\nMotion to spread the Invocation in full upon the record by Council Member Banks.",
       "MinutesNote": "The Invocation was delivered by Bishop George Shorts, Pilgrim Cathedral of East New York located at 590 New Lots Avenue, Brooklyn, N.Y. 11207.\r\n\r\nCouncil Member Banks moved to spread the Invocation in full upon the Record.\r\n\r\n",
-      "LastModified": "2025-02-27T16:33:45.92Z"
+      "LastModified": "2025-02-27T22:29:10.053Z"
     },
     {
       "ID": 417424,
@@ -45,8 +442,8 @@
       "AgendaNumber": "3.",
       "Version": "",
       "AgendaNote": "ADOPTION OF MINUTES - Motion that the Minutes of the Stated Meeting of February 13, 2025 be adopted as printed by Council Member Hanif.",
-      "MinutesNote": "Council Member Hanif moved that the Minutes of the Stated Meeting of February 13 2025 be adopted as printed.",
-      "LastModified": "2025-02-27T16:34:25.883Z"
+      "MinutesNote": "Council Member Hanif moved that the Minutes of the Stated Meeting of February 13, 2025 be adopted as printed.",
+      "LastModified": "2025-02-27T22:29:10.053Z"
     },
     {
       "ID": 417425,
@@ -57,7 +454,8 @@
       "AgendaNumber": "4.",
       "Version": "",
       "AgendaNote": "MESSAGES & PAPERS FROM THE MAYOR - None",
-      "LastModified": "2025-02-27T16:34:34.45Z"
+      "MinutesNote": "None.",
+      "LastModified": "2025-02-27T22:29:10.057Z"
     },
     {
       "ID": 417426,
@@ -68,7 +466,7 @@
       "AgendaNumber": "5.",
       "Version": "",
       "AgendaNote": "COMMUNICATIONS FROM CITY, COUNTY & BOROUGH OFFICES -",
-      "LastModified": "2025-02-27T16:29:31.647Z"
+      "LastModified": "2025-02-27T22:29:10.057Z"
     },
     {
       "ID": 417427,
@@ -78,12 +476,15 @@
       "MinutesSequence": 8,
       "Version": "*",
       "AgendaNote": "Preconsidered - Finance",
+      "ActionID": 43,
+      "ActionName": "Referred to Comm by Council",
+      "ActionText": "This Communication was Referred to Comm by Council to the Committee on Finance",
       "MatterID": 72380,
       "MatterFile": "M 0111-2025",
       "MatterName": "The Operating Budget of the Council of the City of New York.",
       "MatterType": "Communication",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2025-02-27T16:25:07.663Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2025-02-27T22:29:10.057Z"
     },
     {
       "ID": 417428,
@@ -93,12 +494,15 @@
       "MinutesSequence": 9,
       "Version": "*",
       "AgendaNote": "Preconsidered - Finance",
+      "ActionID": 43,
+      "ActionName": "Referred to Comm by Council",
+      "ActionText": "This Communication was Referred to Comm by Council to the Committee on Finance",
       "MatterID": 72382,
       "MatterFile": "M 0112-2025",
       "MatterName": "Schedule detailing the lump sum OTPS Unit of Appropriation of the Operating Budget of the Council of the City of New York.",
       "MatterType": "Communication",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2025-02-27T16:25:07.663Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2025-02-27T22:29:10.06Z"
     },
     {
       "ID": 417429,
@@ -110,7 +514,7 @@
       "Version": "",
       "AgendaNote": "PETITIONS & COMMUNICATIONS - None",
       "MinutesNote": "None.",
-      "LastModified": "2025-02-27T16:34:42.07Z"
+      "LastModified": "2025-02-27T22:29:10.06Z"
     },
     {
       "ID": 417430,
@@ -121,7 +525,7 @@
       "AgendaNumber": "7.",
       "Version": "",
       "AgendaNote": "LAND USE CALL-UPS –",
-      "LastModified": "2025-02-27T16:25:07.667Z"
+      "LastModified": "2025-02-27T22:29:10.06Z"
     },
     {
       "ID": 417431,
@@ -130,12 +534,17 @@
       "AgendaSequence": 10,
       "MinutesSequence": 13,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Call-Up be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 75502,
       "MatterFile": "M 0113-2025",
       "MatterName": "Zoning, Queens Future Map Change and Amendment, Queens (C 250047 MMQ and C 250046 ZMQ).",
       "MatterType": "Land Use Call-Up",
-      "MatterStatus": "Coupled on Call-Up Vote",
-      "LastModified": "2025-02-27T16:25:07.67Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2025-02-27T22:29:10.063Z"
     },
     {
       "ID": 417433,
@@ -146,7 +555,7 @@
       "AgendaNumber": "8.",
       "Version": "",
       "AgendaNote": "COMMUNICATION FROM THE SPEAKER",
-      "LastModified": "2025-02-27T16:25:07.67Z"
+      "LastModified": "2025-02-27T22:29:10.063Z"
     },
     {
       "ID": 417434,
@@ -157,7 +566,7 @@
       "AgendaNumber": "9.",
       "Version": "",
       "AgendaNote": "DISCUSSION OF GENERAL ORDERS",
-      "LastModified": "2025-02-27T16:25:07.67Z"
+      "LastModified": "2025-02-27T22:29:10.067Z"
     },
     {
       "ID": 417435,
@@ -169,7 +578,7 @@
       "Version": "",
       "AgendaNote": "REPORTS OF SPECIAL COMMITTEES - None",
       "MinutesNote": "None.",
-      "LastModified": "2025-02-27T16:30:09.1Z"
+      "LastModified": "2025-02-27T22:29:10.067Z"
     },
     {
       "ID": 417436,
@@ -180,7 +589,7 @@
       "AgendaNumber": "11.",
       "Version": "",
       "AgendaNote": "REPORTS OF STANDING COMMITTEES",
-      "LastModified": "2025-02-27T16:25:07.673Z"
+      "LastModified": "2025-02-27T22:29:10.067Z"
     },
     {
       "ID": 417437,
@@ -190,7 +599,7 @@
       "MinutesSequence": 19,
       "Version": "",
       "AgendaNote": "REPORT OF THE COMMITTEE ON AGING",
-      "LastModified": "2025-02-27T16:25:07.673Z"
+      "LastModified": "2025-02-27T22:29:10.07Z"
     },
     {
       "ID": 417438,
@@ -200,11 +609,17 @@
       "MinutesSequence": 75,
       "Version": "*",
       "AgendaNote": "Adopted by the Committee on Aging",
+      "MinutesNote": "Pursuant to Rule 8.50 of the Council, the Majority Leader and Acting President Pro Tempore (Council Member Farías) called for a voice vote.  Hearing no objections, the Majority Leader and Acting President Pro Tempore (Council Member Farías) declared the Resolution to be adopted.\r\n\r\nAdopted unanimously by the Council by voice-vote.",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by voice vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 74582,
       "MatterFile": "Res 0561-2024",
       "MatterName": "Create a statewide public guardianship system to address current inequities and deficits and safeguard vulnerable New Yorkers in need of protective arrangements.",
       "MatterType": "Resolution",
-      "LastModified": "2025-02-27T16:31:12.337Z"
+      "LastModified": "2025-02-27T22:29:10.117Z"
     },
     {
       "ID": 417439,
@@ -214,11 +629,17 @@
       "MinutesSequence": 20,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on GO",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74888,
       "MatterFile": "Int 1092-2024",
       "MatterName": "Educating older adults about elder fraud, end of life preparation, and financial literacy.",
       "MatterType": "Introduction",
-      "LastModified": "2025-02-27T16:25:07.677Z"
+      "LastModified": "2025-02-27T22:29:10.07Z"
     },
     {
       "ID": 417440,
@@ -228,7 +649,7 @@
       "MinutesSequence": 21,
       "Version": "",
       "AgendaNote": "REPORT OF THE COMMITTEE ON CHILDREN AND YOUTH",
-      "LastModified": "2025-02-27T16:25:07.677Z"
+      "LastModified": "2025-02-27T22:29:10.07Z"
     },
     {
       "ID": 417441,
@@ -238,11 +659,17 @@
       "MinutesSequence": 23,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on GO",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 71131,
       "MatterFile": "Int 0794-2024",
       "MatterName": "Composition of the youth board.",
       "MatterType": "Introduction",
-      "LastModified": "2025-02-27T16:25:07.677Z"
+      "LastModified": "2025-02-27T22:29:10.07Z"
     },
     {
       "ID": 417442,
@@ -252,11 +679,17 @@
       "MinutesSequence": 22,
       "Version": "B",
       "AgendaNote": "Amended and Coupled on GO",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 72518,
       "MatterFile": "Int 0009-2024",
       "MatterName": "Providing information about obtaining counsel at the first point of contact during a covered proceeding.",
       "MatterType": "Introduction",
-      "LastModified": "2025-02-27T16:25:07.677Z"
+      "LastModified": "2025-02-27T22:29:10.07Z"
     },
     {
       "ID": 417446,
@@ -266,7 +699,7 @@
       "MinutesSequence": 24,
       "Version": "",
       "AgendaNote": "REPORT OF THE COMMITTEE ON CRIMINAL JUSTICE",
-      "LastModified": "2025-02-27T16:25:07.68Z"
+      "LastModified": "2025-02-27T22:29:10.07Z"
     },
     {
       "ID": 417447,
@@ -276,11 +709,17 @@
       "MinutesSequence": 25,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on GO",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74764,
       "MatterFile": "Int 1061-2024",
       "MatterName": "Department of correction report on sexual abuse.",
       "MatterType": "Introduction",
-      "LastModified": "2025-02-27T16:25:07.68Z"
+      "LastModified": "2025-02-27T22:29:10.073Z"
     },
     {
       "ID": 417448,
@@ -290,7 +729,7 @@
       "MinutesSequence": 26,
       "Version": "",
       "AgendaNote": "REPORT OF THE COMMITTEE ON FINANCE",
-      "LastModified": "2025-02-27T16:25:07.68Z"
+      "LastModified": "2025-02-27T22:29:10.073Z"
     },
     {
       "ID": 417452,
@@ -300,11 +739,17 @@
       "MinutesSequence": 76,
       "Version": "A",
       "AgendaNote": "Preconsidered - Amended and Adopted by the Committee on Health",
+      "MinutesNote": "Pursuant to Rule 8.50 of the Council, the Public Advocate (Mr. Williams) called for a voice vote.  Hearing no objections, the Public Advocate (Mr. Williams) declared the Resolution to be adopted.\r\n\r\nAdopted unanimously by the Council by voice-vote.",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by voice vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 75444,
       "MatterFile": "Res 0782-2025",
       "MatterName": "Amount of state aid reimbursement for public health services by a municipality in the city of New York when the municipality is providing some or all of certain identified core public health services (A.2705/S.4801).",
       "MatterType": "Resolution",
-      "LastModified": "2025-02-27T16:25:07.73Z"
+      "LastModified": "2025-02-27T22:29:43.45Z"
     },
     {
       "ID": 417453,
@@ -314,7 +759,7 @@
       "MinutesSequence": 37,
       "Version": "",
       "AgendaNote": "REPORT OF THE COMMITTEE ON PUBLIC SAFETY",
-      "LastModified": "2025-02-27T16:25:07.69Z"
+      "LastModified": "2025-02-27T22:29:10.083Z"
     },
     {
       "ID": 417454,
@@ -324,11 +769,17 @@
       "MinutesSequence": 38,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on GO",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 74973,
       "MatterFile": "Int 1101-2024",
       "MatterName": "Requiring the police department to provide information and officer training relating to identity theft.",
       "MatterType": "Introduction",
-      "LastModified": "2025-02-27T16:25:07.693Z"
+      "LastModified": "2025-02-27T22:29:10.083Z"
     },
     {
       "ID": 417455,
@@ -338,7 +789,7 @@
       "MinutesSequence": 39,
       "Version": "",
       "AgendaNote": "REPORT OF THE COMMITTEE ON SANITATION AND SOLID WASTE MANAGEMENT",
-      "LastModified": "2025-02-27T16:25:07.693Z"
+      "LastModified": "2025-02-27T22:29:10.087Z"
     },
     {
       "ID": 417456,
@@ -348,11 +799,17 @@
       "MinutesSequence": 40,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on GO",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 73468,
       "MatterFile": "Int 0498-2024",
       "MatterName": "Requiring an application for community gardens to request collection of organic waste by the department of sanitation.",
       "MatterType": "Introduction",
-      "LastModified": "2025-02-27T16:25:07.693Z"
+      "LastModified": "2025-02-27T22:29:10.087Z"
     },
     {
       "ID": 417457,
@@ -362,11 +819,17 @@
       "MinutesSequence": 41,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on GO",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 75070,
       "MatterFile": "Int 1126-2024",
       "MatterName": "Requiring the provision of official waste containers at no cost to certain residential buildings with 2 or fewer dwelling units, and providing for the repeal of such local law upon the expiration thereof.",
       "MatterType": "Introduction",
-      "LastModified": "2025-02-27T16:25:07.697Z"
+      "LastModified": "2025-02-27T22:29:10.087Z"
     },
     {
       "ID": 417461,
@@ -377,7 +840,7 @@
       "AgendaNumber": "12.",
       "Version": "",
       "AgendaNote": "GENERAL ORDERS CALENDAR",
-      "LastModified": "2025-02-27T16:25:07.697Z"
+      "LastModified": "2025-02-27T22:29:10.087Z"
     },
     {
       "ID": 417462,
@@ -387,11 +850,17 @@
       "MinutesSequence": 44,
       "Version": "*",
       "AgendaNote": "Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 75448,
       "MatterFile": "Res 0789-2025",
       "MatterName": "LU 212 - Zoning, 441 & 467 Prospect Avenue Rezoning, Brooklyn (C 240280 ZMK).",
       "MatterType": "Resolution",
-      "LastModified": "2025-02-27T16:25:07.7Z"
+      "LastModified": "2025-02-27T22:29:10.09Z"
     },
     {
       "ID": 417463,
@@ -401,11 +870,17 @@
       "MinutesSequence": 46,
       "Version": "*",
       "AgendaNote": "Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 75449,
       "MatterFile": "Res 0790-2025",
       "MatterName": "LU 213 - Zoning, 441 & 467 Prospect Avenue Rezoning, Brooklyn (N 240281 ZRK).",
       "MatterType": "Resolution",
-      "LastModified": "2025-02-27T16:25:07.7Z"
+      "LastModified": "2025-02-27T22:29:10.09Z"
     },
     {
       "ID": 417464,
@@ -415,7 +890,7 @@
       "MinutesSequence": 47,
       "Version": "",
       "AgendaNote": "COUPLED ON GENERAL ORDERS CALENDAR",
-      "LastModified": "2025-02-27T16:25:07.7Z"
+      "LastModified": "2025-02-27T22:29:10.093Z"
     },
     {
       "ID": 417465,
@@ -426,7 +901,7 @@
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "AGING",
-      "LastModified": "2025-02-27T16:25:07.703Z"
+      "LastModified": "2025-02-27T22:29:10.093Z"
     },
     {
       "ID": 417466,
@@ -441,7 +916,7 @@
       "MatterFile": "Int 1092-2024",
       "MatterName": "Educating older adults about elder fraud, end of life preparation, and financial literacy.",
       "MatterType": "Introduction",
-      "LastModified": "2025-02-27T16:25:07.703Z"
+      "LastModified": "2025-02-27T22:29:10.093Z"
     },
     {
       "ID": 417468,
@@ -452,7 +927,7 @@
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "CRIMINAL JUSTICE",
-      "LastModified": "2025-02-27T16:25:07.71Z"
+      "LastModified": "2025-02-27T22:29:10.097Z"
     },
     {
       "ID": 417469,
@@ -467,7 +942,7 @@
       "MatterFile": "Int 1061-2024",
       "MatterName": "Department of correction report on sexual abuse.",
       "MatterType": "Introduction",
-      "LastModified": "2025-02-27T16:25:07.71Z"
+      "LastModified": "2025-02-27T22:29:10.1Z"
     },
     {
       "ID": 417470,
@@ -478,7 +953,7 @@
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "FINANCE",
-      "LastModified": "2025-02-27T16:25:07.71Z"
+      "LastModified": "2025-02-27T22:29:10.1Z"
     },
     {
       "ID": 417473,
@@ -489,7 +964,7 @@
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "GOVERNMENTAL OPERATIONS, STATE & FEDERAL LEGISLATION",
-      "LastModified": "2025-02-27T16:25:07.717Z"
+      "LastModified": "2025-02-27T22:29:10.103Z"
     },
     {
       "ID": 417474,
@@ -504,7 +979,7 @@
       "MatterFile": "Int 0565-2024",
       "MatterName": "Providing survivors of domestic violence with guidance on making voter registration records confidential and voting by special ballot.",
       "MatterType": "Introduction",
-      "LastModified": "2025-02-27T16:25:07.717Z"
+      "LastModified": "2025-02-27T22:29:10.103Z"
     },
     {
       "ID": 417477,
@@ -515,7 +990,7 @@
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "PUBLIC SAFETY",
-      "LastModified": "2025-02-27T16:25:07.72Z"
+      "LastModified": "2025-02-27T22:29:10.107Z"
     },
     {
       "ID": 417478,
@@ -530,7 +1005,7 @@
       "MatterFile": "Int 1101-2024",
       "MatterName": "Requiring the police department to provide information and officer training relating to identity theft.",
       "MatterType": "Introduction",
-      "LastModified": "2025-02-27T16:25:07.72Z"
+      "LastModified": "2025-02-27T22:29:10.107Z"
     },
     {
       "ID": 417479,
@@ -541,7 +1016,7 @@
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "SANITATION AND SOLID WASTE MANAGEMENT",
-      "LastModified": "2025-02-27T16:25:07.72Z"
+      "LastModified": "2025-02-27T22:29:10.107Z"
     },
     {
       "ID": 417480,
@@ -556,7 +1031,7 @@
       "MatterFile": "Int 0498-2024",
       "MatterName": "Requiring an application for community gardens to request collection of organic waste by the department of sanitation.",
       "MatterType": "Introduction",
-      "LastModified": "2025-02-27T16:25:07.723Z"
+      "LastModified": "2025-02-27T22:29:10.11Z"
     },
     {
       "ID": 417481,
@@ -571,7 +1046,7 @@
       "MatterFile": "Int 1126-2024",
       "MatterName": "Requiring the provision of official waste containers at no cost to certain residential buildings with 2 or fewer dwelling units, and providing for the repeal of such local law upon the expiration thereof.",
       "MatterType": "Introduction",
-      "LastModified": "2025-02-27T16:25:07.723Z"
+      "LastModified": "2025-02-27T22:29:10.11Z"
     },
     {
       "ID": 417482,
@@ -582,7 +1057,7 @@
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "GENERAL ORDERS CALENDAR",
-      "LastModified": "2025-02-27T16:25:07.723Z"
+      "LastModified": "2025-02-27T22:29:10.11Z"
     },
     {
       "ID": 417483,
@@ -597,7 +1072,7 @@
       "MatterFile": "Res 0789-2025",
       "MatterName": "LU 212 - Zoning, 441 & 467 Prospect Avenue Rezoning, Brooklyn (C 240280 ZMK).",
       "MatterType": "Resolution",
-      "LastModified": "2025-02-27T16:25:07.723Z"
+      "LastModified": "2025-02-27T22:29:10.11Z"
     },
     {
       "ID": 417484,
@@ -612,7 +1087,7 @@
       "MatterFile": "Res 0790-2025",
       "MatterName": "LU 213 - Zoning, 441 & 467 Prospect Avenue Rezoning, Brooklyn (N 240281 ZRK).",
       "MatterType": "Resolution",
-      "LastModified": "2025-02-27T16:30:30.72Z"
+      "LastModified": "2025-02-27T22:29:10.113Z"
     },
     {
       "ID": 417485,
@@ -623,7 +1098,7 @@
       "AgendaNumber": "13.",
       "Version": "",
       "AgendaNote": "INTRODUCTION & READING OF BILLS (SEE BELOW)",
-      "LastModified": "2025-02-27T16:30:18.48Z"
+      "LastModified": "2025-02-27T22:29:10.113Z"
     },
     {
       "ID": 417486,
@@ -634,7 +1109,7 @@
       "AgendaNumber": "14.",
       "Version": "",
       "AgendaNote": "DISCUSSION OF RESOLUTIONS",
-      "LastModified": "2025-02-27T16:25:07.73Z"
+      "LastModified": "2025-02-27T22:29:10.117Z"
     },
     {
       "ID": 417487,
@@ -645,7 +1120,7 @@
       "AgendaNumber": "15.",
       "Version": "",
       "AgendaNote": "RESOLUTIONS",
-      "LastModified": "2025-02-27T16:25:07.73Z"
+      "LastModified": "2025-02-27T22:29:10.117Z"
     },
     {
       "ID": 417488,
@@ -656,7 +1131,7 @@
       "AgendaNumber": "16.",
       "Version": "",
       "AgendaNote": "GENERAL DISCUSSION",
-      "LastModified": "2025-02-27T16:31:20.763Z"
+      "LastModified": "2025-02-27T22:29:10.12Z"
     },
     {
       "ID": 417489,
@@ -667,7 +1142,7 @@
       "AgendaNumber": "17.",
       "Version": "",
       "AgendaNote": "EXTENSION OF REMARKS",
-      "LastModified": "2025-02-27T16:25:07.733Z"
+      "LastModified": "2025-02-27T22:29:10.12Z"
     },
     {
       "ID": 417490,
@@ -677,7 +1152,7 @@
       "MinutesSequence": 79,
       "Version": "",
       "AgendaNote": "INTRODUCTION AND READING OF BILLS - Pursuant to Section 33-a of the New York City Charter, the New York City Council may vote on the following items no earlier than 30 days from the date of this notice. The New York City Council reserves the right to vote without the notice required pursuant to Section 33-a on any proposed local laws that do not relate to the public safety operations of the New York City Police Department, the Fire Department or the Department of Correction.",
-      "LastModified": "2025-02-27T16:25:07.733Z"
+      "LastModified": "2025-02-27T22:29:10.12Z"
     },
     {
       "ID": 417491,
@@ -695,7 +1170,7 @@
       "MatterFile": "Int 1199-2025",
       "MatterName": "Creating an office of housing development fund company outreach.",
       "MatterType": "Introduction",
-      "LastModified": "2025-02-27T16:25:07.733Z"
+      "LastModified": "2025-02-27T22:29:10.123Z"
     },
     {
       "ID": 417492,
@@ -713,7 +1188,7 @@
       "MatterFile": "Res 0771-2025",
       "MatterName": "Extend protections over personal health information (S.929/A.2141).",
       "MatterType": "Resolution",
-      "LastModified": "2025-02-27T16:25:07.737Z"
+      "LastModified": "2025-02-27T22:29:10.123Z"
     },
     {
       "ID": 417493,
@@ -723,11 +1198,17 @@
       "MinutesSequence": 32,
       "Version": "*",
       "AgendaNote": "Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 72381,
       "MatterFile": "Res 0787-2025",
       "MatterName": "M 111 - The Operating Budget of the Council of the City of New York.",
       "MatterType": "Resolution",
-      "LastModified": "2025-02-27T16:25:07.687Z"
+      "LastModified": "2025-02-27T22:29:10.08Z"
     },
     {
       "ID": 417494,
@@ -737,11 +1218,17 @@
       "MinutesSequence": 34,
       "Version": "*",
       "AgendaNote": "Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 72383,
       "MatterFile": "Res 0788-2025",
       "MatterName": "M 112 - Schedule detailing the lump sum OTPS Unit of Appropriation of the Operating Budget of the Council of the City of New York.",
       "MatterType": "Resolution",
-      "LastModified": "2025-02-27T16:25:07.69Z"
+      "LastModified": "2025-02-27T22:29:10.08Z"
     },
     {
       "ID": 417495,
@@ -751,11 +1238,17 @@
       "MinutesSequence": 28,
       "Version": "*",
       "AgendaNote": "Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 75477,
       "MatterFile": "Res 0785-2025",
       "MatterName": "LU 242 - BRC Cluster 3, Block 2436, Lot 33, Block 2478, Lot 46, Block 2479, Lot 36, Bronx, Community District No. 4, Council District No. 16.",
       "MatterType": "Resolution",
-      "LastModified": "2025-02-27T16:25:07.683Z"
+      "LastModified": "2025-02-27T22:29:10.077Z"
     },
     {
       "ID": 417496,
@@ -765,11 +1258,17 @@
       "MinutesSequence": 30,
       "Version": "*",
       "AgendaNote": "Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 75493,
       "MatterFile": "Res 0786-2025",
       "MatterName": "LU 243 - B&R, Block 3215, Lot 22, Brooklyn, Community District No. 4, Council District No. 34.",
       "MatterType": "Resolution",
-      "LastModified": "2025-02-27T16:25:07.683Z"
+      "LastModified": "2025-02-27T22:29:10.077Z"
     },
     {
       "ID": 417497,
@@ -787,7 +1286,7 @@
       "MatterFile": "Int 1200-2025",
       "MatterName": "Public information and outreach campaign regarding legal rights and resources available to TGNCNBI individuals.",
       "MatterType": "Introduction",
-      "LastModified": "2025-02-27T16:25:07.737Z"
+      "LastModified": "2025-02-27T22:29:10.123Z"
     },
     {
       "ID": 417498,
@@ -805,7 +1304,7 @@
       "MatterFile": "Res 0772-2025",
       "MatterName": "Alteration or repeal of real property tax exemptions for private institutions of higher education (S.1419/A.898).",
       "MatterType": "Resolution",
-      "LastModified": "2025-02-27T16:25:07.737Z"
+      "LastModified": "2025-02-27T22:29:10.123Z"
     },
     {
       "ID": 417499,
@@ -823,7 +1322,7 @@
       "MatterFile": "Res 0773-2025",
       "MatterName": "Require the MTA to provide free express bus fare to NYC students who take express buses to and from school.",
       "MatterType": "Resolution",
-      "LastModified": "2025-02-27T16:25:07.737Z"
+      "LastModified": "2025-02-27T22:29:10.127Z"
     },
     {
       "ID": 417500,
@@ -841,7 +1340,7 @@
       "MatterFile": "Int 1201-2025",
       "MatterName": "Access to gender-affirming care facilities and a cause of action related to interference with gender-affirming care.",
       "MatterType": "Introduction",
-      "LastModified": "2025-02-27T16:25:07.74Z"
+      "LastModified": "2025-02-27T22:29:10.127Z"
     },
     {
       "ID": 417501,
@@ -859,7 +1358,7 @@
       "MatterFile": "Res 0774-2025",
       "MatterName": "Dept of Health to implement regulations requiring hospitals in NYC to adhere to the World Professional Association for Transgender Health’s Standards of Care 8.",
       "MatterType": "Resolution",
-      "LastModified": "2025-02-27T16:25:07.74Z"
+      "LastModified": "2025-02-27T22:29:10.127Z"
     },
     {
       "ID": 417502,
@@ -877,7 +1376,7 @@
       "MatterFile": "Res 0776-2025",
       "MatterName": "CUNY to collect and publicize data regarding the participation of students in the associate degree apprenticeship programs co-sponsored with business & industry and to disaggregate such data by student gender, race & ethnicity & income.",
       "MatterType": "Resolution",
-      "LastModified": "2025-02-27T16:25:07.743Z"
+      "LastModified": "2025-02-27T22:29:10.13Z"
     },
     {
       "ID": 417503,
@@ -895,7 +1394,7 @@
       "MatterFile": "Res 0775-2025",
       "MatterName": "Increase the funeral cost limit of burial services for low-income residents of New York from $3,400 to $6,000.",
       "MatterType": "Resolution",
-      "LastModified": "2025-02-27T16:25:07.74Z"
+      "LastModified": "2025-02-27T22:29:10.13Z"
     },
     {
       "ID": 417504,
@@ -913,7 +1412,7 @@
       "MatterFile": "Int 1202-2025",
       "MatterName": "Prohibiting the installation of artificial grass in city parks.",
       "MatterType": "Introduction",
-      "LastModified": "2025-02-27T16:25:07.743Z"
+      "LastModified": "2025-02-27T22:29:10.13Z"
     },
     {
       "ID": 417505,
@@ -931,7 +1430,7 @@
       "MatterFile": "Res 0777-2025",
       "MatterName": "Creating a public benefit corporation for the construction, acquisition, and rehabilitation of permanently affordable housing (A.9088/S.8494).",
       "MatterType": "Resolution",
-      "LastModified": "2025-02-27T16:25:07.743Z"
+      "LastModified": "2025-02-27T22:29:10.13Z"
     },
     {
       "ID": 417506,
@@ -949,7 +1448,7 @@
       "MatterFile": "Res 0778-2025",
       "MatterName": "Creating an independent Housing Development Authority under the Department of Housing and Urban Development for the acquisition, remediation, and construction of permanently affordable housing. (H.R.9662/S.5078)",
       "MatterType": "Resolution",
-      "LastModified": "2025-02-27T16:25:07.747Z"
+      "LastModified": "2025-02-27T22:29:10.133Z"
     },
     {
       "ID": 417507,
@@ -967,7 +1466,7 @@
       "MatterFile": "Int 1204-2025",
       "MatterName": "Requiring the commissioner of health and mental hygiene to develop a health agenda to promote the health and wellbeing of transgender, gender nonconforming, nonbinary, and intersex New Yorkers.",
       "MatterType": "Introduction",
-      "LastModified": "2025-02-27T16:25:07.747Z"
+      "LastModified": "2025-02-27T22:29:10.133Z"
     },
     {
       "ID": 417508,
@@ -985,7 +1484,7 @@
       "MatterFile": "Int 1203-2025",
       "MatterName": "Requiring the chair of the commission on gender equity to develop a plan to support newly arrived migrants 24 years old and younger and transgender, gender non-conforming, non-binary, and intersex newly arrived migrants.",
       "MatterType": "Introduction",
-      "LastModified": "2025-02-27T16:25:07.747Z"
+      "LastModified": "2025-02-27T22:29:10.133Z"
     },
     {
       "ID": 417509,
@@ -1003,7 +1502,7 @@
       "MatterFile": "Res 0779-2025",
       "MatterName": "Recognizing May 19, 2025, as the 100th birthday of Malcolm X and commemorating May 19 annually as Malcolm X Day in the City of New York.",
       "MatterType": "Resolution",
-      "LastModified": "2025-02-27T16:25:07.75Z"
+      "LastModified": "2025-02-27T22:29:10.137Z"
     },
     {
       "ID": 417510,
@@ -1021,7 +1520,7 @@
       "MatterFile": "Res 0780-2025",
       "MatterName": "Institute a rolling application deadline in NYC for the disability homeowner exemption and the senior citizen homeowner exemption.",
       "MatterType": "Resolution",
-      "LastModified": "2025-02-27T16:25:07.75Z"
+      "LastModified": "2025-02-27T22:29:10.137Z"
     },
     {
       "ID": 417511,
@@ -1039,7 +1538,7 @@
       "MatterFile": "Res 0781-2025",
       "MatterName": "Prohibit out-of-state access to the New York State Prescription Monitoring Program’s data for certain medications including abortion medications, hormone therapy, and puberty blockers.",
       "MatterType": "Resolution",
-      "LastModified": "2025-02-27T16:25:07.75Z"
+      "LastModified": "2025-02-27T22:29:10.137Z"
     },
     {
       "ID": 417512,
@@ -1057,7 +1556,7 @@
       "MatterFile": "Res 0782-2025",
       "MatterName": "Amount of state aid reimbursement for public health services by a municipality in the city of New York when the municipality is providing some or all of certain identified core public health services (A.2705/S.4801).",
       "MatterType": "Resolution",
-      "LastModified": "2025-02-27T16:25:07.75Z"
+      "LastModified": "2025-02-27T22:29:10.137Z"
     },
     {
       "ID": 417514,
@@ -1075,7 +1574,7 @@
       "MatterFile": "Res 0784-2025",
       "MatterName": "Require that hair relaxer products display labels when they contain certain dangerous chemicals.",
       "MatterType": "Resolution",
-      "LastModified": "2025-02-27T16:25:07.753Z"
+      "LastModified": "2025-02-27T22:29:10.14Z"
     },
     {
       "ID": 417515,
@@ -1093,7 +1592,7 @@
       "MatterFile": "Res 0783-2025",
       "MatterName": "Enacting the New York Data Protection Act. (S. 4860)",
       "MatterType": "Resolution",
-      "LastModified": "2025-02-27T16:25:07.753Z"
+      "LastModified": "2025-02-27T22:29:10.14Z"
     },
     {
       "ID": 417516,
@@ -1111,8 +1610,8 @@
       "MatterFile": "LU 0242-2025",
       "MatterName": "BRC Cluster 3, Block 2436, Lot 33, Block 2478, Lot 46, Block 2479, Lot 36, Bronx, Community District No. 4, Council District No. 16.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2025-02-27T16:25:07.753Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2025-02-27T22:29:10.14Z"
     },
     {
       "ID": 417517,
@@ -1130,8 +1629,8 @@
       "MatterFile": "LU 0243-2025",
       "MatterName": "B&R, Block 3215, Lot 22, Brooklyn, Community District No. 4, Council District No. 34.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2025-02-27T16:25:24.343Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2025-02-27T22:29:10.14Z"
     },
     {
       "ID": 417518,
@@ -1150,7 +1649,7 @@
       "MatterName": "Landmarks, Brownsville NCP, Brooklyn (C 250036 HAK).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2025-02-27T16:25:07.757Z"
+      "LastModified": "2025-02-27T22:29:10.14Z"
     },
     {
       "ID": 417519,
@@ -1169,7 +1668,7 @@
       "MatterName": "Landmarks, Brownsville NCP, Brooklyn (C 250037 ZMK).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2025-02-27T16:25:07.76Z"
+      "LastModified": "2025-02-27T22:29:10.143Z"
     },
     {
       "ID": 417520,
@@ -1188,7 +1687,7 @@
       "MatterName": "Landmarks, Brownsville NCP, Brooklyn (N 250038 ZRK).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2025-02-27T16:25:07.76Z"
+      "LastModified": "2025-02-27T22:29:10.143Z"
     },
     {
       "ID": 417521,
@@ -1207,7 +1706,7 @@
       "MatterName": "Landmarks, 2201 Davidson Avenue, Bronx (G 250068 NUX).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2025-02-27T16:25:07.763Z"
+      "LastModified": "2025-02-27T22:29:10.147Z"
     },
     {
       "ID": 417522,
@@ -1226,7 +1725,7 @@
       "MatterName": "Landmarks, 2201 Davidson Avenue Article XI, Bronx (G 250067 XAX).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2025-02-27T16:32:51.44Z"
+      "LastModified": "2025-02-27T22:29:10.15Z"
     },
     {
       "ID": 417523,
@@ -1245,7 +1744,7 @@
       "MatterName": "Zoning, Queens Future Map Change and Amendment. Queens (C 250046 ZMQ).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2025-02-27T16:25:07.767Z"
+      "LastModified": "2025-02-27T22:29:10.15Z"
     },
     {
       "ID": 417524,
@@ -1264,7 +1763,7 @@
       "MatterName": "Zoning, Queens Future Map Change and Amendment, Queens (C 250047 MMQ).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2025-02-27T16:25:07.77Z"
+      "LastModified": "2025-02-27T22:29:10.15Z"
     },
     {
       "ID": 417534,
@@ -1274,7 +1773,7 @@
       "MinutesSequence": 35,
       "Version": "",
       "AgendaNote": "REPORT OF THE COMMITTEE ON GOVERNMENTAL OPERATIONS, STATE & FEDERAL LEGISLATION",
-      "LastModified": "2025-02-27T16:25:07.69Z"
+      "LastModified": "2025-02-27T22:29:10.08Z"
     },
     {
       "ID": 417535,
@@ -1284,11 +1783,17 @@
       "MinutesSequence": 36,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on GO",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 73491,
       "MatterFile": "Int 0565-2024",
       "MatterName": "Providing survivors of domestic violence with guidance on making voter registration records confidential and voting by special ballot.",
       "MatterType": "Introduction",
-      "LastModified": "2025-02-27T16:25:07.69Z"
+      "LastModified": "2025-02-27T22:29:10.083Z"
     },
     {
       "ID": 417538,
@@ -1299,7 +1804,7 @@
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "CHILDREN AND YOUTH",
-      "LastModified": "2025-02-27T16:25:07.707Z"
+      "LastModified": "2025-02-27T22:29:10.093Z"
     },
     {
       "ID": 417539,
@@ -1314,7 +1819,7 @@
       "MatterFile": "Int 0009-2024",
       "MatterName": "Providing information about obtaining counsel at the first point of contact during a covered proceeding.",
       "MatterType": "Introduction",
-      "LastModified": "2025-02-27T16:25:07.707Z"
+      "LastModified": "2025-02-27T22:29:10.097Z"
     },
     {
       "ID": 417540,
@@ -1329,7 +1834,7 @@
       "MatterFile": "Int 0794-2024",
       "MatterName": "Composition of the youth board.",
       "MatterType": "Introduction",
-      "LastModified": "2025-02-27T16:25:07.707Z"
+      "LastModified": "2025-02-27T22:29:10.097Z"
     },
     {
       "ID": 417541,
@@ -1344,7 +1849,7 @@
       "MatterFile": "Res 0785-2025",
       "MatterName": "LU 242 - BRC Cluster 3, Block 2436, Lot 33, Block 2478, Lot 46, Block 2479, Lot 36, Bronx, Community District No. 4, Council District No. 16.",
       "MatterType": "Resolution",
-      "LastModified": "2025-02-27T16:25:07.71Z"
+      "LastModified": "2025-02-27T22:29:10.1Z"
     },
     {
       "ID": 417542,
@@ -1359,7 +1864,7 @@
       "MatterFile": "Res 0786-2025",
       "MatterName": "LU 243 - B&R, Block 3215, Lot 22, Brooklyn, Community District No. 4, Council District No. 34.",
       "MatterType": "Resolution",
-      "LastModified": "2025-02-27T16:25:07.713Z"
+      "LastModified": "2025-02-27T22:29:10.1Z"
     },
     {
       "ID": 417543,
@@ -1374,7 +1879,7 @@
       "MatterFile": "Res 0787-2025",
       "MatterName": "M 111 - The Operating Budget of the Council of the City of New York.",
       "MatterType": "Resolution",
-      "LastModified": "2025-02-27T16:25:07.713Z"
+      "LastModified": "2025-02-27T22:29:10.103Z"
     },
     {
       "ID": 417544,
@@ -1389,7 +1894,7 @@
       "MatterFile": "Res 0788-2025",
       "MatterName": "M 112 - Schedule detailing the lump sum OTPS Unit of Appropriation of the Operating Budget of the Council of the City of New York.",
       "MatterType": "Resolution",
-      "LastModified": "2025-02-27T16:25:07.717Z"
+      "LastModified": "2025-02-27T22:29:10.103Z"
     },
     {
       "ID": 417551,
@@ -1398,12 +1903,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 27,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 75472,
       "MatterFile": "LU 0242-2025",
       "MatterName": "BRC Cluster 3, Block 2436, Lot 33, Block 2478, Lot 46, Block 2479, Lot 36, Bronx, Community District No. 4, Council District No. 16.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2025-02-27T16:25:07.68Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2025-02-27T22:29:10.073Z"
     },
     {
       "ID": 417552,
@@ -1412,12 +1923,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 29,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 75492,
       "MatterFile": "LU 0243-2025",
       "MatterName": "B&R, Block 3215, Lot 22, Brooklyn, Community District No. 4, Council District No. 34.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2025-02-27T16:25:07.683Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2025-02-27T22:29:10.077Z"
     },
     {
       "ID": 417553,
@@ -1426,12 +1943,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 31,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Communication be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 72380,
       "MatterFile": "M 0111-2025",
       "MatterName": "The Operating Budget of the Council of the City of New York.",
       "MatterType": "Communication",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2025-02-27T16:25:07.687Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2025-02-27T22:29:10.08Z"
     },
     {
       "ID": 417554,
@@ -1440,12 +1963,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 33,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Communication be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 72382,
       "MatterFile": "M 0112-2025",
       "MatterName": "Schedule detailing the lump sum OTPS Unit of Appropriation of the Operating Budget of the Council of the City of New York.",
       "MatterType": "Communication",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2025-02-27T16:25:07.687Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2025-02-27T22:29:10.08Z"
     },
     {
       "ID": 417566,
@@ -1454,12 +1983,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 43,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 75228,
       "MatterFile": "LU 0212-2025",
       "MatterName": "Zoning, 441 & 467 Prospect Avenue Rezoning, Brooklyn (C 240280 ZMK).",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2025-02-27T16:25:07.697Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2025-02-27T22:29:10.09Z"
     },
     {
       "ID": 417567,
@@ -1468,12 +2003,18 @@
       "AgendaSequence": 0,
       "MinutesSequence": 45,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 75229,
       "MatterFile": "LU 0213-2025",
       "MatterName": "Zoning, 441 & 467 Prospect Avenue Rezoning, Brooklyn (N 240281 ZRK).",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2025-02-27T16:25:07.7Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2025-02-27T22:29:10.09Z"
     },
     {
       "ID": 417589,
@@ -1483,7 +2024,7 @@
       "MinutesSequence": 1,
       "Version": "",
       "MinutesNote": "The Majority Leader (Council Member Farías) presiding as the President Pro Tempore.",
-      "LastModified": "2025-02-27T16:29:14.717Z"
+      "LastModified": "2025-02-27T22:29:10.05Z"
     },
     {
       "ID": 417590,
@@ -1493,7 +2034,7 @@
       "MinutesSequence": 3,
       "Version": "",
       "MinutesNote": "The presence of a quorum was announced by the Majority Leader and Acting President Pro Tempore (Council Member Farías).",
-      "LastModified": "2025-02-27T16:29:28.873Z"
+      "LastModified": "2025-02-27T22:29:10.053Z"
     },
     {
       "ID": 417591,
@@ -1502,8 +2043,8 @@
       "AgendaSequence": 0,
       "MinutesSequence": 12,
       "Version": "",
-      "MinutesNote": "At this point, the Majority Leader and Acting President Pro Tempore (Council Member Farías) declared that the aforementioned items were adopted and referred to the Committee on Land Use and to the appropriate Land Use Subcommittee.",
-      "LastModified": "2025-02-27T16:29:44.907Z"
+      "MinutesNote": "The Majority Leader and Acting President Pro Tempore (Council Member Farías) put the question whether the Council would agree with and adopt such motion which was decided in the affirmative by the following vote:",
+      "LastModified": "2025-02-27T22:29:10.06Z"
     },
     {
       "ID": 417592,
@@ -1513,7 +2054,7 @@
       "MinutesSequence": 14,
       "Version": "",
       "MinutesNote": "At this point, the Majority Leader and Acting President Pro Tempore (Council Member Farías) declared that the aforementioned items were adopted and referred to the Committee on Land Use and to the appropriate Land Use Subcommittee.",
-      "LastModified": "2025-02-27T16:35:40.17Z"
+      "LastModified": "2025-02-27T22:29:10.063Z"
     },
     {
       "ID": 417601,
@@ -1530,7 +2071,7 @@
       "MatterName": "Landmarks, Brownsville NCP, Brooklyn (C 250036 HAK).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2025-02-27T16:25:39.34Z"
+      "LastModified": "2025-02-27T22:29:10.143Z"
     },
     {
       "ID": 417602,
@@ -1547,7 +2088,7 @@
       "MatterName": "Landmarks, Brownsville NCP, Brooklyn (C 250037 ZMK).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2025-02-27T16:25:53.84Z"
+      "LastModified": "2025-02-27T22:29:10.143Z"
     },
     {
       "ID": 417603,
@@ -1564,7 +2105,7 @@
       "MatterName": "Landmarks, Brownsville NCP, Brooklyn (N 250038 ZRK).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2025-02-27T16:26:07.933Z"
+      "LastModified": "2025-02-27T22:29:10.147Z"
     },
     {
       "ID": 417604,
@@ -1581,7 +2122,7 @@
       "MatterName": "Landmarks, 2201 Davidson Avenue, Bronx (G 250068 NUX).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2025-02-27T16:26:20.527Z"
+      "LastModified": "2025-02-27T22:29:10.147Z"
     },
     {
       "ID": 417605,
@@ -1598,7 +2139,7 @@
       "MatterName": "Landmarks, 2201 Davidson Avenue Article XI, Bronx (G 250067 XAX).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2025-02-27T16:26:38.123Z"
+      "LastModified": "2025-02-27T22:29:10.15Z"
     },
     {
       "ID": 417606,
@@ -1615,7 +2156,7 @@
       "MatterName": "Zoning, Queens Future Map Change and Amendment. Queens (C 250046 ZMQ).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2025-02-27T16:26:52.35Z"
+      "LastModified": "2025-02-27T22:29:10.15Z"
     },
     {
       "ID": 417607,
@@ -1632,7 +2173,7 @@
       "MatterName": "Zoning, Queens Future Map Change and Amendment, Queens (C 250047 MMQ).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2025-02-27T16:27:05.293Z"
+      "LastModified": "2025-02-27T22:29:10.153Z"
     },
     {
       "ID": 417608,
@@ -1642,7 +2183,7 @@
       "MinutesSequence": 116,
       "Version": "",
       "MinutesNote": "At this point the Speaker (Council Member Adams) made the following announcements:",
-      "LastModified": "2025-02-27T16:27:21.173Z"
+      "LastModified": "2025-02-27T22:29:10.153Z"
     },
     {
       "ID": 417609,
@@ -1651,8 +2192,8 @@
       "AgendaSequence": 0,
       "MinutesSequence": 117,
       "Version": "",
-      "MinutesNote": "Whereupon on motion of the Speaker (Council Member Adams), the Majority Leader and Acting President Pro Tempore (Council Member Farías) adjourned these proceedings to meet again for the Stated Meeting of Wednesday March 12, 2025.\r\n\r\n\r\n\r\nMICHAEL McSWEENEY, City Clerk\r\n\r\nClerk of the Council",
-      "LastModified": "2025-02-27T16:30:34.213Z"
+      "MinutesNote": "Whereupon on motion of the Speaker (Council Member Adams), the Majority Leader and Acting President Pro Tempore (Council Member Farías) adjourned these proceedings to meet again for the Stated Meeting of Wednesday March 12, 2025.\r\n\r\nMICHAEL McSWEENEY, City Clerk\r\nClerk of the Council",
+      "LastModified": "2025-02-27T22:29:10.153Z"
     },
     {
       "ID": 417614,
@@ -1662,20 +2203,23 @@
       "MinutesSequence": 70,
       "Version": "",
       "MinutesNote": "The Majority Leader and Acting President Pro Tempore (Council Member Farías) put the question whether the Council would agree with and adopt such reports, which were decided in the affirmative by the following vote:",
-      "LastModified": "2025-02-27T16:30:53.247Z"
+      "LastModified": "2025-02-27T22:29:10.113Z"
     },
     {
-      "ID": 417615,
-      "GUID": "A0680728-7729-42C8-905D-63E8952A0C2A",
-      "Title": "",
+      "ID": 417620,
+      "GUID": "C4506BCC-C67E-4C99-AAD7-CC0E589EB55C",
+      "Title": "Passed The Consent Agenda",
       "AgendaSequence": 0,
       "MinutesSequence": 71,
       "Version": "",
-      "MinutesNote": "The following files were removed from the General Order Calendar and voted separately:\r\n\r\nSee files for individual votes.",
-      "LastModified": "2025-02-27T16:31:06.983Z"
+      "ActionText": "A motion was made that these files be approved by consent vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
+      "LastModified": "2025-02-27T22:29:10.113Z"
     }
   ],
   "AgendaLastPublished": "2025-02-27T16:32:58.467Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-02-27T16:32:58.527Z"
+  "MinutesLastPublished": "2025-02-27T22:38:11.44Z",
+  "LastModified": "2025-02-27T22:38:11.493Z"
 }
