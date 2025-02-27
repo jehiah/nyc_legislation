@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/2/21442_A_Committee_on_Aging_25-02-27_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/2/21442_M_Committee_on_Aging_25-02-27_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21442&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,31 +20,173 @@
       "GUID": "6471B695-37E0-4BF5-81F4-07754913751C",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to educating older adults about elder fraud, end of life preparation, and financial literacy",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 1092-A",
       "MinutesNote": "Proposed Int. No. 1092-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 74888,
       "MatterFile": "Int 1092-2024",
       "MatterName": "Educating older adults about elder fraud, end of life preparation, and financial literacy.",
       "MatterType": "Introduction",
-      "LastModified": "2025-02-24T18:58:23.31Z"
+      "LastModified": "2025-02-27T15:58:22.69Z"
     },
     {
       "ID": 417372,
       "GUID": "61857988-0765-4E3A-BE7B-12E6F9A1D9B3",
       "Title": "Resolution calling upon the New York State Legislature to introduce and pass, and the Governor to sign, legislation to create a statewide public guardianship system to address current inequities and deficits and safeguard vulnerable New Yorkers in need of protective arrangements.",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 6,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 74582,
       "MatterFile": "Res 0561-2024",
       "MatterName": "Create a statewide public guardianship system to address current inequities and deficits and safeguard vulnerable New Yorkers in need of protective arrangements.",
       "MatterType": "Resolution",
-      "LastModified": "2025-02-24T18:52:07.17Z"
+      "LastModified": "2025-02-27T15:58:43.433Z"
+    },
+    {
+      "ID": 417578,
+      "GUID": "7506A910-B072-4ED7-853B-854F84D7507C",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 30
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2025-02-27T16:52:13.557Z"
+    },
+    {
+      "ID": 417579,
+      "GUID": "98ACE63E-43EC-448E-8848-78661DA649B6",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to educating older adults about elder fraud, end of life preparation, and financial literacy",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 74888,
+      "MatterFile": "Int 1092-2024",
+      "MatterName": "Educating older adults about elder fraud, end of life preparation, and financial literacy.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-02-27T15:58:26.667Z"
+    },
+    {
+      "ID": 417580,
+      "GUID": "D6102C03-4491-4D89-B7FE-23F8CFCA35C8",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to educating older adults about elder fraud, end of life preparation, and financial literacy",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 74888,
+      "MatterFile": "Int 1092-2024",
+      "MatterName": "Educating older adults about elder fraud, end of life preparation, and financial literacy.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-02-27T15:58:31.36Z"
+    },
+    {
+      "ID": 417581,
+      "GUID": "5AF8E6F3-E74C-4DA2-B35A-8A2FD8F59BD7",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to educating older adults about elder fraud, end of life preparation, and financial literacy",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "This Introduction was Approved by Committee",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 74888,
+      "MatterFile": "Int 1092-2024",
+      "MatterName": "Educating older adults about elder fraud, end of life preparation, and financial literacy.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-02-27T15:59:10.92Z"
+    },
+    {
+      "ID": 417583,
+      "GUID": "9E0564D6-3637-4484-8655-1A77822F91D3",
+      "Title": "Resolution calling upon the New York State Legislature to introduce and pass, and the Governor to sign, legislation to create a statewide public guardianship system to address current inequities and deficits and safeguard vulnerable New Yorkers in need of protective arrangements.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 7,
+      "Version": "*",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "This Resolution was Approved by Committee",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 74582,
+      "MatterFile": "Res 0561-2024",
+      "MatterName": "Create a statewide public guardianship system to address current inequities and deficits and safeguard vulnerable New Yorkers in need of protective arrangements.",
+      "MatterType": "Resolution",
+      "LastModified": "2025-02-27T17:21:04.867Z"
     }
   ],
-  "AgendaLastPublished": "2025-02-24T18:58:28.907Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-02-24T18:58:29.033Z"
+  "AgendaLastPublished": "2025-02-27T15:46:54.217Z",
+  "MinutesLastPublished": "2025-02-27T17:21:09.473Z",
+  "LastModified": "2025-02-27T17:21:09.5Z"
 }

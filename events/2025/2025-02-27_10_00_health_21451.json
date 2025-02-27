@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/2/21451_A_Committee_on_Health_25-02-27_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/2/21451_M_Committee_on_Health_25-02-27_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_250227-101405.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21451&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,18 +21,155 @@
       "GUID": "0AEC5A4D-01D7-41C3-B7D5-6D484952556B",
       "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, A.2705/S.4801, relating to the amount of state aid reimbursement for public health services by a municipality in the city of New York when the municipality is providing some or all of certain identified core public health services.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
-      "AgendaNote": "Preconsidered Proposed Res. No. ___-A",
-      "MinutesNote": "Preconsidered Proposed Res. No. ___-A",
+      "AgendaNote": "Preconsidered Proposed Res. No. 782-A",
+      "MinutesNote": "Preconsidered Proposed Res. No. 782-A",
+      "ActionID": 15,
+      "ActionName": "Hearing on P-C Item by Comm",
+      "ActionText": "This Resolution was Hearing on P-C Item by Comm",
       "MatterID": 75444,
-      "MatterFile": "T2025-3149",
+      "MatterFile": "Res 0782-2025",
       "MatterName": "Amount of state aid reimbursement for public health services by a municipality in the city of New York when the municipality is providing some or all of certain identified core public health services (A.2705/S.4801).",
       "MatterType": "Resolution",
-      "LastModified": "2025-02-26T14:52:42.743Z"
+      "LastModified": "2025-02-27T15:54:57.363Z"
+    },
+    {
+      "ID": 417574,
+      "GUID": "577E3F6A-77F0-46E6-A68C-C87129C22658",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        }
+      ],
+      "LastModified": "2025-02-27T15:49:27.247Z"
+    },
+    {
+      "ID": 417575,
+      "GUID": "BE5C8A93-2C3C-41F3-9186-F2619DF07896",
+      "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, A.2705/S.4801, relating to the amount of state aid reimbursement for public health services by a municipality in the city of New York when the municipality is providing some or all of certain identified core public health services.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Resolution was Amendment Proposed by Comm",
+      "MatterID": 75444,
+      "MatterFile": "Res 0782-2025",
+      "MatterName": "Amount of state aid reimbursement for public health services by a municipality in the city of New York when the municipality is providing some or all of certain identified core public health services (A.2705/S.4801).",
+      "MatterType": "Resolution",
+      "LastModified": "2025-02-27T16:02:49.44Z"
+    },
+    {
+      "ID": 417576,
+      "GUID": "C7501F3D-47C1-4B4A-8134-8F2462B3895F",
+      "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, A.2705/S.4801, relating to the amount of state aid reimbursement for public health services by a municipality in the city of New York when the municipality is providing some or all of certain identified core public health services.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Resolution was Amended by Committee",
+      "MatterID": 75444,
+      "MatterFile": "Res 0782-2025",
+      "MatterName": "Amount of state aid reimbursement for public health services by a municipality in the city of New York when the municipality is providing some or all of certain identified core public health services (A.2705/S.4801).",
+      "MatterType": "Resolution",
+      "LastModified": "2025-02-27T15:50:20.473Z"
+    },
+    {
+      "ID": 417577,
+      "GUID": "B7EC341D-3DED-4CB8-96CA-44EFE99FC779",
+      "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, A.2705/S.4801, relating to the amount of state aid reimbursement for public health services by a municipality in the city of New York when the municipality is providing some or all of certain identified core public health services.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "ActionID": 25,
+      "ActionName": "P-C Item Approved by Comm",
+      "ActionText": "This Resolution was P-C Item Approved by Comm",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 75444,
+      "MatterFile": "Res 0782-2025",
+      "MatterName": "Amount of state aid reimbursement for public health services by a municipality in the city of New York when the municipality is providing some or all of certain identified core public health services (A.2705/S.4801).",
+      "MatterType": "Resolution",
+      "LastModified": "2025-02-27T15:56:33.52Z"
     }
   ],
-  "AgendaLastPublished": "2025-02-26T14:40:33.283Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-02-26T14:40:33.337Z"
+  "AgendaLastPublished": "2025-02-27T15:46:19.55Z",
+  "MinutesLastPublished": "2025-02-27T16:02:54.097Z",
+  "LastModified": "2025-02-27T16:02:54.127Z"
 }

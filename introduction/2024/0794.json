@@ -6,8 +6,8 @@
   "Title": "A Local Law to amend the New York city charter, in relation to the composition of the youth board",
   "TypeID": 2,
   "TypeName": "Introduction",
-  "StatusID": 25,
-  "StatusName": "Laid Over in Committee",
+  "StatusID": 24,
+  "StatusName": "Reported from Committee",
   "BodyID": 5294,
   "BodyName": "Committee on Children and Youth",
   "IntroDate": "2024-04-11T00:00:00Z",
@@ -65,6 +65,11 @@
       "ID": 7816,
       "Slug": "julie-won",
       "FullName": "Julie Won"
+    },
+    {
+      "ID": 7740,
+      "Slug": "carlina-rivera",
+      "FullName": "Carlina Rivera"
     },
     {
       "ID": 7780,
@@ -159,12 +164,127 @@
       "Version": "*",
       "MatterStatusID": 25,
       "LastModified": "2024-10-30T18:58:24.5Z"
+    },
+    {
+      "ID": 417338,
+      "Date": "2025-02-27T11:00:00Z",
+      "ActionID": 54,
+      "Action": "Hearing Held by Committee",
+      "Description": "This Introduction was Hearing Held by Committee",
+      "BodyID": 5294,
+      "BodyName": "Committee on Children and Youth",
+      "EventID": 21446,
+      "AgendaSequence": 2,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "AgendaNote": "Proposed Int. No. 794-A",
+      "MinutesNote": "Proposed Int. No. 794-A",
+      "MatterStatusID": 3,
+      "LastModified": "2025-02-27T16:22:45.313Z"
+    },
+    {
+      "ID": 417597,
+      "Date": "2025-02-27T11:00:00Z",
+      "ActionID": 5001,
+      "Action": "Amendment Proposed by Comm",
+      "Description": "This Introduction was Amendment Proposed by Comm",
+      "BodyID": 5294,
+      "BodyName": "Committee on Children and Youth",
+      "EventID": 21446,
+      "MinutesSequence": 7,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2025-02-27T16:22:51.32Z"
+    },
+    {
+      "ID": 417598,
+      "Date": "2025-02-27T11:00:00Z",
+      "ActionID": 33,
+      "Action": "Amended by Committee",
+      "Description": "This Introduction was Amended by Committee",
+      "BodyID": 5294,
+      "BodyName": "Committee on Children and Youth",
+      "EventID": 21446,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2025-02-27T17:20:03.2Z"
+    },
+    {
+      "ID": 417599,
+      "Date": "2025-02-27T11:00:00Z",
+      "ActionID": 32,
+      "Action": "Approved by Committee",
+      "Description": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "BodyID": 5294,
+      "BodyName": "Committee on Children and Youth",
+      "EventID": 21446,
+      "MinutesSequence": 9,
+      "Version": "A",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterStatusID": 24,
+      "Votes": [
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 10
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 20
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 30
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 40
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 50
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 60
+        }
+      ],
+      "LastModified": "2025-02-27T17:19:31.773Z"
     }
   ],
   "Attachments": [
     {
       "ID": 315657,
-      "LastModified": "2025-02-27T13:40:55.25Z",
+      "LastModified": "2025-02-27T17:36:40.927Z",
       "Name": "Summary of Int. No. 794-A",
       "Link": "https://nyc.legistar1.com/nyc/attachments/92be7e4b-b79a-4b79-a158-7ed1573a0f5e.docx",
       "Sort": 1
@@ -227,7 +347,7 @@
     },
     {
       "ID": 315658,
-      "LastModified": "2025-02-26T18:05:18.473Z",
+      "LastModified": "2025-02-27T17:36:59.813Z",
       "Name": "Proposed Int. No. 794-A - 2/20/24",
       "Link": "https://nyc.legistar1.com/nyc/attachments/4b1dcab8-9f98-46d9-b234-448d0ec2408c.docx",
       "Sort": 11
@@ -245,11 +365,18 @@
       "Name": "Committee Report 2/27/25",
       "Link": "https://nyc.legistar1.com/nyc/attachments/068bb518-266d-4f97-864f-b23713f9aed1.docx",
       "Sort": 13
+    },
+    {
+      "ID": 316088,
+      "LastModified": "2025-02-27T17:19:25.887Z",
+      "Name": "Committee Report - Stated Meeting",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/94f1fd01-c504-4e0f-b41e-0c59bbf9ecf4.docx",
+      "Sort": 14
     }
   ],
   "Summary": "This bill would require that appointments or recommendations for youth board members must be made with best efforts to ensure that appointees have demonstrated relevant experience in the area of youth welfare. Additionally, this bill would require that to the extent practicable, at least 3 members of the board be between the ages of 16-24, in order to ensure actual youth representation.",
   "TextID": 79194,
   "Text": "Be it enacted by the Council as follows:\n      \n      \n      Section 1. Subdivisions b and c of section 734 of the New York city charter, as amended by local law number 81 for the year 1996, are amended to read as follows:\n      b. The youth board shall be representative of the community, and shall include persons representing the areas of social service, health care, education, business, industry and labor. To the extent practicable, at least 3 members of the youth board shall be between the age of 16 and 24. No member of the board shall be removed or required to step down due to reaching 25 years of age. If a vacancy arises and no remaining member of the board is between the age of 16 and 24, such vacancy must be filled by a person between the age of 16 and 24. \n      c. The youth board shall consist of up to [twenty-eight] 28 members, appointed by the mayor, [fourteen] 14 of whom shall be appointed upon recommendation of the city council. In making such appointments and recommendations, the mayor and the city council shall make efforts to identify persons who have demonstrated experience with organizations or activities directly concerned with the welfare of youth.\n      � 2. This local law takes effect immediately.\n      \n\n\n\n\nCY\nLS #11229\n2/19/2025 6:26PM\n\n\nEB\nLS #13316\n5/24/21 2:18 PM\n\n      1\n      \n      \n      2",
   "RTF": "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang1033\\deflangfe1033{\\fonttbl{\\f0\\froman\\fprq2\\fcharset0 Times New Roman;}}\n\\viewkind4\\uc1\n\\ul\\v0\\par\nBe it enacted by the Council as follows:\\ulnone\\par\n\\pard\\ltrpar\\fi720\\qj\\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qj Section 1. Subdivisions b and c of section 734 of the New York city charter, as amended by local law number 81 for the year 1996, are amended to read as follows:\\par\nb. The youth board shall be representative of the community, and shall include persons representing the areas of social service, health care, education, business, industry and labor.\\ul  To the extent practicable, at least 3 members of the youth board shall be between the age of 16 and 24. No member of the board shall be removed or required to step down due to reaching 25 years of age. If a vacancy arises and no remaining member of the board is between the age of 16 and 24, such vacancy must be filled by a person between the age of 16 and 24. \\par\n\\ulnone c. The youth board shall consist of up to [twenty-eight] \\ul 28\\ulnone  members, appointed by the mayor, [fourteen] \\ul 14\\ulnone  of whom shall be appointed upon recommendation of the city council. \\ul In making such appointments and recommendations, the mayor and the city council shall make efforts to identify persons who have demonstrated experience with organizations or activities directly concerned with the welfare of youth.\\ulnone\\par\n\\'a7 2. This local law takes effect immediately.\\par\n\\pard\\ltrpar\\qj\\fs18\\par\n\\par\n\\par\n\\par\nCY\\par\nLS #11229\\par\n2/19/2025 6:26PM\\par\n\\par\n\\par\nEB\\par\nLS #13316\\par\n\\pard\\ltrpar 5/24/21 2:18 PM\\par\n\\par\n}\n",
-  "LastModified": "2025-02-27T13:40:55.25Z"
+  "LastModified": "2025-02-27T17:36:59.813Z"
 }

@@ -6,8 +6,8 @@
   "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, A.2705/S.4801, relating to the amount of state aid reimbursement for public health services by a municipality in the city of New York when the municipality is providing some or all of certain identified core public health services.",
   "TypeID": 1,
   "TypeName": "Resolution",
-  "StatusID": 2,
-  "StatusName": "Introduced",
+  "StatusID": 24,
+  "StatusName": "Reported from Committee",
   "BodyID": 14,
   "BodyName": "Committee on Health",
   "IntroDate": "2025-02-27T00:00:00Z",
@@ -45,6 +45,16 @@
       "ID": 7824,
       "Slug": "sandy-nurse",
       "FullName": "Sandy Nurse"
+    },
+    {
+      "ID": 7829,
+      "Slug": "mercedes-narcisse",
+      "FullName": "Mercedes Narcisse"
+    },
+    {
+      "ID": 7740,
+      "Slug": "carlina-rivera",
+      "FullName": "Carlina Rivera"
     }
   ],
   "History": [
@@ -109,6 +119,150 @@
       "LastModified": "2025-02-26T14:34:04.35Z"
     },
     {
+      "ID": 417411,
+      "Date": "2025-02-27T10:00:00Z",
+      "ActionID": 15,
+      "Action": "Hearing on P-C Item by Comm",
+      "Description": "This Resolution was Hearing on P-C Item by Comm",
+      "BodyID": 14,
+      "BodyName": "Committee on Health",
+      "EventID": 21451,
+      "AgendaSequence": 1,
+      "MinutesSequence": 2,
+      "Version": "*",
+      "AgendaNote": "Preconsidered Proposed Res. No. 782-A",
+      "MinutesNote": "Preconsidered Proposed Res. No. 782-A",
+      "MatterStatusID": 2,
+      "LastModified": "2025-02-27T15:54:57.363Z"
+    },
+    {
+      "ID": 417575,
+      "Date": "2025-02-27T10:00:00Z",
+      "ActionID": 5001,
+      "Action": "Amendment Proposed by Comm",
+      "Description": "This Resolution was Amendment Proposed by Comm",
+      "BodyID": 14,
+      "BodyName": "Committee on Health",
+      "EventID": 21451,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2025-02-27T16:02:49.44Z"
+    },
+    {
+      "ID": 417576,
+      "Date": "2025-02-27T10:00:00Z",
+      "ActionID": 33,
+      "Action": "Amended by Committee",
+      "Description": "This Resolution was Amended by Committee",
+      "BodyID": 14,
+      "BodyName": "Committee on Health",
+      "EventID": 21451,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "MatterStatusID": 0,
+      "LastModified": "2025-02-27T15:50:20.473Z"
+    },
+    {
+      "ID": 417577,
+      "Date": "2025-02-27T10:00:00Z",
+      "ActionID": 25,
+      "Action": "P-C Item Approved by Comm",
+      "Description": "This Resolution was P-C Item Approved by Comm",
+      "BodyID": 14,
+      "BodyName": "Committee on Health",
+      "EventID": 21451,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterStatusID": 37,
+      "Votes": [
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 10
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 20
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 30
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 40
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 50
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 60
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 70
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 80
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 100
+        }
+      ],
+      "LastModified": "2025-02-27T15:56:33.52Z"
+    },
+    {
       "ID": 416864,
       "Date": "2025-02-27T13:25:00Z",
       "ActionID": 27,
@@ -119,13 +273,30 @@
       "Version": "*",
       "MatterStatusID": 2,
       "LastModified": "2025-02-11T17:04:39.66Z"
+    },
+    {
+      "ID": 417512,
+      "Date": "2025-02-27T13:30:00Z",
+      "ActionID": 43,
+      "Action": "Referred to Comm by Council",
+      "Description": "This Resolution was Referred to Comm by Council to the Committee on Health",
+      "BodyID": 1,
+      "BodyName": "City Council",
+      "EventID": 21453,
+      "AgendaSequence": 85,
+      "MinutesSequence": 97,
+      "AgendaNumber": "~SPONSOR",
+      "Version": "A",
+      "AgendaNote": "Preconsidered - Health",
+      "MatterStatusID": 3,
+      "LastModified": "2025-02-27T16:25:07.75Z"
     }
   ],
   "Attachments": [
     {
       "ID": 314690,
-      "LastModified": "2025-02-27T13:51:13.257Z",
-      "Name": "Res. No.",
+      "LastModified": "2025-02-27T17:30:14.837Z",
+      "Name": "Res. No. 782",
       "Link": "https://nyc.legistar1.com/nyc/attachments/70eda9f6-be7c-4cab-8784-12fb9a856a7b.docx",
       "Sort": 1
     },
@@ -145,14 +316,14 @@
     },
     {
       "ID": 315984,
-      "LastModified": "2025-02-27T13:51:34.363Z",
+      "LastModified": "2025-02-27T17:30:29.61Z",
       "Name": "Proposed Res. No. 782-A - 2/26/25",
       "Link": "https://nyc.legistar1.com/nyc/attachments/fab180a2-e741-4e18-9ee5-52bf53cdf7b6.docx",
       "Sort": 4
     },
     {
       "ID": 316008,
-      "LastModified": "2025-02-26T18:47:21.56Z",
+      "LastModified": "2025-02-27T15:56:25.82Z",
       "Name": "Committee Report 2/27/25",
       "Link": "https://nyc.legistar1.com/nyc/attachments/ad548407-6355-4258-b4f1-f651aed9e0f7.docx",
       "Sort": 5
@@ -161,6 +332,6 @@
   "Summary": "",
   "TextID": 79220,
   "Text": "Whereas, Article 6 of the Public Health law provides the statutory authority for State aid for general public health work; and\n      Whereas, Under Article 6, counties with a population of over 1,000,000 receive a flat base grant equal to 65 cents per person; and \n      Whereas, Eligible expenses are reimbursed by the State 100% up to the amount of the base grant; and\n      Whereas, The per-capita based grant results in New York City receiving a reimbursement rate that is less than 100% of the services rendered; and \n      Whereas, When a county health department's spending on covered services exceeds the amount of its base grant the State will reimburse that county for a certain percentage of the costs that exceed the base grant; and  \n      Whereas, In 2019 then-Governor Andrew Cuomo reduced the reimbursement rate for New York City by 16%, from 36% down to 20%; and \n      Whereas, New York City was the only municipality to have its reimbursement rate reduced; and \n      Whereas, Prior to the 2019 reduction in the reimbursement rate the New York City Department of Health and Mental Hygiene (DOHMH) paid 64% of post-base grant costs; and\n      Whereas, After the 2019 reduction in the reimbursement rate DOHMH paid 80% of post-base grant costs; and \n      Whereas, As a result of then-Governor Cuomo's reduction in the reimbursement rate, New York City lost more than $62 million in funding for essential city public health programs; and\n      Whereas, The loss of funding resulting from the reduced reimbursement rate has led directly to a loss of funding for essential programs including family and reproductive healthcare communicable disease control, chronic disease prevention, community health assessments, emergency preparedness and many more; and \n      Whereas, New York City does receive direct federal funding for a number of core public health services; and\n      Whereas, Article 6 requires health departments to account for federal grants when seeking reimbursements; and \n      Whereas, Under Article 6, federal grants are deducted from the reimbursable amount when the city submits a reimbursement claim; and \n      Whereas, Federal funding will not make up for the funds the DOHMH has lost as a result of the reimbursement cuts; and \n      Whereas, A.2705, introduced by Assembly Member Jessica Gonz�lez-Rojas and pending in the New York State Assembly, and its companion bill S.4801, introduced by Senator Gustavo Rivera and pending in the New York State Senate, would restore the reimbursement rate to no less than 36%; now, therefore, be it\n      Resolved, That the Council of the City of New York calls on the New York State Legislature to pass, and the Governor to sign, A.2705/S.4801, relating to the amount of state aid reimbursement for public health services by a municipality in the city of New York when the municipality is providing some or all of certain identified core public health services.\nLS #18951\n2/24/2025\nEHC/CP",
-  "RTF": "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang1033\\deflangfe1033{\\fonttbl{\\f0\\froman\\fprq2\\fcharset0 Times New Roman;}}\n\\viewkind4\\uc1\n\\v0\\par\nBy Council Members Schulman, Cab\\'e1n, Louis, Menin, Brewer and Nurse\\par\n\\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qj Whereas, Article 6 of the Public Health law provides the statutory authority for State aid for general public health work; and\\par\nWhereas, Under Article 6, counties with a population of over 1,000,000 receive a flat base grant equal to 65 cents per person; and \\par\nWhereas, Eligible expenses are reimbursed by the State 100% up to the amount of the base grant; and\\par\nWhereas, The per-capita based grant results in New York City receiving a reimbursement rate that is less than 100% of the services rendered; and \\par\nWhereas, When a county health department\\rquote s spending on covered services exceeds the amount of its base grant the State will reimburse that county for a certain percentage of the costs that exceed the base grant; and  \\par\nWhereas, In 2019 then-Governor Andrew Cuomo reduced the reimbursement rate for New York City by 16%, from 36% down to 20%; and \\par\nWhereas, New York City was the only municipality to have its reimbursement rate reduced; and \\par\nWhereas, Prior to the 2019 reduction in the reimbursement rate the New York City Department of Health and Mental Hygiene (DOHMH) paid 64% of post-base grant costs; and\\par\nWhereas, After the 2019 reduction in the reimbursement rate DOHMH paid 80% of post-base grant costs; and \\par\nWhereas, As a result of then-Governor Cuomo\\rquote s reduction in the reimbursement rate, New York City lost more than $62 million in funding for essential city public health programs; and\\par\nWhereas, The loss of funding resulting from the reduced reimbursement rate has led directly to a loss of funding for essential programs including family and reproductive healthcare communicable disease control, chronic disease prevention, community health assessments, emergency preparedness and many more; and \\par\nWhereas, New York City does receive direct federal funding for a number of core public health services; and\\par\nWhereas, Article 6 requires health departments to account for federal grants when seeking reimbursements; and \\par\nWhereas, Under Article 6, federal grants are deducted from the reimbursable amount when the city submits a reimbursement claim; and \\par\nWhereas, Federal funding will not make up for the funds the DOHMH has lost as a result of the reimbursement cuts; and \\par\nWhereas, A.2705, introduced by Assembly Member Jessica Gonz\\'e1lez-Rojas and pending in the New York State Assembly, and its companion bill S.4801, introduced by Senator Gustavo Rivera and pending in the New York State Senate, would restore the reimbursement rate to no less than 36%; now, therefore, be it\\par\nResolved, That the Council of the City of New York calls on the New York State Legislature to pass, and the Governor to sign, A.2705/S.4801, relating to the amount of state aid reimbursement for public health services by a municipality in the city of New York when the municipality is providing some or all of certain identified core public health services.\\par\n\\pard\\ltrpar\\qj\\fs18 LS #18951\\par\n\\pard\\ltrpar 2/24/2025\\par\n\\pard\\ltrpar\\qj EHC/CP \\fs24\\par\n}\n",
-  "LastModified": "2025-02-27T13:51:43.53Z"
+  "RTF": "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang1033\\deflangfe1033{\\fonttbl{\\f0\\froman\\fprq2\\fcharset0 Times New Roman;}}\n\\viewkind4\\uc1\n\\v0\\par\nBy Council Members Schulman, Cab\\'e1n, Louis, Menin, Brewer, Nurse, Narcisse and Rivera\\par\n\\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qj Whereas, Article 6 of the Public Health law provides the statutory authority for State aid for general public health work; and\\par\nWhereas, Under Article 6, counties with a population of over 1,000,000 receive a flat base grant equal to 65 cents per person; and \\par\nWhereas, Eligible expenses are reimbursed by the State 100% up to the amount of the base grant; and\\par\nWhereas, The per-capita based grant results in New York City receiving a reimbursement rate that is less than 100% of the services rendered; and \\par\nWhereas, When a county health department\\rquote s spending on covered services exceeds the amount of its base grant the State will reimburse that county for a certain percentage of the costs that exceed the base grant; and  \\par\nWhereas, In 2019 then-Governor Andrew Cuomo reduced the reimbursement rate for New York City by 16%, from 36% down to 20%; and \\par\nWhereas, New York City was the only municipality to have its reimbursement rate reduced; and \\par\nWhereas, Prior to the 2019 reduction in the reimbursement rate the New York City Department of Health and Mental Hygiene (DOHMH) paid 64% of post-base grant costs; and\\par\nWhereas, After the 2019 reduction in the reimbursement rate DOHMH paid 80% of post-base grant costs; and \\par\nWhereas, As a result of then-Governor Cuomo\\rquote s reduction in the reimbursement rate, New York City lost more than $62 million in funding for essential city public health programs; and\\par\nWhereas, The loss of funding resulting from the reduced reimbursement rate has led directly to a loss of funding for essential programs including family and reproductive healthcare communicable disease control, chronic disease prevention, community health assessments, emergency preparedness and many more; and \\par\nWhereas, New York City does receive direct federal funding for a number of core public health services; and\\par\nWhereas, Article 6 requires health departments to account for federal grants when seeking reimbursements; and \\par\nWhereas, Under Article 6, federal grants are deducted from the reimbursable amount when the city submits a reimbursement claim; and \\par\nWhereas, Federal funding will not make up for the funds the DOHMH has lost as a result of the reimbursement cuts; and \\par\nWhereas, A.2705, introduced by Assembly Member Jessica Gonz\\'e1lez-Rojas and pending in the New York State Assembly, and its companion bill S.4801, introduced by Senator Gustavo Rivera and pending in the New York State Senate, would restore the reimbursement rate to no less than 36%; now, therefore, be it\\par\nResolved, That the Council of the City of New York calls on the New York State Legislature to pass, and the Governor to sign, A.2705/S.4801, relating to the amount of state aid reimbursement for public health services by a municipality in the city of New York when the municipality is providing some or all of certain identified core public health services.\\par\n\\pard\\ltrpar\\qj\\fs18 LS #18951\\par\n\\pard\\ltrpar 2/24/2025\\par\n\\pard\\ltrpar\\qj EHC/CP \\fs24\\par\n}\n",
+  "LastModified": "2025-02-27T17:30:29.61Z"
 }
