@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/2/21424_A_Committee_on_Environmental_Protection%2C_Resiliency_and_Waterfronts_25-02-28_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/2/21424_M_Committee_on_Environmental_Protection%2C_Resiliency_and_Waterfronts_25-02-28_Meeting_Minutes.pdf",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21424&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -27,7 +28,7 @@
       "MatterFile": "T2025-2920",
       "MatterName": "Oversight - Air Quality and Last Mile Deliveries.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
+      "MatterStatus": "Filed",
       "LastModified": "2025-02-28T17:28:02.933Z"
     },
     {
@@ -91,8 +92,8 @@
           "ID": 7748,
           "Slug": "justin-l-brannan",
           "FullName": "Justin L. Brannan",
-          "ValueID": 13,
-          "Value": "Present",
+          "ValueID": 16,
+          "Value": "Absent",
           "Sort": 30
         },
         {
@@ -115,36 +116,36 @@
           "ID": 7824,
           "Slug": "sandy-nurse",
           "FullName": "Sandy Nurse",
-          "ValueID": 13,
-          "Value": "Present",
+          "ValueID": 16,
+          "Value": "Absent",
           "Sort": 60
         },
         {
           "ID": 7820,
           "Slug": "lincoln-restler",
           "FullName": "Lincoln Restler",
-          "ValueID": 13,
-          "Value": "Present",
+          "ValueID": 66,
+          "Value": "Parental ",
           "Sort": 70
         },
         {
           "ID": 7714,
           "Slug": "rafael-salamanca-jr",
           "FullName": "Rafael Salamanca, Jr.",
-          "ValueID": 13,
-          "Value": "Present",
+          "ValueID": 46,
+          "Value": "Medical",
           "Sort": 80
         },
         {
           "ID": 7867,
           "Slug": "susan-zhuang",
           "FullName": "Susan Zhuang",
-          "ValueID": 13,
-          "Value": "Present",
+          "ValueID": 16,
+          "Value": "Absent",
           "Sort": 90
         }
       ],
-      "LastModified": "2025-02-28T17:27:59.457Z"
+      "LastModified": "2025-02-28T21:01:00.817Z"
     },
     {
       "ID": 417634,
@@ -153,12 +154,15 @@
       "AgendaSequence": 0,
       "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
       "MatterID": 75215,
       "MatterFile": "T2025-2920",
       "MatterName": "Oversight - Air Quality and Last Mile Deliveries.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-02-28T17:27:48.843Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-02-28T19:35:53.953Z"
     },
     {
       "ID": 417635,
@@ -167,11 +171,14 @@
       "AgendaSequence": 0,
       "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
       "MatterID": 73168,
       "MatterFile": "Int 0107-2024",
       "MatterName": "Air quality monitoring at designated “heavy use” thoroughfares.",
       "MatterType": "Introduction",
-      "LastModified": "2025-02-28T17:27:51.327Z"
+      "LastModified": "2025-02-28T19:35:57.423Z"
     },
     {
       "ID": 417636,
@@ -180,14 +187,17 @@
       "AgendaSequence": 0,
       "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
       "MatterID": 74816,
       "MatterFile": "Int 1130-2024",
       "MatterName": "Regulation of indirect sources of air pollution.",
       "MatterType": "Introduction",
-      "LastModified": "2025-02-28T17:27:53.447Z"
+      "LastModified": "2025-02-28T19:36:02.35Z"
     }
   ],
   "AgendaLastPublished": "2025-02-27T15:48:29.28Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-02-28T15:25:01.527Z"
+  "MinutesLastPublished": "2025-02-28T21:01:05.78Z",
+  "LastModified": "2025-02-28T21:01:05.817Z"
 }

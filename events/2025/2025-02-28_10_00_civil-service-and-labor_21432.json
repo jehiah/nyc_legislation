@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/2/21432_A_Committee_on_Civil_Service_and_Labor_25-02-28_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/2/21432_M_Committee_on_Civil_Service_and_Labor_25-02-28_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-250-14_250228-102937.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21432&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,7 +20,7 @@
       "GUID": "003FA41B-9DF0-48E9-B865-63FB67254886",
       "Title": "Oversight - Examining Pending Layoffs at the Brooklyn Museum.",
       "AgendaSequence": 1,
-      "MinutesSequence": 2,
+      "MinutesSequence": 3,
       "Version": "*",
       "ActionID": 54,
       "ActionName": "Hearing Held by Committee",
@@ -28,8 +29,8 @@
       "MatterFile": "T2025-3186",
       "MatterName": "Oversight - Examining Pending Layoffs at the Brooklyn Museum.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-02-28T17:27:35.307Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-02-28T17:41:52.183Z"
     },
     {
       "ID": 417631,
@@ -52,16 +53,16 @@
           "ID": 7813,
           "Slug": "tiffany-caban",
           "FullName": "Tiffany Cabán",
-          "ValueID": 13,
-          "Value": "Present",
+          "ValueID": 16,
+          "Value": "Absent",
           "Sort": 20
         },
         {
           "ID": 7802,
           "Slug": "erik-d-bottcher",
           "FullName": "Erik D. Bottcher",
-          "ValueID": 13,
-          "Value": "Present",
+          "ValueID": 16,
+          "Value": "Absent",
           "Sort": 30
         },
         {
@@ -84,8 +85,8 @@
           "ID": 7832,
           "Slug": "kamillah-hanks",
           "FullName": "Kamillah Hanks",
-          "ValueID": 13,
-          "Value": "Present",
+          "ValueID": 46,
+          "Value": "Medical",
           "Sort": 60
         },
         {
@@ -108,29 +109,42 @@
           "ID": 7866,
           "Slug": "yusef-salaam",
           "FullName": "Yusef Salaam",
-          "ValueID": 13,
-          "Value": "Present",
+          "ValueID": 16,
+          "Value": "Absent",
           "Sort": 90
         }
       ],
-      "LastModified": "2025-02-28T17:27:31.85Z"
+      "LastModified": "2025-02-28T17:41:33.157Z"
     },
     {
       "ID": 417632,
       "GUID": "3199E21B-B87C-4CC9-AC30-55C403FEF520",
       "Title": "Oversight - Examining Pending Layoffs at the Brooklyn Museum.",
       "AgendaSequence": 0,
-      "MinutesSequence": 3,
+      "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
       "MatterID": 75481,
       "MatterFile": "T2025-3186",
       "MatterName": "Oversight - Examining Pending Layoffs at the Brooklyn Museum.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-02-28T17:27:24.903Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-02-28T17:41:33.427Z"
+    },
+    {
+      "ID": 417637,
+      "GUID": "B00842A7-8AD8-434C-8C21-ACCC1D5CAF07",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Hudson",
+      "LastModified": "2025-02-28T17:41:49.387Z"
     }
   ],
   "AgendaLastPublished": "2025-02-27T15:48:42.84Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-02-28T17:10:17.007Z"
+  "MinutesLastPublished": "2025-02-28T17:41:57.793Z",
+  "LastModified": "2025-02-28T17:41:57.92Z"
 }
