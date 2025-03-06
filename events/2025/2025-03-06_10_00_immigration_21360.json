@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/3/21360_A_Committee_on_Immigration_25-03-06_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/3/21360_M_Committee_on_Immigration_25-03-06_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_250306-102429.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21360&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,17 +20,115 @@
       "GUID": "B4A64CDF-1550-418E-90D7-177862CFC963",
       "Title": "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2026, The Preliminary Capital Plan for Fiscal Years 2026-2029 and The Fiscal 2025 Preliminary Mayor’s Management Report \r\n\r\n\r\n10:00 a.m.     Office of Immigrant Affairs\r\n12:00 p.m.     Office of Immigrant Affairs & Office of Asylum\r\n                           Seeker Operations \r\n  2:00 p.m.     Public\r\n\r\n",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 75329,
       "MatterFile": "T2025-3034",
       "MatterName": "Preliminary Budget Hearing - Immigration",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-03-04T04:02:53.893Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-03-06T23:05:55.767Z"
+    },
+    {
+      "ID": 417711,
+      "GUID": "6BFDDC33-B360-4A71-B41A-ED1AAA128BBA",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2025-03-06T23:05:50.453Z"
+    },
+    {
+      "ID": 417712,
+      "GUID": "41A28450-7870-411B-B29B-4C6E3B17D78A",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Rivera, Restler and Public Advocate Williams",
+      "LastModified": "2025-03-06T23:05:42.633Z"
+    },
+    {
+      "ID": 417713,
+      "GUID": "61EA11A8-4D42-4106-B96C-95870186DAAA",
+      "Title": "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2026, The Preliminary Capital Plan for Fiscal Years 2026-2029 and The Fiscal 2025 Preliminary Mayor’s Management Report \r\n\r\n\r\n10:00 a.m.     Office of Immigrant Affairs\r\n12:00 p.m.     Office of Immigrant Affairs & Office of Asylum\r\n                           Seeker Operations \r\n  2:00 p.m.     Public\r\n\r\n",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 75329,
+      "MatterFile": "T2025-3034",
+      "MatterName": "Preliminary Budget Hearing - Immigration",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-03-06T23:06:01.733Z"
     }
   ],
   "AgendaLastPublished": "2025-03-04T04:02:59.843Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-03-06T15:24:30.59Z"
+  "MinutesLastPublished": "2025-03-06T23:06:07.537Z",
+  "LastModified": "2025-03-06T23:06:07.59Z"
 }

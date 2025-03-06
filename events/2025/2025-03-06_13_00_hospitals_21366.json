@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/3/21366_A_Committee_on_Hospitals_25-03-06_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/3/21366_M_Committee_on_Hospitals_25-03-06_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-250-14_250306-130335.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21366&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,17 +20,115 @@
       "GUID": "AA8B41B5-94CE-4B8A-8139-AD666A741FFE",
       "Title": "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2026 The Preliminary Capital Plan for Fiscal Years 2026-2029, and The Fiscal 2025 Preliminary Mayor’s Management Report \r\n\r\n\r\n1:00 p.m.    Health + Hospitals\r\n3:00 p.m.    Public\r\n",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 75330,
       "MatterFile": "T2025-3035",
       "MatterName": "Preliminary Budget Hearing - Hospitals",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-02-27T14:53:35.593Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-03-06T21:10:24.43Z"
+    },
+    {
+      "ID": 417706,
+      "GUID": "9E2ECA2E-7D2A-4FA6-B184-D9213256A4DA",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 66,
+          "Value": "Parental ",
+          "Sort": 30
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 50
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7740,
+          "Slug": "carlina-rivera",
+          "FullName": "Carlina Rivera",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2025-03-06T21:10:16.987Z"
+    },
+    {
+      "ID": 417707,
+      "GUID": "BB270E9C-724A-422A-878E-2D8FD6D1E0A1",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Restler and Ayala",
+      "LastModified": "2025-03-06T21:09:04.447Z"
+    },
+    {
+      "ID": 417708,
+      "GUID": "F121B2FD-C5FC-4917-B574-0AA55FF1CD3F",
+      "Title": "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2026 The Preliminary Capital Plan for Fiscal Years 2026-2029, and The Fiscal 2025 Preliminary Mayor’s Management Report \r\n\r\n\r\n1:00 p.m.    Health + Hospitals\r\n3:00 p.m.    Public\r\n",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 75330,
+      "MatterFile": "T2025-3035",
+      "MatterName": "Preliminary Budget Hearing - Hospitals",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-03-06T21:10:31.377Z"
     }
   ],
   "AgendaLastPublished": "2025-02-27T16:09:25.477Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-02-27T16:09:25.507Z"
+  "MinutesLastPublished": "2025-03-06T21:10:37.493Z",
+  "LastModified": "2025-03-06T21:10:37.683Z"
 }
