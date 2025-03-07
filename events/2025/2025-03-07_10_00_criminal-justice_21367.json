@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/3/21367_A_Committee_on_Criminal_Justice_25-03-07_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/3/21367_M_Committee_on_Criminal_Justice_25-03-07_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_250307-101511.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21367&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,17 +20,131 @@
       "GUID": "F0C7558E-DC79-4B23-A8DF-2DBF737E6F4C",
       "Title": "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2026 The Preliminary Capital Plan for Fiscal Years 2026-2029, and The Fiscal 2025 Preliminary Mayor’s Management Report \r\n\r\n\r\n10:00 a.m.     Department of Probation \r\n11:00 a.m.     Department of Correction \r\n  1:30 p.m.     Board of Correction\r\n  2:30 p.m.     Public\r\n",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 75331,
       "MatterFile": "T2025-3036",
       "MatterName": "Preliminary Budget Hearing - Criminal Justice",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-02-27T20:54:13.22Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-03-07T21:53:43.543Z"
+    },
+    {
+      "ID": 417771,
+      "GUID": "0A78E598-13F4-4DB4-AA24-D59A308F1193",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 10
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 70
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2025-03-07T21:54:46.89Z"
+    },
+    {
+      "ID": 417772,
+      "GUID": "2E3D8623-B50F-45E6-962D-592921E6BAD2",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Farías, Paladino and Brewer",
+      "LastModified": "2025-03-07T21:53:36.017Z"
+    },
+    {
+      "ID": 417773,
+      "GUID": "4B21BAE3-CD1B-4F2F-B31B-E20737F7D52D",
+      "Title": "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2026 The Preliminary Capital Plan for Fiscal Years 2026-2029, and The Fiscal 2025 Preliminary Mayor’s Management Report \r\n\r\n\r\n10:00 a.m.     Department of Probation \r\n11:00 a.m.     Department of Correction \r\n  1:30 p.m.     Board of Correction\r\n  2:30 p.m.     Public\r\n",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 75331,
+      "MatterFile": "T2025-3036",
+      "MatterName": "Preliminary Budget Hearing - Criminal Justice",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-03-07T21:53:46.637Z"
     }
   ],
   "AgendaLastPublished": "2025-02-27T16:09:12.447Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-03-07T15:15:13.147Z"
+  "MinutesLastPublished": "2025-03-07T21:54:07.42Z",
+  "LastModified": "2025-03-07T21:54:07.48Z"
 }
