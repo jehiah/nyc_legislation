@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/3/21380_A_Committee_on_Aging_25-03-10_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/3/21380_M_Committee_on_Aging_25-03-10_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_250310-100854.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21380&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,17 +20,115 @@
       "GUID": "0D610253-7F7B-4CBB-9D2B-D22A0EBFF084",
       "Title": "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2026 The Preliminary Capital Plan for Fiscal Years 2026-2029, and The Fiscal 2025 Preliminary Mayor’s Management Report \r\n\r\n\r\n10:00 a.m.     Department for the Aging\r\n12:00 p.m.     Public\r\n",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 75336,
       "MatterFile": "T2025-3041",
       "MatterName": "Preliminary Budget Hearing - Aging",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-03-07T21:33:16.373Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-03-10T19:07:35.61Z"
+    },
+    {
+      "ID": 417794,
+      "GUID": "FC437D76-1DBB-4F31-B695-1BD10C7621E5",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2025-03-10T19:22:58.427Z"
+    },
+    {
+      "ID": 417795,
+      "GUID": "D40E9BBF-6A51-4F35-80C3-1E42970F5CCE",
+      "Title": "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2026 The Preliminary Capital Plan for Fiscal Years 2026-2029, and The Fiscal 2025 Preliminary Mayor’s Management Report \r\n\r\n\r\n10:00 a.m.     Department for the Aging\r\n12:00 p.m.     Public\r\n",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 75336,
+      "MatterFile": "T2025-3041",
+      "MatterName": "Preliminary Budget Hearing - Aging",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-03-10T19:14:25.973Z"
+    },
+    {
+      "ID": 417797,
+      "GUID": "82A0C39B-4884-4872-AAE7-DA0C08581661",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Brooks-Powers",
+      "LastModified": "2025-03-10T19:14:55.693Z"
     }
   ],
   "AgendaLastPublished": "2025-02-27T16:08:42.103Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-03-10T14:08:56.17Z"
+  "MinutesLastPublished": "2025-03-10T19:23:03.563Z",
+  "LastModified": "2025-03-10T19:23:03.587Z"
 }
