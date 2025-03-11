@@ -2,12 +2,12 @@
   "ID": 75496,
   "GUID": "BECADB9C-830B-45CE-A147-8934EF1FC336",
   "File": "LU 0249-2025",
-  "Name": "Zoning, Queens Future Map Change and Amendment. Queens (C 250046 ZMQ).",
+  "Name": "Zoning, Queens Future Map Change and Amendment, Queens (C 250046 ZMQ).",
   "Title": "Application number C 250046 ZMQ (Queens Future Map Change and Amendment) submitted by Queens Future, LLC, pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section No. 10b, by establishing a C8-4 district and changing from an R3-2 District to a C8-4 District, Borough of Queens, Joint Interest Area 81, Community Districts 3, 4, 6, 7, 8, and 9, Council District 21.",
   "TypeID": 10,
   "TypeName": "Land Use Application",
-  "StatusID": 25,
-  "StatusName": "Laid Over in Committee",
+  "StatusID": 3,
+  "StatusName": "Committee",
   "BodyID": 34,
   "BodyName": "Subcommittee on Zoning and Franchises",
   "IntroDate": "2025-02-27T00:00:00Z",
@@ -94,6 +94,101 @@
       "Version": "*",
       "MatterStatusID": 25,
       "LastModified": "2025-03-06T18:45:58.35Z"
+    },
+    {
+      "ID": 417744,
+      "Date": "2025-03-11T11:00:00Z",
+      "ActionID": 54,
+      "Action": "Hearing Held by Committee",
+      "Description": "This Land Use Application was Hearing Held by Committee",
+      "BodyID": 34,
+      "BodyName": "Subcommittee on Zoning and Franchises",
+      "EventID": 21417,
+      "AgendaSequence": 4,
+      "MinutesSequence": 9,
+      "Version": "*",
+      "MatterStatusID": 25,
+      "LastModified": "2025-03-11T16:06:40.623Z"
+    },
+    {
+      "ID": 417970,
+      "Date": "2025-03-11T11:00:00Z",
+      "ActionID": 79,
+      "Action": "Approved by Subcommittee",
+      "Description": "A motion was made that this Land Use Application be Approved by Subcommittee approved by Roll Call.",
+      "BodyID": 34,
+      "BodyName": "Subcommittee on Zoning and Franchises",
+      "EventID": 21417,
+      "MinutesSequence": 10,
+      "Version": "*",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterStatusID": 3,
+      "Votes": [
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 10
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 20
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 30
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 40
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 50
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2025-03-11T16:07:24.74Z"
     }
   ],
   "Attachments": [
@@ -135,5 +230,5 @@
   ],
   "Summary": "",
   "TextID": 79201,
-  "LastModified": "2025-03-10T17:04:37.33Z"
+  "LastModified": "2025-03-11T16:07:24.573Z"
 }

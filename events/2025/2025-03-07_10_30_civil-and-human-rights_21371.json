@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/3/21371_A_Committee_on_Civil_and_Human_Rights_25-03-07_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/3/21371_M_Committee_on_Civil_and_Human_Rights_25-03-07_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_250307-104803.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21371&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,17 +20,89 @@
       "GUID": "029A1070-294E-47EE-B3B1-CCFD67BDDFE5",
       "Title": "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2026 The Preliminary Capital Plan for Fiscal Years 2026-2029, and The Fiscal 2025 Preliminary Mayor’s Management Report \r\n\r\n\r\n10:30 a.m.     City Commission on Human Rights\r\n11:30 p.m.     Equal Employment Practice Commission\r\n12:30 p.m.     Commission on Racial Equity/CORE \r\n  1:30 p.m.     Public\r\n",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 75332,
       "MatterFile": "T2025-3037",
       "MatterName": "Preliminary Budget Hearing - Civil and Human Rights",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-02-27T20:54:35.45Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-03-11T14:04:28.657Z"
+    },
+    {
+      "ID": 417812,
+      "GUID": "48F2D493-2A87-415A-B9E1-ECDDBC77867D",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 50
+        }
+      ],
+      "LastModified": "2025-03-11T14:59:05.56Z"
+    },
+    {
+      "ID": 417813,
+      "GUID": "0F03989F-809D-4890-88B7-F6D91BF98768",
+      "Title": "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2026 The Preliminary Capital Plan for Fiscal Years 2026-2029, and The Fiscal 2025 Preliminary Mayor’s Management Report \r\n\r\n\r\n10:30 a.m.     City Commission on Human Rights\r\n11:30 p.m.     Equal Employment Practice Commission\r\n12:30 p.m.     Commission on Racial Equity/CORE \r\n  1:30 p.m.     Public\r\n",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 75332,
+      "MatterFile": "T2025-3037",
+      "MatterName": "Preliminary Budget Hearing - Civil and Human Rights",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-03-11T14:04:31.95Z"
     }
   ],
   "AgendaLastPublished": "2025-02-27T16:08:56.547Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-03-07T20:00:41.973Z"
+  "MinutesLastPublished": "2025-03-11T14:59:11.057Z",
+  "LastModified": "2025-03-11T14:59:11.183Z"
 }
