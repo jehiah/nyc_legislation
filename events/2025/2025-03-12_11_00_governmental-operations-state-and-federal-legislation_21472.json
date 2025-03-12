@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/3/21472_A_Committee_on_Governmental_Operations%2C_State___Federal_Legislation_25-03-12_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/3/21472_M_Committee_on_Governmental_Operations%2C_State___Federal_Legislation_25-03-12_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_250312-111234.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21472&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,31 +21,189 @@
       "GUID": "856F22C2-5AB6-44C3-BC92-4023FFD3FDEB",
       "Title": "Resolution calling on the State Legislature to pass, and the Governor to sign, S.590/A.3665, which would eliminate the rule that provides whenever a city charter commission puts a proposal on the local ballot, other referendum proposals are barred from the ballot.",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 6,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 75159,
       "MatterFile": "Res 0740-2025",
       "MatterName": "Eliminate the rule that provides whenever a city charter commission puts a proposal on the local ballot, other referendum proposals are barred from the ballot (S.590/A.3665).",
       "MatterType": "Resolution",
-      "LastModified": "2025-03-08T04:07:51.55Z"
+      "LastModified": "2025-03-12T15:34:31.217Z"
     },
     {
       "ID": 417764,
       "GUID": "A5A2DD25-657A-4605-819C-BEF5F579634C",
       "Title": "A Local Law to amend the New York city charter and the administrative code of the city of New York, in relation to creating an archive of official government social media accounts",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 564-A",
       "MinutesNote": "Proposed Int. No. 564-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 73485,
       "MatterFile": "Int 0564-2024",
       "MatterName": "Creating an archive of official government social media accounts.",
       "MatterType": "Introduction",
-      "LastModified": "2025-03-08T04:07:31.177Z"
+      "LastModified": "2025-03-12T15:34:04.48Z"
+    },
+    {
+      "ID": 418094,
+      "GUID": "4DB588A2-835F-4D8B-9FDE-E120C04C88B3",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 70
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2025-03-12T15:34:48.17Z"
+    },
+    {
+      "ID": 418095,
+      "GUID": "D6F6B3AA-8B20-4067-9A71-82D762600A0F",
+      "Title": "A Local Law to amend the New York city charter and the administrative code of the city of New York, in relation to creating an archive of official government social media accounts",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 73485,
+      "MatterFile": "Int 0564-2024",
+      "MatterName": "Creating an archive of official government social media accounts.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-03-12T15:34:08.207Z"
+    },
+    {
+      "ID": 418096,
+      "GUID": "C62EC78B-B9E3-4568-97EF-ACCA4925AEF4",
+      "Title": "A Local Law to amend the New York city charter and the administrative code of the city of New York, in relation to creating an archive of official government social media accounts",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 73485,
+      "MatterFile": "Int 0564-2024",
+      "MatterName": "Creating an archive of official government social media accounts.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-03-12T15:34:12.13Z"
+    },
+    {
+      "ID": 418097,
+      "GUID": "3857C433-6E7F-475A-A979-17F6CE296480",
+      "Title": "A Local Law to amend the New York city charter and the administrative code of the city of New York, in relation to creating an archive of official government social media accounts",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 73485,
+      "MatterFile": "Int 0564-2024",
+      "MatterName": "Creating an archive of official government social media accounts.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-03-12T15:34:26.81Z"
+    },
+    {
+      "ID": 418098,
+      "GUID": "2BDB9A25-D144-4841-AFFC-040FF6AA0B15",
+      "Title": "Resolution calling on the State Legislature to pass, and the Governor to sign, S.590/A.3665, which would eliminate the rule that provides whenever a city charter commission puts a proposal on the local ballot, other referendum proposals are barred from the ballot.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 7,
+      "Version": "*",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Resolution be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 75159,
+      "MatterFile": "Res 0740-2025",
+      "MatterName": "Eliminate the rule that provides whenever a city charter commission puts a proposal on the local ballot, other referendum proposals are barred from the ballot (S.590/A.3665).",
+      "MatterType": "Resolution",
+      "LastModified": "2025-03-12T15:34:39.887Z"
     }
   ],
   "AgendaLastPublished": "2025-03-08T04:07:56.147Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-03-08T04:07:56.177Z"
+  "MinutesLastPublished": "2025-03-12T15:34:54.317Z",
+  "LastModified": "2025-03-12T15:34:54.44Z"
 }
