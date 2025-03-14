@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/3/21485_A_Committee_on_Land_Use_25-03-14_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/3/21485_M_Committee_on_Land_Use_25-03-14_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_250314-134356.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21485&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,45 +20,203 @@
       "GUID": "1BA178E6-A6E7-490D-B21B-122789361D03",
       "Title": "Application number C 240402 HAK (581 Grant Avenue Development) submitted by the New York City Department of Housing Preservation and Development (HPD), pursuant to Article 16 of the General Municipal Law of New York State for the designation of an Urban Development Action Area and an Urban Development Action Area Project, and pursuant to Section 197-c of the New York City Charter for the disposition of property to a developer to be selected by HPD, for property located at 581 Grant Avenue (Block 4223, Lot 1), Borough of Brooklyn, Community District 5, Council District 37.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Land Use Application was Hearing Held by Committee",
       "MatterID": 75384,
       "MatterFile": "LU 0234-2025",
       "MatterName": "Landmarks, 581 Grant Avenue Development, Brooklyn (C 240402 HAK)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2025-03-12T22:48:19.453Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2025-03-14T19:28:27.8Z"
     },
     {
       "ID": 418110,
       "GUID": "5B792FDD-2135-4F7E-AF26-2EB675A6778B",
       "Title": "Application number C 240403 ZMK (581 Grant Avenue Development) submitted by the New York City Department of Housing Preservation and Development, pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section No. 18a, by changing from an R5 District to an R6 District, Borough of Brooklyn, Community District 5, Council District 37.",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Land Use Application was Hearing Held by Committee",
       "MatterID": 75386,
       "MatterFile": "LU 0235-2025",
       "MatterName": "Landmarks, 581 Grant Avenue Development, Brooklyn (C 240403 ZMK)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2025-03-12T22:48:19.453Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2025-03-14T19:28:31Z"
     },
     {
       "ID": 418111,
       "GUID": "E4F72781-B871-4013-9BD1-38D194989230",
       "Title": "Application number N 240404 ZRK (581 Grant Avenue Development) submitted by the New York City Department of Housing Preservation and Development, pursuant to Section 201 of the New York City Charter, for an amendment of the Zoning Resolution of the City of New York, modifying APPENDIX F, for the purpose of establishing a Mandatory Inclusionary Housing Area, Borough of Brooklyn, Community District 5, Council District 37.",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 6,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Land Use Application was Hearing Held by Committee",
       "MatterID": 75387,
       "MatterFile": "LU 0236-2025",
       "MatterName": "Landmarks, 581 Grant Avenue Development, Brooklyn (N 240404 ZRK)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2025-03-12T22:48:19.453Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2025-03-14T19:28:35.093Z"
+    },
+    {
+      "ID": 418153,
+      "GUID": "76171EF7-30FD-41BD-9D71-094D3FEB4993",
+      "Title": "Roll Call ",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        },
+        {
+          "ID": 7740,
+          "Slug": "carlina-rivera",
+          "FullName": "Carlina Rivera",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 100
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 110
+        }
+      ],
+      "LastModified": "2025-03-14T19:28:23.633Z"
+    },
+    {
+      "ID": 418154,
+      "GUID": "0D0886A5-C320-4F7D-8856-242B4229B205",
+      "Title": "Application number C 240402 HAK (581 Grant Avenue Development) submitted by the New York City Department of Housing Preservation and Development (HPD), pursuant to Article 16 of the General Municipal Law of New York State for the designation of an Urban Development Action Area and an Urban Development Action Area Project, and pursuant to Section 197-c of the New York City Charter for the disposition of property to a developer to be selected by HPD, for property located at 581 Grant Avenue (Block 4223, Lot 1), Borough of Brooklyn, Community District 5, Council District 37.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5041,
+      "ActionName": "Approved by Committee with Modifications and Referred to CPC",
+      "ActionText": "A motion was made that this Land Use Application be Approved by Committee with Modifications and Referred to CPC approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 75384,
+      "MatterFile": "LU 0234-2025",
+      "MatterName": "Landmarks, 581 Grant Avenue Development, Brooklyn (C 240402 HAK)",
+      "MatterType": "Land Use Application",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2025-03-14T19:28:54.553Z"
+    },
+    {
+      "ID": 418155,
+      "GUID": "C8DC1C0A-5432-4407-968D-7D56D61E12EC",
+      "Title": "Application number C 240403 ZMK (581 Grant Avenue Development) submitted by the New York City Department of Housing Preservation and Development, pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section No. 18a, by changing from an R5 District to an R6 District, Borough of Brooklyn, Community District 5, Council District 37.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 5041,
+      "ActionName": "Approved by Committee with Modifications and Referred to CPC",
+      "ActionText": "A motion was made that this Land Use Application be Approved by Committee with Modifications and Referred to CPC approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 75386,
+      "MatterFile": "LU 0235-2025",
+      "MatterName": "Landmarks, 581 Grant Avenue Development, Brooklyn (C 240403 ZMK)",
+      "MatterType": "Land Use Application",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2025-03-14T19:29:10.62Z"
+    },
+    {
+      "ID": 418156,
+      "GUID": "1AF25AB6-E30C-4BC7-BC7D-A1DC85756A24",
+      "Title": "Application number N 240404 ZRK (581 Grant Avenue Development) submitted by the New York City Department of Housing Preservation and Development, pursuant to Section 201 of the New York City Charter, for an amendment of the Zoning Resolution of the City of New York, modifying APPENDIX F, for the purpose of establishing a Mandatory Inclusionary Housing Area, Borough of Brooklyn, Community District 5, Council District 37.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 7,
+      "Version": "*",
+      "ActionID": 5041,
+      "ActionName": "Approved by Committee with Modifications and Referred to CPC",
+      "ActionText": "A motion was made that this Land Use Application be Approved by Committee with Modifications and Referred to CPC approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 75387,
+      "MatterFile": "LU 0236-2025",
+      "MatterName": "Landmarks, 581 Grant Avenue Development, Brooklyn (N 240404 ZRK)",
+      "MatterType": "Land Use Application",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2025-03-14T19:29:28.75Z"
     }
   ],
   "AgendaLastPublished": "2025-03-13T13:28:57.53Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-03-13T13:28:57.56Z"
+  "MinutesLastPublished": "2025-03-14T19:29:34.213Z",
+  "LastModified": "2025-03-14T19:29:34.25Z"
 }
