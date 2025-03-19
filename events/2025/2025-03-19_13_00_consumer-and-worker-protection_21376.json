@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/3/21376_A_Committee_on_Consumer_and_Worker_Protection_25-03-19_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/3/21376_M_Committee_on_Consumer_and_Worker_Protection_25-03-19_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_250213-111402.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21376&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,17 +20,115 @@
       "GUID": "5A9BE658-E7A4-4DFA-A52C-7B8F345BAE50",
       "Title": "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2026, The Preliminary Capital Plan for Fiscal Years 2026-2029 and The Fiscal 2025 Preliminary Mayor’s Management Report \r\n\r\n\r\n1:00 p.m.     Department of Consumer and Worker Protection\r\n2:30 p.m.     Public\r\n",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 75339,
       "MatterFile": "T2025-3044",
       "MatterName": "Preliminary Budget Hearing - Consumer and Worker Protection",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-03-14T18:28:43.897Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-03-19T20:29:31.063Z"
+    },
+    {
+      "ID": 418228,
+      "GUID": "7C97E740-5AAF-4F6B-96A0-9BC1D5A45C62",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2025-03-19T20:29:24.197Z"
+    },
+    {
+      "ID": 418229,
+      "GUID": "0B26CC7B-C6F0-4582-A2DC-AC0E6A9B8D3E",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Cabán",
+      "LastModified": "2025-03-19T22:01:04.04Z"
+    },
+    {
+      "ID": 418230,
+      "GUID": "AB55D1B0-6C02-4020-9D0A-4928911FB6FA",
+      "Title": "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2026, The Preliminary Capital Plan for Fiscal Years 2026-2029 and The Fiscal 2025 Preliminary Mayor’s Management Report \r\n\r\n\r\n1:00 p.m.     Department of Consumer and Worker Protection\r\n2:30 p.m.     Public\r\n",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 75339,
+      "MatterFile": "T2025-3044",
+      "MatterName": "Preliminary Budget Hearing - Consumer and Worker Protection",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-03-19T20:29:39.667Z"
     }
   ],
   "AgendaLastPublished": "2025-03-12T15:25:52.3Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-03-19T17:02:29.54Z"
+  "MinutesLastPublished": "2025-03-19T22:01:11.313Z",
+  "LastModified": "2025-03-19T22:01:11.44Z"
 }
