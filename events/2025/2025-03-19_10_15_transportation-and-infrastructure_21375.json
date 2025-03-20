@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/3/21375_A_Committee_on_Transportation_and_Infrastructure_25-03-19_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/3/21375_M_Committee_on_Transportation_and_Infrastructure_25-03-19_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_250319-102720.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21375&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,17 +20,131 @@
       "GUID": "5CE4AAFC-FD7B-4845-9712-89B7DF3FDBED",
       "Title": "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2026, The Preliminary Capital Plan for Fiscal Years 2026-2029 and The Fiscal 2025 Preliminary Mayor’s Management Report \r\n\r\n\r\n10:15 a.m.      MTA/NYC Transit \r\n12:00 p.m.      Department of Transportation\r\n  2:00 p.m.      Taxi and Limousine Commission\r\n  3:00 p.m.      Department of Design and Construction\r\n  4:00 p.m.      Public\r\n\r\n",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 75337,
       "MatterFile": "T2025-3042",
       "MatterName": "Preliminary Budget Hearing - Transportation and Infrastructure",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-03-18T12:36:51.633Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-03-20T15:03:55.8Z"
+    },
+    {
+      "ID": 418231,
+      "GUID": "C0091352-D233-4F7F-B587-67F13685FDCC",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7740,
+          "Slug": "carlina-rivera",
+          "FullName": "Carlina Rivera",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2025-03-20T15:03:24.41Z"
+    },
+    {
+      "ID": 418232,
+      "GUID": "9B942C44-58AB-4B1F-BF29-79CD8C707F12",
+      "Title": "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2026, The Preliminary Capital Plan for Fiscal Years 2026-2029 and The Fiscal 2025 Preliminary Mayor’s Management Report \r\n\r\n\r\n10:15 a.m.      MTA/NYC Transit \r\n12:00 p.m.      Department of Transportation\r\n  2:00 p.m.      Taxi and Limousine Commission\r\n  3:00 p.m.      Department of Design and Construction\r\n  4:00 p.m.      Public\r\n\r\n",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 75337,
+      "MatterFile": "T2025-3042",
+      "MatterName": "Preliminary Budget Hearing - Transportation and Infrastructure",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-03-20T15:04:01.237Z"
+    },
+    {
+      "ID": 418233,
+      "GUID": "5352B11B-020D-401A-9359-BC7C0A47DE38",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Restler and Brewer",
+      "LastModified": "2025-03-20T15:03:52.693Z"
     }
   ],
   "AgendaLastPublished": "2025-03-14T14:47:48.587Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-03-19T21:16:35.933Z"
+  "MinutesLastPublished": "2025-03-20T15:04:07.073Z",
+  "LastModified": "2025-03-20T15:04:07.197Z"
 }
