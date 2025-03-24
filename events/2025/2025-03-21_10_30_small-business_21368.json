@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/3/21368_A_Committee_on_Small_Business_25-03-21_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/3/21368_M_Committee_on_Small_Business_25-03-21_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_250321-105009.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21368&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,17 +20,105 @@
       "GUID": "E95DC64C-7EC1-44F1-B3E0-D794D7F4A2C9",
       "Title": "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2026, The Preliminary Capital Plan for Fiscal Years 2026-2029 and The Fiscal 2025 Preliminary Mayor’s Management Report \r\n\r\n\r\n10:30 a.m.     Department of Small Business Services\r\n12:00 p.m.     Public\r\n",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 75323,
       "MatterFile": "T2025-3028",
       "MatterName": "Preliminary Budget Hearing - Small Business",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-03-14T18:33:35.153Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-03-24T14:03:38.72Z"
+    },
+    {
+      "ID": 418307,
+      "GUID": "B18E1765-D732-461A-BA58-2C5956ECB787",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 50
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2025-03-24T14:04:28.41Z"
+    },
+    {
+      "ID": 418308,
+      "GUID": "4E66A8B3-E4E5-4C09-9E97-684C711B0C61",
+      "Title": "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2026, The Preliminary Capital Plan for Fiscal Years 2026-2029 and The Fiscal 2025 Preliminary Mayor’s Management Report \r\n\r\n\r\n10:30 a.m.     Department of Small Business Services\r\n12:00 p.m.     Public\r\n",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 75323,
+      "MatterFile": "T2025-3028",
+      "MatterName": "Preliminary Budget Hearing - Small Business",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-03-24T14:03:44.003Z"
     }
   ],
   "AgendaLastPublished": "2025-02-27T16:03:30.33Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-03-21T17:57:26.067Z"
+  "MinutesLastPublished": "2025-03-24T14:04:33.913Z",
+  "LastModified": "2025-03-24T14:04:34.043Z"
 }
