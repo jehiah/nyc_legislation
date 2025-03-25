@@ -6,8 +6,8 @@
   "Title": "Application number G 250066 HHY (H+H Operating Agreement) submitted by the New York City Department of Citywide Administrative Services pursuant to Section 7387(1) of the Unconsolidated Laws of the State of New York known as the New York City Health and Hospitals (“H+H”) Enabling Act, for the transfer of the following properties from the City of New York (the “City”) to H+H, pursuant to the terms of the lease agreement by and between City and H+H dated June 16, 1970: Manhattan Block 270, Lot 32; Manhattan Block 2060, Lot 1; Bronx Block 3327, Lots 73 and 200; Bronx Block 2489, Lot 60; Bronx Block 2303, Lot 58; Bronx Block 2269, Lot 21; Brooklyn Block 2039, Lots 71, 81, and 101; Brooklyn Block 1723, Lots 1, 2, and 3; Brooklyn Block 3738, Lot 15.",
   "TypeID": 10,
   "TypeName": "Land Use Application",
-  "StatusID": 25,
-  "StatusName": "Laid Over in Committee",
+  "StatusID": 5003,
+  "StatusName": "Companion Pending Approval by Council",
   "BodyID": 5261,
   "BodyName": "Subcommittee on Landmarks, Public Sitings and Dispositions",
   "IntroDate": "2025-02-13T00:00:00Z",
@@ -152,12 +152,230 @@
       "Version": "*",
       "MatterStatusID": 25,
       "LastModified": "2025-03-11T19:01:45.153Z"
+    },
+    {
+      "ID": 418286,
+      "Date": "2025-03-25T11:00:00Z",
+      "ActionID": 54,
+      "Action": "Hearing Held by Committee",
+      "Description": "This Land Use Application was Hearing Held by Committee",
+      "BodyID": 5261,
+      "BodyName": "Subcommittee on Landmarks, Public Sitings and Dispositions",
+      "EventID": 21461,
+      "AgendaSequence": 1,
+      "MinutesSequence": 2,
+      "Version": "*",
+      "MatterStatusID": 25,
+      "LastModified": "2025-03-25T15:59:44.357Z"
+    },
+    {
+      "ID": 418497,
+      "Date": "2025-03-25T11:00:00Z",
+      "ActionID": 5047,
+      "Action": "Approved by Subcommittee with Modifications",
+      "Description": "A motion was made that this Land Use Application be Approved by Subcommittee with Modifications approved by Roll Call.",
+      "BodyID": 5261,
+      "BodyName": "Subcommittee on Landmarks, Public Sitings and Dispositions",
+      "EventID": 21461,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterStatusID": 3,
+      "Votes": [
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 10
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 20
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 30
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 40
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 50
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 60
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2025-03-25T16:00:13.293Z"
+    },
+    {
+      "ID": 418287,
+      "Date": "2025-03-25T11:30:00Z",
+      "ActionID": 54,
+      "Action": "Hearing Held by Committee",
+      "Description": "This Land Use Application was Hearing Held by Committee",
+      "BodyID": 17,
+      "BodyName": "Committee on Land Use",
+      "EventID": 21462,
+      "AgendaSequence": 1,
+      "MinutesSequence": 2,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2025-03-25T16:33:09.923Z"
+    },
+    {
+      "ID": 418505,
+      "Date": "2025-03-25T11:30:00Z",
+      "ActionID": 5079,
+      "Action": "Approved by Committee with Modifications",
+      "Description": "A motion was made that this Land Use Application be Approved by Committee with Modifications approved by Roll Call.",
+      "BodyID": 17,
+      "BodyName": "Committee on Land Use",
+      "EventID": 21462,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterStatusID": 5003,
+      "Votes": [
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 10
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "VoteID": 46,
+          "Vote": "Medical",
+          "Sort": 20
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 40
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 50
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 60
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 70
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 80
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 90
+        },
+        {
+          "ID": 7740,
+          "Slug": "carlina-rivera",
+          "FullName": "Carlina Rivera",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 100
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 110
+        }
+      ],
+      "LastModified": "2025-03-25T16:33:41.8Z"
     }
   ],
   "Attachments": [
     {
       "ID": 315116,
-      "LastModified": "2025-03-21T21:37:18.837Z",
+      "LastModified": "2025-03-25T15:31:28.98Z",
       "Name": "February 13, 2025 - Stated Meeting Agenda",
       "Link": "https://nyc.legistar1.com/nyc/attachments/a4d67c6f-7a86-4b0a-86e1-01068ad0bbbf.pdf",
       "Sort": 1
@@ -171,7 +389,7 @@
     },
     {
       "ID": 315970,
-      "LastModified": "2025-02-25T23:15:04.11Z",
+      "LastModified": "2025-03-25T14:16:52.877Z",
       "Name": "Calendar of the Landmarks Subcommittee Meeting - February 26, 2025",
       "Link": "https://nyc.legistar1.com/nyc/attachments/adae0790-499b-4b15-bdd1-e5671808e6a6.pdf",
       "Sort": 4
@@ -192,20 +410,20 @@
     },
     {
       "ID": 316365,
-      "LastModified": "2025-03-11T17:52:54.393Z",
+      "LastModified": "2025-03-25T13:40:56.693Z",
       "Name": "Calendar of the Subcommittee Meetings - March 11, 2025",
       "Link": "https://nyc.legistar1.com/nyc/attachments/b5585b78-a850-4467-bc61-8a55cf1a55a0.pdf",
       "Sort": 7
     },
     {
-      "ID": 316972,
-      "LastModified": "2025-03-21T21:37:18.797Z",
-      "Name": "Calendar of the Landmarks Subcommittee Meeting - February 26, 2025",
-      "Link": "https://nyc.legistar1.com/nyc/attachments/b26ed2a4-63fc-4944-a56e-32155279444a.pdf",
+      "ID": 317012,
+      "LastModified": "2025-03-25T14:17:35.02Z",
+      "Name": "Calendar of the Landmarks Subcommittee Meeting and Land Use Meeting - March 25, 2025",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/5a45c423-1e6f-4b0a-bf54-2961a6f0fe57.pdf",
       "Sort": 8
     }
   ],
   "Summary": "",
   "TextID": 79131,
-  "LastModified": "2025-03-21T21:38:18.773Z"
+  "LastModified": "2025-03-25T16:33:41.403Z"
 }
