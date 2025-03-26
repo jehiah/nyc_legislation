@@ -6,8 +6,8 @@
   "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign S.3746, requiring at least one member of the State Board of Parole be a formerly incarcerated person",
   "TypeID": 1,
   "TypeName": "Resolution",
-  "StatusID": 25,
-  "StatusName": "Laid Over in Committee",
+  "StatusID": 24,
+  "StatusName": "Reported from Committee",
   "BodyID": 19,
   "BodyName": "Committee on Public Safety",
   "IntroDate": "2024-05-16T00:00:00Z",
@@ -35,6 +35,16 @@
       "ID": 7864,
       "Slug": "chris-banks",
       "FullName": "Chris Banks"
+    },
+    {
+      "ID": 7785,
+      "Slug": "farah-n-louis",
+      "FullName": "Farah N. Louis"
+    },
+    {
+      "ID": 7740,
+      "Slug": "carlina-rivera",
+      "FullName": "Carlina Rivera"
     }
   ],
   "History": [
@@ -96,12 +106,173 @@
       "AgendaNote": "Preconsidered - Public Safety",
       "MatterStatusID": 3,
       "LastModified": "2024-05-16T19:28:58.687Z"
+    },
+    {
+      "ID": 418309,
+      "Date": "2025-03-26T11:00:00Z",
+      "ActionID": 54,
+      "Action": "Hearing Held by Committee",
+      "Description": "This Resolution was Hearing Held by Committee",
+      "BodyID": 19,
+      "BodyName": "Committee on Public Safety",
+      "EventID": 21513,
+      "AgendaSequence": 1,
+      "MinutesSequence": 2,
+      "Version": "*",
+      "AgendaNote": "Proposed Res. No. 414-A",
+      "MatterStatusID": 3,
+      "LastModified": "2025-03-26T15:31:29.673Z"
+    },
+    {
+      "ID": 418761,
+      "Date": "2025-03-26T11:00:00Z",
+      "ActionID": 5001,
+      "Action": "Amendment Proposed by Comm",
+      "Description": "This Resolution was Amendment Proposed by Comm",
+      "BodyID": 19,
+      "BodyName": "Committee on Public Safety",
+      "EventID": 21513,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2025-03-26T15:31:33.483Z"
+    },
+    {
+      "ID": 418762,
+      "Date": "2025-03-26T11:00:00Z",
+      "ActionID": 33,
+      "Action": "Amended by Committee",
+      "Description": "This Resolution was Amended by Committee",
+      "BodyID": 19,
+      "BodyName": "Committee on Public Safety",
+      "EventID": 21513,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2025-03-26T15:31:40.2Z"
+    },
+    {
+      "ID": 418763,
+      "Date": "2025-03-26T11:00:00Z",
+      "ActionID": 32,
+      "Action": "Approved by Committee",
+      "Description": "A motion was made that this Resolution be Approved by Committee approved by Roll Call.",
+      "BodyID": 19,
+      "BodyName": "Committee on Public Safety",
+      "EventID": 21513,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterStatusID": 24,
+      "Votes": [
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 10
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "VoteID": 12,
+          "Vote": "Negative",
+          "Result": 2,
+          "Sort": 20
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 30
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 40
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 50
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "VoteID": 12,
+          "Vote": "Negative",
+          "Result": 2,
+          "Sort": 60
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 70
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 80
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 90
+        },
+        {
+          "ID": 7740,
+          "Slug": "carlina-rivera",
+          "FullName": "Carlina Rivera",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 100
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 110
+        }
+      ],
+      "LastModified": "2025-03-26T15:34:03.567Z"
     }
   ],
   "Attachments": [
     {
       "ID": 300662,
-      "LastModified": "2025-03-25T19:45:43.99Z",
+      "LastModified": "2025-03-26T17:01:53.35Z",
       "Name": "Res. No. 414",
       "Link": "https://nyc.legistar1.com/nyc/attachments/047f8b6e-4ed8-4363-97f1-b2c0c1aad45e.docx",
       "Sort": 1
@@ -150,15 +321,22 @@
     },
     {
       "ID": 316974,
-      "LastModified": "2025-03-25T19:46:19.87Z",
+      "LastModified": "2025-03-26T16:41:57.707Z",
       "Name": "Proposed Res. No. 414-A - 3/24/25",
       "Link": "https://nyc.legistar1.com/nyc/attachments/bc0ae6e8-0d42-4382-bb7d-0bd9eccd9869.docx",
       "Sort": 8
+    },
+    {
+      "ID": 317109,
+      "LastModified": "2025-03-26T13:55:13.677Z",
+      "Name": "Committee Report 3/26/25",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/e2bd53a7-e25d-4d01-beb1-401dcd5ba926.docx",
+      "Sort": 9
     }
   ],
   "Summary": "",
   "TextID": 79351,
   "Text": "Whereas, The New York State Board of Parole (\"the Board\") determines whether to release eligible incarcerated individuals based on their rehabilitation and readiness to rejoin society; and\n      Whereas, Every year, between 10,000 and 12,000 people in New York State appear before the Board to make their case for release, according to multiple sources; and \n      Whereas, The Board has been criticized for not releasing enough incarcerated people who are up for parole and, in 2023 approximately 60 percent of parole applications were denied as of December of that year, according to New York Focus; and \n      Whereas, Pursuant to section 259-b of the New York Executive Law, the Board is comprised of up to nineteen members appointed by the governor with the advice and consent of the senate, and each member must have a degree from an accredited four-year college or university and at least five years of experience in fields such as criminology, law enforcement, corrections or psychology; and\n      Whereas, There is no requirement that the Board include a formerly incarcerated individual; and\n      Whereas, The Board would benefit from the perspective and insights of someone who has directly experienced the challenges of incarceration, rehabilitation and reintegration and therefore has a unique understanding of the needs and concerns of those seeking parole; and\n      Whereas, A formerly incarcerated person could offer invaluable insight and perspective into the complexities of the criminal justice system and contribute to promoting fairness and empathy within the parole decision-making process, ultimately leading to more informed and just outcomes; and\n      Whereas, S.3746, introduced by Senator Cordell Cleare, would amend section 259-b of the Executive Law to require the governor to appoint at least one formerly incarcerated person to the Board.; and\n      Whereas, S.3746 would help ensure that the Board represents a diverse range of viewpoints and promote fairness in parole decision-making; now, therefore, be it\n      Resolved, That the Council of the City of New York calls on the New York State Legislature to pass, and the Governor to sign S.3746, requiring at least one member of the State Board of Parole be a formerly incarcerated person.\nCMB/NEM\nLS#16696\n3/10/25\n\n\n2",
-  "RTF": "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang1033\\deflangfe1033{\\fonttbl{\\f0\\froman\\fprq2\\fcharset0 Times New Roman;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\n\\pard\\ltrpar\\sa160\\sl480\\slmult1\\v0 By Council Members Nurse, Cab\\'e1n, Joseph and Banks\\par\n\\pard\\ltrpar\\fi720\\sa160\\sl480\\slmult1\\qj Whereas, The New York State Board of Parole (\\ldblquote the Board\\rdblquote ) determines whether to release eligible incarcerated individuals based on their rehabilitation and readiness to rejoin society; and\\par\nWhereas, Every year, between 10,000 and 12,000 people in New York State appear before the Board to make their case for release, according to multiple sources; and \\par\n\\cf1 Whereas, The Board has been criticized for not releasing enough incarcerated people who are up for parole and, in 2023 \\cf0 approximately 60 percent of parole applications were denied as of December of that year, according to New York Focus\\cf1 ; and \\par\n\\cf0 Whereas, Pursuant to section 259-b of the New York Executive Law, the Board is comprised of up to nineteen members appointed by the governor with the advice and consent of the senate, and each member must have a degree from an accredited four-year college or university and at least five years of experience in fields such as criminology, law enforcement, corrections or psychology; and\\par\nWhereas, There is no requirement that the Board include a formerly incarcerated individual; and\\par\nWhereas, The Board would benefit from the perspective and insights of someone who has directly experienced the challenges of incarceration, rehabilitation and reintegration and therefore has a unique understanding of the needs and concerns of those seeking parole; and\\par\nWhereas, A formerly incarcerated person could offer invaluable insight and perspective into the complexities of the criminal justice system and contribute to promoting fairness and empathy within the parole decision-making process, ultimately leading to more informed and just outcomes; and\\par\nWhereas, S.3746, introduced by Senator Cordell Cleare, would amend section 259-b of the Executive Law to require the governor to appoint at least one formerly incarcerated person to the Board.; and\\par\nWhereas, S.3746 would help ensure that the Board represents a diverse range of viewpoints and promote fairness in parole decision-making; now, therefore, be it\\par\nResolved, That the Council of the City of New York calls on the New York State Legislature to pass, and the Governor to sign S.3746, requiring at least one member of the State Board of Parole be a formerly incarcerated person.\\par\n\\pard\\ltrpar\\fs20 CMB/NEM\\par\nLS#16696\\par\n3/10/25\\par\n\\pard\\ltrpar\\sa160\\sl252\\slmult1\\fs24\\par\n\\par\n}\n",
-  "LastModified": "2025-03-25T21:02:29.13Z"
+  "RTF": "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang1033\\deflangfe1033{\\fonttbl{\\f0\\froman\\fprq2\\fcharset0 Times New Roman;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\n\\pard\\ltrpar\\sa160\\sl480\\slmult1\\v0 By Council Members Nurse, Cab\\'e1n, Joseph, Banks, Louis and Rivera\\par\n\\pard\\ltrpar\\fi720\\sa160\\sl480\\slmult1\\qj Whereas, The New York State Board of Parole (\\ldblquote the Board\\rdblquote ) determines whether to release eligible incarcerated individuals based on their rehabilitation and readiness to rejoin society; and\\par\nWhereas, Every year, between 10,000 and 12,000 people in New York State appear before the Board to make their case for release, according to multiple sources; and \\par\n\\cf1 Whereas, The Board has been criticized for not releasing enough incarcerated people who are up for parole and, in 2023 \\cf0 approximately 60 percent of parole applications were denied as of December of that year, according to New York Focus\\cf1 ; and \\par\n\\cf0 Whereas, Pursuant to section 259-b of the New York Executive Law, the Board is comprised of up to nineteen members appointed by the governor with the advice and consent of the senate, and each member must have a degree from an accredited four-year college or university and at least five years of experience in fields such as criminology, law enforcement, corrections or psychology; and\\par\nWhereas, There is no requirement that the Board include a formerly incarcerated individual; and\\par\nWhereas, The Board would benefit from the perspective and insights of someone who has directly experienced the challenges of incarceration, rehabilitation and reintegration and therefore has a unique understanding of the needs and concerns of those seeking parole; and\\par\nWhereas, A formerly incarcerated person could offer invaluable insight and perspective into the complexities of the criminal justice system and contribute to promoting fairness and empathy within the parole decision-making process, ultimately leading to more informed and just outcomes; and\\par\nWhereas, S.3746, introduced by Senator Cordell Cleare, would amend section 259-b of the Executive Law to require the governor to appoint at least one formerly incarcerated person to the Board.; and\\par\nWhereas, S.3746 would help ensure that the Board represents a diverse range of viewpoints and promote fairness in parole decision-making; now, therefore, be it\\par\nResolved, That the Council of the City of New York calls on the New York State Legislature to pass, and the Governor to sign S.3746, requiring at least one member of the State Board of Parole be a formerly incarcerated person.\\par\n\\pard\\ltrpar\\fs20 CMB/NEM\\par\nLS#16696\\par\n3/10/25\\par\n\\pard\\ltrpar\\sa160\\sl252\\slmult1\\fs24\\par\n\\par\n}\n",
+  "LastModified": "2025-03-26T17:01:53.35Z"
 }

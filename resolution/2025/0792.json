@@ -6,8 +6,8 @@
   "Title": "Resolution declaring March 25 as Greek Cultural Appreciation and Independence Day annually to honor both the perseverance of the Greek people in their own fight for freedom and their integral place in the culture and history of the City of New York.",
   "TypeID": 1,
   "TypeName": "Resolution",
-  "StatusID": 3,
-  "StatusName": "Committee",
+  "StatusID": 24,
+  "StatusName": "Reported from Committee",
   "BodyID": 5105,
   "BodyName": "Committee on Cultural Affairs, Libraries and International Intergroup Relations",
   "IntroDate": "2025-03-12T00:00:00Z",
@@ -52,6 +52,11 @@
       "FullName": "Farah N. Louis"
     },
     {
+      "ID": 7740,
+      "Slug": "carlina-rivera",
+      "FullName": "Carlina Rivera"
+    },
+    {
       "ID": 7833,
       "Slug": "david-m-carr",
       "FullName": "David M. Carr"
@@ -65,6 +70,11 @@
       "ID": 7819,
       "Slug": "joann-ariola",
       "FullName": "Joann Ariola"
+    },
+    {
+      "ID": 7811,
+      "Slug": "vickie-paladino",
+      "FullName": "Vickie Paladino"
     }
   ],
   "History": [
@@ -96,12 +106,124 @@
       "AgendaNote": "Cultural Affairs, Libraries and International Intergroup Relations",
       "MatterStatusID": 3,
       "LastModified": "2025-03-12T15:13:33.08Z"
+    },
+    {
+      "ID": 418285,
+      "Date": "2025-03-26T10:00:00Z",
+      "ActionID": 54,
+      "Action": "Hearing Held by Committee",
+      "Description": "This Resolution was Hearing Held by Committee",
+      "BodyID": 5105,
+      "BodyName": "Committee on Cultural Affairs, Libraries and International Intergroup Relations",
+      "EventID": 21511,
+      "AgendaSequence": 2,
+      "MinutesSequence": 7,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2025-03-26T15:02:32.3Z"
+    },
+    {
+      "ID": 418737,
+      "Date": "2025-03-26T10:00:00Z",
+      "ActionID": 32,
+      "Action": "Approved by Committee",
+      "Description": "A motion was made that this Resolution be Approved by Committee approved by Roll Call.",
+      "BodyID": 5105,
+      "BodyName": "Committee on Cultural Affairs, Libraries and International Intergroup Relations",
+      "EventID": 21511,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterStatusID": 24,
+      "Votes": [
+        {
+          "ID": 7740,
+          "Slug": "carlina-rivera",
+          "FullName": "Carlina Rivera",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 10
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 20
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 30
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 40
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 50
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 70
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 80
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2025-03-26T15:02:32.3Z"
     }
   ],
   "Attachments": [
     {
       "ID": 316251,
-      "LastModified": "2025-03-25T17:53:16.48Z",
+      "LastModified": "2025-03-26T17:10:21.947Z",
       "Name": "Res. No. 792",
       "Link": "https://nyc.legistar1.com/nyc/attachments/e3330560-60c3-4bd7-8995-d9a406b6dda5.docx",
       "Sort": 2
@@ -112,11 +234,25 @@
       "Name": "March 12, 2025 - Stated Meeting Agenda",
       "Link": "https://nyc.legistar1.com/nyc/attachments/2b038474-49ed-4033-a34c-ba0eb9ad2304.pdf",
       "Sort": 3
+    },
+    {
+      "ID": 317113,
+      "LastModified": "2025-03-26T13:57:24.39Z",
+      "Name": "Committee Report 3/26/25",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/1827a2dd-2184-44b2-aaf5-4f02e4bd3dc0.docx",
+      "Sort": 4
+    },
+    {
+      "ID": 317159,
+      "LastModified": "2025-03-26T17:08:58.61Z",
+      "Name": "Committee Report - Stated Meeting",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/87ba478f-4194-4338-b0a6-dc30b8761edb.docx",
+      "Sort": 5
     }
   ],
   "Summary": "",
   "TextID": 78967,
   "Text": "Whereas, From 1453 and until its independence in 1830, Greece had been part of the Ottoman Empire; and\n      Whereas, On March 25, 1821, the Greek people began their War of Independence against the Ottoman Empire when Bishop Germanos of Patras raised a revolutionary flag at the Monastery of Agia Lavra in the Peloponnese peninsula; and\n      Whereas, Although the Greek revolutionaries, with their cry of \"freedom or death,\" met with early military success in their wartime battles, they had lost back to the Turks most of what had been captured by 1827; and \n      Whereas, When the failure of the revolution seemed at hand, the military forces of Great Britain, France, and Russia, urged on by the European citizenry who had become sympathetic to the Greek cause, came to the revolutionaries' defense and destroyed an Ottoman-Egyptian fleet at the Battle of Navarino in 1827; and\n      Whereas, Nonetheless, the war continued until February 3, 1830, when European powers meeting in London settled the fighting and pronounced Greece as an independent monarchical state under their protection; and\n      Whereas, Later, with the Treaty of Constantinople in July 1832, Prince Otto of Bavaria became the first king of the new Greek state, and Greek independence was officially recognized by the Turkish sultan; and\n      Whereas, On March 25 annually, the Greek nation celebrates its independence, while the Greek Orthodox Church also celebrates the day of the Annunciation, when the archangel Gabriel visited Mary to tell her that she would become the mother of Jesus; and\n      Whereas, Many Greek people all over the world celebrate this double secular and religious national holiday, with the eating of bakaliaros skordalia, which is fried cod with garlic sauce, and with parades in Athens of military and marching bands and of children in traditional costume carrying Greek flags; and\n      Whereas, On March 25, Greek people greet each other by saying chronia polla, which means \"live many years\": and\n      Whereas, In honor of Greek Independence Day, President Joseph R. Biden, Jr., stated in a 2024 proclamation that \"[t]hroughout our shared history, the people of Greece and the United States have been bound by this common belief-the power to shape our destiny should rest in the hands of 'we the people' \"; and\n      Whereas, President Biden continued that \"[t]oday, the partnership, alliance, and friendship shared by Greece and the United States is stronger than ever before-due in large part to the culture, courage, and character of the Greek American community\" and that \"Greek Americans have pushed our country forward, fanning the flame of liberty that first sparked in Athens thousands of years ago\"; and\n      Whereas, President Biden called on the American people to \"celebrate the unbreakable bonds of friendship\" between Greece and the United States (U.S.) and to \"recommit to preserving, defending, and protecting democracy-together\"; and\n      Whereas, A small number of Greek merchants immigrated to New York City (NYC) in the early to mid-19th century; and\n      Whereas, Many more Greek farmers and craftspeople came to NYC between 1880 and 1920 during the years of greater U.S. immigration numbers, having left rural villages due to a worsening agricultural economy and government instability; and\n      Whereas, Greek immigrants at the turn of the 20th century found their way to Queens, where the farms that were still present then and cities that grew up later there reminded them of Europe, with Astoria becoming home to a substantial number of Greek arrivals; and\n      Whereas, The Greek Orthodox Archdiocese of North and South America was established in NYC in 1921 and became a significant force in Greek family life and in the education of their children, with 450 Greek language schools soon educating almost 25,000 children; and\n      Whereas, Later Greek immigrants, who had settled in Manhattan, started moving to Astoria in significant numbers in the 1960s, where they preferred the small houses that made up the community to the high-rises of Manhattan and where many Greek dialects can still be heard; and\n      Whereas, As a result of the Immigration and Nationality Act of 1965, many more Greek immigrants arrived in NYC, including professionals and skilled workers, and increased NYC's Greek population substantially by 1970; and\n      Whereas, Over recent decades, New Yorkers of Greek heritage have spread to many other communities outside Astoria, particularly in Queens and Brooklyn, but also to the surrounding suburbs; and\n      Whereas, NYC is the second largest Greek diaspora, after only Melbourne, Australia, and is home to about 70,000 individuals who identify as Greek, according to the 2020 U.S. Census; and\n      Whereas, Greek immigrants and Greek Americans have contributed so much to the landscape of NYC, including their churches, schools, clubs, language, traditional dress, the arts, and well-known restaurants and bakeries; now, therefore, be it\n      Resolved, That the Council of the City of New York declares March 25 as Greek Cultural Appreciation and Independence Day annually to honor both the perseverance of the Greek people in their own fight for freedom and their integral place in the culture and history of the City of New York.\n\n\nLS #18201 and #19138\n3/3/2025\nRHP\n\n      \n4",
-  "RTF": "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang1033\\deflangfe1033{\\fonttbl{\\f0\\froman\\fprq2\\fcharset0 Times New Roman;}{\\f1\\froman\\fcharset0 var;}}\n{\\colortbl ;\\red51\\green51\\blue51;}\n\\viewkind4\\uc1\n\\pard\\ltrpar\\qj\\v0\\par\nBy Council Members Cab\\'e1n, Far\\'edas, Banks, Hanks, Brannan, Joseph, Louis, Carr, Marmorato and Ariola\\par\n\\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qj Whereas, From 1453 and until its independence in 1830, Greece had been part of the Ottoman Empire; and\\par\nWhereas, On March 25, 1821, the Greek people began their War of Independence against the Ottoman Empire when Bishop Germanos of Patras raised a revolutionary flag at the Monastery of Agia Lavra in the Peloponnese peninsula; and\\par\nWhereas, Although the Greek revolutionaries, with their cry of \\ldblquote freedom or death,\\rdblquote  met with early military success in their wartime battles, they had lost back to the Turks most of what had been captured by 1827; and \\par\nWhereas, When the failure of the revolution seemed at hand, the military forces of Great Britain, France, and Russia, urged on by the European citizenry who had become sympathetic to the Greek cause, came to the revolutionaries\\rquote  defense and destroyed an Ottoman-Egyptian fleet at the Battle of Navarino in 1827; and\\par\nWhereas, Nonetheless, the war continued until February 3, 1830, when European powers meeting in London settled the fighting and pronounced Greece as an independent monarchical state under their protection; and\\par\nWhereas, Later, with the Treaty of Constantinople in July 1832, Prince Otto of Bavaria became the first king of the new Greek state, and Greek independence was officially recognized by the Turkish sultan; and\\par\nWhereas, On March 25 annually, the Greek nation celebrates its independence, while the Greek Orthodox Church also celebrates the day of the Annunciation, when the archangel Gabriel visited Mary to tell her that she would become the mother of Jesus; and\\par\nWhereas, Many Greek people all over the world celebrate this double secular and religious national holiday, with the eating of \\i bakaliaros skordalia\\i0 , which is fried cod with garlic sauce, and with parades in Athens of military and marching bands and of children in traditional costume carrying Greek flags; and\\par\nWhereas, On March 25, Greek people greet each other by saying \\i chronia polla\\i0 , which means \\ldblquote live many years\\rdblquote : and\\par\nWhereas, In honor of Greek Independence Day, President Joseph R. Biden, Jr., stated in a 2024 proclamation that \\ldblquote [t]hroughout our shared history, the people of Greece and the United States have been bound by this common belief-the power to shape our destiny should rest in the hands of \\lquote we the people\\rquote\\fs16  \\fs24\\rdblquote ; and\\par\nWhereas, President Biden continued that \\ldblquote [t]oday, the partnership, alliance, and friendship shared by Greece and the United States is stronger than ever before-due in large part to the culture, courage, and character of the Greek American community\\rdblquote  and that \\ldblquote Greek Americans have pushed our country forward, fanning the flame of liberty that first sparked in Athens thousands of years ago\\rdblquote ; and\\par\nWhereas, President Biden called on the American people to \\ldblquote celebrate the unbreakable bonds of friendship\\rdblquote  between Greece and the United States (U.S.) and to \\ldblquote recommit to preserving, defending, and protecting democracy-together\\rdblquote ; and\\par\nWhereas, A small number of Greek merchants immigrated to New York City (NYC) in the early to mid-19th century; and\\par\nWhereas, Many more Greek farmers and craftspeople came to NYC between 1880 and 1920 during the years of greater U.S. immigration numbers, having left rural villages due to a worsening agricultural economy and government instability; and\\par\n\\cf1 Whereas, Greek immigrants at the turn of the 20th century found their way to Queens, where the farms that were still present then and cities that grew up later there reminded them of Europe, with Astoria becoming home to a substantial number of Greek arrivals; and\\par\n\\cf0 Whereas, The Greek Orthodox Archdiocese of North and South America was established in NYC in 1921 and became a significant force in Greek family life and in the education of their children, with 450 Greek language schools soon educating almost 25,000 children; and\\par\n\\cf1 Whereas, Later Greek immigrants, who had settled in Manhattan, started moving to Astoria in significant numbers in the 1960s, where they preferred the small houses that made up the community to the high-rises of Manhattan and where many Greek dialects can still be heard; and\\par\n\\cf0 Whereas, As a result of the \\cf1 Immigration and Nationality Act of 1965, many more Greek immigrants arrived in NYC, including professionals and skilled workers, and increased NYC\\rquote s Greek population substantially by 1970; and\\par\nWhereas, Over recent decades, New Yorkers of Greek heritage have spread to many other communities outside Astoria, particularly in Queens and Brooklyn, but also to the surrounding suburbs; and\\par\nWhereas, NYC is the second largest Greek diaspora, after only Melbourne, Australia, and is home to about 70,000 individuals who identify as Greek, according to the 2020 U.S. Census; and\\par\n\\cf0 Whereas, Greek immigrants and Greek Americans have contributed so much to the landscape of NYC, including their churches, schools, clubs, language, traditional dress, the arts, and well-known restaurants and bakeries; now, therefore, be it\\par\nResolved, That the Council of the City of New York declares March 25 as Greek Cultural Appreciation and Independence Day annually to honor both the perseverance of the Greek people in their own fight for freedom and their integral place in the culture and history of the City of New York.\\par\n\\pard\\ltrpar\\qj\\par\n\\par\n\\fs18 LS #\\f1\\fs20 18201 and #19138\\f0\\fs24\\par\n\\fs18 3/3/2025\\par\nRHP\\par\n\\fs24\\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qj\\par\n}\n",
-  "LastModified": "2025-03-25T21:03:58.647Z"
+  "RTF": "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang1033\\deflangfe1033{\\fonttbl{\\f0\\froman\\fprq2\\fcharset0 Times New Roman;}{\\f1\\froman\\fcharset0 var;}}\n{\\colortbl ;\\red51\\green51\\blue51;}\n\\viewkind4\\uc1\n\\pard\\ltrpar\\qj\\v0\\par\nBy Council Members Cab\\'e1n, Far\\'edas, Banks, Hanks, Brannan, Joseph, Louis, Rivera, Carr, Marmorato, Ariola and Paladino\\par\n\\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qj Whereas, From 1453 and until its independence in 1830, Greece had been part of the Ottoman Empire; and\\par\nWhereas, On March 25, 1821, the Greek people began their War of Independence against the Ottoman Empire when Bishop Germanos of Patras raised a revolutionary flag at the Monastery of Agia Lavra in the Peloponnese peninsula; and\\par\nWhereas, Although the Greek revolutionaries, with their cry of \\ldblquote freedom or death,\\rdblquote  met with early military success in their wartime battles, they had lost back to the Turks most of what had been captured by 1827; and \\par\nWhereas, When the failure of the revolution seemed at hand, the military forces of Great Britain, France, and Russia, urged on by the European citizenry who had become sympathetic to the Greek cause, came to the revolutionaries\\rquote  defense and destroyed an Ottoman-Egyptian fleet at the Battle of Navarino in 1827; and\\par\nWhereas, Nonetheless, the war continued until February 3, 1830, when European powers meeting in London settled the fighting and pronounced Greece as an independent monarchical state under their protection; and\\par\nWhereas, Later, with the Treaty of Constantinople in July 1832, Prince Otto of Bavaria became the first king of the new Greek state, and Greek independence was officially recognized by the Turkish sultan; and\\par\nWhereas, On March 25 annually, the Greek nation celebrates its independence, while the Greek Orthodox Church also celebrates the day of the Annunciation, when the archangel Gabriel visited Mary to tell her that she would become the mother of Jesus; and\\par\nWhereas, Many Greek people all over the world celebrate this double secular and religious national holiday, with the eating of \\i bakaliaros skordalia\\i0 , which is fried cod with garlic sauce, and with parades in Athens of military and marching bands and of children in traditional costume carrying Greek flags; and\\par\nWhereas, On March 25, Greek people greet each other by saying \\i chronia polla\\i0 , which means \\ldblquote live many years\\rdblquote : and\\par\nWhereas, In honor of Greek Independence Day, President Joseph R. Biden, Jr., stated in a 2024 proclamation that \\ldblquote [t]hroughout our shared history, the people of Greece and the United States have been bound by this common belief-the power to shape our destiny should rest in the hands of \\lquote we the people\\rquote\\fs16  \\fs24\\rdblquote ; and\\par\nWhereas, President Biden continued that \\ldblquote [t]oday, the partnership, alliance, and friendship shared by Greece and the United States is stronger than ever before-due in large part to the culture, courage, and character of the Greek American community\\rdblquote  and that \\ldblquote Greek Americans have pushed our country forward, fanning the flame of liberty that first sparked in Athens thousands of years ago\\rdblquote ; and\\par\nWhereas, President Biden called on the American people to \\ldblquote celebrate the unbreakable bonds of friendship\\rdblquote  between Greece and the United States (U.S.) and to \\ldblquote recommit to preserving, defending, and protecting democracy-together\\rdblquote ; and\\par\nWhereas, A small number of Greek merchants immigrated to New York City (NYC) in the early to mid-19th century; and\\par\nWhereas, Many more Greek farmers and craftspeople came to NYC between 1880 and 1920 during the years of greater U.S. immigration numbers, having left rural villages due to a worsening agricultural economy and government instability; and\\par\n\\cf1 Whereas, Greek immigrants at the turn of the 20th century found their way to Queens, where the farms that were still present then and cities that grew up later there reminded them of Europe, with Astoria becoming home to a substantial number of Greek arrivals; and\\par\n\\cf0 Whereas, The Greek Orthodox Archdiocese of North and South America was established in NYC in 1921 and became a significant force in Greek family life and in the education of their children, with 450 Greek language schools soon educating almost 25,000 children; and\\par\n\\cf1 Whereas, Later Greek immigrants, who had settled in Manhattan, started moving to Astoria in significant numbers in the 1960s, where they preferred the small houses that made up the community to the high-rises of Manhattan and where many Greek dialects can still be heard; and\\par\n\\cf0 Whereas, As a result of the \\cf1 Immigration and Nationality Act of 1965, many more Greek immigrants arrived in NYC, including professionals and skilled workers, and increased NYC\\rquote s Greek population substantially by 1970; and\\par\nWhereas, Over recent decades, New Yorkers of Greek heritage have spread to many other communities outside Astoria, particularly in Queens and Brooklyn, but also to the surrounding suburbs; and\\par\nWhereas, NYC is the second largest Greek diaspora, after only Melbourne, Australia, and is home to about 70,000 individuals who identify as Greek, according to the 2020 U.S. Census; and\\par\n\\cf0 Whereas, Greek immigrants and Greek Americans have contributed so much to the landscape of NYC, including their churches, schools, clubs, language, traditional dress, the arts, and well-known restaurants and bakeries; now, therefore, be it\\par\nResolved, That the Council of the City of New York declares March 25 as Greek Cultural Appreciation and Independence Day annually to honor both the perseverance of the Greek people in their own fight for freedom and their integral place in the culture and history of the City of New York.\\par\n\\pard\\ltrpar\\qj\\par\n\\par\n\\fs18 LS #\\f1\\fs20 18201 and #19138\\f0\\fs24\\par\n\\fs18 3/3/2025\\par\nRHP\\par\n\\fs24\\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qj\\par\n}\n",
+  "LastModified": "2025-03-26T17:10:21.947Z"
 }
