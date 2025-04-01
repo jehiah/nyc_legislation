@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/4/21481_A_Committee_on_Rules%2C_Privileges_and_Elections_25-04-01_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/4/21481_M_Committee_on_Rules%2C_Privileges_and_Elections_25-04-01_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_250401-101903.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21481&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,43 +20,193 @@
       "GUID": "7D5EC520-EF43-4598-9141-AC2E4AACD0C6",
       "Title": "Resolution approving the appointment by the Council of Lauren Stossel as a member of the New York City Board of Corrections.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 75579,
       "MatterFile": "Res 0820-2025",
       "MatterName": "Lauren Stossel, New York City Board of Corrections",
       "MatterType": "Resolution",
-      "LastModified": "2025-04-01T14:06:04.757Z"
+      "LastModified": "2025-04-01T21:54:08.703Z"
     },
     {
       "ID": 418179,
       "GUID": "8180D015-B73E-408D-B628-F38456256AD7",
       "Title": "Resolution designating Patricia Marthone, a resident of Brooklyn, for appointment by the Mayor as a director of the New York City Health and Hospitals Corporation.",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 75580,
       "MatterFile": "Res 0821-2025",
       "MatterName": "Patricia Marthone, New York City Health and Hospitals Corporation",
       "MatterType": "Resolution",
-      "LastModified": "2025-03-17T16:38:51.457Z"
+      "LastModified": "2025-04-01T21:54:11.34Z"
     },
     {
       "ID": 418180,
       "GUID": "113D07D9-980D-4D0A-AF71-8BBD64FE5E4C",
       "Title": "Communication from the Public Advocate - Submitting the name of Leah S. Goodridge as a member of the New York City Planning Commission pursuant to §§ 31 and 192(a) of the New York City Charter. ",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 6,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Communication was Hearing Held by Committee",
       "MatterID": 75581,
       "MatterFile": "M 0117-2025",
       "MatterName": "Leah Goodridge, City Planning Commission",
       "MatterType": "Communication",
       "MatterStatus": "Committee",
-      "LastModified": "2025-03-27T20:59:22.74Z"
+      "LastModified": "2025-04-01T21:54:14.693Z"
+    },
+    {
+      "ID": 418877,
+      "GUID": "53A58A40-5EF1-463D-BAC6-2C0A408ED92B",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7741,
+          "Slug": "keith-powers",
+          "FullName": "Keith Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7739,
+          "Slug": "adrienne-e-adams",
+          "FullName": "Adrienne E. Adams",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 20
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 30
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 90
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 22,
+          "Value": "Maternity",
+          "Sort": 110
+        }
+      ],
+      "LastModified": "2025-04-01T21:54:04.64Z"
+    },
+    {
+      "ID": 418878,
+      "GUID": "BB41BD67-ACC1-4ABC-95EA-623DECE27462",
+      "Title": "Resolution approving the appointment by the Council of Lauren Stossel as a member of the New York City Board of Corrections.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 75579,
+      "MatterFile": "Res 0820-2025",
+      "MatterName": "Lauren Stossel, New York City Board of Corrections",
+      "MatterType": "Resolution",
+      "LastModified": "2025-04-01T21:54:20.77Z"
+    },
+    {
+      "ID": 418879,
+      "GUID": "20E7C7F5-5BFB-464B-9036-11BB5B69187B",
+      "Title": "Resolution designating Patricia Marthone, a resident of Brooklyn, for appointment by the Mayor as a director of the New York City Health and Hospitals Corporation.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 75580,
+      "MatterFile": "Res 0821-2025",
+      "MatterName": "Patricia Marthone, New York City Health and Hospitals Corporation",
+      "MatterType": "Resolution",
+      "LastModified": "2025-04-01T21:54:24.163Z"
+    },
+    {
+      "ID": 418880,
+      "GUID": "2D50055E-8784-446D-9063-2AAD76D12E33",
+      "Title": "Communication from the Public Advocate - Submitting the name of Leah S. Goodridge as a member of the New York City Planning Commission pursuant to §§ 31 and 192(a) of the New York City Charter. ",
+      "AgendaSequence": 0,
+      "MinutesSequence": 7,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Communication was Laid Over by Committee",
+      "MatterID": 75581,
+      "MatterFile": "M 0117-2025",
+      "MatterName": "Leah Goodridge, City Planning Commission",
+      "MatterType": "Communication",
+      "MatterStatus": "Committee",
+      "LastModified": "2025-04-01T21:54:30.747Z"
     }
   ],
   "AgendaLastPublished": "2025-04-01T14:06:09.647Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-04-01T15:53:14.73Z"
+  "MinutesLastPublished": "2025-04-01T21:54:37.427Z",
+  "LastModified": "2025-04-01T21:54:37.49Z"
 }
