@@ -7,6 +7,7 @@ import (
 	"fmt"
 	"log"
 	"os"
+	"strings"
 )
 
 type PersonMetadata struct {
@@ -45,31 +46,94 @@ func main() {
 	var out []PersonMetadata
 	for _, p := range people {
 		seen := make(map[string]bool)
-		social := make([]SocialAccount)
+		social := p.SocialAccounts
 		for _, s := range p.SocialAccounts {
 			if seen[s.Link] {
 				continue
 			}
+			if seen[strings.ToLower(s.Link)] {
+				continue
+			}
 			seen[s.Link] = true
+			seen[strings.ToLower(s.Link)] = true
 			var err error
 			switch s.Platform {
-			case "twitter":
+			case "twitter", "x":
 				skipCount++
-				social = append(social, s)
+				// social = append(social, s)
 				continue
 			case "threads":
 				err = checkThreads(s.Link)
+			case "bluesky":
+				err = checkBluesky(s.Link)
 			default:
 				err = checkGeneric(s.Link)
 			}
 			if err != nil {
-				log.Printf("⛔️ %d %s error getting %q %s", p.ID, p.FullName, s.Link, err)
+				log.Printf("⛔️❌ %s %d %s error getting %q %s", s.Platform, p.ID, p.FullName, s.Link, err)
 			} else {
 				log.Printf("✅ %d %s %s", p.ID, p.FullName, s.Link)
-				social = append(social, s)
+				// social = append(social, s)
 				okCount++
 			}
 		}
+		// guess at threads accounts
+		for _, s := range p.SocialAccounts {
+			switch s.Platform {
+			case "instagram":
+				threadsLink := strings.TrimSuffix(strings.Replace(s.Link, "www.instagram.com/", "www.threads.net/@", 1), "/")
+				if seen[threadsLink] {
+					continue
+				}
+				if seen[strings.ToLower(threadsLink)] {
+					continue
+				}
+				seen[threadsLink] = true
+				err = checkThreads(threadsLink)
+				if err != nil {
+					log.Printf("🔎 %d %s error getting %q %s", p.ID, p.FullName, threadsLink, err)
+				} else {
+					log.Printf("✅@🎉 %d %s %s", p.ID, p.FullName, threadsLink)
+					social = append(social, SocialAccount{
+						Username: s.Username,
+						Link:     threadsLink,
+						Official: s.Official,
+						Personal: s.Personal,
+						Platform: "threads",
+					})
+					okCount++
+				}
+			}
+		}
+		// guess at bsky accounts
+		for _, s := range p.SocialAccounts {
+			switch s.Platform {
+			case "bluesky":
+				continue
+			default:
+				u := strings.Replace(strings.TrimLeft(strings.ToLower(s.Username), "@"), ".", "", -1)
+				bskyLink := fmt.Sprintf("https://bsky.app/profile/%s.bsky.social", u)
+				if seen[bskyLink] {
+					continue
+				}
+				seen[bskyLink] = true
+				err = checkBluesky(bskyLink)
+				if err != nil {
+					log.Printf("🔎 %d %s failed getting %q %s", p.ID, p.FullName, bskyLink, err)
+				} else {
+					log.Printf("✅🦋🎉 %d %s %s", p.ID, p.FullName, bskyLink)
+					social = append(social, SocialAccount{
+						Username: "@" + u,
+						Link:     bskyLink,
+						Official: s.Official,
+						Personal: s.Personal,
+						Platform: "bluesky",
+					})
+					okCount++
+				}
+			}
+		}
+
 		p.SocialAccounts = social
 		out = append(out, p)
 	}
@@ -78,7 +142,7 @@ func main() {
 	f.Truncate(0)
 	f.Seek(0, 0)
 	f.Write(body)
-	fmt.Printf("%s\n", body)
+	// fmt.Printf("%s\n", body)
 
 	log.Printf("checked %d social profile links", okCount)
 	log.Printf("skipped %d social profile links", skipCount)

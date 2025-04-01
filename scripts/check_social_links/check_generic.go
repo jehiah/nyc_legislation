@@ -15,7 +15,7 @@ func checkGeneric(u string) error {
 		code = resp.StatusCode
 	}
 	if code > 200 {
-		return fmt.Errorf("unexpeccted status %d", code)
+		return fmt.Errorf("unexpected status %d", code)
 	}
 	return nil
 

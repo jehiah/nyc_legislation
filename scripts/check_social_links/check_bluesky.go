@@ -2,11 +2,13 @@ package main
 
 import (
 	"fmt"
+	"io"
 	"net/http"
+	"strings"
 )
 
-func checkThreads(u string) error {
-	req, err := http.NewRequest("HEAD", u, nil)
+func checkBluesky(u string) error {
+	req, err := http.NewRequest("GET", u, nil)
 	if err != nil {
 		return err
 	}
@@ -24,5 +26,13 @@ func checkThreads(u string) error {
 	if resp.Header.Get("link") != "" {
 		return nil
 	}
-	return fmt.Errorf("link header not found")
+	body, err := io.ReadAll(resp.Body)
+	if err != nil {
+		return err
+	}
+	defer resp.Body.Close()
+	if strings.Contains(string(body), `property="og:url"`) {
+		return nil
+	}
+	return fmt.Errorf("og:url profile link not found")
 }
