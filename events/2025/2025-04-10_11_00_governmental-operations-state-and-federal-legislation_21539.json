@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/4/21539_A_Committee_on_Governmental_Operations%2C_State___Federal_Legislation_25-04-10_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/4/21539_M_Committee_on_Governmental_Operations%2C_State___Federal_Legislation_25-04-10_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_250410-114822.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21539&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,18 +21,155 @@
       "GUID": "E9702434-166D-4315-AF9B-9236C6A9FCF0",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to a long-term citywide bathroom strategy and to make other technical changes",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 694-A",
       "MinutesNote": "Proposed Int. No. 694-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 73661,
       "MatterFile": "Int 0694-2024",
       "MatterName": "Long-term citywide bathroom strategy and to make other technical changes.",
       "MatterType": "Introduction",
-      "LastModified": "2025-04-07T15:06:54.13Z"
+      "LastModified": "2025-04-10T15:56:17.727Z"
+    },
+    {
+      "ID": 419268,
+      "GUID": "10A0A349-6D08-4CE8-9658-EE05F15D8600",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 60
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2025-04-10T16:39:29.65Z"
+    },
+    {
+      "ID": 419269,
+      "GUID": "8F163A35-C557-41A0-95CC-20337C57D305",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to a long-term citywide bathroom strategy and to make other technical changes",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 73661,
+      "MatterFile": "Int 0694-2024",
+      "MatterName": "Long-term citywide bathroom strategy and to make other technical changes.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-04-10T15:56:22.007Z"
+    },
+    {
+      "ID": 419270,
+      "GUID": "CAA8D339-6EA0-4CE4-9EA1-2524F77DD30A",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to a long-term citywide bathroom strategy and to make other technical changes",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 73661,
+      "MatterFile": "Int 0694-2024",
+      "MatterName": "Long-term citywide bathroom strategy and to make other technical changes.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-04-10T15:56:27.08Z"
+    },
+    {
+      "ID": 419271,
+      "GUID": "FF0A5591-2C5F-495F-8A13-FE8297BC8C6B",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to a long-term citywide bathroom strategy and to make other technical changes",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "This Introduction was Approved by Committee",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 73661,
+      "MatterFile": "Int 0694-2024",
+      "MatterName": "Long-term citywide bathroom strategy and to make other technical changes.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-04-10T16:22:03.063Z"
     }
   ],
   "AgendaLastPublished": "2025-04-07T15:26:37.957Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-04-07T15:26:38.113Z"
+  "MinutesLastPublished": "2025-04-10T16:39:34.513Z",
+  "LastModified": "2025-04-10T16:39:34.693Z"
 }

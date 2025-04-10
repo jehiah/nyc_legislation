@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/4/21521_A_Committee_on_Finance_25-04-10_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/4/21521_M_Committee_on_Finance_25-04-10_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_250410-102125.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21521&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
@@ -20,47 +21,239 @@
       "GUID": "FBBDECB1-80D1-4860-B289-5513C27660F4",
       "Title": "15 Stratford Road, Block 5072, Lot 58, Brooklyn, Community District No. 14, Council Districts No. 40.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Preconsidered",
+      "ActionID": 15,
+      "ActionName": "Hearing on P-C Item by Comm",
+      "ActionText": "This Land Use Application was Hearing on P-C Item by Comm",
       "MatterID": 75626,
       "MatterFile": "LU 0271-2025",
       "MatterName": "15 Stratford Road, Block 5072, Lot 58, Brooklyn, Community District No. 14, Council Districts No. 40.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Introduced",
-      "LastModified": "2025-04-09T18:37:24.747Z"
+      "MatterStatus": "Committee",
+      "LastModified": "2025-04-10T14:43:10Z"
     },
     {
       "ID": 418819,
       "GUID": "EE1BD27C-73EF-4B8B-B2AC-ADA71B0953C3",
       "Title": "AND SUCH OTHER BUSINESS AS MAY BE NECESSARY",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 0,
       "Version": "*",
       "MatterID": 72291,
       "MatterFile": "T2024-0001",
       "MatterName": "AND SUCH OTHER BUSINESS AS MAY BE NECESSARY",
       "MatterType": "N/A",
       "MatterStatus": "Committee",
-      "LastModified": "2025-04-04T18:51:55.78Z"
+      "LastModified": "2025-04-10T14:43:09.97Z"
     },
     {
       "ID": 418975,
       "GUID": "2C6E3ED7-C947-4364-921B-26C5DDA17B41",
       "Title": "1383 Plimpton Avenue HDFC, Block 2522, Lot 109, Bronx, Community District No. 4, Council Districts No. 16.",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "*",
       "AgendaNote": "Preconsidered",
+      "ActionID": 15,
+      "ActionName": "Hearing on P-C Item by Comm",
+      "ActionText": "This Land Use Application was Hearing on P-C Item by Comm",
       "MatterID": 75673,
       "MatterFile": "LU 0272-2025",
       "MatterName": "1383 Plimpton Avenue HDFC, Block 2522, Lot 109, Bronx, Community District No. 4, Council Districts No. 16.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Introduced",
-      "LastModified": "2025-04-09T18:37:27.637Z"
+      "MatterStatus": "Committee",
+      "LastModified": "2025-04-10T14:43:10.003Z"
+    },
+    {
+      "ID": 419220,
+      "GUID": "BFE90517-9374-4B6B-8B93-EEF6A65B04F7",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 70
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 110
+        },
+        {
+          "ID": 7741,
+          "Slug": "keith-powers",
+          "FullName": "Keith Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 130
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 150
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 170
+        }
+      ],
+      "LastModified": "2025-04-10T14:43:10Z"
+    },
+    {
+      "ID": 419221,
+      "GUID": "36377831-A9C4-4F3D-A957-43BC9C440950",
+      "Title": "15 Stratford Road, Block 5072, Lot 58, Brooklyn, Community District No. 14, Council Districts No. 40.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5040,
+      "ActionName": "P-C Item Approved by Committee with Companion Resolution",
+      "ActionText": "This Land Use Application was P-C Item Approved by Committee with Companion Resolution",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 75626,
+      "MatterFile": "LU 0271-2025",
+      "MatterName": "15 Stratford Road, Block 5072, Lot 58, Brooklyn, Community District No. 14, Council Districts No. 40.",
+      "MatterType": "Land Use Application",
+      "MatterStatus": "Committee",
+      "LastModified": "2025-04-10T14:43:10Z"
+    },
+    {
+      "ID": 419222,
+      "GUID": "681CAB2B-FA6D-4165-8DD9-FEBCF21128AC",
+      "Title": "1383 Plimpton Avenue HDFC, Block 2522, Lot 109, Bronx, Community District No. 4, Council Districts No. 16.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 5040,
+      "ActionName": "P-C Item Approved by Committee with Companion Resolution",
+      "ActionText": "This Land Use Application was P-C Item Approved by Committee with Companion Resolution",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 75673,
+      "MatterFile": "LU 0272-2025",
+      "MatterName": "1383 Plimpton Avenue HDFC, Block 2522, Lot 109, Bronx, Community District No. 4, Council Districts No. 16.",
+      "MatterType": "Land Use Application",
+      "MatterStatus": "Committee",
+      "LastModified": "2025-04-10T15:23:28.97Z"
     }
   ],
   "AgendaLastPublished": "2025-04-07T14:25:10.553Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-04-10T14:36:32.47Z"
+  "MinutesLastPublished": "2025-04-10T16:31:03.357Z",
+  "LastModified": "2025-04-10T16:31:03.45Z"
 }

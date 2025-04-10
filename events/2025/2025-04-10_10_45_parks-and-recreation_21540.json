@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/4/21540_A_Committee_on_Parks_and_Recreation_25-04-10_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/4/21540_M_Committee_on_Parks_and_Recreation_25-04-10_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-250-16_250410-110242.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21540&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,18 +21,147 @@
       "GUID": "D3CABF4B-F7FF-4540-B036-2152C18465D7",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to prioritization of maintenance of trees adjacent to buildings and structures",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 800-A",
       "MinutesNote": "Proposed Int. No. 800-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 73939,
       "MatterFile": "Int 0800-2024",
       "MatterName": "Prioritization of maintenance of trees adjacent to buildings and structures.",
       "MatterType": "Introduction",
-      "LastModified": "2025-04-08T18:14:13.553Z"
+      "LastModified": "2025-04-10T15:21:51.393Z"
+    },
+    {
+      "ID": 419249,
+      "GUID": "C957A007-2410-49B1-A51F-06EE20DD4B3E",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 70
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        }
+      ],
+      "LastModified": "2025-04-10T15:21:46.867Z"
+    },
+    {
+      "ID": 419250,
+      "GUID": "5766CE1E-ABBF-450B-AB5C-B388407E69D6",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to prioritization of maintenance of trees adjacent to buildings and structures",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 73939,
+      "MatterFile": "Int 0800-2024",
+      "MatterName": "Prioritization of maintenance of trees adjacent to buildings and structures.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-04-10T15:21:56.987Z"
+    },
+    {
+      "ID": 419251,
+      "GUID": "C15A9456-6D08-4069-BB89-93E5FC6DA347",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to prioritization of maintenance of trees adjacent to buildings and structures",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 73939,
+      "MatterFile": "Int 0800-2024",
+      "MatterName": "Prioritization of maintenance of trees adjacent to buildings and structures.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-04-10T16:15:04.273Z"
+    },
+    {
+      "ID": 419252,
+      "GUID": "277D33A0-6A0F-4432-935D-BB982AA0B908",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to prioritization of maintenance of trees adjacent to buildings and structures",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 73939,
+      "MatterFile": "Int 0800-2024",
+      "MatterName": "Prioritization of maintenance of trees adjacent to buildings and structures.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-04-10T15:22:11.24Z"
     }
   ],
   "AgendaLastPublished": "2025-04-08T18:14:20.317Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-04-08T18:14:20.42Z"
+  "MinutesLastPublished": "2025-04-10T16:15:09.497Z",
+  "LastModified": "2025-04-10T16:15:09.607Z"
 }
