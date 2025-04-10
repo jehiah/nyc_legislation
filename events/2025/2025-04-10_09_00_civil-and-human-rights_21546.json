@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/4/21546_A_Committee_on_Civil_and_Human_Rights_25-04-10_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/4/21546_M_Committee_on_Civil_and_Human_Rights_25-04-10_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_250410-092759.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21546&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
@@ -20,16 +21,89 @@
       "GUID": "0653449A-B9E9-41FB-B440-6F88F137573E",
       "Title": "Resolution condemning President Trump’s revocation of diversity, equity, and inclusion programs and policies at the federal level, and expressing support for such programs and policies at the city and state level.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 75428,
       "MatterFile": "Res 0729-2025",
       "MatterName": "Condemning President Trump’s revocation of diversity, equity, and inclusion programs and policies at the federal level, and expressing support for such programs and policies at the city and state level.",
       "MatterType": "Resolution",
-      "LastModified": "2025-04-09T16:13:48.223Z"
+      "LastModified": "2025-04-10T14:15:33.353Z"
+    },
+    {
+      "ID": 419212,
+      "GUID": "4CCF0687-33F2-47BB-B7BD-B4B34EB9E28C",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 50
+        }
+      ],
+      "LastModified": "2025-04-10T14:15:28.61Z"
+    },
+    {
+      "ID": 419213,
+      "GUID": "732704FF-B49E-48A9-9599-F0630B7B8573",
+      "Title": "Resolution condemning President Trump’s revocation of diversity, equity, and inclusion programs and policies at the federal level, and expressing support for such programs and policies at the city and state level.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Resolution be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 75428,
+      "MatterFile": "Res 0729-2025",
+      "MatterName": "Condemning President Trump’s revocation of diversity, equity, and inclusion programs and policies at the federal level, and expressing support for such programs and policies at the city and state level.",
+      "MatterType": "Resolution",
+      "LastModified": "2025-04-10T14:16:52.59Z"
     }
   ],
   "AgendaLastPublished": "2025-04-09T16:13:53.23Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-04-10T13:31:34.813Z"
+  "MinutesLastPublished": "2025-04-10T14:16:58.433Z",
+  "LastModified": "2025-04-10T14:16:58.527Z"
 }
