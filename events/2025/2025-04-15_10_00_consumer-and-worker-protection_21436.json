@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/4/21436_A_Committee_on_Consumer_and_Worker_Protection_25-04-15_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/4/21436_M_Committee_on_Consumer_and_Worker_Protection_25-04-15_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Immigration",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_250415-100841.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21436&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,52 +21,188 @@
       "GUID": "1E49D496-CD93-434A-8E43-7CB56E34F826",
       "Title": "Oversight – Combating Immigration Services Fraud.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 75470,
       "MatterFile": "T2025-3175",
       "MatterName": "Oversight – Combating Immigration Services Fraud.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-02-20T15:47:09.923Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-04-15T17:07:56.62Z"
     },
     {
       "ID": 417227,
       "GUID": "0931E64F-C90D-4818-BE65-A9AED9804E39",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to outreach about fraudulent schemes committed by providers of immigration assistance services",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 73094,
       "MatterFile": "Int 0205-2024",
       "MatterName": "Outreach about fraudulent schemes committed by providers of immigration assistance services.",
       "MatterType": "Introduction",
-      "LastModified": "2025-02-18T19:00:22.673Z"
+      "LastModified": "2025-04-15T17:08:03.31Z"
     },
     {
       "ID": 417228,
       "GUID": "ACA69827-A8CC-419D-952D-D82AD8A048AF",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to increasing penalties for violations of requirements that apply to immigration assistance services",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 74420,
       "MatterFile": "Int 0980-2024",
       "MatterName": "Increasing penalties for violations of requirements that apply to immigration assistance services.",
       "MatterType": "Introduction",
-      "LastModified": "2025-02-20T15:46:40.883Z"
+      "LastModified": "2025-04-15T17:19:50.16Z"
     },
     {
       "ID": 417292,
       "GUID": "E791D67A-51F5-4B36-8E1C-0D869D3254F5",
       "Title": "Jointly with the Committee on Immigration",
       "AgendaSequence": 4,
-      "MinutesSequence": 4,
+      "MinutesSequence": 9,
       "Version": "",
-      "LastModified": "2025-02-20T15:46:45.913Z"
+      "LastModified": "2025-04-15T17:07:43.907Z"
+    },
+    {
+      "ID": 419567,
+      "GUID": "01BF270B-DA82-4D2F-BBB9-126728AEC289",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2025-04-15T17:09:56.217Z"
+    },
+    {
+      "ID": 419568,
+      "GUID": "875AF711-3758-4D3C-8EA7-A895C6B5CE77",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Avilés, Hanif, De La Rosa, Joseph and Bottcher",
+      "LastModified": "2025-04-15T17:18:49.5Z"
+    },
+    {
+      "ID": 419569,
+      "GUID": "DB652162-E3CE-46C4-A611-CE13C9316C80",
+      "Title": "Oversight – Combating Immigration Services Fraud.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 75470,
+      "MatterFile": "T2025-3175",
+      "MatterName": "Oversight – Combating Immigration Services Fraud.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-04-15T17:07:59.793Z"
+    },
+    {
+      "ID": 419570,
+      "GUID": "D287EA69-C44B-4C65-BBEE-4FE4A09B8188",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to outreach about fraudulent schemes committed by providers of immigration assistance services",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 73094,
+      "MatterFile": "Int 0205-2024",
+      "MatterName": "Outreach about fraudulent schemes committed by providers of immigration assistance services.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-04-15T17:19:12.267Z"
+    },
+    {
+      "ID": 419571,
+      "GUID": "F167CFB1-4EB0-4AEE-A940-58EB0A11BD1E",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to increasing penalties for violations of requirements that apply to immigration assistance services",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 74420,
+      "MatterFile": "Int 0980-2024",
+      "MatterName": "Increasing penalties for violations of requirements that apply to immigration assistance services.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-04-15T17:19:55.447Z"
     }
   ],
   "AgendaLastPublished": "2025-02-27T16:00:14.487Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-02-27T16:00:14.81Z"
+  "MinutesLastPublished": "2025-04-15T17:18:55.533Z",
+  "LastModified": "2025-04-15T17:18:55.637Z"
 }
