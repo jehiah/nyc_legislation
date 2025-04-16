@@ -8,11 +8,13 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/4/21529_A_Committee_on_Finance_25-04-16_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/4/21529_M_Committee_on_Finance_25-04-16_Meeting_Minutes.pdf",
   "Comment": "Jointly with Committee on Governmental Operations, State & Federal Legislation",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-250-16_250416-101124.mp4",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-250-16_250416-101124.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21529&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -20,40 +22,227 @@
       "GUID": "C76E7F1E-5C13-4FCD-A9C3-6DEC99FBC0DE",
       "Title": "Jointly with Committee on Governmental Operations, State & Federal Legislation",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 6,
       "Version": "",
-      "LastModified": "2025-04-08T17:45:23.453Z"
+      "LastModified": "2025-04-16T17:41:29.28Z"
     },
     {
       "ID": 418864,
       "GUID": "9E95E31E-4ADE-4D92-BB71-E84476A629AA",
       "Title": "Oversight - Preparing NYC for changes in federal funding.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 75640,
       "MatterFile": "T2025-3345",
       "MatterName": "Oversight - Preparing NYC for changes in federal funding.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-04-15T14:23:08.543Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-04-16T17:41:34.907Z"
     },
     {
       "ID": 419031,
       "GUID": "C79C0F0B-F0D4-4CE9-BFE4-A5A35820EDBB",
       "Title": "A Local Law to amend the New York city charter, in relation to communications in adjudicative proceedings by certain public servants",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "*",
       "AgendaNote": "Preconsidered",
+      "ActionID": 15,
+      "ActionName": "Hearing on P-C Item by Comm",
+      "ActionText": "This Introduction was Hearing on P-C Item by Comm",
       "MatterID": 75679,
       "MatterFile": "T2025-3384",
       "MatterName": "Communications in adjudicative proceedings by certain public servants.",
       "MatterType": "Introduction",
-      "LastModified": "2025-04-08T18:01:02.81Z"
+      "LastModified": "2025-04-16T17:54:17.207Z"
+    },
+    {
+      "ID": 419600,
+      "GUID": "EAD9652D-D7F1-4F5F-BB9C-D0A3A153C1F9",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 70
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 43,
+          "Value": "Conflict",
+          "Sort": 80
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 110
+        },
+        {
+          "ID": 7741,
+          "Slug": "keith-powers",
+          "FullName": "Keith Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 130
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 150
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 170
+        }
+      ],
+      "LastModified": "2025-04-16T17:50:13.823Z"
+    },
+    {
+      "ID": 419601,
+      "GUID": "3C135AA4-EBD4-4A55-8DB5-E5BB08F77B6D",
+      "Title": "Oversight - Preparing NYC for changes in federal funding.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 75640,
+      "MatterFile": "T2025-3345",
+      "MatterName": "Oversight - Preparing NYC for changes in federal funding.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-04-16T17:41:38.21Z"
+    },
+    {
+      "ID": 419602,
+      "GUID": "FBE5BF53-7E89-4558-91B1-314FCD26B35B",
+      "Title": "A Local Law to amend the New York city charter, in relation to communications in adjudicative proceedings by certain public servants",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 5018,
+      "ActionName": "P-C Item Laid Over by Comm",
+      "ActionText": "This Introduction was P-C Item Laid Over by Comm",
+      "MatterID": 75679,
+      "MatterFile": "T2025-3384",
+      "MatterName": "Communications in adjudicative proceedings by certain public servants.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-04-16T17:54:21.947Z"
     }
   ],
   "AgendaLastPublished": "2025-04-08T18:01:07.54Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-04-16T17:33:56.137Z"
+  "MinutesLastPublished": "2025-04-16T17:50:18.307Z",
+  "LastModified": "2025-04-16T17:50:18.353Z"
 }
