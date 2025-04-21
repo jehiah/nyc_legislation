@@ -8,10 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/4/21429_A_Committee_on_Transportation_and_Infrastructure_25-04-21_Committee_Agenda.pdf",
-  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_250421-100805.mp4",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/4/21429_M_Committee_on_Transportation_and_Infrastructure_25-04-21_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_250421-124156.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21429&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,57 +20,228 @@
       "GUID": "3FB03DF1-EF6B-47F8-BF95-DBF8286DF0FE",
       "Title": "Oversight - Parking Infrastructure and DOT.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 75441,
       "MatterFile": "T2025-3146",
       "MatterName": "Oversight - Parking Infrastructure and DOT.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-03-28T19:14:09.68Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-04-21T20:49:39.577Z"
     },
     {
       "ID": 416857,
       "GUID": "33E90416-E2DE-4C13-BCF0-C6B8E78E3B95",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the creation of curbside overnight truck parking sections in Industrial Business Zones",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "A",
       "AgendaNote": "Proposed Int. No. 99-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 72008,
       "MatterFile": "Int 0099-2024",
       "MatterName": "Creation of curbside overnight truck parking sections in Industrial Business Zones.",
       "MatterType": "Introduction",
-      "LastModified": "2025-02-11T14:13:09.897Z"
+      "LastModified": "2025-04-21T20:49:46.22Z"
     },
     {
       "ID": 416858,
       "GUID": "5154312E-2E72-47A8-8EDE-7B9F87BD58C6",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the automatic waiver of certain additional penalties for a parking violation if a vehicle owner responds to a notice of violation between forty-five and ninety days of its issuance",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 73067,
       "MatterFile": "Int 0340-2024",
       "MatterName": "Automatic waiver of certain additional penalties for a parking violation if a vehicle owner responds to a notice of violation between forty-five and ninety days of its issuance.",
       "MatterType": "Introduction",
-      "LastModified": "2025-02-18T14:39:11.063Z"
+      "LastModified": "2025-04-21T20:49:53.29Z"
     },
     {
       "ID": 417208,
       "GUID": "94331768-6E15-4737-9A03-4DB5A299EAF9",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to prohibiting standing or parking a vehicle within 20 feet of a crosswalk at an intersection",
       "AgendaSequence": 4,
-      "MinutesSequence": 4,
+      "MinutesSequence": 9,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 72146,
       "MatterFile": "Int 1138-2024",
       "MatterName": "Prohibiting standing or parking a vehicle within 20 feet of a crosswalk at an intersection.",
       "MatterType": "Introduction",
-      "LastModified": "2025-02-18T14:39:27.18Z"
+      "LastModified": "2025-04-21T20:50:00.323Z"
+    },
+    {
+      "ID": 419733,
+      "GUID": "D4D76969-479E-4475-95BF-A272A83A1E95",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7740,
+          "Slug": "carlina-rivera",
+          "FullName": "Carlina Rivera",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2025-04-21T20:49:10.88Z"
+    },
+    {
+      "ID": 419734,
+      "GUID": "E0173192-91A1-4142-8DBA-62AAE44F340D",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Restler, Williams, Joseph, Cabán, Krishnan, Brewer, and Public Advocate Williams\r\n",
+      "LastModified": "2025-04-21T20:49:35.65Z"
+    },
+    {
+      "ID": 419735,
+      "GUID": "5EDA7363-2A90-4738-8057-C217C90A45EB",
+      "Title": "Oversight - Parking Infrastructure and DOT.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 75441,
+      "MatterFile": "T2025-3146",
+      "MatterName": "Oversight - Parking Infrastructure and DOT.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-04-21T20:49:42.737Z"
+    },
+    {
+      "ID": 419736,
+      "GUID": "907EBE6C-8681-4B75-AD98-FABCEB37E99A",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the creation of curbside overnight truck parking sections in Industrial Business Zones",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "A",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 72008,
+      "MatterFile": "Int 0099-2024",
+      "MatterName": "Creation of curbside overnight truck parking sections in Industrial Business Zones.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-04-21T20:49:50.203Z"
+    },
+    {
+      "ID": 419737,
+      "GUID": "ECAFED83-DE2A-46DD-B3B7-23AB2DAA174B",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the automatic waiver of certain additional penalties for a parking violation if a vehicle owner responds to a notice of violation between forty-five and ninety days of its issuance",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 73067,
+      "MatterFile": "Int 0340-2024",
+      "MatterName": "Automatic waiver of certain additional penalties for a parking violation if a vehicle owner responds to a notice of violation between forty-five and ninety days of its issuance.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-04-21T20:49:56.537Z"
+    },
+    {
+      "ID": 419738,
+      "GUID": "3A63A361-86C9-41F5-86B0-0F19887E54AE",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to prohibiting standing or parking a vehicle within 20 feet of a crosswalk at an intersection",
+      "AgendaSequence": 0,
+      "MinutesSequence": 10,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 72146,
+      "MatterFile": "Int 1138-2024",
+      "MatterName": "Prohibiting standing or parking a vehicle within 20 feet of a crosswalk at an intersection.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-04-21T20:50:06.96Z"
     }
   ],
   "AgendaLastPublished": "2025-04-21T16:31:14.59Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-04-21T16:41:57.85Z"
+  "MinutesLastPublished": "2025-04-21T20:50:15.643Z",
+  "LastModified": "2025-04-21T20:50:15.897Z"
 }
