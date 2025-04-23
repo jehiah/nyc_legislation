@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/4/21463_A_Committee_on_Sanitation_and_Solid_Waste_Management_25-04-23_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/4/21463_M_Committee_on_Sanitation_and_Solid_Waste_Management_25-04-23_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_250423-100311.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21463&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,43 +20,211 @@
       "GUID": "4C95C14A-38C1-4487-9C45-768246B2BCFF",
       "Title": "Oversight - Commercial Waste Zones. ",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 75515,
       "MatterFile": "T2025-3220",
       "MatterName": "Oversight - Commercial Waste Zones.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-03-28T19:37:11.55Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-04-23T17:09:33.513Z"
     },
     {
       "ID": 417667,
       "GUID": "F01AEF48-4256-4ED3-B687-7D9D04D3CCEC",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing a tracking system concerning the disposal of yellow and brown grease",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 73736,
       "MatterFile": "Int 0784-2024",
       "MatterName": "Establishing a tracking system concerning the disposal of yellow and brown grease",
       "MatterType": "Introduction",
-      "LastModified": "2025-04-10T21:12:16.507Z"
+      "LastModified": "2025-04-23T17:09:35.707Z"
     },
     {
       "ID": 419283,
       "GUID": "E7A03D7D-AB52-44FA-9A61-AE1270B753DE",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to expanding the categories of businesses that may be subject to requirements regarding the disposal of commercial organic waste",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 75147,
       "MatterFile": "Int 1228-2025",
       "MatterName": "Expanding the categories of businesses that may be subject to requirements regarding the disposal of commercial organic waste.",
       "MatterType": "Introduction",
-      "LastModified": "2025-04-10T21:12:28.99Z"
+      "LastModified": "2025-04-23T17:09:38.09Z"
+    },
+    {
+      "ID": 419816,
+      "GUID": "17A2404E-65E8-48B9-ADFF-DC697E62F0F3",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        }
+      ],
+      "LastModified": "2025-04-23T17:09:17.587Z"
+    },
+    {
+      "ID": 419817,
+      "GUID": "5A07F3FF-F946-4B60-A60D-9332DF6E6A64",
+      "Title": "Oversight - Commercial Waste Zones. ",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 75515,
+      "MatterFile": "T2025-3220",
+      "MatterName": "Oversight - Commercial Waste Zones.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-04-23T17:09:41.07Z"
+    },
+    {
+      "ID": 419818,
+      "GUID": "894E182E-5D15-41CD-B610-A72B8BC2BC02",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing a tracking system concerning the disposal of yellow and brown grease",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 73736,
+      "MatterFile": "Int 0784-2024",
+      "MatterName": "Establishing a tracking system concerning the disposal of yellow and brown grease",
+      "MatterType": "Introduction",
+      "LastModified": "2025-04-23T17:09:44.06Z"
+    },
+    {
+      "ID": 419819,
+      "GUID": "96AC92D7-5D1A-4AF3-910A-560331DBA29A",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to expanding the categories of businesses that may be subject to requirements regarding the disposal of commercial organic waste",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 75147,
+      "MatterFile": "Int 1228-2025",
+      "MatterName": "Expanding the categories of businesses that may be subject to requirements regarding the disposal of commercial organic waste.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-04-23T17:09:48.297Z"
+    },
+    {
+      "ID": 419820,
+      "GUID": "3B5B0C4B-B9F4-471C-BF4E-458CEB214C04",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Restler and Brewer",
+      "LastModified": "2025-04-23T17:09:30.233Z"
     }
   ],
   "AgendaLastPublished": "2025-04-10T21:12:35.193Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-04-10T21:12:35.32Z"
+  "MinutesLastPublished": "2025-04-23T17:09:52.667Z",
+  "LastModified": "2025-04-23T17:09:52.76Z"
 }
