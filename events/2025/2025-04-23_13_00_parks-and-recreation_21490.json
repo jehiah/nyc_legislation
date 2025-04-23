@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/4/21490_A_Committee_on_Parks_and_Recreation_25-04-23_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/4/21490_M_Committee_on_Parks_and_Recreation_25-04-23_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_250423-131018.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21490&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,56 +20,219 @@
       "GUID": "71EE8B5A-EB29-4BB6-B8FD-931CC76FB757",
       "Title": "Oversight - Improving Recreational Access to Athletic Fields and Playgrounds.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 75584,
       "MatterFile": "T2025-3289",
       "MatterName": "Oversight - Improving Recreational Access to Athletic Fields and Playgrounds.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-03-24T15:10:01.143Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-04-23T19:37:26.297Z"
     },
     {
       "ID": 418280,
       "GUID": "1DA2DC34-5E3C-4157-B926-ACC45D507D90",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to an annual plan to expand access to school playgrounds",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 73488,
       "MatterFile": "Int 0566-2024",
       "MatterName": "Annual plan to expand access to school playgrounds.",
       "MatterType": "Introduction",
-      "LastModified": "2025-03-28T19:20:38.32Z"
+      "LastModified": "2025-04-23T19:37:28.317Z"
     },
     {
       "ID": 418281,
       "GUID": "04C80762-C468-488E-B0F7-A727199CB97B",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to increasing the number of drinking fountains adjacent to public parks and greenstreets",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 73477,
       "MatterFile": "Int 0573-2024",
       "MatterName": "Increasing the number of drinking fountains adjacent to public parks and greenstreets.",
       "MatterType": "Introduction",
-      "LastModified": "2025-03-21T20:11:59.043Z"
+      "LastModified": "2025-04-23T19:37:30.857Z"
     },
     {
       "ID": 418282,
       "GUID": "02630F94-F076-4694-8C87-075A3E849EE0",
       "Title": "A Local Law in relation to a plan to identify and facilitate the use of indoor facilities for basketball games",
       "AgendaSequence": 4,
-      "MinutesSequence": 4,
+      "MinutesSequence": 9,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 73528,
       "MatterFile": "Int 0643-2024",
       "MatterName": "Plan to identify and facilitate the use of indoor facilities for basketball games.",
       "MatterType": "Introduction",
-      "LastModified": "2025-04-22T17:06:05.383Z"
+      "LastModified": "2025-04-23T19:37:33.213Z"
+    },
+    {
+      "ID": 419980,
+      "GUID": "A38BFEE3-3585-4CE9-8B8B-B2859829F2A8",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        }
+      ],
+      "LastModified": "2025-04-23T19:42:55.09Z"
+    },
+    {
+      "ID": 419981,
+      "GUID": "2B938E97-23F0-4EDA-A519-A1159A982131",
+      "Title": "Oversight - Improving Recreational Access to Athletic Fields and Playgrounds.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 75584,
+      "MatterFile": "T2025-3289",
+      "MatterName": "Oversight - Improving Recreational Access to Athletic Fields and Playgrounds.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-04-23T19:43:33.573Z"
+    },
+    {
+      "ID": 419982,
+      "GUID": "BCEF8BC2-A2A7-47E4-907C-143CCC323DBE",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to an annual plan to expand access to school playgrounds",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 73488,
+      "MatterFile": "Int 0566-2024",
+      "MatterName": "Annual plan to expand access to school playgrounds.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-04-23T19:43:37.767Z"
+    },
+    {
+      "ID": 419983,
+      "GUID": "08E4D893-A0C9-4858-92C7-E499D2626521",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to increasing the number of drinking fountains adjacent to public parks and greenstreets",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 73477,
+      "MatterFile": "Int 0573-2024",
+      "MatterName": "Increasing the number of drinking fountains adjacent to public parks and greenstreets.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-04-23T19:43:41.38Z"
+    },
+    {
+      "ID": 419984,
+      "GUID": "A40D5E57-508A-4BC2-968F-368B6E4E6764",
+      "Title": "A Local Law in relation to a plan to identify and facilitate the use of indoor facilities for basketball games",
+      "AgendaSequence": 0,
+      "MinutesSequence": 10,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 73528,
+      "MatterFile": "Int 0643-2024",
+      "MatterName": "Plan to identify and facilitate the use of indoor facilities for basketball games.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-04-23T19:43:48.003Z"
+    },
+    {
+      "ID": 419985,
+      "GUID": "23C4E99A-C44D-4039-8712-AF1D4A362D46",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Brewer and Riley",
+      "LastModified": "2025-04-23T19:43:24.677Z"
     }
   ],
   "AgendaLastPublished": "2025-03-21T20:12:54.43Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-04-23T17:10:20.117Z"
+  "MinutesLastPublished": "2025-04-23T19:43:54.71Z",
+  "LastModified": "2025-04-23T19:43:54.85Z"
 }

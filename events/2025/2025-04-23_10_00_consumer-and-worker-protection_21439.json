@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/4/21439_A_Committee_on_Consumer_and_Worker_Protection_25-04-23_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/4/21439_M_Committee_on_Consumer_and_Worker_Protection_25-04-23_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Transportation and Infrastructure.",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_250423-100921.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21439&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,41 +21,174 @@
       "GUID": "F87E3948-C63B-4378-8BFB-4DEAAFFE4FBA",
       "Title": "Oversight - Dining Out NYC program.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 75475,
       "MatterFile": "T2025-3180",
       "MatterName": "Oversight - Dining Out NYC program.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-04-15T21:50:12.057Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-04-23T18:44:53.497Z"
     },
     {
       "ID": 417278,
       "GUID": "FBF08B07-F781-4C44-9BA2-F8A2950F802B",
       "Title": "Jointly with the Committee on Transportation and Infrastructure",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 8,
       "Version": "",
-      "LastModified": "2025-04-15T20:57:08.11Z"
+      "LastModified": "2025-04-23T18:44:10.427Z"
     },
     {
       "ID": 419585,
       "GUID": "B81D0590-F7D3-417A-8391-F40268F4AC34",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to towing vehicles that are an encumbrance on the street",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 857-A",
       "MinutesNote": "Proposed Int. No. 857-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 73667,
       "MatterFile": "Int 0857-2024",
       "MatterName": "Towing vehicles that are an encumbrance on the street.",
       "MatterType": "Introduction",
-      "LastModified": "2025-04-15T21:50:29.537Z"
+      "LastModified": "2025-04-23T18:46:48.61Z"
+    },
+    {
+      "ID": 419967,
+      "GUID": "3D5721D3-5BCE-4514-914D-DE8DAB42F825",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2025-04-23T18:43:24.31Z"
+    },
+    {
+      "ID": 419968,
+      "GUID": "07405853-2904-44E0-B495-16F730733502",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Brooks-Powers, Banks, Louis, Narcisse, Ariola, Salamanca, Rivera, Restler and De La Rosa",
+      "LastModified": "2025-04-23T18:44:49.473Z"
+    },
+    {
+      "ID": 419969,
+      "GUID": "1400B4B9-8256-4273-B32B-798A783B345C",
+      "Title": "Oversight - Dining Out NYC program.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 75475,
+      "MatterFile": "T2025-3180",
+      "MatterName": "Oversight - Dining Out NYC program.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-04-23T18:44:55.803Z"
+    },
+    {
+      "ID": 419970,
+      "GUID": "751D14D6-EC3E-4C94-B1EE-24D4722652B4",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to towing vehicles that are an encumbrance on the street",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 73667,
+      "MatterFile": "Int 0857-2024",
+      "MatterName": "Towing vehicles that are an encumbrance on the street.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-04-23T18:46:53.067Z"
+    },
+    {
+      "ID": 419971,
+      "GUID": "3417B64A-8ADA-46A7-B54D-21664BD5FA09",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to towing vehicles that are an encumbrance on the street",
+      "AgendaSequence": 0,
+      "MinutesSequence": 7,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 73667,
+      "MatterFile": "Int 0857-2024",
+      "MatterName": "Towing vehicles that are an encumbrance on the street.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-04-23T18:46:56.77Z"
     }
   ],
   "AgendaLastPublished": "2025-04-15T21:54:39.897Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-04-15T21:54:39.98Z"
+  "MinutesLastPublished": "2025-04-23T18:45:19.287Z",
+  "LastModified": "2025-04-23T18:45:19.397Z"
 }
