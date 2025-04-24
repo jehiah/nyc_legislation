@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/4/21559_A_Committee_on_Civil_Service_and_Labor_25-04-24_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/4/21559_M_Committee_on_Civil_Service_and_Labor_25-04-24_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_250424-113921.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21559&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,16 +21,121 @@
       "GUID": "C4DD4F69-7FED-4897-BA6C-63D7E8DD1596",
       "Title": "Resolution calling on New York City health care institutions to contract with industrial laundry companies that respect workers’ legal rights and adhere to area standards for wages and benefits.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 74087,
       "MatterFile": "Res 0598-2024",
       "MatterName": "New York City health care institutions to contract with industrial laundry companies that respect workers’ legal rights and adhere to area standards for wages and benefits.",
       "MatterType": "Resolution",
-      "LastModified": "2025-04-23T17:13:33.347Z"
+      "LastModified": "2025-04-24T15:49:40.96Z"
+    },
+    {
+      "ID": 420082,
+      "GUID": "62F4BA5D-60E4-4905-930F-60A30ACA4C8A",
+      "Title": "Roll Call ",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2025-04-24T15:49:36.05Z"
+    },
+    {
+      "ID": 420083,
+      "GUID": "A477ADDB-AD0B-49D3-9DCA-48BFBBB39854",
+      "Title": "Resolution calling on New York City health care institutions to contract with industrial laundry companies that respect workers’ legal rights and adhere to area standards for wages and benefits.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "This Resolution was Approved by Committee",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 74087,
+      "MatterFile": "Res 0598-2024",
+      "MatterName": "New York City health care institutions to contract with industrial laundry companies that respect workers’ legal rights and adhere to area standards for wages and benefits.",
+      "MatterType": "Resolution",
+      "LastModified": "2025-04-24T15:52:55.51Z"
     }
   ],
   "AgendaLastPublished": "2025-04-23T17:11:28.067Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-04-23T17:11:28.113Z"
+  "MinutesLastPublished": "2025-04-24T16:31:00.013Z",
+  "LastModified": "2025-04-24T16:31:00.073Z"
 }
