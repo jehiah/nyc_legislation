@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/4/21593_A_City_Council_25-04-24_Council_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/4/21593_M_City_Council_25-04-24_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_250424-144301.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21593&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -22,7 +24,410 @@
       "AgendaNumber": "1.",
       "Version": "",
       "AgendaNote": "ROLL CALL",
-      "LastModified": "2025-04-24T15:20:11.583Z"
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7739,
+          "Slug": "adrienne-e-adams",
+          "FullName": "Adrienne E. Adams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 41
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 110
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 130
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 150
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 5289,
+          "Slug": "simcha-felder",
+          "FullName": "Simcha Felder",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 165
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 170
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 190
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 200
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 210
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 220
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 230
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 240
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 250
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 260
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 270
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 280
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 290
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 300
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 310
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 320
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 330
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 340
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 350
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 361
+        },
+        {
+          "ID": 7741,
+          "Slug": "keith-powers",
+          "FullName": "Keith Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 370
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 380
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 390
+        },
+        {
+          "ID": 7740,
+          "Slug": "carlina-rivera",
+          "FullName": "Carlina Rivera",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 400
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 410
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 420
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 430
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 440
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 450
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 460
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 471
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 480
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 490
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 510
+        }
+      ],
+      "LastModified": "2025-04-24T20:48:35.363Z"
     },
     {
       "ID": 419822,
@@ -175,11 +580,16 @@
       "MinutesSequence": 21,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on GO",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 71800,
       "MatterFile": "Int 0861-2024",
       "MatterName": "Requiring an annual report by a contracted entity to include information about agreements to provide community benefits.",
       "MatterType": "Introduction",
-      "LastModified": "2025-04-24T16:41:05.987Z"
+      "LastModified": "2025-04-24T20:56:12.36Z"
     },
     {
       "ID": 419837,
@@ -189,11 +599,16 @@
       "MinutesSequence": 20,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on GO",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 71801,
       "MatterFile": "Int 0860-2024",
       "MatterName": "Requiring a contracted entity to publish an annual report concerning community hiring.",
       "MatterType": "Introduction",
-      "LastModified": "2025-04-24T16:41:02.803Z"
+      "LastModified": "2025-04-24T20:55:45.383Z"
     },
     {
       "ID": 419839,
@@ -203,11 +618,16 @@
       "MinutesSequence": 19,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on GO",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 72498,
       "MatterFile": "Int 0026-2024",
       "MatterName": "Regulating helicopter operations at city owned heliports to reduce noise.",
       "MatterType": "Introduction",
-      "LastModified": "2025-04-24T16:41:01.88Z"
+      "LastModified": "2025-04-24T22:41:17.55Z"
     },
     {
       "ID": 419842,
@@ -227,11 +647,16 @@
       "MinutesSequence": 23,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on GO",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 75144,
       "MatterFile": "Int 1150-2024",
       "MatterName": "Creation of a comprehensive stormwater plan and a stormwater dashboard.",
       "MatterType": "Introduction",
-      "LastModified": "2025-04-24T16:41:11.77Z"
+      "LastModified": "2025-04-24T21:06:23.24Z"
     },
     {
       "ID": 419846,
@@ -251,11 +676,16 @@
       "MinutesSequence": 25,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on GO",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 73458,
       "MatterFile": "Int 0889-2024",
       "MatterName": "Providing notification to council members of the recording of certain real estate instruments.",
       "MatterType": "Introduction",
-      "LastModified": "2025-04-24T16:41:15.71Z"
+      "LastModified": "2025-04-24T20:58:04.923Z"
     },
     {
       "ID": 419848,
@@ -265,11 +695,16 @@
       "MinutesSequence": 26,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on GO",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 74851,
       "MatterFile": "Int 1086-2024",
       "MatterName": "Notifying interested parties of the recording of certain real estate instruments.",
       "MatterType": "Introduction",
-      "LastModified": "2025-04-24T16:41:17.87Z"
+      "LastModified": "2025-04-24T20:58:48.077Z"
     },
     {
       "ID": 419850,
@@ -279,11 +714,16 @@
       "MinutesSequence": 27,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on GO",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 75677,
       "MatterFile": "Int 1234-2025",
       "MatterName": "Executive budget process.",
       "MatterType": "Introduction",
-      "LastModified": "2025-04-24T16:41:20.413Z"
+      "LastModified": "2025-04-24T20:59:41.37Z"
     },
     {
       "ID": 419852,
@@ -293,11 +733,16 @@
       "MinutesSequence": 28,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 75693,
       "MatterFile": "Res 0849-2025",
       "MatterName": "Approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget.",
       "MatterType": "Resolution",
-      "LastModified": "2025-04-24T16:41:22.423Z"
+      "LastModified": "2025-04-24T21:00:51.323Z"
     },
     {
       "ID": 419853,
@@ -317,11 +762,16 @@
       "MinutesSequence": 30,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on GO",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 72917,
       "MatterFile": "Int 0246-2024",
       "MatterName": "Requiring city agencies to provide an “X” option for gender on certain forms.",
       "MatterType": "Introduction",
-      "LastModified": "2025-04-24T16:41:26.657Z"
+      "LastModified": "2025-04-24T20:53:30.54Z"
     },
     {
       "ID": 419855,
@@ -331,11 +781,16 @@
       "MinutesSequence": 31,
       "Version": "A",
       "AgendaNote": "Preconsidered - Amended and Coupled on GO",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 75679,
       "MatterFile": "Int 1263-2025",
       "MatterName": "Communications in adjudicative proceedings by certain public servants.",
       "MatterType": "Introduction",
-      "LastModified": "2025-04-24T16:41:29.53Z"
+      "LastModified": "2025-04-24T21:01:57.573Z"
     },
     {
       "ID": 419859,
@@ -355,11 +810,16 @@
       "MinutesSequence": 34,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on GO",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 75474,
       "MatterFile": "Int 1200-2025",
       "MatterName": "Publicly available information regarding gender identity related rights and resources.",
       "MatterType": "Introduction",
-      "LastModified": "2025-04-24T15:20:11.64Z"
+      "LastModified": "2025-04-24T21:09:57.65Z"
     },
     {
       "ID": 419861,
@@ -369,11 +829,16 @@
       "MinutesSequence": 35,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on GO",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 75388,
       "MatterFile": "Int 1201-2025",
       "MatterName": "Cause of action related to interference with reproductive or gender-affirming health care.",
       "MatterType": "Introduction",
-      "LastModified": "2025-04-24T15:20:11.643Z"
+      "LastModified": "2025-04-24T21:11:35.79Z"
     },
     {
       "ID": 419862,
@@ -383,11 +848,16 @@
       "MinutesSequence": 36,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on GO",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 75479,
       "MatterFile": "Int 1203-2025",
       "MatterName": "Requiring the mayor’s office of immigrant affairs to conduct an assessment to support migrants who are transgender, gender non-conforming, non-binary, or intersex and to develop a phased implementation plan to address gaps in supports.",
       "MatterType": "Introduction",
-      "LastModified": "2025-04-24T15:20:11.643Z"
+      "LastModified": "2025-04-24T21:12:58.143Z"
     },
     {
       "ID": 419863,
@@ -397,11 +867,16 @@
       "MinutesSequence": 37,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on GO",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 75478,
       "MatterFile": "Int 1204-2025",
       "MatterName": "Requiring the commissioner of health and mental hygiene to conduct an assessment and develop a health agenda regarding health inequities affecting transgender, gender nonconforming, and non-binary individuals.",
       "MatterType": "Introduction",
-      "LastModified": "2025-04-24T16:41:41.54Z"
+      "LastModified": "2025-04-24T21:15:10.81Z"
     },
     {
       "ID": 419868,
@@ -422,11 +897,16 @@
       "MinutesSequence": 40,
       "Version": "*",
       "AgendaNote": "Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 75687,
       "MatterFile": "Res 0856-2025",
       "MatterName": "LU 244 - Landmarks, Brownsville NCP, Brooklyn (C 250036 HAK).",
       "MatterType": "Resolution",
-      "LastModified": "2025-04-24T16:42:29.653Z"
+      "LastModified": "2025-04-24T21:15:51.923Z"
     },
     {
       "ID": 419871,
@@ -436,11 +916,16 @@
       "MinutesSequence": 42,
       "Version": "*",
       "AgendaNote": "Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 75688,
       "MatterFile": "Res 0857-2025",
       "MatterName": "LU 245 - Landmarks, Brownsville NCP, Brooklyn (C 250037 ZMK).",
       "MatterType": "Resolution",
-      "LastModified": "2025-04-24T16:42:47.447Z"
+      "LastModified": "2025-04-24T21:16:33.393Z"
     },
     {
       "ID": 419872,
@@ -450,11 +935,16 @@
       "MinutesSequence": 44,
       "Version": "*",
       "AgendaNote": "Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 75689,
       "MatterFile": "Res 0858-2025",
       "MatterName": "LU 246 - Landmarks, Brownsville NCP, Brooklyn (N 250038 ZRK).",
       "MatterType": "Resolution",
-      "LastModified": "2025-04-24T16:43:07.077Z"
+      "LastModified": "2025-04-24T21:17:18.45Z"
     },
     {
       "ID": 419873,
@@ -475,11 +965,17 @@
       "AgendaNumber": "~coupled",
       "Version": "*",
       "AgendaNote": "Adopted by the Committee on Civil Service and Labor",
+      "MinutesNote": "Pursuant to Rule 8.50 of the Council, the Majority Leader and Acting President Pro Tempore (Council Member Farías) called for a voice vote.  Hearing those in favor, the Majority Leader and Acting President Pro Tempore (Council Member Farías) declared the Resolution to be adopted.\r\n\r\nThe following Council Member formally noted his intention to abstain from voting on this item:\r\nCouncil Member Felder.\r\n\r\nAdopted by the Council by voice-vote.",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by voice vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 74087,
       "MatterFile": "Res 0598-2024",
       "MatterName": "New York City health care institutions to contract with industrial laundry companies that respect workers’ legal rights and adhere to area standards for wages and benefits.",
       "MatterType": "Resolution",
-      "LastModified": "2025-04-24T16:44:06.893Z"
+      "LastModified": "2025-04-24T22:49:17.217Z"
     },
     {
       "ID": 419876,
@@ -531,11 +1027,15 @@
       "AgendaNumber": "~coupled",
       "Version": "A",
       "AgendaNote": "Amended and Adopted by the Committee on Economic Development",
+      "MinutesNote": "Pursuant to Rule 8.50 of the Council, Majority Leader and Acting President Pro Tempore (Council Member Farías) called for a voice vote.  Hearing those in favor, the Majority Leader and Acting President Pro Tempore (Council Member Farías) declared the Resolution to be adopted.\r\n\r\nThe following 5 Council Members formally noted their intention to vote in the negative against this item:  \r\nCouncil Members Holden, Marmorato, Paladino, Vernikov, and the Minority Leader (Council Member Ariola).\r\n\r\nThe following Council Member formally noted his intention to abstain from voting on this item: \r\nCouncil Member Felder.\r\n\r\n.Adopted by the Council by voice-vote.",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "This Resolution was Approved, by Council",
       "MatterID": 72295,
       "MatterFile": "Res 0085-2024",
       "MatterName": "Establish a noise tax on non-essential helicopter and seaplane flights in cities with a population of one million or more (A.2583).",
       "MatterType": "Resolution",
-      "LastModified": "2025-04-24T16:43:59.803Z"
+      "LastModified": "2025-04-24T22:47:43.267Z"
     },
     {
       "ID": 419880,
@@ -561,11 +1061,17 @@
       "AgendaNumber": "~coupled",
       "Version": "A",
       "AgendaNote": "Amended and Adopted by the Committee on Economic Development",
+      "MinutesNote": "Pursuant to Rule 8.50 of the Council, the Majority Leader and Acting President Pro Tempore (Council Member Farías) called for a voice vote.  Hearing those in favor, the Majority Leader and Acting President Pro Tempore (Council Member Farías) declared the Resolution to be adopted.\r\n\r\nThe following 3 Council Members formally noted their intention to vote in the negative against this item:  \r\nCouncil Members Marmorato, Paladino, and Vernikov.\r\n\r\nThe following Council Member formally noted his intention to abstain from voting on this item:\r\nCouncil Member Felder.\r\n\r\nAdopted by the Council by voice-vote.",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by voice vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 73327,
       "MatterFile": "Res 0233-2024",
       "MatterName": "United States Federal Aviation Administration to ban all non-essential helicopter travel, including tourist and chartered helicopter flights over NYC.",
       "MatterType": "Resolution",
-      "LastModified": "2025-04-24T16:44:03.683Z"
+      "LastModified": "2025-04-24T22:48:48.817Z"
     },
     {
       "ID": 419882,
@@ -576,11 +1082,17 @@
       "AgendaNumber": "~coupled",
       "Version": "A",
       "AgendaNote": "Amended and Adopted by the Committee on Economic Development",
+      "MinutesNote": "Pursuant to Rule 8.50 of the Council, the Majority Leader and Acting President Pro Tempore (Council Member Farías) called for a voice vote.  Hearing those in favor, the Majority Leader and Acting President Pro Tempore (Council Member Farías) declared the Resolution to be adopted.\r\n\r\nThe following 5 Council Members formally noted their intention to vote in the negative against this item:  \r\nCouncil Members Holden, Marmorato, Paladino, Vernikov, and the Minority Leader (Council Member Ariola).\r\n\r\nThe following Council Member formally noted his intention to abstain from voting on this item:\r\nCouncil Member Felder.\r\n\r\nAdopted by the Council by voice-vote.",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by voice vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 73356,
       "MatterFile": "Res 0226-2024",
       "MatterName": "Prohibit certain non-essential flight operations at municipal heliports and Hudson River Park (A.6311/S.7381).",
       "MatterType": "Resolution",
-      "LastModified": "2025-04-24T16:44:02.937Z"
+      "LastModified": "2025-04-24T23:05:37.563Z"
     },
     {
       "ID": 419883,
@@ -602,11 +1114,17 @@
       "AgendaNumber": "~coupled",
       "Version": "*",
       "AgendaNote": "Adopted by the Committee on Environmental Protection, Resiliency and Waterfronts",
+      "MinutesNote": "Pursuant to Rule 8.50 of the Council, the Majority Leader and Acting President Pro Tempore (Council Member Farías) called for a voice vote.  Hearing those in favor, the Majority Leader and Acting President Pro Tempore (Council Member Farías) declared the Resolution to be adopted.\r\n\r\nThe following Council Member formally noted his intention to abstain from voting on this item:\r\nCouncil Member Felder.\r\n\r\nAdopted by the Council by voice-vote.",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by voice vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 72504,
       "MatterFile": "Res 0008-2024",
       "MatterName": "NYS Department of Health and NYS Environmental Facilities Corporation to fairly allocate grants and loans for lead service line replacement approved in the Federal Bipartisan Infrastructure Law and to remove all rules preventing NYC from receiving a fair",
       "MatterType": "Resolution",
-      "LastModified": "2025-04-24T15:20:11.73Z"
+      "LastModified": "2025-04-24T22:47:16.657Z"
     },
     {
       "ID": 419885,
@@ -617,11 +1135,17 @@
       "AgendaNumber": "~coupled",
       "Version": "A",
       "AgendaNote": "Amended and Adopted by the Committee on Environmental Protection, Resiliency and Waterfronts",
+      "MinutesNote": "Pursuant to Rule 8.50 of the Council, the Majority Leader and Acting President Pro Tempore (Council Member Farías) called for a voice vote.  Hearing those in favor, the Majority Leader and Acting President Pro Tempore (Council Member Farías) declared the Resolution to be adopted.\r\n\r\nThe following Council Member formally noted his intention to abstain from voting on this item:\r\nCouncil Member Felder.\r\n\r\nAdopted by the Council by voice-vote.",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by voice vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 72713,
       "MatterFile": "Res 0144-2024",
       "MatterName": "New York State Environment Facilities Corporation to remove restrictive barriers and uncap funds New York City can receive for water infrastructure upgrades.",
       "MatterType": "Resolution",
-      "LastModified": "2025-04-24T16:44:00.497Z"
+      "LastModified": "2025-04-24T22:47:53.383Z"
     },
     {
       "ID": 419886,
@@ -692,7 +1216,7 @@
       "MatterFile": "Int 1234-2025",
       "MatterName": "Executive budget process.",
       "MatterType": "Introduction",
-      "LastModified": "2025-04-24T15:20:11.687Z"
+      "LastModified": "2025-04-24T22:46:24.053Z"
     },
     {
       "ID": 419892,
@@ -703,11 +1227,17 @@
       "AgendaNumber": "~coupled",
       "Version": "*",
       "AgendaNote": "Adopted by the Committee on Finance",
+      "MinutesNote": "Pursuant to Rule 8.50 of the Council, the Majority Leader and Acting President Pro Tempore (Council Member Farías) called for a voice vote.  Hearing those in favor, the Majority Leader and Acting President Pro Tempore (Council Member Farías) declared the Resolution to be adopted.\r\n\r\nThe following Council Member formally noted his intention to abstain from voting on this item:\r\nCouncil Member Felder.\r\n\r\nAdopted by the Council by voice-vote.",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by voice vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 74063,
       "MatterFile": "Res 0327-2024",
       "MatterName": "Allowing for property owners who receive tax exemptions to have the exemption apply retroactively where eligible.",
       "MatterType": "Resolution",
-      "LastModified": "2025-04-24T16:44:06.127Z"
+      "LastModified": "2025-04-24T22:49:06.09Z"
     },
     {
       "ID": 419893,
@@ -845,11 +1375,17 @@
       "AgendaNumber": "~coupled",
       "Version": "*",
       "AgendaNote": "Adopted by the Committee on Women and Gender Equity",
+      "MinutesNote": "Pursuant to Rule 8.50 of the Council, Majority Leader and Acting President Pro Tempore (Council Member Farías) called for a voice vote.  Hearing those in favor, the Majority Leader and Acting President Pro Tempore (Council Member Farías) declared the Resolution to be adopted.\r\n\r\nThe following 5 Council Members formally noted their intention to vote in the negative against this item:  \r\nCouncil Members Holden, Marmorato, Paladino, Vernikov, and the Minority Leader (Council Member Ariola).\r\n\r\nThe following Council Member formally noted his intention to abstain from voting on this item: \r\nCouncil Member Felder.\r\n\r\n.Adopted by the Council by voice-vote.",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by voice vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 75495,
       "MatterFile": "Res 0771-2025",
       "MatterName": "Extend protections over personal health information (S.929/A.2141).",
       "MatterType": "Resolution",
-      "LastModified": "2025-04-24T16:44:10.347Z"
+      "LastModified": "2025-04-24T22:49:34.07Z"
     },
     {
       "ID": 419903,
@@ -860,11 +1396,17 @@
       "AgendaNumber": "~coupled",
       "Version": "*",
       "AgendaNote": "Adopted by the Committee on Women and Gender Equity",
+      "MinutesNote": "Pursuant to Rule 8.50 of the Council, Majority Leader and Acting President Pro Tempore (Council Member Farías) called for a voice vote.  Hearing those in favor, the Majority Leader and Acting President Pro Tempore (Council Member Farías) declared the Resolution to be adopted.\r\n\r\nThe following 6 Council Members formally noted their intention to vote in the negative against this item:  \r\nCouncil Members Holden, Marmorato, Paladino, Vernikov, Zhuang, and the Minority Leader (Council Member Ariola).\r\n\r\nThe following Council Member formally noted his intention to abstain from voting on this item: \r\nCouncil Member Felder.\r\n\r\nAdopted by the Council by voice-vote.",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by voice vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 75491,
       "MatterFile": "Res 0774-2025",
       "MatterName": "Dept of Health to implement regulations requiring hospitals in NYC to adhere to the World Professional Association for Transgender Health’s Standards of Care 8.",
       "MatterType": "Resolution",
-      "LastModified": "2025-04-24T16:44:11.033Z"
+      "LastModified": "2025-04-24T22:50:10.15Z"
     },
     {
       "ID": 419904,
@@ -875,11 +1417,17 @@
       "AgendaNumber": "~coupled",
       "Version": "*",
       "AgendaNote": "Adopted by the Committee on Women and Gender Equity",
+      "MinutesNote": "Pursuant to Rule 8.50 of the Council, the Majority Leader and Acting President Pro Tempore (Council Member Farías) called for a voice vote.  Hearing those in favor, the Majority Leader and Acting President Pro Tempore (Council Member Farías) declared the Resolution to be adopted.\r\n\r\nThe following 5 Council Members formally noted their intention to vote in the negative against this item:  \r\nCouncil Members Holden, Marmorato, Paladino, Vernikov, and the Minority Leader (Council Member Ariola).\r\n\r\nThe following Council Member formally noted his intention to abstain from voting on this item:\r\nCouncil Member Felder.\r\n\r\nAdopted by the Council by voice-vote.",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be City Charter Rule Adopted approved by voice vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 75409,
       "MatterFile": "Res 0781-2025",
       "MatterName": "Prohibit out-of-state access to the New York State Prescription Monitoring Program’s data for certain medications including abortion medications, hormone therapy, and puberty blockers.",
       "MatterType": "Resolution",
-      "LastModified": "2025-04-24T16:44:12.84Z"
+      "LastModified": "2025-04-24T22:50:24.45Z"
     },
     {
       "ID": 419905,
@@ -890,11 +1438,17 @@
       "AgendaNumber": "~coupled",
       "Version": "*",
       "AgendaNote": "Adopted by the Committee on Women and Gender Equity",
+      "MinutesNote": "Pursuant to Rule 8.50 of the Council, the Majority Leader and Acting President Pro Tempore (Council Member Farías) called for a voice vote.  Hearing those in favor, the Majority Leader and Acting President Pro Tempore (Council Member Farías) declared the Resolution to be adopted.\r\n\r\nThe following 5 Council Members formally noted their intention to vote in the negative against this item:  \r\nCouncil Members Holden, Marmorato, Paladino, Vernikov, and the Minority Leader (Council Member Ariola).\r\n\r\nThe following Council Member formally noted his intention to abstain from voting on this item:\r\nCouncil Member Felder.\r\n\r\nAdopted by the Council by voice-vote.",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by voice vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 75509,
       "MatterFile": "Res 0793-2025",
       "MatterName": "Provide additional protections for the sensitive health information of patients (S.1633/A.2613)",
       "MatterType": "Resolution",
-      "LastModified": "2025-04-24T16:44:15.85Z"
+      "LastModified": "2025-04-24T22:50:41.393Z"
     },
     {
       "ID": 419906,
@@ -950,7 +1504,7 @@
       "MatterFile": "Res 0858-2025",
       "MatterName": "LU 246 - Landmarks, Brownsville NCP, Brooklyn (N 250038 ZRK).",
       "MatterType": "Resolution",
-      "LastModified": "2025-04-24T15:20:11.72Z"
+      "LastModified": "2025-04-24T22:54:14.923Z"
     },
     {
       "ID": 419911,
@@ -1447,7 +2001,7 @@
       "MatterFile": "SLR 0001-2025",
       "MatterName": "Discontinuance of certain parkland in Flushing Meadows Corona Park in the borough of Queens (S. 7121-A/A. 6781-B).",
       "MatterType": "SLR",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Adopted",
       "LastModified": "2025-04-24T15:26:49.18Z"
     },
     {
@@ -1811,12 +2365,17 @@
       "AgendaSequence": 9,
       "MinutesSequence": 12,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Call-Up be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 75734,
       "MatterFile": "M 0121-2025",
       "MatterName": "Zoning, Western Rail Yard Modifications, Manhattan (C 250024 MMM, C 250099 ZSM, M 250100 LDM and N 250098 ZRM.)",
       "MatterType": "Land Use Call-Up",
-      "MatterStatus": "Coupled on Call-Up Vote",
-      "LastModified": "2025-04-24T15:47:07.763Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2025-04-24T22:58:45.19Z"
     },
     {
       "ID": 419978,
@@ -1826,12 +2385,17 @@
       "MinutesSequence": 32,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on GO",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this SLR be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 75737,
       "MatterFile": "SLR 0001-2025",
       "MatterName": "Discontinuance of certain parkland in Flushing Meadows Corona Park in the borough of Queens (S. 7121-A/A. 6781-B).",
       "MatterType": "SLR",
-      "MatterStatus": "Reported from Committee",
-      "LastModified": "2025-04-24T16:41:32.05Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2025-04-24T21:05:19.493Z"
     },
     {
       "ID": 419979,
@@ -1846,7 +2410,7 @@
       "MatterFile": "SLR 0001-2025",
       "MatterName": "Discontinuance of certain parkland in Flushing Meadows Corona Park in the borough of Queens (S. 7121-A/A. 6781-B).",
       "MatterType": "SLR",
-      "MatterStatus": "Reported from Committee",
+      "MatterStatus": "Adopted",
       "LastModified": "2025-04-24T16:20:14.43Z"
     },
     {
@@ -1856,12 +2420,17 @@
       "AgendaSequence": 0,
       "MinutesSequence": 39,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 75482,
       "MatterFile": "LU 0244-2025",
       "MatterName": "Landmarks, Brownsville NCP, Brooklyn (C 250036 HAK).",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2025-04-24T16:42:19.653Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2025-04-24T21:15:30.13Z"
     },
     {
       "ID": 420011,
@@ -1870,12 +2439,17 @@
       "AgendaSequence": 0,
       "MinutesSequence": 41,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 75483,
       "MatterFile": "LU 0245-2025",
       "MatterName": "Landmarks, Brownsville NCP, Brooklyn (C 250037 ZMK).",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2025-04-24T16:42:38.433Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2025-04-24T21:16:14.753Z"
     },
     {
       "ID": 420012,
@@ -1884,12 +2458,17 @@
       "AgendaSequence": 0,
       "MinutesSequence": 43,
       "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 75484,
       "MatterFile": "LU 0246-2025",
       "MatterName": "Landmarks, Brownsville NCP, Brooklyn (N 250038 ZRK).",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2025-04-24T16:42:56.33Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2025-04-24T21:16:53.83Z"
     },
     {
       "ID": 420013,
@@ -1908,8 +2487,8 @@
       "AgendaSequence": 0,
       "MinutesSequence": 3,
       "Version": "",
-      "MinutesNote": "The presence of a quorum was announced by the Majority Leader and Acting President Pro Tempore (Council Member Farías).\r\n\r\n\r\nThere were XX Council Members marked present at this Stated Meeting.",
-      "LastModified": "2025-04-24T15:53:26.613Z"
+      "MinutesNote": "The presence of a quorum was announced by the Majority Leader and Acting President Pro Tempore (Council Member Farías).\r\n\r\nThere were 48 Council Members marked present at this Stated Meeting.\r\n\r\nThere is presently one vacant seat on the Council pending the swearing-in of the certified winner of the Special Elections of  April 29, 2025 (51st CD, Staten Island).\r\n\r\n",
+      "LastModified": "2025-04-24T21:56:12.463Z"
     },
     {
       "ID": 420015,
@@ -2153,7 +2732,7 @@
       "MinutesSequence": 145,
       "Version": "",
       "MinutesNote": "Whereupon on motion of the Speaker (Council Member Adams), the Majority Leader and Acting President Pro Tempore (Council Member Farías) adjourned these proceedings to meet again for the Stated Meeting of Thursday, May 1, 2025.\r\n\r\nMICHAEL McSWEENEY, City Clerk\r\nClerk of the Council",
-      "LastModified": "2025-04-24T15:47:07.933Z"
+      "LastModified": "2025-04-24T22:42:08.673Z"
     },
     {
       "ID": 420080,
@@ -2177,6 +2756,6 @@
     }
   ],
   "AgendaLastPublished": "2025-04-24T16:20:21.877Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-04-24T16:20:22.077Z"
+  "MinutesLastPublished": "2025-04-24T22:58:55.423Z",
+  "LastModified": "2025-04-24T22:58:55.5Z"
 }
