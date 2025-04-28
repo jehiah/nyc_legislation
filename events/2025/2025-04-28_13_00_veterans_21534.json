@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/4/21534_A_Committee_on_Veterans_25-04-28_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/4/21534_M_Committee_on_Veterans_25-04-28_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-250-16_250428-130519.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21534&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,17 +20,89 @@
       "GUID": "EBC2A65B-12E9-4DD6-B417-34B895E94514",
       "Title": "Oversight - Implementing Recommendations from the City Council’s Report Card Initiative.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 75521,
       "MatterFile": "T2025-3226",
       "MatterName": "Oversight - Implementing Recommendations from the City Council’s Report Card Initiative.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-04-25T19:15:47.427Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-04-28T19:37:25.903Z"
+    },
+    {
+      "ID": 420161,
+      "GUID": "0757E934-E28A-41DE-80A1-D375C378A47E",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        }
+      ],
+      "LastModified": "2025-04-28T19:37:21.883Z"
+    },
+    {
+      "ID": 420162,
+      "GUID": "9A89E88D-654D-4088-9E4E-8600D728B19A",
+      "Title": "Oversight - Implementing Recommendations from the City Council’s Report Card Initiative.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 75521,
+      "MatterFile": "T2025-3226",
+      "MatterName": "Oversight - Implementing Recommendations from the City Council’s Report Card Initiative.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-04-28T19:37:33.217Z"
     }
   ],
   "AgendaLastPublished": "2025-04-28T17:33:25.25Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-04-28T17:33:25.337Z"
+  "MinutesLastPublished": "2025-04-28T19:37:39.057Z",
+  "LastModified": "2025-04-28T19:37:39.23Z"
 }
