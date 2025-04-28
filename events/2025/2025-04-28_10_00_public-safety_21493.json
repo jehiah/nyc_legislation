@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/4/21493_A_Committee_on_Public_Safety_25-04-28_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/4/21493_M_Committee_on_Public_Safety_25-04-28_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_250428-103614.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21493&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,69 +20,275 @@
       "GUID": "D2C0DFA5-D930-4129-97AB-169B7237846A",
       "Title": "Oversight - NYPD Parking and Traffic Enforcement.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 75589,
       "MatterFile": "T2025-3294",
       "MatterName": "Oversight - NYPD Parking and Traffic Enforcement.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-04-24T16:36:01.85Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-04-28T17:26:31.933Z"
     },
     {
       "ID": 419561,
       "GUID": "7EDCEFFC-EF65-4678-B956-01ABDEFAF385",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to police department tow pound capacity",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 72858,
       "MatterFile": "Int 0179-2024",
       "MatterName": "Police department tow pound capacity.",
       "MatterType": "Introduction",
-      "LastModified": "2025-04-16T19:00:34.207Z"
+      "LastModified": "2025-04-28T17:26:40.99Z"
     },
     {
       "ID": 419562,
       "GUID": "71BE3CFB-C559-4AD7-88E2-601C27498370",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to police department parking enforcement",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 75699,
       "MatterFile": "Int 1252-2025",
       "MatterName": "Police department parking enforcement.",
       "MatterType": "Introduction",
-      "LastModified": "2025-04-16T19:00:34.21Z"
+      "LastModified": "2025-04-28T17:26:52.09Z"
     },
     {
       "ID": 419579,
       "GUID": "52A8054B-52CD-4C1B-8DBF-E6ECDA50059A",
       "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, legislation to amend the vehicle and traffic law to permit a motor vehicle’s Vehicle Identification Number (VIN) to be listed in a “Notice of Violation,” instead of license plate number,  in circumstances when a license plate of such vehicle is missing, concealed, obscured, or distorted.",
       "AgendaSequence": 4,
-      "MinutesSequence": 4,
+      "MinutesSequence": 9,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 75706,
       "MatterFile": "Res 0853-2025",
       "MatterName": "Amend the vehicle and traffic law to permit a motor vehicle’s Vehicle Identification Number (VIN) to be listed in a “Notice of Violation,” instead of license plate number.",
       "MatterType": "Resolution",
-      "LastModified": "2025-04-16T19:00:34.21Z"
+      "LastModified": "2025-04-28T17:27:01.867Z"
     },
     {
       "ID": 419612,
       "GUID": "0AEFC9B1-2CAC-4024-93C2-F93F5DCA50C0",
       "Title": "Resolution calling on the New York State Legislature to pass, and the New York State Governor to sign, S.7621/A.7979, requiring the installation of intelligent speed assistance devices for repeated violation of maximum speed limits.",
       "AgendaSequence": 5,
-      "MinutesSequence": 5,
+      "MinutesSequence": 11,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 74475,
       "MatterFile": "Res 0854-2025",
       "MatterName": "Requiring the installation of intelligent speed assistance devices for repeated violation of maximum speed limits (S.7621/A.7979)",
       "MatterType": "Resolution",
-      "LastModified": "2025-04-16T19:00:40.05Z"
+      "LastModified": "2025-04-28T17:27:12.317Z"
+    },
+    {
+      "ID": 420153,
+      "GUID": "E362966A-C100-41C2-A87D-37EBF34CCDAF",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 20
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 50
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        },
+        {
+          "ID": 7740,
+          "Slug": "carlina-rivera",
+          "FullName": "Carlina Rivera",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 110
+        }
+      ],
+      "LastModified": "2025-04-28T17:25:18.55Z"
+    },
+    {
+      "ID": 420154,
+      "GUID": "4447EFC4-7EE5-4AD1-842F-444DAA73D306",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Restler",
+      "LastModified": "2025-04-28T17:25:02.417Z"
+    },
+    {
+      "ID": 420155,
+      "GUID": "D28D000C-3C1D-48E7-A1E9-64DEC84782E2",
+      "Title": "Oversight - NYPD Parking and Traffic Enforcement.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 75589,
+      "MatterFile": "T2025-3294",
+      "MatterName": "Oversight - NYPD Parking and Traffic Enforcement.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-04-28T17:26:36.183Z"
+    },
+    {
+      "ID": 420156,
+      "GUID": "1CC06180-4C28-47DF-B6F4-7D60710337E0",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to police department tow pound capacity",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 72858,
+      "MatterFile": "Int 0179-2024",
+      "MatterName": "Police department tow pound capacity.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-04-28T17:26:46.32Z"
+    },
+    {
+      "ID": 420157,
+      "GUID": "FBA49AD7-8134-4F62-8732-7EC18EBAF8B3",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to police department parking enforcement",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 75699,
+      "MatterFile": "Int 1252-2025",
+      "MatterName": "Police department parking enforcement.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-04-28T17:26:55.6Z"
+    },
+    {
+      "ID": 420158,
+      "GUID": "C619A523-1F07-46CC-ACE5-EF39E9B2EC05",
+      "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, legislation to amend the vehicle and traffic law to permit a motor vehicle’s Vehicle Identification Number (VIN) to be listed in a “Notice of Violation,” instead of license plate number,  in circumstances when a license plate of such vehicle is missing, concealed, obscured, or distorted.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 10,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 75706,
+      "MatterFile": "Res 0853-2025",
+      "MatterName": "Amend the vehicle and traffic law to permit a motor vehicle’s Vehicle Identification Number (VIN) to be listed in a “Notice of Violation,” instead of license plate number.",
+      "MatterType": "Resolution",
+      "LastModified": "2025-04-28T17:27:05.833Z"
+    },
+    {
+      "ID": 420159,
+      "GUID": "EC89CA93-79AA-4B3F-89DB-56BA918A385F",
+      "Title": "Resolution calling on the New York State Legislature to pass, and the New York State Governor to sign, S.7621/A.7979, requiring the installation of intelligent speed assistance devices for repeated violation of maximum speed limits.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 12,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 74475,
+      "MatterFile": "Res 0854-2025",
+      "MatterName": "Requiring the installation of intelligent speed assistance devices for repeated violation of maximum speed limits (S.7621/A.7979)",
+      "MatterType": "Resolution",
+      "LastModified": "2025-04-28T17:27:18.317Z"
     }
   ],
   "AgendaLastPublished": "2025-04-24T16:36:06.287Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-04-24T16:36:06.38Z"
+  "MinutesLastPublished": "2025-04-28T17:27:22.837Z",
+  "LastModified": "2025-04-28T17:27:22.99Z"
 }
