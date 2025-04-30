@@ -8,10 +8,13 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/4/21492_A_Committee_on_Children_and_Youth_25-04-30_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/4/21492_M_Committee_on_Children_and_Youth_25-04-30_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Contracts",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_250430-101023.mp4",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_250430-101023.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21492&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,65 +22,212 @@
       "GUID": "C4D0EF7A-9987-4B51-B23A-3D65FD8C1E67",
       "Title": "Oversight - Examining Late Payments to Human Service Providers.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 75714,
       "MatterFile": "T2025-3419",
       "MatterName": "Oversight - Examining Late Payments to Human Service Providers.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-04-25T19:23:50.113Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-04-30T21:00:01.263Z"
     },
     {
       "ID": 419668,
       "GUID": "44EA53B4-F7D1-4944-84BC-5AD5C4F3AB16",
       "Title": "Jointly with the Committee on Contracts",
       "AgendaSequence": 5,
-      "MinutesSequence": 5,
+      "MinutesSequence": 11,
       "Version": "",
-      "LastModified": "2025-04-21T20:37:09.253Z"
+      "LastModified": "2025-04-30T21:00:36.767Z"
     },
     {
       "ID": 419687,
       "GUID": "0F61DB6A-6D4F-4BFA-9A64-B21641FF0939",
       "Title": "A Local Law to amend the New York city charter, in relation to the disbursement of a percentage of awards to non-profit organizations for contracts immediately upon registration by the comptroller",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 75663,
       "MatterFile": "Int 1247-2025",
       "MatterName": "Disbursement of a percentage of awards to non-profit organizations for contracts immediately upon registration by the comptroller.",
       "MatterType": "Introduction",
-      "LastModified": "2025-04-21T20:37:09.08Z"
+      "LastModified": "2025-04-30T22:56:18.07Z"
     },
     {
       "ID": 419688,
       "GUID": "DE302375-7048-45D7-B2DE-1231A9D45CCE",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring agency corrective action plans for retroactive contract registration",
       "AgendaSequence": 4,
-      "MinutesSequence": 4,
+      "MinutesSequence": 9,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 75662,
       "MatterFile": "Int 1249-2025",
       "MatterName": "Requiring agency corrective action plans for retroactive contract registration.",
       "MatterType": "Introduction",
-      "LastModified": "2025-04-17T20:02:16.3Z"
+      "LastModified": "2025-04-30T22:57:09.77Z"
     },
     {
       "ID": 419732,
       "GUID": "AC567389-8398-478A-890B-E69CBCA043F6",
       "Title": "A Local Law to amend the New York city charter, in relation to establishing a department of contract services",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 75678,
       "MatterFile": "Int 1248-2025",
       "MatterName": "Establishing a department of contract services.",
       "MatterType": "Introduction",
-      "LastModified": "2025-04-21T20:37:18.55Z"
+      "LastModified": "2025-04-30T22:56:44.893Z"
+    },
+    {
+      "ID": 420329,
+      "GUID": "6DA9B50E-D92D-4513-B09E-432FF3A138F8",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        }
+      ],
+      "LastModified": "2025-04-30T20:59:50.15Z"
+    },
+    {
+      "ID": 420330,
+      "GUID": "E9F8885A-BA18-4691-B21B-61DE07CD9906",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Brewer, Bottcher and Speaker Adams",
+      "LastModified": "2025-04-30T20:59:42.603Z"
+    },
+    {
+      "ID": 420331,
+      "GUID": "D85CD68B-5B1C-4018-8765-8B8B9D96D10A",
+      "Title": "Oversight - Examining Late Payments to Human Service Providers.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 75714,
+      "MatterFile": "T2025-3419",
+      "MatterName": "Oversight - Examining Late Payments to Human Service Providers.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-04-30T21:00:06.1Z"
+    },
+    {
+      "ID": 420332,
+      "GUID": "BE1BC1CA-C514-4462-AC2E-B8EA9FA9EC00",
+      "Title": "A Local Law to amend the New York city charter, in relation to the disbursement of a percentage of awards to non-profit organizations for contracts immediately upon registration by the comptroller",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 75663,
+      "MatterFile": "Int 1247-2025",
+      "MatterName": "Disbursement of a percentage of awards to non-profit organizations for contracts immediately upon registration by the comptroller.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-04-30T22:56:23.433Z"
+    },
+    {
+      "ID": 420333,
+      "GUID": "E6980A6C-723F-4B8E-93E3-78A47FBBD0DF",
+      "Title": "A Local Law to amend the New York city charter, in relation to establishing a department of contract services",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 75678,
+      "MatterFile": "Int 1248-2025",
+      "MatterName": "Establishing a department of contract services.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-04-30T22:56:49.373Z"
+    },
+    {
+      "ID": 420334,
+      "GUID": "672D8455-0037-40F9-A751-80CE67066031",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring agency corrective action plans for retroactive contract registration",
+      "AgendaSequence": 0,
+      "MinutesSequence": 10,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 75662,
+      "MatterFile": "Int 1249-2025",
+      "MatterName": "Requiring agency corrective action plans for retroactive contract registration.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-04-30T22:57:17.103Z"
     }
   ],
   "AgendaLastPublished": "2025-04-24T16:35:02.913Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-04-30T14:10:25.26Z"
+  "MinutesLastPublished": "2025-04-30T21:00:57.96Z",
+  "LastModified": "2025-04-30T21:00:58.087Z"
 }
