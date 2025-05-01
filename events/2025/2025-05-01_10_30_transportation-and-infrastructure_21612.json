@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/5/21612_A_Committee_on_Transportation_and_Infrastructure_25-05-01_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/5/21612_M_Committee_on_Transportation_and_Infrastructure_25-05-01_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_250501-105415.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21612&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,18 +21,155 @@
       "GUID": "15E50F12-07A1-409F-BB93-96D88C0FD9C7",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring taxis and for-hire vehicles to display a decal warning passengers to look for cyclists when opening the door",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 193-A",
       "MinutesNote": "Proposed Int. No. 193-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 72792,
       "MatterFile": "Int 0193-2024",
       "MatterName": "Requiring taxis and for-hire vehicles to display a decal warning passengers to look for cyclists when opening the door.",
       "MatterType": "Introduction",
-      "LastModified": "2025-04-28T14:46:23.71Z"
+      "LastModified": "2025-05-01T15:46:37.06Z"
+    },
+    {
+      "ID": 420373,
+      "GUID": "28BC3784-AB82-413F-9C11-CC118CAC8315",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7740,
+          "Slug": "carlina-rivera",
+          "FullName": "Carlina Rivera",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2025-05-01T15:49:33.03Z"
+    },
+    {
+      "ID": 420375,
+      "GUID": "CF8B1D67-5485-4A4F-A244-F824EB15B356",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring taxis and for-hire vehicles to display a decal warning passengers to look for cyclists when opening the door",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 72792,
+      "MatterFile": "Int 0193-2024",
+      "MatterName": "Requiring taxis and for-hire vehicles to display a decal warning passengers to look for cyclists when opening the door.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-05-01T15:46:40.707Z"
+    },
+    {
+      "ID": 420376,
+      "GUID": "0041A95D-36D4-4A37-A23F-E55E95E1ADDE",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring taxis and for-hire vehicles to display a decal warning passengers to look for cyclists when opening the door",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 72792,
+      "MatterFile": "Int 0193-2024",
+      "MatterName": "Requiring taxis and for-hire vehicles to display a decal warning passengers to look for cyclists when opening the door.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-05-01T15:46:43.963Z"
+    },
+    {
+      "ID": 420377,
+      "GUID": "4E0A848F-25AB-46AA-89EE-5E3CA6E84E3B",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring taxis and for-hire vehicles to display a decal warning passengers to look for cyclists when opening the door",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "This Introduction was Approved by Committee",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 72792,
+      "MatterFile": "Int 0193-2024",
+      "MatterName": "Requiring taxis and for-hire vehicles to display a decal warning passengers to look for cyclists when opening the door.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-05-01T15:49:46.4Z"
     }
   ],
   "AgendaLastPublished": "2025-04-28T14:36:38.783Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-04-28T14:36:38.847Z"
+  "MinutesLastPublished": "2025-05-01T15:49:50.877Z",
+  "LastModified": "2025-05-01T15:49:51.033Z"
 }

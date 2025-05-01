@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/5/21605_A_Committee_on_Consumer_and_Worker_Protection_25-05-01_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/5/21605_M_Committee_on_Consumer_and_Worker_Protection_25-05-01_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_250501-113853.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21605&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,18 +21,149 @@
       "GUID": "690F4B9B-1E28-4189-856E-5488274A4BA6",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing exemptions for third-party food delivery services from the limits on fees charged by such services on food service establishments",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 762-B",
       "MinutesNote": "Proposed Int. No. 762-B",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 73918,
       "MatterFile": "Int 0762-2024",
       "MatterName": "Establishing exemptions for third-party food delivery services from the limits on fees charged by such services on food service establishments.",
       "MatterType": "Introduction",
-      "LastModified": "2025-04-24T19:35:07.273Z"
+      "LastModified": "2025-05-01T15:44:49.4Z"
+    },
+    {
+      "ID": 420369,
+      "GUID": "8E9A300B-AD9D-4163-A801-F7B1F865BDD3",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2025-05-01T15:58:07.777Z"
+    },
+    {
+      "ID": 420370,
+      "GUID": "0C9D087C-D2BB-4F3A-B268-DBC4EDDB0B8B",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing exemptions for third-party food delivery services from the limits on fees charged by such services on food service establishments",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 73918,
+      "MatterFile": "Int 0762-2024",
+      "MatterName": "Establishing exemptions for third-party food delivery services from the limits on fees charged by such services on food service establishments.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-05-01T15:44:55.42Z"
+    },
+    {
+      "ID": 420371,
+      "GUID": "364F12D1-BB87-4CA8-8F64-8BFA155B9FD6",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing exemptions for third-party food delivery services from the limits on fees charged by such services on food service establishments",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 73918,
+      "MatterFile": "Int 0762-2024",
+      "MatterName": "Establishing exemptions for third-party food delivery services from the limits on fees charged by such services on food service establishments.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-05-01T15:45:30.72Z"
+    },
+    {
+      "ID": 420372,
+      "GUID": "04A5193C-DE00-49F9-A69D-A5E79E182AE5",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing exemptions for third-party food delivery services from the limits on fees charged by such services on food service establishments",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "B",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "This Introduction was Approved by Committee",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 73918,
+      "MatterFile": "Int 0762-2024",
+      "MatterName": "Establishing exemptions for third-party food delivery services from the limits on fees charged by such services on food service establishments.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-05-01T15:58:36.51Z"
+    },
+    {
+      "ID": 420378,
+      "GUID": "123B8960-CCEF-473F-A42E-076735E80BDF",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Salamanca",
+      "LastModified": "2025-05-01T15:58:20.46Z"
     }
   ],
   "AgendaLastPublished": "2025-04-24T19:41:21.163Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-04-24T19:41:21.29Z"
+  "MinutesLastPublished": "2025-05-01T15:58:53.687Z",
+  "LastModified": "2025-05-01T15:58:53.75Z"
 }

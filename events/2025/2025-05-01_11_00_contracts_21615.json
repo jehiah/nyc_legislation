@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/5/21615_A_Committee_on_Contracts_25-05-01_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/5/21615_M_Committee_on_Contracts_25-05-01_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_250501-111953.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21615&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,18 +21,133 @@
       "GUID": "AF26858A-AE14-42D4-9CAF-ABB62EFF7A3B",
       "Title": "A Local Law to amend the New York city charter, in relation to an annual report for minority and women-owned business enterprise procurement",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 23-A",
       "MinutesNote": "Proposed Int. No. 23-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 72434,
       "MatterFile": "Int 0023-2024",
       "MatterName": "Annual report for minority and women-owned business enterprise procurement.",
       "MatterType": "Introduction",
-      "LastModified": "2025-04-28T19:07:25.237Z"
+      "LastModified": "2025-05-01T15:28:31.157Z"
+    },
+    {
+      "ID": 420364,
+      "GUID": "63407184-D2CA-44D9-B477-0F8D4AAE1005",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 50
+        }
+      ],
+      "LastModified": "2025-05-01T15:27:57.45Z"
+    },
+    {
+      "ID": 420365,
+      "GUID": "C2F5DB5B-453F-49A9-A274-EE1E17347610",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Brooks-Powers",
+      "LastModified": "2025-05-01T15:27:51.31Z"
+    },
+    {
+      "ID": 420366,
+      "GUID": "F58D1185-5BF3-432D-B1F1-38A1078F754F",
+      "Title": "A Local Law to amend the New York city charter, in relation to an annual report for minority and women-owned business enterprise procurement",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 72434,
+      "MatterFile": "Int 0023-2024",
+      "MatterName": "Annual report for minority and women-owned business enterprise procurement.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-05-01T15:28:36.237Z"
+    },
+    {
+      "ID": 420367,
+      "GUID": "AE466C19-F83E-413B-802B-4A5B9CF747F2",
+      "Title": "A Local Law to amend the New York city charter, in relation to an annual report for minority and women-owned business enterprise procurement",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 72434,
+      "MatterFile": "Int 0023-2024",
+      "MatterName": "Annual report for minority and women-owned business enterprise procurement.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-05-01T15:28:40.437Z"
+    },
+    {
+      "ID": 420368,
+      "GUID": "F80F64BE-F88A-4ADB-983C-29782B827B00",
+      "Title": "A Local Law to amend the New York city charter, in relation to an annual report for minority and women-owned business enterprise procurement",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 72434,
+      "MatterFile": "Int 0023-2024",
+      "MatterName": "Annual report for minority and women-owned business enterprise procurement.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-05-01T15:29:00.31Z"
     }
   ],
   "AgendaLastPublished": "2025-04-28T19:07:41.917Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-04-28T19:07:42.007Z"
+  "MinutesLastPublished": "2025-05-01T15:29:49.047Z",
+  "LastModified": "2025-05-01T15:29:49.08Z"
 }
