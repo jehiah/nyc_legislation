@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/4/21545_A_Temporary_Task_Force_on_Tax_Liens_25-04-30_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/4/21545_M_Temporary_Task_Force_on_Tax_Liens_25-04-30_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-250-14_250430-102414.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21545&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -21,15 +22,35 @@
       "AgendaSequence": 1,
       "MinutesSequence": 1,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 75680,
       "MatterFile": "T2025-3385",
       "MatterName": "Public Meeting",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-04-30T15:52:53.017Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-05-07T13:19:36.337Z"
+    },
+    {
+      "ID": 420449,
+      "GUID": "D097895B-F657-4580-B53F-90F4FEF57C02",
+      "Title": "Public Meeting ",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 75680,
+      "MatterFile": "T2025-3385",
+      "MatterName": "Public Meeting",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-05-07T13:19:41.817Z"
     }
   ],
   "AgendaLastPublished": "2025-04-08T17:05:17.78Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-04-30T14:58:32.63Z"
+  "MinutesLastPublished": "2025-05-07T13:19:46.897Z",
+  "LastModified": "2025-05-07T13:19:47.037Z"
 }
