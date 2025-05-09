@@ -3,29 +3,15 @@ on:
   push:
     branches:
       - master
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
 jobs:
-  # The "build" workflow
   build:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
     steps:
-    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-    - name: Checkout
-      uses: actions/checkout@v4
-    - name: Install jq
-      run: 'sudo apt-get install jq'
-    - name: Compile Introduction Index
-      run: '.github/workflows/build_index.sh'
-    - name: Set up Cloud SDK
-      uses: 'google-github-actions/auth@v2'
+    - name: Repository Dispatch
+      uses: peter-evans/repository-dispatch@v3
       with:
-        credentials_json: '${{ secrets.GOOGLE_CREDENTIALS }}'
-    - name: Upload Indexes
-      uses: 'google-github-actions/upload-cloud-storage@v2'
-      with:
-        path: build
-        destination: 'intronyc'
-
+        token: ${{ secrets.GH_INTRONYC_TOKEN }}
+        repository: jehiah/intro.nyc
+        event-type: reindex
