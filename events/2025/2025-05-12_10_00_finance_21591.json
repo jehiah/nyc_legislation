@@ -8,10 +8,13 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/5/21591_A_Committee_on_Finance_25-05-12_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/5/21591_M_Committee_on_Finance_25-05-12_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Sanitation and Solid Waste Management and the Committee on Aging.",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_250512-100449.mp4",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_250512-100449.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21591&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,17 +22,195 @@
       "GUID": "7AF15C68-C14A-479C-83B1-74CDA36EBF8B",
       "Title": "NEW YORK CITY COUNCIL FISCAL YEAR 2026 EXECUTIVE BUDGET HEARINGS\r\n\r\n\r\n *10:00 a.m. - 12:00 p.m.             Department of Sanitation\r\n**12:00 p.m.  - 2:00 p.m.             Department for the Aging\r\n                2:00 p.m.                       Public\r\n\r\n\r\n*Jointly with the Committee on Sanitation and Solid Waste Management\r\n\r\n**Jointly with the Committee on Aging\r\n\r\n\r\n",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 75751,
       "MatterFile": "T2025-3456",
       "MatterName": "Executive Budget Hearings - Finance",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-05-01T14:03:40.993Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-05-12T20:54:23.987Z"
+    },
+    {
+      "ID": 420573,
+      "GUID": "ED0A2531-A7A8-4BDE-80E5-2AFA477F875F",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 70
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 80
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 110
+        },
+        {
+          "ID": 7741,
+          "Slug": "keith-powers",
+          "FullName": "Keith Powers",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 120
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 130
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 150
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 170
+        }
+      ],
+      "LastModified": "2025-05-12T20:53:47.84Z"
+    },
+    {
+      "ID": 420574,
+      "GUID": "AE57BB2C-7F73-43A3-8161-4FD3E6DCA482",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Menin, Abreu, Restler, Zhuang, Ariola, Banks, Nurse, Ung and Salamanca ",
+      "LastModified": "2025-05-12T20:54:20.843Z"
+    },
+    {
+      "ID": 420575,
+      "GUID": "93FA5F8C-E527-4A52-88D7-36E294288F9F",
+      "Title": "NEW YORK CITY COUNCIL FISCAL YEAR 2026 EXECUTIVE BUDGET HEARINGS\r\n\r\n\r\n *10:00 a.m. - 12:00 p.m.             Department of Sanitation\r\n**12:00 p.m.  - 2:00 p.m.             Department for the Aging\r\n                2:00 p.m.                       Public\r\n\r\n\r\n*Jointly with the Committee on Sanitation and Solid Waste Management\r\n\r\n**Jointly with the Committee on Aging\r\n\r\n\r\n",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 75751,
+      "MatterFile": "T2025-3456",
+      "MatterName": "Executive Budget Hearings - Finance",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-05-12T20:54:29.703Z"
     }
   ],
   "AgendaLastPublished": "2025-04-23T17:31:12.613Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-05-12T14:04:50.527Z"
+  "MinutesLastPublished": "2025-05-12T20:54:34.563Z",
+  "LastModified": "2025-05-12T20:54:34.653Z"
 }
