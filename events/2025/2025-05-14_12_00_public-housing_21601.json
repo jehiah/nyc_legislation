@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/5/21601_A_Committee_on_Public_Housing_25-05-14_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/5/21601_M_Committee_on_Public_Housing_25-05-14_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Finance",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21601&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,17 +20,121 @@
       "GUID": "D4C5FB96-F465-4DD8-A0F1-C79CA7D7C4D5",
       "Title": "NEW YORK CITY COUNCIL FISCAL YEAR 2026 EXECUTIVE BUDGET HEARINGS\r\n\r\n\r\n12:00 p.m.  -   2:00 p.m.       New York City Public\r\n                                                Housing Authority\r\n            2:00 p.m.                   Public\r\n\r\n\r\nJointly with the Committee on Finance",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 75767,
       "MatterFile": "T2025-3472",
       "MatterName": "Executive Budget Hearings - Public Housing",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-04-24T14:27:47.7Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-05-14T22:06:04.52Z"
+    },
+    {
+      "ID": 420631,
+      "GUID": "A21691AE-175C-4704-823C-0264702B0C50",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 20
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 50
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 70
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2025-05-14T22:05:56.683Z"
+    },
+    {
+      "ID": 420633,
+      "GUID": "06FFDC79-5CE1-4722-96C0-BAF0D704BEC6",
+      "Title": "NEW YORK CITY COUNCIL FISCAL YEAR 2026 EXECUTIVE BUDGET HEARINGS\r\n\r\n\r\n12:00 p.m.  -   2:00 p.m.       New York City Public\r\n                                                Housing Authority\r\n            2:00 p.m.                   Public\r\n\r\n\r\nJointly with the Committee on Finance",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 75767,
+      "MatterFile": "T2025-3472",
+      "MatterName": "Executive Budget Hearings - Public Housing",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-05-14T22:06:12.507Z"
     }
   ],
   "AgendaLastPublished": "2025-04-24T14:29:20.377Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-04-24T14:29:20.433Z"
+  "MinutesLastPublished": "2025-05-14T22:06:19.16Z",
+  "LastModified": "2025-05-14T22:06:19.21Z"
 }
