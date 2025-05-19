@@ -8,10 +8,13 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/5/21576_A_Committee_on_Children_and_Youth_25-05-19_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/5/21576_M_Committee_on_Children_and_Youth_25-05-19_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Finance",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_250519-101128.mp4",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_250519-101128.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21576&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,17 +22,107 @@
       "GUID": "AD377FDA-1550-473C-9FE6-A5A81550A5B3",
       "Title": "NEW YORK CITY COUNCIL FISCAL YEAR 2026 EXECUTIVE BUDGET HEARINGS\r\n\r\n10:00 a.m. - 12:00 p.m.   Administration for Children's \r\n                                         Services\r\n12:00 p.m. -  2:00 p.m.    Department of Youth and \r\n                                         Community Development\r\n              2:00 p.m.            Public\r\n\r\n\r\nJointly with the Committee on Finance",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 75748,
       "MatterFile": "T2025-3453",
       "MatterName": "Executive Budget Hearings - Children and Youth",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-05-16T17:13:33.323Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-05-19T20:30:10.987Z"
+    },
+    {
+      "ID": 420711,
+      "GUID": "C21A54F3-BC0D-45C8-B859-9A0F824EDDBD",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 50
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        }
+      ],
+      "LastModified": "2025-05-19T20:30:05.153Z"
+    },
+    {
+      "ID": 420712,
+      "GUID": "5B2FA744-96BB-449A-95F6-4BC832DAA254",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Restler and Avilés",
+      "LastModified": "2025-05-19T20:29:39.62Z"
+    },
+    {
+      "ID": 420713,
+      "GUID": "FB300C26-907D-4DB9-B849-08AE43BDCEB1",
+      "Title": "NEW YORK CITY COUNCIL FISCAL YEAR 2026 EXECUTIVE BUDGET HEARINGS\r\n\r\n10:00 a.m. - 12:00 p.m.   Administration for Children's \r\n                                         Services\r\n12:00 p.m. -  2:00 p.m.    Department of Youth and \r\n                                         Community Development\r\n              2:00 p.m.            Public\r\n\r\n\r\nJointly with the Committee on Finance",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 75748,
+      "MatterFile": "T2025-3453",
+      "MatterName": "Executive Budget Hearings - Children and Youth",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-05-19T20:30:16.293Z"
     }
   ],
   "AgendaLastPublished": "2025-04-23T17:37:48.43Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-05-19T14:11:29.58Z"
+  "MinutesLastPublished": "2025-05-19T20:30:21.77Z",
+  "LastModified": "2025-05-19T20:30:21.82Z"
 }
