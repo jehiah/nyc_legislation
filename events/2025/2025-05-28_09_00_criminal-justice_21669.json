@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/5/21669_A_Committee_on_Criminal_Justice_25-05-28_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/5/21669_M_Committee_on_Criminal_Justice_25-05-28_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_250528-093826.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21669&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,18 +21,155 @@
       "GUID": "26AEBF86-D640-4C39-ABC8-589825A91CBE",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to notifying emergency contacts and attorneys of record when an individual in custody attempts suicide, is hospitalized, or is seriously injured",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 412-A",
       "MinutesNote": "Proposed Int. No. 412-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 72640,
       "MatterFile": "Int 0412-2024",
       "MatterName": "Notifying emergency contacts and attorneys of record when an individual in custody attempts suicide, is hospitalized, or is seriously injured.",
       "MatterType": "Introduction",
-      "LastModified": "2025-05-23T20:55:40.063Z"
+      "LastModified": "2025-05-28T13:48:35.937Z"
+    },
+    {
+      "ID": 421252,
+      "GUID": "51AD414F-BF38-4BF4-A4BC-885EF2C25165",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2025-05-28T13:48:28.27Z"
+    },
+    {
+      "ID": 421253,
+      "GUID": "44DEA378-6787-489D-96EF-66C3BDC7E92B",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to notifying emergency contacts and attorneys of record when an individual in custody attempts suicide, is hospitalized, or is seriously injured",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 72640,
+      "MatterFile": "Int 0412-2024",
+      "MatterName": "Notifying emergency contacts and attorneys of record when an individual in custody attempts suicide, is hospitalized, or is seriously injured.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-05-28T14:19:29.09Z"
+    },
+    {
+      "ID": 421254,
+      "GUID": "C01EC59A-4591-48BD-A77B-7A81378E19F9",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to notifying emergency contacts and attorneys of record when an individual in custody attempts suicide, is hospitalized, or is seriously injured",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 72640,
+      "MatterFile": "Int 0412-2024",
+      "MatterName": "Notifying emergency contacts and attorneys of record when an individual in custody attempts suicide, is hospitalized, or is seriously injured.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-05-28T13:48:44.55Z"
+    },
+    {
+      "ID": 421255,
+      "GUID": "481CB469-68A0-4FF7-AD3E-76540BD23B27",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to notifying emergency contacts and attorneys of record when an individual in custody attempts suicide, is hospitalized, or is seriously injured",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 72640,
+      "MatterFile": "Int 0412-2024",
+      "MatterName": "Notifying emergency contacts and attorneys of record when an individual in custody attempts suicide, is hospitalized, or is seriously injured.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-05-28T13:48:55.527Z"
     }
   ],
   "AgendaLastPublished": "2025-05-23T21:38:13.29Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-05-23T21:38:13.383Z"
+  "MinutesLastPublished": "2025-05-28T14:19:34.243Z",
+  "LastModified": "2025-05-28T14:19:34.313Z"
 }
