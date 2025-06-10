@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/6/21631_A_Committee_on_Veterans_25-06-10_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/6/21631_M_Committee_on_Veterans_25-06-10_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-250-14_250610-110933.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21631&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,30 +20,121 @@
       "GUID": "EEE299E7-CD2C-4840-BC5B-15F5AE36445E",
       "Title": "Oversight - Increasing Self-Identification by New York City Veterans.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 75823,
       "MatterFile": "T2025-3528",
       "MatterName": "Oversight - Increasing Self-Identification by New York City Veterans.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-06-06T19:33:09.79Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-06-10T16:10:28.213Z"
     },
     {
       "ID": 421609,
       "GUID": "B3C80A5F-22FC-4F28-90B6-467ED05E6A0F",
       "Title": "Resolution recognizing June 25, 2025, as the 75th anniversary of the beginning of the Korean War and commemorating June 25 annually as Korean War Remembrance Day in the City of New York to honor those who served and to express hope for a lasting peace.",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 75830,
       "MatterFile": "Res 0896-2025",
       "MatterName": "Recognizing June 25, 2025, as the 75th anniversary of the beginning of the Korean War and commemorating June 25 annually as Korean War Remembrance Day in the City of New York.",
       "MatterType": "Resolution",
-      "LastModified": "2025-06-06T19:33:20.083Z"
+      "LastModified": "2025-06-10T16:10:30.787Z"
+    },
+    {
+      "ID": 421849,
+      "GUID": "F76E750E-29C0-4202-98C0-33E4595104C3",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        }
+      ],
+      "LastModified": "2025-06-10T17:36:33.693Z"
+    },
+    {
+      "ID": 421850,
+      "GUID": "C0812582-C788-4F88-81CD-C904F9D6FDC7",
+      "Title": "Oversight - Increasing Self-Identification by New York City Veterans.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 75823,
+      "MatterFile": "T2025-3528",
+      "MatterName": "Oversight - Increasing Self-Identification by New York City Veterans.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-06-10T17:35:41.62Z"
+    },
+    {
+      "ID": 421851,
+      "GUID": "DFA2B940-082E-4394-B077-6EC1A0B05AC1",
+      "Title": "Resolution recognizing June 25, 2025, as the 75th anniversary of the beginning of the Korean War and commemorating June 25 annually as Korean War Remembrance Day in the City of New York to honor those who served and to express hope for a lasting peace.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 75830,
+      "MatterFile": "Res 0896-2025",
+      "MatterName": "Recognizing June 25, 2025, as the 75th anniversary of the beginning of the Korean War and commemorating June 25 annually as Korean War Remembrance Day in the City of New York.",
+      "MatterType": "Resolution",
+      "LastModified": "2025-06-10T17:35:47.94Z"
     }
   ],
   "AgendaLastPublished": "2025-06-06T19:33:25.537Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-06-06T19:33:25.657Z"
+  "MinutesLastPublished": "2025-06-10T17:36:38.067Z",
+  "LastModified": "2025-06-10T17:36:38.1Z"
 }
