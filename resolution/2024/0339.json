@@ -6,13 +6,13 @@
   "Title": "Resolution calling on the New York State Assembly to pass, A.6004, and the Governor to sign, S.1226/A.6004, the Local Input in Community Healthcare (LICH) Act",
   "TypeID": 1,
   "TypeName": "Resolution",
-  "StatusID": 25,
-  "StatusName": "Laid Over in Committee",
+  "StatusID": 32,
+  "StatusName": "Adopted",
   "BodyID": 5241,
   "BodyName": "Committee on Hospitals",
   "IntroDate": "2024-04-11T00:00:00Z",
   "AgendaDate": "2024-04-11T00:00:00Z",
-  "PassedDate": "0001-01-01T00:00:00Z",
+  "PassedDate": "2025-06-11T00:00:00Z",
   "EnactmentDate": "0001-01-01T00:00:00Z",
   "Version": "B",
   "Sponsors": [
@@ -256,12 +256,157 @@
       "Version": "*",
       "MatterStatusID": 25,
       "LastModified": "2024-10-29T21:34:02.71Z"
+    },
+    {
+      "ID": 421617,
+      "Date": "2025-06-11T10:30:00Z",
+      "ActionID": 54,
+      "Action": "Hearing Held by Committee",
+      "Description": "This Resolution was Hearing Held by Committee",
+      "BodyID": 5241,
+      "BodyName": "Committee on Hospitals",
+      "EventID": 21688,
+      "AgendaSequence": 1,
+      "MinutesSequence": 2,
+      "Version": "*",
+      "AgendaNote": "Proposed Int. No. 339-B",
+      "MinutesNote": "Proposed Int. No. 339-B",
+      "MatterStatusID": 3,
+      "LastModified": "2025-06-11T15:11:43.63Z"
+    },
+    {
+      "ID": 422018,
+      "Date": "2025-06-11T10:30:00Z",
+      "ActionID": 5001,
+      "Action": "Amendment Proposed by Comm",
+      "Description": "This Resolution was Amendment Proposed by Comm",
+      "BodyID": 5241,
+      "BodyName": "Committee on Hospitals",
+      "EventID": 21688,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2025-06-11T15:11:51.567Z"
+    },
+    {
+      "ID": 422019,
+      "Date": "2025-06-11T10:30:00Z",
+      "ActionID": 33,
+      "Action": "Amended by Committee",
+      "Description": "This Resolution was Amended by Committee",
+      "BodyID": 5241,
+      "BodyName": "Committee on Hospitals",
+      "EventID": 21688,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2025-06-11T15:23:26.737Z"
+    },
+    {
+      "ID": 422020,
+      "Date": "2025-06-11T10:30:00Z",
+      "ActionID": 32,
+      "Action": "Approved by Committee",
+      "Description": "A motion was made that this Resolution be Approved by Committee approved by Roll Call.",
+      "BodyID": 5241,
+      "BodyName": "Committee on Hospitals",
+      "EventID": 21688,
+      "MinutesSequence": 5,
+      "Version": "B",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterStatusID": 24,
+      "Votes": [
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 10
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 20
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 30
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 40
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 50
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 60
+        },
+        {
+          "ID": 7740,
+          "Slug": "carlina-rivera",
+          "FullName": "Carlina Rivera",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2025-06-11T15:23:32.973Z"
+    },
+    {
+      "ID": 421764,
+      "Date": "2025-06-11T13:30:00Z",
+      "ActionID": 5032,
+      "Action": "Approved, by Council",
+      "Description": "A motion was made that this Resolution be Approved, by Council approved by voice vote.",
+      "BodyID": 1,
+      "BodyName": "City Council",
+      "EventID": 21698,
+      "AgendaSequence": 126,
+      "MinutesSequence": 153,
+      "Version": "B",
+      "AgendaNote": "Amended and Adopted by the Committee on Hospitals",
+      "MinutesNote": "Pursuant to Rule 8.50 of the Council, the Majority Leader and Acting President Pro Tempore (Council Member Farías) called for a voice vote.  Hearing no objections, the Majority Leader and Acting President Pro Tempore (Council Member Farías) declared the Resolution to be adopted.\r\n\r\nAdopted unanimously by the Council by voice-vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterStatusID": 32,
+      "LastModified": "2025-06-11T21:34:27.823Z"
     }
   ],
   "Attachments": [
     {
       "ID": 292413,
-      "LastModified": "2025-06-10T18:08:21.06Z",
+      "LastModified": "2025-06-11T17:02:49.49Z",
       "Name": "Res. No. 339",
       "Link": "https://nyc.legistar1.com/nyc/attachments/398c1f60-5f69-4468-8714-a990f42fcf41.docx",
       "Sort": 1
@@ -328,11 +473,25 @@
       "Name": "Committee Report 6/11/25",
       "Link": "https://nyc.legistar1.com/nyc/attachments/afa8ae6e-5bbe-4ab7-aa36-aece431917b5.docx",
       "Sort": 10
+    },
+    {
+      "ID": 321122,
+      "LastModified": "2025-06-11T15:23:41.343Z",
+      "Name": "Committee Report - Stated Meeting",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/8418e1de-c45a-4bf7-80ce-019e2830365d.docx",
+      "Sort": 11
+    },
+    {
+      "ID": 321329,
+      "LastModified": "2025-06-11T20:25:44.087Z",
+      "Name": "June 11, 2025 - Stated Meeting Agenda",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/9d48244c-89b3-4169-a47a-0dc00a250363.pdf",
+      "Sort": 12
     }
   ],
   "Summary": "",
   "TextID": 79844,
   "Text": "Whereas, According to the Community Service Society of New York (CSS), from 1997 to 2024, 53 short-term acute care hospitals out of over 200 in New York State closed, including 20 in New York City alone, costing the state approximately 8,000 hospital beds or 16% of all hospital beds; and\n\tWhereas, When accounting for the downsizing and closures of specialized hospitals, the number of beds lost between 2000 and 2020 rises to 20,000, according to CSS; and \n      Whereas, Mount Sinai, one of New York City's largest health systems, with eight hospital campuses and a reported revenue of $10.8 billion in 2023, closed its 136-year-old Beth Israel campus (Mount Sinai Beth Israel) in the East Village on April 9, 2025, after a more than year-long legal battle, raising the number of hospital closures to 54 statewide and 21 within New York City since 1997; and\n      Whereas, New York State is additionally considering proposals to downsize or close State University of New York (SUNY) Downstate Hospital in East Flatbush; and \n      Whereas, Hospital closures have immediate and long-term impacts on their local communities in terms of health equity, access to care, and the local workforce; and\n      Whereas, The median share of residents of color in New York counties that experienced a hospital closure since 1997, 26 counties out of 62, is higher than that of New York counties that have not experienced a closure, 21% compared to 12%, according to CSS; and\n      Whereas, SUNY Downstate is a safety-net hospital obligated to provide care to all patients regardless of insurance status and has the only kidney transplant program in Brooklyn; and\n      Whereas, Mount Sinai Beth Israel primarily treated lower-income patients; and\n      Whereas, A community-led Health Equity Impact Assessment (HEIA) carried out by the Community Coalition to Save Beth Israel and New York Eye and Ear Infirmary found that 80% of patients went to Mount Sinai Beth Israel for emergency care, and 77% chose the hospital because it was closest to where they live; and\n      Whereas, The closure of Mount Sinai Beth Israel coupled with the proposed closure or downsizing of SUNY Downstate would result in a loss of access to emergency treatment, specialty medical services, and continuity of care for the surrounding communities while putting additional strain on nearby hospitals that will be forced to absorb newly displaced patients; and\n      Whereas, In addition to negative impacts for patients, as hospitals are some of the largest employers in a community, closures can result in significant job loss; and\n      Whereas, According to the U.S. Bureau of Labor Statistics, support occupations including orderlies, nursing assistants, healthcare support workers, social workers, community health workers, security workers, food preparation and service workers, janitors, cleaners, groundskeepers, housekeepers, childcare workers, cashiers, file clerks, and maintenance workers make up a third of all jobs in General Medical and Surgical Hospitals; and\n      Whereas, According to the New York State Department of Labor, as of April 2025, there were about 415,900 people working in hospitals across New York State, with 197,100 of those people working in the New York City metro area; and\n      Whereas, Currently, facilities that have plans to close must receive approval from the New York State Department of Health (DOH) and the Director of the Center for Health Care Quality and Surveillance, but community input, via a community forum, is only required by the New York Public Health Law after the hospital has already closed; and\n      Whereas, S.1226/A.6004, known as the Local Input in Community Healthcare (LICH) Act, introduced by New York State Senator Gustavo Rivera and Assembly Member Jo Anne Simon, seeks to amend the New York Public Health Law by requiring advanced public notice and engagement through a comprehensive review process involving field experts and community leaders before a hospital submits its final closure plan to the Commissioner of DOH, thereby ensuring transparency and community involvement in the decision-making process; and\n      Whereas, The LICH Act mandates that hospitals provide notice to DOH at least 270 days before a proposed closure, and requires a public community forum no later than 150 days before a proposed closure to gather input on a proposed closure's potential impact on healthcare access, particularly for vulnerable populations such as Medicaid recipients and the uninsured; and\n      Whereas, Following the community forum, the bill would require hospitals to submit a revised closure plan addressing public concerns within 30 days, which would then undergo further review by the Public Health and Health Planning Council (PHHPC), and to make the revised plan available to the public no later than 45 days after the forum to ensure community input is considered in the final decision; and\n      Whereas, This legislation had passed both the State Senate and Assembly in the 2023-2024 State legislative session as S.8843A/A.1633B, but was then vetoed by Governor Kathy Hochul; and\n      Whereas, In the current 2025-2026 State legislative session, S.1226 was passed once again by the State Senate; and\n      Whereas, If enacted, the LICH Act would require increased advance notice to the public, public disclosure of hospital closing plans, a community forum held well in advance of the closure date to allow public comment on the proposed closure plan, and preparation of a final closure plan that addresses concerns raised at the community forum along with measures and recommendations to mitigate negative consequences; and                     \n      Whereas, Stakeholder consultations and the development of a closure plan focused on real impacts will improve transparency, promote community engagement and empowerment, and could help prevent the loss of critical access to healthcare for underserved communities by identifying both alternatives and instances where an existing facility is vital and cannot be safely closed; and\n      Whereas, As hospitals in New York State are certified nonprofits licensed by the State to serve the needs of their communities, it is imperative that impacted stakeholders be adequately informed and proactively consulted before a hospital is permitted to close; now, therefore, be it\n      Resolved, That the Council of the City of New York calls on the New York State Assembly to pass, A.6004, and the Governor to sign, S.1226/A.6004, the Local Input in Community Healthcare (LICH) Act.\nPR/MB/JN\nLS # 15633\n5/23/2025",
   "RTF": "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang1033\\deflangfe1033{\\fonttbl{\\f0\\froman\\fprq2\\fcharset0 Times New Roman;}{\\f1\\fswiss\\fprq2\\fcharset0 Calibri;}}\n{\\colortbl ;\\red0\\green0\\blue0;\\red34\\green34\\blue34;\\red255\\green255\\blue255;}\n\\viewkind4\\uc1\n\\v0\\fs24  \\fs27\\par\n\\fs24 By Council Members Rivera, Cab\\'e1n, Avil\\'e9s, Schulman, Banks, Ayala, Louis, Narcisse, Bottcher, Menin, Far\\'edas, Brooks-Powers, Krishnan, Nurse, Joseph, De La Rosa, Feliz, Guti\\'e9rrez, Marte, Brewer, Powers, Abreu, Won, and Hanif\\fs27\\par\n\\pard\\cbpat3\\ltrpar\\fs24\\par\n\\pard\\cbpat3\\ltrpar\\sl480\\slmult1\\qj\\tab Whereas, According to the Community Service Society of New York (CSS), from 1997 to 2024, 53 short-term acute care hospitals out of over 200 in New York State closed, including 20 in New York City alone, costing the state approximately 8,000 hospital beds or 16% of all hospital beds; and\\par\n\\tab Whereas, When accounting for the downsizing and closures of specialized hospitals, the number of beds lost between 2000 and 2020 rises to 20,000, according to CSS; and \\par\n\\pard\\cbpat3\\ltrpar\\fi720\\sl480\\slmult1\\qj Whereas, Mount Sinai, one of New York City\\rquote s largest health systems, with eight hospital campuses and a reported revenue of $10.8 billion in 2023, closed its 136-year-old Beth Israel campus (Mount Sinai Beth Israel) in the East Village on April 9, 2025, after a more than year-long legal battle, raising the number of hospital closures to 54 statewide and 21 within New York City since 1997; and\\fs27\\par\n\\fs24 Whereas, New York State is additionally considering proposals to downsize or close State University of New York (SUNY) Downstate Hospital in East Flatbush; and \\par\nWhereas, Hospital closures have immediate and long-term impacts on their local communities in terms of health equity, access to care, and the local workforce; and\\par\nWhereas, The median share of residents of color in New York counties that experienced a hospital closure since 1997, 26 counties out of 62, is higher than that of New York counties that have not experienced a closure, 21% compared to 12%, according to CSS; and\\par\nWhereas, SUNY Downstate is a safety-net hospital obligated to provide care to all patients regardless of insurance status and has the only kidney transplant program in Brooklyn; and\\par\nWhereas, Mount Sinai Beth Israel primarily treated lower-income patients; and\\fs27\\par\n\\fs24 Whereas, A community-led Health Equity Impact Assessment (HEIA) carried out by the Community Coalition to Save Beth Israel and New York Eye and Ear Infirmary found that 80% of patients went to Mount Sinai Beth Israel for emergency care, and 77% chose the hospital because it was closest to where they live; and\\fs27\\par\n\\fs24 Whereas, The closure of Mount Sinai Beth Israel coupled with the proposed closure or downsizing of SUNY Downstate would result in a loss of access to emergency treatment, specialty medical services, and continuity of care for the surrounding communities while putting additional strain on nearby hospitals that will be forced to absorb newly displaced patients; and\\fs27\\par\n\\fs24 Whereas, In addition to negative impacts for patients, as hospitals are some of the largest employers in a community, closures can result in significant job loss; and\\fs27\\par\n\\fs24 Whereas, According to the U.S. Bureau of Labor Statistics, support occupations including orderlies, nursing assistants, healthcare support workers, social workers, community health workers, security workers, food preparation and service workers, janitors, cleaners, groundskeepers, housekeepers, childcare workers, cashiers, file clerks, and maintenance workers make up a third of all jobs in General Medical and Surgical Hospitals; and\\par\nWhereas, According to the New York State Department of Labor, as of April 2025, there were about 415,900 people working in hospitals across New York State, with 197,100 of those people working in the New York City metro area; and\\fs27\\par\n\\fs24 Whereas, Currently, facilities that have plans to close must receive approval from the New York State Department of Health (DOH) and the Director of the Center for Health Care Quality and Surveillance, but community input, via a community forum, is only required by the New York Public Health Law after the hospital has already closed; and\\fs27\\par\n\\fs24 Whereas, S.1226/A.6004, known as the Local Input in Community Healthcare (LICH) Act, introduced by New York State Senator Gustavo Rivera and Assembly Member Jo Anne Simon, seeks \\cf2 to amend the New York Public Health Law \\cf1 by requiring advanced public notice and engagement through a comprehensive review process involving field experts and community leaders before a hospital submits its final closure plan to the Commissioner of DOH, thereby ensuring transparency and community involvement in the decision-making process; and\\fs27\\par\n\\fs24 Whereas, The LICH Act mandates that hospitals provide notice to DOH at least 270 days before a proposed closure, and requires a public community forum no later than 150 days before a proposed closure to gather input on a proposed closure\\rquote s potential impact on healthcare access, particularly for vulnerable populations such as Medicaid recipients and the uninsured; and\\fs27\\par\n\\fs24 Whereas, Following the community forum, the bill would require hospitals to submit a revised closure plan addressing public concerns within 30 days, which would then undergo further review by the Public Health and Health Planning Council (PHHPC), and to make the revised plan available to the public no later than 45 days after the forum to ensure community input is considered in the final decision; and\\fs27\\par\n\\fs24 Whereas, This legislation had passed both the State Senate and Assembly in the 2023-2024 State legislative session as S.8843A/A.1633B, but was then vetoed by Governor Kathy Hochul; and\\par\nWhereas, In the current 2025-2026 State legislative session, S.1226 was passed once again by the State Senate; and\\fs27\\par\n\\fs24 Whereas, If enacted, \\cf2 the LICH Act would require increased advance notice to the public, public disclosure of hospital closing plans, a community forum held well in advance of the closure date to allow public comment on the proposed closure plan, and preparation of a final closure plan that addresses concerns raised at the community forum along with measures and recommendations to mitigate negative consequences\\cf1 ; and\\fs14                      \\fs27\\par\n\\fs24 Whereas, \\cf2 Stakeholder consultations and the development of a closure plan focused on real \\cf1 impacts will improve transparency, promote community engagement and empowerment, and could help prevent the loss of critical access to healthcare for underserved communities by identifying both alternatives and instances where an existing facility is vital and cannot be safely closed; and\\fs27\\par\n\\fs24 Whereas, As hospitals in New York State are certified nonprofits licensed by the State to serve the needs of their communities, it is imperative that impacted stakeholders be adequately informed and proactively consulted before a hospital is permitted to close; now, therefore, be it\\fs27\\par\n\\fs24 Resolved, That the Council of the City of New York calls on the New York State Assembly to pass, A.6004, and the Governor to sign, S.1226/A.6004, the \\cf2 Local Input in Community Healthcare (LICH) Act\\cf1 .\\fs27\\par\n\\pard\\cbpat3\\ltrpar\\qj\\fs18 PR/MB/JN\\fs27\\par\n\\fs18 LS # 15633\\fs27\\par\n\\fs18 5/23/2025\\fs27\\par\n\\pard\\ltrpar\\sa160\\sl252\\slmult1\\qj\\cf0\\f1\\fs22\\par\n}\n",
-  "LastModified": "2025-06-10T18:45:25.02Z"
+  "LastModified": "2025-06-11T21:22:52.9Z"
 }

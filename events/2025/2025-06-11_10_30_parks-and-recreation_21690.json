@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/6/21690_A_Committee_on_Parks_and_Recreation_25-06-11_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/6/21690_M_Committee_on_Parks_and_Recreation_25-06-11_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_250611-110241.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21690&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,18 +21,157 @@
       "GUID": "F0B5CC3A-5AB4-4AC0-9C79-679148B169B9",
       "Title": "A Local Law in relation to requiring the installation of outdoor drinking fountains near entrances to parks under the jurisdiction of the department of parks and recreation",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 573-A",
       "MinutesNote": "Proposed Int. No. 573-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 73477,
       "MatterFile": "Int 0573-2024",
       "MatterName": "Installation of outdoor drinking fountains near entrances to parks under the jurisdiction of the department of parks and recreation.",
       "MatterType": "Introduction",
-      "LastModified": "2025-06-09T15:14:51.383Z"
+      "LastModified": "2025-06-11T15:14:02.433Z"
+    },
+    {
+      "ID": 422021,
+      "GUID": "2B05CA11-0728-4A82-8904-B793799461B3",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        }
+      ],
+      "LastModified": "2025-06-11T15:13:30.22Z"
+    },
+    {
+      "ID": 422022,
+      "GUID": "4E18843C-43F0-4097-B920-31B15BDC1FB6",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Brewer",
+      "LastModified": "2025-06-11T15:13:48.157Z"
+    },
+    {
+      "ID": 422023,
+      "GUID": "EFC650AB-9465-4F3E-9635-FA84A9EED021",
+      "Title": "A Local Law in relation to requiring the installation of outdoor drinking fountains near entrances to parks under the jurisdiction of the department of parks and recreation",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 73477,
+      "MatterFile": "Int 0573-2024",
+      "MatterName": "Installation of outdoor drinking fountains near entrances to parks under the jurisdiction of the department of parks and recreation.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-06-11T15:14:06.493Z"
+    },
+    {
+      "ID": 422024,
+      "GUID": "F538E294-BCA9-479D-B256-D1BDFEA82154",
+      "Title": "A Local Law in relation to requiring the installation of outdoor drinking fountains near entrances to parks under the jurisdiction of the department of parks and recreation",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 73477,
+      "MatterFile": "Int 0573-2024",
+      "MatterName": "Installation of outdoor drinking fountains near entrances to parks under the jurisdiction of the department of parks and recreation.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-06-11T15:14:10.03Z"
+    },
+    {
+      "ID": 422025,
+      "GUID": "A85A8635-9264-486C-9191-8A756359504E",
+      "Title": "A Local Law in relation to requiring the installation of outdoor drinking fountains near entrances to parks under the jurisdiction of the department of parks and recreation",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 73477,
+      "MatterFile": "Int 0573-2024",
+      "MatterName": "Installation of outdoor drinking fountains near entrances to parks under the jurisdiction of the department of parks and recreation.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-06-11T15:14:25.937Z"
     }
   ],
   "AgendaLastPublished": "2025-06-09T15:14:57.937Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-06-09T15:14:58.113Z"
+  "MinutesLastPublished": "2025-06-11T15:14:32.973Z",
+  "LastModified": "2025-06-11T15:14:33.12Z"
 }

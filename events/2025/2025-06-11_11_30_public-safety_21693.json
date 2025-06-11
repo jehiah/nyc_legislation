@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/6/21693_A_Committee_on_Public_Safety_25-06-11_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/6/21693_M_Committee_on_Public_Safety_25-06-11_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_250611-113801.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21693&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,16 +21,137 @@
       "GUID": "11E32FDA-7BFE-459B-BB1A-555A90B28D61",
       "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, legislation to amend the vehicle and traffic law to permit a motor vehicle’s Vehicle Identification Number (VIN) to be listed in a “Notice of Violation,” instead of license plate number,  in circumstances when a license plate of such vehicle is missing, concealed, obscured, or distorted.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 75706,
       "MatterFile": "Res 0853-2025",
       "MatterName": "Amend the vehicle and traffic law to permit a motor vehicle’s Vehicle Identification Number (VIN) to be listed in a “Notice of Violation,” instead of license plate number.",
       "MatterType": "Resolution",
-      "LastModified": "2025-06-09T22:47:53.473Z"
+      "LastModified": "2025-06-11T16:12:26.617Z"
+    },
+    {
+      "ID": 422055,
+      "GUID": "2E259A87-AAD0-489F-81EB-FF8379A12711",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        },
+        {
+          "ID": 7740,
+          "Slug": "carlina-rivera",
+          "FullName": "Carlina Rivera",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 110
+        }
+      ],
+      "LastModified": "2025-06-11T16:12:16.14Z"
+    },
+    {
+      "ID": 422056,
+      "GUID": "71BBF980-030F-4C11-9C40-7BF7FCE497E4",
+      "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, legislation to amend the vehicle and traffic law to permit a motor vehicle’s Vehicle Identification Number (VIN) to be listed in a “Notice of Violation,” instead of license plate number,  in circumstances when a license plate of such vehicle is missing, concealed, obscured, or distorted.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "This Resolution was Approved by Committee",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 75706,
+      "MatterFile": "Res 0853-2025",
+      "MatterName": "Amend the vehicle and traffic law to permit a motor vehicle’s Vehicle Identification Number (VIN) to be listed in a “Notice of Violation,” instead of license plate number.",
+      "MatterType": "Resolution",
+      "LastModified": "2025-06-11T16:12:51.167Z"
     }
   ],
   "AgendaLastPublished": "2025-06-09T22:49:50.607Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-06-09T22:49:50.703Z"
+  "MinutesLastPublished": "2025-06-11T16:12:57.253Z",
+  "LastModified": "2025-06-11T16:12:57.44Z"
 }

@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/6/21701_A_Committee_on_Veterans_25-06-11_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/6/21701_M_Committee_on_Veterans_25-06-11_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_250611-112125.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21701&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,16 +21,99 @@
       "GUID": "D11856B6-8721-452D-AB2B-AA8D376502D0",
       "Title": "Resolution recognizing June 25, 2025, as the 75th anniversary of the beginning of the Korean War and commemorating June 25 annually as Korean War Remembrance Day in the City of New York to honor those who served and to express hope for a lasting peace.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 75830,
       "MatterFile": "Res 0896-2025",
       "MatterName": "Recognizing June 25, 2025, as the 75th anniversary of the beginning of the Korean War and commemorating June 25 annually as Korean War Remembrance Day in the City of New York.",
       "MatterType": "Resolution",
-      "LastModified": "2025-06-10T19:11:12.257Z"
+      "LastModified": "2025-06-11T15:31:33.48Z"
+    },
+    {
+      "ID": 422034,
+      "GUID": "247C2BCB-D2E0-4644-B9C0-D10475639574",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        }
+      ],
+      "LastModified": "2025-06-11T15:31:06.873Z"
+    },
+    {
+      "ID": 422035,
+      "GUID": "5508B978-8B99-4EF0-B258-EF4EF3E1606B",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Stevens",
+      "LastModified": "2025-06-11T15:31:24.73Z"
+    },
+    {
+      "ID": 422036,
+      "GUID": "F6A5A175-5695-49C7-AAC6-0643394F2D78",
+      "Title": "Resolution recognizing June 25, 2025, as the 75th anniversary of the beginning of the Korean War and commemorating June 25 annually as Korean War Remembrance Day in the City of New York to honor those who served and to express hope for a lasting peace.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Resolution be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 75830,
+      "MatterFile": "Res 0896-2025",
+      "MatterName": "Recognizing June 25, 2025, as the 75th anniversary of the beginning of the Korean War and commemorating June 25 annually as Korean War Remembrance Day in the City of New York.",
+      "MatterType": "Resolution",
+      "LastModified": "2025-06-11T15:31:51.817Z"
     }
   ],
   "AgendaLastPublished": "2025-06-10T19:11:38.593Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-06-10T19:11:38.65Z"
+  "MinutesLastPublished": "2025-06-11T15:31:58.633Z",
+  "LastModified": "2025-06-11T15:31:58.807Z"
 }
