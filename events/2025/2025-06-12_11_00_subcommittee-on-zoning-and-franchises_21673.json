@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/6/21673_A_Subcommittee_on_Zoning_and_Franchises_25-06-12_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/6/21673_M_Subcommittee_on_Zoning_and_Franchises_25-06-12_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-250-16_250612-110622.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21673&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,17 +20,115 @@
       "GUID": "33CEEA0B-7BED-480C-848E-D6708E098DE9",
       "Title": "Application No. C 250108 MMK (The Coney Development) submitted by TG Coney Island Entertainment Holdco LLC pursuant to Sections 197-c and 199 of the New York City Charter for an amendment to the City Map involving: the elimination, discontinuance and closing of Bowery between Stillwell Avenue and West 12th Street; the establishment of new grades on a portion of Stillwell Avenue between Surf Avenue and Wonder Wheel Way; the elimination, discontinuance, and closing of a volume within Stillwell Avenue between Bowery and Wonder Wheel Way; the elimination, discontinuance, and closing of a volume within West 12th Street between Surf Avenue and Bowery; the modification of block dimensions and grades necessitated thereby; and authorization for any acquisition or disposition of real property related thereto, in accordance with Maps Nos. X-2775 and X-2776 dated December 16, 2024 and signed by the Borough President, Borough of Brooklyn, Community District 13, Council District 47.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Land Use Application was Hearing Held by Committee",
       "MatterID": 75930,
       "MatterFile": "LU 0297-2025",
       "MatterName": "Zoning, The Coney Development, Brooklyn (C 250108 MMK).",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-06-11T15:53:46.407Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2025-06-12T19:16:04.507Z"
+    },
+    {
+      "ID": 422133,
+      "GUID": "70C3E7B7-7217-47A7-9128-050BCFE15BCC",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2025-06-12T19:15:28.82Z"
+    },
+    {
+      "ID": 422134,
+      "GUID": "13962D4F-182C-4D10-A1A8-168577DDFCAA",
+      "Title": "Application No. C 250108 MMK (The Coney Development) submitted by TG Coney Island Entertainment Holdco LLC pursuant to Sections 197-c and 199 of the New York City Charter for an amendment to the City Map involving: the elimination, discontinuance and closing of Bowery between Stillwell Avenue and West 12th Street; the establishment of new grades on a portion of Stillwell Avenue between Surf Avenue and Wonder Wheel Way; the elimination, discontinuance, and closing of a volume within Stillwell Avenue between Bowery and Wonder Wheel Way; the elimination, discontinuance, and closing of a volume within West 12th Street between Surf Avenue and Bowery; the modification of block dimensions and grades necessitated thereby; and authorization for any acquisition or disposition of real property related thereto, in accordance with Maps Nos. X-2775 and X-2776 dated December 16, 2024 and signed by the Borough President, Borough of Brooklyn, Community District 13, Council District 47.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5050,
+      "ActionName": "Laid Over by Subcommittee",
+      "ActionText": "This Land Use Application was Laid Over by Subcommittee",
+      "MatterID": 75930,
+      "MatterFile": "LU 0297-2025",
+      "MatterName": "Zoning, The Coney Development, Brooklyn (C 250108 MMK).",
+      "MatterType": "Land Use Application",
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2025-06-12T19:16:12.163Z"
+    },
+    {
+      "ID": 422135,
+      "GUID": "DF923A89-3D30-471E-9D4D-399B8874BAF4",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Brannan and Vernikov",
+      "LastModified": "2025-06-12T19:15:59.203Z"
     }
   ],
   "AgendaLastPublished": "2025-06-11T19:29:15.697Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-06-12T15:06:23.45Z"
+  "MinutesLastPublished": "2025-06-12T19:16:18.373Z",
+  "LastModified": "2025-06-12T19:16:18.537Z"
 }
