@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/6/21678_A_Committee_on_Public_Housing_25-06-16_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/6/21678_M_Committee_on_Public_Housing_25-06-16_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_250616-101503.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21678&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,43 +20,195 @@
       "GUID": "78190E6F-CE9A-41A4-81C8-F2D75361369B",
       "Title": "Oversight – NYCHA Vacancies and Transfers.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 75888,
       "MatterFile": "T2025-3593",
       "MatterName": "Oversight – NYCHA Vacancies and Transfers.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-06-02T17:52:10.817Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-06-16T19:12:18.11Z"
     },
     {
       "ID": 421479,
       "GUID": "68700552-851A-44DB-974A-75E51A5C4273",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to reporting on vacant public housing dwelling units",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 73166,
       "MatterFile": "Int 0111-2024",
       "MatterName": "Reporting on vacant public housing dwelling units.",
       "MatterType": "Introduction",
-      "LastModified": "2025-06-02T17:51:50.163Z"
+      "LastModified": "2025-06-16T19:12:28.14Z"
     },
     {
       "ID": 421480,
       "GUID": "3B87ACF2-1919-4DA3-8CE1-0BCA8B8C8959",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the police department to make crime statistics at each New York city housing authority operated housing development available through the department’s website, as well as making other crime information regarding such housing developments available to the city council",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 73461,
       "MatterFile": "Int 0122-2024",
       "MatterName": "Requiring the police department to make crime statistics at each New York city housing authority operated housing development available through the department’s website, as well as making other crime information regarding such housing developments availab",
       "MatterType": "Introduction",
-      "LastModified": "2025-06-02T17:51:58.463Z"
+      "LastModified": "2025-06-16T19:12:41.34Z"
+    },
+    {
+      "ID": 422145,
+      "GUID": "FE1DE857-FC48-483A-9161-D9DEBC8E943C",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2025-06-16T19:12:12.27Z"
+    },
+    {
+      "ID": 422146,
+      "GUID": "1605BFC5-7D09-4B87-AF0A-E6B586C04612",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Ayala",
+      "LastModified": "2025-06-16T19:10:48.403Z"
+    },
+    {
+      "ID": 422147,
+      "GUID": "764EEE6B-34A8-416A-BD14-A8F3765EF7F0",
+      "Title": "Oversight – NYCHA Vacancies and Transfers.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 75888,
+      "MatterFile": "T2025-3593",
+      "MatterName": "Oversight – NYCHA Vacancies and Transfers.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-06-16T19:12:22.833Z"
+    },
+    {
+      "ID": 422148,
+      "GUID": "7D41F5FB-2104-49C5-8232-71F75E0E133B",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to reporting on vacant public housing dwelling units",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 73166,
+      "MatterFile": "Int 0111-2024",
+      "MatterName": "Reporting on vacant public housing dwelling units.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-06-16T19:12:35.167Z"
+    },
+    {
+      "ID": 422149,
+      "GUID": "155FCED9-8B73-475B-910C-DFC3027DF2E7",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the police department to make crime statistics at each New York city housing authority operated housing development available through the department’s website, as well as making other crime information regarding such housing developments available to the city council",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 73461,
+      "MatterFile": "Int 0122-2024",
+      "MatterName": "Requiring the police department to make crime statistics at each New York city housing authority operated housing development available through the department’s website, as well as making other crime information regarding such housing developments availab",
+      "MatterType": "Introduction",
+      "LastModified": "2025-06-16T19:12:49.88Z"
     }
   ],
   "AgendaLastPublished": "2025-06-02T17:52:15.823Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-06-16T17:22:56.057Z"
+  "MinutesLastPublished": "2025-06-16T19:13:00.383Z",
+  "LastModified": "2025-06-16T19:13:00.447Z"
 }
