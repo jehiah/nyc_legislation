@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/6/21706_A_Committee_on_Contracts_25-06-23_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/6/21706_M_Committee_on_Contracts_25-06-23_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_250623-130242.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21706&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,42 +20,151 @@
       "GUID": "4044CF2B-7C8A-44A3-B7A7-B2C16C73A7BE",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the establishment of standards and procedures to determine the existence of conflicts of interest and other misconduct concerning city contracts",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 73038,
       "MatterFile": "Int 0479-2024",
       "MatterName": "Establishment of standards and procedures to determine the existence of conflicts of interest and other misconduct concerning city contracts.",
       "MatterType": "Introduction",
-      "LastModified": "2025-06-13T19:37:37.88Z"
+      "LastModified": "2025-06-23T17:13:44.05Z"
     },
     {
       "ID": 422142,
       "GUID": "5AD0345D-228A-4A0B-B037-28108FD0EECD",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to a public procurement database",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 73042,
       "MatterFile": "Int 0482-2024",
       "MatterName": "Public procurement database.",
       "MatterType": "Introduction",
-      "LastModified": "2025-06-13T19:33:24.947Z"
+      "LastModified": "2025-06-23T17:14:07.43Z"
     },
     {
       "ID": 422143,
       "GUID": "ECEC27BF-8BBC-41AD-8822-266843989015",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to prohibiting city agencies from procuring single-use water containers",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 6,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 71491,
       "MatterFile": "Int 0741-2024",
       "MatterName": "Prohibiting city agencies from procuring single-use water containers.",
       "MatterType": "Introduction",
-      "LastModified": "2025-06-13T19:33:31.437Z"
+      "LastModified": "2025-06-23T17:14:16.903Z"
+    },
+    {
+      "ID": 422266,
+      "GUID": "D62FA9DD-7EBD-4781-991B-7696126BEBF1",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 20
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 30
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 50
+        }
+      ],
+      "LastModified": "2025-06-23T17:36:28.333Z"
+    },
+    {
+      "ID": 422267,
+      "GUID": "E17C08DA-DB04-4D0E-99F7-9A618EF49461",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the establishment of standards and procedures to determine the existence of conflicts of interest and other misconduct concerning city contracts",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 73038,
+      "MatterFile": "Int 0479-2024",
+      "MatterName": "Establishment of standards and procedures to determine the existence of conflicts of interest and other misconduct concerning city contracts.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-06-23T17:14:03.893Z"
+    },
+    {
+      "ID": 422268,
+      "GUID": "87390522-1C38-4E9D-A39D-AE590B17F9E7",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to a public procurement database",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 73042,
+      "MatterFile": "Int 0482-2024",
+      "MatterName": "Public procurement database.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-06-23T17:14:13.247Z"
+    },
+    {
+      "ID": 422269,
+      "GUID": "9D6EF151-972E-478B-A308-9654D35966F5",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to prohibiting city agencies from procuring single-use water containers",
+      "AgendaSequence": 0,
+      "MinutesSequence": 7,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 71491,
+      "MatterFile": "Int 0741-2024",
+      "MatterName": "Prohibiting city agencies from procuring single-use water containers.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-06-23T17:14:23.783Z"
     }
   ],
   "AgendaLastPublished": "2025-06-13T19:36:15.477Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-06-13T19:36:15.603Z"
+  "MinutesLastPublished": "2025-06-23T17:36:34.42Z",
+  "LastModified": "2025-06-23T17:36:34.593Z"
 }
