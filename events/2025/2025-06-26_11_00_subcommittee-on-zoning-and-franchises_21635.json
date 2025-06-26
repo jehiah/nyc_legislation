@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/6/21635_A_Subcommittee_on_Zoning_and_Franchises_25-06-26_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/6/21635_M_Subcommittee_on_Zoning_and_Franchises_25-06-26_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_250626-115234.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21635&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -174,7 +175,66 @@
       "AgendaSequence": 0,
       "MinutesSequence": 1,
       "Version": "",
-      "LastModified": "2025-06-26T16:54:22.233Z"
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 65,
+          "Value": "Bereavement",
+          "Sort": 40
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2025-06-26T18:29:54.88Z"
     },
     {
       "ID": 422392,
@@ -183,12 +243,17 @@
       "AgendaSequence": 0,
       "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 5048,
+      "ActionName": "Approved by Subcommittee with Modifications and Referred to CPC",
+      "ActionText": "A motion was made that this Land Use Application be Approved by Subcommittee with Modifications and Referred to CPC approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 75883,
       "MatterFile": "LU 0294-2025",
       "MatterName": "Zoning, One45 For Harlem, Manhattan (C 250115 ZMM).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Reported from Committee",
-      "LastModified": "2025-06-26T16:53:50.677Z"
+      "LastModified": "2025-06-26T18:19:31.32Z"
     },
     {
       "ID": 422393,
@@ -197,12 +262,17 @@
       "AgendaSequence": 0,
       "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 5048,
+      "ActionName": "Approved by Subcommittee with Modifications and Referred to CPC",
+      "ActionText": "A motion was made that this Land Use Application be Approved by Subcommittee with Modifications and Referred to CPC approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 75884,
       "MatterFile": "LU 0295-2025",
       "MatterName": "Zoning, One45 for Harlem, Manhattan (N 250116 ZRM).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Reported from Committee",
-      "LastModified": "2025-06-26T16:53:53.923Z"
+      "LastModified": "2025-06-26T18:19:38.563Z"
     },
     {
       "ID": 422394,
@@ -211,12 +281,17 @@
       "AgendaSequence": 0,
       "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 5048,
+      "ActionName": "Approved by Subcommittee with Modifications and Referred to CPC",
+      "ActionText": "A motion was made that this Land Use Application be Approved by Subcommittee with Modifications and Referred to CPC approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 75929,
       "MatterFile": "LU 0296-2025",
       "MatterName": "Zoning, One45 for Harlem, Manhattan (C 250117 ZSM).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Reported from Committee",
-      "LastModified": "2025-06-26T16:53:59.137Z"
+      "LastModified": "2025-06-26T18:19:47.43Z"
     },
     {
       "ID": 422395,
@@ -225,12 +300,17 @@
       "AgendaSequence": 0,
       "MinutesSequence": 9,
       "Version": "*",
+      "ActionID": 79,
+      "ActionName": "Approved by Subcommittee",
+      "ActionText": "A motion was made that this Land Use Application be Approved by Subcommittee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 75930,
       "MatterFile": "LU 0297-2025",
       "MatterName": "Zoning, The Coney Development, Brooklyn (C 250108 MMK).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Companion Pending Approval by Council",
-      "LastModified": "2025-06-26T16:54:02.933Z"
+      "LastModified": "2025-06-26T18:20:35.897Z"
     },
     {
       "ID": 422396,
@@ -239,12 +319,17 @@
       "AgendaSequence": 0,
       "MinutesSequence": 11,
       "Version": "*",
+      "ActionID": 5048,
+      "ActionName": "Approved by Subcommittee with Modifications and Referred to CPC",
+      "ActionText": "A motion was made that this Land Use Application be Approved by Subcommittee with Modifications and Referred to CPC approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 75931,
       "MatterFile": "LU 0298-2025",
       "MatterName": "Zoning, North 7th Street Rezoning, Brooklyn (C 230064 ZMK).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Reported from Committee",
-      "LastModified": "2025-06-26T16:54:06.053Z"
+      "LastModified": "2025-06-26T18:20:44.31Z"
     },
     {
       "ID": 422397,
@@ -253,12 +338,17 @@
       "AgendaSequence": 0,
       "MinutesSequence": 13,
       "Version": "*",
+      "ActionID": 5048,
+      "ActionName": "Approved by Subcommittee with Modifications and Referred to CPC",
+      "ActionText": "A motion was made that this Land Use Application be Approved by Subcommittee with Modifications and Referred to CPC approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 75932,
       "MatterFile": "LU 0299-2025",
       "MatterName": "Zoning, North 7th Street Rezoning, Brooklyn (N 230065 ZRK).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Reported from Committee",
-      "LastModified": "2025-06-26T16:54:09.04Z"
+      "LastModified": "2025-06-26T18:20:55.627Z"
     },
     {
       "ID": 422398,
@@ -267,12 +357,17 @@
       "AgendaSequence": 0,
       "MinutesSequence": 15,
       "Version": "*",
+      "ActionID": 5048,
+      "ActionName": "Approved by Subcommittee with Modifications and Referred to CPC",
+      "ActionText": "A motion was made that this Land Use Application be Approved by Subcommittee with Modifications and Referred to CPC approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 75933,
       "MatterFile": "LU 0300-2025",
       "MatterName": "Zoning, 109 Marcus Garvey Boulevard LSGD, Brooklyn (C 240399 ZMK)",
       "MatterType": "Land Use Application",
       "MatterStatus": "Reported from Committee",
-      "LastModified": "2025-06-26T16:55:09.197Z"
+      "LastModified": "2025-06-26T18:21:04.117Z"
     },
     {
       "ID": 422399,
@@ -281,12 +376,17 @@
       "AgendaSequence": 0,
       "MinutesSequence": 17,
       "Version": "*",
+      "ActionID": 5048,
+      "ActionName": "Approved by Subcommittee with Modifications and Referred to CPC",
+      "ActionText": "A motion was made that this Land Use Application be Approved by Subcommittee with Modifications and Referred to CPC approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 75934,
       "MatterFile": "LU 0301-2025",
       "MatterName": "Zoning, 109 Marcus Garvey Boulevard LSGD, Brooklyn (N 240398 ZRK).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Reported from Committee",
-      "LastModified": "2025-06-26T16:54:58.52Z"
+      "LastModified": "2025-06-26T18:21:12.673Z"
     },
     {
       "ID": 422400,
@@ -295,15 +395,20 @@
       "AgendaSequence": 0,
       "MinutesSequence": 19,
       "Version": "*",
+      "ActionID": 5048,
+      "ActionName": "Approved by Subcommittee with Modifications and Referred to CPC",
+      "ActionText": "A motion was made that this Land Use Application be Approved by Subcommittee with Modifications and Referred to CPC approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 75935,
       "MatterFile": "LU 0302-2025",
       "MatterName": "Zoning, 109 Marcus Garvey Boulevard LSGD, Brooklyn (C 240400 ZSK).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Reported from Committee",
-      "LastModified": "2025-06-26T16:54:20.51Z"
+      "LastModified": "2025-06-26T18:30:48.533Z"
     }
   ],
   "AgendaLastPublished": "2025-06-25T19:40:12.963Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-06-26T16:09:38.953Z"
+  "MinutesLastPublished": "2025-06-26T18:30:54.76Z",
+  "LastModified": "2025-06-26T18:30:54.793Z"
 }

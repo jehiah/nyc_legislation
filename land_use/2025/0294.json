@@ -8,8 +8,8 @@
   "TypeName": "Land Use Application",
   "StatusID": 24,
   "StatusName": "Reported from Committee",
-  "BodyID": 34,
-  "BodyName": "Subcommittee on Zoning and Franchises",
+  "BodyID": 17,
+  "BodyName": "Committee on Land Use",
   "IntroDate": "2025-05-28T00:00:00Z",
   "AgendaDate": "2025-05-28T00:00:00Z",
   "PassedDate": "0001-01-01T00:00:00Z",
@@ -112,6 +112,86 @@
       "LastModified": "2025-06-26T16:54:27.263Z"
     },
     {
+      "ID": 422392,
+      "Date": "2025-06-26T11:00:00Z",
+      "ActionID": 5048,
+      "Action": "Approved by Subcommittee with Modifications and Referred to CPC",
+      "Description": "A motion was made that this Land Use Application be Approved by Subcommittee with Modifications and Referred to CPC approved by Roll Call.",
+      "BodyID": 34,
+      "BodyName": "Subcommittee on Zoning and Franchises",
+      "EventID": 21635,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterStatusID": 3,
+      "Votes": [
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 10
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 20
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 30
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "VoteID": 65,
+          "Vote": "Bereavement",
+          "Sort": 40
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 50
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 60
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2025-06-26T18:19:31.32Z"
+    },
+    {
       "ID": 422366,
       "Date": "2025-06-26T11:30:00Z",
       "ActionID": 54,
@@ -163,8 +243,8 @@
           "ID": 7796,
           "Slug": "selvena-n-brooks-powers",
           "FullName": "Selvena N. Brooks-Powers",
-          "VoteID": 65,
-          "Vote": "Bereavement",
+          "VoteID": 16,
+          "Vote": "Absent",
           "Sort": 40
         },
         {
@@ -180,8 +260,8 @@
           "ID": 7832,
           "Slug": "kamillah-hanks",
           "FullName": "Kamillah Hanks",
-          "VoteID": 16,
-          "Vote": "Absent",
+          "VoteID": 65,
+          "Vote": "Bereavement",
           "Sort": 60
         },
         {
@@ -230,13 +310,13 @@
           "Sort": 110
         }
       ],
-      "LastModified": "2025-06-26T17:00:53.417Z"
+      "LastModified": "2025-06-26T18:31:26.98Z"
     }
   ],
   "Attachments": [
     {
       "ID": 319558,
-      "LastModified": "2025-06-25T22:15:19.517Z",
+      "LastModified": "2025-06-26T21:39:56.513Z",
       "Name": "Calendar of the Zoning Subcommittee Meeting - May 20, 2025",
       "Link": "https://nyc.legistar1.com/nyc/attachments/e56b80c5-603e-4b5c-aaa3-e491eb428f86.pdf",
       "Sort": 1
@@ -275,9 +355,30 @@
       "Name": "Calendar of the Subcommittee Meetings and Land Use Meeting - June 26, 2025",
       "Link": "https://nyc.legistar1.com/nyc/attachments/827b854d-09c6-45dc-8849-ea861b493784.pdf",
       "Sort": 7
+    },
+    {
+      "ID": 322236,
+      "LastModified": "2025-06-26T21:40:16.84Z",
+      "Name": "DECLARATION OF LARGE-SCALE GENERAL DEVELOPMENT",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/23be1b3a-c039-47df-b08f-7c226da4e5cc.docx",
+      "Sort": 8
+    },
+    {
+      "ID": 322233,
+      "LastModified": "2025-06-26T21:40:00.96Z",
+      "Name": "Committee Report",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/6e9cfb42-0176-4807-87b7-8166a7a00a06.docx",
+      "Sort": 9
+    },
+    {
+      "ID": 322237,
+      "LastModified": "2025-06-26T21:39:59.113Z",
+      "Name": "Res. No.",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/954d834a-1830-4fe1-8661-252d5e1236ce.docx",
+      "Sort": 10
     }
   ],
   "Summary": "",
   "TextID": 79677,
-  "LastModified": "2025-06-26T17:00:53.053Z"
+  "LastModified": "2025-06-26T21:40:16.84Z"
 }
