@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/6/21720_A_Committee_on_Immigration_25-06-30_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/6/21720_M_Committee_on_Immigration_25-06-30_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_250630-095841.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21720&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,31 +21,183 @@
       "GUID": "00476436-0133-478F-8C41-C8250DE39BBD",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring a notice on advertisements of immigration assistance services and increasing penalties for violations of requirements that apply to immigration assistance services",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 980-A",
       "MinutesNote": "Proposed Int. No. 980-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 74420,
       "MatterFile": "Int 0980-2024",
       "MatterName": "Requiring a notice on advertisements of immigration assistance services and increasing penalties for violations of requirements that apply to immigration assistance services.",
       "MatterType": "Introduction",
-      "LastModified": "2025-06-24T20:52:23.157Z"
+      "LastModified": "2025-06-30T14:11:43.467Z"
     },
     {
       "ID": 422292,
       "GUID": "642AD485-9926-4DCC-86BF-6BEC0E42501B",
       "Title": "Resolution condemning the Trump Administration for disappearing immigrants to prisons in other countries.",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 75900,
       "MatterFile": "Res 0931-2025",
       "MatterName": "Condemning the Trump Administration for disappearing immigrants to prisons in other countries.",
       "MatterType": "Resolution",
-      "LastModified": "2025-06-25T17:09:40.97Z"
+      "LastModified": "2025-06-30T14:12:04.657Z"
+    },
+    {
+      "ID": 422751,
+      "GUID": "6FD8B176-2CC8-45CE-9277-C2AD9E13D497",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2025-06-30T14:31:43.417Z"
+    },
+    {
+      "ID": 422752,
+      "GUID": "71B14F30-2172-4983-AD07-007AEFFC9E8B",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring a notice on advertisements of immigration assistance services and increasing penalties for violations of requirements that apply to immigration assistance services",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 74420,
+      "MatterFile": "Int 0980-2024",
+      "MatterName": "Requiring a notice on advertisements of immigration assistance services and increasing penalties for violations of requirements that apply to immigration assistance services.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-06-30T14:11:47.13Z"
+    },
+    {
+      "ID": 422753,
+      "GUID": "B867C058-FA7A-4AF0-A2B0-18FAE0B045DF",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring a notice on advertisements of immigration assistance services and increasing penalties for violations of requirements that apply to immigration assistance services",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 74420,
+      "MatterFile": "Int 0980-2024",
+      "MatterName": "Requiring a notice on advertisements of immigration assistance services and increasing penalties for violations of requirements that apply to immigration assistance services.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-06-30T14:11:51.407Z"
+    },
+    {
+      "ID": 422754,
+      "GUID": "F4CB71C7-C764-4D6F-950A-3268AA71378F",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring a notice on advertisements of immigration assistance services and increasing penalties for violations of requirements that apply to immigration assistance services",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 74420,
+      "MatterFile": "Int 0980-2024",
+      "MatterName": "Requiring a notice on advertisements of immigration assistance services and increasing penalties for violations of requirements that apply to immigration assistance services.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-06-30T14:11:59.217Z"
+    },
+    {
+      "ID": 422755,
+      "GUID": "5E493D18-7A12-4BD3-A9CC-44ED8D4F9E93",
+      "Title": "Resolution condemning the Trump Administration for disappearing immigrants to prisons in other countries.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Resolution be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 75900,
+      "MatterFile": "Res 0931-2025",
+      "MatterName": "Condemning the Trump Administration for disappearing immigrants to prisons in other countries.",
+      "MatterType": "Resolution",
+      "LastModified": "2025-06-30T14:31:43.517Z"
+    },
+    {
+      "ID": 422759,
+      "GUID": "A2054D63-C202-4B28-B7A3-498BED5C3809",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Nurse",
+      "LastModified": "2025-06-30T14:32:02.207Z"
     }
   ],
-  "AgendaLastPublished": "2025-06-25T17:39:18.953Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-06-25T17:39:19.137Z"
+  "AgendaLastPublished": "2025-06-30T14:20:57.057Z",
+  "MinutesLastPublished": "2025-06-30T14:32:06.993Z",
+  "LastModified": "2025-06-30T14:32:07.007Z"
 }

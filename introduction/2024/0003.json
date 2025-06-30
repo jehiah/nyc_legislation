@@ -6,8 +6,8 @@
   "Title": "A Local Law to amend the administrative code of the city of New York, in relation to removal of derelict vehicles",
   "TypeID": 2,
   "TypeName": "Introduction",
-  "StatusID": 25,
-  "StatusName": "Laid Over in Committee",
+  "StatusID": 24,
+  "StatusName": "Reported from Committee",
   "BodyID": 5108,
   "BodyName": "Committee on Sanitation and Solid Waste Management",
   "IntroDate": "2024-02-08T00:00:00Z",
@@ -117,6 +117,11 @@
       "FullName": "Mercedes Narcisse"
     },
     {
+      "ID": 7864,
+      "Slug": "chris-banks",
+      "FullName": "Chris Banks"
+    },
+    {
       "ID": 7813,
       "Slug": "tiffany-caban",
       "FullName": "Tiffany Cabán"
@@ -130,6 +135,11 @@
       "ID": 7811,
       "Slug": "vickie-paladino",
       "FullName": "Vickie Paladino"
+    },
+    {
+      "ID": 7887,
+      "Slug": "frank-morano",
+      "FullName": "Frank Morano"
     }
   ],
   "History": [
@@ -190,12 +200,171 @@
       "Version": "*",
       "MatterStatusID": 25,
       "LastModified": "2024-05-01T17:05:31.04Z"
+    },
+    {
+      "ID": 422288,
+      "Date": "2025-06-30T11:00:00Z",
+      "ActionID": 54,
+      "Action": "Hearing Held by Committee",
+      "Description": "This Introduction was Hearing Held by Committee",
+      "BodyID": 5108,
+      "BodyName": "Committee on Sanitation and Solid Waste Management",
+      "EventID": 21722,
+      "AgendaSequence": 1,
+      "MinutesSequence": 2,
+      "Version": "*",
+      "AgendaNote": "Proposed Int. No. 3-A",
+      "MinutesNote": "Proposed Int. No. 3-A",
+      "MatterStatusID": 3,
+      "LastModified": "2025-06-30T14:34:42.82Z"
+    },
+    {
+      "ID": 422770,
+      "Date": "2025-06-30T11:00:00Z",
+      "ActionID": 5001,
+      "Action": "Amendment Proposed by Comm",
+      "Description": "This Introduction was Amendment Proposed by Comm",
+      "BodyID": 5108,
+      "BodyName": "Committee on Sanitation and Solid Waste Management",
+      "EventID": 21722,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2025-06-30T14:34:46.39Z"
+    },
+    {
+      "ID": 422771,
+      "Date": "2025-06-30T11:00:00Z",
+      "ActionID": 33,
+      "Action": "Amended by Committee",
+      "Description": "This Introduction was Amended by Committee",
+      "BodyID": 5108,
+      "BodyName": "Committee on Sanitation and Solid Waste Management",
+      "EventID": 21722,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2025-06-30T15:30:00.51Z"
+    },
+    {
+      "ID": 422772,
+      "Date": "2025-06-30T11:00:00Z",
+      "ActionID": 32,
+      "Action": "Approved by Committee",
+      "Description": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "BodyID": 5108,
+      "BodyName": "Committee on Sanitation and Solid Waste Management",
+      "EventID": 21722,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterStatusID": 24,
+      "Votes": [
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 10
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 20
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 30
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 50
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 60
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 70
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 80
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 90
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 100
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "VoteID": 46,
+          "Vote": "Medical",
+          "Sort": 120
+        }
+      ],
+      "LastModified": "2025-06-30T15:32:27.8Z"
     }
   ],
   "Attachments": [
     {
       "ID": 322020,
-      "LastModified": "2025-06-29T19:25:20.453Z",
+      "LastModified": "2025-06-30T15:46:09.063Z",
       "Name": "Summary of Int. No. 3-A",
       "Link": "https://nyc.legistar1.com/nyc/attachments/c0c632ab-8fed-4956-aba9-831a1daec756.docx",
       "Sort": 1
@@ -258,29 +427,43 @@
     },
     {
       "ID": 322021,
-      "LastModified": "2025-06-26T15:00:36.153Z",
-      "Name": "Proposed Int. No. 3 - 6/24/25",
+      "LastModified": "2025-06-30T15:46:51.733Z",
+      "Name": "Proposed Int. No. 3A - 6/24/25",
       "Link": "https://nyc.legistar1.com/nyc/attachments/99f345f1-8c64-48c1-a37d-5b9445ab4b5f.docx",
       "Sort": 20
     },
     {
       "ID": 322401,
-      "LastModified": "2025-06-29T17:42:37.493Z",
-      "Name": "Fiscal Impact Statement - City Council",
+      "LastModified": "2025-06-30T15:46:49.247Z",
+      "Name": "Int No. 3-A - Fiscal Impact Statement - City Council",
       "Link": "https://nyc.legistar1.com/nyc/attachments/740ef635-a150-4b3f-a3fb-a83fa40c8b1f.docx",
       "Sort": 21
     },
     {
       "ID": 322402,
-      "LastModified": "2025-06-29T17:43:16.297Z",
-      "Name": "Fiscal Impact Statement - OMB",
+      "LastModified": "2025-06-30T13:20:19.223Z",
+      "Name": "Int No. 3-A - Fiscal Impact Statement - OMB",
       "Link": "https://nyc.legistar1.com/nyc/attachments/d26a0fd3-0476-4110-80b1-6c7daec123ba.pdf",
       "Sort": 22
+    },
+    {
+      "ID": 322421,
+      "LastModified": "2025-06-30T13:19:38.86Z",
+      "Name": "Committee Report 6/30/25",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/4e119b83-a43d-40f4-a2e1-694c738d3625.docx",
+      "Sort": 23
+    },
+    {
+      "ID": 322501,
+      "LastModified": "2025-06-30T17:02:30.89Z",
+      "Name": "Committee Report - Stated Meeting",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/3ad36ef0-57b7-4a52-8b9f-b00dbb3cc401.docx",
+      "Sort": 24
     }
   ],
   "Summary": "This bill would specify that the Department of Sanitation (DSNY) is the agency responsible for the removal of any abandoned vehicle from a street, if such vehicle does not have license plates and has a wholesale value of $1250 or less.",
   "TextID": 79940,
   "Text": "Be it enacted by the Council as follows:\n      \n      \n      Section 1. Subdivisions b and c of section 16-128 of the administrative code of the city of New York are amended to read as follows:\n      b. Notwithstanding any other provision of this section, the department shall be responsible for the removal of any abandoned vehicle described by subdivision 2 of section 1224 of the vehicle and traffic law from any street. \n      c. The [board of estimate shall set forth, in such regulations, the procedures to be followed by the] commissioner shall adopt rules relating to:\n      1. [the] The leasing of yards for storage of property removed under the authority of this section;\n      2. [notification] Notification to the owner of the property removed, if such owner is ascertainable, that the property is being held by the commissioner;\n      3. [redemption] Redemption, by the owner, of the property removed;\n      4. [reimbursement] Reimbursement, by the owner, of the expenses of removal incurred by the commissioner;\n      5. [the] The sale, by the commissioner, of the property held by [him or her] the commissioner;\n      6. [the] The keeping of records and accounts, the transmission of such records to the comptroller, and the transmission of funds collected to the commissioner of finance; and\n      7. [such] Such other [regulations] rules as the [board of estimate] commissioner may deem necessary to carry out the provisions of this section.\n      [c. Such regulations shall not become effective until adopted by the board of estimate and filed, by the secretary of such board, with the city clerk, pursuant to section eleven hundred five of the charter.] \n      � 2. This local law takes effect 120 days after it becomes law.\n      \n\n\n\n\nSession 13\nMBB\nLS #8377\n6/18/25, 12:05pm\n\nSession 12\nNAW\nLS #8377\n3/30/23 4:24 PM\n      2\n      \n      \n      2",
   "RTF": "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang1033\\deflangfe1033{\\fonttbl{\\f0\\froman\\fprq2\\fcharset0 Times New Roman;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\n\\ul\\v0\\par\nBe it enacted by the Council as follows:\\ulnone\\par\n\\pard\\ltrpar\\fi720\\qj\\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qj Section 1. Subdivisions b and c of section 16-128 of the administrative code of the city of New York are amended \\cf1 to read as follows:\\cf0\\ul\\par\n\\ulnone b. \\ul Notwithstanding any other provision of this section, the department shall be responsible for the removal of any abandoned vehicle described by subdivision 2 of section 1224 of the vehicle and traffic law from any street.\\ulnone  \\par\n\\ul c.\\ulnone  The [board of estimate shall set forth, in such regulations, the procedures to be followed by the] commissioner \\ul shall adopt rules\\ulnone  relating to:\\par\n1. [the] \\ul The\\ulnone  leasing of yards for storage of property removed under the authority of this section;\\par\n2. [notification] \\ul Notification\\ulnone  to the owner of the property removed, if such owner is ascertainable, that the property is being held by the commissioner;\\par\n3. [redemption] \\ul Redemption\\ulnone , by the owner, of the property removed;\\par\n4. [reimbursement] \\ul Reimbursement\\ulnone , by the owner, of the expenses of removal incurred by the commissioner;\\par\n5. [the] \\ul The\\ulnone  sale, by the commissioner, of the property held by [him or her] \\ul the commissioner\\ulnone ;\\par\n6. [the] \\ul The\\ulnone  keeping of records and accounts, the transmission of such records to the comptroller, and the transmission of funds collected to the commissioner of finance; and\\par\n7. [such] \\ul Such\\ulnone  other [regulations] \\ul rules\\ulnone  as the [board of estimate] \\ul commissioner\\ulnone  may deem necessary to carry out the provisions of this section.\\par\n[c. Such regulations shall not become effective until adopted by the board of estimate and filed, by the secretary of such board, with the city clerk, pursuant to section eleven hundred five of the charter.] \\par\n\\'a7 2. This local law takes effect 120 days after it becomes law.\\par\n\\pard\\ltrpar\\qj\\fs18\\par\n\\par\n\\par\n\\par\n\\ul Session 13\\par\n\\ulnone MBB\\par\nLS #8377\\par\n6/18/25, 12:05pm\\par\n\\par\n\\ul Session 12\\par\n\\ulnone NAW\\par\nLS #8377\\par\n\\pard\\ltrpar\\noline\\nowidctlpar\\cf1 3/30/23 4:24 PM\\cf0\\par\n}\n",
-  "LastModified": "2025-06-29T19:25:20.457Z"
+  "LastModified": "2025-06-30T17:02:30.897Z"
 }

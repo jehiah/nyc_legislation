@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/6/21718_A_Committee_on_Women_and_Gender_Equity_25-06-30_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/6/21718_M_Committee_on_Women_and_Gender_Equity_25-06-30_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_250630-105708.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21718&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,16 +21,89 @@
       "GUID": "CE3B2B40-9AD8-413A-9E89-833815C0C30D",
       "Title": "Resolution calling upon the New York State Legislature to provide the necessary funds to ensure hospital and healthcare provider services for gender-affirming care remain accessible for all people in New York City",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 75550,
       "MatterFile": "Res 0817-2025",
       "MatterName": "Provide the necessary funds to ensure hospital and healthcare provider services for gender-affirming care remain accessible for all people in New York City.",
       "MatterType": "Resolution",
-      "LastModified": "2025-06-23T19:17:17.847Z"
+      "LastModified": "2025-06-30T14:34:06.443Z"
+    },
+    {
+      "ID": 422767,
+      "GUID": "6F79E58A-A28F-4E38-AF5A-829D4F81729D",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        }
+      ],
+      "LastModified": "2025-06-30T14:34:03.27Z"
+    },
+    {
+      "ID": 422768,
+      "GUID": "855E1667-D382-4EA4-BE00-2A4470F5DB36",
+      "Title": "Resolution calling upon the New York State Legislature to provide the necessary funds to ensure hospital and healthcare provider services for gender-affirming care remain accessible for all people in New York City",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Resolution be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 75550,
+      "MatterFile": "Res 0817-2025",
+      "MatterName": "Provide the necessary funds to ensure hospital and healthcare provider services for gender-affirming care remain accessible for all people in New York City.",
+      "MatterType": "Resolution",
+      "LastModified": "2025-06-30T15:22:37.69Z"
     }
   ],
-  "AgendaLastPublished": "2025-06-24T14:48:33.077Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-06-24T14:48:33.223Z"
+  "AgendaLastPublished": "2025-06-30T14:27:48.46Z",
+  "MinutesLastPublished": "2025-06-30T15:22:42.83Z",
+  "LastModified": "2025-06-30T15:22:43Z"
 }
