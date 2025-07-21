@@ -2,19 +2,19 @@
   "ID": 74046,
   "GUID": "7BE5AD50-87F1-4FFB-9D6E-7CACFA63B6B7",
   "File": "Int 0810-2024",
-  "Name": "NYCHA Package - The development of a public housing entrepreneurship and commercial popup program",
-  "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the development of a public housing entrepreneurship and commercial popup program",
+  "Name": "Feasibility study for the use on a temporary basis of vacant New York city housing authority commercial space by resident-owned businesses.",
+  "Title": "A Local Law to amend the administrative code of the city of New York, in relation to a feasibility study for the use on a temporary basis of vacant New York city housing authority commercial space by resident-owned businesses",
   "TypeID": 2,
   "TypeName": "Introduction",
-  "StatusID": 25,
-  "StatusName": "Laid Over in Committee",
+  "StatusID": 10,
+  "StatusName": "Enacted (Mayor's Desk for Signature)",
   "BodyID": 7,
   "BodyName": "Committee on Economic Development",
   "IntroDate": "2024-04-18T00:00:00Z",
   "AgendaDate": "2024-04-18T00:00:00Z",
   "PassedDate": "0001-01-01T00:00:00Z",
   "EnactmentDate": "0001-01-01T00:00:00Z",
-  "Version": "*",
+  "Version": "A",
   "Sponsors": [
     {
       "ID": 7810,
@@ -45,6 +45,21 @@
       "ID": 7826,
       "Slug": "shahana-k-hanif",
       "FullName": "Shahana K. Hanif"
+    },
+    {
+      "ID": 5259,
+      "Slug": "gale-a-brewer",
+      "FullName": "Gale A. Brewer"
+    },
+    {
+      "ID": 7821,
+      "Slug": "jennifer-gutierrez",
+      "FullName": "Jennifer Gutiérrez"
+    },
+    {
+      "ID": 7740,
+      "Slug": "carlina-rivera",
+      "FullName": "Carlina Rivera"
     }
   ],
   "History": [
@@ -105,69 +120,698 @@
       "Version": "*",
       "MatterStatusID": 25,
       "LastModified": "2024-06-13T19:57:56.973Z"
+    },
+    {
+      "ID": 422953,
+      "Date": "2025-07-14T12:00:00Z",
+      "ActionID": 54,
+      "Action": "Hearing Held by Committee",
+      "Description": "This Introduction was Hearing Held by Committee",
+      "BodyID": 7,
+      "BodyName": "Committee on Economic Development",
+      "EventID": 21754,
+      "AgendaSequence": 2,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "AgendaNote": "Proposed Int. No. 810-A",
+      "MinutesNote": "Proposed Int. No. 810-A",
+      "MatterStatusID": 3,
+      "LastModified": "2025-07-14T16:21:23.973Z"
+    },
+    {
+      "ID": 423282,
+      "Date": "2025-07-14T12:00:00Z",
+      "ActionID": 5001,
+      "Action": "Amendment Proposed by Comm",
+      "Description": "This Introduction was Amendment Proposed by Comm",
+      "BodyID": 7,
+      "BodyName": "Committee on Economic Development",
+      "EventID": 21754,
+      "MinutesSequence": 7,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2025-07-14T16:21:27.06Z"
+    },
+    {
+      "ID": 423283,
+      "Date": "2025-07-14T12:00:00Z",
+      "ActionID": 33,
+      "Action": "Amended by Committee",
+      "Description": "This Introduction was Amended by Committee",
+      "BodyID": 7,
+      "BodyName": "Committee on Economic Development",
+      "EventID": 21754,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2025-07-14T16:21:31.47Z"
+    },
+    {
+      "ID": 423284,
+      "Date": "2025-07-14T12:00:00Z",
+      "ActionID": 32,
+      "Action": "Approved by Committee",
+      "Description": "This Introduction was Approved by Committee",
+      "BodyID": 7,
+      "BodyName": "Committee on Economic Development",
+      "EventID": 21754,
+      "MinutesSequence": 9,
+      "Version": "A",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterStatusID": 24,
+      "Votes": [
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 10
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 20
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 30
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 40
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "VoteID": 46,
+          "Vote": "Medical",
+          "Sort": 50
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 60
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2025-07-14T16:27:28.277Z"
+    },
+    {
+      "ID": 423037,
+      "Date": "2025-07-14T15:00:00Z",
+      "ActionID": 68,
+      "Action": "Approved by Council",
+      "Description": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "BodyID": 1,
+      "BodyName": "City Council",
+      "EventID": 21762,
+      "AgendaSequence": 30,
+      "MinutesSequence": 34,
+      "Version": "A",
+      "AgendaNote": "Amended and Coupled on General Orders",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
+      "MatterStatusID": 10,
+      "Votes": [
+        {
+          "ID": 7739,
+          "Slug": "adrienne-e-adams",
+          "FullName": "Adrienne E. Adams",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 10
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 20
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 30
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 41
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 50
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 60
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 80
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 90
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 100
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 110
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 120
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 130
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 140
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 150
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 160
+        },
+        {
+          "ID": 5289,
+          "Slug": "simcha-felder",
+          "FullName": "Simcha Felder",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 165
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 170
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "VoteID": 46,
+          "Vote": "Medical",
+          "Sort": 180
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 190
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "VoteID": 46,
+          "Vote": "Medical",
+          "Sort": 200
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 210
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 220
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 230
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 240
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 250
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 260
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 270
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 280
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 290
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 300
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 310
+        },
+        {
+          "ID": 7887,
+          "Slug": "frank-morano",
+          "FullName": "Frank Morano",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 315
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "VoteID": 46,
+          "Vote": "Medical",
+          "Sort": 320
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 330
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 340
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 350
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 361
+        },
+        {
+          "ID": 7741,
+          "Slug": "keith-powers",
+          "FullName": "Keith Powers",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 370
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 380
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 390
+        },
+        {
+          "ID": 7740,
+          "Slug": "carlina-rivera",
+          "FullName": "Carlina Rivera",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 400
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 410
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 420
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 430
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 440
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 450
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 460
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 471
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 480
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 490
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 510
+        }
+      ],
+      "LastModified": "2025-07-15T14:19:48.343Z"
     }
   ],
   "Attachments": [
     {
-      "ID": 299824,
-      "LastModified": "2024-07-12T15:47:39.527Z",
-      "Name": "Summary of Int. No. 810",
-      "Link": "https://nyc.legistar1.com/nyc/attachments/9da9a347-52ed-4a64-8090-53ffe6c1c6f5.docx",
+      "ID": 322876,
+      "LastModified": "2025-07-14T16:26:07.75Z",
+      "Name": "Summary of Int. No. 810-A",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/298571a7-1edf-48e5-bd93-bc1d9111da3e.docx",
       "Sort": 1
     },
     {
+      "ID": 299824,
+      "LastModified": "2025-07-09T16:04:46.63Z",
+      "Name": "Summary of Int. No. 810",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/9da9a347-52ed-4a64-8090-53ffe6c1c6f5.docx",
+      "Sort": 2
+    },
+    {
       "ID": 299823,
-      "LastModified": "2024-06-21T15:07:46.353Z",
+      "LastModified": "2025-07-02T19:09:06.397Z",
       "Name": "Int. No. 810",
       "Link": "https://nyc.legistar1.com/nyc/attachments/3827e76d-8acb-47b5-97b6-6e9cf2248bd2.docx",
-      "Sort": 2
+      "Sort": 3
     },
     {
       "ID": 300510,
       "LastModified": "2024-04-18T18:59:32.863Z",
       "Name": "April 18, 2024 - Stated Meeting Agenda",
       "Link": "https://nyc.legistar1.com/nyc/attachments/6d538fe0-1d55-4a68-8635-148347a654c6.pdf",
-      "Sort": 3
+      "Sort": 4
     },
     {
       "ID": 301153,
       "LastModified": "2024-05-02T17:58:51.74Z",
       "Name": "Hearing Transcript - Stated Meeting  4-18-24",
       "Link": "https://nyc.legistar1.com/nyc/attachments/08ce6ac0-9ba5-44fb-b58a-abbfa78cb26b.pdf",
-      "Sort": 4
-    },
-    {
-      "ID": 303223,
-      "LastModified": "2024-06-13T18:15:27.463Z",
-      "Name": "Committee Report 6/13/24",
-      "Link": "https://nyc.legistar1.com/nyc/attachments/5fb8d15f-0825-4ace-82c6-c0755c6cfece.docx",
       "Sort": 5
     },
     {
-      "ID": 305311,
-      "LastModified": "2024-07-02T17:29:14.983Z",
-      "Name": "Hearing Testimony 6/13/24",
-      "Link": "https://nyc.legistar1.com/nyc/attachments/84476497-d9dc-4b21-bcaa-acbee2574d7f.pdf",
+      "ID": 309388,
+      "LastModified": "2025-07-09T16:14:20.083Z",
+      "Name": "Minutes of the Stated Meeting - April 18, 2024",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/a56fa045-0070-492b-bc14-2d01238754fb.pdf",
       "Sort": 6
     },
     {
-      "ID": 306216,
-      "LastModified": "2024-07-12T15:47:44.643Z",
-      "Name": "Hearing Transcript 6/13/24",
-      "Link": "https://nyc.legistar1.com/nyc/attachments/29f33685-18c5-4caa-8737-c329e88e157e.pdf",
+      "ID": 303223,
+      "LastModified": "2025-07-09T16:14:17.597Z",
+      "Name": "Committee Report 6/13/24",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/5fb8d15f-0825-4ace-82c6-c0755c6cfece.docx",
       "Sort": 7
     },
     {
-      "ID": 309388,
-      "LastModified": "2024-09-30T16:20:58.487Z",
-      "Name": "Minutes of the Stated Meeting - April 18, 2024",
-      "Link": "https://nyc.legistar1.com/nyc/attachments/a56fa045-0070-492b-bc14-2d01238754fb.pdf",
+      "ID": 305311,
+      "LastModified": "2025-07-09T16:14:17.26Z",
+      "Name": "Hearing Testimony 6/13/24",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/84476497-d9dc-4b21-bcaa-acbee2574d7f.pdf",
       "Sort": 8
+    },
+    {
+      "ID": 306216,
+      "LastModified": "2025-07-09T16:14:16.837Z",
+      "Name": "Hearing Transcript 6/13/24",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/29f33685-18c5-4caa-8737-c329e88e157e.pdf",
+      "Sort": 9
+    },
+    {
+      "ID": 322875,
+      "LastModified": "2025-07-14T15:36:29.197Z",
+      "Name": "Proposed Int. No. 810-A - 7/9/25",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/13d6d522-b98f-48c1-bed7-558c92c9c689.docx",
+      "Sort": 10
+    },
+    {
+      "ID": 323190,
+      "LastModified": "2025-07-14T15:08:17.12Z",
+      "Name": "Committee Report 7/14/25",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/a14100fa-61d2-4665-9d2c-1110b5bc81f5.docx",
+      "Sort": 11
+    },
+    {
+      "ID": 323170,
+      "LastModified": "2025-07-14T15:08:17.077Z",
+      "Name": "Int. No. 810-A - Fiscal Impact Statement - City Council",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/259dcbf2-2efc-47db-99fb-8dd29ceefba3.docx",
+      "Sort": 12
+    },
+    {
+      "ID": 323243,
+      "LastModified": "2025-07-14T22:01:37.677Z",
+      "Name": "July 14, 2025 - Stated Meeting Agenda",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/aa52aab9-89e6-4469-ac53-f6ba1466e627.pdf",
+      "Sort": 13
     }
   ],
-  "Summary": "This bill would alter the terms of the contract between the city and the New York City Economic Development Corporation (“EDC”) and require EDC to create a public housing entrepreneurship program to support public housing residents in growing their businesses. The bill would also require EDC to issue a report about the viability of using NYCHA-owned vacant property for commercial pop ups.",
-  "TextID": 77606,
-  "Text": "Be it enacted by the Council as follows:\n      \n      Section 1. Section 22-821 of the administrative code of the city of New York is amended by adding new definitions of \"public housing commercial pop up,\" \"public housing entrepreneurship program,\" and \"public housing vacant space\" in alphabetical order to read as follows:\n      Public housing commercial pop up. The term \"public housing commercial pop up\" means a business owned by one or more public housing residents that temporarily occupies public housing vacant space for the purpose of conducting a retail business.   \n      Public housing entrepreneurship program. The term \"public housing entrepreneurship program\" means a business incubator program supporting public housing residents start or grow their business through mentorship, access to resources, and financing opportunities.  \n      Public housing vacant space. The term \"public housing vacant space\" means unoccupied retail space owned by the New York city housing authority that could reasonably be used for a commercial pop up. \n      � 2. Subchapter 2 of chapter 8 of title 22 of the administrative code of the city of New York is amended by adding a new section 22-827 to read as follows:\n      � 22-827 Public housing entrepreneurship program. a. In each covered contract with a contracted entity executed on or after the effective date of this section, the commissioner shall require such contracted entity to create and maintain a public housing entrepreneurship program. Such contracted entity shall seek cooperation and assistance from the New York city housing authority in creating and maintaining such program.\n      b. Such contracted entity shall produce a report on the feasibility of using public housing vacant space to house public housing commercial pop ups. Such report shall also include recommendations on how the use of public housing vacant space for public housing commercial pop ups could be incorporated into the public housing entrepreneurship program. Such report shall be delivered to the mayor and speaker of the council and posted on the website of such contracted entity, or, if no such website is maintained, the commissioner shall post such report on the department's website, within one year after the enactment of this section. Such contracted entity shall seek cooperation and assistance from the New York city housing authority in producing such report.\n      � 3. This local law takes effect immediately.\nSession 13\nARP/JC\nLS # 12648\n4/4/24\n\nSession 12\nARP/JC\nLS # 12648\n4/25/23",
-  "RTF": "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang1033\\deflangfe1033{\\fonttbl{\\f0\\froman\\fprq2\\fcharset0 Times New Roman;}{\\f1\\fswiss\\fprq2\\fcharset0 Calibri;}}\n{\\colortbl ;\\red0\\green0\\blue0;\\red255\\green255\\blue255;}\n\\viewkind4\\uc1\n\\v0\\par\n\\pard\\cbpat2\\ltrpar\\noline\\ul Be it enacted by the Council as follows:\\ulnone\\par\n      \\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qj Section 1. Section 22-821 of the administrative code of the city of New York is amended by adding new definitions of \\ldblquote public housing commercial pop up,\\rdblquote  \\ldblquote public housing entrepreneurship program,\\rdblquote  and \\ldblquote public housing vacant space\\rdblquote  in alphabetical order to read as follows:\\par\n\\cf0\\ul Public housing commercial pop up. The term \\ldblquote public housing commercial pop up\\rdblquote  means a business owned by one or more public housing residents that temporarily occupies public housing vacant space for the purpose of conducting a retail business.   \\par\nPublic housing entrepreneurship program. The term \\ldblquote public housing entrepreneurship program\\rdblquote  means a business incubator program supporting public housing residents start or grow their business through mentorship, access to resources, and financing opportunities.  \\par\nPublic housing vacant space. The term \\ldblquote public housing vacant space\\rdblquote  means unoccupied retail space owned by the New York city housing authority that could reasonably be used for a commercial pop up. \\par\n\\ulnone\\'a7 2.\\cf1  Subchapter 2 of chapter 8 of title 22 of the administrative code of the city of New York is amended by adding a new section 22-827 to read as follows:\\par\n\\cf0\\ul\\'a7 22-827 Public housing entrepreneurship program. a. In each covered contract with a contracted entity executed on or after the effective date of this section, the commissioner shall require such contracted entity to create and maintain a public housing entrepreneurship program. Such contracted entity shall seek cooperation and assistance from the New York city housing authority in creating and maintaining such program.\\par\nb. Such contracted entity shall produce a report on the feasibility of using public housing vacant space to house public housing commercial pop ups. Such report shall also include recommendations on how the use of public housing vacant space for public housing commercial pop ups could be incorporated into the public housing entrepreneurship program. Such report shall be delivered to the mayor and speaker of the council and posted on the website of such contracted entity, or, if no such website is maintained, the commissioner shall post such report on the department\\rquote s website, within one year after the enactment of this section. Such contracted entity shall seek cooperation and assistance from the New York city housing authority in producing such report.\\par\n\\ulnone\\'a7 3. This local law takes effect immediately.\\par\n\\pard\\ltrpar\\noline\\ul\\fs20 Session 13\\ulnone\\par\nARP/JC\\par\nLS # 12648\\par\n4/4/24\\par\n\\ul\\par\nSession 12\\ulnone\\par\nARP/JC\\par\nLS # 12648\\par\n4/25/23\\par\n}\n",
-  "LastModified": "2024-09-30T16:20:58.487Z"
+  "Summary": "This bill would require the Mayor or a designated agency to conduct a feasibility study, in cooperation with the New York City Housing Authority (NYCHA), regarding the temporary use of vacant commercial space at NYCHA developments by businesses owned by public housing residents. The study would need to be completed by July 1, 2027, and examine factors including the availability of vacant commercial space, appropriate temporary occupancy periods, and potential liabilities for NYCHA and the City. The study would also need to include recommendations for implementing a program to use vacant NYCHA space for resident-owned businesses.",
+  "TextID": 80047,
+  "Text": "Be it enacted by the Council as follows:\n      \n      Section 1. Subchapter 1 of chapter 1 of title 3 of the administrative code of the city of New York is amended by adding a new section 3-119.12 to read as follows:\n      � 3-119.12 New York city housing authority vacant commercial space feasibility study. a. No later than July 1, 2027, the mayor or an agency or office designated by the mayor, with the cooperation of the New York city housing authority, shall submit to the speaker of the council and the mayor a feasibility study regarding the use on a temporary basis of vacant commercial space at New York city housing authority developments by businesses owned by an authorized public housing resident of such housing authority.\n      b. The feasibility study required by this section shall examine, among other factors, the availability of vacant commercial space or other appropriate spaces for use by businesses owned by a public housing resident; the appropriate temporary occupancy period of the commercial space; financial considerations, including appropriate rent payments for the use of such space; opportunities for coordination with the economic opportunities programs for residents of the New York city housing authority; and potential liability and indemnification requirements in connection with such use of space. \n      c. The feasibility study required by this section shall include recommendations for implementation of a program to effectuate the use of vacant commercial space or other appropriate space at New York city housing authority developments for use by businesses owned by an authorized public housing resident of such housing authority.\n      d. The mayor or the agency or office designated by the mayor pursuant to subdivision a of this section shall post the feasibility study required by this section on the website of the city or such agency or office.\n      � 2. This local law takes effect immediately.\nSession 13\nARP/JC\nLS # 12648\n6/17/25\n\nSession 12\nARP/JC\nLS # 12648\n4/25/23",
+  "RTF": "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang1033\\deflangfe1033{\\fonttbl{\\f0\\froman\\fprq2\\fcharset0 Times New Roman;}{\\f1\\fswiss\\fprq2\\fcharset0 Calibri;}}\n{\\colortbl ;\\red0\\green0\\blue0;\\red255\\green255\\blue255;}\n\\viewkind4\\uc1\n\\v0\\par\n\\pard\\cbpat2\\ltrpar\\noline\\ul Be it enacted by the Council as follows:\\ulnone\\par\n      \\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qj Section 1. Subchapter 1 of chapter 1 of title 3 of the administrative code of the city of New York is amended by adding a new section 3-119.12 to read as follows:\\par\n\\cf0\\ul\\'a7 3-119.12 New York city housing authority vacant commercial space feasibility study. a. No later than July 1, 2027, the mayor or an agency or office designated by the mayor, with the cooperation of the New York city housing authority, shall submit to the speaker of the council and the mayor a feasibility study regarding the use on a temporary basis of vacant commercial space at New York city housing authority developments by businesses owned by an authorized public housing resident of such housing authority.\\par\nb. The feasibility study required by this section shall examine, among other factors, the availability of vacant commercial space or other appropriate spaces for use by businesses owned by a public housing resident; the appropriate temporary occupancy period of the commercial space; financial considerations, including appropriate rent payments for the use of such space; opportunities for coordination with the economic opportunities programs for residents of the New York city housing authority; and potential liability and indemnification requirements in connection with such use of space. \\par\nc. The feasibility study required by this section shall include recommendations for implementation of a program to effectuate the use of vacant commercial space or other appropriate space at New York city housing authority developments for use by businesses owned by an authorized public housing resident of such housing authority.\\par\nd. The mayor or the agency or office designated by the mayor pursuant to subdivision a of this section shall post the feasibility study required by this section on the website of the city or such agency or office.\\par\n\\ulnone\\'a7 2. This local law takes effect immediately.\\par\n\\pard\\ltrpar\\noline\\ul\\fs20 Session 13\\ulnone\\par\nARP/JC\\par\nLS # 12648\\par\n6/17/25\\par\n\\ul\\par\nSession 12\\ulnone\\par\nARP/JC\\par\nLS # 12648\\par\n4/25/23\\par\n}\n",
+  "LastModified": "2025-07-15T12:19:56.37Z"
 }

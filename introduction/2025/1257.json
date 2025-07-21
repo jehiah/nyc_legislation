@@ -2,19 +2,19 @@
   "ID": 75283,
   "GUID": "4A701437-6CCB-4A26-9D9A-100914CE2789",
   "File": "Int 1257-2025",
-  "Name": "Requiring the cabinet for older New Yorkers to study and report on the provision of agency services to older adults with certain neurological and mental health conditions.",
-  "Title": "A Local Law in relation to requiring the cabinet for older New Yorkers to study and report on the provision of agency services to older adults with certain neurological and mental health conditions",
+  "Name": "Study and report on the provision of agency services to older adults with certain neurological and mental health conditions.",
+  "Title": "A Local Law in relation to a study and report on the provision of agency services to older adults with certain neurological and mental health conditions",
   "TypeID": 2,
   "TypeName": "Introduction",
-  "StatusID": 25,
-  "StatusName": "Laid Over in Committee",
+  "StatusID": 10,
+  "StatusName": "Enacted (Mayor's Desk for Signature)",
   "BodyID": 3,
   "BodyName": "Committee on Aging",
   "IntroDate": "2025-04-24T00:00:00Z",
   "AgendaDate": "2025-04-24T00:00:00Z",
   "PassedDate": "0001-01-01T00:00:00Z",
   "EnactmentDate": "0001-01-01T00:00:00Z",
-  "Version": "*",
+  "Version": "A",
   "Sponsors": [
     {
       "ID": 7822,
@@ -55,6 +55,26 @@
       "ID": 7818,
       "Slug": "lynn-c-schulman",
       "FullName": "Lynn C. Schulman"
+    },
+    {
+      "ID": 7799,
+      "Slug": "eric-dinowitz",
+      "FullName": "Eric Dinowitz"
+    },
+    {
+      "ID": 7740,
+      "Slug": "carlina-rivera",
+      "FullName": "Carlina Rivera"
+    },
+    {
+      "ID": 7802,
+      "Slug": "erik-d-bottcher",
+      "FullName": "Erik D. Bottcher"
+    },
+    {
+      "ID": 7867,
+      "Slug": "susan-zhuang",
+      "FullName": "Susan Zhuang"
     }
   ],
   "History": [
@@ -144,69 +164,720 @@
       "Version": "*",
       "MatterStatusID": 25,
       "LastModified": "2025-06-09T20:32:18.683Z"
+    },
+    {
+      "ID": 422973,
+      "Date": "2025-07-14T09:00:00Z",
+      "ActionID": 54,
+      "Action": "Hearing Held by Committee",
+      "Description": "This Introduction was Hearing Held by Committee",
+      "BodyID": 3,
+      "BodyName": "Committee on Aging",
+      "EventID": 21759,
+      "AgendaSequence": 1,
+      "MinutesSequence": 2,
+      "Version": "*",
+      "AgendaNote": "Proposed Int. No. 1257-A",
+      "MatterStatusID": 3,
+      "LastModified": "2025-07-14T14:09:58.527Z"
+    },
+    {
+      "ID": 423231,
+      "Date": "2025-07-14T09:00:00Z",
+      "ActionID": 5001,
+      "Action": "Amendment Proposed by Comm",
+      "Description": "This Introduction was Amendment Proposed by Comm",
+      "BodyID": 3,
+      "BodyName": "Committee on Aging",
+      "EventID": 21759,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2025-07-14T14:10:01.997Z"
+    },
+    {
+      "ID": 423232,
+      "Date": "2025-07-14T09:00:00Z",
+      "ActionID": 33,
+      "Action": "Amended by Committee",
+      "Description": "This Introduction was Amended by Committee",
+      "BodyID": 3,
+      "BodyName": "Committee on Aging",
+      "EventID": 21759,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2025-07-14T14:10:05.667Z"
+    },
+    {
+      "ID": 423233,
+      "Date": "2025-07-14T09:00:00Z",
+      "ActionID": 32,
+      "Action": "Approved by Committee",
+      "Description": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "BodyID": 3,
+      "BodyName": "Committee on Aging",
+      "EventID": 21759,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterStatusID": 24,
+      "Votes": [
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 10
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 20
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 30
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "VoteID": 46,
+          "Vote": "Medical",
+          "Sort": 40
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 50
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 60
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2025-07-14T14:10:17.23Z"
+    },
+    {
+      "ID": 423018,
+      "Date": "2025-07-14T15:00:00Z",
+      "ActionID": 68,
+      "Action": "Approved by Council",
+      "Description": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "BodyID": 1,
+      "BodyName": "City Council",
+      "EventID": 21762,
+      "AgendaSequence": 14,
+      "MinutesSequence": 18,
+      "Version": "A",
+      "AgendaNote": "Amended and Coupled on General Orders",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
+      "MatterStatusID": 10,
+      "Votes": [
+        {
+          "ID": 7739,
+          "Slug": "adrienne-e-adams",
+          "FullName": "Adrienne E. Adams",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 10
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 20
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 30
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 41
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 50
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 60
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 80
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 90
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 100
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 110
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 120
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 130
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 140
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 150
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 160
+        },
+        {
+          "ID": 5289,
+          "Slug": "simcha-felder",
+          "FullName": "Simcha Felder",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 165
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 170
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "VoteID": 46,
+          "Vote": "Medical",
+          "Sort": 180
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 190
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "VoteID": 46,
+          "Vote": "Medical",
+          "Sort": 200
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 210
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 220
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 230
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 240
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 250
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 260
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 270
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 280
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 290
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 300
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 310
+        },
+        {
+          "ID": 7887,
+          "Slug": "frank-morano",
+          "FullName": "Frank Morano",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 315
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "VoteID": 46,
+          "Vote": "Medical",
+          "Sort": 320
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 330
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 340
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 350
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 361
+        },
+        {
+          "ID": 7741,
+          "Slug": "keith-powers",
+          "FullName": "Keith Powers",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 370
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 380
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 390
+        },
+        {
+          "ID": 7740,
+          "Slug": "carlina-rivera",
+          "FullName": "Carlina Rivera",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 400
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 410
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 420
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 430
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 440
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 450
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 460
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 471
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 480
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 490
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 510
+        }
+      ],
+      "LastModified": "2025-07-15T12:19:56.33Z"
     }
   ],
   "Attachments": [
     {
+      "ID": 322690,
+      "LastModified": "2025-07-15T01:30:07.163Z",
+      "Name": "Summary of Int. No. 1257-A",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/06c4e703-2b2c-413c-8a8c-3cf6f317cd76.docx",
+      "Sort": 1
+    },
+    {
       "ID": 317594,
-      "LastModified": "2025-06-16T13:52:42.163Z",
+      "LastModified": "2025-07-11T19:38:24.63Z",
       "Name": "Summary of Int. No. 1257",
       "Link": "https://nyc.legistar1.com/nyc/attachments/bf97b8e2-4c5e-4bcc-8066-07e65754e693.docx",
-      "Sort": 1
+      "Sort": 2
     },
     {
       "ID": 317593,
       "LastModified": "2025-06-10T19:42:14.07Z",
       "Name": "Int. No. 1257",
       "Link": "https://nyc.legistar1.com/nyc/attachments/3deac842-b9ee-446a-8b01-89307c05ff7f.docx",
-      "Sort": 2
+      "Sort": 3
     },
     {
       "ID": 318484,
       "LastModified": "2025-04-24T17:44:41.18Z",
       "Name": "April 24, 2025 - Stated Meeting Agenda",
       "Link": "https://nyc.legistar1.com/nyc/attachments/b0f68e17-1e92-4318-b111-6d7296a12539.pdf",
-      "Sort": 3
+      "Sort": 4
     },
     {
       "ID": 319519,
       "LastModified": "2025-05-16T15:32:26.427Z",
       "Name": "Hearing Transcript - Stated Meeting  4-24-25",
       "Link": "https://nyc.legistar1.com/nyc/attachments/ecbdaf5a-fd9d-4b57-925f-bba40e60edcd.pdf",
-      "Sort": 4
+      "Sort": 5
     },
     {
       "ID": 320808,
-      "LastModified": "2025-06-06T19:52:51.78Z",
+      "LastModified": "2025-07-15T01:30:10.813Z",
       "Name": "Committee Report 6/9/25",
       "Link": "https://nyc.legistar1.com/nyc/attachments/cf137db2-2193-46be-98ea-f000e29273b6.docx",
-      "Sort": 6
-    },
-    {
-      "ID": 320822,
-      "LastModified": "2025-06-09T13:51:29.513Z",
-      "Name": "Fiscal Impact Statement - City Council",
-      "Link": "https://nyc.legistar1.com/nyc/attachments/8075f507-2fb5-4b4f-92a6-83f1eedfb0a3.docx",
       "Sort": 7
     },
     {
-      "ID": 320823,
-      "LastModified": "2025-06-09T13:51:29.48Z",
-      "Name": "Fiscal Impact Statement - OMB",
-      "Link": "https://nyc.legistar1.com/nyc/attachments/d2af0877-91f4-436c-8c94-d1e003ba9d03.pdf",
+      "ID": 321630,
+      "LastModified": "2025-07-07T13:30:59.957Z",
+      "Name": "Hearing Testimony 6/9/25",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/d4729cc0-6ea2-4e5a-870a-902a79bc137d.pdf",
       "Sort": 8
     },
     {
-      "ID": 321630,
-      "LastModified": "2025-06-16T13:52:49.643Z",
-      "Name": "Hearing Testimony 6/9/25",
-      "Link": "https://nyc.legistar1.com/nyc/attachments/d4729cc0-6ea2-4e5a-870a-902a79bc137d.pdf",
+      "ID": 323178,
+      "LastModified": "2025-07-14T14:00:02.803Z",
+      "Name": "Hearing Transcript 6/9/25",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/204bdc9e-1dd1-4fbe-8920-e87f86ed5531.pdf",
       "Sort": 9
+    },
+    {
+      "ID": 320822,
+      "LastModified": "2025-07-14T14:00:02.77Z",
+      "Name": "Fiscal Impact Statement - City Council",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/8075f507-2fb5-4b4f-92a6-83f1eedfb0a3.docx",
+      "Sort": 10
+    },
+    {
+      "ID": 320823,
+      "LastModified": "2025-07-14T14:00:02.317Z",
+      "Name": "Fiscal Impact Statement - OMB",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/d2af0877-91f4-436c-8c94-d1e003ba9d03.pdf",
+      "Sort": 11
+    },
+    {
+      "ID": 322689,
+      "LastModified": "2025-07-15T01:30:34.753Z",
+      "Name": "Proposed Int. No. 1257-A - 7/3/25",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/38a3446b-f2f2-4af0-b519-ba22a4964ca8.docx",
+      "Sort": 12
+    },
+    {
+      "ID": 323040,
+      "LastModified": "2025-07-14T14:00:00.193Z",
+      "Name": "Committee Report 7/14/25",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/2f419333-accb-45d9-aa88-37d9cf6ccb1f.docx",
+      "Sort": 13
+    },
+    {
+      "ID": 323134,
+      "LastModified": "2025-07-14T13:59:59.727Z",
+      "Name": "Int. No. 1257-A - Fiscal Impact Statement - City Council",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/ba36ad7d-797f-4308-aab6-8479e41f5dc6.docx",
+      "Sort": 14
+    },
+    {
+      "ID": 323135,
+      "LastModified": "2025-07-14T13:59:59.243Z",
+      "Name": "Int. No. 1257-A - Fiscal Impact Statement - OMB",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/7dacb810-3a45-416f-8003-6a06af555496.pdf",
+      "Sort": 15
+    },
+    {
+      "ID": 323192,
+      "LastModified": "2025-07-14T15:22:18.497Z",
+      "Name": "Committee Report - Stated Meeting",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/f326702c-58e5-496a-8e21-d5e8a78c1dad.docx",
+      "Sort": 16
+    },
+    {
+      "ID": 323231,
+      "LastModified": "2025-07-14T22:01:35Z",
+      "Name": "July 14, 2025 - Stated Meeting Agenda",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/cde66665-586b-4437-89fa-60e210eedeb9.pdf",
+      "Sort": 17
     }
   ],
-  "Summary": "This bill would require the Commissioner of Health and Mental Hygiene to identify the 10 most common neurological conditions and the 10 most common mental health conditions affecting older adults and to transmit this information to the Chair of the Cabinet for Older New Yorkers. This Chair would have to then study and issue a one-time report on the provision of New York City (City) agency services to older adults with these conditions. Such report would include actions that City agencies will take in response to the study to improve services for older adults living with the identified neurological conditions and mental health conditions.",
-  "TextID": 78963,
-  "Text": "Be it enacted by the Council as follows:\n      \n      \n      Section 1. a. Definitions. For purposes of this local law, the following terms have the following meanings: \n      Agency. The term \"agency\" has the same meaning as set forth in subdivision 2 of section 1150 of the New York city charter.\n      Chair. The term \"chair\" means the chair of the cabinet for older New Yorkers.\n      Older adult. The term \"older adult\" means an individual 60 years of age or older. \n      b. Determination of neurological and mental health conditions. The commissioner of health and mental hygiene shall determine the 10 most common neurological conditions and the 10 most common mental health conditions affecting older adults. Such commissioner shall transmit this information to the chair within 30 days after the effective date of this local law. \n       c. Study. 1. The chair shall conduct a study on the provision of agency services to older adults with the neurological conditions and mental health conditions determined under subdivision b of this section. Through such study, the chair shall, at a minimum: \n      (a) Identify which agencies have frequent interactions with older adults;\n      (b) Evaluate whether the agencies identified under subparagraph (a) of this paragraph make efforts to identify older adults with the neurological conditions and mental health conditions determined under subdivision b of this section, and if so, how such agencies identify such older adults;   \n      (c) Evaluate whether the agencies identified under subparagraph (a) have sufficient resources and staff capacity to assess older adults for mental health and neurological issues. Upon a finding that any such agency lacks such capacity, the chair shall determine the additional capacity needed to conduct such assessments;\n      (d) Identify what trainings and procedures the agencies identified under subparagraph (a) of this paragraph have in place to facilitate and tailor the provision of their services to older adults with the neurological conditions and mental health conditions determined under subdivision b of this section; and \n      (e) Make recommendations on how the agencies identified under subparagraph (a) of this paragraph can more accurately and efficiently identify older adults with the neurological conditions and mental health conditions determined under subdivision b of this section and on how the provision of services by such agencies to such older adults can be further facilitated and tailored. \n      2. In making the recommendations required under subparagraph (e) of paragraph 1 of this subdivision, the chair shall solicit input from community-based organizations operating in the city which primarily serve older adults, including older adults living with the neurological conditions and mental health conditions determined under subdivision b of this section. The chair shall also consider best practices identified from other jurisdictions.\n      3. Upon request of the chair, any agency shall cooperate with the cabinet for older New Yorkers and furnish such cabinet with such information, reports, and assistance as the chair may require to implement this subdivision. \n      d. Report. No later than 1 year after the effective date of this local law, the chair shall submit to the mayor and speaker of the council, and post on the website of the cabinet for older New Yorkers, a report on the findings of the study required under subdivision c of this section, with such findings disaggregated by agency. Such report shall include, at minimum, actions that agencies identified under subparagraph (a) of subdivision c of this section will take in response to such findings to improve services for older adults living with the neurological conditions and mental health conditions determined under subdivision b of this section.\n      � 2. This local law takes effect immediately. \n\n\nRL\nLS #12699/18548\n1/13/2025 4:50 PM \n\n\n      3\n      \n      \n      2",
-  "RTF": "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang1033\\deflangfe1033{\\fonttbl{\\f0\\froman\\fprq2\\fcharset0 Times New Roman;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\n\\ul\\v0\\par\nBe it enacted by the Council as follows:\\ulnone\\par\n\\pard\\ltrpar\\fi720\\qj\\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qj Section 1. a. Definitions. For purposes of this local law, the following terms have the following meanings: \\par\nAgency. The term \"agency\" \\cf1 has the same meaning as set forth in subdivision 2 of section\\cf0  1150 of the New York city charter.\\par\nChair. The term \\ldblquote chair\\rdblquote  means the chair of the cabinet for older New Yorkers.\\par\nOlder adult. The term \"older adult\" means an individual 60 years of age or older. \\par\nb. Determination of neurological and mental health conditions. The commissioner of health and mental hygiene shall determine the 10 most common neurological conditions and the 10 most common mental health conditions affecting older adults. Such commissioner shall transmit this information to the chair within 30 days after the effective date of this local law. \\par\n c. Study. 1. The chair shall conduct a study on the provision of agency services to older adults with the neurological conditions and mental health conditions determined under subdivision b of this section. Through such study, the chair shall, at a minimum: \\par\n(a) Identify which agencies have frequent interactions with older adults;\\par\n(b) Evaluate whether the agencies identified under subparagraph (a) of this paragraph make efforts to identify older adults with the neurological conditions and mental health conditions determined under subdivision b of this section, and if so, how such agencies identify such older adults;   \\par\n(c) Evaluate whether the agencies identified under subparagraph (a) have sufficient resources and staff capacity to assess older adults for mental health and neurological issues. Upon a finding that any such agency lacks such capacity, the chair shall determine the additional capacity needed to conduct such assessments;\\par\n(d) Identify what trainings and procedures the agencies identified under subparagraph (a) of this paragraph have in place to facilitate and tailor the provision of their services to older adults with the neurological conditions and mental health conditions determined under subdivision b of this section; and \\par\n(e) Make recommendations on how the agencies identified under subparagraph (a) of this paragraph can more accurately and efficiently identify older adults with the neurological conditions and mental health conditions determined under subdivision b of this section and on how the provision of services by such agencies to such older adults can be further facilitated and tailored. \\par\n2. In making the recommendations required under subparagraph (e) of paragraph 1 of this subdivision, the chair shall solicit input from community-based organizations operating in the city which primarily serve older adults, including older adults living with the neurological conditions and mental health conditions determined under subdivision b of this section. The chair shall also consider best practices identified from other jurisdictions.\\par\n3. Upon request of the chair, any agency shall cooperate with the cabinet for older New Yorkers and furnish such cabinet with such information, reports, and assistance as the chair may require to implement this subdivision. \\par\nd. Report. No later than 1 year after the effective date of this local law, the chair shall submit to the mayor and speaker of the council, and post on the website of the cabinet for older New Yorkers, a report on the findings of the study required under subdivision c of this section, with such findings disaggregated by agency. Such report shall include, at minimum, actions that agencies identified under subparagraph (a) of subdivision c of this section will take in response to such findings to improve services for older adults living with the neurological conditions and mental health conditions determined under subdivision b of this section.\\par\n\\'a7 2. This local law takes effect immediately. \\par\n\\pard\\ltrpar\\qj\\fs18\\par\nRL\\par\nLS #12699/18548\\par\n\\pard\\ltrpar 1/13/2025 4:50 PM \\par\n\\par\n\\par\n}\n",
-  "LastModified": "2025-06-16T13:52:49.643Z"
+  "Summary": "This bill would require the Commissioner of the New York City (“City” or “NYC”) Department of Health and Mental Hygiene (“DOHMH Commissioner”) to identify the 10 most common neurological conditions and the 10 most common mental health conditions affecting older adults and to transmit this information to the Commissioner of the NYC Department for the Aging (“DFTA Commissioner”). The DFTA Commissioner, in collaboration with City agencies that frequently interact with older adults, would then study and issue a one-time report on the provision of City agency services to older adults with these conditions. Such report would include actions that City agencies will take in response to the study to improve services for older adults living with the neurological conditions and mental health conditions identified by the DOHMH Commissioner.",
+  "TextID": 80006,
+  "Text": "Be it enacted by the Council as follows:\n      \n      \n      Section 1. a. Definitions. For purposes of this local law, the following terms have the following meanings: \n      Agency. The term \"agency\" means any office, department, division, bureau, commission, or agency of government participating in the cabinet for older New Yorkers established pursuant to section 2405 of the New York city charter.\n      City. The term \"city\" means the city of New York.\n      Older adult. The term \"older adult\" means an individual 60 years of age or older. \n      Services. The term \"services\" means services for older adults living with the neurological conditions and mental health conditions determined pursuant to subdivision b of this section.\n      Stakeholder. The term \"stakeholder\" means a community-based organization, policy organization, or other entity that primarily serves older adults, including older adults living with the neurological conditions and mental health conditions determined pursuant to subdivision b of this section.\n      b. Determination of neurological and mental health conditions. The commissioner of health and mental hygiene shall determine the 10 most common neurological conditions and the 10 most common mental health conditions affecting older adults in the city. Such commissioner shall transmit this information to the commissioner for the aging within 90 days after the effective date of this local law. \n       c. Study. The commissioner for the aging shall conduct a study on the provision of agency services. Through such study, and in collaboration with agencies as defined in this section, the commissioner for the aging shall consider, at a minimum: \n      1. Which agencies have frequent interactions with older adults living with the neurological conditions and mental health conditions determined pursuant to subdivision b of this section;\n      2. Whether such agencies make efforts to reach and serve such older adults, and if so, how such agencies reach and serve such older adults;\n      3. Which trainings such agencies have in place to facilitate and tailor the provision of their services to such older adults;\n      4. How such agencies can improve service provision and outreach to such older adults; and\n      5. To the extent practicable, whether such agencies have sufficient resources and staff capacity to serve such older adults.\n      d. Stakeholder input. In issuing the recommendations required pursuant to paragraph 4 of subdivision c of this section, the commissioner for the aging shall solicit input from stakeholders operating in the city. The commissioner for the aging shall also consider best practices identified from other jurisdictions.\n      e. Information requests. Upon request of the commissioner for the aging, agencies shall provide such commissioner with any information, reports, and assistance such commissioner may require to implement this subdivision.\n      f. Report. No later than 18 months after the effective date of this local law, the commissioner for the aging shall submit to the mayor and speaker of the council, and post on the department for the aging's website and the website of the cabinet for older New Yorkers, a report on the findings of the study required under this section, with such findings disaggregated by agency. Such report shall include, at a minimum, actions that agencies will take in response to such findings, and any additional agency capacity needs identified pursuant to paragraph 5 of subdivision c of this section.\n      � 2. This local law takes effect immediately. \n\n\nRL/CP\nLS #12699/18548\n7/2/25 4:56 PM\n\n\n      2\n      \n      \n      2",
+  "RTF": "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang1033\\deflangfe1033{\\fonttbl{\\f0\\froman\\fprq2\\fcharset0 Times New Roman;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\n\\ul\\v0\\par\nBe it enacted by the Council as follows:\\ulnone\\par\n\\pard\\ltrpar\\fi720\\qj\\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qj Section 1. a. Definitions. For purposes of this local law, the following terms have the following meanings: \\par\nAgency. The term \\ldblquote agency\\rdblquote  means any office, department, division, bureau, commission, or agency of government participating in the cabinet for older New Yorkers established pursuant to \\cf1 section\\cf0  2405 of the New York city charter.\\par\nCity. The term \\ldblquote city\\rdblquote  means the city of New York.\\par\nOlder adult. The term \"older adult\" means an individual 60 years of age or older. \\par\nServices. The term \\ldblquote services\\rdblquote  means services for older adults living with the neurological conditions and mental health conditions determined pursuant to subdivision b of this section.\\par\nStakeholder. The term \\ldblquote stakeholder\\rdblquote  means a community-based organization, policy organization, or other entity that primarily serves older adults, including older adults living with the neurological conditions and mental health conditions determined pursuant to subdivision b of this section.\\par\nb. Determination of neurological and mental health conditions. The commissioner of health and mental hygiene shall determine the 10 most common neurological conditions and the 10 most common mental health conditions affecting older adults in the city. Such commissioner shall transmit this information to the commissioner for the aging within 90 days after the effective date of this local law. \\par\n c. Study. The commissioner for the aging shall conduct a study on the provision of agency services. Through such study, and in collaboration with agencies as defined in this section, the commissioner for the aging shall consider, at a minimum: \\par\n1. Which agencies have frequent interactions with older adults living with the neurological conditions and mental health conditions determined pursuant to subdivision b of this section;\\par\n2. Whether such agencies make efforts to reach and serve such older adults, and if so, how such agencies reach and serve such older adults;\\par\n3. Which trainings such agencies have in place to facilitate and tailor the provision of their services to such older adults;\\par\n4. How such agencies can improve service provision and outreach to such older adults; and\\par\n5. To the extent practicable, whether such agencies have sufficient resources and staff capacity to serve such older adults.\\par\nd. Stakeholder input. In issuing the recommendations required pursuant to paragraph 4 of subdivision c of this section, the commissioner for the aging shall solicit input from stakeholders operating in the city. The commissioner for the aging shall also consider best practices identified from other jurisdictions.\\par\ne. Information requests. Upon request of the commissioner for the aging, agencies shall provide such commissioner with any information, reports, and assistance such commissioner may require to implement this subdivision.\\par\nf. Report. No later than 18 months after the effective date of this local law, the commissioner for the aging shall submit to the mayor and speaker of the council, and post on the department for the aging\\rquote s website and the website of the cabinet for older New Yorkers, a report on the findings of the study required under this section, with such findings disaggregated by agency. Such report shall include, at a minimum, actions that agencies will take in response to such findings, and any additional agency capacity needs identified pursuant to paragraph 5 of subdivision c of this section.\\par\n\\'a7 2. This local law takes effect immediately. \\par\n\\pard\\ltrpar\\qj\\fs18\\par\nRL/CP\\par\nLS #12699/18548\\par\n\\pard\\ltrpar 7/2/25 4:56 PM\\par\n\\par\n\\par\n}\n",
+  "LastModified": "2025-07-15T12:19:56.333Z"
 }

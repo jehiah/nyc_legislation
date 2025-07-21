@@ -6,13 +6,13 @@
   "Title": "Resolution approving the Report and Advisory Board Review Commission’s determination recommending waiver or partial waivers of six reporting requirements that was communicated to the City Council on December 23, 2024.",
   "TypeID": 1,
   "TypeName": "Resolution",
-  "StatusID": 25,
-  "StatusName": "Laid Over in Committee",
+  "StatusID": 32,
+  "StatusName": "Adopted",
   "BodyID": 5293,
   "BodyName": "Committee on Governmental Operations, State & Federal Legislation",
   "IntroDate": "2025-06-11T00:00:00Z",
   "AgendaDate": "2025-06-11T00:00:00Z",
-  "PassedDate": "0001-01-01T00:00:00Z",
+  "PassedDate": "2025-07-14T00:00:00Z",
   "EnactmentDate": "0001-01-01T00:00:00Z",
   "Version": "*",
   "Sponsors": [
@@ -20,6 +20,16 @@
       "ID": 7820,
       "Slug": "lincoln-restler",
       "FullName": "Lincoln Restler"
+    },
+    {
+      "ID": 7821,
+      "Slug": "jennifer-gutierrez",
+      "FullName": "Jennifer Gutiérrez"
+    },
+    {
+      "ID": 7740,
+      "Slug": "carlina-rivera",
+      "FullName": "Carlina Rivera"
     }
   ],
   "History": [
@@ -80,12 +90,143 @@
       "Version": "*",
       "MatterStatusID": 25,
       "LastModified": "2025-06-16T19:19:03.077Z"
+    },
+    {
+      "ID": 422977,
+      "Date": "2025-07-14T11:30:00Z",
+      "ActionID": 54,
+      "Action": "Hearing Held by Committee",
+      "Description": "This Resolution was Hearing Held by Committee",
+      "BodyID": 5293,
+      "BodyName": "Committee on Governmental Operations, State & Federal Legislation",
+      "EventID": 21751,
+      "AgendaSequence": 2,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2025-07-14T16:00:53.303Z"
+    },
+    {
+      "ID": 423275,
+      "Date": "2025-07-14T11:30:00Z",
+      "ActionID": 32,
+      "Action": "Approved by Committee",
+      "Description": "A motion was made that this Resolution be Approved by Committee approved by Roll Call.",
+      "BodyID": 5293,
+      "BodyName": "Committee on Governmental Operations, State & Federal Legislation",
+      "EventID": 21751,
+      "MinutesSequence": 7,
+      "Version": "*",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterStatusID": 24,
+      "Votes": [
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 10
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 20
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 30
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "VoteID": 46,
+          "Vote": "Medical",
+          "Sort": 40
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 50
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 60
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 70
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 80
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2025-07-14T16:01:03.233Z"
+    },
+    {
+      "ID": 423047,
+      "Date": "2025-07-14T15:00:00Z",
+      "ActionID": 5032,
+      "Action": "Approved, by Council",
+      "Description": "A motion was made that this Resolution be Approved, by Council approved by voice vote.",
+      "BodyID": 1,
+      "BodyName": "City Council",
+      "EventID": 21762,
+      "AgendaSequence": 127,
+      "MinutesSequence": 154,
+      "Version": "*",
+      "AgendaNote": "Adopted by the Committee on Governmental Operations, State & Federal Legislation",
+      "MinutesNote": "Pursuant to Rule 8.50 of the Council, the Majority Leader and Acting President Pro Tempore (Council Member Farías) called for a voice vote.  Hearing no objections, the Majority Leader and Acting President Pro Tempore (Council Member Farías) declared the Resolution to be adopted.\r\n\r\n\r\n\r\nAdopted unanimously by the Council by voice-vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterStatusID": 32,
+      "LastModified": "2025-07-15T13:10:45.913Z"
     }
   ],
   "Attachments": [
     {
       "ID": 320792,
-      "LastModified": "2025-06-27T14:16:03.383Z",
+      "LastModified": "2025-07-14T16:24:28.45Z",
       "Name": "Res. No. 933",
       "Link": "https://nyc.legistar1.com/nyc/attachments/0ae4c613-e58a-4e56-821a-a7a088381e23.docx",
       "Sort": 1
@@ -105,16 +246,37 @@
       "Sort": 3
     },
     {
-      "ID": 322380,
-      "LastModified": "2025-06-27T14:16:09.567Z",
+      "ID": 323121,
+      "LastModified": "2025-07-12T12:21:08.69Z",
       "Name": "Hearing Testimony 6/16/25",
-      "Link": "https://nyc.legistar1.com/nyc/attachments/7aa19dab-5459-4784-b054-c70a23590f3a.pdf",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/5dcb3ab6-e32b-4548-b24b-4673f2ad489c.pdf",
+      "Sort": 4
+    },
+    {
+      "ID": 323173,
+      "LastModified": "2025-07-14T12:36:12.23Z",
+      "Name": "Committee Report 7/14/25",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/13fbde0a-851f-44fb-98e4-b8e1ba8ee6a2.docx",
+      "Sort": 5
+    },
+    {
+      "ID": 323195,
+      "LastModified": "2025-07-14T16:24:00.027Z",
+      "Name": "Committee Report - Stated Meeting",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/28dbd2c5-978f-4c8d-8cc4-9daba300aaf1.docx",
       "Sort": 6
+    },
+    {
+      "ID": 323276,
+      "LastModified": "2025-07-14T22:01:45.403Z",
+      "Name": "July 14, 2025 - Stated Meeting Agenda",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/9201c785-bf50-45af-bf9f-9efbdcff588a.pdf",
+      "Sort": 7
     }
   ],
   "Summary": "",
   "TextID": 79838,
   "Text": "Whereas, On November 2, 2010, the voters of the City of New York approved a series of revisions to the New York City Charter, including the addition of section 1113, which established the Report and Advisory Board Review Commission (RABRC); and\n      Whereas, Pursuant to section 1113, the RABRC has the power and duty to review all requirements in the New York City Charter, the Administrative Code of the City of New York and the unconsolidated local laws of the City of New York mandating the issuance of reports by public agencies, officers or employees; and\n      Whereas, Under section 1113, the RABRC also has the power, subject to the approval of the City Council, to waive any such reporting requirement and thereby cause the relevant report to cease to be required by law; and\n      Whereas, Section 1113 provides that, following a determination by the RABRC to waive any reporting requirement, the City Council may approve or disapprove such determination by the affirmative vote of a majority of all the Council Members; and\n      Whereas, Section 1113 further provides that any such disapproval by the Council shall be final unless the Mayor files a written veto of the Council's action, which may be overridden by a two-thirds vote of all the Council Members; and\n      Whereas, On December 23, 2024, the RABRC made determinations to waive or partially waive the following six reporting requirements: the Interagency Safety Plan as required by �19-184 of the administrative code of the city of New York; the NYC Mobility Report as required by �19-180 of the administrative code of the city of New York; the Report on the number of requests for changes in traffic flow as required by �19-183(c) of the administrative code of the city of New York; the Report on Variances and Special Permits in the Fiscal Year as required by �25-208(a)-(b) of the administrative code of the city of New York; the Report on Agency Compliance with LLs 126, 127 and 128 of 2016 as required by �15(i)-(k) of the New York city charter; and the Use of Ultra-Low Sulfur Diesel Fuel and Best Available Retrofit Technology by the City's owned or leased Diesel Fuel-Powered non-road Vehicles Report as required by �24-163.3(g) of the administrative code of the city of New York; \n      Whereas, On December 23, 2024, the RABRC communicated such determinations to the City Council by submitting a written statement of each determination along with the rationale therefor; now, therefore, be it\n      Resolved, That the Council of the City of New York approves the Report and Advisory Board Review Commission's determination recommending waiver or partial waivers of six reporting requirements that was communicated to the City Council on December 23, 2024.\nLS #19908\n05/28/2025; 12:47 p.m.\nMMB\n\n\n\n\n\n\n\n\n\n\n\nPage 2 of 2",
-  "RTF": "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang1033\\deflangfe1033{\\fonttbl{\\f0\\froman\\fprq2\\fcharset0 Times New Roman;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\n\\v0\\par\nBy Council Member Restler\\par\n\\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qj Whereas, On November 2, 2010, the voters of the City of New York approved a series of revisions to the New York City Charter, including the addition of section 1113, which established the Report and Advisory Board Review Commission (RABRC); and\\par\nWhereas, Pursuant to section 1113, the RABRC has the power and duty to review all requirements in the New York City Charter, the Administrative Code of the City of New York and the unconsolidated local laws of the City of New York mandating the issuance of reports by public agencies, officers or employees; and\\par\nWhereas, Under section 1113, the RABRC also has the power, subject to the approval of the City Council, to waive any such reporting requirement and thereby cause the relevant report to cease to be required by law; and\\par\nWhereas, Section 1113 provides that, following a determination by the RABRC to waive any reporting requirement, the City Council may approve or disapprove such determination by the affirmative vote of a majority of all the Council Members; and\\par\nWhereas, Section 1113 further provides that any such disapproval by the Council shall be final unless the Mayor files a written veto of the Council\\rquote s action, which may be overridden by a two-thirds vote \\cf1 of all the Council Members\\cf0 ; and\\par\nWhereas, On December 23, 2024, the RABRC made determinations to waive or partially waive the following six reporting requirements: the Interagency Safety Plan as required by \\'a719-184 of the administrative code of the city of New York; the NYC Mobility Report as required by \\'a719-180 of the administrative code of the city of New York; the Report on the number of requests for changes in traffic flow as required by \\'a719-183(c) of the administrative code of the city of New York; the Report on Variances and Special Permits in the Fiscal Year as required by \\'a725-208(a)-(b) of the administrative code of the city of New York; the Report on Agency Compliance with LLs 126, 127 and 128 of 2016 as required by \\'a715(i)-(k) of the New York city charter; and the Use of Ultra-Low Sulfur Diesel Fuel and Best Available Retrofit Technology by the City\\rquote s owned or leased Diesel Fuel-Powered non-road Vehicles Report as required by \\'a724-163.3(g) of the administrative code of the city of New York; \\par\nWhereas, On December 23, 2024, the RABRC communicated such determinations to the City Council by submitting a written statement of each determination along with the rationale therefor; now, therefore, be it\\par\nResolved, That the Council of the City of New York approves the Report and Advisory Board Review Commission\\rquote s determination recommending waiver or partial waivers of six reporting requirements that was communicated to the City Council on December 23, 2024.\\par\n\\pard\\ltrpar\\qj\\fs20 LS #19908\\par\n\\pard\\ltrpar 05/28/2025; 12:47 p.m.\\par\nMMB\\fs24\\par\n\\pard\\ltrpar\\sa160\\sl252\\slmult1\\par\n\\pard\\ltrpar\\sa160\\sl252\\slmult1\\qc\\fs144\\par\n}\n",
-  "LastModified": "2025-06-27T14:16:12.31Z"
+  "RTF": "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang1033\\deflangfe1033{\\fonttbl{\\f0\\froman\\fprq2\\fcharset0 Times New Roman;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\n\\v0\\par\nBy Council Members Restler, Guti\\'e9rrez and Rivera\\par\n\\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qj Whereas, On November 2, 2010, the voters of the City of New York approved a series of revisions to the New York City Charter, including the addition of section 1113, which established the Report and Advisory Board Review Commission (RABRC); and\\par\nWhereas, Pursuant to section 1113, the RABRC has the power and duty to review all requirements in the New York City Charter, the Administrative Code of the City of New York and the unconsolidated local laws of the City of New York mandating the issuance of reports by public agencies, officers or employees; and\\par\nWhereas, Under section 1113, the RABRC also has the power, subject to the approval of the City Council, to waive any such reporting requirement and thereby cause the relevant report to cease to be required by law; and\\par\nWhereas, Section 1113 provides that, following a determination by the RABRC to waive any reporting requirement, the City Council may approve or disapprove such determination by the affirmative vote of a majority of all the Council Members; and\\par\nWhereas, Section 1113 further provides that any such disapproval by the Council shall be final unless the Mayor files a written veto of the Council\\rquote s action, which may be overridden by a two-thirds vote \\cf1 of all the Council Members\\cf0 ; and\\par\nWhereas, On December 23, 2024, the RABRC made determinations to waive or partially waive the following six reporting requirements: the Interagency Safety Plan as required by \\'a719-184 of the administrative code of the city of New York; the NYC Mobility Report as required by \\'a719-180 of the administrative code of the city of New York; the Report on the number of requests for changes in traffic flow as required by \\'a719-183(c) of the administrative code of the city of New York; the Report on Variances and Special Permits in the Fiscal Year as required by \\'a725-208(a)-(b) of the administrative code of the city of New York; the Report on Agency Compliance with LLs 126, 127 and 128 of 2016 as required by \\'a715(i)-(k) of the New York city charter; and the Use of Ultra-Low Sulfur Diesel Fuel and Best Available Retrofit Technology by the City\\rquote s owned or leased Diesel Fuel-Powered non-road Vehicles Report as required by \\'a724-163.3(g) of the administrative code of the city of New York; \\par\nWhereas, On December 23, 2024, the RABRC communicated such determinations to the City Council by submitting a written statement of each determination along with the rationale therefor; now, therefore, be it\\par\nResolved, That the Council of the City of New York approves the Report and Advisory Board Review Commission\\rquote s determination recommending waiver or partial waivers of six reporting requirements that was communicated to the City Council on December 23, 2024.\\par\n\\pard\\ltrpar\\qj\\fs20 LS #19908\\par\n\\pard\\ltrpar 05/28/2025; 12:47 p.m.\\par\nMMB\\fs24\\par\n\\pard\\ltrpar\\sa160\\sl252\\slmult1\\par\n\\pard\\ltrpar\\sa160\\sl252\\slmult1\\qc\\fs144\\par\n}\n",
+  "LastModified": "2025-07-15T12:33:59.39Z"
 }

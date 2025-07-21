@@ -2,19 +2,19 @@
   "ID": 74173,
   "GUID": "99062BE3-7A74-4276-A9AC-BA33A0D1E609",
   "File": "Int 0859-2024",
-  "Name": "Requiring third-party food delivery services and third-party courier services to provide food delivery workers with information underlying their pay calculations",
-  "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring third-party food delivery services and third-party courier services to provide food delivery workers with information underlying their pay calculations",
+  "Name": "Requiring delivery services to provide contracted delivery workers with information underlying their pay calculations.",
+  "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring delivery services to provide contracted delivery workers with information underlying their pay calculations",
   "TypeID": 2,
   "TypeName": "Introduction",
-  "StatusID": 25,
-  "StatusName": "Laid Over in Committee",
+  "StatusID": 10,
+  "StatusName": "Enacted (Mayor's Desk for Signature)",
   "BodyID": 5269,
   "BodyName": "Committee on Consumer and Worker Protection",
   "IntroDate": "2024-05-16T00:00:00Z",
   "AgendaDate": "2024-05-16T00:00:00Z",
   "PassedDate": "0001-01-01T00:00:00Z",
   "EnactmentDate": "0001-01-01T00:00:00Z",
-  "Version": "*",
+  "Version": "A",
   "Sponsors": [
     {
       "ID": 7804,
@@ -80,6 +80,21 @@
       "ID": 7864,
       "Slug": "chris-banks",
       "FullName": "Chris Banks"
+    },
+    {
+      "ID": 7785,
+      "Slug": "farah-n-louis",
+      "FullName": "Farah N. Louis"
+    },
+    {
+      "ID": 7806,
+      "Slug": "carmen-n-de-la-rosa",
+      "FullName": "Carmen N. De La Rosa"
+    },
+    {
+      "ID": 7827,
+      "Slug": "rita-c-joseph",
+      "FullName": "Rita C. Joseph"
     }
   ],
   "History": [
@@ -140,69 +155,707 @@
       "Version": "*",
       "MatterStatusID": 25,
       "LastModified": "2024-06-21T17:20:10.69Z"
+    },
+    {
+      "ID": 422970,
+      "Date": "2025-07-14T10:00:00Z",
+      "ActionID": 54,
+      "Action": "Hearing Held by Committee",
+      "Description": "This Introduction was Hearing Held by Committee",
+      "BodyID": 5269,
+      "BodyName": "Committee on Consumer and Worker Protection",
+      "EventID": 21757,
+      "AgendaSequence": 3,
+      "MinutesSequence": 10,
+      "Version": "*",
+      "AgendaNote": "Proposed Int. No. 859-A",
+      "MinutesNote": "Proposed Int. No. 859-A",
+      "MatterStatusID": 3,
+      "LastModified": "2025-07-14T14:39:51.53Z"
+    },
+    {
+      "ID": 423241,
+      "Date": "2025-07-14T10:00:00Z",
+      "ActionID": 5001,
+      "Action": "Amendment Proposed by Comm",
+      "Description": "This Introduction was Amendment Proposed by Comm",
+      "BodyID": 5269,
+      "BodyName": "Committee on Consumer and Worker Protection",
+      "EventID": 21757,
+      "MinutesSequence": 11,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2025-07-14T14:39:57.483Z"
+    },
+    {
+      "ID": 423242,
+      "Date": "2025-07-14T10:00:00Z",
+      "ActionID": 33,
+      "Action": "Amended by Committee",
+      "Description": "This Introduction was Amended by Committee",
+      "BodyID": 5269,
+      "BodyName": "Committee on Consumer and Worker Protection",
+      "EventID": 21757,
+      "MinutesSequence": 12,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2025-07-14T14:40:01.233Z"
+    },
+    {
+      "ID": 423243,
+      "Date": "2025-07-14T10:00:00Z",
+      "ActionID": 32,
+      "Action": "Approved by Committee",
+      "Description": "This Introduction was Approved by Committee",
+      "BodyID": 5269,
+      "BodyName": "Committee on Consumer and Worker Protection",
+      "EventID": 21757,
+      "MinutesSequence": 13,
+      "Version": "A",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterStatusID": 24,
+      "Votes": [
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 10
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 30
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 40
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 50
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "VoteID": 46,
+          "Vote": "Medical",
+          "Sort": 60
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2025-07-14T14:41:21.24Z"
+    },
+    {
+      "ID": 423030,
+      "Date": "2025-07-14T15:00:00Z",
+      "ActionID": 68,
+      "Action": "Approved by Council",
+      "Description": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "BodyID": 1,
+      "BodyName": "City Council",
+      "EventID": 21762,
+      "AgendaSequence": 23,
+      "MinutesSequence": 27,
+      "Version": "A",
+      "AgendaNote": "Amended and Coupled on General Orders",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
+      "MatterStatusID": 10,
+      "Votes": [
+        {
+          "ID": 7739,
+          "Slug": "adrienne-e-adams",
+          "FullName": "Adrienne E. Adams",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 10
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 20
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 30
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 41
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 50
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 60
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 80
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 90
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 100
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 110
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 120
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 130
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 140
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 150
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 160
+        },
+        {
+          "ID": 5289,
+          "Slug": "simcha-felder",
+          "FullName": "Simcha Felder",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 165
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 170
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "VoteID": 46,
+          "Vote": "Medical",
+          "Sort": 180
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 190
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "VoteID": 46,
+          "Vote": "Medical",
+          "Sort": 200
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 210
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 220
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 230
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 240
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 250
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 260
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 270
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 280
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 290
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 300
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 310
+        },
+        {
+          "ID": 7887,
+          "Slug": "frank-morano",
+          "FullName": "Frank Morano",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 315
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "VoteID": 46,
+          "Vote": "Medical",
+          "Sort": 320
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 330
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 340
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 350
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 361
+        },
+        {
+          "ID": 7741,
+          "Slug": "keith-powers",
+          "FullName": "Keith Powers",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 370
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 380
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 390
+        },
+        {
+          "ID": 7740,
+          "Slug": "carlina-rivera",
+          "FullName": "Carlina Rivera",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 400
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 410
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 420
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 430
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 440
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 450
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 460
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 471
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 480
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 490
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 510
+        }
+      ],
+      "LastModified": "2025-07-15T14:18:03.87Z"
     }
   ],
   "Attachments": [
     {
-      "ID": 300689,
-      "LastModified": "2024-07-26T17:12:39.897Z",
-      "Name": "Summary of Int. No. 859",
-      "Link": "https://nyc.legistar1.com/nyc/attachments/cbd2bc44-eb9b-4f3b-8e76-3edf335dca2e.docx",
+      "ID": 322900,
+      "LastModified": "2025-07-14T15:10:18.477Z",
+      "Name": "Summary of Int. No. 859-A",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/83c73783-d492-42df-be5a-40f2328ffc76.docx",
       "Sort": 1
     },
     {
+      "ID": 300689,
+      "LastModified": "2025-07-09T20:01:05.513Z",
+      "Name": "Summary of Int. No. 859",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/cbd2bc44-eb9b-4f3b-8e76-3edf335dca2e.docx",
+      "Sort": 2
+    },
+    {
       "ID": 300690,
-      "LastModified": "2024-07-26T17:12:52.203Z",
+      "LastModified": "2025-07-09T17:52:20.21Z",
       "Name": "Int. No. 859",
       "Link": "https://nyc.legistar1.com/nyc/attachments/7d9e30dd-7727-4352-8754-d26fd2524aa8.docx",
-      "Sort": 2
+      "Sort": 3
     },
     {
       "ID": 301775,
       "LastModified": "2024-05-16T19:41:28.823Z",
       "Name": "May 16, 2024 - Stated Meeting Agenda",
       "Link": "https://nyc.legistar1.com/nyc/attachments/6a8f46ba-1fa3-48e9-8ac7-fadd0738424a.pdf",
-      "Sort": 3
+      "Sort": 4
     },
     {
       "ID": 302436,
       "LastModified": "2024-05-31T13:56:51.823Z",
       "Name": "Hearing Transcript - Stated Meeting  5-16-24",
       "Link": "https://nyc.legistar1.com/nyc/attachments/e4fc377c-6580-489a-8a0a-cea0e6697379.pdf",
-      "Sort": 4
-    },
-    {
-      "ID": 304830,
-      "LastModified": "2024-06-20T19:09:30.79Z",
-      "Name": "Committee Report 6/21/24",
-      "Link": "https://nyc.legistar1.com/nyc/attachments/5376f885-3b70-40e9-a4ce-ae8f356e10af.docx",
       "Sort": 5
     },
     {
-      "ID": 305116,
-      "LastModified": "2024-06-28T12:45:54.083Z",
-      "Name": "Hearing Testimony 6/21/24",
-      "Link": "https://nyc.legistar1.com/nyc/attachments/87781db0-bf97-4642-a484-cf5a64309ef4.pdf",
+      "ID": 313137,
+      "LastModified": "2025-07-09T16:35:03.323Z",
+      "Name": "Minutes of the Stated Meeting - May 16, 2024",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/3e653072-d78d-4b9b-b44e-cf0d3717444e.pdf",
       "Sort": 6
     },
     {
-      "ID": 306656,
-      "LastModified": "2024-07-22T11:36:22.64Z",
-      "Name": "Hearing Transcript 6/21/24",
-      "Link": "https://nyc.legistar1.com/nyc/attachments/7ba4dcef-30af-41b4-8795-e45506c5dee5.pdf",
+      "ID": 304830,
+      "LastModified": "2025-07-09T16:34:56.81Z",
+      "Name": "Committee Report 6/21/24",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/5376f885-3b70-40e9-a4ce-ae8f356e10af.docx",
       "Sort": 7
     },
     {
-      "ID": 313137,
-      "LastModified": "2025-01-06T21:31:28.407Z",
-      "Name": "Minutes of the Stated Meeting - May 16, 2024",
-      "Link": "https://nyc.legistar1.com/nyc/attachments/3e653072-d78d-4b9b-b44e-cf0d3717444e.pdf",
+      "ID": 305116,
+      "LastModified": "2025-07-09T16:34:56.343Z",
+      "Name": "Hearing Testimony 6/21/24",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/87781db0-bf97-4642-a484-cf5a64309ef4.pdf",
       "Sort": 8
+    },
+    {
+      "ID": 306656,
+      "LastModified": "2025-07-09T16:34:55.977Z",
+      "Name": "Hearing Transcript 6/21/24",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/7ba4dcef-30af-41b4-8795-e45506c5dee5.pdf",
+      "Sort": 9
+    },
+    {
+      "ID": 322881,
+      "LastModified": "2025-07-10T22:01:09.427Z",
+      "Name": "Proposed Int. No. 859-A - 7/9/25",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/e7c2b2c0-3d0c-46dd-8587-034c3772c824.docx",
+      "Sort": 10
+    },
+    {
+      "ID": 323146,
+      "LastModified": "2025-07-14T13:23:16.357Z",
+      "Name": "Committee Report 7/14/25",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/89886b4b-619c-43dd-a58b-c94b18afc491.docx",
+      "Sort": 11
+    },
+    {
+      "ID": 323163,
+      "LastModified": "2025-07-14T13:23:24.243Z",
+      "Name": "Int. No. 859-A - Fiscal Impact Statement - City Council",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/f2e338fc-91b7-4bf2-bf83-d063c6383b51.docx",
+      "Sort": 12
+    },
+    {
+      "ID": 323164,
+      "LastModified": "2025-07-14T13:23:32.3Z",
+      "Name": "Int. No. 859-A - Fiscal Impact Statement - OMB",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/6aaf31ee-9740-41ee-886c-302becf8cec1.pdf",
+      "Sort": 13
+    },
+    {
+      "ID": 323238,
+      "LastModified": "2025-07-14T22:01:36.52Z",
+      "Name": "July 14, 2025 - Stated Meeting Agenda",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/bffbfcb8-2137-4bd2-9518-d0d64cb0cef0.pdf",
+      "Sort": 14
     }
   ],
-  "Summary": "This bill would require third-party food delivery services and third-party courier services to disclose the method they anticipate using to calculate food delivery worker pay at the outset of each pay period. In addition, third-party food delivery services and third-party courier services would be required to display, in an easily accessible format, a running tally of a food delivery worker’s trip time, on-call time, and the sum of the worker’s trip and on-call time for the pay period. Finally, third-party food delivery services and third-party courier services would be required to provide food delivery service workers with an itemized pay statement for each pay period.",
-  "TextID": 77739,
-  "Text": "Be it enacted by the Council as follows:\n      \n      \n      Section 1. Section 20-1501 of the administrative code of the city of New York is amended by adding new definitions of \"on-call time,\" \"pay period,\" and \"trip time\" in alphabetical order to read as follows:\n      \"On-call time\" means the time a food delivery worker is connected to a third-party food delivery service or third-party courier service's electronic system for arranging or monitoring trips in a status where the food delivery worker is available to receive or accept trip offers or assignments with a pickup or drop-off location in the city and excludes all trip time.\n      \"Pay period\" means a fixed and regularly recurring period of 168 hours or 7 consecutive 24-hour periods.\n      \"Trip time\" means the amount of time it takes to complete a trip, measured from the moment a food delivery worker accepts an offer from a third-party food delivery service or third-party courier service for a trip with a pickup or drop-off location in the city, or receives an assignment for such a trip, through the moment such trip is completed or cancelled.\n      � 2. Section 20-1523 of the administrative code of the city of New York, as amended by local law number 118 for the year 2021, is amended to read as follows:\n      � 20-1523 Payments and disclosures to workers. a. A third-party food delivery service or third-party courier service shall not charge or impose any fee on a food delivery worker for the use of any form of payment selected by such service to pay such worker for work performed.\n      b. A third-party food delivery service or third-party courier service shall pay a food delivery worker for work performed no less frequently than once a week.\n      c. A third-party food delivery service or third-party courier service shall notify a food delivery worker of the anticipated method of payment for the upcoming pay period at least 24 hours before the beginning of such upcoming pay period. Such notice shall be provided through the third-party food delivery service's or third-party courier service's website, mobile application, or other internet service through which trips are offered to such worker.  \n      d. During each pay period, a third-party delivery service or third-party courier service shall display a running total of a food delivery worker's trip time, a running total of a food delivery worker's on-call time, and a running total of the sum of a food delivery worker's trip time and on-call time. Such information shall be displayed through the third-party food delivery service's or third-party courier service's website, mobile application, or other internet service through which trips are offered to a food delivery worker.\n      e. At the end of each pay period, a third-party delivery service or third-party courier service shall provide each food delivery worker with a statement through the third-party food delivery service's or third-party courier service's website, mobile application, or other internet service through which trips are offered to a food delivery worker that includes the following: \n      1. Such food delivery worker's total pay for the specified pay period;\n      2. The payment method used to calculate such food delivery worker's pay for the specified pay period;\n      3. Such food delivery worker's trip time for the specified pay period, the rate of pay for such trip time, and the amount of pay that corresponds to such trip time for the specified pay period; \n      4. Such food delivery worker's on-call time for the specified pay period;\n      5. The sum of such food delivery worker's trip time and on-call time for the specified pay period; and\n      6. A description and itemization of any additional payments made to such food delivery worker beyond the payments based on such delivery worker's trip time during the specified pay period. \n      � 3.  This local law takes effect 60 days after it becomes law.\n\nMLL\nLS #15524/16055\n4/25/2024 1:03 PM\n\n      \n      2\n      \n      \n      1",
-  "RTF": "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang1033\\deflangfe1033{\\fonttbl{\\f0\\froman\\fprq2\\fcharset0 Times New Roman;}}\n{\\colortbl ;\\red0\\green0\\blue0;\\red255\\green255\\blue255;}\n\\viewkind4\\uc1\n\\ul\\v0\\par\nBe it enacted by the Council as follows:\\ulnone\\par\n\\pard\\ltrpar\\fi720\\qj\\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qj Section 1. Section 20-1501 of the administrative code of the city of New York is amended by adding new definitions of \\ldblquote on-call time,\\rdblquote  \\ldblquote pay period,\\rdblquote  and \\ldblquote trip time\\rdblquote  in alphabetical order to read as follows:\\par\n\\cf1\\ul\\ldblquote On-call time\\rdblquote  means the time a food delivery worker is connected to a third-party food delivery service or third-party courier service's electronic system for arranging or monitoring trips in a status where the food delivery worker is available to receive or accept trip offers or assignments with a pickup or drop-off location in the city and excludes all trip time.\\cf0\\fs32\\par\n\\cf1\\fs24\\ldblquote Pay period\\rdblquote  means a fixed and regularly recurring period of 168 hours or 7 consecutive 24-hour periods.\\cf0\\fs32\\par\n\\cf1\\fs24\\ldblquote Trip time\\rdblquote  means the amount of time it takes to complete a trip, measured from the moment a food delivery worker accepts an offer from a third-party food delivery service or third-party courier service for a trip with a pickup or drop-off location in the city, or receives an assignment for such a trip, through the moment such trip is completed or cancelled.\\cf0\\fs32\\par\n\\ulnone\\fs24\\'a7 2. Section 20-1523 of the administrative code of the city of New York, as amended by local law number 118 for the year 2021, is amended to read as follows:\\par\n\\pard\\cbpat2\\ltrpar\\fi720\\sl480\\slmult1\\qj\\'a7 20-1523 Payments \\ul and disclosures\\ulnone  to workers. a. A third-party food delivery service or third-party courier service shall not charge or impose any fee on a food delivery worker for the use of any form of payment selected by such service to pay such worker for work performed.\\par\nb. A third-party food delivery service or third-party courier service shall pay a food delivery worker for work performed no less frequently than once a week.\\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qj\\ul c. A third-party food delivery service or third-party courier service shall notify a food delivery worker of the anticipated method of payment for the upcoming pay period at least 24 hours before the beginning of such upcoming pay period. Such notice shall be provided through the third-party food delivery service\\rquote s or third-party courier service's website, mobile application, or other internet service through which trips are offered to such worker.  \\par\nd. During each pay period, a third-party delivery service or third-party courier service shall display a running total of a food delivery worker\\rquote s trip time, a running total of a food delivery worker\\rquote s on-call time, and a running total of the sum of a food delivery worker\\rquote s trip time and on-call time. Such information shall be displayed through the third-party food delivery service\\rquote s or third-party courier service's website, mobile application, or other internet service through which trips are offered to a food delivery worker\\ulnone\\fs16 .\\ul\\fs24\\par\ne. At the end of each pay period, a third-party delivery service or third-party courier service shall provide each food delivery worker with a statement through the third-party food delivery service\\rquote s or third-party courier service's website, mobile application, or other internet service through which trips are offered to a food delivery worker that includes the following: \\par\n1. Such food delivery worker\\rquote s total pay for the specified pay period;\\par\n2. The payment method used to calculate such food delivery worker\\rquote s pay for the specified pay period;\\par\n3. Such food delivery worker\\rquote s trip time for the specified pay period, the rate of pay for such trip time, and the amount of pay that corresponds to such trip time for the specified pay period; \\par\n4. Such food delivery worker\\rquote s on-call time for the specified pay period;\\par\n5. The sum of such food delivery worker\\rquote s trip time and on-call time for the specified pay period; and\\par\n6. A description and itemization of any additional payments made to such food delivery worker beyond the payments based on such delivery worker\\rquote s trip time during the specified pay period. \\par\n\\pard\\ltrpar\\qj\\ulnone\\'a7 3.  This local law takes effect 60 days after it becomes law.\\fs18\\par\nMLL\\par\nLS #15524/16055\\par\n\\pard\\ltrpar 4/25/2024 1:03 PM\\par\n\\par\n\\pard\\ltrpar\\fi720\\fs24\\par\n}\n",
-  "LastModified": "2025-01-06T21:31:28.41Z"
+  "Summary": "This bill would require delivery services to pay their contracted delivery workers no later than 7 calendar days after the end of a pay period. This bill would also require delivery services to provide each contracted delivery worker with an itemized, written statement that outlines their compensation no later than 7 days after the end of the pay period. This bill would require delivery services to retain such statements for at least three years, and provide copies to contracted delivery workers upon request.",
+  "TextID": 80051,
+  "Text": "Be it enacted by the Council as follows:\n      \n      \n      Section 1. Section 20-1523 of the administrative code of the city of New York, as amended by a local law for the year 2025 amending the administrative code of the city of New York, relating to protections for contracted delivery workers, as proposed in introduction number 1133, is amended to read as follows:\n      � 20-1523 Payments to workers. \n      a. A delivery service shall not charge or impose any fee on a contracted delivery worker retained by such service for the use of any form of payment selected by such service to pay such worker for work performed.\n      b. 1. A delivery service shall pay a contracted delivery worker retained by such service for work performed no less frequently than once [a week] per pay period. A delivery service shall pay all compensation, including any gratuity, owed to such contracted delivery worker for a pay period no later than 7 calendar days after the date on which such pay period ends.\n      2. It shall be unlawful for a delivery service or any person to fail to distribute to a contracted delivery worker any portion of any gratuity.\n      c. 1. No later than 7 calendar days after the date on which such pay period ended, a delivery service shall provide each contracted delivery worker retained by such service a written statement, in a form and manner the department may specify by rule, of all compensation owed to such contracted delivery worker for such pay period. Such statement shall set forth the gross compensation and net compensation of such contracted delivery worker for such pay period. Such statement shall also itemize all compensation and any permissible deductions or allowances taken during such pay period, including, in a form the department may specify by rule, a separate line item for:\n      (a) The minimum payment required pursuant to section 20-1522 or any rule promulgated thereunder;\n      (b) Any bonus or other monetary payment, including any such bonus or payment that may contribute to minimum payment required pursuant to section 20-1522 or any rule promulgated thereunder;\n      (c) Gratuities;\n      (d) Any monetary payment that may not, pursuant to section 20-1522 or any rule promulgated thereunder, contribute to minimum payments required by such section or any such rule; \n      (e) Any deduction or allowance taken, if any; and\n      (f) Any additional information that the department determines by rule would enable a contracted delivery worker to understand the compensation owed to such worker by the delivery service, including any information necessary to contest any errors in the statement.\n      2. Such statement shall also demonstrate the method used and calculations made by a delivery service to determine the minimum payments made to a contracted delivery worker for the respective pay period.\n      3. A delivery service shall retain a copy of any statement required by this subdivision for a period of at least 3 years in a form and manner the department may specify by rule. During such 3 year period, a contracted delivery worker may request a copy of any such statement provided to such contracted delivery worker by a delivery service. Such delivery service shall provide such a copy no less than 3 business days following such request. \n      � 2. This local law takes effect on the same date that a local law for the year 2025 amending the administrative code of the city of New York, relating to safe delivery device access for contracted delivery workers, as proposed in introduction number 30-B, takes effect.\n      \n\nLS #15524/16055\n7/3/25\n\n\n      \n      \n      \n      \n      \n      \n      2\n      \n      \n      \n      \n      1",
+  "RTF": "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang1033\\deflangfe1033{\\fonttbl{\\f0\\froman\\fprq2\\fcharset0 Times New Roman;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\n\\ul\\v0\\par\nBe it enacted by the Council as follows:\\ulnone\\par\n\\pard\\ltrpar\\fi720\\qj\\par\n\\pard\\ltrpar\\hyphpar0\\fi720\\sl480\\slmult1\\qj Section 1. Section 20-1523 of the administrative code of the city of New York, as amended by a local law for the year 2025 amending the administrative code of the city of New York, relating to protections for contracted delivery workers, as proposed in introduction number 1133, is amended to read as follows:\\par\n\\'a7 20-1523 Payments to workers. \\par\na. A delivery service shall not charge or impose any fee on a contracted delivery worker \\ul retained by such service\\ulnone  for the use of any form of payment selected by such service to pay such worker for work performed.\\par\nb. \\ul 1.\\ulnone  A delivery service shall pay a contracted delivery worker \\ul retained by such service\\ulnone  for work performed no less frequently than once [a week] \\ul per pay period\\ulnone . \\ul A delivery service shall pay all compensation, including any gratuity, owed to such contracted delivery worker for a pay period no later than 7 calendar days after the date on which such pay period ends.\\par\n2. It shall be unlawful for a delivery service or any person to fail to distribute to a contracted delivery worker any portion of any gratuity.\\par\nc. 1. No later than 7 calendar days after the date on which such pay period ended, a delivery service shall provide each contracted delivery worker retained by such service a written statement, in a form and manner the department may specify by rule, of all compensation owed to such contracted delivery worker for such pay period. Such statement shall set forth the gross compensation and net compensation of such contracted delivery worker for such pay period. Such statement shall also itemize all compensation and any permissible deductions or allowances taken during such pay period, including, in a form the department may specify by rule, a separate line item for:\\par\n(a) The minimum payment required pursuant to section 20-1522 or any rule promulgated thereunder;\\par\n(b) Any bonus or other monetary payment, including any such bonus or payment that may contribute to minimum payment required pursuant to section 20-1522 or any rule promulgated thereunder;\\par\n(c) Gratuities;\\par\n(d) Any monetary payment that may not, pursuant to section 20-1522 or any rule promulgated thereunder, contribute to minimum payments required by such section or any such rule; \\par\n(e) Any deduction or allowance taken, if any; and\\par\n(f) Any additional information that the department determines by rule would enable a contracted delivery worker to understand the compensation owed to such worker by the delivery service, including any information necessary to contest any errors in the statement.\\par\n2. Such statement shall also demonstrate the method used and calculations made by a delivery service to determine the minimum payments made to a contracted delivery worker for the respective pay period.\\par\n3. A delivery service shall retain a copy of any statement required by this subdivision for a period of at least 3 years in a form and manner the department may specify by rule. During such 3 year period, a contracted delivery worker may request a copy of any such statement provided to such contracted delivery worker by a delivery service. Such delivery service shall provide such a copy no less than 3 business days following such request. \\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qj\\ulnone\\'a7 2. This local law takes effect on the same date that a local law for the year 2025 amending the administrative code of the city of New York, relating to\\cf1  safe delivery device access for contracted delivery workers, as proposed in introduction number 30-B\\cf0 , takes effect.\\ul\\par\n\\pard\\ltrpar\\qj\\ulnone\\fs18\\par\nLS #15524/16055\\par\n\\pard\\ltrpar 7/3/25\\par\n\\par\n\\par\n}\n",
+  "LastModified": "2025-07-15T12:19:56.36Z"
 }
