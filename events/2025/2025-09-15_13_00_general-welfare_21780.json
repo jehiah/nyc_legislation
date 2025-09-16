@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21780_A_Committee_on_General_Welfare_25-09-15_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21780_M_Committee_on_General_Welfare_25-09-15_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Governmental Operations, State & Federal Legislation and the Committee on Hospitals",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21780&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,62 +20,74 @@
       "GUID": "E8DC06C0-83CA-4148-921B-5C7BB7794FC7",
       "Title": "Oversight - The Impacts of Federal Budget Cuts.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 76259,
       "MatterFile": "T2025-3963",
       "MatterName": "Oversight - The Impacts of Federal Budget Cuts.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-09-12T20:04:05.577Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-09-16T13:04:42.747Z"
     },
     {
       "ID": 424038,
       "GUID": "026D2722-D6EF-4B5D-9387-26B4B66FDA2D",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to monthly reporting by the director of management and budget on the status of all federal funding",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 76265,
       "MatterFile": "Int 1364-2025",
       "MatterName": "Monthly reporting by the director of management and budget on the status of all federal funding.",
       "MatterType": "Introduction",
-      "LastModified": "2025-09-12T20:04:05.577Z"
+      "LastModified": "2025-09-16T13:05:06.143Z"
     },
     {
       "ID": 424176,
       "GUID": "16199339-01C9-4711-B033-9CD6C9DB8952",
       "Title": "A Local Law to amend the New York city charter, in relation to establishing an office of the census",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 75468,
       "MatterFile": "Int 1225-2025",
       "MatterName": "Establishing an office of the census.",
       "MatterType": "Introduction",
-      "LastModified": "2025-09-12T20:04:05.577Z"
+      "LastModified": "2025-09-16T13:04:53.193Z"
     },
     {
       "ID": 424179,
       "GUID": "18D1531C-DCD7-4968-997F-98922952EB68",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to limiting the household rent contribution for recipients of a rental assistance voucher",
       "AgendaSequence": 4,
-      "MinutesSequence": 4,
+      "MinutesSequence": 9,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 76313,
       "MatterFile": "Int 1372-2025",
       "MatterName": "Limiting the household rent contribution for recipients of a rental assistance voucher.",
       "MatterType": "Introduction",
-      "LastModified": "2025-09-12T20:04:05.58Z"
+      "LastModified": "2025-09-16T13:05:17.98Z"
     },
     {
       "ID": 424614,
       "GUID": "2C89A7C2-DB00-4639-AAA7-2F0699E81349",
       "Title": "Jointly with the Committee on Governmental Operations, State & Federal Legislation and the Committee on Hospitals",
       "AgendaSequence": 0,
-      "MinutesSequence": 5,
+      "MinutesSequence": 11,
       "Version": "",
-      "LastModified": "2025-09-12T20:04:05.58Z"
+      "LastModified": "2025-09-16T13:05:12.987Z"
     },
     {
       "ID": 424615,
@@ -84,9 +97,168 @@
       "MinutesSequence": 0,
       "Version": "",
       "LastModified": "2025-09-12T20:04:05.543Z"
+    },
+    {
+      "ID": 424653,
+      "GUID": "FFD77AFF-A06B-4D16-8191-5C5B5759A387",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 50
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2025-09-16T13:04:23.82Z"
+    },
+    {
+      "ID": 424654,
+      "GUID": "8C36B312-0110-4A18-9D14-98AF8F46EFCA",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Menin, Narcisse, Brewer, Gutiérrez, Hanif, Carr, Vernikov, Brooks-Powers, Marmorato and Moya",
+      "LastModified": "2025-09-16T13:04:00.293Z"
+    },
+    {
+      "ID": 424662,
+      "GUID": "0B9370F3-BFB7-468A-A31C-8D693177FD15",
+      "Title": "Oversight - The Impacts of Federal Budget Cuts.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 76259,
+      "MatterFile": "T2025-3963",
+      "MatterName": "Oversight - The Impacts of Federal Budget Cuts.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-09-16T13:04:45.9Z"
+    },
+    {
+      "ID": 424663,
+      "GUID": "99615DC3-4EB4-4E6D-8420-2942D0FDB8FF",
+      "Title": "A Local Law to amend the New York city charter, in relation to establishing an office of the census",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 75468,
+      "MatterFile": "Int 1225-2025",
+      "MatterName": "Establishing an office of the census.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-09-16T13:04:58.65Z"
+    },
+    {
+      "ID": 424664,
+      "GUID": "3A5DD437-C0B9-4180-82FB-8DE0BCF09ED7",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to monthly reporting by the director of management and budget on the status of all federal funding",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 76265,
+      "MatterFile": "Int 1364-2025",
+      "MatterName": "Monthly reporting by the director of management and budget on the status of all federal funding.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-09-16T13:05:11.103Z"
+    },
+    {
+      "ID": 424665,
+      "GUID": "F708C931-76ED-4EF9-93E8-AB7BACCC4148",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to limiting the household rent contribution for recipients of a rental assistance voucher",
+      "AgendaSequence": 0,
+      "MinutesSequence": 10,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 76313,
+      "MatterFile": "Int 1372-2025",
+      "MatterName": "Limiting the household rent contribution for recipients of a rental assistance voucher.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-09-16T13:05:25.103Z"
     }
   ],
   "AgendaLastPublished": "2025-09-12T20:03:52.983Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-09-12T20:03:53.017Z"
+  "MinutesLastPublished": "2025-09-16T13:05:32.337Z",
+  "LastModified": "2025-09-16T13:05:32.383Z"
 }
