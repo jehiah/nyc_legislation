@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21838_A_Committee_on_Health_25-09-19_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21838_M_Committee_on_Health_25-09-19_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_250919-102154.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21838&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,56 +20,227 @@
       "GUID": "0CFCB3F1-692D-4002-80D5-697408E51A9E",
       "Title": "Oversight - Legionnaires’ Disease, Cooling Tower Inspections, and Keeping New Yorkers Safe.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 76283,
       "MatterFile": "T2025-3987",
       "MatterName": "Oversight - Legionnaires’ Disease, Cooling Tower Inspections, and Keeping New Yorkers Safe.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-09-18T19:14:37.083Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-09-19T18:29:05.013Z"
     },
     {
       "ID": 424205,
       "GUID": "BD32FD1B-A984-473D-811A-3E1802F02348",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring building owners to provide shower hoses and informational materials on Legionnaires’ disease to tenants",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 73142,
       "MatterFile": "Int 0166-2024",
       "MatterName": "Requiring building owners to provide shower hoses and informational materials on Legionnaires’ disease to tenants.",
       "MatterType": "Introduction",
-      "LastModified": "2025-09-05T20:39:19.367Z"
+      "LastModified": "2025-09-19T18:28:30.14Z"
     },
     {
       "ID": 424206,
       "GUID": "106A9C11-B153-443E-A9AF-62E50B25B848",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to building water system maintenance and inspection.",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 72871,
       "MatterFile": "Int 0434-2024",
       "MatterName": "Building water system maintenance and inspection.",
       "MatterType": "Introduction",
-      "LastModified": "2025-09-05T20:40:21.733Z"
+      "LastModified": "2025-09-19T18:29:17.497Z"
     },
     {
       "ID": 424207,
       "GUID": "CB740B51-511F-4066-A4F0-04E2FBA6CA52",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to cooling tower inspections in heat-related emergencies",
       "AgendaSequence": 4,
-      "MinutesSequence": 4,
+      "MinutesSequence": 9,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 76381,
       "MatterFile": "Int 1390-2025",
       "MatterName": "Cooling tower inspections in heat-related emergencies.",
       "MatterType": "Introduction",
-      "LastModified": "2025-09-12T18:44:57.27Z"
+      "LastModified": "2025-09-19T18:28:05.087Z"
+    },
+    {
+      "ID": 424787,
+      "GUID": "AB710C2C-6FF9-462A-AF69-467B20C9B53F",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 50
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 100
+        }
+      ],
+      "LastModified": "2025-09-19T18:48:24.573Z"
+    },
+    {
+      "ID": 424788,
+      "GUID": "11233DDE-2D7C-4CA2-881A-7164110EA264",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Speaker Adams, Farías, Sanchez, Salaam, Restler and Public Advocate Williams",
+      "LastModified": "2025-09-19T18:26:53.757Z"
+    },
+    {
+      "ID": 424789,
+      "GUID": "9AA4510C-22D5-4763-B619-32F1C55FC67C",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to cooling tower inspections in heat-related emergencies",
+      "AgendaSequence": 0,
+      "MinutesSequence": 10,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 76381,
+      "MatterFile": "Int 1390-2025",
+      "MatterName": "Cooling tower inspections in heat-related emergencies.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-09-19T18:29:41.62Z"
+    },
+    {
+      "ID": 424790,
+      "GUID": "4783F81F-6CFB-4D5A-B70D-A495B784D38B",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to building water system maintenance and inspection.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 72871,
+      "MatterFile": "Int 0434-2024",
+      "MatterName": "Building water system maintenance and inspection.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-09-19T18:28:11.507Z"
+    },
+    {
+      "ID": 424791,
+      "GUID": "F29CA9AF-8406-4472-9ADE-C70EA491F4DA",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring building owners to provide shower hoses and informational materials on Legionnaires’ disease to tenants",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 73142,
+      "MatterFile": "Int 0166-2024",
+      "MatterName": "Requiring building owners to provide shower hoses and informational materials on Legionnaires’ disease to tenants.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-09-19T18:28:24.263Z"
+    },
+    {
+      "ID": 424792,
+      "GUID": "9BEC34D1-7F8B-4815-81E4-4F9B4684224C",
+      "Title": "Oversight - Legionnaires’ Disease, Cooling Tower Inspections, and Keeping New Yorkers Safe.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 76283,
+      "MatterFile": "T2025-3987",
+      "MatterName": "Oversight - Legionnaires’ Disease, Cooling Tower Inspections, and Keeping New Yorkers Safe.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-09-19T18:28:56.71Z"
     }
   ],
   "AgendaLastPublished": "2025-09-18T19:07:45.33Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-09-19T14:21:55.777Z"
+  "MinutesLastPublished": "2025-09-19T18:29:46.68Z",
+  "LastModified": "2025-09-19T18:29:46.777Z"
 }
