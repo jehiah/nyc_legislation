@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21878_A_Committee_on_Rules%2C_Privileges_and_Elections_25-09-22_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21878_M_Committee_on_Rules%2C_Privileges_and_Elections_25-09-22_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_250922-102650.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21878&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,32 +20,157 @@
       "GUID": "5032BE8E-E50E-4D2E-9ABA-8A82B22E912A",
       "Title": "AND SUCH OTHER BUSINESS AS MAY BE NECESSARY",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 0,
       "Version": "*",
       "MatterID": 72291,
       "MatterFile": "T2024-0001",
       "MatterName": "AND SUCH OTHER BUSINESS AS MAY BE NECESSARY",
       "MatterType": "N/A",
       "MatterStatus": "Committee",
-      "LastModified": "2025-09-18T17:55:24.257Z"
+      "LastModified": "2025-09-23T00:54:41.003Z"
     },
     {
       "ID": 424750,
       "GUID": "E568A7C0-31FF-4F65-B9DD-30A791693B37",
       "Title": "Resolution to amend the Rules of the Council to improve clarity and consistency with Council practices and precedent.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Preconsidered",
       "MinutesNote": "Preconsidered",
+      "ActionID": 15,
+      "ActionName": "Hearing on P-C Item by Comm",
+      "ActionText": "This Resolution was Hearing on P-C Item by Comm",
       "MatterID": 76456,
       "MatterFile": "T2025-4160",
       "MatterName": "Amend the Rules of the Council to improve clarity and consistency with Council practices and precedent.",
       "MatterType": "Resolution",
-      "LastModified": "2025-09-19T14:47:31.753Z"
+      "LastModified": "2025-09-23T00:56:04.713Z"
+    },
+    {
+      "ID": 424868,
+      "GUID": "469F726C-1F4F-49AA-90C3-F32CF4BC4082",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7741,
+          "Slug": "keith-powers",
+          "FullName": "Keith Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7739,
+          "Slug": "adrienne-e-adams",
+          "FullName": "Adrienne E. Adams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 110
+        }
+      ],
+      "LastModified": "2025-09-23T00:55:54.18Z"
+    },
+    {
+      "ID": 424869,
+      "GUID": "2924AFAF-88BC-4428-A7F1-05A017F6BE30",
+      "Title": "AND SUCH OTHER BUSINESS AS MAY BE NECESSARY",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "MatterID": 72291,
+      "MatterFile": "T2024-0001",
+      "MatterName": "AND SUCH OTHER BUSINESS AS MAY BE NECESSARY",
+      "MatterType": "N/A",
+      "MatterStatus": "Committee",
+      "LastModified": "2025-09-23T00:55:55.807Z"
+    },
+    {
+      "ID": 424870,
+      "GUID": "711C80F2-12ED-4B85-AF44-A5B3CD8F8313",
+      "Title": "Resolution to amend the Rules of the Council to improve clarity and consistency with Council practices and precedent.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5018,
+      "ActionName": "P-C Item Laid Over by Comm",
+      "ActionText": "This Resolution was P-C Item Laid Over by Comm",
+      "MatterID": 76456,
+      "MatterFile": "T2025-4160",
+      "MatterName": "Amend the Rules of the Council to improve clarity and consistency with Council practices and precedent.",
+      "MatterType": "Resolution",
+      "LastModified": "2025-09-23T00:56:24.51Z"
     }
   ],
   "AgendaLastPublished": "2025-09-18T19:31:29.117Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-09-22T15:31:34.427Z"
+  "MinutesLastPublished": "2025-09-23T00:56:30.653Z",
+  "LastModified": "2025-09-23T00:56:30.78Z"
 }
