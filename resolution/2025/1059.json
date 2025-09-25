@@ -6,8 +6,8 @@
   "Title": "Resolution approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget.",
   "TypeID": 1,
   "TypeName": "Resolution",
-  "StatusID": 2,
-  "StatusName": "Introduced",
+  "StatusID": 37,
+  "StatusName": "Reported from Committee and Introduced",
   "BodyID": 11,
   "BodyName": "Committee on Finance",
   "IntroDate": "2025-09-25T00:00:00Z",
@@ -24,6 +24,191 @@
   ],
   "History": [
     {
+      "ID": 424675,
+      "Date": "2025-09-25T12:00:00Z",
+      "ActionID": 15,
+      "Action": "Hearing on P-C Item by Comm",
+      "Description": "This Resolution was Hearing on P-C Item by Comm",
+      "BodyID": 11,
+      "BodyName": "Committee on Finance",
+      "EventID": 21859,
+      "AgendaSequence": 1,
+      "MinutesSequence": 2,
+      "Version": "*",
+      "AgendaNote": "Preconsidered",
+      "MinutesNote": "Preconsidered",
+      "MatterStatusID": 2,
+      "LastModified": "2025-09-25T17:11:15.503Z"
+    },
+    {
+      "ID": 425155,
+      "Date": "2025-09-25T12:00:00Z",
+      "ActionID": 25,
+      "Action": "P-C Item Approved by Comm",
+      "Description": "A motion was made that this Resolution be P-C Item Approved by Comm approved by Roll Call.",
+      "BodyID": 11,
+      "BodyName": "Committee on Finance",
+      "EventID": 21859,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterStatusID": 37,
+      "Votes": [
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 10
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 30
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 50
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 60
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 70
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 80
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 90
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 100
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 110
+        },
+        {
+          "ID": 7741,
+          "Slug": "keith-powers",
+          "FullName": "Keith Powers",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 120
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 130
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 140
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 150
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 160
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 170
+        }
+      ],
+      "LastModified": "2025-09-25T17:29:28.417Z"
+    },
+    {
       "ID": 424689,
       "Date": "2025-09-25T13:25:00Z",
       "ActionID": 27,
@@ -38,30 +223,37 @@
   ],
   "Attachments": [
     {
-      "ID": 326003,
-      "LastModified": "2025-09-25T13:44:27.197Z",
+      "ID": 326025,
+      "LastModified": "2025-09-25T16:35:02.037Z",
       "Name": "Charts for Resolution",
-      "Link": "https://nyc.legistar1.com/nyc/attachments/67bfbe2d-4ab5-4482-9443-84db8daaa8e3.pdf",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/297376ad-9ddd-495b-9aaf-612e476a78a3.pdf",
       "Sort": 1
     },
     {
       "ID": 326004,
-      "LastModified": "2025-09-25T13:44:29.017Z",
+      "LastModified": "2025-09-25T16:24:35.72Z",
       "Name": "Committee Report",
       "Link": "https://nyc.legistar1.com/nyc/attachments/f68ed138-9b9b-4175-9c44-4746704bdd70.pdf",
-      "Sort": 2
+      "Sort": 3
     },
     {
       "ID": 326002,
       "LastModified": "2025-09-25T12:49:10.357Z",
       "Name": "Res. No. 1059",
       "Link": "https://nyc.legistar1.com/nyc/attachments/9c2704ae-d33c-4c42-abda-63259cdd8f0d.docx",
-      "Sort": 3
+      "Sort": 4
+    },
+    {
+      "ID": 326027,
+      "LastModified": "2025-09-25T17:39:17.137Z",
+      "Name": "Committee Report - Stated Meeting",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/053fa576-a9ff-468e-bd9c-44fb22fdaa97.docx",
+      "Sort": 5
     }
   ],
   "Summary": "",
   "TextID": 80326,
   "Text": "Whereas, On June 30, 2025, the Council of the City of New York (the \"City Council\") adopted the expense budget for Fiscal Year 2026 with various programs and initiatives (the \"Fiscal 2026 Expense Budget\"); and\n      Whereas, On June 30, 2024, the Council of the City of New York (the \"City Council\") adopted the expense budget for Fiscal Year 2025 with various programs and initiatives (the \"Fiscal 2025 Expense Budget\"); and\n      Whereas, On June 30, 2023, the Council of the City of New York (the \"City Council\") adopted the expense budget for Fiscal Year 2024 with various programs and initiatives (the \"Fiscal 2024 Expense Budget\"); and\n      Whereas, The Council of the City of New York hereby implements and furthers the appropriations set forth in the Fiscal 2026, Fiscal 2025, and Fiscal 2024 Expense Budgets by approving the new designations and changes in the designation of certain organizations receiving discretionary funding; now, therefore, be it \n      Resolved, That the Council of the City of New York approves the new designations and changes in the designation of certain organizations receiving discretionary funding pursuant to the Fiscal 2026, Fiscal 2025, and Fiscal 2024 Expense Budgets, as set forth in Charts 1 through 66. \n\nPage 1 of 1",
   "RTF": "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang1033\\deflangfe1033{\\fonttbl{\\f0\\froman\\fprq2\\fcharset0 Times New Roman;}{\\f1\\fswiss\\fprq2\\fcharset0 Calibri;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\n\\pard\\ltrpar\\v0  \\f1\\par\n\\f0 By Council Member Brannan\\f1\\par\n\\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qj\\f0 Whereas, On June 30, 2025, the Council of the City of New York (the \\ldblquote City Council\\rdblquote ) adopted the expense budget for Fiscal Year 2026 with various programs and initiatives (the \\ldblquote Fiscal 2026 Expense Budget\\rdblquote ); and\\par\nWhereas, On June 30, 2024, the Council of the City of New York (the \\ldblquote City Council\\rdblquote ) adopted the expense budget for Fiscal Year 2025 with various programs and initiatives (the \\ldblquote Fiscal 2025 Expense Budget\\rdblquote ); and\\par\nWhereas, On June 30, 2023, the Council of the City of New York (the \\ldblquote City Council\\rdblquote ) adopted the expense budget for Fiscal Year 2024 with various programs and initiatives (the \\ldblquote Fiscal 2024 Expense Budget\\rdblquote ); and\\par\nWhereas, The Council of the City of New York hereby implements and furthers the appropriations set forth in the Fiscal 2026, Fiscal 2025, and Fiscal 2024 Expense Budgets by approving the new designations and changes in the designation of certain organizations receiving discretionary funding; now, therefore, be it \\par\nResolved, That the Council of the City of New York approves the new designations and changes in the designation of certain organizations receiving discretionary funding pursuant to the Fiscal 2026, Fiscal 2025, and Fiscal 2024 Expense Budgets, as set forth in Charts 1 through 66. \\par\n\\pard\\ltrpar\\sa160\\sl252\\slmult1\\cf0\\f1\\fs22\\par\n}\n",
-  "LastModified": "2025-09-25T13:44:29.017Z"
+  "LastModified": "2025-09-25T17:39:17.14Z"
 }

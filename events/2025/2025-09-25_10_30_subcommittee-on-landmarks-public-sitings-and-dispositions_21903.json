@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21903_A_Subcommittee_on_Landmarks%2C_Public_Sitings_and_Dispositions_25-09-25_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21903_M_Subcommittee_on_Landmarks%2C_Public_Sitings_and_Dispositions_25-09-25_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_250925-104426.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21903&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,17 +20,117 @@
       "GUID": "89692A89-06F1-468E-A5EF-9B5388B6A4A9",
       "Title": "Application No. G 230033 HHX (NYC Health & Hospitals/Jacobi Just Home) submitted by the New York City Health and Hospitals Corporation, pursuant to Section 7385(6) of the HHC Enabling Act, for authorization to lease a parcel of land on the campus of NYC Health and Hospitals/Jacobi in the Bronx, including an existing building and surrounding grounds, to The Fortune Society, Inc. or an affiliate housing development fund corporation formed for the lease transaction, to be used for a multifamily affordable residential building including supportive housing, Borough of the Bronx, Council District 13, Community District 11.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Land Use Application was Hearing Held by Committee",
       "MatterID": 76352,
       "MatterFile": "LU 0363-2025",
       "MatterName": "Landmarks, NYC Health & Hospitals/Jacobi Just Home, Bronx (G 230033 HHX).",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Laid Over in Committee",
-      "LastModified": "2025-09-23T16:07:34.55Z"
+      "MatterStatus": "Companion Pending Approval by Council",
+      "LastModified": "2025-09-25T15:05:54.813Z"
+    },
+    {
+      "ID": 425099,
+      "GUID": "A3765DB7-1F60-4005-8327-E7D4E29E2124",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 50
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2025-09-25T15:02:29.647Z"
+    },
+    {
+      "ID": 425100,
+      "GUID": "2C20C9AF-681B-46C7-A111-AD3AD45EAF1D",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Marmorato and Stevens",
+      "LastModified": "2025-09-25T15:02:29.647Z"
+    },
+    {
+      "ID": 425101,
+      "GUID": "5C2A3B27-B376-4179-BF3F-628B5BD44503",
+      "Title": "Application No. G 230033 HHX (NYC Health & Hospitals/Jacobi Just Home) submitted by the New York City Health and Hospitals Corporation, pursuant to Section 7385(6) of the HHC Enabling Act, for authorization to lease a parcel of land on the campus of NYC Health and Hospitals/Jacobi in the Bronx, including an existing building and surrounding grounds, to The Fortune Society, Inc. or an affiliate housing development fund corporation formed for the lease transaction, to be used for a multifamily affordable residential building including supportive housing, Borough of the Bronx, Council District 13, Community District 11.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 79,
+      "ActionName": "Approved by Subcommittee",
+      "ActionText": "A motion was made that this Land Use Application be Approved by Subcommittee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 76352,
+      "MatterFile": "LU 0363-2025",
+      "MatterName": "Landmarks, NYC Health & Hospitals/Jacobi Just Home, Bronx (G 230033 HHX).",
+      "MatterType": "Land Use Application",
+      "MatterStatus": "Companion Pending Approval by Council",
+      "LastModified": "2025-09-25T15:06:08.19Z"
     }
   ],
-  "AgendaLastPublished": "2025-09-23T16:11:27.477Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-09-23T16:11:27.51Z"
+  "AgendaLastPublished": "2025-09-25T15:02:37.75Z",
+  "MinutesLastPublished": "2025-09-25T15:06:13.587Z",
+  "LastModified": "2025-09-25T15:06:13.71Z"
 }
