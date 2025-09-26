@@ -5,12 +5,18 @@ import (
 	"net/http"
 )
 
+var noredirectHttpClient = &http.Client{
+	CheckRedirect: func(req *http.Request, via []*http.Request) error {
+		return http.ErrUseLastResponse
+	},
+}
+
 func checkThreads(u string) error {
 	req, err := http.NewRequest("HEAD", u, nil)
 	if err != nil {
 		return err
 	}
-	resp, err := http.DefaultClient.Do(req)
+	resp, err := noredirectHttpClient.Do(req)
 	if err != nil {
 		return err
 	}
