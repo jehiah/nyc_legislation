@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21867_A_Committee_on_Oversight_and_Investigations_25-09-30_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21867_M_Committee_on_Oversight_and_Investigations_25-09-30_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Technology, the Committee on Public Safety and the Committee on Public Housing",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21867&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,26 +20,132 @@
       "GUID": "98AAA42E-54FE-40D0-B9C1-3468C1BF5CEC",
       "Title": "Jointly with the Committee on Technology, the Committee on Public Safety and the Committee on Public Housing",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "",
-      "LastModified": "2025-09-18T02:12:37.6Z"
+      "LastModified": "2025-09-30T18:30:06.81Z"
     },
     {
       "ID": 424736,
       "GUID": "6FA68D1F-E577-4301-BDA7-104F178E6AA6",
       "Title": "Oversight - The Use of Surveillance in NYCHA Developments.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 76455,
       "MatterFile": "T2025-4159",
       "MatterName": "Oversight - The Use of Surveillance in NYCHA Developments.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-09-18T02:13:01.62Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-09-30T18:30:13.107Z"
+    },
+    {
+      "ID": 425290,
+      "GUID": "20B46686-6974-42FB-A8F5-FB0F8228087E",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 70
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        }
+      ],
+      "LastModified": "2025-09-30T18:30:04.187Z"
+    },
+    {
+      "ID": 425291,
+      "GUID": "399E1352-7260-4C67-BEBC-12B0CF679527",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Gutiérrez, Marte, Ossé, Salaam, Paladino, Cabán, Avilés, Mealy, Holden, Salamanca, Ariola, Bottcher, De La Rosa and Sanchez",
+      "LastModified": "2025-09-30T18:29:53.2Z"
+    },
+    {
+      "ID": 425292,
+      "GUID": "5F1C84A7-D764-492C-BFB3-72C51E67579A",
+      "Title": "Oversight - The Use of Surveillance in NYCHA Developments.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 76455,
+      "MatterFile": "T2025-4159",
+      "MatterName": "Oversight - The Use of Surveillance in NYCHA Developments.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-09-30T18:30:18.933Z"
     }
   ],
   "AgendaLastPublished": "2025-09-18T02:18:28.44Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-09-18T02:18:28.547Z"
+  "MinutesLastPublished": "2025-09-30T18:30:25.243Z",
+  "LastModified": "2025-09-30T18:30:25.303Z"
 }

@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21865_A_Committee_on_Public_Safety_25-09-30_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21865_M_Committee_on_Public_Safety_25-09-30_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Technology, the Committee on Public Housing and the Committee on Oversight and Investigations",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21865&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,26 +20,148 @@
       "GUID": "6E9CC144-B58C-444E-8BD9-2537DE078FA1",
       "Title": "Jointly with the Committee on Technology, the Committee on Public Housing and the Committee on Oversight and Investigations",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "",
-      "LastModified": "2025-09-18T02:04:09.753Z"
+      "LastModified": "2025-09-30T18:12:59.627Z"
     },
     {
       "ID": 424734,
       "GUID": "F3675A0E-DF8F-4F04-BB0B-4371239633F6",
       "Title": "Oversight - The Use of Surveillance in NYCHA Developments.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 76453,
       "MatterFile": "T2025-4157",
       "MatterName": "Oversight - The Use of Surveillance in NYCHA Developments.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-09-18T02:04:42.27Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-09-30T18:13:04.77Z"
+    },
+    {
+      "ID": 425285,
+      "GUID": "E8AF90B4-7757-40CB-BFF4-FE28D389BB3B",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 110
+        }
+      ],
+      "LastModified": "2025-09-30T18:11:31.47Z"
+    },
+    {
+      "ID": 425286,
+      "GUID": "9379D73D-AF35-4C04-80CD-FF87192961DE",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Gutiérrez, Brewer, Banks, Krishnan, Avilés, Mealy, Paladino, Restler, Won, Bottcher, Sanchez and Salamanca",
+      "LastModified": "2025-09-30T18:12:58.047Z"
+    },
+    {
+      "ID": 425287,
+      "GUID": "E1BC9040-F023-4AA6-8044-CDE253C0BD3C",
+      "Title": "Oversight - The Use of Surveillance in NYCHA Developments.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 76453,
+      "MatterFile": "T2025-4157",
+      "MatterName": "Oversight - The Use of Surveillance in NYCHA Developments.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-09-30T18:13:20.247Z"
     }
   ],
   "AgendaLastPublished": "2025-09-18T02:19:34.49Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-09-18T02:19:34.523Z"
+  "MinutesLastPublished": "2025-09-30T18:13:25.52Z",
+  "LastModified": "2025-09-30T18:13:25.647Z"
 }

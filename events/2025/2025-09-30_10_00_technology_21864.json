@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21864_A_Committee_on_Technology_25-09-30_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21864_M_Committee_on_Technology_25-09-30_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Public Safety, the Committee on Public Housing and the Committee on Oversight and Investigations.",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_250930-104307.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21864&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,26 +21,108 @@
       "GUID": "B813673B-0DA2-41FE-8439-63FA64BF966B",
       "Title": "Jointly with the Committee on Public Safety, the Committee on Public Housing and the Committee on Oversight and Investigations",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "",
-      "LastModified": "2025-09-18T02:02:26.467Z"
+      "LastModified": "2025-09-30T19:27:50.833Z"
     },
     {
       "ID": 424732,
       "GUID": "D4900100-4A1A-4AD8-95BB-C39FF5CD3B86",
       "Title": "Oversight - The Use of Surveillance in NYCHA Developments.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 76452,
       "MatterFile": "T2025-4156",
       "MatterName": "Oversight - The Use of Surveillance in NYCHA Developments.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-09-26T15:15:59.897Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-09-30T19:27:55.237Z"
+    },
+    {
+      "ID": 425293,
+      "GUID": "89C33A33-DE11-4414-9FD6-9060FE25232C",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        }
+      ],
+      "LastModified": "2025-09-30T19:28:28.1Z"
+    },
+    {
+      "ID": 425294,
+      "GUID": "FA6A3FEE-5B91-4AEF-801D-F4839BD7C4DA",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Marte, Ossé, Brewer, Ayala, Banks, Joseph, Salaam, Salamanca, Cabán, Avilés, Mealy, Krishnan, Restler, Ariola, De La Rosa and Sanchez ",
+      "LastModified": "2025-09-30T19:27:48.083Z"
+    },
+    {
+      "ID": 425295,
+      "GUID": "BF787DA0-A671-4961-8BFD-E9D0AA6552CE",
+      "Title": "Oversight - The Use of Surveillance in NYCHA Developments.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 76452,
+      "MatterFile": "T2025-4156",
+      "MatterName": "Oversight - The Use of Surveillance in NYCHA Developments.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-09-30T19:28:11.253Z"
     }
   ],
   "AgendaLastPublished": "2025-09-18T02:20:08.567Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-09-30T14:43:09.167Z"
+  "MinutesLastPublished": "2025-09-30T19:28:33.42Z",
+  "LastModified": "2025-09-30T19:28:33.533Z"
 }
