@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21817_A_Committee_on_Education_25-09-30_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21817_M_Committee_on_Education_25-09-30_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_250930-131140.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21817&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,56 +20,249 @@
       "GUID": "B46B1D9F-F442-499A-A720-08062D4F8FCA",
       "Title": "Oversight - Language Access in NYC Public Schools.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 76327,
       "MatterFile": "T2025-4031",
       "MatterName": "Oversight - Language Access in NYC Public Schools.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-09-30T19:00:26.337Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-10-01T01:16:56.967Z"
     },
     {
       "ID": 424061,
       "GUID": "5D85FEF9-0B2E-4B50-8BAD-A9D8B6377F4B",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of education to distribute information about the importance of dental care",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 76107,
       "MatterFile": "Int 1336-2025",
       "MatterName": "Requiring the department of education to distribute information about the importance of dental care.",
       "MatterType": "Introduction",
-      "LastModified": "2025-08-22T17:14:36.137Z"
+      "LastModified": "2025-10-01T01:17:07.933Z"
     },
     {
       "ID": 424062,
       "GUID": "7633BEC1-A276-4CB8-9C94-155B6378ED12",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to distributing information on vaccines to parents of students in New York city schools",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 6,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 76079,
       "MatterFile": "Int 1337-2025",
       "MatterName": "Distributing information on vaccines to parents of students in New York city schools.",
       "MatterType": "Introduction",
-      "LastModified": "2025-08-22T17:14:44.14Z"
+      "LastModified": "2025-10-01T01:17:20.327Z"
     },
     {
       "ID": 424063,
       "GUID": "AEFA9DE0-3FA4-4F71-8440-86983C09CBE0",
       "Title": "Resolution calling on the New York City Department of Education and the New York State Education Department to collaborate on and prioritize increasing the number of educators trained to work with English Language Learners and to improve the quality and comprehensiveness of English Language Learners’ education.",
       "AgendaSequence": 4,
-      "MinutesSequence": 4,
+      "MinutesSequence": 8,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 73249,
       "MatterFile": "Res 0054-2024",
       "MatterName": "DOE and the NYS Education Dept to collaborate on and prioritize increasing the number of educators trained to work with English Language Learners and to improve the quality and comprehensiveness of English Language Learners’ education.",
       "MatterType": "Resolution",
-      "LastModified": "2025-08-22T17:15:11.69Z"
+      "LastModified": "2025-10-01T01:17:37.917Z"
+    },
+    {
+      "ID": 425315,
+      "GUID": "5BEC2742-B732-4034-9629-48C05EAF9D90",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 30
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 80
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 110
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 120
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 130
+        }
+      ],
+      "LastModified": "2025-10-01T01:16:47.75Z"
+    },
+    {
+      "ID": 425316,
+      "GUID": "400B8393-2758-4EF0-81E3-B30C22D8267F",
+      "Title": "Oversight - Language Access in NYC Public Schools.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 76327,
+      "MatterFile": "T2025-4031",
+      "MatterName": "Oversight - Language Access in NYC Public Schools.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-10-01T01:17:00.71Z"
+    },
+    {
+      "ID": 425317,
+      "GUID": "3913C6B6-482F-4E22-928E-6E577B8BD147",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of education to distribute information about the importance of dental care",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 76107,
+      "MatterFile": "Int 1336-2025",
+      "MatterName": "Requiring the department of education to distribute information about the importance of dental care.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-10-01T01:17:13.48Z"
+    },
+    {
+      "ID": 425318,
+      "GUID": "7EF845CE-F12D-4F43-A454-BAA6CE9A12B4",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to distributing information on vaccines to parents of students in New York city schools",
+      "AgendaSequence": 0,
+      "MinutesSequence": 7,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 76079,
+      "MatterFile": "Int 1337-2025",
+      "MatterName": "Distributing information on vaccines to parents of students in New York city schools.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-10-01T01:17:29.713Z"
+    },
+    {
+      "ID": 425319,
+      "GUID": "A25B0CA8-C3CD-4FAF-9FBA-685E2D9A4850",
+      "Title": "Resolution calling on the New York City Department of Education and the New York State Education Department to collaborate on and prioritize increasing the number of educators trained to work with English Language Learners and to improve the quality and comprehensiveness of English Language Learners’ education.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 9,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 73249,
+      "MatterFile": "Res 0054-2024",
+      "MatterName": "DOE and the NYS Education Dept to collaborate on and prioritize increasing the number of educators trained to work with English Language Learners and to improve the quality and comprehensiveness of English Language Learners’ education.",
+      "MatterType": "Resolution",
+      "LastModified": "2025-10-01T01:17:55.077Z"
     }
   ],
   "AgendaLastPublished": "2025-09-18T19:36:36.63Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-09-30T20:54:15.047Z"
+  "MinutesLastPublished": "2025-10-01T01:18:00.633Z",
+  "LastModified": "2025-10-01T01:18:00.753Z"
 }
