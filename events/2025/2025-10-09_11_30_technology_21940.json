@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21940_A_Committee_on_Technology_25-10-09_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21940_M_Committee_on_Technology_25-10-09_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-3_251009-114825.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21940&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,18 +21,123 @@
       "GUID": "CB515CD1-75EA-4C16-8D66-E417FD6F3D0D",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to a plan for expanding home access to broadband internet",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 1122-A",
       "MinutesNote": "Proposed Int. No. 1122-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 72178,
       "MatterFile": "Int 1122-2024",
       "MatterName": "Plan for expanding home access to broadband internet.",
       "MatterType": "Introduction",
-      "LastModified": "2025-10-06T20:37:24.74Z"
+      "LastModified": "2025-10-09T16:01:31.913Z"
+    },
+    {
+      "ID": 425826,
+      "GUID": "EA55FC36-A86A-4D6B-BA6E-7BE487339AB0",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 40
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        }
+      ],
+      "LastModified": "2025-10-09T16:14:58.5Z"
+    },
+    {
+      "ID": 425827,
+      "GUID": "27277696-4C53-4EFC-80F9-9B4C8803FE86",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to a plan for expanding home access to broadband internet",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 72178,
+      "MatterFile": "Int 1122-2024",
+      "MatterName": "Plan for expanding home access to broadband internet.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-10-09T16:01:37.083Z"
+    },
+    {
+      "ID": 425828,
+      "GUID": "6ADC1E38-43DD-44F5-B3FF-8708A97391FD",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to a plan for expanding home access to broadband internet",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 72178,
+      "MatterFile": "Int 1122-2024",
+      "MatterName": "Plan for expanding home access to broadband internet.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-10-09T16:01:43.03Z"
+    },
+    {
+      "ID": 425829,
+      "GUID": "AE0E5CA2-37B2-427F-A837-681FA555B7AA",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to a plan for expanding home access to broadband internet",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 72178,
+      "MatterFile": "Int 1122-2024",
+      "MatterName": "Plan for expanding home access to broadband internet.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-10-09T16:15:33.583Z"
     }
   ],
   "AgendaLastPublished": "2025-10-06T20:37:29.867Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-10-06T20:37:29.913Z"
+  "MinutesLastPublished": "2025-10-09T16:15:38.357Z",
+  "LastModified": "2025-10-09T16:15:38.39Z"
 }
