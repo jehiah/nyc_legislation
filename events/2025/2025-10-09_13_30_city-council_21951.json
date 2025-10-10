@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21951_A_City_Council_25-10-09_Council_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21951_M_City_Council_25-10-09_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_251009-161142.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21951&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -520,7 +521,7 @@
       "AgendaNumber": "9.",
       "Version": "",
       "AgendaNote": "DISCUSSION OF GENERAL ORDERS",
-      "LastModified": "2025-10-09T18:16:45.88Z"
+      "LastModified": "2025-10-10T02:49:40.25Z"
     },
     {
       "ID": 425645,
@@ -611,12 +612,17 @@
       "MinutesSequence": 18,
       "Version": "B",
       "AgendaNote": "Amended and Coupled on GO",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "Consent": 1,
       "MatterID": 75663,
       "MatterFile": "Int 1247-2025",
       "MatterName": "Disbursement of a percentage of contract awards to non-profit organizations for human services upon registration by the comptroller.",
       "MatterType": "Introduction",
-      "LastModified": "2025-10-09T22:00:49.547Z"
+      "LastModified": "2025-10-10T02:50:37.86Z"
     },
     {
       "ID": 425655,
@@ -656,7 +662,7 @@
       "MatterFile": "Int 1249-2025",
       "MatterName": "Requiring agency action plans for retroactive human services contract registration.",
       "MatterType": "Introduction",
-      "LastModified": "2025-10-09T22:00:44.723Z"
+      "LastModified": "2025-10-10T02:50:49.13Z"
     },
     {
       "ID": 425661,
@@ -686,7 +692,7 @@
       "MatterFile": "Res 1089-2025",
       "MatterName": "LU 404 - Melrose Villa Hermosa: Block 2406, Lot 21, Bronx, Community District No. 3, Council District No. 17.",
       "MatterType": "Resolution",
-      "LastModified": "2025-10-09T22:00:44.74Z"
+      "LastModified": "2025-10-10T02:50:52.497Z"
     },
     {
       "ID": 425663,
@@ -716,7 +722,7 @@
       "MatterFile": "Int 1208-2025",
       "MatterName": "Report and study on air conditioning in homeless shelters.",
       "MatterType": "Introduction",
-      "LastModified": "2025-10-09T22:00:44.75Z"
+      "LastModified": "2025-10-10T02:50:54.107Z"
     },
     {
       "ID": 425665,
@@ -736,7 +742,7 @@
       "MatterFile": "Int 1232-2025",
       "MatterName": "Notifications for emergency rental assistance grant approvals.",
       "MatterType": "Introduction",
-      "LastModified": "2025-10-09T22:00:44.76Z"
+      "LastModified": "2025-10-10T02:50:56.363Z"
     },
     {
       "ID": 425666,
@@ -785,7 +791,7 @@
       "MatterFile": "Int 1390-2025",
       "MatterName": "Cooling tower inspections and testing.",
       "MatterType": "Introduction",
-      "LastModified": "2025-10-09T22:00:44.77Z"
+      "LastModified": "2025-10-10T02:51:11.597Z"
     },
     {
       "ID": 425669,
@@ -815,7 +821,7 @@
       "MatterFile": "Int 0925-2024",
       "MatterName": "Requiring the inspection of steam radiators in multiple dwellings.",
       "MatterType": "Introduction",
-      "LastModified": "2025-10-09T22:00:44.777Z"
+      "LastModified": "2025-10-10T02:51:13.133Z"
     },
     {
       "ID": 425671,
@@ -835,7 +841,7 @@
       "MatterFile": "Int 1265-2025",
       "MatterName": "Notifications regarding applications in New York City’s housing portal and designation of a representative to receive notifications.",
       "MatterType": "Introduction",
-      "LastModified": "2025-10-09T22:00:44.787Z"
+      "LastModified": "2025-10-10T02:51:15.203Z"
     },
     {
       "ID": 425672,
@@ -865,7 +871,7 @@
       "MatterFile": "Res 1090-2025",
       "MatterName": "LU 365 - Landmarks, Claremont House: 1640 Anthony Avenue, Bronx (C 250220 HAX).",
       "MatterType": "Resolution",
-      "LastModified": "2025-10-09T22:00:44.813Z"
+      "LastModified": "2025-10-10T02:51:19.943Z"
     },
     {
       "ID": 425674,
@@ -885,7 +891,7 @@
       "MatterFile": "Res 1091-2025",
       "MatterName": "LU 366 - Landmarks, Claremont House: 1640 Anthony Avenue, Bronx (C 250221 ZMX).",
       "MatterType": "Resolution",
-      "LastModified": "2025-10-09T22:00:44.827Z"
+      "LastModified": "2025-10-10T02:51:24.653Z"
     },
     {
       "ID": 425675,
@@ -905,7 +911,7 @@
       "MatterFile": "Res 1092-2025",
       "MatterName": "LU 367 - Landmarks, Claremont House: 1640 Anthony Avenue, Bronx (N 250222 ZRX).",
       "MatterType": "Resolution",
-      "LastModified": "2025-10-09T22:00:44.84Z"
+      "LastModified": "2025-10-10T02:51:28.11Z"
     },
     {
       "ID": 425679,
@@ -925,7 +931,7 @@
       "MatterFile": "Res 1093-2025",
       "MatterName": "LU 372 - Zoning, Station Plaza Jamaica City Map Changes, Queens (C 250187 MMQ).",
       "MatterType": "Resolution",
-      "LastModified": "2025-10-09T22:00:44.853Z"
+      "LastModified": "2025-10-10T02:51:39.053Z"
     },
     {
       "ID": 425680,
@@ -945,7 +951,7 @@
       "MatterFile": "Res 1094-2025",
       "MatterName": "LU 382 - Landmarks, Claremont House: 1640 Anthony Avenue, Article XI, Bronx (G 250083 XAX).",
       "MatterType": "Resolution",
-      "LastModified": "2025-10-09T22:00:44.87Z"
+      "LastModified": "2025-10-10T02:51:42.47Z"
     },
     {
       "ID": 425681,
@@ -965,7 +971,7 @@
       "MatterFile": "Res 1095-2025",
       "MatterName": "LU 393 - Landmarks, Arverne East Amendment, Queens (G 250085 NUQ).",
       "MatterType": "Resolution",
-      "LastModified": "2025-10-09T22:00:44.89Z"
+      "LastModified": "2025-10-10T02:51:49.51Z"
     },
     {
       "ID": 425682,
@@ -985,7 +991,7 @@
       "MatterFile": "Res 1096-2025",
       "MatterName": "LU 394 - Landmarks, Arverne East Building D - Open Door, Article XI, Queens (G 250086 XAQ).",
       "MatterType": "Resolution",
-      "LastModified": "2025-10-09T22:00:44.91Z"
+      "LastModified": "2025-10-10T02:51:53.203Z"
     },
     {
       "ID": 425683,
@@ -1005,7 +1011,7 @@
       "MatterFile": "Res 1097-2025",
       "MatterName": "LU 395 - Landmarks, Arverne East Building D - Rental, Article XI, Queens (G 250087 XAQ).",
       "MatterType": "Resolution",
-      "LastModified": "2025-10-09T22:00:44.92Z"
+      "LastModified": "2025-10-10T02:51:56.14Z"
     },
     {
       "ID": 425684,
@@ -1025,7 +1031,7 @@
       "MatterFile": "Res 1098-2025",
       "MatterName": "LU 396 - Zoning, 535 Morgan Avenue Rezoning, Brooklyn (C 250090 ZMK).",
       "MatterType": "Resolution",
-      "LastModified": "2025-10-09T22:00:44.94Z"
+      "LastModified": "2025-10-10T02:52:00.843Z"
     },
     {
       "ID": 425686,
@@ -1084,7 +1090,7 @@
       "MatterFile": "Int 1122-2024",
       "MatterName": "Plan for expanding home access to broadband internet.",
       "MatterType": "Introduction",
-      "LastModified": "2025-10-09T22:00:44.957Z"
+      "LastModified": "2025-10-10T02:52:26.237Z"
     },
     {
       "ID": 425690,
@@ -1114,7 +1120,7 @@
       "MatterFile": "Int 0928-2024",
       "MatterName": "Requiring the DOT to conduct a pilot project on the use of cool pavement.",
       "MatterType": "Introduction",
-      "LastModified": "2025-10-09T22:00:44.967Z"
+      "LastModified": "2025-10-10T02:52:27.52Z"
     },
     {
       "ID": 425692,
@@ -1650,7 +1656,7 @@
       "Version": "",
       "AgendaNote": "RESOLUTIONS – None",
       "MinutesNote": "None.",
-      "LastModified": "2025-10-09T19:46:37.437Z"
+      "LastModified": "2025-10-10T02:52:54.937Z"
     },
     {
       "ID": 425740,
@@ -2340,7 +2346,7 @@
       "MatterFile": "Res 1099-2025",
       "MatterName": "Changes to the chairs and membership of certain committees of the Council.",
       "MatterType": "Resolution",
-      "LastModified": "2025-10-09T22:00:44.947Z"
+      "LastModified": "2025-10-10T02:52:24.99Z"
     },
     {
       "ID": 425781,
@@ -2429,7 +2435,7 @@
       "MatterName": "Melrose Villa Hermosa: Block 2406, Lot 21, Bronx, Community District No. 3, Council District No. 17.",
       "MatterType": "Land Use Application",
       "MatterStatus": "Adopted",
-      "LastModified": "2025-10-09T22:00:44.733Z"
+      "LastModified": "2025-10-10T02:50:50.65Z"
     },
     {
       "ID": 425867,
@@ -2449,7 +2455,7 @@
       "MatterName": "Landmarks, Claremont House: 1640 Anthony Avenue, Bronx (C 250220 HAX).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Adopted",
-      "LastModified": "2025-10-09T22:00:44.793Z"
+      "LastModified": "2025-10-10T02:51:17.187Z"
     },
     {
       "ID": 425868,
@@ -2469,7 +2475,7 @@
       "MatterName": "Landmarks, Claremont House: 1640 Anthony Avenue, Bronx (C 250221 ZMX).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Adopted",
-      "LastModified": "2025-10-09T22:00:44.82Z"
+      "LastModified": "2025-10-10T02:51:22.937Z"
     },
     {
       "ID": 425869,
@@ -2489,7 +2495,7 @@
       "MatterName": "Landmarks, Claremont House: 1640 Anthony Avenue, Bronx (N 250222 ZRX).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Adopted",
-      "LastModified": "2025-10-09T22:00:44.833Z"
+      "LastModified": "2025-10-10T02:51:26.287Z"
     },
     {
       "ID": 425870,
@@ -2509,7 +2515,7 @@
       "MatterName": "Zoning, Station Plaza Jamaica City Map Changes, Queens (C 250187 MMQ).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Adopted",
-      "LastModified": "2025-10-09T22:00:44.847Z"
+      "LastModified": "2025-10-10T02:51:34.88Z"
     },
     {
       "ID": 425871,
@@ -2549,7 +2555,7 @@
       "MatterName": "Landmarks, Arverne East Amendment, Queens (G 250085 NUQ).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Adopted",
-      "LastModified": "2025-10-09T22:00:44.88Z"
+      "LastModified": "2025-10-10T02:51:43.937Z"
     },
     {
       "ID": 425873,
@@ -2569,7 +2575,7 @@
       "MatterName": "Landmarks, Arverne East Building D - Open Door, Article XI, Queens (G 250086 XAQ).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Adopted",
-      "LastModified": "2025-10-09T22:00:44.9Z"
+      "LastModified": "2025-10-10T02:51:51.277Z"
     },
     {
       "ID": 425874,
@@ -2589,7 +2595,7 @@
       "MatterName": "Landmarks, Arverne East Building D - Rental, Article XI, Queens (G 250087 XAQ).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Adopted",
-      "LastModified": "2025-10-09T22:00:44.913Z"
+      "LastModified": "2025-10-10T02:51:54.533Z"
     },
     {
       "ID": 425875,
@@ -2609,7 +2615,7 @@
       "MatterName": "Zoning, 535 Morgan Avenue Rezoning, Brooklyn (C 250090 ZMK).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Adopted",
-      "LastModified": "2025-10-09T22:00:44.933Z"
+      "LastModified": "2025-10-10T02:51:57.657Z"
     },
     {
       "ID": 425876,
@@ -2788,6 +2794,6 @@
     }
   ],
   "AgendaLastPublished": "2025-10-09T19:04:05.203Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-10-09T21:11:41.237Z"
+  "MinutesLastPublished": "2025-10-10T02:53:02.583Z",
+  "LastModified": "2025-10-10T02:53:02.69Z"
 }
