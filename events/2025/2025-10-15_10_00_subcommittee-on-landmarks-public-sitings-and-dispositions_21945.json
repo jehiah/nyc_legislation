@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21945_A_Subcommittee_on_Landmarks%2C_Public_Sitings_and_Dispositions_25-10-15_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21945_M_Subcommittee_on_Landmarks%2C_Public_Sitings_and_Dispositions_25-10-15_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-3_251015-101940.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21945&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,18 +20,116 @@
       "GUID": "91661826-F09A-496F-85C2-D999E47852D0",
       "Title": "Application number G 250088 XAK (2149-2153 Pacific Street Article XI) submitted by the New York City Department of Housing Preservation and Development (HPD) pursuant to Section 577 of Article XI of the Private Housing Finance Law, for approval of a real property tax exemption for property located at 2149-2153 Pacific Street (Block 1433, Lot 60), Borough of the Brooklyn, Community District 16, Council District 41.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
       "AgendaNote": "Preconsidered",
+      "ActionID": 15,
+      "ActionName": "Hearing on P-C Item by Comm",
+      "ActionText": "This Land Use Application was Hearing on P-C Item by Comm",
       "MatterID": 76598,
       "MatterFile": "T2025-4302",
       "MatterName": "Landmarks, 2149-2153 Pacific Street Article XI, Brooklyn (G 250088 XAK)",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Introduced",
-      "LastModified": "2025-10-14T14:51:54.877Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2025-10-15T16:46:54.067Z"
+    },
+    {
+      "ID": 425946,
+      "GUID": "307DD5C3-4315-47B5-8E5C-B54A28DDE276",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 10
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 20
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 66,
+          "Value": "Parental ",
+          "Sort": 40
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2025-10-15T16:46:20Z"
+    },
+    {
+      "ID": 425947,
+      "GUID": "C34F61C0-E396-4794-8485-3BA602F6F024",
+      "Title": "Application number G 250088 XAK (2149-2153 Pacific Street Article XI) submitted by the New York City Department of Housing Preservation and Development (HPD) pursuant to Section 577 of Article XI of the Private Housing Finance Law, for approval of a real property tax exemption for property located at 2149-2153 Pacific Street (Block 1433, Lot 60), Borough of the Brooklyn, Community District 16, Council District 41.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5018,
+      "ActionName": "P-C Item Laid Over by Comm",
+      "ActionText": "This Land Use Application was P-C Item Laid Over by Comm",
+      "MatterID": 76598,
+      "MatterFile": "T2025-4302",
+      "MatterName": "Landmarks, 2149-2153 Pacific Street Article XI, Brooklyn (G 250088 XAK)",
+      "MatterType": "Land Use Application",
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2025-10-15T16:47:02.34Z"
+    },
+    {
+      "ID": 425948,
+      "GUID": "32923160-C93C-4020-871B-7DD87A8D1F9A",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Mealy",
+      "LastModified": "2025-10-15T16:45:17.607Z"
     }
   ],
   "AgendaLastPublished": "2025-10-14T14:52:01.397Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-10-14T14:52:01.547Z"
+  "MinutesLastPublished": "2025-10-15T16:47:07.01Z",
+  "LastModified": "2025-10-15T16:47:07.04Z"
 }

@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21863_A_Committee_on_Small_Business_25-10-15_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21863_M_Committee_on_Small_Business_25-10-15_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_251015-103717.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21863&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,56 +20,179 @@
       "GUID": "DF58A7E1-2205-415C-9E25-006EFA44A42A",
       "Title": "Oversight - Cybersecurity for Small Businesses.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 76446,
       "MatterFile": "T2025-4150",
       "MatterName": "Oversight - Cybersecurity for Small Businesses.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-10-01T14:02:44.293Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-10-15T16:42:25.083Z"
     },
     {
       "ID": 425340,
       "GUID": "A2268B24-342D-46B6-9790-968C3F2BA2B4",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing a program to provide financial assistance to small retail businesses for the purchase of security system technology",
       "AgendaSequence": 0,
-      "MinutesSequence": 3,
+      "MinutesSequence": 6,
       "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
       "MatterID": 73217,
       "MatterFile": "Int 0180-2024",
       "MatterName": "Establishing a program to provide financial assistance to small retail businesses for the purchase of security system technology.",
       "MatterType": "Introduction",
-      "LastModified": "2025-10-01T14:02:44.293Z"
+      "LastModified": "2025-10-15T16:42:38.767Z"
     },
     {
       "ID": 425343,
       "GUID": "D18E3FC0-E0C8-4A6C-95F6-19A03DD371E2",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to small business loan readiness resources",
       "AgendaSequence": 3,
-      "MinutesSequence": 4,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 76245,
       "MatterFile": "Int 1350-2025",
       "MatterName": "Small business loan readiness resources.",
       "MatterType": "Introduction",
-      "LastModified": "2025-10-01T14:02:48.09Z"
+      "LastModified": "2025-10-15T16:42:44.22Z"
     },
     {
       "ID": 425344,
       "GUID": "9AA33662-3265-4B2B-999E-9D9E30999838",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing a program to provide financial assistance to small retail businesses for the purchase of security system technology",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 73217,
       "MatterFile": "Int 0180-2024",
       "MatterName": "Establishing a program to provide financial assistance to small retail businesses for the purchase of security system technology.",
       "MatterType": "Introduction",
-      "LastModified": "2025-10-01T14:03:10.26Z"
+      "LastModified": "2025-10-15T16:42:35.54Z"
+    },
+    {
+      "ID": 425942,
+      "GUID": "279D5E9D-4C82-4378-BCE7-EB11F11061D1",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 50
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2025-10-15T16:40:37.387Z"
+    },
+    {
+      "ID": 425943,
+      "GUID": "4FC9DC48-E613-4FC0-8118-7414E331C105",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Farías",
+      "LastModified": "2025-10-15T16:40:20.65Z"
+    },
+    {
+      "ID": 425944,
+      "GUID": "142B4CFB-8601-4AEC-846B-D2155C8A5420",
+      "Title": "Oversight - Cybersecurity for Small Businesses.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 76446,
+      "MatterFile": "T2025-4150",
+      "MatterName": "Oversight - Cybersecurity for Small Businesses.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-10-15T16:42:28.913Z"
+    },
+    {
+      "ID": 425945,
+      "GUID": "2D29EBB0-502B-4386-A07F-A904FF4AD33E",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to small business loan readiness resources",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 76245,
+      "MatterFile": "Int 1350-2025",
+      "MatterName": "Small business loan readiness resources.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-10-15T16:42:53.567Z"
     }
   ],
   "AgendaLastPublished": "2025-10-01T14:03:16.227Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-10-01T14:03:16.4Z"
+  "MinutesLastPublished": "2025-10-15T16:42:59.64Z",
+  "LastModified": "2025-10-15T16:42:59.72Z"
 }
