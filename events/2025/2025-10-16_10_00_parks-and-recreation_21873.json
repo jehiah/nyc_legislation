@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21873_A_Committee_on_Parks_and_Recreation_25-10-16_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21873_M_Committee_on_Parks_and_Recreation_25-10-16_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on General Welfare and the Committee on Health",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_251016-101904.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21873&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,52 +21,196 @@
       "GUID": "921A5B82-EA2C-4BD3-A0D7-367A37E5ECAF",
       "Title": "Jointly with the Committee on General Welfare and the Committee on Health",
       "AgendaSequence": 4,
-      "MinutesSequence": 4,
+      "MinutesSequence": 9,
       "Version": "",
-      "LastModified": "2025-10-07T18:42:34.677Z"
+      "LastModified": "2025-10-16T18:58:50.24Z"
     },
     {
       "ID": 424670,
       "GUID": "899BAA50-9AEA-4231-92D9-FE9B855BC41F",
       "Title": "Oversight  - The: Hart Island Capital Projects Proposal.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 76439,
       "MatterFile": "T2025-4143",
       "MatterName": "Oversight  - The: Hart Island Capital Projects Proposal.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-10-07T18:42:34.387Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-10-16T18:58:32.86Z"
     },
     {
       "ID": 425535,
       "GUID": "E7C3BD7C-801C-4515-AF2E-6DFD472C3674",
       "Title": "Resolution urging New York State to increase the funeral cost limit of burial services for low-income residents of New York from $3,400 to $6,000.",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 75306,
       "MatterFile": "Res 0775-2025",
       "MatterName": "Increase the funeral cost limit of burial services for low-income residents of New York from $3,400 to $6,000.",
       "MatterType": "Resolution",
-      "LastModified": "2025-10-03T20:53:55.24Z"
+      "LastModified": "2025-10-16T18:58:56.313Z"
     },
     {
       "ID": 425585,
       "GUID": "7738D733-BE1C-4D48-B406-B219959CDDD2",
       "Title": "A Local Law in relation to a study and report on burial capacity on Hart Island",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 76523,
-      "MatterFile": "T2025-4227",
+      "MatterFile": "Int 1408-2025",
       "MatterName": "Study and report on burial capacity on Hart Island.",
       "MatterType": "Introduction",
-      "LastModified": "2025-10-07T18:42:42.593Z"
+      "LastModified": "2025-10-16T18:58:44.61Z"
+    },
+    {
+      "ID": 425989,
+      "GUID": "70C58123-AE50-4F35-AB64-8A0994CC5365",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 70
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        }
+      ],
+      "LastModified": "2025-10-16T18:58:25.947Z"
+    },
+    {
+      "ID": 425990,
+      "GUID": "B212ADBD-E71D-45C9-A7FB-67810929C852",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Ossé, Cabán, Avilés, Ariola, Bottcher, Riley, Stevens, Louis, Ayala, Schulman, Banks, De La Rosa and Feliz",
+      "LastModified": "2025-10-16T18:58:10.297Z"
+    },
+    {
+      "ID": 425991,
+      "GUID": "81722B24-D8A2-436E-8BB3-208E80C6D37C",
+      "Title": "Oversight  - The: Hart Island Capital Projects Proposal.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 76439,
+      "MatterFile": "T2025-4143",
+      "MatterName": "Oversight  - The: Hart Island Capital Projects Proposal.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-10-16T18:58:37.22Z"
+    },
+    {
+      "ID": 425992,
+      "GUID": "FFBC3B58-4BD5-403D-BB48-755116897529",
+      "Title": "A Local Law in relation to a study and report on burial capacity on Hart Island",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 76523,
+      "MatterFile": "Int 1408-2025",
+      "MatterName": "Study and report on burial capacity on Hart Island.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-10-16T18:58:48.82Z"
+    },
+    {
+      "ID": 425993,
+      "GUID": "9630EC44-2578-4398-B23B-FE9D04554C25",
+      "Title": "Resolution urging New York State to increase the funeral cost limit of burial services for low-income residents of New York from $3,400 to $6,000.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 75306,
+      "MatterFile": "Res 0775-2025",
+      "MatterName": "Increase the funeral cost limit of burial services for low-income residents of New York from $3,400 to $6,000.",
+      "MatterType": "Resolution",
+      "LastModified": "2025-10-16T18:59:04.597Z"
     }
   ],
   "AgendaLastPublished": "2025-10-07T18:42:47.987Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-10-07T18:42:48.017Z"
+  "MinutesLastPublished": "2025-10-16T18:59:10.17Z",
+  "LastModified": "2025-10-16T18:59:10.313Z"
 }
