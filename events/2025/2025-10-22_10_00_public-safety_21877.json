@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21877_A_Committee_on_Public_Safety_25-10-22_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21877_M_Committee_on_Public_Safety_25-10-22_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Civil Service and Labor and the Committee on Fire and Emergency Management",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21877&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,26 +20,140 @@
       "GUID": "850A1ECA-0314-40EA-9E7C-E1117DB6CD84",
       "Title": "Oversight - Working Conditions Within New York City’s Emergency Response System.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 76449,
       "MatterFile": "T2025-4153",
       "MatterName": "Oversight - Working Conditions Within New York City’s Emergency Response System.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-10-07T16:43:41.877Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-10-22T16:59:44.583Z"
     },
     {
       "ID": 424700,
       "GUID": "FABB4D7B-3892-45CB-9E8D-FE8B3A2812CB",
       "Title": "Jointly with the Committee on Civil Service and Labor and the Committee on Fire and Emergency Management",
       "AgendaSequence": 2,
+      "MinutesSequence": 5,
+      "Version": "",
+      "LastModified": "2025-10-22T16:59:33.597Z"
+    },
+    {
+      "ID": 426060,
+      "GUID": "D7B28651-5F95-4BE5-9914-495E78E3605D",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 30
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-caban",
+          "FullName": "Tiffany Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 70
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 90
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 110
+        }
+      ],
+      "LastModified": "2025-10-22T17:12:09.64Z"
+    },
+    {
+      "ID": 426061,
+      "GUID": "575294D5-6919-4EA4-A956-C034960E2318",
+      "Title": "",
+      "AgendaSequence": 0,
       "MinutesSequence": 2,
       "Version": "",
-      "LastModified": "2025-09-16T19:36:07.447Z"
+      "MinutesNote": "Other Council Members Attending: Ariola, Felder, Riley, Dinowitz, Morano, Bottcher, Restler and Menin",
+      "LastModified": "2025-10-22T16:57:37.32Z"
+    },
+    {
+      "ID": 426062,
+      "GUID": "1E342616-6ECF-4738-9108-85D360DD222E",
+      "Title": "Oversight - Working Conditions Within New York City’s Emergency Response System.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 76449,
+      "MatterFile": "T2025-4153",
+      "MatterName": "Oversight - Working Conditions Within New York City’s Emergency Response System.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-10-22T16:59:50.227Z"
     }
   ],
   "AgendaLastPublished": "2025-10-09T17:39:38.527Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-10-09T17:39:38.59Z"
+  "MinutesLastPublished": "2025-10-22T17:12:15.463Z",
+  "LastModified": "2025-10-22T17:12:15.507Z"
 }
