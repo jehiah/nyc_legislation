@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21950_A_Committee_on_Finance_25-10-23_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21950_M_Committee_on_Finance_25-10-23_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Housing and Buildings",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21950&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,52 +20,258 @@
       "GUID": "6E4DFE39-0686-4371-AB00-744F90E16C04",
       "Title": "Oversight - Housing Tax Incentives.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 76519,
       "MatterFile": "T2025-4223",
       "MatterName": "Oversight - Housing Tax Incentives.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-10-22T16:20:17.81Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-10-23T19:01:30.807Z"
     },
     {
       "ID": 425611,
       "GUID": "DA2FFEBA-A9D0-4E30-94C4-CF149AC18D03",
       "Title": "Jointly with the Committee on Housing and Buildings",
       "AgendaSequence": 4,
-      "MinutesSequence": 4,
+      "MinutesSequence": 8,
       "Version": "",
-      "LastModified": "2025-10-22T16:20:29.303Z"
+      "LastModified": "2025-10-23T19:01:47.58Z"
     },
     {
       "ID": 426058,
       "GUID": "B318E076-3D04-4C9C-95E8-24CA0698806C",
       "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, legislation providing for annual adjustments to the rental and carrying charges for Mitchell-Lama developments based on increases in the Consumer Price Index.",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 74755,
       "MatterFile": "Res 0575-2024",
       "MatterName": "Providing for annual adjustments to the rental and carrying charges for Mitchell-Lama developments based on increases in the Consumer Price Index.",
       "MatterType": "Resolution",
-      "LastModified": "2025-10-22T16:20:29.167Z"
+      "LastModified": "2025-10-23T19:01:41.563Z"
     },
     {
       "ID": 426059,
       "GUID": "0A8EBB77-A849-458D-8417-5B7EA5B1C554",
       "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, legislation setting the minimum notice period for rent increases to 60 days for Mitchell-Lama rental and co-op residents",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 6,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 76264,
       "MatterFile": "Res 1016-2025",
       "MatterName": "Setting the minimum notice period for rent increases to 60 days for Mitchell-Lama rental and co-op residents.",
       "MatterType": "Resolution",
-      "LastModified": "2025-10-22T16:20:42.29Z"
+      "LastModified": "2025-10-23T19:01:53.337Z"
+    },
+    {
+      "ID": 426132,
+      "GUID": "5DD89C5B-3ECF-4D61-84B7-C14944C0B2B0",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-farias",
+          "FullName": "Amanda Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 70
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 100
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 110
+        },
+        {
+          "ID": 7741,
+          "Slug": "keith-powers",
+          "FullName": "Keith Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 130
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 150
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 160
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 170
+        }
+      ],
+      "LastModified": "2025-10-23T19:21:23.207Z"
+    },
+    {
+      "ID": 426133,
+      "GUID": "A3AC0BB2-B04E-4797-B8A5-392AAA74F22F",
+      "Title": "Oversight - Housing Tax Incentives.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 76519,
+      "MatterFile": "T2025-4223",
+      "MatterName": "Oversight - Housing Tax Incentives.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-10-23T19:01:34.01Z"
+    },
+    {
+      "ID": 426134,
+      "GUID": "237694CC-3639-488E-BB3D-619B0A4BE6F4",
+      "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, legislation providing for annual adjustments to the rental and carrying charges for Mitchell-Lama developments based on increases in the Consumer Price Index.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 74755,
+      "MatterFile": "Res 0575-2024",
+      "MatterName": "Providing for annual adjustments to the rental and carrying charges for Mitchell-Lama developments based on increases in the Consumer Price Index.",
+      "MatterType": "Resolution",
+      "LastModified": "2025-10-23T19:02:00.68Z"
+    },
+    {
+      "ID": 426135,
+      "GUID": "931371C2-E840-4567-8EA6-B01EF7B29E92",
+      "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, legislation setting the minimum notice period for rent increases to 60 days for Mitchell-Lama rental and co-op residents",
+      "AgendaSequence": 0,
+      "MinutesSequence": 7,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 76264,
+      "MatterFile": "Res 1016-2025",
+      "MatterName": "Setting the minimum notice period for rent increases to 60 days for Mitchell-Lama rental and co-op residents.",
+      "MatterType": "Resolution",
+      "LastModified": "2025-10-23T19:01:58.15Z"
     }
   ],
   "AgendaLastPublished": "2025-10-22T16:20:47.18Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-10-22T16:20:47.213Z"
+  "MinutesLastPublished": "2025-10-23T19:02:06.423Z",
+  "LastModified": "2025-10-23T19:02:06.6Z"
 }

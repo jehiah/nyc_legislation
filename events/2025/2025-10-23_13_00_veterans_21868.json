@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21868_A_Committee_on_Veterans_25-10-23_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21868_M_Committee_on_Veterans_25-10-23_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Aging.",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-3_251023-131022.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21868&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,52 +21,180 @@
       "GUID": "7CA27668-60BF-4778-80DC-AC28DD6D56A5",
       "Title": "Oversight - Supporting New York City’s Older Veterans.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 76411,
       "MatterFile": "T2025-4115",
       "MatterName": "Oversight - Supporting New York City’s Older Veterans.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-10-17T17:47:28.607Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-10-23T21:53:38.563Z"
     },
     {
       "ID": 424640,
       "GUID": "C5336C90-B29A-4758-A267-A5BF5059A398",
       "Title": "Jointly with the Committee on Aging",
       "AgendaSequence": 4,
-      "MinutesSequence": 4,
+      "MinutesSequence": 9,
       "Version": "",
-      "LastModified": "2025-09-23T19:58:48.84Z"
+      "LastModified": "2025-10-23T21:53:57.08Z"
     },
     {
       "ID": 424891,
       "GUID": "21D06807-277C-4DF2-A135-F7C9E5C1F458",
       "Title": "Resolution calling on the United States Congress to pass, and the President to sign, legislation that would expand Medicare to include long-term services and supports for seniors and individuals with disabilities",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 75389,
       "MatterFile": "Res 0850-2025",
       "MatterName": "Expand Medicare to include long-term services and supports for seniors and individuals with disabilities.",
       "MatterType": "Resolution",
-      "LastModified": "2025-09-23T19:58:48.65Z"
+      "LastModified": "2025-10-23T21:53:49.737Z"
     },
     {
       "ID": 424892,
       "GUID": "FA2C18F7-29ED-4BC0-AFE3-6CCD78E5BB1E",
       "Title": "Resolution calling on the New York State Assembly to pass, A.7851, and the Governor to sign, S.2534/A.7851, which retroactively freezes the rent at which a SCRIE or DRIE enrollee pays at the level it was when they first became eligible, or at the level it was two years before they entered the program, given that entrance into the program occurred more than two years after they first became eligible.",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 76158,
       "MatterFile": "Res 0985-2025",
       "MatterName": "Retroactively freezes the rent at which a SCRIE or DRIE enrollee pays at the level it was when they first became eligible, or at the level it was two years before they entered the program (S.2534/ A.7851)",
       "MatterType": "Resolution",
-      "LastModified": "2025-09-23T19:59:16.57Z"
+      "LastModified": "2025-10-23T21:54:24.923Z"
+    },
+    {
+      "ID": 426165,
+      "GUID": "365D29E9-5BF0-4CA1-821F-C2BB50662905",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5289,
+          "Slug": "simcha-felder",
+          "FullName": "Simcha Felder",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 25
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 30
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        }
+      ],
+      "LastModified": "2025-10-23T21:53:25.633Z"
+    },
+    {
+      "ID": 426166,
+      "GUID": "7129253E-4E74-4699-A030-CBCD03B989AF",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Hudson, Lee, Schulman and Banks",
+      "LastModified": "2025-10-23T21:52:44.403Z"
+    },
+    {
+      "ID": 426167,
+      "GUID": "789149B5-0B7C-4472-AB8F-0C8FF04560E4",
+      "Title": "Oversight - Supporting New York City’s Older Veterans.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 76411,
+      "MatterFile": "T2025-4115",
+      "MatterName": "Oversight - Supporting New York City’s Older Veterans.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-10-23T21:53:42.24Z"
+    },
+    {
+      "ID": 426168,
+      "GUID": "7D2F4CC1-5F4C-44D9-91A9-56E8FC236B14",
+      "Title": "Resolution calling on the United States Congress to pass, and the President to sign, legislation that would expand Medicare to include long-term services and supports for seniors and individuals with disabilities",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 75389,
+      "MatterFile": "Res 0850-2025",
+      "MatterName": "Expand Medicare to include long-term services and supports for seniors and individuals with disabilities.",
+      "MatterType": "Resolution",
+      "LastModified": "2025-10-23T21:53:54.373Z"
+    },
+    {
+      "ID": 426169,
+      "GUID": "6121BAFA-1198-4D30-A8A0-1715377D5689",
+      "Title": "Resolution calling on the New York State Assembly to pass, A.7851, and the Governor to sign, S.2534/A.7851, which retroactively freezes the rent at which a SCRIE or DRIE enrollee pays at the level it was when they first became eligible, or at the level it was two years before they entered the program, given that entrance into the program occurred more than two years after they first became eligible.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 76158,
+      "MatterFile": "Res 0985-2025",
+      "MatterName": "Retroactively freezes the rent at which a SCRIE or DRIE enrollee pays at the level it was when they first became eligible, or at the level it was two years before they entered the program (S.2534/ A.7851)",
+      "MatterType": "Resolution",
+      "LastModified": "2025-10-23T21:54:30.803Z"
     }
   ],
   "AgendaLastPublished": "2025-10-09T17:41:24.157Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-10-23T17:10:22.343Z"
+  "MinutesLastPublished": "2025-10-23T21:54:36.51Z",
+  "LastModified": "2025-10-23T21:54:36.557Z"
 }
