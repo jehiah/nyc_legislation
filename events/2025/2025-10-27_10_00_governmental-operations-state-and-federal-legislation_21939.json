@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21939_A_Committee_on_Governmental_Operations%2C_State___Federal_Legislation_25-10-27_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21939_M_Committee_on_Governmental_Operations%2C_State___Federal_Legislation_25-10-27_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_251027-103731.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21939&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,56 +20,217 @@
       "GUID": "749CEEA0-2F63-4208-8365-0BA912FA878E",
       "Title": "Oversight - Sustainability in City Government.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 76540,
       "MatterFile": "T2025-4244",
       "MatterName": "Oversight - Sustainability in City Government.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-10-06T17:31:59.097Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-10-27T17:57:50.497Z"
     },
     {
       "ID": 425557,
       "GUID": "312786A6-8CDC-48D2-ACAF-533AEA2C3F81",
       "Title": "A Local Law in relation to establishing a day-fines pilot program in the office of administrative trials and hearings",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 73580,
       "MatterFile": "Int 0551-2024",
       "MatterName": "Establishing a day-fines pilot program in the office of administrative trials and hearings",
       "MatterType": "Introduction",
-      "LastModified": "2025-10-06T17:31:59.097Z"
+      "LastModified": "2025-10-27T17:58:00.647Z"
     },
     {
       "ID": 425558,
       "GUID": "F81DB36B-E8EA-4804-9D06-E87D2C947E3D",
       "Title": "A Local Law in relation to a master plan for the redevelopment of Rikers Island for sustainability and resiliency purposes",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 6,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 74541,
       "MatterFile": "Int 1038-2024",
       "MatterName": "Master plan for the redevelopment of Rikers Island for sustainability and resiliency purposes.",
       "MatterType": "Introduction",
-      "LastModified": "2025-10-06T17:32:03.953Z"
+      "LastModified": "2025-10-27T17:58:11.703Z"
     },
     {
       "ID": 425566,
       "GUID": "CD7771ED-6002-4555-AC97-CCF3A5457373",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of citywide administrative services to report on the use or vacancy of space in city buildings",
       "AgendaSequence": 4,
-      "MinutesSequence": 4,
+      "MinutesSequence": 8,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 72115,
       "MatterFile": "Int 1378-2025",
       "MatterName": "Requiring the department of citywide administrative services to report on the use or vacancy of space in city buildings.",
       "MatterType": "Introduction",
-      "LastModified": "2025-10-06T17:32:25.863Z"
+      "LastModified": "2025-10-27T17:58:20.04Z"
+    },
+    {
+      "ID": 426332,
+      "GUID": "72D49E29-DDC2-498A-87DF-59B0A163FCCD",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 50
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7887,
+          "Slug": "frank-morano",
+          "FullName": "Frank Morano",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 65
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 80
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2025-10-27T17:57:45.46Z"
+    },
+    {
+      "ID": 426333,
+      "GUID": "A6A3105F-8118-41C6-9E1D-A622FEC5C578",
+      "Title": "Oversight - Sustainability in City Government.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 76540,
+      "MatterFile": "T2025-4244",
+      "MatterName": "Oversight - Sustainability in City Government.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-10-27T17:57:54.127Z"
+    },
+    {
+      "ID": 426334,
+      "GUID": "4CA57526-4D23-4C72-8B3E-DF1F02E628CD",
+      "Title": "A Local Law in relation to establishing a day-fines pilot program in the office of administrative trials and hearings",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 73580,
+      "MatterFile": "Int 0551-2024",
+      "MatterName": "Establishing a day-fines pilot program in the office of administrative trials and hearings",
+      "MatterType": "Introduction",
+      "LastModified": "2025-10-27T17:58:05.197Z"
+    },
+    {
+      "ID": 426335,
+      "GUID": "03F54635-1FAC-477F-AD90-FB9ABB0B4815",
+      "Title": "A Local Law in relation to a master plan for the redevelopment of Rikers Island for sustainability and resiliency purposes",
+      "AgendaSequence": 0,
+      "MinutesSequence": 7,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 74541,
+      "MatterFile": "Int 1038-2024",
+      "MatterName": "Master plan for the redevelopment of Rikers Island for sustainability and resiliency purposes.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-10-27T17:58:15.043Z"
+    },
+    {
+      "ID": 426336,
+      "GUID": "9894DBF7-18A7-47D4-AB19-E671103A397A",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of citywide administrative services to report on the use or vacancy of space in city buildings",
+      "AgendaSequence": 0,
+      "MinutesSequence": 9,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 72115,
+      "MatterFile": "Int 1378-2025",
+      "MatterName": "Requiring the department of citywide administrative services to report on the use or vacancy of space in city buildings.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-10-27T17:58:26.2Z"
     }
   ],
   "AgendaLastPublished": "2025-10-09T17:29:04.807Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-10-27T17:25:28.523Z"
+  "MinutesLastPublished": "2025-10-27T17:58:32.577Z",
+  "LastModified": "2025-10-27T17:58:32.633Z"
 }
