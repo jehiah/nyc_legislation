@@ -8,10 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21943_A_Committee_on_Higher_Education_25-10-28_Committee_Agenda.pdf",
-  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-3_251028-122948.mp4",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21943_M_Committee_on_Higher_Education_25-10-28_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-3_251028-130158.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21943&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,30 +20,131 @@
       "GUID": "3137C9BD-7700-40EE-89EA-A50A01005B24",
       "Title": "Oversight - The Reading and Writing Crisis Among College Students.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 76464,
       "MatterFile": "T2025-4168",
       "MatterName": "Oversight - The Reading and Writing Crisis Among College Students.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-10-27T20:44:23.227Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-10-28T19:32:37.617Z"
     },
     {
       "ID": 425572,
       "GUID": "F913E9C7-C344-4A72-A35C-754DB0E4A793",
       "Title": "Resolution calling on the New York State Legislature to introduce and pass, and the Governor to sign, legislation entitled The New York State College Safety Act to require that all campuses of The State University of New York and The City University of New York permit autoimmune and immunocompromised students and faculty to learn and teach via remote instruction in as many courses as feasible whenever students or faculty are dealing with an unpredictable or temporarily debilitating impact of their condition.",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 74548,
       "MatterFile": "Res 0500-2024",
       "MatterName": "The New York State College Safety Act",
       "MatterType": "Resolution",
-      "LastModified": "2025-10-06T18:27:17.543Z"
+      "LastModified": "2025-10-28T19:32:45.07Z"
+    },
+    {
+      "ID": 426625,
+      "GUID": "C0D2ADDA-C14F-40D9-9860-E7D850B64E04",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 43,
+          "Value": "Conflict",
+          "Sort": 30
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-feliz",
+          "FullName": "Oswald Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        }
+      ],
+      "LastModified": "2025-10-28T20:33:28.773Z"
+    },
+    {
+      "ID": 426626,
+      "GUID": "E69F13ED-7ADA-49D0-9F98-68E8817D798A",
+      "Title": "Oversight - The Reading and Writing Crisis Among College Students.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 76464,
+      "MatterFile": "T2025-4168",
+      "MatterName": "Oversight - The Reading and Writing Crisis Among College Students.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-10-28T19:32:41.267Z"
+    },
+    {
+      "ID": 426627,
+      "GUID": "51D66D2A-ED9A-4B02-9E98-6AD95FD38EA6",
+      "Title": "Resolution calling on the New York State Legislature to introduce and pass, and the Governor to sign, legislation entitled The New York State College Safety Act to require that all campuses of The State University of New York and The City University of New York permit autoimmune and immunocompromised students and faculty to learn and teach via remote instruction in as many courses as feasible whenever students or faculty are dealing with an unpredictable or temporarily debilitating impact of their condition.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 74548,
+      "MatterFile": "Res 0500-2024",
+      "MatterName": "The New York State College Safety Act",
+      "MatterType": "Resolution",
+      "LastModified": "2025-10-28T19:32:54.693Z"
+    },
+    {
+      "ID": 426628,
+      "GUID": "5A811672-DD8A-4C8E-A09F-2022E02C6A0C",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Joseph",
+      "LastModified": "2025-10-28T19:33:48.243Z"
     }
   ],
   "AgendaLastPublished": "2025-10-06T18:27:23.59Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-10-28T17:01:58.21Z"
+  "MinutesLastPublished": "2025-10-28T20:33:34.147Z",
+  "LastModified": "2025-10-28T20:33:34.187Z"
 }

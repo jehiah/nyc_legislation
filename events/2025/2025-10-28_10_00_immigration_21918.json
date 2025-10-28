@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21918_A_Committee_on_Immigration_25-10-28_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21918_M_Committee_on_Immigration_25-10-28_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_251028-105733.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21918&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,30 +20,147 @@
       "GUID": "83767615-C3CE-4C73-955B-BAA164D8D37B",
       "Title": "Oversight – Legal Services for Immigrant New Yorkers.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 76520,
       "MatterFile": "T2025-4224",
       "MatterName": "Oversight – Legal Services for Immigrant New Yorkers.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-10-27T20:41:09.42Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-10-28T20:28:39.217Z"
     },
     {
       "ID": 425244,
       "GUID": "2C3E7E94-CE9E-49D0-930C-A0B50BFF2267",
       "Title": "Resolution condemning the Trump administration’s use of a federalized national guard to repress free speech, militarize American cities and carry out his anti-immigrant agenda.",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 76246,
       "MatterFile": "Res 1014-2025",
       "MatterName": "Condemning the Trump administration’s use of a federalized national guard to repress free speech, militarize American cities and carry out his anti-immigrant agenda.",
       "MatterType": "Resolution",
-      "LastModified": "2025-09-29T17:57:22.473Z"
+      "LastModified": "2025-10-28T20:28:47.617Z"
+    },
+    {
+      "ID": 426632,
+      "GUID": "26291F1B-A5D8-4903-9E94-3EAA144C225C",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2025-10-28T20:28:30.767Z"
+    },
+    {
+      "ID": 426633,
+      "GUID": "6B3767E5-1163-46A5-A82F-18C84F3E1BE3",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Cabán, Salaam and Public Advocate Williams",
+      "LastModified": "2025-10-28T20:28:25.84Z"
+    },
+    {
+      "ID": 426634,
+      "GUID": "EA4355EF-FF99-44C7-A100-48A0A840EE40",
+      "Title": "Oversight – Legal Services for Immigrant New Yorkers.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 76520,
+      "MatterFile": "T2025-4224",
+      "MatterName": "Oversight – Legal Services for Immigrant New Yorkers.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-10-28T20:28:42.02Z"
+    },
+    {
+      "ID": 426635,
+      "GUID": "3E0EDCB8-3004-4868-ACF2-173AA0917FD8",
+      "Title": "Resolution condemning the Trump administration’s use of a federalized national guard to repress free speech, militarize American cities and carry out his anti-immigrant agenda.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 76246,
+      "MatterFile": "Res 1014-2025",
+      "MatterName": "Condemning the Trump administration’s use of a federalized national guard to repress free speech, militarize American cities and carry out his anti-immigrant agenda.",
+      "MatterType": "Resolution",
+      "LastModified": "2025-10-28T20:28:52.72Z"
     }
   ],
   "AgendaLastPublished": "2025-10-28T15:04:34.783Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-10-28T15:04:34.84Z"
+  "MinutesLastPublished": "2025-10-28T20:28:57.78Z",
+  "LastModified": "2025-10-28T20:28:57.83Z"
 }
