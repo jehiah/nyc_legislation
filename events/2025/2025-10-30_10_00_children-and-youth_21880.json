@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21880_A_Committee_on_Children_and_Youth_25-10-30_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21880_M_Committee_on_Children_and_Youth_25-10-30_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-2_251030-101344.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21880&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,30 +20,129 @@
       "GUID": "3FC7C751-DC80-487A-AEC0-5976B6868B14",
       "Title": "Oversight - Evaluating ACS Family Enrichment Centers.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 76451,
       "MatterFile": "T2025-4155",
       "MatterName": "Oversight - Evaluating ACS Family Enrichment Centers.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-10-29T13:32:06.34Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-10-30T19:04:33.397Z"
     },
     {
       "ID": 425538,
       "GUID": "3B00B422-DD61-4205-8779-44C7969B4CB1",
       "Title": "Resolution calling on the New York State Assembly to pass, and the Governor to sign, A5658A/S378, which directs the New York State Education Department and the New York State Office of Children and Family Services (OCFS) to prepare posters and pamphlets to ensure that foster youth are made aware of the higher education financial resources available to them",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 75622,
       "MatterFile": "Res 0843-2025",
       "MatterName": "NYSED and the New York State Office of Children and Family Services (OCFS) to prepare posters and pamphlets to ensure that foster youth are made aware of the higher education financial resources available to them (A5658A/S378).",
       "MatterType": "Resolution",
-      "LastModified": "2025-10-06T12:52:10.81Z"
+      "LastModified": "2025-10-30T19:04:41.27Z"
+    },
+    {
+      "ID": 426947,
+      "GUID": "00942612-6272-47D7-9902-1B94BF4809BE",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        }
+      ],
+      "LastModified": "2025-10-30T19:04:24.54Z"
+    },
+    {
+      "ID": 426948,
+      "GUID": "9C2E85F3-68ED-42AC-AEF2-177D6FDB952A",
+      "Title": "Oversight - Evaluating ACS Family Enrichment Centers.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 76451,
+      "MatterFile": "T2025-4155",
+      "MatterName": "Oversight - Evaluating ACS Family Enrichment Centers.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-10-30T19:04:36.957Z"
+    },
+    {
+      "ID": 426949,
+      "GUID": "419B1791-A4E2-4EFB-8960-89C09045B6B3",
+      "Title": "Resolution calling on the New York State Assembly to pass, and the Governor to sign, A5658A/S378, which directs the New York State Education Department and the New York State Office of Children and Family Services (OCFS) to prepare posters and pamphlets to ensure that foster youth are made aware of the higher education financial resources available to them",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 75622,
+      "MatterFile": "Res 0843-2025",
+      "MatterName": "NYSED and the New York State Office of Children and Family Services (OCFS) to prepare posters and pamphlets to ensure that foster youth are made aware of the higher education financial resources available to them (A5658A/S378).",
+      "MatterType": "Resolution",
+      "LastModified": "2025-10-30T19:04:49.46Z"
     }
   ],
   "AgendaLastPublished": "2025-10-06T12:52:38.297Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-10-30T16:59:33.937Z"
+  "MinutesLastPublished": "2025-10-30T19:04:55.48Z",
+  "LastModified": "2025-10-30T19:04:55.62Z"
 }
