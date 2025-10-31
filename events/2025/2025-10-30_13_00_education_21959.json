@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21959_A_Committee_on_Education_25-10-30_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21959_M_Committee_on_Education_25-10-30_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-2_251030-131702.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21959&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,43 +20,217 @@
       "GUID": "9515FA6A-6994-47A1-9B83-3D90971308FF",
       "Title": "Oversight - Transfer Schools.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 76606,
       "MatterFile": "T2025-4310",
       "MatterName": "Oversight - Transfer Schools.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-10-16T18:28:40.907Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-10-31T01:41:23.857Z"
     },
     {
       "ID": 425955,
       "GUID": "02BFB741-CA69-413A-BC5E-4099C8444F43",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of education to report on manifestation determination reviews",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 76232,
       "MatterFile": "Int 1359-2025",
       "MatterName": "Requiring the department of education to report on manifestation determination reviews.",
       "MatterType": "Introduction",
-      "LastModified": "2025-10-16T02:44:45.47Z"
+      "LastModified": "2025-10-31T01:41:26.147Z"
     },
     {
       "ID": 425957,
       "GUID": "C222BF78-92DB-4DA8-9180-CDBE5040CF84",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to outreach regarding youth programs provided by the police department",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 6,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 76233,
       "MatterFile": "Int 1360-2025",
       "MatterName": "Outreach regarding youth programs provided by the police department.",
       "MatterType": "Introduction",
-      "LastModified": "2025-10-16T02:45:09.393Z"
+      "LastModified": "2025-10-31T01:41:28.69Z"
+    },
+    {
+      "ID": 426956,
+      "GUID": "9D26C3EE-0FEE-4141-9063-645B9BCD836F",
+      "Title": "Roll Call ",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 30
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 90
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 110
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 120
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 130
+        }
+      ],
+      "LastModified": "2025-10-31T01:41:19.723Z"
+    },
+    {
+      "ID": 426957,
+      "GUID": "479EC604-4FC5-42AA-86D3-CB69412D11FF",
+      "Title": "Oversight - Transfer Schools.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 76606,
+      "MatterFile": "T2025-4310",
+      "MatterName": "Oversight - Transfer Schools.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-10-31T01:41:33.067Z"
+    },
+    {
+      "ID": 426958,
+      "GUID": "477AF345-1BB3-48AC-9638-FA59B1770146",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of education to report on manifestation determination reviews",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 76232,
+      "MatterFile": "Int 1359-2025",
+      "MatterName": "Requiring the department of education to report on manifestation determination reviews.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-10-31T01:41:37.023Z"
+    },
+    {
+      "ID": 426959,
+      "GUID": "03A8AB40-A4C4-4ECE-9145-8F93B993974A",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to outreach regarding youth programs provided by the police department",
+      "AgendaSequence": 0,
+      "MinutesSequence": 7,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 76233,
+      "MatterFile": "Int 1360-2025",
+      "MatterName": "Outreach regarding youth programs provided by the police department.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-10-31T01:41:41.493Z"
     }
   ],
   "AgendaLastPublished": "2025-10-30T16:21:29.997Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-10-30T20:55:46.953Z"
+  "MinutesLastPublished": "2025-10-31T01:41:47.783Z",
+  "LastModified": "2025-10-31T01:41:47.94Z"
 }
