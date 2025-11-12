@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/11/22025_A_Committee_on_Transportation_and_Infrastructure_25-11-12_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/11/22025_M_Committee_on_Transportation_and_Infrastructure_25-11-12_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-3_251112-102836.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22025&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,18 +21,147 @@
       "GUID": "E3417EC4-1D2F-44EC-BAAD-C16A8078104D",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to installation of pedestrian lighting fixtures",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 79-A",
       "MinutesNote": "Proposed Int. No. 79-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 72328,
       "MatterFile": "Int 0079-2024",
       "MatterName": "Installation of pedestrian lighting fixtures.",
       "MatterType": "Introduction",
-      "LastModified": "2025-11-07T16:47:02.993Z"
+      "LastModified": "2025-11-12T16:16:52.037Z"
+    },
+    {
+      "ID": 427319,
+      "GUID": "66DF6098-0F18-49CF-991B-76A2953C3564",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-c-farias",
+          "FullName": "Amanda C. Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2025-11-12T16:16:47.9Z"
+    },
+    {
+      "ID": 427320,
+      "GUID": "F93E9D96-AE1F-400B-881A-A50AD5CC1779",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to installation of pedestrian lighting fixtures",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 72328,
+      "MatterFile": "Int 0079-2024",
+      "MatterName": "Installation of pedestrian lighting fixtures.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-11-12T16:16:56.183Z"
+    },
+    {
+      "ID": 427321,
+      "GUID": "3F26808B-5C58-41EB-8C04-9DE483F6BFE8",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to installation of pedestrian lighting fixtures",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 72328,
+      "MatterFile": "Int 0079-2024",
+      "MatterName": "Installation of pedestrian lighting fixtures.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-11-12T16:17:00.39Z"
+    },
+    {
+      "ID": 427322,
+      "GUID": "07F76B0A-91CF-400B-9B9B-51F281F3D495",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to installation of pedestrian lighting fixtures",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 72328,
+      "MatterFile": "Int 0079-2024",
+      "MatterName": "Installation of pedestrian lighting fixtures.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-11-12T16:19:40.353Z"
     }
   ],
   "AgendaLastPublished": "2025-11-07T19:41:49.06Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-11-07T19:41:49.2Z"
+  "MinutesLastPublished": "2025-11-12T16:19:45.527Z",
+  "LastModified": "2025-11-12T16:19:46.073Z"
 }
