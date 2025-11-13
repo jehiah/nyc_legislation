@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/11/21955_A_Committee_on_Civil_Service_and_Labor_25-11-13_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/11/21955_M_Committee_on_Civil_Service_and_Labor_25-11-13_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Governmental Operations, State & Federal Legislation",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_251113-101034.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21955&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,38 +21,178 @@
       "GUID": "EBE5F647-44BE-481B-8C13-43DAB6D474CC",
       "Title": "Jointly with the Committee on Governmental Operations, State & Federal Legislation",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "",
-      "LastModified": "2025-10-14T16:27:07.037Z"
+      "LastModified": "2025-11-13T18:20:06.393Z"
     },
     {
       "ID": 425920,
       "GUID": "F9E9D38B-B857-4B81-BD26-27694CADF254",
       "Title": "A Local Law to amend the New York city charter and the administrative code of the city of New York, in relation to the establishment of a department of emergency medical services",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 73384,
       "MatterFile": "Int 0521-2024",
       "MatterName": "Establishment of a department of emergency medical services.",
       "MatterType": "Introduction",
-      "LastModified": "2025-10-15T18:53:29.74Z"
+      "LastModified": "2025-11-13T19:15:11.867Z"
     },
     {
       "ID": 425921,
       "GUID": "76F6362B-6FB9-46A7-923F-77568F8CA0B7",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to correcting excess pay differentials for paraprofessionals arising from pattern bargaining practices",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 75717,
       "MatterFile": "Int 1261-2025",
       "MatterName": "Correcting excess pay differentials for paraprofessionals arising from pattern bargaining practices.",
       "MatterType": "Introduction",
-      "LastModified": "2025-10-14T16:27:15.1Z"
+      "LastModified": "2025-11-13T18:20:33.573Z"
+    },
+    {
+      "ID": 427434,
+      "GUID": "928DBA68-E84C-4963-A8AF-D21F028CC604",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-l-caban",
+          "FullName": "Tiffany L. Cabán",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 20
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 30
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-j-feliz",
+          "FullName": "Oswald J. Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7887,
+          "Slug": "frank-morano",
+          "FullName": "Frank Morano",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 75
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2025-11-13T19:13:38.99Z"
+    },
+    {
+      "ID": 427435,
+      "GUID": "27AE5A91-54FA-4B2D-A1FA-705F1F845B8A",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Carr, Schulman, Powers, Brannan, Brewer, Vernikov, Ariola and Hanif \r\n",
+      "LastModified": "2025-11-13T19:14:33.44Z"
+    },
+    {
+      "ID": 427436,
+      "GUID": "4A9EE7C3-20AB-4118-8DFD-81B3CDF54E81",
+      "Title": "A Local Law to amend the New York city charter and the administrative code of the city of New York, in relation to the establishment of a department of emergency medical services",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 73384,
+      "MatterFile": "Int 0521-2024",
+      "MatterName": "Establishment of a department of emergency medical services.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-11-13T19:15:17.953Z"
+    },
+    {
+      "ID": 427437,
+      "GUID": "E215484C-C7CB-442C-A54C-C03F6CC60B30",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to correcting excess pay differentials for paraprofessionals arising from pattern bargaining practices",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 75717,
+      "MatterFile": "Int 1261-2025",
+      "MatterName": "Correcting excess pay differentials for paraprofessionals arising from pattern bargaining practices.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-11-13T19:15:42.717Z"
     }
   ],
   "AgendaLastPublished": "2025-10-15T18:39:09.793Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-10-15T18:39:09.923Z"
+  "MinutesLastPublished": "2025-11-13T19:15:47.153Z",
+  "LastModified": "2025-11-13T19:15:47.193Z"
 }
