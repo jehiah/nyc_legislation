@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/11/21971_A_Committee_on_Public_Safety_25-11-19_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/11/21971_M_Committee_on_Public_Safety_25-11-19_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-2_251119-101107.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21971&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,7 +20,7 @@
       "GUID": "AD4CDC23-A3E9-4C29-8EBF-359BC416AEDA",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the police department to report on all criminal complaints and arrests",
       "AgendaSequence": 1,
-      "MinutesSequence": 2,
+      "MinutesSequence": 3,
       "Version": "*",
       "ActionID": 54,
       "ActionName": "Hearing Held by Committee",
@@ -34,7 +36,7 @@
       "GUID": "9BE0FC72-9A37-43D6-8DD3-0F4550C3EC14",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to reporting on police department compliance with freedom of information law requests",
       "AgendaSequence": 2,
-      "MinutesSequence": 4,
+      "MinutesSequence": 5,
       "Version": "*",
       "ActionID": 54,
       "ActionName": "Hearing Held by Committee",
@@ -50,7 +52,7 @@
       "GUID": "BC53FE04-573E-46B6-A80B-38FD70C30353",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to access to encrypted police radio",
       "AgendaSequence": 4,
-      "MinutesSequence": 8,
+      "MinutesSequence": 9,
       "Version": "*",
       "ActionID": 54,
       "ActionName": "Hearing Held by Committee",
@@ -66,7 +68,7 @@
       "GUID": "5CDBC66F-59ED-4F47-A924-F70CFCD51C02",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the New York city police department to provide the civilian complaint review board with direct access to officer body-warn camera footage and to establish related procedures",
       "AgendaSequence": 3,
-      "MinutesSequence": 6,
+      "MinutesSequence": 7,
       "Version": "*",
       "ActionID": 54,
       "ActionName": "Hearing Held by Committee",
@@ -98,8 +100,8 @@
           "ID": 7742,
           "Slug": "diana-i-ayala",
           "FullName": "Diana I. Ayala",
-          "ValueID": 13,
-          "Value": "Present",
+          "ValueID": 16,
+          "Value": "Absent",
           "Sort": 30
         },
         {
@@ -130,8 +132,8 @@
           "ID": 7827,
           "Slug": "rita-c-joseph",
           "FullName": "Rita C. Joseph",
-          "ValueID": 13,
-          "Value": "Present",
+          "ValueID": 16,
+          "Value": "Absent",
           "Sort": 70
         },
         {
@@ -154,67 +156,89 @@
           "ID": 7809,
           "Slug": "althea-v-stevens",
           "FullName": "Althea V.  Stevens",
-          "ValueID": 13,
-          "Value": "Present",
+          "ValueID": 16,
+          "Value": "Absent",
           "Sort": 110
         }
       ],
-      "LastModified": "2025-11-19T15:07:36.88Z"
+      "LastModified": "2025-11-19T18:53:53.237Z"
     },
     {
       "ID": 427541,
       "GUID": "A7266788-6483-4577-992C-9AD7F0B53D88",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the police department to report on all criminal complaints and arrests",
       "AgendaSequence": 0,
-      "MinutesSequence": 3,
+      "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
       "MatterID": 75666,
       "MatterFile": "Int 1237-2025",
       "MatterName": "Requiring the police department to report on all criminal complaints and arrests.",
       "MatterType": "Introduction",
-      "LastModified": "2025-11-19T15:07:21.577Z"
+      "LastModified": "2025-11-19T18:54:35.337Z"
     },
     {
       "ID": 427542,
       "GUID": "DAF04C2E-1585-4012-8484-73C19A6F2DA4",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to reporting on police department compliance with freedom of information law requests",
       "AgendaSequence": 0,
-      "MinutesSequence": 5,
+      "MinutesSequence": 6,
       "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
       "MatterID": 76430,
       "MatterFile": "Int 1402-2025",
       "MatterName": "Reporting on police department compliance with freedom of information law requests.",
       "MatterType": "Introduction",
-      "LastModified": "2025-11-19T15:07:23.557Z"
+      "LastModified": "2025-11-19T18:54:37.963Z"
     },
     {
       "ID": 427543,
       "GUID": "49F8501A-849A-46D8-BA7A-1595048C0517",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the New York city police department to provide the civilian complaint review board with direct access to officer body-warn camera footage and to establish related procedures",
       "AgendaSequence": 0,
-      "MinutesSequence": 7,
+      "MinutesSequence": 8,
       "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
       "MatterID": 73845,
       "MatterFile": "Int 1451-2025",
       "MatterName": "Requiring the New York city police department to provide the civilian complaint review board with direct access to officer body-warn camera footage and to establish related procedures.",
       "MatterType": "Introduction",
-      "LastModified": "2025-11-19T15:07:25.82Z"
+      "LastModified": "2025-11-19T18:54:40.76Z"
     },
     {
       "ID": 427544,
       "GUID": "2C639E84-A47A-4C6C-BC05-D6A10912BDCC",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to access to encrypted police radio",
       "AgendaSequence": 0,
-      "MinutesSequence": 9,
+      "MinutesSequence": 10,
       "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
       "MatterID": 72139,
       "MatterFile": "Int 1460-2025",
       "MatterName": "Access to encrypted police radios.",
       "MatterType": "Introduction",
-      "LastModified": "2025-11-19T15:07:28.037Z"
+      "LastModified": "2025-11-19T18:54:48.507Z"
+    },
+    {
+      "ID": 427546,
+      "GUID": "6D27F800-21CF-4907-B818-97B69A0189A3",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending:  Ariola, Brewer and Public Advocate Williams.",
+      "LastModified": "2025-11-19T18:54:30.583Z"
     }
   ],
   "AgendaLastPublished": "2025-11-12T15:58:34.627Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-11-19T15:11:07.43Z"
+  "MinutesLastPublished": "2025-11-19T18:54:55.337Z",
+  "LastModified": "2025-11-19T18:54:55.427Z"
 }
