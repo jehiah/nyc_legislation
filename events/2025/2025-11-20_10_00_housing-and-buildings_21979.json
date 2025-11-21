@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/11/21979_A_Committee_on_Housing_and_Buildings_25-11-20_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/11/21979_M_Committee_on_Housing_and_Buildings_25-11-20_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-2_251120-163438.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21979&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -193,12 +194,12 @@
           "ID": 7820,
           "Slug": "lincoln-restler",
           "FullName": "Lincoln Restler",
-          "ValueID": 13,
-          "Value": "Present",
+          "ValueID": 16,
+          "Value": "Absent",
           "Sort": 70
         }
       ],
-      "LastModified": "2025-11-20T19:17:17.46Z"
+      "LastModified": "2025-11-21T02:17:23.163Z"
     },
     {
       "ID": 427599,
@@ -207,8 +208,8 @@
       "AgendaSequence": 0,
       "MinutesSequence": 2,
       "Version": "",
-      "MinutesNote": "Other Council Members Attending: ",
-      "LastModified": "2025-11-20T19:17:28.353Z"
+      "MinutesNote": "Other Council Members Attending: Narcisse, Nurse, Paladino, Louis, Riley, De La Rosa, Gutierrez and Public Advocate Williams",
+      "LastModified": "2025-11-21T02:18:24.913Z"
     },
     {
       "ID": 427600,
@@ -233,11 +234,14 @@
       "AgendaSequence": 0,
       "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
       "MatterID": 73767,
       "MatterFile": "Int 0948-2024",
       "MatterName": "Boarders, roomers, or lodgers in a private dwelling and short-term rentals in one- and two-family dwellings.",
       "MatterType": "Introduction",
-      "LastModified": "2025-11-20T19:16:48.73Z"
+      "LastModified": "2025-11-21T02:18:31.697Z"
     },
     {
       "ID": 427602,
@@ -262,11 +266,14 @@
       "AgendaSequence": 0,
       "MinutesSequence": 10,
       "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
       "MatterID": 74221,
       "MatterFile": "Int 1217-2025",
       "MatterName": "Building inspections and reporting following complaints related to rats and other pests",
       "MatterType": "Introduction",
-      "LastModified": "2025-11-20T19:16:53.217Z"
+      "LastModified": "2025-11-21T02:18:36.703Z"
     },
     {
       "ID": 427604,
@@ -275,11 +282,14 @@
       "AgendaSequence": 0,
       "MinutesSequence": 12,
       "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
       "MatterID": 75967,
       "MatterFile": "Int 1321-2025",
       "MatterName": "Enactment of the existing building code, and to repeal chapter 1 of title 27 of such code comprising the 1968 building code.",
       "MatterType": "Introduction",
-      "LastModified": "2025-11-20T19:16:56.6Z"
+      "LastModified": "2025-11-21T02:18:39.33Z"
     },
     {
       "ID": 427605,
@@ -288,11 +298,14 @@
       "AgendaSequence": 0,
       "MinutesSequence": 8,
       "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
       "MatterID": 74955,
       "MatterFile": "Int 1107-2024",
       "MatterName": "Common households for short-term rentals in one- and two-family dwellings.",
       "MatterType": "Introduction",
-      "LastModified": "2025-11-20T19:17:00.907Z"
+      "LastModified": "2025-11-21T02:18:34.023Z"
     },
     {
       "ID": 427606,
@@ -301,11 +314,14 @@
       "AgendaSequence": 0,
       "MinutesSequence": 14,
       "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
       "MatterID": 76492,
       "MatterFile": "Int 1422-2025",
       "MatterName": "NYC construction codes, in relation to conforming provisions of such codes with provisions of the NYC existing building code and electrical and elevator inspections.",
       "MatterType": "Introduction",
-      "LastModified": "2025-11-20T19:17:05.207Z"
+      "LastModified": "2025-11-21T02:18:41.66Z"
     },
     {
       "ID": 427607,
@@ -314,11 +330,14 @@
       "AgendaSequence": 0,
       "MinutesSequence": 16,
       "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
       "MatterID": 76699,
       "MatterFile": "Int 1456-2025",
       "MatterName": "Requiring the department of buildings and the department of small business services to provide education concerning the proper installation of awnings and accessory signs, and in relation to waiving penalties and fees related to such signs.",
       "MatterType": "Introduction",
-      "LastModified": "2025-11-20T19:17:08.46Z"
+      "LastModified": "2025-11-21T02:18:44.16Z"
     },
     {
       "ID": 427608,
@@ -327,14 +346,17 @@
       "AgendaSequence": 0,
       "MinutesSequence": 18,
       "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
       "MatterID": 76788,
       "MatterFile": "T2025-4492",
       "MatterName": "Conforming the New York city energy conservation code to the New York state energy code with amendments unique to construction in the city.",
       "MatterType": "Introduction",
-      "LastModified": "2025-11-20T19:17:11.54Z"
+      "LastModified": "2025-11-21T02:18:53.933Z"
     }
   ],
   "AgendaLastPublished": "2025-11-18T16:46:56.177Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-11-20T23:02:10.41Z"
+  "MinutesLastPublished": "2025-11-21T02:19:00.337Z",
+  "LastModified": "2025-11-21T02:19:00.473Z"
 }
