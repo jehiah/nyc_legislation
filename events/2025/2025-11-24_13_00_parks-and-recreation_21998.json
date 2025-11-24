@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/11/21998_A_Committee_on_Parks_and_Recreation_25-11-24_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/11/21998_M_Committee_on_Parks_and_Recreation_25-11-24_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_251124-132201.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=21998&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,30 +20,155 @@
       "GUID": "970443B1-5C55-4CEF-A868-26FC7BCE4DE5",
       "Title": "Oversight - Improving the Maintenance of Park Bathrooms and Drinking Fountains.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 76722,
       "MatterFile": "T2025-4426",
       "MatterName": "Oversight - Improving the Maintenance of Park Bathrooms and Drinking Fountains.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-10-31T16:46:20.673Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-11-24T20:58:00.593Z"
     },
     {
       "ID": 426951,
       "GUID": "35FBBB19-CA1C-4EC0-988B-ED7F8FE35AB2",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to a report on staffing levels for park enforcement patrol officers and park rangers",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 76431,
       "MatterFile": "Int 1425-2025",
       "MatterName": "Report on staffing levels for park enforcement patrol officers and park rangers.",
       "MatterType": "Introduction",
-      "LastModified": "2025-10-30T20:31:23.4Z"
+      "LastModified": "2025-11-24T20:58:09.91Z"
+    },
+    {
+      "ID": 427921,
+      "GUID": "48BAEBDA-9BAB-47DD-8920-A2C4A889667E",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 20
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 70
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        }
+      ],
+      "LastModified": "2025-11-24T20:58:47.51Z"
+    },
+    {
+      "ID": 427922,
+      "GUID": "4E7CD6CF-5FC5-4318-9149-873BDF4ACBB4",
+      "Title": "Oversight - Improving the Maintenance of Park Bathrooms and Drinking Fountains.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 76722,
+      "MatterFile": "T2025-4426",
+      "MatterName": "Oversight - Improving the Maintenance of Park Bathrooms and Drinking Fountains.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-11-24T20:58:05.14Z"
+    },
+    {
+      "ID": 427923,
+      "GUID": "4794029B-79E4-451C-8D29-46430908DC86",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to a report on staffing levels for park enforcement patrol officers and park rangers",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 76431,
+      "MatterFile": "Int 1425-2025",
+      "MatterName": "Report on staffing levels for park enforcement patrol officers and park rangers.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-11-24T20:58:15.33Z"
+    },
+    {
+      "ID": 427924,
+      "GUID": "48D47F10-8981-40BD-BCD6-90FCE7E8B140",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Zhuang and Brewer",
+      "LastModified": "2025-11-24T20:57:48.637Z"
     }
   ],
   "AgendaLastPublished": "2025-10-31T16:46:26.063Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-10-31T16:46:26.22Z"
+  "MinutesLastPublished": "2025-11-24T20:58:54.303Z",
+  "LastModified": "2025-11-24T20:58:54.413Z"
 }
