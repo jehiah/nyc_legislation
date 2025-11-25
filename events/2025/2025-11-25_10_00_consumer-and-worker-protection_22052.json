@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/11/22052_A_Committee_on_Consumer_and_Worker_Protection_25-11-25_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/11/22052_M_Committee_on_Consumer_and_Worker_Protection_25-11-25_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-2_251125-102714.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22052&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,18 +21,131 @@
       "GUID": "978B21DA-AB2A-4222-9EB6-88CE915F7597",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring sellers of petroleum products for use in motor vehicles or motor boats to disclose preauthorization holds",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 1049-A",
       "MinutesNote": "Proposed Int. No. 1049-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 74754,
       "MatterFile": "Int 1049-2024",
       "MatterName": "Requiring sellers of petroleum products for use in motor vehicles or motor boats to disclose preauthorization holds.",
       "MatterType": "Introduction",
-      "LastModified": "2025-11-20T15:53:17.9Z"
+      "LastModified": "2025-11-25T17:23:34.993Z"
+    },
+    {
+      "ID": 428033,
+      "GUID": "F21147C5-A337-4FED-BF68-D96538FC27B7",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-c-farias",
+          "FullName": "Amanda C. Farías",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        }
+      ],
+      "LastModified": "2025-11-25T17:23:26.087Z"
+    },
+    {
+      "ID": 428034,
+      "GUID": "A86AD3D6-8E70-4D48-8B13-1B12B685BE4D",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring sellers of petroleum products for use in motor vehicles or motor boats to disclose preauthorization holds",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 74754,
+      "MatterFile": "Int 1049-2024",
+      "MatterName": "Requiring sellers of petroleum products for use in motor vehicles or motor boats to disclose preauthorization holds.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-11-25T17:23:38.983Z"
+    },
+    {
+      "ID": 428035,
+      "GUID": "9CA8F71A-0CE9-4D8D-A7FF-427DB543362E",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring sellers of petroleum products for use in motor vehicles or motor boats to disclose preauthorization holds",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 74754,
+      "MatterFile": "Int 1049-2024",
+      "MatterName": "Requiring sellers of petroleum products for use in motor vehicles or motor boats to disclose preauthorization holds.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-11-25T17:23:42.69Z"
+    },
+    {
+      "ID": 428036,
+      "GUID": "126ECF11-88F5-4884-9026-F5136F19967E",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring sellers of petroleum products for use in motor vehicles or motor boats to disclose preauthorization holds",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 74754,
+      "MatterFile": "Int 1049-2024",
+      "MatterName": "Requiring sellers of petroleum products for use in motor vehicles or motor boats to disclose preauthorization holds.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-11-25T17:24:00.78Z"
     }
   ],
   "AgendaLastPublished": "2025-11-20T15:53:22.257Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-11-20T15:53:22.387Z"
+  "MinutesLastPublished": "2025-11-25T17:24:06.153Z",
+  "LastModified": "2025-11-25T17:24:06.193Z"
 }

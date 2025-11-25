@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/11/22058_A_Committee_on_Rules%2C_Privileges_and_Elections_25-11-25_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/11/22058_M_Committee_on_Rules%2C_Privileges_and_Elections_25-11-25_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_251125-105625.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22058&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,31 +20,175 @@
       "GUID": "2210014B-11EC-4CAD-9308-6E5F3806D749",
       "Title": "Communication from the Mayor – Submitting the name Mitchell Katz to the Council for its advice and consent regarding his reappointment to the New York City Board of Health, pursuant to Sections 31 and 553 of the City Charter.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Mayor's Message was Hearing Held by Committee",
       "MatterID": 76678,
       "MatterFile": "M 0182-2025",
       "MatterName": "Mitchell Katz, Board of Health",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-11-24T21:54:10.47Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2025-11-25T16:23:31.347Z"
     },
     {
       "ID": 427680,
       "GUID": "F1C8F3C5-D4C2-471A-AAD2-D00F6CAC35E4",
-      "Title": "Communication from the Mayor – Submitting the name David Chokshi to the Council for its advice and consent regarding his appointment to the New York City Board of Health, pursuant to Sections 31 and 553 of the City Charter.",
+      "Title": "Communication from the Mayor – Submitting the name Dave Chokshi to the Council for its advice and consent regarding his appointment to the New York City Board of Health, pursuant to Sections 31 and 553 of the City Charter.",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Mayor's Message was Hearing Held by Committee",
       "MatterID": 76680,
       "MatterFile": "M 0184-2025",
-      "MatterName": "David Chokshi, Board of Health.",
+      "MatterName": "Dave Chokshi, Board of Health",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-11-24T22:00:44.257Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2025-11-25T16:24:16.8Z"
+    },
+    {
+      "ID": 427980,
+      "GUID": "19C2335B-505F-4DFB-B0B0-E514F7515A92",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7741,
+          "Slug": "keith-powers",
+          "FullName": "Keith Powers",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 10
+        },
+        {
+          "ID": 7739,
+          "Slug": "adrienne-e-adams",
+          "FullName": "Adrienne E. Adams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 25
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 70
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-c-farias",
+          "FullName": "Amanda C. Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 90
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 110
+        }
+      ],
+      "LastModified": "2025-11-25T16:23:21.76Z"
+    },
+    {
+      "ID": 427981,
+      "GUID": "C98780C2-CE4B-40AA-97F1-AC2F75038BD8",
+      "Title": "Communication from the Mayor – Submitting the name Mitchell Katz to the Council for its advice and consent regarding his reappointment to the New York City Board of Health, pursuant to Sections 31 and 553 of the City Charter.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 37,
+      "ActionName": "Disapproved by Committee",
+      "ActionText": "A motion was made that this Mayor's Message be Disapproved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 76678,
+      "MatterFile": "M 0182-2025",
+      "MatterName": "Mitchell Katz, Board of Health",
+      "MatterType": "Mayor's Message",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2025-11-25T17:16:16.203Z"
+    },
+    {
+      "ID": 427982,
+      "GUID": "530F2F75-113E-48FD-9446-B31094AA033E",
+      "Title": "Communication from the Mayor – Submitting the name Dave Chokshi to the Council for its advice and consent regarding his appointment to the New York City Board of Health, pursuant to Sections 31 and 553 of the City Charter.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 37,
+      "ActionName": "Disapproved by Committee",
+      "ActionText": "A motion was made that this Mayor's Message be Disapproved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 76680,
+      "MatterFile": "M 0184-2025",
+      "MatterName": "Dave Chokshi, Board of Health",
+      "MatterType": "Mayor's Message",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2025-11-25T17:17:08.727Z"
     }
   ],
-  "AgendaLastPublished": "2025-11-24T22:01:03.4Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-11-24T22:01:03.507Z"
+  "AgendaLastPublished": "2025-11-25T14:33:50.89Z",
+  "MinutesLastPublished": "2025-11-25T17:16:41.343Z",
+  "LastModified": "2025-11-25T17:16:41.39Z"
 }

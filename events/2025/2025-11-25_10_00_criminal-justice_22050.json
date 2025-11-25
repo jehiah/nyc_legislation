@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/11/22050_A_Committee_on_Criminal_Justice_25-11-25_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/11/22050_M_Committee_on_Criminal_Justice_25-11-25_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-3_251125-100821.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22050&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,18 +21,155 @@
       "GUID": "35A279D7-798B-4F07-9EDA-97E4F46A178C",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the department of correction work release program",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 1241-A",
       "MinutesNote": "Proposed Int. No. 1241-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 75676,
       "MatterFile": "Int 1241-2025",
       "MatterName": "Department of correction work release program.",
       "MatterType": "Introduction",
-      "LastModified": "2025-11-20T19:09:52.067Z"
+      "LastModified": "2025-11-25T15:26:37.887Z"
+    },
+    {
+      "ID": 427968,
+      "GUID": "079CFC23-ADC7-4FF8-A9FB-B7E30A29FE64",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 30
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-l-caban",
+          "FullName": "Tiffany L. Cabán",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 70
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 80
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2025-11-25T15:26:32.047Z"
+    },
+    {
+      "ID": 427969,
+      "GUID": "0E4051FA-E91B-46B6-AEEE-6211E81FA4D2",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the department of correction work release program",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 75676,
+      "MatterFile": "Int 1241-2025",
+      "MatterName": "Department of correction work release program.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-11-25T15:26:42.467Z"
+    },
+    {
+      "ID": 427970,
+      "GUID": "0ADBD31C-8989-49C8-AA40-5ABAF66BED7D",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the department of correction work release program",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 75676,
+      "MatterFile": "Int 1241-2025",
+      "MatterName": "Department of correction work release program.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-11-25T15:26:46.027Z"
+    },
+    {
+      "ID": 427971,
+      "GUID": "6B8D3F7F-D47F-4FBA-AEB6-3603406D6D1F",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the department of correction work release program",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "This Introduction was Approved by Committee",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 75676,
+      "MatterFile": "Int 1241-2025",
+      "MatterName": "Department of correction work release program.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-11-25T15:26:58.743Z"
     }
   ],
   "AgendaLastPublished": "2025-11-20T19:01:34.677Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-11-20T19:01:34.76Z"
+  "MinutesLastPublished": "2025-11-25T15:27:04.537Z",
+  "LastModified": "2025-11-25T15:27:04.673Z"
 }
