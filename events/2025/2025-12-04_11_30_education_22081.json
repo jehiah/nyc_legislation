@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/12/22081_A_Committee_on_Education_25-12-04_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/12/22081_M_Committee_on_Education_25-12-04_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-3_251204-113836.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22081&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,44 +21,265 @@
       "GUID": "53CA0758-0283-4BFD-847B-BE074C592D1B",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring all schools to stock airway clearance devices, and to repeal section two of such local law upon the expiration thereof",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 1002-A",
       "MinutesNote": "Proposed Int. No. 1002-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 74531,
       "MatterFile": "Int 1002-2024",
       "MatterName": "Requiring all schools to stock airway clearance devices, and to repeal section two of such local law upon the expiration thereof.",
       "MatterType": "Introduction",
-      "LastModified": "2025-12-03T18:17:13.573Z"
+      "LastModified": "2025-12-04T17:07:34.853Z"
     },
     {
       "ID": 428195,
       "GUID": "07B54F9A-0C36-4A27-ADFD-4AB5A08D60EB",
       "Title": "Resolution calling on the New York City Department of Education and the New York State Education Department to collaborate on and prioritize increasing the number of educators trained to work with English Language Learners and to improve the quality and comprehensiveness of English Language Learners’ education.",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 73249,
       "MatterFile": "Res 0054-2024",
       "MatterName": "DOE and the NYS Education Dept to collaborate on and prioritize increasing the number of educators trained to work with English Language Learners and to improve the quality and comprehensiveness of English Language Learners’ education.",
       "MatterType": "Resolution",
-      "LastModified": "2025-12-02T15:26:37.047Z"
+      "LastModified": "2025-12-04T17:08:01.3Z"
     },
     {
       "ID": 428196,
       "GUID": "84B85407-A726-4CFA-B264-259EBEABEEF2",
       "Title": "Resolution calling on the New York State Education Department to allow a lifeguard certification to substitute for Physical Education Credit for high school seniors aged 17 years and older.",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 9,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 72298,
       "MatterFile": "Res 0251-2024",
       "MatterName": "Allow a lifeguard certification to substitute for Physical Education Credit for high school seniors aged 17 years and older.",
       "MatterType": "Resolution",
-      "LastModified": "2025-12-02T15:26:44.997Z"
+      "LastModified": "2025-12-04T17:08:21.137Z"
+    },
+    {
+      "ID": 428559,
+      "GUID": "29C62292-0F62-42D9-A8DB-B382B085EDC8",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-p-sanchez",
+          "FullName": "Pierina Ana P. Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 110
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 130
+        }
+      ],
+      "LastModified": "2025-12-04T17:07:11.817Z"
+    },
+    {
+      "ID": 428560,
+      "GUID": "940927D1-A64D-4890-93CA-B2DE032E1983",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Marmorato",
+      "LastModified": "2025-12-04T17:07:06.467Z"
+    },
+    {
+      "ID": 428561,
+      "GUID": "9C84EF81-70BC-40E5-A291-C2ABD008582D",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring all schools to stock airway clearance devices, and to repeal section two of such local law upon the expiration thereof",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 74531,
+      "MatterFile": "Int 1002-2024",
+      "MatterName": "Requiring all schools to stock airway clearance devices, and to repeal section two of such local law upon the expiration thereof.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-12-04T17:07:40.903Z"
+    },
+    {
+      "ID": 428562,
+      "GUID": "B5C4B184-8E88-47E0-98F2-7C3B64796146",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring all schools to stock airway clearance devices, and to repeal section two of such local law upon the expiration thereof",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 74531,
+      "MatterFile": "Int 1002-2024",
+      "MatterName": "Requiring all schools to stock airway clearance devices, and to repeal section two of such local law upon the expiration thereof.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-12-04T17:07:44.907Z"
+    },
+    {
+      "ID": 428563,
+      "GUID": "34C89778-B430-49C8-9B2E-B2B4E0A4CEA2",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring all schools to stock airway clearance devices, and to repeal section two of such local law upon the expiration thereof",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 74531,
+      "MatterFile": "Int 1002-2024",
+      "MatterName": "Requiring all schools to stock airway clearance devices, and to repeal section two of such local law upon the expiration thereof.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-12-04T17:07:54.367Z"
+    },
+    {
+      "ID": 428564,
+      "GUID": "AAB5BBE3-85A4-433B-9A5C-15E2062C6417",
+      "Title": "Resolution calling on the New York City Department of Education and the New York State Education Department to collaborate on and prioritize increasing the number of educators trained to work with English Language Learners and to improve the quality and comprehensiveness of English Language Learners’ education.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Resolution be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 73249,
+      "MatterFile": "Res 0054-2024",
+      "MatterName": "DOE and the NYS Education Dept to collaborate on and prioritize increasing the number of educators trained to work with English Language Learners and to improve the quality and comprehensiveness of English Language Learners’ education.",
+      "MatterType": "Resolution",
+      "LastModified": "2025-12-04T17:08:13.76Z"
+    },
+    {
+      "ID": 428565,
+      "GUID": "D8584820-D140-4139-9E7F-43C9D51303AC",
+      "Title": "Resolution calling on the New York State Education Department to allow a lifeguard certification to substitute for Physical Education Credit for high school seniors aged 17 years and older.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 10,
+      "Version": "*",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Resolution be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 72298,
+      "MatterFile": "Res 0251-2024",
+      "MatterName": "Allow a lifeguard certification to substitute for Physical Education Credit for high school seniors aged 17 years and older.",
+      "MatterType": "Resolution",
+      "LastModified": "2025-12-04T17:08:32.787Z"
     }
   ],
   "AgendaLastPublished": "2025-12-03T18:17:18.233Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-12-03T18:17:18.327Z"
+  "MinutesLastPublished": "2025-12-04T17:08:37.633Z",
+  "LastModified": "2025-12-04T17:08:37.693Z"
 }

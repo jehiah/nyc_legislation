@@ -6,8 +6,8 @@
   "Title": "A Local Law to amend the administrative code of the city of New York, in relation to building inspections and reporting following complaints related to rats and conditions that attract rats",
   "TypeID": 2,
   "TypeName": "Introduction",
-  "StatusID": 25,
-  "StatusName": "Laid Over in Committee",
+  "StatusID": 24,
+  "StatusName": "Reported from Committee",
   "BodyID": 16,
   "BodyName": "Committee on Housing and Buildings",
   "IntroDate": "2025-03-12T00:00:00Z",
@@ -190,12 +190,138 @@
       "Version": "*",
       "MatterStatusID": 25,
       "LastModified": "2025-11-21T02:18:36.703Z"
+    },
+    {
+      "ID": 428202,
+      "Date": "2025-12-04T11:45:00Z",
+      "ActionID": 54,
+      "Action": "Hearing Held by Committee",
+      "Description": "This Introduction was Hearing Held by Committee",
+      "BodyID": 16,
+      "BodyName": "Committee on Housing and Buildings",
+      "EventID": 22039,
+      "AgendaSequence": 2,
+      "MinutesSequence": 7,
+      "Version": "*",
+      "AgendaNote": "Proposed Int. No. 1217-A",
+      "MinutesNote": "Proposed Int. No. 1217-A",
+      "MatterStatusID": 3,
+      "LastModified": "2025-12-04T17:42:50.78Z"
+    },
+    {
+      "ID": 428592,
+      "Date": "2025-12-04T11:45:00Z",
+      "ActionID": 5001,
+      "Action": "Amendment Proposed by Comm",
+      "Description": "This Introduction was Amendment Proposed by Comm",
+      "BodyID": 16,
+      "BodyName": "Committee on Housing and Buildings",
+      "EventID": 22039,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2025-12-04T17:42:56.997Z"
+    },
+    {
+      "ID": 428593,
+      "Date": "2025-12-04T11:45:00Z",
+      "ActionID": 33,
+      "Action": "Amended by Committee",
+      "Description": "This Introduction was Amended by Committee",
+      "BodyID": 16,
+      "BodyName": "Committee on Housing and Buildings",
+      "EventID": 22039,
+      "MinutesSequence": 9,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2025-12-04T17:43:01.78Z"
+    },
+    {
+      "ID": 428594,
+      "Date": "2025-12-04T11:45:00Z",
+      "ActionID": 32,
+      "Action": "Approved by Committee",
+      "Description": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "BodyID": 16,
+      "BodyName": "Committee on Housing and Buildings",
+      "EventID": 22039,
+      "MinutesSequence": 10,
+      "Version": "A",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterStatusID": 24,
+      "Votes": [
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-p-sanchez",
+          "FullName": "Pierina Ana P. Sanchez",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 10
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 20
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 30
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 40
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-j-feliz",
+          "FullName": "Oswald J. Feliz",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 50
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 60
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2025-12-04T17:43:18.72Z"
     }
   ],
   "Attachments": [
     {
       "ID": 330314,
-      "LastModified": "2025-12-04T12:26:02.977Z",
+      "LastModified": "2025-12-04T14:54:33.28Z",
       "Name": "Summary of Int. No. 1217-A",
       "Link": "https://nyc.legistar1.com/nyc/attachments/59362f88-5c4e-4958-85b1-c8654b16f3e8.docx",
       "Sort": 1
@@ -283,11 +409,18 @@
       "Name": "Int. No. 1217-A - Fiscal Impact Statement - OMB",
       "Link": "https://nyc.legistar1.com/nyc/attachments/73cf4783-c300-43be-8e97-6ff7e59d33d5.pdf",
       "Sort": 13
+    },
+    {
+      "ID": 330478,
+      "LastModified": "2025-12-04T14:54:37.093Z",
+      "Name": "Committee Report 12/4/25",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/48ce2590-ea39-4ad1-9884-b40616a31ad9.docx",
+      "Sort": 14
     }
   ],
   "Summary": "This bill would require DOHMH to perform a building inspection in response to any 311 complaint relating to rat activity or conditions that might attract rats within 14 days of receiving such complaint. If unable to complete such inspection, DOHMH would be required to conduct a subsequent inspection within 20 days of the initial inspection. The bill would also require that a record of such inspections include a description of the inspector’s observations and whether DOHMH conducted any enforcement related to rats in the building; such records would be made publicly available online.",
   "TextID": 80844,
   "Text": "Be it enacted by the Council as follows:\n      \n      \n      Section 1. Chapter 1 of title 17 of the administrative code of the city of New York is amended by adding a new section 17-133.4 to read as follows:\n      � 17-133.4 Inspections for rats. a. Definitions. For purposes of this section, the term \"covered complaint\" means a complaint or service request submitted to the department through the 311 customer service center or other means relating to rats or conditions that attract rats in a building. \n      b. Inspections. Within 14 days of receipt of a covered complaint, the department shall make its best effort to inspect the building to which such complaint pertains for signs of rat activity or conditions that attract rats, unless the department has inspected such building for the same within 90 days of the submission of such complaint or the department is otherwise currently engaged in pest control activities at the location of such building. If during such an inspection the department is unable to access the interior of a building as necessary to conduct the inspection, or otherwise unable to complete the inspection, the department shall make its best effort to conduct a subsequent inspection of the building within 20 days of the initial inspection. During an inspection, the department shall record the following information:\n      1. The date of the inspection;\n      2. The street address of the building so inspected;\n      3. Whether such building passed or failed such inspection, as determined by the department;\n      4. If any notice of violation relating to the presence of rats or order to abate a condition related to the presence of rats is issued to the person in charge of such building in response to such inspection, the number of such notices of violation or orders to abate so issued; and\n      5. The inspector's observations of signs of rats or conditions that attract rats during such inspection or any subsequent inspection.\n      c. Reporting. Within 30 days of completing an inspection pursuant to subdivision b of this section, or pursuant to any other lawful rat mitigation program inspection conducted by the department related to rats or conditions that attract rats, the department shall make publicly available on a website the information collected during such inspection, including the information required to be recorded pursuant to subdivision b of this section, to the extent such information is available for such inspection. Such information may be made available as part of an interactive map on rat activity on a city website wherein such information may be viewed upon selecting an individual address or as described in explanatory text on such website.\n      � 3. This local law takes effect 180 days after it becomes law.\n\n\nMBB\nLS # 16272\n11/25/2025, 11:05 p.m.\n\n      2\n      \n      \n      2",
   "RTF": "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang1033\\deflangfe1033{\\fonttbl{\\f0\\froman\\fprq2\\fcharset0 Times New Roman;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\n\\ul\\v0\\par\nBe it enacted by the Council as follows:\\ulnone\\par\n\\pard\\ltrpar\\fi720\\qj\\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qj Section 1. Chapter 1 of title 17 \\cf1 of the administrative code of the city of New York is amended by adding a new section 17-133.4 to read as follows:\\par\n\\cf0\\ul\\'a7 17-133.4 Inspections for rats. a. Definitions. For purposes of this section, the term \\ldblquote covered complaint\\rdblquote  means a complaint or service request submitted to the department through the 311 customer service center or other means relating to rats or conditions that attract rats in a building. \\par\nb. Inspections. Within 14 days of receipt of a covered complaint, the department shall make its best effort to inspect the building to which such complaint pertains for signs of rat activity or conditions that attract rats, unless the department has inspected such building for the same within 90 days of the submission of such complaint or the department is otherwise currently engaged in pest control activities at the location of such building. If during such an inspection the department is unable to access the interior of a building as necessary to conduct the inspection, or otherwise unable to complete the inspection, the department shall make its best effort to conduct a subsequent inspection of the building within 20 days of the initial inspection. During an inspection, the department shall record the following information:\\par\n1. The date of the inspection;\\par\n2. The street address of the building so inspected;\\par\n3. Whether such building passed or failed such inspection, as determined by the department;\\par\n4. If any notice of violation relating to the presence of rats or order to abate a condition related to the presence of rats is issued to the person in charge of such building in response to such inspection, the number of such notices of violation or orders to abate so issued; and\\par\n5. The inspector\\rquote s observations of signs of rats or conditions that attract rats during such inspection or any subsequent inspection.\\par\nc. Reporting. Within 30 days of completing an inspection pursuant to subdivision b of this section, or pursuant to any other lawful rat mitigation program inspection conducted by the department related to rats or conditions that attract rats, the department shall make publicly available on a website the information collected during such inspection, including the information required to be recorded pursuant to subdivision b of this section, to the extent such information is available for such inspection. Such information may be made available as part of an interactive map on rat activity on a city website wherein such information may be viewed upon selecting an individual address or as described in explanatory text on such website.\\par\n\\ulnone\\'a7 3. This local law takes effect 180 days after it becomes law.\\par\n\\pard\\ltrpar\\qj\\fs18\\par\nMBB\\par\nLS # 16272\\par\n\\pard\\ltrpar 11/25/2025, 11:05 p.m.\\par\n\\par\n}\n",
-  "LastModified": "2025-12-04T13:31:01.587Z"
+  "LastModified": "2025-12-04T17:43:08.94Z"
 }

@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/12/22064_A_Committee_on_Health_25-12-04_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/12/22064_M_Committee_on_Health_25-12-04_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-3_251204-094940.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22064&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,18 +21,171 @@
       "GUID": "150AB734-97DA-4063-908E-85B11F170BC4",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring schools and child care programs to stock epinephrine devices",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 895-A",
       "MinutesNote": "Proposed Int. No. 895-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 74110,
       "MatterFile": "Int 0895-2024",
       "MatterName": "Requiring schools and child care programs to stock epinephrine devices.",
       "MatterType": "Introduction",
-      "LastModified": "2025-12-02T15:51:13.567Z"
+      "LastModified": "2025-12-04T15:16:23.497Z"
+    },
+    {
+      "ID": 428491,
+      "GUID": "AEF92BAD-E8A9-4A8E-ACE0-6EA15B0AD1DB",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 25
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 5289,
+          "Slug": "simcha-felder",
+          "FullName": "Simcha Felder",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 35
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-j-feliz",
+          "FullName": "Oswald J. Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 50
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 70
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        }
+      ],
+      "LastModified": "2025-12-04T15:16:15.367Z"
+    },
+    {
+      "ID": 428492,
+      "GUID": "029FBCF8-ED8E-460A-ABE6-8D914AA60173",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring schools and child care programs to stock epinephrine devices",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 74110,
+      "MatterFile": "Int 0895-2024",
+      "MatterName": "Requiring schools and child care programs to stock epinephrine devices.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-12-04T15:16:28.46Z"
+    },
+    {
+      "ID": 428493,
+      "GUID": "ED8291F2-E938-4D72-ABAF-9ED4E5E2B1C0",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring schools and child care programs to stock epinephrine devices",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 74110,
+      "MatterFile": "Int 0895-2024",
+      "MatterName": "Requiring schools and child care programs to stock epinephrine devices.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-12-04T15:17:06.443Z"
+    },
+    {
+      "ID": 428494,
+      "GUID": "B4CB1D8C-CEE0-470A-8D8C-852D469ECE21",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring schools and child care programs to stock epinephrine devices",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 74110,
+      "MatterFile": "Int 0895-2024",
+      "MatterName": "Requiring schools and child care programs to stock epinephrine devices.",
+      "MatterType": "Introduction",
+      "LastModified": "2025-12-04T15:17:36.65Z"
     }
   ],
   "AgendaLastPublished": "2025-12-02T15:51:20.627Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-12-02T15:51:20.757Z"
+  "MinutesLastPublished": "2025-12-04T15:17:44.953Z",
+  "LastModified": "2025-12-04T15:17:45.187Z"
 }
