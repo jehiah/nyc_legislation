@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/12/22091_A_Committee_on_Standards_and_Ethics_25-12-09_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/12/22091_M_Committee_on_Standards_and_Ethics_25-12-09_Meeting_Minutes.pdf",
   "Comment": "*",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-3_251209-153213.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22091&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
@@ -20,17 +21,89 @@
       "GUID": "8C365F60-2551-4A4F-90CD-D66D1374FF7C",
       "Title": "Oversight - Meeting pursuant to Council Rule 10.60.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 76886,
       "MatterFile": "T2025-4590",
       "MatterName": "Oversight - Meeting pursuant to Council Rule 10.60.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-12-08T22:47:55.68Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-12-10T14:37:50.203Z"
+    },
+    {
+      "ID": 428684,
+      "GUID": "263800E1-BBCB-4255-9F99-EFE63A60810F",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        }
+      ],
+      "LastModified": "2025-12-10T14:37:40.763Z"
+    },
+    {
+      "ID": 428685,
+      "GUID": "EA315521-2EED-4921-A374-B431E79F997C",
+      "Title": "Oversight - Meeting pursuant to Council Rule 10.60.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 76886,
+      "MatterFile": "T2025-4590",
+      "MatterName": "Oversight - Meeting pursuant to Council Rule 10.60.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-12-10T14:38:01.45Z"
     }
   ],
   "AgendaLastPublished": "2025-12-08T22:48:24.86Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-12-09T20:45:22.403Z"
+  "MinutesLastPublished": "2025-12-10T14:38:08.847Z",
+  "LastModified": "2025-12-10T14:38:08.903Z"
 }
