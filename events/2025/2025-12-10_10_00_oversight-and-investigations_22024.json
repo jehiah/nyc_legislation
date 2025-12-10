@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/12/22024_A_Committee_on_Oversight_and_Investigations_25-12-10_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/12/22024_M_Committee_on_Oversight_and_Investigations_25-12-10_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Criminal Justice",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_251210-100815.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22024&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,26 +21,148 @@
       "GUID": "82BFB1CA-3832-46E4-A183-186D74AB0DCE",
       "Title": "Jointly with the Committee on Criminal Justice",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "",
-      "LastModified": "2025-11-06T20:26:38.467Z"
+      "LastModified": "2025-12-10T19:23:11.33Z"
     },
     {
       "ID": 427071,
       "GUID": "24644572-9A73-4B42-8017-291368B446CB",
       "Title": "Oversight - Visiting Rikers Island.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 76765,
       "MatterFile": "T2025-4469",
       "MatterName": "Oversight - Visiting Rikers Island.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-12-01T23:33:59.877Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-12-10T18:23:31.5Z"
+    },
+    {
+      "ID": 428695,
+      "GUID": "E4B4AE5E-EACD-41F8-B962-20DF3176F1E2",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 20
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 30
+        },
+        {
+          "ID": 5289,
+          "Slug": "simcha-felder",
+          "FullName": "Simcha Felder",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 35
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7887,
+          "Slug": "frank-morano",
+          "FullName": "Frank Morano",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 55
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 70
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 80
+        }
+      ],
+      "LastModified": "2025-12-10T20:11:01.67Z"
+    },
+    {
+      "ID": 428696,
+      "GUID": "82F2E259-126D-4B29-A9EC-C309BE4A8DDD",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Nurse, Marte, Narcisse, Abreu, Cabán, Hanif and Stevens",
+      "LastModified": "2025-12-10T18:22:14.207Z"
+    },
+    {
+      "ID": 428697,
+      "GUID": "353963A5-F1B1-46CF-8691-77E800D22630",
+      "Title": "Oversight - Visiting Rikers Island.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 76765,
+      "MatterFile": "T2025-4469",
+      "MatterName": "Oversight - Visiting Rikers Island.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-12-10T18:23:58.183Z"
     }
   ],
   "AgendaLastPublished": "2025-11-12T21:14:11.043Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-12-10T15:08:16.9Z"
+  "MinutesLastPublished": "2025-12-10T20:11:06.843Z",
+  "LastModified": "2025-12-10T20:11:06.94Z"
 }
