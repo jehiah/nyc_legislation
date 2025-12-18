@@ -6,52 +6,15 @@
   "Title": "A Local Law to amend the administrative code of the city of New York, in relation to small business loan readiness resources",
   "TypeID": 2,
   "TypeName": "Introduction",
-  "StatusID": 25,
-  "StatusName": "Laid Over in Committee",
+  "StatusID": 24,
+  "StatusName": "Reported from Committee",
   "BodyID": 5120,
   "BodyName": "Committee on Small Business",
   "IntroDate": "2025-08-14T00:00:00Z",
   "AgendaDate": "2025-08-14T00:00:00Z",
   "PassedDate": "0001-01-01T00:00:00Z",
   "EnactmentDate": "0001-01-01T00:00:00Z",
-  "Version": "*",
-  "Sponsors": [
-    {
-      "ID": 7810,
-      "Slug": "amanda-c-farias",
-      "FullName": "Amanda C. Farías"
-    },
-    {
-      "ID": 7785,
-      "Slug": "farah-n-louis",
-      "FullName": "Farah N. Louis"
-    },
-    {
-      "ID": 7748,
-      "Slug": "justin-l-brannan",
-      "FullName": "Justin L. Brannan"
-    },
-    {
-      "ID": 7826,
-      "Slug": "shahana-k-hanif",
-      "FullName": "Shahana K. Hanif"
-    },
-    {
-      "ID": 5259,
-      "Slug": "gale-a-brewer",
-      "FullName": "Gale A. Brewer"
-    },
-    {
-      "ID": 7827,
-      "Slug": "rita-c-joseph",
-      "FullName": "Rita C. Joseph"
-    },
-    {
-      "ID": 7818,
-      "Slug": "lynn-c-schulman",
-      "FullName": "Lynn C. Schulman"
-    }
-  ],
+  "Version": "A",
   "History": [
     {
       "ID": 423485,
@@ -110,76 +73,236 @@
       "Version": "*",
       "MatterStatusID": 25,
       "LastModified": "2025-10-15T16:42:53.567Z"
+    },
+    {
+      "ID": 428814,
+      "Date": "2025-12-18T07:00:00Z",
+      "ActionID": 54,
+      "Action": "Hearing Held by Committee",
+      "Description": "This Introduction was Hearing Held by Committee",
+      "BodyID": 5120,
+      "BodyName": "Committee on Small Business",
+      "EventID": 22107,
+      "AgendaSequence": 1,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "AgendaNote": "Proposed Int. No. 1350-A",
+      "MinutesNote": "Proposed Int. No. 1350-A",
+      "MatterStatusID": 3,
+      "LastModified": "2025-12-18T17:47:43.07Z"
+    },
+    {
+      "ID": 429394,
+      "Date": "2025-12-18T07:00:00Z",
+      "ActionID": 5001,
+      "Action": "Amendment Proposed by Comm",
+      "Description": "This Introduction was Amendment Proposed by Comm",
+      "BodyID": 5120,
+      "BodyName": "Committee on Small Business",
+      "EventID": 22107,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2025-12-18T17:47:46.643Z"
+    },
+    {
+      "ID": 429395,
+      "Date": "2025-12-18T07:00:00Z",
+      "ActionID": 33,
+      "Action": "Amended by Committee",
+      "Description": "This Introduction was Amended by Committee",
+      "BodyID": 5120,
+      "BodyName": "Committee on Small Business",
+      "EventID": 22107,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2025-12-18T17:47:50.483Z"
+    },
+    {
+      "ID": 429396,
+      "Date": "2025-12-18T07:00:00Z",
+      "ActionID": 32,
+      "Action": "Approved by Committee",
+      "Description": "This Introduction was Approved by Committee",
+      "BodyID": 5120,
+      "BodyName": "Committee on Small Business",
+      "EventID": 22107,
+      "MinutesSequence": 6,
+      "Version": "A",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterStatusID": 24,
+      "Votes": [
+        {
+          "ID": 7798,
+          "Slug": "oswald-j-feliz",
+          "FullName": "Oswald J. Feliz",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 10
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 20
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 30
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 40
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 50
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 60
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2025-12-18T17:48:07.763Z"
     }
   ],
   "Attachments": [
     {
+      "ID": 331127,
+      "LastModified": "2025-12-15T21:41:52.607Z",
+      "Name": "Summary of Int. No. 1350-A",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/47f1ad1f-8c42-45a0-b6d2-d235c1d57d5a.docx",
+      "Sort": 1
+    },
+    {
       "ID": 323703,
-      "LastModified": "2025-11-24T16:10:49.583Z",
+      "LastModified": "2025-12-15T20:48:56.677Z",
       "Name": "Summary of Int. No. 1350",
       "Link": "https://nyc.legistar1.com/nyc/attachments/943a9b55-288b-4c6d-8b34-fb088178cb6b.docx",
-      "Sort": 1
+      "Sort": 2
     },
     {
       "ID": 323702,
       "LastModified": "2025-10-17T11:43:20.577Z",
       "Name": "Int. No. 1350",
       "Link": "https://nyc.legistar1.com/nyc/attachments/b4ca0cfa-e3d6-42cb-91d7-544a4a1673f3.docx",
-      "Sort": 2
+      "Sort": 3
     },
     {
       "ID": 324395,
       "LastModified": "2025-08-14T23:18:52.567Z",
       "Name": "August 14, 2025 - Stated Meeting Agenda",
       "Link": "https://nyc.legistar1.com/nyc/attachments/6b8e4a10-d4e2-490f-aeca-99cc752a13ae.pdf",
-      "Sort": 3
+      "Sort": 4
     },
     {
       "ID": 324868,
       "LastModified": "2025-09-04T19:16:14.25Z",
       "Name": "Hearing Transcript - Stated Meeting  8-14-25",
       "Link": "https://nyc.legistar1.com/nyc/attachments/4801763b-140c-4fcc-9480-c03267330c69.pdf",
-      "Sort": 4
+      "Sort": 5
     },
     {
       "ID": 327085,
       "LastModified": "2025-10-14T14:47:35.62Z",
       "Name": "Committee Report 10/15/25",
       "Link": "https://nyc.legistar1.com/nyc/attachments/d969e03a-59d8-4110-9daa-408592b2c464.docx",
-      "Sort": 5
+      "Sort": 6
     },
     {
       "ID": 327488,
       "LastModified": "2025-11-24T16:10:52.353Z",
       "Name": "Hearing Testimony 10/15/25",
       "Link": "https://nyc.legistar1.com/nyc/attachments/29609a97-cf58-4cb3-b9b8-335525fa03ea.pdf",
-      "Sort": 6
+      "Sort": 7
     },
     {
       "ID": 329656,
-      "LastModified": "2025-11-24T16:10:53.727Z",
+      "LastModified": "2025-12-15T21:04:24.677Z",
       "Name": "Hearing Transcript 10/15/25",
       "Link": "https://nyc.legistar1.com/nyc/attachments/2198f869-bedf-41ee-b089-8dfb095dd476.pdf",
-      "Sort": 7
+      "Sort": 8
     },
     {
       "ID": 327129,
       "LastModified": "2025-11-24T16:10:53.683Z",
       "Name": "Fiscal Impact Statement - City Council",
       "Link": "https://nyc.legistar1.com/nyc/attachments/9c42f256-062f-47b2-9bfe-af6e7991bbe0.docx",
-      "Sort": 8
+      "Sort": 9
     },
     {
       "ID": 327130,
       "LastModified": "2025-11-24T16:10:53.387Z",
       "Name": "Fiscal Impact Statement - OMB",
       "Link": "https://nyc.legistar1.com/nyc/attachments/979fed48-ac8f-4dd9-9c0b-8426a363c52c.pdf",
-      "Sort": 9
+      "Sort": 10
+    },
+    {
+      "ID": 331089,
+      "LastModified": "2025-12-15T21:04:19.237Z",
+      "Name": "Proposed Int. No. 1350-A - 12/15/25",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/d991ffe0-133b-4c66-aecd-8379ece46201.docx",
+      "Sort": 11
+    },
+    {
+      "ID": 331169,
+      "LastModified": "2025-12-15T21:42:02.38Z",
+      "Name": "Committee Report 12/18/25",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/0eed95ec-e1b1-4a82-9467-f861e1458700.docx",
+      "Sort": 12
+    },
+    {
+      "ID": 331316,
+      "LastModified": "2025-12-16T22:45:24.127Z",
+      "Name": "Int. No. 1350-A - Fiscal Impact Statement - City Council",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/76c42a04-885b-449c-939a-d9063837f3a3.docx",
+      "Sort": 13
+    },
+    {
+      "ID": 331317,
+      "LastModified": "2025-12-16T22:45:24.423Z",
+      "Name": "Int. No. 1350-A - Fiscal Impact Statement - OMB",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/77df5bc6-f926-482d-9eb0-56a6993cb22a.pdf",
+      "Sort": 14
     }
   ],
-  "Summary": "This bill would require the Department of Small Business Services (SBS) to provide loan readiness resources to help small businesses prepare for the lending process and understand the services offered by Community Development Financial Institutions (CDFIs) and other lenders. These resources would include assistance with business plan development, preparation of financial documents, and understanding loan application requirements.",
-  "TextID": 80105,
-  "Text": "Be it enacted by the Council as follows:\n      \n      \n      Section 1. Paragraph 4 of subdivision a of section 22-1002 of the administrative code of the city of New York, as amended by local law 133 of 2023, is amended to read as follows:\n      4. Information on loans and grants for small businesses which shall include, but need not be limited to:\n      (a) Guidance on selecting a lender, including information about local CDFIs, which shall include, but need not be limited to, a directory of local CDFIs, and for each such local CDFI, a description of services provided by such local CDFI, the neighborhood or area of the city in which such local CDFI operates or provides services, and the types of loans offered by such local CDFI;\n      (b) Information on specialized services that may be offered by banks for small businesses, such as a dedicated banking team, merchant services, business loans, or lines of credit;\n      (c) Information on typical fees, interest rates, monthly charges, or balance requirements;\n      (d) Potential advantages and disadvantages of having accounts at multiple banks;\n      (e) Information about federal deposit insurance corporation insurance coverage or other protections provided for small businesses deposits; [and]\n      (f) Loan readiness resources to help small businesses prepare for the lending process and understand the services offered by local CDFIs and other lenders, including business plan development, preparation of financial documents and understanding loan application requirements; and\n      � 2. This local law takes effect 180 days after it becomes law.\n\nARP\nLS # 17133\n7/30/25\n      1\n      \n      \n      2",
-  "RTF": "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang1033\\deflangfe1033{\\fonttbl{\\f0\\froman\\fprq2\\fcharset0 Times New Roman;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\n\\v0\\par\nBe it enacted by the Council as follows:\\ulnone\\par\n\\pard\\ltrpar\\fi720\\qj\\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qj Section 1. Paragraph 4 of subdivision a of section 22-1002 of the administrative code of the city of New York, as amended by local law 133 of 2023, is amended to read as follows:\\par\n4. Information on loans and grants for small businesses which shall include, but need not be limited to:\\par\n(a) Guidance on selecting a lender, including information about local CDFIs, which shall include, but need not be limited to, a directory of local CDFIs, and for each such local CDFI, a description of services provided by such local CDFI, the neighborhood or area of the city in which such local CDFI operates or provides services, and the types of loans offered by such local CDFI;\\par\n(b) Information on specialized services that may be offered by banks for small businesses, such as a dedicated banking team, merchant services, business loans, or lines of credit;\\par\n(c) Information on typical fees, interest rates, monthly charges, or balance requirements;\\par\n(d) Potential advantages and disadvantages of having accounts at multiple banks;\\par\n(e) Information about federal deposit insurance corporation insurance coverage or other protections provided for small businesses deposits; [and]\\par\n\\ul (f) Loan readiness resources to help small businesses prepare for the lending process and understand the services offered by local CDFIs and other lenders, including business plan development, preparation of financial documents and understanding loan application requirements; and\\par\n\\ulnone\\'a7 2. \\cf1 This local law takes effect 180 days after it becomes law.\\par\n\\pard\\ltrpar\\qj\\cf0\\fs18 ARP\\par\nLS # 17133\\par\n7/30/25\\fs24\\par\n}\n",
-  "LastModified": "2025-12-12T21:43:03.403Z"
+  "Summary": "This bill would require the Department of Small Business Services (SBS) to provide loan readiness resources to help small businesses prepare for the lending process and understand the services offered by Community Development Financial Institutions (CDFIs). These resources would include assistance with business plan development, preparation of financial documents, and understanding loan application requirements.",
+  "TextID": 80963,
+  "Text": "Be it enacted by the Council as follows:\n      \n      \n      Section 1. Paragraph 4 of subdivision a of section 22-1002 of the administrative code of the city of New York, as amended by local law number 137 of 2023, is amended to read as follows:\n      4. Information on loans and grants for small businesses which shall include, but need not be limited to:\n      (a) Guidance on selecting a lender, including information about local CDFIs, which shall include, but need not be limited to, a directory of local CDFIs, and for each such local CDFI, a description of services provided by such local CDFI, the neighborhood or area of the city in which such local CDFI operates or provides services, and the types of loans offered by such local CDFI;\n      (b) Information on specialized services that may be offered by banks for small businesses, such as a dedicated banking team, merchant services, business loans, or lines of credit;\n      (c) Information on typical fees, interest rates, monthly charges, or balance requirements;\n      (d) Potential advantages and disadvantages of having accounts at multiple banks;\n      (e) Information about federal deposit insurance corporation insurance coverage or other protections provided for small businesses deposits; [and]\n      (f) Loan readiness resources to help small businesses prepare for the lending process and understand the services offered by local CDFIs, including business plan development, preparation of financial documents and understanding loan application requirements; and\n      � 2. This local law takes effect 180 days after it becomes law.\n\n\nLH\nLS #17133\n12/3/2025\n\nARP\nLS # 17133\n7/30/25\n      1\n      \n      \n      2",
+  "RTF": "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang1033\\deflangfe1033{\\fonttbl{\\f0\\froman\\fprq2\\fcharset0 Times New Roman;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\n\\ul\\v0\\par\nBe it enacted by the Council as follows:\\ulnone\\par\n\\pard\\ltrpar\\fi720\\qj\\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qj Section 1. Paragraph 4 of subdivision a of section 22-1002 of the administrative code of the city of New York, as amended by local law number 137 of 2023, is amended to read as follows:\\par\n4. Information on loans and grants for small businesses which shall include, but need not be limited to:\\par\n(a) Guidance on selecting a lender, including information about local CDFIs, which shall include, but need not be limited to, a directory of local CDFIs, and for each such local CDFI, a description of services provided by such local CDFI, the neighborhood or area of the city in which such local CDFI operates or provides services, and the types of loans offered by such local CDFI;\\par\n(b) Information on specialized services that may be offered by banks for small businesses, such as a dedicated banking team, merchant services, business loans, or lines of credit;\\par\n(c) Information on typical fees, interest rates, monthly charges, or balance requirements;\\par\n(d) Potential advantages and disadvantages of having accounts at multiple banks;\\par\n(e) Information about federal deposit insurance corporation insurance coverage or other protections provided for small businesses deposits; [and]\\par\n\\ul (f) Loan readiness resources to help small businesses prepare for the lending process and understand the services offered by local CDFIs, including business plan development, preparation of financial documents and understanding loan application requirements; and\\par\n\\pard\\ltrpar\\qj\\ulnone\\'a7 2. \\cf1 This local law takes effect 180 days after it becomes law.\\cf0\\fs18\\par\n\\par\nLH\\par\nLS #17133\\par\n12/3/2025\\par\n\\par\nARP\\par\nLS # 17133\\par\n7/30/25\\fs24\\par\n}\n",
+  "LastModified": "2025-12-18T17:47:56.527Z"
 }

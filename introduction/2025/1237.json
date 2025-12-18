@@ -6,37 +6,15 @@
   "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the police department to report on all criminal complaints and arrests",
   "TypeID": 2,
   "TypeName": "Introduction",
-  "StatusID": 25,
-  "StatusName": "Laid Over in Committee",
+  "StatusID": 24,
+  "StatusName": "Reported from Committee",
   "BodyID": 19,
   "BodyName": "Committee on Public Safety",
   "IntroDate": "2025-04-10T00:00:00Z",
   "AgendaDate": "2025-04-10T00:00:00Z",
   "PassedDate": "0001-01-01T00:00:00Z",
   "EnactmentDate": "0001-01-01T00:00:00Z",
-  "Version": "*",
-  "Sponsors": [
-    {
-      "ID": 7798,
-      "Slug": "oswald-j-feliz",
-      "FullName": "Oswald J. Feliz"
-    },
-    {
-      "ID": 7785,
-      "Slug": "farah-n-louis",
-      "FullName": "Farah N. Louis"
-    },
-    {
-      "ID": 7864,
-      "Slug": "chris-banks",
-      "FullName": "Chris Banks"
-    },
-    {
-      "ID": 7806,
-      "Slug": "carmen-n-de-la-rosa",
-      "FullName": "Carmen N. De La Rosa"
-    }
-  ],
+  "Version": "A",
   "History": [
     {
       "ID": 418972,
@@ -95,69 +73,254 @@
       "Version": "*",
       "MatterStatusID": 25,
       "LastModified": "2025-11-19T18:54:35.337Z"
+    },
+    {
+      "ID": 428804,
+      "Date": "2025-12-18T10:15:00Z",
+      "ActionID": 54,
+      "Action": "Hearing Held by Committee",
+      "Description": "This Introduction was Hearing Held by Committee",
+      "BodyID": 19,
+      "BodyName": "Committee on Public Safety",
+      "EventID": 22105,
+      "AgendaSequence": 2,
+      "MinutesSequence": 7,
+      "Version": "*",
+      "AgendaNote": "Proposed Int. No. 1237-A",
+      "MinutesNote": "Proposed Int. No. 1237-A",
+      "MatterStatusID": 3,
+      "LastModified": "2025-12-18T17:00:19.737Z"
+    },
+    {
+      "ID": 429319,
+      "Date": "2025-12-18T10:15:00Z",
+      "ActionID": 5001,
+      "Action": "Amendment Proposed by Comm",
+      "Description": "This Introduction was Amendment Proposed by Comm",
+      "BodyID": 19,
+      "BodyName": "Committee on Public Safety",
+      "EventID": 22105,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2025-12-18T17:00:24.173Z"
+    },
+    {
+      "ID": 429320,
+      "Date": "2025-12-18T10:15:00Z",
+      "ActionID": 33,
+      "Action": "Amended by Committee",
+      "Description": "This Introduction was Amended by Committee",
+      "BodyID": 19,
+      "BodyName": "Committee on Public Safety",
+      "EventID": 22105,
+      "MinutesSequence": 9,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2025-12-18T17:00:29.523Z"
+    },
+    {
+      "ID": 429321,
+      "Date": "2025-12-18T10:15:00Z",
+      "ActionID": 32,
+      "Action": "Approved by Committee",
+      "Description": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "BodyID": 19,
+      "BodyName": "Committee on Public Safety",
+      "EventID": 22105,
+      "MinutesSequence": 10,
+      "Version": "A",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterStatusID": 24,
+      "Votes": [
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 10
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 30
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-l-caban",
+          "FullName": "Tiffany L. Cabán",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 40
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 50
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 60
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 70
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 80
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 90
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "VoteID": 11,
+          "Vote": "Abstain",
+          "Sort": 110
+        }
+      ],
+      "LastModified": "2025-12-18T17:00:58.077Z"
     }
   ],
   "Attachments": [
     {
+      "ID": 331373,
+      "LastModified": "2025-12-17T17:16:16.227Z",
+      "Name": "Summary of Int. No. 1237-A",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/79194e92-a2c8-4848-8443-a07de99c6395.docx",
+      "Sort": 1
+    },
+    {
       "ID": 317566,
-      "LastModified": "2025-11-28T17:58:53.36Z",
+      "LastModified": "2025-12-15T17:56:27.043Z",
       "Name": "Summary of Int. No. 1237",
       "Link": "https://nyc.legistar1.com/nyc/attachments/b6983279-2715-4fb7-bf7a-f14f982a79d0.docx",
-      "Sort": 1
+      "Sort": 3
     },
     {
       "ID": 317565,
       "LastModified": "2025-11-13T15:51:25.11Z",
       "Name": "Int. No. 1237",
       "Link": "https://nyc.legistar1.com/nyc/attachments/70bfee42-bf84-43d7-bb6d-d8199915616e.docx",
-      "Sort": 2
+      "Sort": 4
     },
     {
       "ID": 317862,
-      "LastModified": "2025-04-10T22:16:24.467Z",
+      "LastModified": "2025-12-15T17:55:52.157Z",
       "Name": "April 10, 2025 - Stated Meeting Agenda",
       "Link": "https://nyc.legistar1.com/nyc/attachments/404ec449-013e-4560-a224-c003060f09cf.pdf",
-      "Sort": 3
+      "Sort": 5
     },
     {
       "ID": 319585,
       "LastModified": "2025-05-19T13:02:17.76Z",
       "Name": "Hearing Transcript - Stated Meeting  4-10-25",
       "Link": "https://nyc.legistar1.com/nyc/attachments/946bdd64-777b-4e98-bc3f-a822ff75e865.pdf",
-      "Sort": 4
+      "Sort": 6
     },
     {
       "ID": 329466,
       "LastModified": "2025-11-18T22:39:41.317Z",
       "Name": "Committee Report 11/19/25",
       "Link": "https://nyc.legistar1.com/nyc/attachments/990425ba-1de0-4606-aded-6a201953cf2c.docx",
-      "Sort": 5
+      "Sort": 7
     },
     {
       "ID": 329470,
       "LastModified": "2025-11-18T22:42:03.263Z",
       "Name": "Fiscal Impact Statement - City Council",
       "Link": "https://nyc.legistar1.com/nyc/attachments/d04048f5-966f-4b2d-9ea4-b58ce2ab241c.docx",
-      "Sort": 6
+      "Sort": 8
     },
     {
       "ID": 329471,
       "LastModified": "2025-11-18T22:42:03.227Z",
       "Name": "Fiscal Impact Statement - OMB",
       "Link": "https://nyc.legistar1.com/nyc/attachments/1a7d8572-f18a-482a-938c-4288350fe325.pdf",
-      "Sort": 7
+      "Sort": 9
     },
     {
       "ID": 330229,
       "LastModified": "2025-11-28T17:59:02.033Z",
       "Name": "Hearing Testimony 11/19/25",
       "Link": "https://nyc.legistar1.com/nyc/attachments/3545c0cc-48b6-4042-9e6e-a85243b7537b.pdf",
-      "Sort": 8
+      "Sort": 10
+    },
+    {
+      "ID": 331214,
+      "LastModified": "2025-12-15T23:24:54.223Z",
+      "Name": "Hearing Transcript 11/19/25",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/f8c22116-b89f-4e37-ad3d-ac110011a3af.pdf",
+      "Sort": 11
+    },
+    {
+      "ID": 331078,
+      "LastModified": "2025-12-17T17:34:52.96Z",
+      "Name": "Proposed Int. No. 1237-A - 12/15/25",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/395712b2-9a1f-487e-a0d0-eaa2a11ebb7b.docx",
+      "Sort": 12
+    },
+    {
+      "ID": 331382,
+      "LastModified": "2025-12-17T19:04:17.907Z",
+      "Name": "Int. No. 1237-A - Fiscal Impact Statement - City Council",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/915e785e-ee37-46c2-876e-3b1b84cf0d0d.docx",
+      "Sort": 13
+    },
+    {
+      "ID": 331556,
+      "LastModified": "2025-12-18T17:14:40.02Z",
+      "Name": "Committee Report 12/18/25",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/f31155b2-3911-4d37-9bd1-c30fe65160f9.docx",
+      "Sort": 14
+    },
+    {
+      "ID": 331564,
+      "LastModified": "2025-12-18T18:02:00.333Z",
+      "Name": "Committee Report - Stated Meeting",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/d521db24-927a-4edc-98e5-35b65f6a7883.docx",
+      "Sort": 15
     }
   ],
-  "Summary": "This bill would require the New York City Police Department (“NYPD”) to report data on all criminal complaints and arrests. Such data would include a listing of all criminal complaints reported to the NYPD, and information regarding each such complaint, including an indication of whether an arrest for the underlying complaint has occurred.",
-  "TextID": 79421,
-  "Text": "Be it enacted by the Council as follows:\n\n\tSection 1. Chapter 1 of title 14 of the administrative code of the city of New York is amended by adding a new section 14-199 to read as follows:\n\t� 14-199 Reports on criminal complaints and arrests. a. Data. The commissioner shall post on the department's website, in machine-readable format, data on all criminal complaints and arrests. Such data shall include a listing of each criminal complaint received on or after January 1, 2007, and for each such complaint the following information: \n\t1. A randomly generated unique identification number; \n\t2. The precinct in which the incident occurred;\n\t3. The date and time at which the incident occurred; \n\t4. A description of the incident and classification of any relevant offenses, including reference to all penal law violations that occurred; \n\t5. The date on which the incident was reported to police;\n\t6. The suspect's age, race, and gender, where known; \n\t7. The victim's age, race, and gender, where known; \n\t8. The location where the incident occurred, including latitude and longitude if available, but in all cases at least as specific as the nearest intersection; \n\t9. Whether the complaint has resulted in an arrest, or otherwise been resolved by the department; \n\t10. The date on which any arrest or departmental resolution of a case occurred; and \n\t11. If an arrest has occurred, the location of such arrest and the age, race, and gender of each arrestee. \n\tb. Website. The information required to be reported by subdivision a of this section must remain posted on the department's website indefinitely, and shall be updated on a quarterly basis with all new criminal complaints and any new arrest information.   \n\t� 2. This local law takes effect immediately.\n\nJDK/PS\nLS #18555\n4/3/25",
-  "RTF": "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang1033\\deflangfe1033{\\fonttbl{\\f0\\froman\\fprq2\\fcharset0 Times New Roman;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\n\\v0\\par\n\\ul Be it enacted by the Council as follows\\ulnone :\\par\n\\par\n\\pard\\ltrpar\\nowidctlpar\\hyphpar0\\sl480\\slmult1\\qj\\expndtw0\\tab Section 1. Chapter 1 of title 14 of the administrative code of the city of New York is amended by adding a new section 14-199 to read as follows:\\par\n\\tab\\ul\\'a7 14-199 Reports on criminal complaints and arrests. a. Data. The commissioner shall post on the department\\rquote s website, in machine-readable format, data on all criminal complaints and arrests. \\cf1 Such data shall include \\cf0 a listing of each criminal complaint received on or after January 1, 2007, and for each such complaint the following information: \\par\n\\ulnone\\tab\\ul 1. A randomly generated unique identification number; \\par\n\\ulnone\\tab\\ul 2. The precinct in which the incident occurred;\\par\n\\ulnone\\tab\\ul 3. The date and time at which the incident occurred; \\par\n\\ulnone\\tab\\ul 4. A description of the incident and classification of any relevant offenses, including reference to all penal law violations that occurred; \\par\n\\ulnone\\tab\\ul 5. The date on which the incident was reported to police;\\par\n\\ulnone\\tab\\ul 6. The suspect\\rquote s age, race, and gender, where known; \\par\n\\ulnone\\tab\\ul 7. The victim\\rquote s age, race, and gender, where known; \\par\n\\ulnone\\tab\\ul 8. The location where the incident occurred, including latitude and longitude if available, but in all cases at least as specific as the nearest intersection; \\par\n\\ulnone\\tab\\ul 9. Whether the complaint has resulted in an arrest, or otherwise been resolved by the department; \\par\n\\ulnone\\tab\\ul 10. The date on which any arrest or departmental resolution of a case occurred; and \\par\n\\ulnone\\tab\\ul 11. If an arrest has occurred, the location of such arrest and the age, race, and gender of each arrestee. \\par\n\\ulnone\\tab\\ul b. Website. The information required to be reported by subdivision a of this section must remain posted on the department\\rquote s website indefinitely, and shall be updated on a quarterly basis with all new criminal complaints and any new arrest information.   \\par\n\\ulnone\\tab\\'a7 2. \\expndtw-3 This local law takes effect immediately.\\par\n\\pard\\ltrpar\\noline\\expndtw0\\fs20\\par\nJDK/PS\\par\nLS #18555\\par\n4/3/25\\par\n}\n",
-  "LastModified": "2025-12-12T21:27:03.697Z"
+  "Summary": "This bill would require the New York City Police Department (NYPD) to post on its website data related to all criminal complaints and arrests recorded by the Department since 2007. The dataset would include, among other fields: (i) the location, date, time, and nature of the offense; (ii) demographic information for victims, suspects, and arrestees; and (iii) information on whether a complaint resulted in an arrest or departmental resolution, and the date of such resolution. Further, the data would be stored permanently, in a machine-readable format, and be updated on a biannual basis.",
+  "TextID": 80958,
+  "Text": "Be it enacted by the Council as follows:\n\n\tSection 1. Chapter 1 of title 14 of the administrative code of the city of New York is amended by adding a new section 14-199 to read as follows:\n\t� 14-199 Reports on criminal complaints and arrests. a. Data. The commissioner shall post on the department's website, in machine-readable format, data on all criminal complaints and arrests. Such data shall include a listing of each criminal complaint received on or after January 1, 2007, and for each such complaint the following information: \n      1. A randomly generated unique identification number; \n      2. The precinct in which the incident occurred;\n      3. The date and time at which the incident occurred; \n      4. A description of the incident and classification of any relevant offenses, including but not limited to: (i) a reference to all alleged violations of law that occurred; and (ii) whether the highest alleged offense was a felony, misdemeanor, or violation; \n      5. The date on which the incident was reported to police;\n      6. The suspect's perceived race, gender, and age range; \n      7. The victim's perceived race, gender, and age range, where known; \n      8. The location where the incident occurred, including latitude and longitude if available, but in all cases at least as specific as the nearest intersection;\n      9. Whether the complaint resulted in an arrest, or otherwise has been resolved by the department; \n      10. The date on which any arrest or departmental resolution of a complaint occurred; and \n      11. If an arrest occurs, the location of such arrest and the age range, race, and gender of each arrestee. \n      b. Any reporting of age ranges required by subdivision a of this section shall be in the following increments: under the age of 18, 18 - 25, 26 - 35, 36 - 40, 41 - 60, or over 60.\n      c. Website. The information required to be reported by subdivision a of this section must remain posted on the city's website indefinitely, and shall be updated on a biannual basis.   \n\t� 2. This local law takes effect 90 day after it becomes law.\n\nJDK/PS\nLS #18555\n12/10/25 5pm",
+  "RTF": "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang1033\\deflangfe1033{\\fonttbl{\\f0\\froman\\fprq2\\fcharset0 Times New Roman;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\n\\v0\\par\n\\ul Be it enacted by the Council as follows\\ulnone :\\par\n\\par\n\\pard\\ltrpar\\nowidctlpar\\hyphpar0\\sl480\\slmult1\\qj\\expndtw0\\tab Section 1. Chapter 1 of title 14 of the administrative code of the city of New York is amended by adding a new section 14-199 to read as follows:\\par\n\\tab\\ul\\'a7 14-199 Reports on criminal complaints and arrests. a. Data. The commissioner shall post on the department\\rquote s website, in machine-readable format, data on all criminal complaints and arrests. \\cf1 Such data shall include \\cf0 a listing of each criminal complaint received on or after January 1, 2007, and for each such complaint the following information: \\par\n\\pard\\ltrpar\\nowidctlpar\\hyphpar0\\fi720\\sl480\\slmult1\\qj 1. A randomly generated unique identification number; \\par\n2. The precinct in which the incident occurred;\\par\n3. The date and time at which the incident occurred; \\par\n4. A description of the incident and classification of any relevant offenses, including but not limited to: (i) a reference to all alleged violations of law that occurred; and (ii) whether the highest alleged offense was a felony, misdemeanor, or violation; \\par\n5. The date on which the incident was reported to police;\\par\n6. The suspect\\rquote s perceived race, gender, and age range; \\par\n7. The victim\\rquote s perceived race, gender, and age range, where known; \\par\n8. The location where the incident occurred, including latitude and longitude if available, but in all cases at least as specific as the nearest intersection;\\par\n9. Whether the complaint resulted in an arrest, or otherwise has been resolved by the department; \\par\n10. The date on which any arrest or departmental resolution of a complaint occurred; and \\par\n11. If an arrest occurs, the location of such arrest and the age range, race, and gender of each arrestee. \\par\nb. Any reporting of age ranges required by subdivision a of this section shall be in the following increments: under the age of 18, 18 - 25, 26 - 35, 36 - 40, 41 - 60, or over 60.\\par\nc. Website. The information required to be reported by subdivision a of this section must remain posted on the city\\rquote s website indefinitely, and shall be updated on a biannual basis.   \\par\n\\pard\\ltrpar\\nowidctlpar\\hyphpar0\\sl480\\slmult1\\qj\\ulnone\\tab\\'a7 2. \\expndtw-3 This local law takes effect 90 day after it becomes law.\\par\n\\pard\\ltrpar\\noline\\expndtw0\\fs20\\par\nJDK/PS\\par\nLS #18555\\par\n12/10/25 5pm\\par\n}\n",
+  "LastModified": "2025-12-18T18:02:00.333Z"
 }

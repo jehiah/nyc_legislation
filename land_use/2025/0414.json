@@ -6,8 +6,8 @@
   "Title": "Application number G 250088 XAK (2149-2153 Pacific Street Article XI) submitted by the New York City Department of Housing Preservation and Development (HPD) pursuant to Section 577 of Article XI of the Private Housing Finance Law, for approval of a real property tax exemption for property located at 2149-2153 Pacific Street (Block 1433, Lot 60), Borough of the Brooklyn, Community District 16, Council District 41.",
   "TypeID": 10,
   "TypeName": "Land Use Application",
-  "StatusID": 25,
-  "StatusName": "Laid Over in Committee",
+  "StatusID": 5003,
+  "StatusName": "Companion Pending Approval by Council",
   "BodyID": 5261,
   "BodyName": "Subcommittee on Landmarks, Public Sitings and Dispositions",
   "IntroDate": "2025-10-29T00:00:00Z",
@@ -15,13 +15,6 @@
   "PassedDate": "0001-01-01T00:00:00Z",
   "EnactmentDate": "0001-01-01T00:00:00Z",
   "Version": "*",
-  "Sponsors": [
-    {
-      "ID": 7714,
-      "Slug": "rafael-salamanca-jr",
-      "FullName": "Rafael Salamanca, Jr."
-    }
-  ],
   "History": [
     {
       "ID": 425892,
@@ -182,12 +175,236 @@
       "Version": "*",
       "MatterStatusID": 25,
       "LastModified": "2025-12-04T16:44:23.507Z"
+    },
+    {
+      "ID": 428911,
+      "Date": "2025-12-18T10:30:00Z",
+      "ActionID": 54,
+      "Action": "Hearing Held by Committee",
+      "Description": "This Land Use Application was Hearing Held by Committee",
+      "BodyID": 5261,
+      "BodyName": "Subcommittee on Landmarks, Public Sitings and Dispositions",
+      "EventID": 22073,
+      "AgendaSequence": 1,
+      "MinutesSequence": 2,
+      "Version": "*",
+      "MatterStatusID": 25,
+      "LastModified": "2025-12-18T17:38:42.91Z"
+    },
+    {
+      "ID": 429391,
+      "Date": "2025-12-18T10:30:00Z",
+      "ActionID": 79,
+      "Action": "Approved by Subcommittee",
+      "Description": "This Land Use Application was Approved by Subcommittee",
+      "BodyID": 5261,
+      "BodyName": "Subcommittee on Landmarks, Public Sitings and Dispositions",
+      "EventID": 22073,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterStatusID": 3,
+      "Votes": [
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 10
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 20
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-c-farias",
+          "FullName": "Amanda C. Farías",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 30
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-j-feliz",
+          "FullName": "Oswald J. Feliz",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 40
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "VoteID": 12,
+          "Vote": "Negative",
+          "Result": 2,
+          "Sort": 50
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 60
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "VoteID": 11,
+          "Vote": "Abstain",
+          "Sort": 70
+        }
+      ],
+      "LastModified": "2025-12-18T18:06:04.417Z"
+    },
+    {
+      "ID": 428919,
+      "Date": "2025-12-18T11:00:00Z",
+      "ActionID": 54,
+      "Action": "Hearing Held by Committee",
+      "Description": "This Land Use Application was Hearing Held by Committee",
+      "BodyID": 17,
+      "BodyName": "Committee on Land Use",
+      "EventID": 22072,
+      "AgendaSequence": 6,
+      "MinutesSequence": 19,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2025-12-18T18:47:56.573Z"
+    },
+    {
+      "ID": 429452,
+      "Date": "2025-12-18T11:00:00Z",
+      "ActionID": 5034,
+      "Action": "Approved by Committee with Companion Resolution",
+      "Description": "A motion was made that this Land Use Application be Approved by Committee with Companion Resolution approved by Roll Call.",
+      "BodyID": 17,
+      "BodyName": "Committee on Land Use",
+      "EventID": 22072,
+      "MinutesSequence": 20,
+      "Version": "*",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterStatusID": 5003,
+      "Votes": [
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 10
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 20
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "VoteID": 12,
+          "Vote": "Negative",
+          "Result": 2,
+          "Sort": 25
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 30
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "VoteID": 11,
+          "Vote": "Abstain",
+          "Sort": 40
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-c-farias",
+          "FullName": "Amanda C. Farías",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 50
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 70
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 80
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 90
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 110
+        }
+      ],
+      "LastModified": "2025-12-18T19:01:19.687Z"
     }
   ],
   "Attachments": [
     {
       "ID": 327096,
-      "LastModified": "2025-11-27T12:49:36.163Z",
+      "LastModified": "2025-12-15T21:08:21.273Z",
       "Name": "Calendar of the Landmarks Subcommittee Meeting - October 15, 2025",
       "Link": "https://nyc.legistar1.com/nyc/attachments/b883171e-00dd-42f3-8ce2-5c95e10dd826.pdf",
       "Sort": 1
@@ -214,28 +431,56 @@
       "Sort": 4
     },
     {
-      "ID": 329583,
-      "LastModified": "2025-11-27T12:49:57.27Z",
-      "Name": "Calendar of the Subcommittee and Land Use Meetings - November 25, 2025",
-      "Link": "https://nyc.legistar1.com/nyc/attachments/eae9ac55-5a06-472f-b3ab-014d94208c9d.pdf",
+      "ID": 330063,
+      "LastModified": "2025-12-15T21:08:54.16Z",
+      "Name": "Hearing Transcript - Stated Meeting 10-29-25",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/1589ed6f-4ac8-4810-a112-7d08ff2f0219.pdf",
       "Sort": 5
     },
     {
-      "ID": 330063,
-      "LastModified": "2025-11-27T12:49:56.613Z",
-      "Name": "Hearing Transcript - Stated Meeting 10-29-25",
-      "Link": "https://nyc.legistar1.com/nyc/attachments/1589ed6f-4ac8-4810-a112-7d08ff2f0219.pdf",
+      "ID": 329583,
+      "LastModified": "2025-12-15T21:08:54.113Z",
+      "Name": "Calendar of the Subcommittee and Land Use Meetings - November 25, 2025",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/eae9ac55-5a06-472f-b3ab-014d94208c9d.pdf",
       "Sort": 6
     },
     {
+      "ID": 331132,
+      "LastModified": "2025-12-15T21:08:51.54Z",
+      "Name": "Hearing Transcript - Landmarks 11/25/25",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/d5ed83dc-f182-40d4-aa76-745fdc53592e.pdf",
+      "Sort": 7
+    },
+    {
       "ID": 330292,
-      "LastModified": "2025-12-01T17:44:27.807Z",
+      "LastModified": "2025-12-15T21:08:24.87Z",
       "Name": "Calendar of the Subcommittee and Land Use Meetings - December 4, 2025",
       "Link": "https://nyc.legistar1.com/nyc/attachments/caed3ceb-0720-4596-abf2-bb77bc75e9a2.pdf",
-      "Sort": 7
+      "Sort": 8
+    },
+    {
+      "ID": 331251,
+      "LastModified": "2025-12-16T16:47:23.603Z",
+      "Name": "Hearing Transcript - Landmarks 12/4/25",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/9d1012c0-7d10-4ddc-b1e3-fcc811098dd9.pdf",
+      "Sort": 9
+    },
+    {
+      "ID": 331284,
+      "LastModified": "2025-12-16T18:09:44.673Z",
+      "Name": "Hearing Transcript - Land Use 12/4/25",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/21d762a6-bf49-40c1-9197-62478707adb7.pdf",
+      "Sort": 10
+    },
+    {
+      "ID": 331387,
+      "LastModified": "2025-12-17T19:17:18.943Z",
+      "Name": "Calendar of the Subcommittee and Land Use Meetings - December 18, 2025",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/bee7d4d4-5072-46d8-b882-1f3645818f5f.pdf",
+      "Sort": 11
     }
   ],
   "Summary": "",
   "TextID": 80502,
-  "LastModified": "2025-12-10T17:12:34.893Z"
+  "LastModified": "2025-12-18T18:48:15.687Z"
 }

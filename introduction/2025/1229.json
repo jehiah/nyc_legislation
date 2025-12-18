@@ -6,97 +6,15 @@
   "Title": "A Local Law to amend the administrative code of the city of New York, in relation to reporting on emergency medical services units",
   "TypeID": 2,
   "TypeName": "Introduction",
-  "StatusID": 25,
-  "StatusName": "Laid Over in Committee",
+  "StatusID": 24,
+  "StatusName": "Reported from Committee",
   "BodyID": 5239,
   "BodyName": "Committee on Fire and Emergency Management",
   "IntroDate": "2025-04-10T00:00:00Z",
   "AgendaDate": "2025-04-10T00:00:00Z",
   "PassedDate": "0001-01-01T00:00:00Z",
   "EnactmentDate": "0001-01-01T00:00:00Z",
-  "Version": "*",
-  "Sponsors": [
-    {
-      "ID": 7819,
-      "Slug": "joann-ariola",
-      "FullName": "Joann Ariola"
-    },
-    {
-      "ID": 7864,
-      "Slug": "chris-banks",
-      "FullName": "Chris Banks"
-    },
-    {
-      "ID": 7803,
-      "Slug": "julie-menin",
-      "FullName": "Julie Menin"
-    },
-    {
-      "ID": 7829,
-      "Slug": "mercedes-narcisse",
-      "FullName": "Mercedes Narcisse"
-    },
-    {
-      "ID": 7746,
-      "Slug": "robert-f-holden",
-      "FullName": "Robert F. Holden"
-    },
-    {
-      "ID": 7832,
-      "Slug": "kamillah-hanks",
-      "FullName": "Kamillah Hanks"
-    },
-    {
-      "ID": 7818,
-      "Slug": "lynn-c-schulman",
-      "FullName": "Lynn C. Schulman"
-    },
-    {
-      "ID": 7801,
-      "Slug": "christopher-marte",
-      "FullName": "Christopher Marte"
-    },
-    {
-      "ID": 7867,
-      "Slug": "susan-zhuang",
-      "FullName": "Susan Zhuang"
-    },
-    {
-      "ID": 7796,
-      "Slug": "selvena-n-brooks-powers",
-      "FullName": "Selvena N. Brooks-Powers"
-    },
-    {
-      "ID": 7817,
-      "Slug": "nantasha-m-williams",
-      "FullName": "Nantasha M. Williams"
-    },
-    {
-      "ID": 7822,
-      "Slug": "crystal-hudson",
-      "FullName": "Crystal Hudson"
-    },
-    {
-      "ID": 7827,
-      "Slug": "rita-c-joseph",
-      "FullName": "Rita C. Joseph"
-    },
-    {
-      "ID": 7811,
-      "Slug": "vickie-paladino",
-      "FullName": "Vickie Paladino"
-    },
-    {
-      "ID": 7887,
-      "Slug": "frank-morano",
-      "FullName": "Frank Morano"
-    },
-    {
-      "ID": 7831,
-      "Slug": "inna-vernikov",
-      "FullName": "Inna Vernikov"
-    }
-  ],
+  "Version": "A",
   "History": [
     {
       "ID": 418986,
@@ -155,76 +73,237 @@
       "Version": "*",
       "MatterStatusID": 25,
       "LastModified": "2025-11-17T19:51:51.917Z"
+    },
+    {
+      "ID": 428888,
+      "Date": "2025-12-18T11:45:00Z",
+      "ActionID": 54,
+      "Action": "Hearing Held by Committee",
+      "Description": "This Introduction was Hearing Held by Committee",
+      "BodyID": 5239,
+      "BodyName": "Committee on Fire and Emergency Management",
+      "EventID": 22113,
+      "AgendaSequence": 2,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "AgendaNote": "Proposed Int. No. 1229-A",
+      "MinutesNote": "Proposed Int. No. 1229-A",
+      "MatterStatusID": 3,
+      "LastModified": "2025-12-18T18:58:49.197Z"
+    },
+    {
+      "ID": 429467,
+      "Date": "2025-12-18T11:45:00Z",
+      "ActionID": 5001,
+      "Action": "Amendment Proposed by Comm",
+      "Description": "This Introduction was Amendment Proposed by Comm",
+      "BodyID": 5239,
+      "BodyName": "Committee on Fire and Emergency Management",
+      "EventID": 22113,
+      "MinutesSequence": 7,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2025-12-18T18:59:18.843Z"
+    },
+    {
+      "ID": 429468,
+      "Date": "2025-12-18T11:45:00Z",
+      "ActionID": 33,
+      "Action": "Amended by Committee",
+      "Description": "This Introduction was Amended by Committee",
+      "BodyID": 5239,
+      "BodyName": "Committee on Fire and Emergency Management",
+      "EventID": 22113,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2025-12-18T18:59:24.2Z"
+    },
+    {
+      "ID": 429469,
+      "Date": "2025-12-18T11:45:00Z",
+      "ActionID": 32,
+      "Action": "Approved by Committee",
+      "Description": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "BodyID": 5239,
+      "BodyName": "Committee on Fire and Emergency Management",
+      "EventID": 22113,
+      "MinutesSequence": 9,
+      "Version": "A",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterStatusID": 24,
+      "Votes": [
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 10
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 20
+        },
+        {
+          "ID": 5289,
+          "Slug": "simcha-felder",
+          "FullName": "Simcha Felder",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 25
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-j-feliz",
+          "FullName": "Oswald J. Feliz",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 30
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 40
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 50
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 60
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 80
+        }
+      ],
+      "LastModified": "2025-12-18T19:00:10.9Z"
     }
   ],
   "Attachments": [
+    {
+      "ID": 331337,
+      "LastModified": "2025-12-17T15:15:24.537Z",
+      "Name": "Summary of Int. No. 1229-A",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/5481878e-869b-4ea4-863d-01e20eea7bc1.docx",
+      "Sort": 1
+    },
     {
       "ID": 316821,
       "LastModified": "2025-12-05T22:35:48.163Z",
       "Name": "Summary of Int. No. 1229",
       "Link": "https://nyc.legistar1.com/nyc/attachments/cdafd3dd-9916-4695-8d5b-912a7fc87070.docx",
-      "Sort": 1
+      "Sort": 2
     },
     {
       "ID": 316820,
       "LastModified": "2025-11-17T17:55:16.977Z",
       "Name": "Int. No. 1229",
       "Link": "https://nyc.legistar1.com/nyc/attachments/0c175231-6bbe-45a1-b174-11bcae1e2990.docx",
-      "Sort": 2
+      "Sort": 3
     },
     {
       "ID": 317850,
       "LastModified": "2025-04-10T22:16:21.697Z",
       "Name": "April 10, 2025 - Stated Meeting Agenda",
       "Link": "https://nyc.legistar1.com/nyc/attachments/42032a1d-fed9-4eef-8341-5374f61b2f1d.pdf",
-      "Sort": 3
+      "Sort": 4
     },
     {
       "ID": 319573,
       "LastModified": "2025-05-19T13:02:15.33Z",
       "Name": "Hearing Transcript - Stated Meeting  4-10-25",
       "Link": "https://nyc.legistar1.com/nyc/attachments/ce194713-c3bf-49eb-a1ee-94f748c6886c.pdf",
-      "Sort": 4
+      "Sort": 5
     },
     {
       "ID": 329352,
       "LastModified": "2025-11-17T14:54:03.313Z",
       "Name": "Committee Report 11/17/25",
       "Link": "https://nyc.legistar1.com/nyc/attachments/a12bf7b0-58d8-48f2-8f60-1b3d83f99178.docx",
-      "Sort": 5
+      "Sort": 6
     },
     {
       "ID": 329334,
       "LastModified": "2025-11-17T14:54:03.24Z",
       "Name": "Fiscal Impact Statement - City Council",
       "Link": "https://nyc.legistar1.com/nyc/attachments/1af7991a-b4e4-416f-a947-23ade540ad0d.docx",
-      "Sort": 6
+      "Sort": 7
     },
     {
       "ID": 329335,
       "LastModified": "2025-11-17T14:54:02.767Z",
       "Name": "Fiscal Impact Statement - OMB",
       "Link": "https://nyc.legistar1.com/nyc/attachments/04fc9a0b-4c35-49ee-811e-e7f041ea2f45.pdf",
-      "Sort": 7
+      "Sort": 8
     },
     {
       "ID": 329606,
       "LastModified": "2025-11-21T16:53:44.063Z",
       "Name": "Hearing Testimony 11/17/25",
       "Link": "https://nyc.legistar1.com/nyc/attachments/629b6e8d-84fd-4c4b-8133-5a4601e72f65.pdf",
-      "Sort": 8
+      "Sort": 9
     },
     {
       "ID": 330749,
       "LastModified": "2025-12-05T22:35:51.79Z",
       "Name": "Hearing Transcript 11/17/25",
       "Link": "https://nyc.legistar1.com/nyc/attachments/f65136b6-c03d-4104-bd2e-14b888350603.pdf",
-      "Sort": 9
+      "Sort": 10
+    },
+    {
+      "ID": 331336,
+      "LastModified": "2025-12-17T22:10:16.787Z",
+      "Name": "Proposed Int. No. 1229-A - 12/17/25",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/09dc0088-f97a-4fdb-9f5a-c4a72a2b20be.docx",
+      "Sort": 11
+    },
+    {
+      "ID": 331508,
+      "LastModified": "2025-12-18T13:23:21.157Z",
+      "Name": "Int. No. 1229-A - Fiscal Impact Statement - City Council",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/52fc354d-2d18-40ef-8836-edd389cca0a8.docx",
+      "Sort": 13
+    },
+    {
+      "ID": 331509,
+      "LastModified": "2025-12-18T13:23:21.473Z",
+      "Name": "Int. No. 1229-A - Fiscal Impact Statement - OMB",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/75fda2ef-8522-4f36-a4c7-cfaf6db633d1.pdf",
+      "Sort": 14
     }
   ],
-  "Summary": "This bill would require the Fire Department (FDNY) to report on the availability of emergency medical services (EMS) units for each day of the prior calendar year, categorized by EMS unit type and EMS station. The reported information would include the total number of EMS units, and the total number of EMS units that are unable to respond to an emergency call, disaggregated by the reason for such inability.",
-  "TextID": 79316,
-  "Text": "Be it enacted by the Council as follows:\n      \n      \n      Section 1. Chapter 1 of title 15 of the administrative code of the city of New York is amended by adding a new section 15-151 to read as follows:\n      � 15-151 Report on emergency medical services units. a. Definitions. As used in this section, the following terms have the following meanings:\n      Emergency medical services station. The term \"emergency medical services station\" has the same meaning as set forth in section 15-137.\n      Emergency medical services unit. The term \"emergency medical services unit\" has the same meaning as set forth in section 15-137.\n      b. Report. No later than 6 months after the effective date of the local law that added this section, and annually thereafter, the commissioner shall submit to the mayor and the speaker of the council, and post on the department's website, a report regarding emergency medical services units. Such report shall include the following information for each day of the preceding calendar year, subdivided by emergency medical services unit type and emergency medical services station:\n      1. The total number of emergency medical service units; and\n      2. The total number of emergency medical services units that are unable to respond to an emergency call, disaggregated by the reason for such inability. \n      � 2. This local law takes effect immediately. \n\n\nPS\nLS# 17898\n3/18/2025 9:00AM\n      2\n      \n      \n      2",
-  "RTF": "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang1033\\deflangfe1033{\\fonttbl{\\f0\\froman\\fprq2\\fcharset0 Times New Roman;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\n..Body\\par\n\\ul\\v0\\par\nBe it enacted by the Council as follows:\\ulnone\\par\n\\pard\\ltrpar\\fi720\\qj\\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\cf1 Section 1. Chapter 1 of title 15 of the administrative code of the city of New York is amended by adding a new section 15-151 to read as follows:\\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qj\\cf0\\ul\\'a7 15-151 Report on emergency medical services units. a. Definitions. As used in this section, the following terms have the following meanings:\\par\nEmergency medical services station. The term \\ldblquote emergency medical services station\\rdblquote  has the same meaning as set forth in section 15-137.\\par\nEmergency medical services unit. The term \\ldblquote emergency medical services unit\\rdblquote  has the same meaning as set forth in section 15-137.\\par\nb. Report. No later than 6 months after the effective date of the local law that added this section, and annually thereafter, the commissioner shall submit to the mayor and the speaker of the council, and post on the department\\rquote s website, a report regarding emergency medical services units. Such report shall include the following information for each day of the preceding calendar year, subdivided by emergency medical services unit type and emergency medical services station:\\par\n1. The total number of emergency medical service units; and\\par\n2. The total number of emergency medical services units that are unable to respond to an emergency call, disaggregated by the reason for such inability. \\par\n\\ulnone\\'a7 2. This local law takes effect immediately. \\ul\\par\n\\pard\\ltrpar\\qj\\ulnone\\fs20\\par\nPS\\par\nLS# 17898\\par\n\\pard\\ltrpar 3/18/2025 9:00AM\\fs24\\par\n}\n",
-  "LastModified": "2025-12-05T22:35:51.79Z"
+  "Summary": "This bill would require monthly reports from the Fire Department (FDNY) on the average number of emergency medical services (EMS) units available each day to respond to medical emergencies, categorized by EMS unit type and borough. The reported information would include for each borough, the average number of EMS units scheduled to respond to emergencies, and the average number of EMS units that are unable to respond to emergency call, disaggregated by the reason for such inability.",
+  "TextID": 80980,
+  "Text": "Be it enacted by the Council as follows:\n      \n      \n      Section 1. Chapter 1 of title 15 of the administrative code of the city of New York is amended by adding a new section 15-154 to read as follows:\n      � 15-154 Report on emergency medical services units. a. Definition. As used in this section, the following term has the following meaning: \n      Emergency medical services unit. The term \"emergency medical services unit\" has the same meaning as set forth in section 15-137.\n      b. Report. No later than 6 months after the effective date of the local law that added this section, and monthly thereafter, the commissioner shall submit to the mayor and the speaker of the council, and post on the department's website, a report regarding emergency medical services units. Such report shall include the following information for each day of the month preceding the month in which such report is due, disaggregated by emergency medical services unit type and borough:\n      1. The daily average number of emergency medical service units scheduled to respond to emergency calls; and\n      2. The daily average number of emergency medical services units that are unable to respond to emergency calls, disaggregated by the reason for such inability. \n      � 2. This local law takes effect immediately. \n\nPS/JDK\nLS# 17898\n12/10/2025\n      1\n      \n      \n      2",
+  "RTF": "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang1033\\deflangfe1033{\\fonttbl{\\f0\\froman\\fprq2\\fcharset0 Times New Roman;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\n\\ul\\v0\\par\nBe it enacted by the Council as follows:\\ulnone\\par\n\\pard\\ltrpar\\fi720\\qj\\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\cf1 Section 1. Chapter 1 of title 15 of the administrative code of the city of New York is amended by adding a new section 15-154 to read as follows:\\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qj\\cf0\\ul\\'a7 15-154 Report on emergency medical services units. a. Definition. As used in this section, the following term has the following meaning: \\par\nEmergency medical services unit. The term \\ldblquote emergency medical services unit\\rdblquote  has the same meaning as set forth in section 15-137.\\par\nb. Report. No later than 6 months after the effective date of the local law that added this section, and monthly thereafter, the commissioner shall submit to the mayor and the speaker of the council, and post on the department\\rquote s website, a report regarding emergency medical services units. Such report shall include the following information for each day of the month preceding the month in which such report is due, disaggregated by emergency medical services unit type and borough:\\par\n1. The daily average number of emergency medical service units scheduled to respond to emergency calls; and\\par\n2. The daily average number of emergency medical services units that are unable to respond to emergency calls, disaggregated by the reason for such inability. \\par\n\\ulnone\\'a7 2. This local law takes effect immediately. \\ul\\par\n\\pard\\ltrpar\\qj\\ulnone\\fs20 PS/JDK\\par\nLS# 17898\\par\n\\pard\\ltrpar 12/10/2025\\fs24\\par\n}\n",
+  "LastModified": "2025-12-18T19:00:10.547Z"
 }
