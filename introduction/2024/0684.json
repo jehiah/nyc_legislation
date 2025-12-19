@@ -6,8 +6,8 @@
   "Title": "A Local Law to amend the New York city charter, in relation to requiring each community board to establish a veterans committee",
   "TypeID": 2,
   "TypeName": "Introduction",
-  "StatusID": 25,
-  "StatusName": "Laid Over in Committee",
+  "StatusID": 24,
+  "StatusName": "Reported from Committee",
   "BodyID": 5122,
   "BodyName": "Committee on Veterans",
   "IntroDate": "2024-03-19T00:00:00Z",
@@ -15,53 +15,6 @@
   "PassedDate": "0001-01-01T00:00:00Z",
   "EnactmentDate": "0001-01-01T00:00:00Z",
   "Version": "*",
-  "Sponsors": [
-    {
-      "ID": 7746,
-      "Slug": "robert-f-holden",
-      "FullName": "Robert F. Holden"
-    },
-    {
-      "ID": 7785,
-      "Slug": "farah-n-louis",
-      "FullName": "Farah N. Louis"
-    },
-    {
-      "ID": 7864,
-      "Slug": "chris-banks",
-      "FullName": "Chris Banks"
-    },
-    {
-      "ID": 7829,
-      "Slug": "mercedes-narcisse",
-      "FullName": "Mercedes Narcisse"
-    },
-    {
-      "ID": 7798,
-      "Slug": "oswald-j-feliz",
-      "FullName": "Oswald Feliz"
-    },
-    {
-      "ID": 7831,
-      "Slug": "inna-vernikov",
-      "FullName": "Inna Vernikov"
-    },
-    {
-      "ID": 7811,
-      "Slug": "vickie-paladino",
-      "FullName": "Vickie Paladino"
-    },
-    {
-      "ID": 7865,
-      "Slug": "kristy-marmorato",
-      "FullName": "Kristy Marmorato"
-    },
-    {
-      "ID": 7819,
-      "Slug": "joann-ariola",
-      "FullName": "Joann Ariola"
-    }
-  ],
   "History": [
     {
       "ID": 405993,
@@ -120,6 +73,91 @@
       "Version": "*",
       "MatterStatusID": 25,
       "LastModified": "2025-02-19T21:11:19.33Z"
+    },
+    {
+      "ID": 428779,
+      "Date": "2025-12-17T10:45:00Z",
+      "ActionID": 54,
+      "Action": "Hearing Held by Committee",
+      "Description": "This Introduction was Hearing Held by Committee",
+      "BodyID": 5122,
+      "BodyName": "Committee on Veterans",
+      "EventID": 22098,
+      "AgendaSequence": 2,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2025-12-17T16:33:53.12Z"
+    },
+    {
+      "ID": 428902,
+      "Date": "2025-12-17T10:45:00Z",
+      "ActionID": 32,
+      "Action": "Approved by Committee",
+      "Description": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "BodyID": 5122,
+      "BodyName": "Committee on Veterans",
+      "EventID": 22098,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterStatusID": 24,
+      "Votes": [
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 10
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 20
+        },
+        {
+          "ID": 5289,
+          "Slug": "simcha-felder",
+          "FullName": "Simcha Felder",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 25
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 30
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "VoteID": 11,
+          "Vote": "Abstain",
+          "Sort": 40
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 50
+        }
+      ],
+      "LastModified": "2025-12-17T17:26:40.707Z"
     }
   ],
   "Attachments": [
@@ -132,7 +170,7 @@
     },
     {
       "ID": 296825,
-      "LastModified": "2025-03-06T14:29:54.953Z",
+      "LastModified": "2025-12-17T22:57:17.62Z",
       "Name": "Int. No. 684",
       "Link": "https://nyc.legistar1.com/nyc/attachments/b5185005-595e-42a7-880c-02f03d49338b.docx",
       "Sort": 2
@@ -180,23 +218,44 @@
       "Sort": 8
     },
     {
-      "ID": 315240,
-      "LastModified": "2025-02-26T15:30:41.763Z",
+      "ID": 331242,
+      "LastModified": "2025-12-16T16:43:54.653Z",
       "Name": "Fiscal Impact Statement - City Council",
-      "Link": "https://nyc.legistar1.com/nyc/attachments/6148f6ca-c75d-4d17-ac3b-312693c43e2e.docx",
-      "Sort": 9
+      "Link": "https://nyc.legistar1.com/nyc/attachments/d0672721-e272-4e59-b403-669a5e1e80ad.docx",
+      "Sort": 11
     },
     {
-      "ID": 315239,
-      "LastModified": "2025-02-26T15:30:41.443Z",
+      "ID": 331243,
+      "LastModified": "2025-12-16T16:43:59.397Z",
       "Name": "Fiscal Impact Statement - OMB",
-      "Link": "https://nyc.legistar1.com/nyc/attachments/9729e4f8-ed61-4eb7-a6ab-c099102719a6.pdf",
-      "Sort": 10
+      "Link": "https://nyc.legistar1.com/nyc/attachments/4019e4f2-8c51-4816-bfae-0bdba3264175.pdf",
+      "Sort": 12
+    },
+    {
+      "ID": 331347,
+      "LastModified": "2025-12-17T16:29:00.18Z",
+      "Name": "Committee Report 12/17/25",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/6c9b371a-1ead-4d4f-85fc-a0b926137636.docx",
+      "Sort": 13
+    },
+    {
+      "ID": 331417,
+      "LastModified": "2025-12-17T20:34:46.973Z",
+      "Name": "Committee Report - Stated Meeting",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/6c465a29-4484-4d81-9420-8f4b8e1fd51f.docx",
+      "Sort": 14
+    },
+    {
+      "ID": 331715,
+      "LastModified": "2025-12-18T22:52:24.19Z",
+      "Name": "Dedember 18, 2025 - Stated Meeting Agenda",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/e37fa326-f98c-4ac8-9d45-ba8054fd7f3f.pdf",
+      "Sort": 15
     }
   ],
   "Summary": "This bill would require each community board to establish a committee dedicated to the needs of veterans and their families within the community district, and would require such committee meetings to be open to the public (except as otherwise provided by law).",
   "TextID": 77270,
   "Text": "Be it enacted by the Council as follows:\n      \n      \n      Section 1. Subdivision d of section 2800 of the New York city charter is amended by adding a new subparagraph 23 to read as follows:\n      (23) Establish a committee dedicated to the needs of veterans and their families, with the meetings of such committee open to the public except as otherwise provided by law.\n      �2.  This local law takes effect 90 days after it becomes law.\n\n\n\n\nSession 13\nLS #8584\n1/17/24\n\nSession 12\nBG\nLS #8584\n5/13/22\n\n\n\n      1\n      \n      \n      1",
   "RTF": "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang1033\\deflangfe1033{\\fonttbl{\\f0\\froman\\fprq2\\fcharset0 Times New Roman;}}\n{\\colortbl ;\\red0\\green0\\blue0;\\red255\\green255\\blue255;}\n\\viewkind4\\uc1\n\\ul\\v0\\par\nBe it enacted by the Council as follows:\\ulnone\\par\n\\pard\\ltrpar\\fi720\\qj\\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qj Section 1. Subdivision d of section 2800 of the New York city charter is amended by adding a new subparagraph 23 to read as follows:\\ul\\par\n(23) Establish a committee dedicated to the needs of veterans and their families, with the meetings of such committee open to the public except as otherwise provided by law.\\par\n\\ulnone\\'a72.  This local law takes effect 90 days after it becomes law.\\par\n\\pard\\ltrpar\\qj\\fs18\\par\n\\par\n\\par\n\\pard\\cbpat2\\ltrpar\\noline\\sl252\\slmult1\\qj\\cf1\\ul\\fs20 Session 13\\par\n\\pard\\cbpat2\\ltrpar\\noline\\qj\\ulnone LS #8584\\par\n1/17/24\\ul\\par\n\\par\nSession 12\\par\n\\ulnone BG\\par\nLS #8584\\par\n5/13/22\\par\n\\par\n\\pard\\ltrpar\\cf0\\fs18\\par\n\\par\n}\n",
-  "LastModified": "2025-03-06T14:29:54.953Z"
+  "LastModified": "2025-12-18T22:52:24.19Z"
 }

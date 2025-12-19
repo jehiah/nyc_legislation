@@ -6,8 +6,8 @@
   "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the inspection and cleanup of catch basins and reports on catch basin inspection, cleanup, and maintenance",
   "TypeID": 2,
   "TypeName": "Introduction",
-  "StatusID": 25,
-  "StatusName": "Laid Over in Committee",
+  "StatusID": 10,
+  "StatusName": "Enacted (Mayor's Desk for Signature)",
   "BodyID": 5290,
   "BodyName": "Committee on Environmental Protection, Resiliency and Waterfronts",
   "IntroDate": "2024-02-28T00:00:00Z",
@@ -15,78 +15,6 @@
   "PassedDate": "0001-01-01T00:00:00Z",
   "EnactmentDate": "0001-01-01T00:00:00Z",
   "Version": "A",
-  "Sponsors": [
-    {
-      "ID": 7780,
-      "Slug": "public-advocate-jumaane-williams",
-      "FullName": "Public Advocate Jumaane Williams"
-    },
-    {
-      "ID": 7819,
-      "Slug": "joann-ariola",
-      "FullName": "Joann Ariola"
-    },
-    {
-      "ID": 5273,
-      "Slug": "james-f-gennaro",
-      "FullName": "James F. Gennaro"
-    },
-    {
-      "ID": 7818,
-      "Slug": "lynn-c-schulman",
-      "FullName": "Lynn C. Schulman"
-    },
-    {
-      "ID": 7812,
-      "Slug": "sandra-ung",
-      "FullName": "Sandra Ung"
-    },
-    {
-      "ID": 7820,
-      "Slug": "lincoln-restler",
-      "FullName": "Lincoln Restler"
-    },
-    {
-      "ID": 5259,
-      "Slug": "gale-a-brewer",
-      "FullName": "Gale A. Brewer"
-    },
-    {
-      "ID": 7826,
-      "Slug": "shahana-k-hanif",
-      "FullName": "Shahana K. Hanif"
-    },
-    {
-      "ID": 7817,
-      "Slug": "nantasha-m-williams",
-      "FullName": "Nantasha M. Williams"
-    },
-    {
-      "ID": 7825,
-      "Slug": "alexa-aviles",
-      "FullName": "Alexa Avilés"
-    },
-    {
-      "ID": 7785,
-      "Slug": "farah-n-louis",
-      "FullName": "Farah N. Louis"
-    },
-    {
-      "ID": 7813,
-      "Slug": "tiffany-l-caban",
-      "FullName": "Tiffany L. Cabán"
-    },
-    {
-      "ID": 7746,
-      "Slug": "robert-f-holden",
-      "FullName": "Robert F. Holden"
-    },
-    {
-      "ID": 7822,
-      "Slug": "crystal-hudson",
-      "FullName": "Crystal Hudson"
-    }
-  ],
   "History": [
     {
       "ID": 404054,
@@ -145,12 +73,630 @@
       "Version": "*",
       "MatterStatusID": 25,
       "LastModified": "2025-10-22T21:03:04.437Z"
+    },
+    {
+      "ID": 428790,
+      "Date": "2025-12-18T11:45:00Z",
+      "ActionID": 54,
+      "Action": "Hearing Held by Committee",
+      "Description": "This Introduction was Hearing Held by Committee",
+      "BodyID": 5290,
+      "BodyName": "Committee on Environmental Protection, Resiliency and Waterfronts",
+      "EventID": 22100,
+      "AgendaSequence": 1,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "AgendaNote": "Proposed Int. No. 403-A",
+      "MinutesNote": "Proposed Int. No. 403-A",
+      "MatterStatusID": 3,
+      "LastModified": "2025-12-18T18:52:29.753Z"
+    },
+    {
+      "ID": 429455,
+      "Date": "2025-12-18T11:45:00Z",
+      "ActionID": 5001,
+      "Action": "Amendment Proposed by Comm",
+      "Description": "This Introduction was Amendment Proposed by Comm",
+      "BodyID": 5290,
+      "BodyName": "Committee on Environmental Protection, Resiliency and Waterfronts",
+      "EventID": 22100,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2025-12-18T18:52:29.753Z"
+    },
+    {
+      "ID": 429456,
+      "Date": "2025-12-18T11:45:00Z",
+      "ActionID": 33,
+      "Action": "Amended by Committee",
+      "Description": "This Introduction was Amended by Committee",
+      "BodyID": 5290,
+      "BodyName": "Committee on Environmental Protection, Resiliency and Waterfronts",
+      "EventID": 22100,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2025-12-18T18:52:29.753Z"
+    },
+    {
+      "ID": 429457,
+      "Date": "2025-12-18T11:45:00Z",
+      "ActionID": 32,
+      "Action": "Approved by Committee",
+      "Description": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "BodyID": 5290,
+      "BodyName": "Committee on Environmental Protection, Resiliency and Waterfronts",
+      "EventID": 22100,
+      "MinutesSequence": 6,
+      "Version": "A",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterStatusID": 24,
+      "Votes": [
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 10
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 20
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 30
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 40
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 50
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 60
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 70
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 80
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 90
+        }
+      ],
+      "LastModified": "2025-12-18T18:52:29.757Z"
+    },
+    {
+      "ID": 428965,
+      "Date": "2025-12-18T13:30:00Z",
+      "ActionID": 68,
+      "Action": "Approved by Council",
+      "Description": "A motion was made that this Introduction be Approved by Council approved by Roll Call.",
+      "BodyID": 1,
+      "BodyName": "City Council",
+      "EventID": 22114,
+      "AgendaSequence": 33,
+      "MinutesSequence": 35,
+      "Version": "A",
+      "AgendaNote": "Amended and Coupled on General Orders",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterStatusID": 10,
+      "Votes": [
+        {
+          "ID": 7739,
+          "Slug": "adrienne-e-adams",
+          "FullName": "Adrienne E. Adams",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 10
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 20
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 30
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 41
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 50
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 60
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 80
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 90
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 100
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 110
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-l-caban",
+          "FullName": "Tiffany L. Cabán",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 120
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 130
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 140
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 150
+        },
+        {
+          "ID": 7893,
+          "Slug": "harvey-d-epstein",
+          "FullName": "Harvey D. Epstein",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 155
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-c-farias",
+          "FullName": "Amanda C. Farías",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 160
+        },
+        {
+          "ID": 5289,
+          "Slug": "simcha-felder",
+          "FullName": "Simcha Felder",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 165
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-j-feliz",
+          "FullName": "Oswald J. Feliz",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 170
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 180
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 190
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 200
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 210
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 220
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 230
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 240
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 250
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 260
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 270
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 280
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 290
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "VoteID": 12,
+          "Vote": "Negative",
+          "Result": 2,
+          "Sort": 300
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 310
+        },
+        {
+          "ID": 7887,
+          "Slug": "frank-morano",
+          "FullName": "Frank Morano",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 315
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 320
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 330
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 340
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 350
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 361
+        },
+        {
+          "ID": 7741,
+          "Slug": "keith-powers",
+          "FullName": "Keith Powers",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 370
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 380
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 390
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 410
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 420
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 430
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 440
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 450
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 460
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 471
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 480
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 490
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 510
+        }
+      ],
+      "LastModified": "2025-12-19T13:10:10.39Z"
     }
   ],
   "Attachments": [
     {
       "ID": 331050,
-      "LastModified": "2025-12-12T20:14:13.917Z",
+      "LastModified": "2025-12-15T00:52:06.217Z",
       "Name": "Summary of Int. No. 403-A",
       "Link": "https://nyc.legistar1.com/nyc/attachments/9fa4f5ae-1203-47bc-8267-320e7bc0e1ae.docx",
       "Sort": 1
@@ -227,15 +773,43 @@
     },
     {
       "ID": 331049,
-      "LastModified": "2025-12-12T20:14:26.657Z",
+      "LastModified": "2025-12-17T22:47:23.933Z",
       "Name": "Proposed Int. No. 403-A - 12/12/25",
       "Link": "https://nyc.legistar1.com/nyc/attachments/a3486773-f4ae-42ed-ba7b-09903588a1d8.docx",
       "Sort": 12
+    },
+    {
+      "ID": 331377,
+      "LastModified": "2025-12-17T17:21:15.943Z",
+      "Name": "Int. No. 403-A - Fiscal Impact Statement - City Council",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/3c5ae98e-a9f2-4bb5-817d-c8f78963fd2b.docx",
+      "Sort": 13
+    },
+    {
+      "ID": 331393,
+      "LastModified": "2025-12-17T19:37:16.677Z",
+      "Name": "Int. No. 403-A - Fiscal Impact Statement - OMB",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/8c41c5e0-f1d6-43c2-921e-a8b4f037c5fe.pdf",
+      "Sort": 14
+    },
+    {
+      "ID": 331379,
+      "LastModified": "2025-12-17T17:29:04.53Z",
+      "Name": "Committee Report 12/18/25",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/a4032676-32ed-4fcc-a2af-50342e1f67d4.docx",
+      "Sort": 15
+    },
+    {
+      "ID": 331645,
+      "LastModified": "2025-12-18T22:52:09.967Z",
+      "Name": "December 18, 2025 - Stated Meeting Agenda",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/0fa2290e-e242-4c32-99c2-6bb0db220f36.pdf",
+      "Sort": 16
     }
   ],
   "Summary": "This bill would require the Department of Environmental Protection (“DEP”) to submit annual reports on the inspection, cleanup, and maintenance of catch basins in each community district. The first such report would be required no later than September 17, 2026. The bill would also require DEP to inspect catch basins in accordance with a multi-tiered inspection schedule and to evaluate such schedule at least once every 3 years. Finally, the bill would require DEP to resolve a catch basin clog within 8 business days of inspection or receipt of a complaint, whichever is earlier.",
   "TextID": 80945,
   "Text": "Be it enacted by the Council as follows:\n      Section 1. Section 24-503 of the administrative code of the city of New York is amended by adding new subdivisions f, g, and h to read as follows:\n      f. The department of environmental protection shall inspect each catch basin under the jurisdiction of the commissioner of environmental protection in accordance with a multi-tiered inspection schedule based on the 10-year rainfall flood risk area map developed pursuant to section 24-809, any other stormwater flood maps maintained by such department, and performance history, including inspection data, maintenance records, and 311 complaints received, of such catch basins. The department of environmental protection shall evaluate such multi-tiered inspection schedule no less than once every 3 years.\n      g. The department of environmental protection shall resolve each clogged catch basin inspected pursuant to subdivision f of this section within 8 business days of the date on which such department received a complaint about such catch basin being clogged or the date on which such department identified, upon inspection, such catch basin as being clogged, whichever is earlier.\n      h. No later than September 17, 2026, and no later than every September 17 thereafter, the commissioner of environmental protection shall submit a report to the mayor, the speaker of the council, and the public advocate regarding the inspection, cleanup, and maintenance of catch basins, disaggregated by community district. Each such report shall include a description of the multi-tiered inspection schedule required pursuant to subdivision f of this section and an explanation of any changes made to such multi-tiered inspection schedule since the submission of the prior report. Each such report shall include a list of catch basins about which the department of environmental protection received a complaint of having been clogged or which such department identified, upon inspection, as being clogged, and did not resolve within the time period required by subdivision g of this section.\n      � 2. This local law takes effect on July 1, 2026.\n      \n      \n\n\n\n\n\nSession 13\nSNT\nLS 3140\n12/10/25 9:06 PM\n\nSession 12\nSS\nLS 3140\n6/17/22 11:24am",
   "RTF": "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang1033\\deflangfe1033{\\fonttbl{\\f0\\froman\\fprq2\\fcharset0 Times New Roman;}}\n{\\colortbl ;\\red0\\green0\\blue0;\\red255\\green255\\blue255;}\n\\viewkind4\\uc1\n\\v0\\par\n\\pard\\ltrpar\\nowidctlpar\\fi720\\sl480\\slmult1\\ul Be it enacted by the Council as follows:\\ulnone Section 1. Section 24-503 of the administrative code of the city of New York is amended by adding new subdivisions f, g, and h to read as follows:\\cf0\\highlight0\\par\n\\pard\\ltrpar\\nowidctlpar\\fi720\\sl480\\slmult1\\qj\\ul f. The department of environmental protection shall inspect each catch basin under the jurisdiction of the commissioner of environmental protection in accordance with a multi-tiered inspection schedule based on the 10-year rainfall flood risk area map developed pursuant to section 24-809, any other stormwater flood maps maintained by such department, and performance history, including inspection data, maintenance records, and 311 complaints received, of such catch basins. The department of environmental protection shall evaluate such multi-tiered inspection schedule no less than once every 3 years.\\par\ng. The department of environmental protection shall resolve each clogged catch basin inspected pursuant to subdivision f of this section within 8 business days of the date on which such department received a complaint about such catch basin being clogged or the date on which such department identified, upon inspection, such catch basin as being clogged, whichever is earlier.\\par\nh. No later than September 17, 2026, and no later than every September 17 thereafter, the commissioner of environmental protection shall submit a report to the mayor, the speaker of the council, and the public advocate regarding the inspection, cleanup, and maintenance of catch basins, disaggregated by community district. Each such report shall include a description of the multi-tiered inspection schedule required pursuant to subdivision f of this section and an explanation of any changes made to such multi-tiered inspection schedule since the submission of the prior report. Each such report shall include a list of catch basins about which the department of environmental protection received a complaint of having been clogged or which such department identified, upon inspection, as being clogged, and did not resolve within the time period required by subdivision g of this section.\\par\n\\ulnone\\'a7 2. This local law takes effect on July 1, 2026\\cf1\\highlight2 .\\cf0\\highlight0\\par\n\\pard\\ltrpar\\fi720\\par\n\\pard\\ltrpar\\cf1\\ul\\fs18\\par\n\\par\n\\par\n\\par\n\\par\n\\lang1036 Session 13\\par\n\\ulnone SNT\\par\nLS 3140\\par\n12/10/25 9:06 PM\\par\n\\ul\\par\nSession 12\\par\n\\ulnone SS\\par\nLS 3140\\par\n\\lang1033 6/17/22 11:24am\\par\n}\n",
-  "LastModified": "2025-12-12T20:14:35.577Z"
+  "LastModified": "2025-12-19T13:10:10.07Z"
 }

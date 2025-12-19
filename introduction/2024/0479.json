@@ -6,37 +6,15 @@
   "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the establishment of standards and procedures to determine the existence of conflicts of interest and other misconduct concerning city contracts",
   "TypeID": 2,
   "TypeName": "Introduction",
-  "StatusID": 25,
-  "StatusName": "Laid Over in Committee",
+  "StatusID": 10,
+  "StatusName": "Enacted (Mayor's Desk for Signature)",
   "BodyID": 6,
   "BodyName": "Committee on Contracts",
   "IntroDate": "2024-02-28T00:00:00Z",
   "AgendaDate": "2024-02-28T00:00:00Z",
   "PassedDate": "0001-01-01T00:00:00Z",
   "EnactmentDate": "0001-01-01T00:00:00Z",
-  "Version": "*",
-  "Sponsors": [
-    {
-      "ID": 7816,
-      "Slug": "julie-won",
-      "FullName": "Julie Won"
-    },
-    {
-      "ID": 7820,
-      "Slug": "lincoln-restler",
-      "FullName": "Lincoln Restler"
-    },
-    {
-      "ID": 7785,
-      "Slug": "farah-n-louis",
-      "FullName": "Farah N. Louis"
-    },
-    {
-      "ID": 7813,
-      "Slug": "tiffany-l-caban",
-      "FullName": "Tiffany L. Cabán"
-    }
-  ],
+  "Version": "A",
   "History": [
     {
       "ID": 403776,
@@ -107,83 +85,716 @@
       "Version": "*",
       "MatterStatusID": 25,
       "LastModified": "2025-06-23T17:14:03.893Z"
+    },
+    {
+      "ID": 428812,
+      "Date": "2025-12-18T11:00:00Z",
+      "ActionID": 54,
+      "Action": "Hearing Held by Committee",
+      "Description": "This Introduction was Hearing Held by Committee",
+      "BodyID": 6,
+      "BodyName": "Committee on Contracts",
+      "EventID": 22093,
+      "AgendaSequence": 1,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "AgendaNote": "Proposed Int. No. 479-A",
+      "MinutesNote": "Proposed Int. No. 479-A",
+      "MatterStatusID": 3,
+      "LastModified": "2025-12-18T17:30:38.403Z"
+    },
+    {
+      "ID": 429369,
+      "Date": "2025-12-18T11:00:00Z",
+      "ActionID": 5001,
+      "Action": "Amendment Proposed by Comm",
+      "Description": "This Introduction was Amendment Proposed by Comm",
+      "BodyID": 6,
+      "BodyName": "Committee on Contracts",
+      "EventID": 22093,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2025-12-18T17:30:42.83Z"
+    },
+    {
+      "ID": 429370,
+      "Date": "2025-12-18T11:00:00Z",
+      "ActionID": 33,
+      "Action": "Amended by Committee",
+      "Description": "This Introduction was Amended by Committee",
+      "BodyID": 6,
+      "BodyName": "Committee on Contracts",
+      "EventID": 22093,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2025-12-18T17:30:48.17Z"
+    },
+    {
+      "ID": 429371,
+      "Date": "2025-12-18T11:00:00Z",
+      "ActionID": 32,
+      "Action": "Approved by Committee",
+      "Description": "This Introduction was Approved by Committee",
+      "BodyID": 6,
+      "BodyName": "Committee on Contracts",
+      "EventID": 22093,
+      "MinutesSequence": 6,
+      "Version": "A",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterStatusID": 24,
+      "Votes": [
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 10
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 20
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 30
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 40
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 50
+        }
+      ],
+      "LastModified": "2025-12-18T17:31:04.577Z"
+    },
+    {
+      "ID": 428950,
+      "Date": "2025-12-18T13:30:00Z",
+      "ActionID": 68,
+      "Action": "Approved by Council",
+      "Description": "A motion was made that this Introduction be Approved by Council approved by Roll Call.",
+      "BodyID": 1,
+      "BodyName": "City Council",
+      "EventID": 22114,
+      "AgendaSequence": 22,
+      "MinutesSequence": 24,
+      "Version": "A",
+      "AgendaNote": "Amended and Coupled on GO",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterStatusID": 10,
+      "Votes": [
+        {
+          "ID": 7739,
+          "Slug": "adrienne-e-adams",
+          "FullName": "Adrienne E. Adams",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 10
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 20
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 30
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 41
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 50
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 60
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 80
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 90
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 100
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 110
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-l-caban",
+          "FullName": "Tiffany L. Cabán",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 120
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 130
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 140
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 150
+        },
+        {
+          "ID": 7893,
+          "Slug": "harvey-d-epstein",
+          "FullName": "Harvey D. Epstein",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 155
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-c-farias",
+          "FullName": "Amanda C. Farías",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 160
+        },
+        {
+          "ID": 5289,
+          "Slug": "simcha-felder",
+          "FullName": "Simcha Felder",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 165
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-j-feliz",
+          "FullName": "Oswald J. Feliz",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 170
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 180
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 190
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 200
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 210
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 220
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 230
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 240
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 250
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 260
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 270
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 280
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 290
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "VoteID": 12,
+          "Vote": "Negative",
+          "Result": 2,
+          "Sort": 300
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 310
+        },
+        {
+          "ID": 7887,
+          "Slug": "frank-morano",
+          "FullName": "Frank Morano",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 315
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 320
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 330
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 340
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 350
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 361
+        },
+        {
+          "ID": 7741,
+          "Slug": "keith-powers",
+          "FullName": "Keith Powers",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 370
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 380
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 390
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 410
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 420
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 430
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 440
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 450
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 460
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 471
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 480
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 490
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 510
+        }
+      ],
+      "LastModified": "2025-12-19T13:11:34.373Z"
     }
   ],
   "Attachments": [
     {
+      "ID": 331100,
+      "LastModified": "2025-12-15T20:00:38.523Z",
+      "Name": "Summary of Int. No. 479-A",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/de9c8a3a-fc50-4e17-84bc-0a992a1d2130.docx",
+      "Sort": 1
+    },
+    {
       "ID": 292766,
-      "LastModified": "2025-12-08T19:36:17.09Z",
+      "LastModified": "2025-12-15T19:12:02.667Z",
       "Name": "Summary of Int. No. 479",
       "Link": "https://nyc.legistar1.com/nyc/attachments/7eb5fb85-724a-440a-a8dd-4b956e2b52db.docx",
-      "Sort": 1
+      "Sort": 2
     },
     {
       "ID": 292767,
       "LastModified": "2025-12-08T19:36:26.943Z",
       "Name": "Int. No. 479",
       "Link": "https://nyc.legistar1.com/nyc/attachments/d7141c50-4c19-4891-8678-5a4fc7b5ac2a.docx",
-      "Sort": 2
+      "Sort": 3
     },
     {
       "ID": 295859,
       "LastModified": "2024-02-28T18:48:04.27Z",
       "Name": "February 28, 2024 - Stated Meeting Agenda",
       "Link": "https://nyc.legistar1.com/nyc/attachments/c68e1daa-da5d-446b-87d4-3cfa4c4892fb.pdf",
-      "Sort": 3
+      "Sort": 4
     },
     {
       "ID": 297484,
       "LastModified": "2024-03-06T21:34:24.33Z",
       "Name": "Hearing Transcript - Stated Meeting 2-28-24",
       "Link": "https://nyc.legistar1.com/nyc/attachments/74324f55-a026-487c-b723-adea584c252f.pdf",
-      "Sort": 4
+      "Sort": 5
     },
     {
       "ID": 306137,
       "LastModified": "2024-07-11T13:31:56.863Z",
       "Name": "Minutes of the Stated Meeting - February 28, 2024",
       "Link": "https://nyc.legistar1.com/nyc/attachments/29be4364-aa76-4c4c-8669-a9b39ea88f08.pdf",
-      "Sort": 5
+      "Sort": 6
     },
     {
       "ID": 321938,
       "LastModified": "2025-06-23T11:46:17.91Z",
       "Name": "Fiscal Impact Statement - City Council",
       "Link": "https://nyc.legistar1.com/nyc/attachments/35702bd4-eb0b-4fb7-b1b7-ef32e3f39244.docx",
-      "Sort": 6
+      "Sort": 7
     },
     {
       "ID": 321939,
       "LastModified": "2025-06-23T11:46:17.863Z",
       "Name": "Fiscal Impact Statement - OMB",
       "Link": "https://nyc.legistar1.com/nyc/attachments/401f5fee-3754-4548-91db-31bf883727f4.pdf",
-      "Sort": 7
+      "Sort": 8
     },
     {
       "ID": 321995,
       "LastModified": "2025-06-23T17:17:53.34Z",
       "Name": "Committee Report 6/23/25",
       "Link": "https://nyc.legistar1.com/nyc/attachments/e5a3baf2-f56b-4828-8dd6-9cbcd4b00072.docx",
-      "Sort": 8
+      "Sort": 9
     },
     {
       "ID": 322677,
       "LastModified": "2025-07-02T17:37:09.65Z",
       "Name": "Hearing Testimony 6/23/25",
       "Link": "https://nyc.legistar1.com/nyc/attachments/ddcbd492-8871-4478-8d2c-468291e78b50.pdf",
-      "Sort": 9
+      "Sort": 10
     },
     {
       "ID": 323811,
       "LastModified": "2025-07-31T14:58:30.857Z",
       "Name": "Hearing Transcript 6/23/25",
       "Link": "https://nyc.legistar1.com/nyc/attachments/12d876b9-7124-4f46-b294-24d430e0d298.pdf",
-      "Sort": 10
+      "Sort": 11
+    },
+    {
+      "ID": 331099,
+      "LastModified": "2025-12-18T01:42:23.6Z",
+      "Name": "Proposed Int. No. 479-A - 12/15/25",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/55c6a20e-713b-4e49-b923-d027770c01f3.docx",
+      "Sort": 12
+    },
+    {
+      "ID": 331359,
+      "LastModified": "2025-12-17T16:51:30.093Z",
+      "Name": "Int. No. 479-A - Fiscal Impact Statement - City Council",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/a586d902-aa84-49b1-82e6-61211fe16517.docx",
+      "Sort": 13
+    },
+    {
+      "ID": 331360,
+      "LastModified": "2025-12-17T16:51:30.483Z",
+      "Name": "Int. No. 479-A - Fiscal Impact Statement - OMB",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/07e2ba8a-40d7-41e2-af8f-858543640746.pdf",
+      "Sort": 14
+    },
+    {
+      "ID": 331569,
+      "LastModified": "2025-12-18T18:03:20.723Z",
+      "Name": "Committee Report 12/18/25",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/d852d43e-0984-4af7-b122-228393215a95.docx",
+      "Sort": 15
+    },
+    {
+      "ID": 331567,
+      "LastModified": "2025-12-18T18:02:51.937Z",
+      "Name": "Committee Report - Stated Meeting",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/7fd8d8b1-3194-4a6d-b38c-8805e83e3993.docx",
+      "Sort": 16
+    },
+    {
+      "ID": 331637,
+      "LastModified": "2025-12-18T22:52:08.42Z",
+      "Name": "December 18, 2025 - Stated Meeting Agenda",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/3fbc00d3-c771-48ca-ba7d-09ba8c3a2a59.pdf",
+      "Sort": 17
     }
   ],
-  "Summary": "This bill would apply to a contractor and a City agency or the Council that are parties to a City contract valued in excess of $100,000. It would require the City Chief Procurement Officer (CCPO) to establish standards and procedures for a contractor to use to determine the existence of a conflict of interest and certain misconduct concerning the contract on the part of its officers or employees and those of its subcontractors. The Mayor’s Office of Contract Services (MOCS) would have to require the agency or Council as party to a contract to include such standards and procedures in the contract. The contractor would be required to submit a certification of compliance with such standards and procedures, as well as that no conflict of interest or misconduct exists, to MOCS. Finally, the bill would require the CCPO to report on certifications submitted by contractors.",
-  "TextID": 76564,
-  "Text": "Be it enacted by the Council as follows:\n      \n      \n      Section 1. Title 6 of the administrative code of the city of New York is amended by adding a new section 6-147 to read as follows:\n      � 6-147 Conflicts of interest and misconduct concerning city contracts. a. As used in this section, the following terms have the following meanings:\n      City chief procurement officer. The term \"city chief procurement officer\" means the individual to whom the mayor has delegated authority to coordinate and oversee the procurement activity of mayoral agency staff, including the agency chief contracting officers and any offices that have oversight responsibility for procurement, and who is the head of the mayor's office of contract services.\n      Contract. The term \"contract\" means any written agreement, purchase order or instrument by which the city is committed to expend or does expend funds in return for an interest in real property, work, labor, services, supplies, equipment, materials, construction, construction-related service or any combination of the foregoing, and includes a subcontract between a contractor and a subcontractor. Such term does not include a contract or subcontract resulting from an emergency procurement or that is a government-to-government procurement.\n      Contractor. The term \"contractor\" means a person, including but not limited to any natural person, sole proprietorship, partnership, joint venture or corporation, that enters into a contract with an agency or the council.\n      Covered contract. The term \"covered contract\" means a contract entered into on or after the effective date of the local law that added this section by a contractor and an agency or the council, that by itself or when aggregated with all contracts awarded to such contractor by any agency or the council during the immediately preceding 12 months has a value in excess of $100,000.\n       Mayor's office of contract services. The term \"mayor's office of contract services\" means the office of contracts established within the office of the mayor by mayoral executive order number 114, dated April 13, 1988, as continued, amended or succeeded by executive order thereafter.\n      Subcontractor. The term \"subcontractor\" means a person, including but not limited to any natural person, sole proprietorship, partnership, joint venture or corporation, that is a party or a proposed party to a contract with a contractor.\n      b. 1. In consultation with the conflicts of interest board and the department of investigation, the city chief procurement officer shall establish standards and procedures to be used by a contractor that is a party to a covered contract for determining the existence of any conflict of interest:\n      (a) As set forth in chapter 68 of the charter, that may exist between a city employee and any officer or employee of such contractor that concerns such covered contract; \n      (b) As set forth in chapter 68 of the charter, that may exist between a city employee and any officer or employee of a subcontractor of such contractor that concerns such covered contract;\n      (c) That may exist otherwise for any officer or employee of such contractor that concerns such covered contract; and\n      (d) That may exist otherwise for any officer or employee of a subcontractor of such contractor that concerns such covered contract.\n      2. In consultation with the department of investigation, the city chief procurement officer shall also establish standards and procedures to be used by a contractor that is a party to a covered contract for determining the existence of any conduct involving corruption, criminal activity, gross mismanagement or abuse of authority that concerns such covered contract by any officer or employee of such contractor or by any officer or employee of a subcontractor of such contractor.\n      3. Within 7 days after the establishment of the standards and procedures pursuant to paragraphs 1 and 2 of this subdivision, the city chief procurement officer shall submit copies of such standards and procedures to the mayor and the speaker of the council.\n      c. The mayor's office of contract services shall require an agency that is a party to a covered contract, or the council as a party to a covered contract, to include the standards and procedures established by the city chief procurement officer pursuant to paragraphs 1 and 2 of subdivision b of this section in such covered contract.\n      d. A contractor shall submit a certification to the mayor's office of contract services when entering into a covered contract that such contractor has complied with the standards and procedures established by the city chief procurement officer pursuant to paragraphs 1 and 2 of subdivision b of this section and included in such contract pursuant to subdivision c of this section, and that no conflict of interest, corruption, criminal activity, gross mismanagement or abuse of authority that concerns such covered contract exists with respect to its officers and employees and to officers and employees of its subcontractors.\n      e. Not later than July 1, 2023, and by July 1 annually thereafter, the city chief procurement officer shall post publicly online and submit to the mayor and the speaker of the council a report on certifications submitted by contractors pursuant to subdivision d of this section during the past 12 months, including but not limited to (i) a summary of all such certifications submitted during such period, including but not limited to the parties to and subject matter of the covered contracts for which such certifications were submitted; (ii) the number of such certifications submitted during such period as compared to the total number of covered contracts that took effect during such period and (iii) a description of any conflict of interest or conduct involving corruption, criminal activity, gross mismanagement or abuse of authority discovered by the mayor's office of contract services during such period in connection with a covered contract for which a contractor submitted such a certification.\n      � 2. This local law takes effect 120 days after it becomes law, provided that it only applies to contract solicitations that occur on and after its effective date, and except that the procurement policy board shall take such measures as are necessary for the implementation of this local law, including the promulgation of rules, before such date.\n\n\n\nSession 13\nLS #8699\n1/17/2024\n\nSession 12\nJTB\nLS #8699\n4/8/2022\n\n\n      4\n      \n      \n      1",
-  "RTF": "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang1033\\deflangfe1033{\\fonttbl{\\f0\\froman\\fprq2\\fcharset0 Times New Roman;}{\\f1\\froman\\fprq2\\fcharset0 Times;}}\n{\\colortbl ;\\red0\\green0\\blue0;\\red255\\green255\\blue255;}\n\\viewkind4\\uc1\n\\ul\\v0\\par\nBe it enacted by the Council as follows:\\ulnone\\par\n\\pard\\ltrpar\\fi720\\qj\\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qj Section 1. Title 6 of the administrative code of the city of New York is amended by adding a new section 6-147 to read as follows:\\par\n\\ul\\'a7 6-147 Conflicts of interest and misconduct concerning city contracts. a. As used in this section, the following terms have the following meanings:\\par\nCity chief procurement officer. The term \\ldblquote city chief procurement officer\\rdblquote  means the individual to whom the mayor has delegated authority to coordinate and oversee the procurement activity of mayoral agency staff, including the agency chief contracting officers and any offices that have oversight responsibility for procurement, and who is the head of the mayor\\rquote s office of contract services.\\par\nContract. The term \\ldblquote contract\\rdblquote  means any written agreement, purchase order or instrument by which the city is committed to expend or does expend funds in return for an interest in real property, work, labor, services, supplies, equipment, materials, construction, construction-related service or any combination of the foregoing, and includes a subcontract between a contractor and a subcontractor. Such term does not include a contract or subcontract resulting from an emergency procurement or that is a government-to-government procurement.\\par\nContractor. The term \\ldblquote contractor\\rdblquote  means a person, including but not limited to any natural person, sole proprietorship, partnership, joint venture or corporation, that enters into a contract with an agency or the council.\\par\nCovered contract. The term \\ldblquote covered contract\\rdblquote\\cf1\\f1  means a contract entered into on or after the effective date of the local law that added this section by a contractor and an agency or the council, that by itself or when aggregated with all contracts awarded to such contractor by any agency or the council during the immediately preceding 12 months has a value in excess of $100,000.\\par\n\\cf0\\f0  Mayor\\rquote s office of contract services. The term \\ldblquote mayor\\rquote s office of contract services\\rdblquote  means the office of contracts established within the office of the mayor by mayoral executive order number 114, dated April 13, 1988, as continued, amended or succeeded by executive order thereafter.\\par\nSubcontractor. The term \\ldblquote subcontractor\\rdblquote  means a person, including but not limited to any natural person, sole proprietorship, partnership, joint venture or corporation, that is a party or a proposed party to a contract with a contractor.\\par\nb. 1. In consultation with the conflicts of interest board and the department of investigation, the city chief procurement officer shall establish standards and procedures to be used by a contractor that is a party to a covered contract for determining the existence of any conflict of interest:\\par\n(a) As set forth in chapter 68 of the charter, that may exist between a city employee and any officer or employee of such contractor that concerns such covered contract; \\par\n(b) As set forth in chapter 68 of the charter, that may exist between a city employee and any officer or employee of a subcontractor of such contractor that concerns such covered contract;\\par\n(c) That may exist otherwise for any officer or employee of such contractor that concerns such covered contract; and\\par\n(d) That may exist otherwise for any officer or employee of a subcontractor of such contractor that concerns such covered contract.\\par\n2. In consultation with the department of investigation, the city chief procurement officer shall also establish standards and procedures to be used by a contractor that is a party to a covered contract for determining the existence of any conduct involving corruption, criminal activity, gross mismanagement or abuse of authority that concerns such covered contract by any officer or employee of such contractor or by any officer or employee of a subcontractor of such contractor.\\par\n3. Within 7 days after the establishment of the standards and procedures pursuant to paragraphs 1 and 2 of this subdivision, the city chief procurement officer shall submit copies of such standards and procedures to the mayor and the speaker of the council.\\par\nc. The mayor\\rquote s office of contract services shall require an agency that is a party to a covered contract, or the council as a party to a covered contract, to include the standards and procedures established by the city chief procurement officer pursuant to paragraphs 1 and 2 of subdivision b of this section in such covered contract.\\par\n\\pard\\cbpat2\\ltrpar\\fi720\\sl480\\slmult1\\qj d. A contractor shall submit a certification to the mayor\\rquote s office of contract services when entering into a covered contract that such contractor has complied with the standards and procedures established by the city chief procurement officer pursuant to paragraphs 1 and 2 of subdivision b of this section and included in such contract pursuant to subdivision c of this section, and that no conflict of interest, corruption, criminal activity, gross mismanagement or abuse of authority that concerns such covered contract exists with respect to its officers and employees and to officers and employees of its subcontractors.\\par\ne. Not later than July 1, 2023, and by July 1 annually thereafter, the city chief procurement officer shall post publicly online and submit to the mayor and the speaker of the council a report on certifications submitted by contractors pursuant to subdivision d of this section during the past 12 months, including but not limited to (i) a summary of all such certifications submitted during such period, including but not limited to the parties to and subject matter of the covered contracts for which such certifications were submitted; (ii) the number of such certifications submitted during such period as compared to the total number of covered contracts that took effect during such period and (iii) a description of any conflict of interest or conduct involving corruption, criminal activity, gross mismanagement or abuse of authority discovered by the mayor\\rquote s office of contract services during such period in connection with a covered contract for which a contractor submitted such a certification.\\cf1\\ulnone\\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qj\\cf0\\'a7 2. This local law takes effect 120 days after it becomes law, provided that it only applies to contract solicitations that occur on and after its effective date, and except that the procurement policy board shall take such measures as are necessary for the implementation of this local law, including the promulgation of rules, before such date.\\par\n\\pard\\ltrpar\\qj\\fs18\\par\n\\ul\\par\n\\pard\\ltrpar\\sl252\\slmult1\\qj Session 13\\ulnone\\par\n\\pard\\ltrpar\\qj LS #8699\\par\n1/17/2024\\par\n\\ul\\par\nSession 12\\ulnone\\par\nJTB\\par\nLS #8699\\par\n4/8/2022\\par\n\\par\n\\par\n}\n",
-  "LastModified": "2025-12-12T21:39:20.33Z"
+  "Summary": "This bill would require the City Chief Procurement Officer to establish standards and procedures for contractors to determine the existence of conflicts of interest and misconduct concerning city contracts valued over $100,000. Contractors would be required to self-certify compliance with these standards upon execution of a covered contract and attest that no conflicts of interest, corruption, criminal activity, gross mismanagement or abuse of authority exists with respect to their officers, employees and subcontractors. If a contractor becomes aware of any such conflicts or misconduct during the contract term, they would need to notify the Mayor's Office of Contract Services and the contracting agency in writing within 10 business days.",
+  "TextID": 80964,
+  "Text": "Be it enacted by the Council as follows:\n      \n      \n      Section 1. Title 6 of the administrative code of the city of New York is amended by adding a new section 6-150 to read as follows:\n      � 6-150 Conflicts of interest and misconduct concerning city contracts. a. As used in this section, the following terms have the following meanings:\n      City chief procurement officer. The term \"city chief procurement officer\" has the same meaning as set forth in section 6-129.\n      Contract. The term \"contract\" means any written agreement, purchase order, or instrument by which the city is committed to expend or does expend funds in return for goods, professional services, standard services, or construction, provided that such term does not include any such agreement, purchase order, or instrument awarded pursuant to an emergency procurement in accordance with section 315 of the charter, or an intergovernmental procurement in accordance with section 316 of the charter.\n      Contractor. The term \"contractor\" means a person who has been awarded a contract by an agency.\n      Covered contract. The term \"covered contract\" means a contract entered into on or after the effective date of the local law that added this section that, by itself or when aggregated with the value of all other contracts awarded to such contractor during the immediately preceding 12 months, has a value in excess of $100,000.\n      Subcontractor. The term \"subcontractor\" means a person who, pursuant to an agreement with a contractor, performs work or provides services for a contract.\n      b. 1. In consultation with the conflicts of interest board and the department of investigation, the city chief procurement officer shall establish standards and procedures that a contractor that is a party to a covered contract shall use to determine the existence of any conflict of interest relating to such covered contract for any officer or employee of such contractor or for any officer or employee of a subcontractor of such contractor.  \n      2. In consultation with the department of investigation, the city chief procurement officer shall establish standards and procedures that a contractor that is a party to a covered contract shall use to determine the existence of any conduct by any owner, officer, or employee of such contractor, or by any owner, officer, or employee of a subcontractor of such contractor, relating to such covered contract that involves corruption, criminal activity, gross mismanagement, or abuse of authority.\n      3. The city chief procurement officer shall periodically review the standards and procedures established pursuant to this subdivision and update such standards and procedures as the city chief procurement officer determines to be necessary.\n      4. Within 7 days after the establishment of, or any update to, the standards and procedures established pursuant to this subdivision, the city chief procurement officer shall submit copies of such standards and procedures to the mayor and the speaker of the council.\n      c. A covered contract shall include a provision requiring a contractor to use the standards and procedures established pursuant to subdivision b of this section to determine the existence of: \n      1. Any conflict of interest relating to such covered contract for any officer or employee of such contractor, or for any officer or employee of a subcontractor of such contractor, provided that nothing in this section shall be construed to excuse a contractor or subcontractor on a covered contract from compliance with any applicable provision of law, including any applicable provision of chapter 68 of the charter; and\n      2. Any conduct involving corruption, criminal activity, gross mismanagement, or abuse of authority by any owner, officer, or employee of such contractor, or by any owner, officer, or employee of a subcontractor of such contractor, relating to such covered contract.\n      d. A contractor who has been awarded a covered contract shall, upon execution of such covered contract, certify to the agency that awarded such contract that such contractor has used the standards and procedures established pursuant to subdivision b of this section to determine the existence of a conflict of interest or conduct involving corruption, criminal activity, gross mismanagement, or abuse of authority as required by subdivision c of this section.  \n      e. If a contractor who has been awarded a covered contract becomes aware of the existence of any such conflict of interest or conduct involving corruption, criminal activity, gross mismanagement, or abuse of authority relating to such covered contract during the term of such covered contract, such contractor shall notify the agency that awarded such contract, the mayor's office of contract services, and the department of investigation. Such contractor shall provide such notice in writing within 10 business days of such contractor becoming aware of such conflict of interest or such conduct.\n      f. No later than July 1, 2027, and no later than July 1 of each year thereafter, the city chief procurement officer shall post on the city's website and submit to the mayor and the speaker of the council a report that summarizes the number and types of conflicts of interest or conduct involving corruption, criminal activity, gross mismanagement, or abuse of authority about which a contractor has notified the mayor's office of contract services pursuant to subdivision e of this section.\n      � 2. This local law takes effect 120 days after it becomes law.\n\n\n\nSession 13\nARP\nLS #8699\n12/10/2025\n\nSession 12\nJTB\nLS #8699\n4/8/2022\n      2\n      \n      \n      1",
+  "RTF": "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang1033\\deflangfe1033{\\fonttbl{\\f0\\froman\\fprq2\\fcharset0 Times New Roman;}{\\f1\\froman\\fprq2\\fcharset0 Times;}}\n{\\colortbl ;\\red0\\green0\\blue0;\\red255\\green255\\blue255;}\n\\viewkind4\\uc1\n\\ul\\v0\\par\nBe it enacted by the Council as follows:\\ulnone\\par\n\\pard\\ltrpar\\fi720\\qj\\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qj Section 1. Title 6 of the administrative code of the city of New York is amended by adding a new section 6-150 to read as follows:\\par\n\\ul\\'a7 6-150 Conflicts of interest and misconduct concerning city contracts. a. As used in this section, the following terms have the following meanings:\\par\nCity chief procurement officer. The term \\ldblquote city chief procurement officer\\rdblquote  has the same meaning as set forth in section 6-129.\\par\nContract. The term \\ldblquote contract\\rdblquote  means any written agreement, purchase order, or instrument by which the city is committed to expend or does expend funds in return for goods, professional services, standard services, or construction, provided that such term does not include any such agreement, purchase order, or instrument awarded pursuant to an emergency procurement in accordance with section 315 of the charter, or an intergovernmental procurement in accordance with section 316 of the charter.\\par\nContractor. The term \\ldblquote contractor\\rdblquote  means a person who has been awarded a contract by an agency.\\par\nCovered contract. The term \\ldblquote covered contract\\rdblquote\\cf1\\f1  means a contract entered into on or after the effective date of the local law that added this section that, by itself or when aggregated with the value of all other contracts awarded to such contractor during the immediately preceding 12 months, has a value in excess of $100,000.\\par\nSubcontractor. The term \\ldblquote subcontractor\\rdblquote  means a person who, pursuant to an agreement with a contractor, performs work or provides services for a contract.\\par\n\\cf0\\f0 b. 1. In consultation with the conflicts of interest board and the department of investigation, the city chief procurement officer shall establish standards and procedures that a contractor that is a party to a covered contract shall use to determine the existence of any conflict of interest relating to such covered contract for any officer or employee of such contractor or for any officer or employee of a subcontractor of such contractor.  \\par\n2. In consultation with the department of investigation, the city chief procurement officer shall establish standards and procedures that a contractor that is a party to a covered contract shall use to determine the existence of any conduct by any owner, officer, or employee of such contractor, or by any owner, officer, or employee of a subcontractor of such contractor, relating to such covered contract that involves corruption, criminal activity, gross mismanagement, or abuse of authority.\\par\n3. The city chief procurement officer shall periodically review the standards and procedures established pursuant to this subdivision and update such standards and procedures as the city chief procurement officer determines to be necessary.\\par\n4. Within 7 days after the establishment of, or any update to, the standards and procedures established pursuant to this subdivision, the city chief procurement officer shall submit copies of such standards and procedures to the mayor and the speaker of the council.\\par\nc. A covered contract shall include a provision requiring a contractor to use the standards and procedures established pursuant to subdivision b of this section to determine the existence of: \\par\n1. Any conflict of interest relating to such covered contract for any officer or employee of such contractor, or for any officer or employee of a subcontractor of such contractor, provided that nothing in this section shall be construed to excuse a contractor or subcontractor on a covered contract from compliance with any applicable provision of law, including any applicable provision of chapter 68 of the charter; and\\par\n2. Any conduct involving corruption, criminal activity, gross mismanagement, or abuse of authority by any owner, officer, or employee of such contractor, or by any owner, officer, or employee of a subcontractor of such contractor, relating to such covered contract.\\par\n\\pard\\cbpat2\\ltrpar\\fi720\\sl480\\slmult1\\qj d. A contractor who has been awarded a covered contract shall, upon execution of such covered contract, certify to the agency that awarded such contract that such contractor has used the standards and procedures established pursuant to subdivision b of this section to determine the existence of a conflict of interest or conduct involving corruption, criminal activity, gross mismanagement, or abuse of authority as required by subdivision c of this section.  \\par\ne. If a contractor who has been awarded a covered contract becomes aware of the existence of any such conflict of interest or conduct involving corruption, criminal activity, gross mismanagement, or abuse of authority relating to such covered contract during the term of such covered contract, such contractor shall notify the agency that awarded such contract, the mayor\\rquote s office of contract services, and the department of investigation. Such contractor shall provide such notice in writing within 10 business days of such contractor becoming aware of such conflict of interest or such conduct.\\par\nf. No later than July 1, 2027, and no later than July 1 of each year thereafter, the city chief procurement officer shall post on the city\\rquote s website and submit to the mayor and the speaker of the council a report that summarizes the number and types of conflicts of interest or conduct involving corruption, criminal activity, gross mismanagement, or abuse of authority about which a contractor has notified the mayor\\rquote s office of contract services pursuant to subdivision e of this section.\\cf1\\ulnone\\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qj\\cf0\\'a7 2. This local law takes effect 120 days after it becomes law.\\par\n\\pard\\ltrpar\\qj\\fs18\\par\n\\ul\\par\n\\pard\\ltrpar\\sl252\\slmult1\\qj Session 13\\par\n\\ulnone ARP\\par\n\\pard\\ltrpar\\qj LS #8699\\par\n12/10/2025\\par\n\\ul\\par\nSession 12\\ulnone\\par\nJTB\\par\nLS #8699\\par\n4/8/2022\\par\n}\n",
+  "LastModified": "2025-12-19T13:11:34.123Z"
 }
