@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/12/22047_A_Committee_on_Mental_Health%2C_Disabilities_and_Addiction_25-12-17_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/12/22047_M_Committee_on_Mental_Health%2C_Disabilities_and_Addiction_25-12-17_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_251217-131743.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22047&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,17 +20,115 @@
       "GUID": "85EFF2C2-B9CA-4E1B-B47F-5463EA01EAF2",
       "Title": "Oversight - Evaluating DOHMH’s Systems for Measuring Outcomes and Equity in City-Funded Mental Health Programs.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 76814,
       "MatterFile": "T2025-4518",
       "MatterName": "Oversight - Evaluating DOHMH’s Systems for Measuring Outcomes and Equity in City-Funded Mental Health Programs.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2025-11-20T21:06:09.04Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2025-12-17T20:39:51.49Z"
+    },
+    {
+      "ID": 429228,
+      "GUID": "4B8BBE01-0EED-4B15-A9AE-52E4227C29C0",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-l-caban",
+          "FullName": "Tiffany L. Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        }
+      ],
+      "LastModified": "2025-12-17T20:39:43.83Z"
+    },
+    {
+      "ID": 429229,
+      "GUID": "F220C34E-60DC-4030-82F5-9DBAEEB3C3C3",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Public Advocate Williams",
+      "LastModified": "2025-12-17T20:39:26.27Z"
+    },
+    {
+      "ID": 429230,
+      "GUID": "55B2064A-CFC1-453A-A830-15A173057D80",
+      "Title": "Oversight - Evaluating DOHMH’s Systems for Measuring Outcomes and Equity in City-Funded Mental Health Programs.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 76814,
+      "MatterFile": "T2025-4518",
+      "MatterName": "Oversight - Evaluating DOHMH’s Systems for Measuring Outcomes and Equity in City-Funded Mental Health Programs.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2025-12-17T20:39:57.707Z"
     }
   ],
   "AgendaLastPublished": "2025-11-20T21:06:14.207Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-11-20T21:06:14.32Z"
+  "MinutesLastPublished": "2025-12-17T20:40:02.153Z",
+  "LastModified": "2025-12-17T20:40:02.23Z"
 }

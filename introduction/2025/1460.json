@@ -2,19 +2,67 @@
   "ID": 72139,
   "GUID": "1785B7B0-66BB-40CA-9132-F250AA2A1328",
   "File": "Int 1460-2025",
+  "LocalLaw": "2026/046",
   "Name": "Access to encrypted police radios.",
   "Title": "A Local Law to amend the administrative code of the city of New York, in relation to access to encrypted police radio",
   "TypeID": 2,
   "TypeName": "Introduction",
-  "StatusID": 24,
-  "StatusName": "Reported from Committee",
+  "StatusID": 35,
+  "StatusName": "Enacted",
   "BodyID": 19,
   "BodyName": "Committee on Public Safety",
   "IntroDate": "2025-11-12T00:00:00Z",
   "AgendaDate": "2025-11-12T00:00:00Z",
-  "PassedDate": "0001-01-01T00:00:00Z",
-  "EnactmentDate": "0001-01-01T00:00:00Z",
+  "PassedDate": "2026-01-17T00:00:00Z",
+  "EnactmentDate": "2026-01-17T00:00:00Z",
   "Version": "A",
+  "Sponsors": [
+    {
+      "ID": 5259,
+      "Slug": "gale-a-brewer",
+      "FullName": "Gale A. Brewer"
+    },
+    {
+      "ID": 7780,
+      "Slug": "public-advocate-jumaane-williams",
+      "FullName": "Public Advocate Jumaane Williams"
+    },
+    {
+      "ID": 7801,
+      "Slug": "christopher-marte",
+      "FullName": "Christopher Marte"
+    },
+    {
+      "ID": 7832,
+      "Slug": "kamillah-hanks",
+      "FullName": "Kamillah Hanks"
+    },
+    {
+      "ID": 7866,
+      "Slug": "yusef-salaam",
+      "FullName": "Yusef Salaam"
+    },
+    {
+      "ID": 7813,
+      "Slug": "tiffany-l-caban",
+      "FullName": "Tiffany L. Cabán"
+    },
+    {
+      "ID": 7821,
+      "Slug": "jennifer-gutierrez",
+      "FullName": "Jennifer Gutiérrez"
+    },
+    {
+      "ID": 7810,
+      "Slug": "amanda-c-farias",
+      "FullName": "Amanda C. Farías"
+    },
+    {
+      "ID": 7785,
+      "Slug": "farah-n-louis",
+      "FullName": "Farah N. Louis"
+    }
+  ],
   "History": [
     {
       "ID": 427295,
@@ -217,6 +265,518 @@
         }
       ],
       "LastModified": "2025-12-18T17:02:33.527Z"
+    },
+    {
+      "ID": 429019,
+      "Date": "2025-12-18T13:30:00Z",
+      "ActionID": 68,
+      "Action": "Approved by Council",
+      "Description": "A motion was made that this Introduction be Approved by Council approved by Roll Call.",
+      "BodyID": 1,
+      "BodyName": "City Council",
+      "EventID": 22114,
+      "AgendaSequence": 95,
+      "MinutesSequence": 107,
+      "Version": "A",
+      "AgendaNote": "Amended and Coupled on General Orders",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterStatusID": 10,
+      "Votes": [
+        {
+          "ID": 7739,
+          "Slug": "adrienne-e-adams",
+          "FullName": "Adrienne E. Adams",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 10
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 20
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 30
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "VoteID": 12,
+          "Vote": "Negative",
+          "Result": 2,
+          "Sort": 41
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 50
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 60
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 80
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 90
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 100
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 110
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-l-caban",
+          "FullName": "Tiffany L. Cabán",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 120
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 130
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 140
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 150
+        },
+        {
+          "ID": 7893,
+          "Slug": "harvey-d-epstein",
+          "FullName": "Harvey D. Epstein",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 155
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-c-farias",
+          "FullName": "Amanda C. Farías",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 160
+        },
+        {
+          "ID": 5289,
+          "Slug": "simcha-felder",
+          "FullName": "Simcha Felder",
+          "VoteID": 12,
+          "Vote": "Negative",
+          "Result": 2,
+          "Sort": 165
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-j-feliz",
+          "FullName": "Oswald J. Feliz",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 170
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 180
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 190
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 200
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 210
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 220
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 230
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 240
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 250
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 260
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 270
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "VoteID": 12,
+          "Vote": "Negative",
+          "Result": 2,
+          "Sort": 280
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 290
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "VoteID": 12,
+          "Vote": "Negative",
+          "Result": 2,
+          "Sort": 300
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 310
+        },
+        {
+          "ID": 7887,
+          "Slug": "frank-morano",
+          "FullName": "Frank Morano",
+          "VoteID": 12,
+          "Vote": "Negative",
+          "Result": 2,
+          "Sort": 315
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 320
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 330
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 340
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 350
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "VoteID": 12,
+          "Vote": "Negative",
+          "Result": 2,
+          "Sort": 361
+        },
+        {
+          "ID": 7741,
+          "Slug": "keith-powers",
+          "FullName": "Keith Powers",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 370
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 380
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 390
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 410
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 420
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 430
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 440
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 450
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 460
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "VoteID": 12,
+          "Vote": "Negative",
+          "Result": 2,
+          "Sort": 471
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 480
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 490
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 510
+        }
+      ],
+      "LastModified": "2025-12-20T02:40:20.783Z"
+    },
+    {
+      "ID": 431304,
+      "Date": "2025-12-18T18:00:00Z",
+      "ActionID": 53,
+      "Action": "Sent to Mayor by Council",
+      "Description": "This Introduction was Sent to Mayor by Council",
+      "BodyID": 1,
+      "BodyName": "City Council",
+      "Version": "A",
+      "MatterStatusID": 10,
+      "LastModified": "2025-12-24T22:15:00.24Z"
+    },
+    {
+      "ID": 431765,
+      "Date": "2026-01-17T23:59:00Z",
+      "ActionID": 58,
+      "Action": "City Charter Rule Adopted",
+      "Description": "This Introduction was City Charter Rule Adopted",
+      "BodyID": 5075,
+      "BodyName": "Administration",
+      "Version": "A",
+      "MatterStatusID": 35,
+      "LastModified": "2026-01-20T16:05:32.283Z"
+    },
+    {
+      "ID": 431853,
+      "Date": "2026-01-20T15:30:00Z",
+      "ActionID": 5084,
+      "Action": "Returned Unsigned by Mayor",
+      "Description": "This Introduction was Returned Unsigned by Mayor",
+      "BodyID": 1,
+      "BodyName": "City Council",
+      "Version": "A",
+      "MatterStatusID": 35,
+      "LastModified": "2026-01-21T17:16:39.463Z"
     }
   ],
   "Attachments": [
@@ -292,23 +852,23 @@
     },
     {
       "ID": 331218,
-      "LastModified": "2025-12-17T22:54:28.07Z",
+      "LastModified": "2025-12-22T18:47:30.613Z",
       "Name": "Proposed Int. No. 1460-A - 12/15/25",
       "Link": "https://nyc.legistar1.com/nyc/attachments/e52eb596-5847-4cd7-89fd-3d4bcadf03bd.docx",
       "Sort": 11
-    },
-    {
-      "ID": 331384,
-      "LastModified": "2025-12-17T19:05:49.533Z",
-      "Name": "Int. No. 1460-A - Fiscal Impact Statement - City Council",
-      "Link": "https://nyc.legistar1.com/nyc/attachments/105d4007-b7b8-4901-9c52-32244ee97711.docx",
-      "Sort": 12
     },
     {
       "ID": 331558,
       "LastModified": "2025-12-18T17:15:07.863Z",
       "Name": "Committee Report 12/18/25",
       "Link": "https://nyc.legistar1.com/nyc/attachments/adddaab3-0544-45e7-a596-3e2807bfcdb1.docx",
+      "Sort": 12
+    },
+    {
+      "ID": 332141,
+      "LastModified": "2025-12-30T15:58:08.207Z",
+      "Name": "Hearing Transcript 12/18/25",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/c79f8f4b-4644-4433-905f-eb53cd173e23.pdf",
       "Sort": 13
     },
     {
@@ -321,14 +881,49 @@
     {
       "ID": 331707,
       "LastModified": "2025-12-18T22:52:22.61Z",
-      "Name": "Dedember 18, 2025 - Stated Meeting Agenda",
+      "Name": "December 18, 2025 - Stated Meeting Agenda",
       "Link": "https://nyc.legistar1.com/nyc/attachments/329d209d-ba6e-4a03-bd90-fd9cfa929c07.pdf",
       "Sort": 15
+    },
+    {
+      "ID": 331923,
+      "LastModified": "2025-12-24T15:07:55.61Z",
+      "Name": "Int. No. 1460-A (FINAL)",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/a644e375-2745-46f9-add4-7971e79d1dd2.docx",
+      "Sort": 16
+    },
+    {
+      "ID": 331384,
+      "LastModified": "2025-12-17T19:05:49.533Z",
+      "Name": "Int. No. 1460-A - Fiscal Impact Statement - City Council",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/105d4007-b7b8-4901-9c52-32244ee97711.docx",
+      "Sort": 17
+    },
+    {
+      "ID": 331794,
+      "LastModified": "2025-12-19T19:10:41.75Z",
+      "Name": "Int. No. 1460-A - Fiscal Impact Statement - OMB",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/1e886a5a-9d42-4213-87d9-4950a8e30d18.pdf",
+      "Sort": 18
+    },
+    {
+      "ID": 331942,
+      "LastModified": "2025-12-26T15:28:47.41Z",
+      "Name": "Hearing Transcript - Stated Meeting 11-12-25",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/a7e92463-0030-4b01-90d3-f801e942bc85.pdf",
+      "Sort": 19
+    },
+    {
+      "ID": 332696,
+      "LastModified": "2026-01-12T17:38:13.863Z",
+      "Name": "Hearing Transcript - Stated Meeting 12-18-25",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/19dfa059-16bc-47fa-8117-cc89755dca7d.pdf",
+      "Sort": 20
     }
   ],
   "Summary": "This bill would require the New York City Police Department (NYPD) to establish and implement a radio encryption policy that ensures certain levels of media and public access to encrypted police radio communications. Under the bill, the Department would develop a policy that ensures that certain police radio communications, not including communications containing sensitive information, would be made available in real time to credentialed journalists. Additionally, the Department will be required to broadcast reports of critical incidents, over an unencrypted, citywide channel accessible in real-time to the general public.",
   "TextID": 80969,
   "Text": "Be it enacted by the Council as follows:\n      \n      \n      Section 1. Chapter 1 of title 14 of the administrative code of the city of New York is amended by adding a new section 14-199.2 to read as follows:\n      � 14-199.2 Access to police dispatch radio communications. a. Definitions. For purposes of this section, the following terms have the following meanings:\n      Encryption. The term \"encryption\" means a method of encoding information for the purpose of preventing unauthorized individuals from accessing such information.\n      Professional journalist.  The term \"professional journalist\" has the same meaning as set forth in section 79-h of the civil rights law.\n      Radio communication. The term \"radio communication\" means verbal communications that are (i) transmitted over a department radio frequency, including communications between a police dispatch center and department personnel and among department personnel, and (ii) accessible to all department personnel monitoring such frequency. Such term shall not include point-to-point communications between two devices.\n      Sensitive information.  The term \"sensitive information\" means any portion of a radio communication that, if disclosed, would: (i) identify a confidential source or disclose confidential information; or (ii) reveal any non-routine criminal investigative techniques or procedures. \n      b. The department shall adopt a written radio encryption policy governing department radio communications. Such policy shall meet the following requirements:\n      (1) Reports of critical incidents shall be broadcast over an unencrypted, citywide channel accessible in real-time to the general public.\n      (2) Encrypted radio communications transmitted over all precinct-level, borough-level, transit, and housing bureau channels, and any other department channel that does not routinely transmit sensitive information, shall be available to professional journalists who have (i) received press credentials in accordance with section 3-119.4; and (ii) paid reasonable costs, not to exceed costs incurred by the department to provide such access.\n      (3) Sensitive information shall not be made available to the public or to professional journalists.\n      c. The department shall publish a proposal of the policy required by subdivision b of this section on the department's website no more than 180 days after the effective date of the local law that added this section. Upon publication of the proposed policy, the public shall have 45 days to submit comments on such policy to the commissioner.\n      d. The commissioner shall consider public comments and include in the publication of the final policy an explanation of any changes that were made in response to comments. Such final policy shall be provided to the speaker of the council and the mayor and shall be posted on the department's website no more than 45 days after the conclusion of the public comment period established pursuant to subdivision c of this section.\n       e. The department shall implement the final policy required by subdivision d no more than 12 months after the effective date of the local law that added this section.\n      � 2. This local law takes effect immediately.\n\nJDK/JW\n12/10/25 448 pm\nLS #3765\n12.10.25\n      2\n      \n      \n      3",
   "RTF": "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang1033\\deflangfe1033{\\fonttbl{\\f0\\froman\\fprq2\\fcharset0 Times New Roman;}}\n{\\colortbl ;\\red34\\green34\\blue34;}\n\\viewkind4\\uc1\n\\ul\\v0\\par\nBe it enacted by the Council as follows:\\ulnone\\par\n\\pard\\ltrpar\\fi720\\qj\\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qj Section 1. Chapter 1 of title 14 of the administrative code of the city of New York is amended by adding a new section 14-199.2 to read as follows:\\par\n\\ul\\'a7 14-199.2 Access to police dispatch radio communications. a. Definitions. For purposes of this section, the following terms have the following meanings:\\par\nEncryption. The term \\ldblquote encryption\\rdblquote  means a method of encoding information for the purpose of preventing unauthorized individuals from accessing such information.\\par\nProfessional journalist.  The term \\ldblquote professional journalist\\rdblquote  has the same meaning as set forth in section 79-h of the civil rights law.\\par\nRadio communication. The term \\ldblquote radio communication\\rdblquote  means verbal communications that are (i) transmitted over a department radio frequency, including communications between a police dispatch center and department personnel and among department personnel, and (ii) accessible to all department personnel monitoring such frequency. Such term shall not include point-to-point communications between two devices.\\par\nSensitive information.  The term \\ldblquote sensitive information\\rdblquote  means any portion of a radio communication that, if disclosed, would: (i) identify a confidential source or disclose confidential information; or (ii) reveal any non-routine criminal investigative techniques or procedures. \\par\nb. T\\cf1 he department shall adopt a written radio encryption policy governing department radio communications. Such policy shall meet the following requirements:\\par\n(1) Reports of critical incidents shall be broadcast over an unencrypted, citywide channel accessible in real-time to the general public.\\par\n(2) Encrypted radio communications transmitted over all precinct-level, borough-level, transit, and housing bureau channels, and any other department channel that does not routinely transmit sensitive information, shall be available to professional journalists who have (i) received press credentials in accordance with section 3-119.4; and (ii) paid reasonable costs, not to exceed costs incurred by the department to provide such access.\\par\n(3) Sensitive information shall not be made available to the public or to professional journalists.\\par\nc. The department shall publish a proposal of the policy required by subdivision b of this section on the department\\rquote s website no more than 180 days after the effective date of the local law that added this section. Upon publication of the proposed policy, the public shall have 45 days to submit comments on such policy to the commissioner.\\par\nd. The commissioner shall consider public comments and include in the publication of the final policy an explanation of any changes that were made in response to comments. Such final policy shall be provided to the speaker of the council and the mayor and shall be posted on the department\\rquote s website no more than 45 days after the conclusion of the public comment period established pursuant to subdivision c of this section.\\par\n e. The department shall implement the final policy required by subdivision d no more than 12 months after the effective date of the local law that added this section.\\par\n\\pard\\ltrpar\\qj\\cf0\\ulnone\\'a7 2. This local law takes effect immediately.\\fs18\\par\nJDK/JW\\par\n12/10/25 448 pm\\par\nLS #3765\\par\n\\pard\\ltrpar 12.10.25\\par\n}\n",
-  "LastModified": "2025-12-18T22:52:22.61Z"
+  "LastModified": "2026-01-21T17:16:39.47Z"
 }

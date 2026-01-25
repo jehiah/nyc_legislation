@@ -15,6 +15,23 @@
   "PassedDate": "2025-12-18T00:00:00Z",
   "EnactmentDate": "0001-01-01T00:00:00Z",
   "Version": "A",
+  "Sponsors": [
+    {
+      "ID": 7810,
+      "Slug": "amanda-c-farias",
+      "FullName": "Amanda C. Farías"
+    },
+    {
+      "ID": 7748,
+      "Slug": "justin-l-brannan",
+      "FullName": "Justin L. Brannan"
+    },
+    {
+      "ID": 7799,
+      "Slug": "eric-dinowitz",
+      "FullName": "Eric Dinowitz"
+    }
+  ],
   "History": [
     {
       "ID": 424795,
@@ -94,14 +111,42 @@
     {
       "ID": 428892,
       "Date": "2025-12-17T10:00:00Z",
-      "ActionID": 32,
-      "Action": "Approved by Committee",
-      "Description": "A motion was made that this Resolution be Approved by Committee approved by Roll Call.",
+      "ActionID": 5001,
+      "Action": "Amendment Proposed by Comm",
+      "Description": "This Resolution was Amendment Proposed by Comm",
       "BodyID": 14,
       "BodyName": "Committee on Health",
       "EventID": 22099,
       "MinutesSequence": 3,
       "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2025-12-19T19:40:04.813Z"
+    },
+    {
+      "ID": 429581,
+      "Date": "2025-12-17T10:00:00Z",
+      "ActionID": 33,
+      "Action": "Amended by Committee",
+      "Description": "This Resolution was Amended by Committee",
+      "BodyID": 14,
+      "BodyName": "Committee on Health",
+      "EventID": 22099,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2025-12-19T19:40:10.547Z"
+    },
+    {
+      "ID": 429582,
+      "Date": "2025-12-17T10:00:00Z",
+      "ActionID": 32,
+      "Action": "Approved by Committee",
+      "Description": "This Resolution was Approved by Committee",
+      "BodyID": 14,
+      "BodyName": "Committee on Health",
+      "EventID": 22099,
+      "MinutesSequence": 5,
+      "Version": "A",
       "PassedFlag": 1,
       "PassedFlagName": "Pass",
       "MatterStatusID": 24,
@@ -202,25 +247,26 @@
           "Sort": 100
         }
       ],
-      "LastModified": "2025-12-17T15:42:24.773Z"
+      "LastModified": "2025-12-19T19:40:54.223Z"
     },
     {
       "ID": 428996,
       "Date": "2025-12-18T13:30:00Z",
-      "ActionID": 58,
-      "Action": "City Charter Rule Adopted",
+      "ActionID": 5032,
+      "Action": "Approved, by Council",
       "Description": "A motion was made that this Resolution be City Charter Rule Adopted approved by voice vote.",
       "BodyID": 1,
       "BodyName": "City Council",
       "EventID": 22114,
       "AgendaSequence": 233,
-      "MinutesSequence": 254,
+      "MinutesSequence": 255,
       "Version": "A",
       "AgendaNote": "Amended and Adopted by the Committee on Health",
+      "MinutesNote": "Pursuant to Rule 8.50 of the Council, the Majority Leader and Acting President Pro Tempore (Council Member Farías) called for a voice vote.  Hearing no objections, the Majority Leader and Acting President Pro Tempore (Council Member Farías) declared the Resolution to be adopted.\r\n\r\nAdopted unanimously by the Council by voice-vote.",
       "PassedFlag": 1,
       "PassedFlagName": "Pass",
       "MatterStatusID": 32,
-      "LastModified": "2025-12-19T13:21:10.237Z"
+      "LastModified": "2025-12-20T02:05:13.54Z"
     }
   ],
   "Attachments": [
@@ -253,37 +299,65 @@
       "Sort": 4
     },
     {
+      "ID": 332019,
+      "LastModified": "2025-12-26T16:13:25.597Z",
+      "Name": "Hearing Testimony 12/12/25",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/71ebe14e-84be-42f3-866f-ec1a7b1441d8.pdf",
+      "Sort": 5
+    },
+    {
+      "ID": 332584,
+      "LastModified": "2026-01-12T15:01:06.807Z",
+      "Name": "Hearing Transcript 12/12/25",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/9a78a382-9f8a-48c0-90e4-29b77ba5cb41.pdf",
+      "Sort": 6
+    },
+    {
       "ID": 331039,
       "LastModified": "2025-12-18T19:57:26.837Z",
       "Name": "Proposed Res. No. 1061-A - 12/12/25",
       "Link": "https://nyc.legistar1.com/nyc/attachments/3f0f8e52-cecb-4c4d-8f13-5baed59b36b7.docx",
-      "Sort": 5
+      "Sort": 7
     },
     {
       "ID": 331086,
       "LastModified": "2025-12-15T17:52:49.79Z",
       "Name": "Committee Report 12/17/25",
       "Link": "https://nyc.legistar1.com/nyc/attachments/a3502adf-9844-4c48-839b-e777c2f12bcb.docx",
-      "Sort": 6
+      "Sort": 8
+    },
+    {
+      "ID": 332040,
+      "LastModified": "2025-12-29T15:40:50.703Z",
+      "Name": "Hearing Transcript 12/17/25",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/3da12d53-51a4-47e3-aa82-c9969d866b89.pdf",
+      "Sort": 9
     },
     {
       "ID": 331408,
       "LastModified": "2025-12-17T20:08:24.62Z",
       "Name": "Committee Report - Stated Meeting",
       "Link": "https://nyc.legistar1.com/nyc/attachments/380ea451-1d62-44b0-81a5-d5e01026e504.docx",
-      "Sort": 7
+      "Sort": 10
     },
     {
       "ID": 331746,
       "LastModified": "2025-12-18T22:52:30.343Z",
       "Name": "Dedember 18, 2025 - Stated Meeting Agenda",
       "Link": "https://nyc.legistar1.com/nyc/attachments/037d81c2-ea58-4d50-be5f-0fc83d3f9623.pdf",
-      "Sort": 8
+      "Sort": 11
+    },
+    {
+      "ID": 332730,
+      "LastModified": "2026-01-12T17:38:22.647Z",
+      "Name": "Hearing Transcript - Stated Meeting 12-18-25",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/76fc57c3-b7b1-4d91-8635-53aa021eba99.pdf",
+      "Sort": 12
     }
   ],
   "Summary": "",
   "TextID": 80940,
   "Text": "Whereas, Studies have found that female patients and people of color are more likely to have their symptoms dismissed by medical providers and are less likely to be offered pain medication; and\n\tWhereas, A 2023 study showed that when researchers scanned TikTok for the top 100 videos with the hashtag #IUD they found that of the videos presenting a patient's experience when receiving an intrauterine device (IUD), almost all - 97 percent - highlighted the pain of the procedure and other negative side effects; and\n      Whereas, According to the Centers for Disease Control and Prevention (CDC), women are increasingly turning to the IUD as a form of contraception, with roughly 20 percent of women getting an IUD between 2015 and 2019, up drastically from the 8 percent who used an IUD between 2006 and 2010; and \n\tWhereas, A 2023 survey found that only 4 percent of trained physicians in the United States offered an injection of a local anesthetic for IUD insertions, which has been found to be effective for pain relief, and almost 80 percent of trained doctors offered over-the-counter painkillers, which have been shown to be less effective; and  \n\tWhereas, Because every patient experiences pain differently during gynecologic procedures, discussing the options for pain management is paramount in building patient-clinician trust; and\n      Whereas, Building patient-clinician trust has been found to be crucial for delivering effective reproductive healthcare and ultimately providing the best care for patients in the long run; and \n      Whereas, In May 2025, the American College of Obstetricians and Gynecologists (ACOG) released new recommendations urging clinicians to discuss and offer a full range of pain management options during in-office gynecologic procedures-including lidocaine spray, numbing creams, paracervical blocks, nitrous oxide, and sedation; and\n      Whereas, The CDC also updated its Selected Practice Recommendations in 2024, advising that providers develop individualized, patient-centered pain relief plans, including the use of local anesthesia like lidocaine injections or topical anesthetics during IUD insertions; and\n      Whereas, Currently, there are no New York State laws that mandate providers to offer or disclose pain management options for in-office gynecologic procedures; and\n      Whereas, With the New York Metropolitan Area having the highest employment level for Obstetricians and Gynecologists according to 2023 data from the Bureau of Labor Statistics, New York City is a national leader in providing access to reproductive health services; and   \n      Whereas, The 2023 Local Reproductive Freedom Index found that New York City is one of the top three cities in the United States in protecting and advancing reproductive rights across a range of categories including funding and coverage for reproductive healthcare and the advancement of inclusive policies; and \n      Whereas, New York must continue to lead on reproductive healthcare by ensuring it is delivered in a clinically sound, humane, and patient-centered manner; now, therefore, be it\n      Resolved, That the Council of the City of New York calls on the New York State Legislature to pass, and the Governor to sign, legislation requiring pain management options be offered to patients undergoing in-office gynecologic procedures.   \nKS/JN\nLS 20136\n12/12/2025 12pm",
   "RTF": "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang1033\\deflangfe1033{\\fonttbl{\\f0\\froman\\fprq2\\fcharset0 Times New Roman;}}\n{\\colortbl ;\\red29\\green28\\blue29;\\red255\\green255\\blue255;}\n\\viewkind4\\uc1\n\\v0\\par\nBy Council Members Far\\'edas, Brannan and Dinowitz\\par\n\\pard\\ltrpar\\sl276\\slmult1\\cf0\\highlight0\\fs22\\par\n\\pard\\ltrpar\\sl480\\slmult1\\qj\\tab\\fs24 Whereas, Studies have found that female patients and people of color are more likely to have their symptoms dismissed by medical providers and are less likely to be offered pain medication; and\\par\n\\tab Whereas, A 2023 study showed that when researchers scanned TikTok for the top 100 videos with the hashtag #IUD they found that of the videos presenting a patient\\rquote s experience when receiving an intrauterine device (IUD), almost all - 97 percent - highlighted the pain of the procedure and other negative side effects; and\\fs22\\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qj\\fs24 Whereas, According to the Centers for Disease Control and Prevention (CDC), women are increasingly turning to the IUD as a form of contraception, with roughly 20 percent of women getting an IUD between 2015 and 2019, up drastically from the 8 percent who used an IUD between 2006 and 2010; and \\par\n\\pard\\ltrpar\\sl480\\slmult1\\qj\\tab Whereas, A 2023 survey found that only 4 percent of trained physicians in the United States offered an injection of a local anesthetic for IUD insertions, which has been found to be effective for pain relief, and almost 80 percent of trained doctors offered over-the-counter painkillers, which have been shown to be less effective; and  \\par\n\\tab Whereas, Because every patient experiences pain differently during gynecologic procedures, discussing the options for pain management is paramount in building patient-clinician trust; and\\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qj Whereas, Building patient-clinician trust has been found to be crucial for delivering effective reproductive healthcare and ultimately providing the best care for patients in the long run; and \\par\nWhereas, In May 2025, the American College of Obstetricians and Gynecologists (ACOG) released new recommendations urging clinicians to discuss and offer a full range of pain management options during in-office gynecologic procedures-including lidocaine spray, numbing creams, paracervical blocks, nitrous oxide, and sedation; and\\par\nWhereas, The CDC also updated its Selected Practice Recommendations in 2024, advising that providers develop individualized, patient-centered pain relief plans, including the use of local anesthesia like lidocaine injections or topical anesthetics during IUD insertions; and\\par\nWhereas, Currently, there are no New York State laws that mandate providers to offer or disclose pain management options for in-office gynecologic procedures; and\\par\nWhereas, With the New York Metropolitan Area having the highest employment level for Obstetricians and Gynecologists according to 2023 data from the Bureau of Labor Statistics, New York City is a national leader in providing access to reproductive health services; and   \\par\nWhereas, The 2023 Local Reproductive Freedom Index found that New York City is one of the top three cities in the United States in protecting and advancing reproductive rights across a range of categories including funding and coverage for reproductive healthcare and the advancement of inclusive policies; and \\par\nWhereas, New York must continue to lead on reproductive healthcare by ensuring it is delivered in a clinically sound, humane, and patient-centered manner; now, therefore, be it\\par\nResolved, That the Council of the City of New York calls on the New York State Legislature to pass, and the Governor to sign, legislation requiring pain management \\cf1\\highlight2 options be offered to patients undergoing in-office gynecologic procedures.  \\cf0\\highlight0  \\par\n\\pard\\cbpat2\\ltrpar\\qj\\fs18 KS/JN\\par\nLS 20136\\par\n12/12/2025 12pm\\par\n\\pard\\ltrpar\\sl480\\slmult1\\fs24\\par\n\\par\n\\tab\\par\n\\tab\\par\n}\n",
-  "LastModified": "2025-12-19T13:21:09.94Z"
+  "LastModified": "2026-01-12T17:38:22.647Z"
 }

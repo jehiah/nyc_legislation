@@ -2,19 +2,77 @@
   "ID": 76232,
   "GUID": "284C94D1-ABF8-4FEA-BE0D-87DC4940FBC5",
   "File": "Int 1359-2025",
+  "LocalLaw": "2026/037",
   "Name": "Requiring the department of education to report on manifestation determination reviews.",
   "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of education to report on manifestation determination reviews",
   "TypeID": 2,
   "TypeName": "Introduction",
-  "StatusID": 24,
-  "StatusName": "Reported from Committee",
+  "StatusID": 35,
+  "StatusName": "Enacted",
   "BodyID": 9,
   "BodyName": "Committee on Education",
   "IntroDate": "2025-08-14T00:00:00Z",
   "AgendaDate": "2025-08-14T00:00:00Z",
-  "PassedDate": "0001-01-01T00:00:00Z",
-  "EnactmentDate": "0001-01-01T00:00:00Z",
+  "PassedDate": "2026-01-17T00:00:00Z",
+  "EnactmentDate": "2026-01-17T00:00:00Z",
   "Version": "A",
+  "Sponsors": [
+    {
+      "ID": 7827,
+      "Slug": "rita-c-joseph",
+      "FullName": "Rita C. Joseph"
+    },
+    {
+      "ID": 7785,
+      "Slug": "farah-n-louis",
+      "FullName": "Farah N. Louis"
+    },
+    {
+      "ID": 7801,
+      "Slug": "christopher-marte",
+      "FullName": "Christopher Marte"
+    },
+    {
+      "ID": 7867,
+      "Slug": "susan-zhuang",
+      "FullName": "Susan Zhuang"
+    },
+    {
+      "ID": 7798,
+      "Slug": "oswald-j-feliz",
+      "FullName": "Oswald J. Feliz"
+    },
+    {
+      "ID": 7864,
+      "Slug": "chris-banks",
+      "FullName": "Chris Banks"
+    },
+    {
+      "ID": 7825,
+      "Slug": "alexa-aviles",
+      "FullName": "Alexa Avilés"
+    },
+    {
+      "ID": 7742,
+      "Slug": "diana-i-ayala",
+      "FullName": "Diana I. Ayala"
+    },
+    {
+      "ID": 7821,
+      "Slug": "jennifer-gutierrez",
+      "FullName": "Jennifer Gutiérrez"
+    },
+    {
+      "ID": 7813,
+      "Slug": "tiffany-l-caban",
+      "FullName": "Tiffany L. Cabán"
+    },
+    {
+      "ID": 7799,
+      "Slug": "eric-dinowitz",
+      "FullName": "Eric Dinowitz"
+    }
+  ],
   "History": [
     {
       "ID": 423402,
@@ -89,7 +147,7 @@
       "AgendaNote": "Proposed Int. No. 1359-A",
       "MinutesNote": "Proposed Int. No. 1359-A",
       "MatterStatusID": 3,
-      "LastModified": "2025-12-18T16:16:53.417Z"
+      "LastModified": "2025-12-19T19:54:15.373Z"
     },
     {
       "ID": 429288,
@@ -103,7 +161,7 @@
       "MinutesSequence": 12,
       "Version": "*",
       "MatterStatusID": 3,
-      "LastModified": "2025-12-18T16:16:45.41Z"
+      "LastModified": "2025-12-19T19:54:15.373Z"
     },
     {
       "ID": 429289,
@@ -117,7 +175,7 @@
       "MinutesSequence": 13,
       "Version": "*",
       "MatterStatusID": 3,
-      "LastModified": "2025-12-18T16:16:40.487Z"
+      "LastModified": "2025-12-19T19:54:15.373Z"
     },
     {
       "ID": 429290,
@@ -246,7 +304,519 @@
           "Sort": 130
         }
       ],
-      "LastModified": "2025-12-18T16:16:34.247Z"
+      "LastModified": "2025-12-19T19:54:15.373Z"
+    },
+    {
+      "ID": 428960,
+      "Date": "2025-12-18T13:30:00Z",
+      "ActionID": 68,
+      "Action": "Approved by Council",
+      "Description": "A motion was made that this Introduction be Approved by Council approved by Roll Call.",
+      "BodyID": 1,
+      "BodyName": "City Council",
+      "EventID": 22114,
+      "AgendaSequence": 30,
+      "MinutesSequence": 32,
+      "Version": "A",
+      "AgendaNote": "Amended and Coupled on General Orders",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterStatusID": 10,
+      "Votes": [
+        {
+          "ID": 7739,
+          "Slug": "adrienne-e-adams",
+          "FullName": "Adrienne E. Adams",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 10
+        },
+        {
+          "ID": 7742,
+          "Slug": "diana-i-ayala",
+          "FullName": "Diana I. Ayala",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 20
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 30
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 41
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 50
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 60
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 80
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 90
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 100
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 110
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-l-caban",
+          "FullName": "Tiffany L. Cabán",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 120
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 130
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 140
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 150
+        },
+        {
+          "ID": 7893,
+          "Slug": "harvey-d-epstein",
+          "FullName": "Harvey D. Epstein",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 155
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-c-farias",
+          "FullName": "Amanda C. Farías",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 160
+        },
+        {
+          "ID": 5289,
+          "Slug": "simcha-felder",
+          "FullName": "Simcha Felder",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 165
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-j-feliz",
+          "FullName": "Oswald J. Feliz",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 170
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 180
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 190
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 200
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 210
+        },
+        {
+          "ID": 7746,
+          "Slug": "robert-f-holden",
+          "FullName": "Robert F. Holden",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 220
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 230
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 240
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 250
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 260
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 270
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 280
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 290
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "VoteID": 12,
+          "Vote": "Negative",
+          "Result": 2,
+          "Sort": 300
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 310
+        },
+        {
+          "ID": 7887,
+          "Slug": "frank-morano",
+          "FullName": "Frank Morano",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 315
+        },
+        {
+          "ID": 7745,
+          "Slug": "francisco-p-moya",
+          "FullName": "Francisco P. Moya",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 320
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 330
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 340
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 350
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 361
+        },
+        {
+          "ID": 7741,
+          "Slug": "keith-powers",
+          "FullName": "Keith Powers",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 370
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 380
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 390
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 410
+        },
+        {
+          "ID": 7714,
+          "Slug": "rafael-salamanca-jr",
+          "FullName": "Rafael Salamanca, Jr.",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 420
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 430
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 440
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 450
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 460
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 471
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 480
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 490
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 510
+        }
+      ],
+      "LastModified": "2025-12-20T01:55:32.73Z"
+    },
+    {
+      "ID": 431288,
+      "Date": "2025-12-18T18:00:00Z",
+      "ActionID": 53,
+      "Action": "Sent to Mayor by Council",
+      "Description": "This Introduction was Sent to Mayor by Council",
+      "BodyID": 1,
+      "BodyName": "City Council",
+      "Version": "A",
+      "MatterStatusID": 10,
+      "LastModified": "2025-12-24T22:07:15.543Z"
+    },
+    {
+      "ID": 431756,
+      "Date": "2026-01-17T23:59:00Z",
+      "ActionID": 58,
+      "Action": "City Charter Rule Adopted",
+      "Description": "This Introduction was City Charter Rule Adopted",
+      "BodyID": 5075,
+      "BodyName": "Administration",
+      "Version": "A",
+      "MatterStatusID": 35,
+      "LastModified": "2026-01-20T15:59:46.277Z"
+    },
+    {
+      "ID": 431844,
+      "Date": "2026-01-20T15:30:00Z",
+      "ActionID": 5084,
+      "Action": "Returned Unsigned by Mayor",
+      "Description": "This Introduction was Returned Unsigned by Mayor",
+      "BodyID": 1,
+      "BodyName": "City Council",
+      "Version": "A",
+      "MatterStatusID": 35,
+      "LastModified": "2026-01-21T17:12:56.89Z"
     }
   ],
   "Attachments": [
@@ -290,75 +860,103 @@
       "LastModified": "2025-11-07T16:24:58.363Z",
       "Name": "Fiscal Impact Statement - City Council",
       "Link": "https://nyc.legistar1.com/nyc/attachments/0afe136d-d4c8-4543-bae7-10f61653d57a.docx",
-      "Sort": 7
+      "Sort": 6
     },
     {
       "ID": 328063,
       "LastModified": "2025-11-07T16:24:58.547Z",
       "Name": "Fiscal Impact Statement - OMB",
       "Link": "https://nyc.legistar1.com/nyc/attachments/d27d0778-d518-4100-bac9-136ea3c5cffc.pdf",
-      "Sort": 8
+      "Sort": 7
     },
     {
       "ID": 328814,
       "LastModified": "2025-11-07T16:24:58.543Z",
       "Name": "Committee Report 10/30/25",
       "Link": "https://nyc.legistar1.com/nyc/attachments/5ac1e07f-58f4-4d9f-bf0e-d82d3561e49c.docx",
-      "Sort": 9
+      "Sort": 8
     },
     {
       "ID": 329016,
       "LastModified": "2025-11-11T16:28:35.97Z",
       "Name": "Hearing Testimony 10/30/25",
       "Link": "https://nyc.legistar1.com/nyc/attachments/ed3bedfa-2bca-42a9-8f20-8c4db3e2fb58.pdf",
-      "Sort": 10
+      "Sort": 9
     },
     {
       "ID": 329826,
       "LastModified": "2025-11-25T14:26:12.47Z",
       "Name": "Hearing Transcript 10/30/25",
       "Link": "https://nyc.legistar1.com/nyc/attachments/88723e8d-1ba5-4fa7-92f1-7aec9c1f2092.pdf",
-      "Sort": 11
+      "Sort": 10
     },
     {
       "ID": 330989,
-      "LastModified": "2025-12-11T20:41:39.167Z",
+      "LastModified": "2025-12-19T16:50:31.767Z",
       "Name": "Proposed Int. No. 1359-A - 12/11/25",
       "Link": "https://nyc.legistar1.com/nyc/attachments/525b6c3d-3e45-4a19-9d4e-87e830fe1ef8.docx",
-      "Sort": 12
-    },
-    {
-      "ID": 331368,
-      "LastModified": "2025-12-17T17:05:22.873Z",
-      "Name": "Int. No. 1359-A - Fiscal Impact Statement - City Council",
-      "Link": "https://nyc.legistar1.com/nyc/attachments/3a2dedd2-a15e-4ed9-a147-c5124aeec9fc.docx",
-      "Sort": 13
-    },
-    {
-      "ID": 331369,
-      "LastModified": "2025-12-17T17:05:23.023Z",
-      "Name": "Int. No. 1359-A - Fiscal Impact Statement - OMB",
-      "Link": "https://nyc.legistar1.com/nyc/attachments/dc93323e-5842-45f8-8392-a98e552bf517.pdf",
-      "Sort": 14
+      "Sort": 11
     },
     {
       "ID": 331440,
       "LastModified": "2025-12-17T22:16:27.24Z",
       "Name": "Committee Report 12/18/25",
       "Link": "https://nyc.legistar1.com/nyc/attachments/394c96db-cfbf-4a3e-8284-33680628d85c.docx",
-      "Sort": 15
+      "Sort": 12
+    },
+    {
+      "ID": 332105,
+      "LastModified": "2025-12-29T19:22:07.457Z",
+      "Name": "Hearing Transcript 12/18/25",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/bfb10e57-d848-46f6-91c1-cf528bec995f.pdf",
+      "Sort": 13
     },
     {
       "ID": 331643,
       "LastModified": "2025-12-18T22:52:09.597Z",
       "Name": "December 18, 2025 - Stated Meeting Agenda",
       "Link": "https://nyc.legistar1.com/nyc/attachments/19ec6e0c-8bda-4107-83e3-dac63a70b03f.pdf",
+      "Sort": 14
+    },
+    {
+      "ID": 331788,
+      "LastModified": "2025-12-19T18:38:31.89Z",
+      "Name": "Committee Report - Stated Meeting",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/e626c3e1-4901-4b53-8e3e-951696ee2aeb.docx",
+      "Sort": 15
+    },
+    {
+      "ID": 331833,
+      "LastModified": "2025-12-22T16:52:54.11Z",
+      "Name": "Int. No. 1359-A (FINAL)",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/3381c1ac-487e-4b19-bae6-c25ed378e2aa.docx",
       "Sort": 16
+    },
+    {
+      "ID": 331368,
+      "LastModified": "2025-12-17T17:05:22.873Z",
+      "Name": "Int. No. 1359-A - Fiscal Impact Statement - City Council",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/3a2dedd2-a15e-4ed9-a147-c5124aeec9fc.docx",
+      "Sort": 17
+    },
+    {
+      "ID": 331369,
+      "LastModified": "2025-12-17T17:05:23.023Z",
+      "Name": "Int. No. 1359-A - Fiscal Impact Statement - OMB",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/dc93323e-5842-45f8-8392-a98e552bf517.pdf",
+      "Sort": 18
+    },
+    {
+      "ID": 332632,
+      "LastModified": "2026-01-12T17:37:59.09Z",
+      "Name": "Hearing Transcript - Stated Meeting 12-18-25",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/5b590419-ac52-43f1-923b-5579ed9d79d6.pdf",
+      "Sort": 19
     }
   ],
   "Summary": "This bill would require the Department of Education (DOE) to report annually on manifestation determination reviews conducted for students with disabilities. The DOE would be required to report the number of students referred for a manifestation determination review and the number of reviews conducted each school year. The DOE would also be required to report data related to parent notification and attendance at reviews, requests for translation services, and information on the timing of key steps in the review process. The DOE would also be required to report on various other metrics relating to the manifestation determination reviews including the results of those reviews, and how many students had more than one review in the same school year. The report would also include a summary of system-wide practices used to inform parents and guardians about the manifestation determination review process.",
   "TextID": 80919,
   "Text": "Be it enacted by the Council as follows:\n      \n      \n      Section 1. Subdivision a of section 21-955 of the administrative code of the city of New York, as amended by local law number 147 for the year 2023, is amended by amending the definitions of \"Committee on preschool special education\"; \"Committee on special education\"; \"Home language\"; \"Individualized education program\"; \"Initial evaluation\"; \"Integrated special class program\"; \"Preschool student with a disability\"; \"Reevaluation\"; \"Related services\"; \"Service recommendation\"; \"Special class\"; \"Special education itinerant services\"; \"Student\"; \"Student in foster care\"; \"Student in temporary housing\"; \"Student with a disability\"; and \"Three-year reevaluation\"; and by adding new definitions of  \"504 plan\";  \"deemed to have knowledge\"; \"manifestation determination review\"; \"manifestation team\"; \"procedural safeguards notice\" and  \"referral to a committee on special education\" in numeric and alphabetical order to read as follows:\n      504 plan. The term \"504 plan\" means a plan developed pursuant to section 504 of the rehabilitation act of 1973, codified at section 794 of title 29 of the United States code, and any regulations promulgated thereunder including, but not limited to, the requirements set forth in part 104 of title 34 of the code of federal regulations, or a successor provision.\n      Committee on preschool special education. The term \"committee on preschool special education\" has the same meaning as set forth in section 200.1 of title 8 of the New York codes, rules and regulations, or a successor provision.\n      Committee on special education. The term \"committee on special education\" has the same meaning as set forth in section 200.1 of title 8 of the New York codes, rules and regulations, or a successor provision.\n      Deemed to have knowledge. The term \"deemed to have knowledge\" has the same meaning as set forth in paragraph (5)(B) of subsection (k) of section 1415 of title 20 of the United States code, or a successor provision, and any regulations promulgated thereunder.\n      Home language. The term \"home language\" means the language most frequently used in the student's home, as indicated by the response provided by the parent or person in parental relation on the home language questionnaire as that term is defined in section 154-2.2 of title 8 of the New York codes, rules and regulations, or a successor provision, or as otherwise indicated by the parent or person in parental relation at a later time.\n      Individualized education program. The term \"individualized education program\" or \"IEP\" has the same meaning as set forth in section 200.1 of title 8 of the New York codes, rules and regulations, or a successor provision.\n      Initial evaluation. The term \"initial evaluation\" means an evaluation to determine if a student is a student with a disability, conducted pursuant to sections 4401-a, 4402 and 4410 of the education law and section 200.4 of title 8 of the New York codes, rules and regulations, or a successor provision.\n      Integrated special class program. The term \"integrated special class program\" has the same meaning as set forth in section 200.9 of title 8 of the New York codes, rules and regulations, or a successor provision.\n      Manifestation determination review. The term \"manifestation determination review\" means a review to determine whether a student's behavior that is subject to disciplinary action is a manifestation of the student's disability, as required pursuant to subparagraph (E) of paragraph (1) of subsection (a) of section 1415 of the United States code and section 201.4 of title 8 of the New York codes, rules and regulations, regarding manifestation determinations, or a successor provision. \n      Manifestation team. The term \"manifestation team\" has the same meaning as set forth in subdivision (b) of section 201.4 of title 8 of the New York codes, rules and regulations, or a successor provision.\n      Preschool student with a disability. The term \"preschool student with a disability\" has the same meaning as set forth in section 200.1 of title 8 of the New York codes, rules and regulations, or a successor provision.\n      Procedural safeguards notice. The term \"procedural safeguards notice\" means the notice required pursuant to subsection (d) of section 1415 of title 20 of the United States code and subsection (f) of section 200.5 of title 8 of the New York codes, rules and regulations, or a successor provision.\n      Reevaluation. The term \"reevaluation\" means an evaluation of a student with a disability conducted pursuant to section 4402 of the education law and section 200.4 of title 8 of the New York codes, rules and regulations, or a successor provision, provided that such term shall not include a three-year reevaluation.\n      Referral to a committee on special education. The term \"referral to a committee on special education\" means the act of notifying a committee on special education that a student requires a manifestation determination review, pursuant to chancellor's regulation A-443, regarding student discipline procedures, or a successor provision, or applicable state or federal law.\n      Related services. The term \"related services\" has the same meaning as set forth in section 200.1 of title 8 of the New York codes, rules and regulations, or a successor provision.\n      Service recommendation. The term \"service recommendation\" means the type of services outlined in an individualized education program, including consultant teacher services, resource room programs, integrated co-teaching services, and special class as such terms are defined in section 200.1 of title 8 of the New York codes, rules and regulations, or a successor provision.\n      Special class. The term \"special class\" has the same meaning as set forth in section 200.1 of title 8 of the New York codes, rules and regulations, or a successor provision.\n      Special education itinerant services. The term \"special education itinerant services\" has the same meaning as set forth in paragraph (k) of subdivision 1 of section 4410 of the education law, or a successor provision.\n      Student. The term \"student\" means any pupil under the age of twenty-one as of September first of the academic period being reported, who does not have a high school diploma and who is enrolled in a school as school is defined in this subdivision, not including a pre-kindergarten student or a preschool child as preschool child is defined in section 4410 of the education law, or a successor provision.\n      Student in foster care. The term \"student in foster care\" means a student placed in 24-hour substitute care away from their birth or adoptive parents and for whom the child welfare agency has placement and care responsibility, as set forth in chancellor's regulation A-101, or a successor provision, at any point and for any length of time during the school year.\n      Student in temporary housing. The term \"student in temporary housing\" means a student who has been identified by the department as a \"homeless child\" as such term is defined in section 100.2 of title 8 of the New York codes, rules and regulations, or a successor provision.\n      Student with a disability. The term \"student with a disability\" has the same meaning as set forth in section 4401 of the education law, or a successor provision.\n      Three-year reevaluation. The term \"three-year reevaluation\" means a reevaluation that occurs at least once every three years unless otherwise agreed as set forth in section 200.4 of title 8 of the New York codes, rules and regulations, or a successor provision.\n      � 2. Section 21-955 of the administrative code of the city of New York, as amended by local law number 147 for the year 2023, is amended by redesignating subdivisions g and h as subdivisions j and k, respectively, and by adding new subdivisions g, h, and i to read as follows:\n      g. No later than November 1, 2027, and annually thereafter, the chancellor shall submit to the speaker of the council and post conspicuously on the department's website a report regarding manifestation determination reviews conducted during the preceding academic year. Such report shall include the following information citywide; by borough; by community school district, district 75 or district 79; and by school:\n\t1. The number of students referred to a committee on special education, manifestation team, or school for a manifestation determination review;\n\t2. The number of manifestation determination reviews conducted by a committee on special education or a manifestation team, in total and disaggregated by:\n      (a) The number and percentage of such manifestation determination reviews in which the parent or person in parental relation reported not receiving notice of the manifestation determination review or for which no documentation of such notice exists;\n      (b) The number and percentage of such manifestation determination reviews for which the notice of the manifestation determination review was generated for the parent or person in parental relation at least 5 days in advance of such review, and the number and percentage in which such notice was generated for the parent or person in parental relation fewer than 5 days in advance;\n      (c) The number and percentage of such manifestation determination reviews in which a parent, person in parental relation or legal advocate did not attend the manifestation determination review;\n      (d) The number and percentage of such manifestation determination reviews in which interpretation services were requested by a parent or person in parental relation and the number and percentage of instances in which such services were provided during the manifestation determination review;\n      (e) The number and percentage of such manifestation determination reviews for which the procedural safeguard notice was provided on the same day as the date of referral to a committee on special education, manifestation team, or school; and the number and percentage for which such notice was not provided on the same day;\n      (f) The number and percentage of such manifestation determination reviews for which the procedural safeguard notice was provided on the same day as the date the parent was notified of the need to conduct a manifestation determination review, and the number and percentage for which such notice was not provided on the same day;\n      (g) The number and percentage of such manifestation determination reviews conducted within 10 school days of the date of referral to a committee on special education, and the number and percentage conducted more than 10 school days after the date of referral;\n      (h) The number and percentage of such manifestation determination reviews resulting in a finding that the student's behavior was a manifestation of the student's disability; and\n\t(i) The number and percentage of such manifestation determination reviews resulting in a finding that the student's behavior was not a manifestation of the student's disability;\n      3. The number of students who received more than one manifestation determination review during the same academic year; \n      4. The number of students without an IEP but for whom the department is deemed to have knowledge that the student is a student with a disability; and  \n      5. The number of students with 504 plans;\n\th. The information required to be reported pursuant to subdivision g of this section shall additionally be disaggregated by:\n      1. Grade level;\n      2. Race or ethnicity; \n      3. Gender;\n      4. English language learner status; \n      5. Eligibility for the free and reduced price lunch program;\n      6. Status as a student in temporary housing; \n      7. Status as a student in foster care; \n      8. Status as a student with a 504 plan; \n      9. Status as a student without an IEP that the department is deemed to have knowledge of as a student with a disability; \n      10. Disability classification; and\n      11. Infraction code as listed under the New York city discipline code for the given reporting year.\n      i. The report required pursuant to subdivision g of this section shall also include a summary of system-wide practices used by the department to inform parents and persons in parental relation about the manifestation determination review process.\n      3. This local law takes effect immediately.\n\nNJF/AC\nLS # 19864\n12/10/2025 11:26pm\n\n\n      1\n      \n      \n      2",
   "RTF": "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang1033\\deflangfe1033{\\fonttbl{\\f0\\froman\\fprq2\\fcharset0 Times New Roman;}}\n{\\colortbl ;\\red255\\green0\\blue0;}\n\\viewkind4\\uc1\n\\ul\\v0\\par\nBe it enacted by the Council as follows:\\ulnone\\par\n\\pard\\ltrpar\\fi720\\qj\\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qj Section 1. Subdivision a of section 21-955 of the administrative code of the city of New York, as amended by local law number 147 for the year 2023, is amended by amending the definitions of \\ldblquote Committee on preschool special education\\rdblquote ; \\ldblquote Committee on special education\\rdblquote ; \\ldblquote Home language\\rdblquote ; \\ldblquote Individualized education program\\rdblquote ; \\ldblquote Initial evaluation\\rdblquote ; \\ldblquote Integrated special class program\\rdblquote ; \\ldblquote Preschool student with a disability\\rdblquote ; \\ldblquote Reevaluation\\rdblquote ; \\ldblquote Related services\\rdblquote ; \\ldblquote Service recommendation\\rdblquote ; \\ldblquote Special class\\rdblquote ; \\ldblquote Special education itinerant services\\rdblquote ; \\ldblquote Student\\rdblquote ; \\ldblquote Student in foster care\\rdblquote ; \\ldblquote Student in temporary housing\\rdblquote ; \\ldblquote Student with a disability\\rdblquote ; and \\ldblquote Three-year reevaluation\\rdblquote ; and by\\b  \\b0 adding new definitions of  \\ldblquote 504 plan\\rdblquote ;  \\ldblquote deemed to have knowledge\\rdblquote ; \\ldblquote manifestation determination review\\rdblquote ; \\ldblquote manifestation team\\rdblquote ; \\ldblquote procedural safeguards notice\\rdblquote  and  \\ldblquote referral to a committee on special education\\rdblquote  in numeric and alphabetical order to read as follows:\\par\n\\ul 504 plan. The term \\ldblquote 504 plan\\rdblquote  means a plan developed pursuant to section 504 of the rehabilitation act of 1973, codified at section 794 of title 29 of the United States code, and any regulations promulgated thereunder including, but not limited to, the requirements set forth in part 104 of title 34 of the code of federal regulations, or a successor provision.\\par\n\\ulnone Committee on preschool special education. The term \\ldblquote committee on preschool special education\\rdblquote  has the same meaning as set forth in section 200.1 of title 8 of the New York codes, rules and regulations\\ul , or a successor provision\\ulnone .\\par\nCommittee on special education. The term \\ldblquote committee on special education\\rdblquote  has the same meaning as set forth in section 200.1 of title 8 of the New York codes, rules and regulations\\ul , or a successor provision\\ulnone .\\par\n\\ul Deemed to have knowledge. The term \\ldblquote deemed to have knowledge\\rdblquote  has the same meaning as set forth in paragraph (5)(B) of subsection (k) of section 1415 of title 20 of the United States code, or a successor provision, and any regulations promulgated thereunder.\\par\n\\ulnone Home language. The term \\ldblquote home language\\rdblquote  means the language most frequently used in the student's home, as indicated by the response provided by the parent or person in parental relation on the home language questionnaire as that term is defined in section 154-2.2 of title 8 of the New York codes, rules and regulations\\ul , or a successor provision, or as otherwise indicated by the parent or person in parental relation at a later time\\ulnone .\\par\nIndividualized education program. The term \\ldblquote individualized education program\\rdblquote  or \\ldblquote IEP\\rdblquote  has the same meaning as set forth in section 200.1 of title 8 of the New York codes, rules and regulations\\ul , or a successor provision\\ulnone .\\par\nInitial evaluation. The term \\ldblquote initial evaluation\\rdblquote  means an evaluation to determine if a student is a student with a disability, conducted pursuant to sections 4401-a, 4402 and 4410 of the education law and section 200.4 of title 8 of the New York codes, rules and regulations\\ul , or a successor provision\\ulnone .\\par\nIntegrated special class program. The term \\ldblquote integrated special class program\\rdblquote  has the same meaning as set forth in section 200.9 of title 8 of the New York codes, rules and regulations\\ul , or a successor provision\\ulnone .\\par\n\\ul Manifestation determination review. The term \\ldblquote manifestation determination review\\rdblquote  means a review to determine whether a student\\rquote s behavior that is subject to disciplinary action is a manifestation of the student\\rquote s disability, as required pursuant to subparagraph (E) of paragraph (1) of subsection (a) of section 1415 of the United States code and section 201.4 of title 8 of the New York codes, rules and regulations, regarding manifestation determinations, or a successor provision. \\par\nManifestation team. The term \\ldblquote manifestation team\\rdblquote  has the same meaning as set forth in subdivision (b) of section 201.4 of title 8 of the New York codes, rules and regulations, or a successor provision.\\par\n\\ulnone Preschool student with a disability. The term \\ldblquote preschool student with a disability\\rdblquote  has the same meaning as set forth in section 200.1 of title 8 of the New York codes, rules and regulations\\ul , or a successor provision\\ulnone .\\par\n\\ul Procedural safeguards notice. The term \\ldblquote procedural safeguards notice\\rdblquote  means the notice required pursuant to subsection (d) of section 1415 of title 20 of the United States code and subsection (f) of section 200.5 of title 8 of the New York codes, rules and regulations, or a successor provision.\\par\n\\ulnone Reevaluation. The term \\ldblquote reevaluation\\rdblquote  means an evaluation of a student with a disability conducted pursuant to section 4402 of the education law and section 200.4 of title 8 of the New York codes, rules and regulations,\\ul  or a successor provision,\\ulnone  provided that such term shall not include a three-year reevaluation.\\par\n\\ul Referral to a committee on special education. The term \\ldblquote referral to a committee on special education\\rdblquote  means the act of notifying a committee on special education that a student requires a manifestation determination review, pursuant to chancellor\\rquote s regulation A-443, regarding student discipline procedures, or a successor provision, or applicable state or federal law.\\par\n\\ulnone Related services. The term \\ldblquote related services\\rdblquote  has the same meaning as set forth in section 200.1 of title 8 of the New York codes, rules and regulations\\ul , or a successor provision\\ulnone .\\par\nService recommendation. The term \\ldblquote service recommendation\\rdblquote  means the type of services outlined in an individualized education program, including consultant teacher services, resource room programs, integrated co-teaching services, and special class as such terms are defined in section 200.1 of title 8 of the New York codes, rules and regulations\\ul , or a successor provision\\ulnone .\\par\nSpecial class. The term \\ldblquote special class\\rdblquote  has the same meaning as set forth in section 200.1 of title 8 of the New York codes, rules and regulations\\ul , or a successor provision\\ulnone .\\par\nSpecial education itinerant services. The term \\ldblquote special education itinerant services\\rdblquote  has the same meaning as set forth in paragraph (k) of subdivision 1 of section 4410 of the education law\\ul , or a successor provision\\ulnone .\\par\nStudent. The term \\ldblquote student\\rdblquote  means any pupil under the age of twenty-one as of September first of the academic period being reported, who does not have a high school diploma and who is enrolled in a school as school is defined in this subdivision, not including a pre-kindergarten student or a preschool child as preschool child is defined in section 4410 of the education law\\ul , or a successor provision\\ulnone .\\par\nStudent in foster care. The term \\ldblquote student in foster care\\rdblquote  means a student placed in 24-hour substitute care away from their birth or adoptive parents and for whom the child welfare agency has placement and care responsibility, as set forth in chancellor\\rquote s regulation A-101\\ul , or a successor provision,\\ulnone  at any point and for any length of time during the school year.\\par\nStudent in temporary housing. The term \\ldblquote student in temporary housing\\rdblquote  means a student who has been identified by the department as a \\ldblquote homeless child\\rdblquote  as such term is defined in section 100.2 of title 8 of the New York codes, rules and regulations\\ul , or a successor provision\\ulnone .\\par\nStudent with a disability. The term \\ldblquote student with a disability\\rdblquote  has the same meaning as set forth in section 4401 of the education law\\ul , or a successor provision\\ulnone .\\par\nThree-year reevaluation. The term \\ldblquote three-year reevaluation\\rdblquote  means a reevaluation that occurs at least once every three years unless otherwise agreed as set forth in section 200.4 of title 8 of the New York codes, rules and regulations\\ul , or a successor provision\\ulnone .\\par\n\\'a7 2. Section 21-955 of the administrative code of the city of New York, as amended by local law number 147 for the year 2023, is amended by redesignating subdivisions g and h as subdivisions j and k, respectively, and by adding new subdivisions g, h, and i to read as follows:\\par\n\\ul g. No later than November 1, 2027, and annually thereafter, the chancellor shall submit to the speaker of the council and post conspicuously on the department\\rquote s website a report regarding manifestation determination reviews conducted during the preceding academic year. Such report shall include the following information citywide; by borough; by community school district, district 75 or district 79; and by school:\\par\n\\pard\\ltrpar\\sl480\\slmult1\\qj\\ulnone\\tab\\ul 1. The number of students referred to a committee on special education, manifestation team, or school for a manifestation determination review;\\par\n\\ulnone\\tab\\ul 2. The number of manifestation determination reviews conducted by a committee on special education or a manifestation team, in total and disaggregated by:\\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qj (a) The number and percentage of such manifestation determination reviews in which the parent or person in parental relation reported not receiving notice of the manifestation determination review or for which no documentation of such notice exists;\\par\n(b) The number and percentage of such manifestation determination reviews for which the notice of the manifestation determination review was generated for the parent or person in parental relation at least 5 days in advance of such review, and the number and percentage in which such notice was generated for the parent or person in parental relation fewer than 5 days in advance;\\par\n(c) The number and percentage of such manifestation determination reviews in which a parent, person in parental relation or legal advocate did not attend the manifestation determination review;\\par\n(d) The number and percentage of such manifestation determination reviews in which interpretation services were requested by a parent or person in parental relation and the number and percentage of instances in which such services were provided during the manifestation determination review;\\par\n(e) The number and percentage of such manifestation determination reviews for which the procedural safeguard notice was provided on the same day as the date of referral to a committee on special education, manifestation team, or school; and the number and percentage for which such notice was not provided on the same day;\\par\n(f) The number and percentage of such manifestation determination reviews for which the procedural safeguard notice was provided on the same day as the date the parent was notified of the need to conduct a manifestation determination review, and the number and percentage for which such notice was not provided on the same day;\\par\n(g) The number and percentage of such manifestation determination reviews conducted within 10 school days of the date of referral to a committee on special education, and the number and percentage conducted more than 10 school days after the date of referral;\\par\n(h) The number and percentage of such manifestation determination reviews resulting in a finding that the student\\rquote s behavior was a manifestation of the student\\rquote s disability; and\\par\n\\pard\\ltrpar\\sl480\\slmult1\\qj\\ulnone\\tab\\ul (i) The number and percentage of such manifestation determination reviews resulting in a finding that the student\\rquote s behavior was not a manifestation of the student\\rquote s disability;\\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qj 3. The number of students who received more than one manifestation determination review during the same academic year; \\par\n4. The number of students without an IEP but for whom the department is deemed to have knowledge that the student is a student with a disability; and  \\par\n5. The number of students with 504 plans;\\cf1\\par\n\\pard\\ltrpar\\sl480\\slmult1\\qj\\cf0\\ulnone\\tab\\ul h. The information required to be reported pursuant to subdivision g of this section\\cf1  \\cf0 shall additionally be disaggregated by:\\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qj 1. Grade level;\\par\n2. Race or ethnicity; \\par\n3. Gender;\\par\n4. English language learner status; \\par\n5. Eligibility for the free and reduced price lunch program;\\par\n6. Status as a student in temporary housing; \\par\n7. Status as a student in foster care; \\par\n8. Status as a student with a 504 plan; \\par\n9. Status as a student without an IEP that the department is deemed to have knowledge of as a student with a disability; \\par\n10. Disability classification; and\\par\n11. Infraction code as listed under the New York city discipline code for the given reporting year.\\par\ni. The report required pursuant to subdivision g of this section shall also include a summary of system-wide practices used by the department to inform parents and persons in parental relation about the manifestation determination review process.\\par\n\\pard\\ltrpar\\qj\\ulnone 3. This local law takes effect immediately.\\fs18\\par\nNJF/AC\\par\nLS # 19864\\par\n\\pard\\ltrpar 12/10/2025 11:26pm\\par\n\\par\n\\par\n}\n",
-  "LastModified": "2025-12-18T22:59:43.11Z"
+  "LastModified": "2026-01-21T17:12:56.893Z"
 }

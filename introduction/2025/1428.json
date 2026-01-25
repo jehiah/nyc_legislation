@@ -16,6 +16,13 @@
   "PassedDate": "2025-12-12T00:00:00Z",
   "EnactmentDate": "2025-12-12T00:00:00Z",
   "Version": "*",
+  "Sponsors": [
+    {
+      "ID": 7748,
+      "Slug": "justin-l-brannan",
+      "FullName": "Justin L. Brannan"
+    }
+  ],
   "History": [
     {
       "ID": 426325,
@@ -716,6 +723,18 @@
       "Version": "*",
       "MatterStatusID": 35,
       "LastModified": "2025-12-14T07:32:14.197Z"
+    },
+    {
+      "ID": 429583,
+      "Date": "2025-12-15T15:00:00Z",
+      "ActionID": 5084,
+      "Action": "Returned Unsigned by Mayor",
+      "Description": "This Introduction was Returned Unsigned by Mayor",
+      "BodyID": 1,
+      "BodyName": "City Council",
+      "Version": "*",
+      "MatterStatusID": 35,
+      "LastModified": "2025-12-22T04:19:29.41Z"
     }
   ],
   "Attachments": [
@@ -738,62 +757,76 @@
       "LastModified": "2025-11-12T15:37:28.39Z",
       "Name": "Committee Report 11/12/25",
       "Link": "https://nyc.legistar1.com/nyc/attachments/e704a083-56a1-4dc5-b1bb-dd8b23e25993.docx",
-      "Sort": 5
-    },
-    {
-      "ID": 329057,
-      "LastModified": "2025-11-12T15:37:28.107Z",
-      "Name": "Fiscal Impact Statement - City Council",
-      "Link": "https://nyc.legistar1.com/nyc/attachments/2976e615-04d3-4bf6-898d-a06eec0f692e.docx",
-      "Sort": 6
-    },
-    {
-      "ID": 329058,
-      "LastModified": "2025-11-12T15:37:27.313Z",
-      "Name": "Fiscal Impact Statement - OMB",
-      "Link": "https://nyc.legistar1.com/nyc/attachments/6c05f77f-c1f8-46d1-8eb5-c29365997282.pdf",
-      "Sort": 7
+      "Sort": 3
     },
     {
       "ID": 329401,
       "LastModified": "2025-11-18T16:03:56.81Z",
       "Name": "Hearing Testimony 11/12/25",
       "Link": "https://nyc.legistar1.com/nyc/attachments/37182cb6-865a-461d-aaad-65b2b271479a.pdf",
-      "Sort": 8
+      "Sort": 4
     },
     {
       "ID": 329384,
       "LastModified": "2025-11-18T16:03:56.753Z",
       "Name": "Hearing Transcript 11/12/25",
       "Link": "https://nyc.legistar1.com/nyc/attachments/17e29505-5739-4019-86ea-6fe4d28776d4.pdf",
-      "Sort": 9
+      "Sort": 5
     },
     {
       "ID": 329093,
       "LastModified": "2025-11-18T16:03:55.993Z",
       "Name": "Committee Report - Stated Meeting",
       "Link": "https://nyc.legistar1.com/nyc/attachments/88f56197-6200-4fb4-8ad1-d7ba21799886.docx",
-      "Sort": 10
+      "Sort": 6
     },
     {
       "ID": 329145,
       "LastModified": "2025-11-18T16:03:55.683Z",
       "Name": "November 12, 2025 - Stated Meeting Agenda",
       "Link": "https://nyc.legistar1.com/nyc/attachments/375131bc-4b31-47ea-975c-13d114ca498c.pdf",
-      "Sort": 11
+      "Sort": 7
     },
     {
       "ID": 330036,
       "LastModified": "2025-11-26T18:35:17.82Z",
       "Name": "Hearing Transcript - Stated Meeting 10-29-25",
       "Link": "https://nyc.legistar1.com/nyc/attachments/1856d84d-46b5-47b1-bf34-05cab2dba7be.pdf",
-      "Sort": 12
+      "Sort": 8
     },
     {
       "ID": 330723,
       "LastModified": "2025-12-05T19:56:56Z",
       "Name": "Int. No. 1428 (FINAL)",
       "Link": "https://nyc.legistar1.com/nyc/attachments/c39009ad-4e4b-4a54-ac03-082749fed555.docx",
+      "Sort": 9
+    },
+    {
+      "ID": 329058,
+      "LastModified": "2025-11-12T15:37:27.313Z",
+      "Name": "Fiscal Impact Statement - OMB",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/6c05f77f-c1f8-46d1-8eb5-c29365997282.pdf",
+      "Sort": 10
+    },
+    {
+      "ID": 329057,
+      "LastModified": "2025-11-12T15:37:28.107Z",
+      "Name": "Fiscal Impact Statement - City Council",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/2976e615-04d3-4bf6-898d-a06eec0f692e.docx",
+      "Sort": 11
+    },
+    {
+      "ID": 331969,
+      "LastModified": "2025-12-26T15:32:13.34Z",
+      "Name": "Hearing Transcript - Stated Meeting 11-12-25",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/e681a0be-8f02-49aa-83eb-1f0655c02982.pdf",
+      "Sort": 12
+    },
+    {
+      "ID": 332463,
+      "LastModified": "2026-01-05T17:16:17.053Z",
+      "Name": "Local Law 186",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/eee9ca22-11a8-485b-9eeb-ed41b0d05d63.pdf",
       "Sort": 13
     }
   ],
@@ -801,5 +834,5 @@
   "TextID": 80621,
   "Text": "Be it enacted by the Council as follows:\n\n\tSection 1.  Chapter 5 of title 25 of the administrative code of the city of New York is amended by adding a new section 25-450.2 to read as follows:\n\t�25-450.2 Lincoln Square business improvement district; amendment to the district plan. a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize additional services for the Lincoln Square business improvement district and to authorize a change in the method of assessment upon which the district charge in the Lincoln Square business improvement district is based, and the council having determined further that the tax and debt limitations prescribed in section 25-412 of chapter four of this title will not be exceeded by such change, there are hereby authorized in the Lincoln Square business improvement district such changes as set forth in the amended district plan required to be filed with the city clerk pursuant to subdivision b of this section.\n\tb. Immediately upon adoption of this local law, the council shall file with the city clerk the amended district plan setting forth the authorization of additional services and containing the change in the method of assessment authorized by subdivision a of this section.\n      � 2. This local law takes effect on July 1, 2026.\n\n\n#16219551v1",
   "RTF": "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang1033\\deflangfe1033{\\fonttbl{\\f0\\froman\\fprq2\\fcharset0 Times New Roman;}{\\f1\\froman\\fcharset0 Times New Roman Bold;}}\n\\viewkind4\\uc1\n\\v0\\par\n\\pard\\ltrpar\\hyphpar0\\sa240\\qj\\ul Be it enacted by the Council as follows:\\par\n\\pard\\ltrpar\\hyphpar0\\sl480\\slmult1\\qj\\tx720\\tx2160\\ulnone\\tab Section 1.  \\expndtw-3 Chapter 5 of title 25 of the administrative code of the city of New York is amended by adding a new section 25-450.2 to read as follows:\\expndtw0\\par\n\\expndtw-3\\tab\\ul\\'a725-450.2 Lincoln Square business improvement district; amendment to the district plan. a. The city council having determined, pursuant to subdivision b of section 25-410 of chapter four of this title, that it is in the public interest to authorize additional services for the Lincoln Square business improvement district and to authorize a change in the method of assessment upon which the district charge in the Lincoln Square business improvement district is based, and the council having determined further that the tax and debt limitations prescribed in section 25-412 of chapter four of this title will not be exceeded by such change, there are hereby authorized in the Lincoln Square business improvement district such changes as set forth in the amended district plan required to be filed with the city clerk pursuant to subdivision b of this section.\\par\n\\ulnone\\tab\\ul b. Immediately upon adoption of this local law, the council shall file with the city clerk the amended district plan setting forth the authorization of additional services and containing the change in the method of assessment authorized by subdivision a of this section.\\expndtw0\\ulnone\\par\n\\pard\\ltrpar\\hyphpar0\\fi720\\sl480\\slmult1\\qj\\'a7 2. This local law takes effect on July 1, 2026.\\par\n}\n",
-  "LastModified": "2025-12-15T16:50:21.74Z"
+  "LastModified": "2026-01-05T17:16:20.27Z"
 }

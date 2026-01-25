@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/12/22099_A_Committee_on_Health_25-12-17_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/12/22099_M_Committee_on_Health_25-12-17_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_251217-103414.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22099&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,18 +21,171 @@
       "GUID": "832ACA97-0617-476E-9D70-1E552AABDD65",
       "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, legislation requiring pain management options be offered to patients undergoing in-office gynecologic procedures",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Proposed Res. No. 1061-A",
       "MinutesNote": "Proposed Res. No. 1061-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 76334,
       "MatterFile": "Res 1061-2025",
       "MatterName": "Requiring pain management options be offered to patients undergoing in-office gynecologic procedures.",
       "MatterType": "Resolution",
-      "LastModified": "2025-12-12T20:38:43.683Z"
+      "LastModified": "2025-12-17T15:41:52.333Z"
+    },
+    {
+      "ID": 428891,
+      "GUID": "71E4F330-C77C-4735-9696-F8D31D82314F",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 10
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7748,
+          "Slug": "justin-l-brannan",
+          "FullName": "Justin L. Brannan",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 25
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 30
+        },
+        {
+          "ID": 5289,
+          "Slug": "simcha-felder",
+          "FullName": "Simcha Felder",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 35
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-j-feliz",
+          "FullName": "Oswald J. Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 50
+        },
+        {
+          "ID": 7865,
+          "Slug": "kristy-marmorato",
+          "FullName": "Kristy Marmorato",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 100
+        }
+      ],
+      "LastModified": "2025-12-17T15:41:46.03Z"
+    },
+    {
+      "ID": 428892,
+      "GUID": "A7179A9C-6F06-4715-9874-9A6022B2AE1B",
+      "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, legislation requiring pain management options be offered to patients undergoing in-office gynecologic procedures",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Resolution was Amendment Proposed by Comm",
+      "MatterID": 76334,
+      "MatterFile": "Res 1061-2025",
+      "MatterName": "Requiring pain management options be offered to patients undergoing in-office gynecologic procedures.",
+      "MatterType": "Resolution",
+      "LastModified": "2025-12-19T19:40:04.813Z"
+    },
+    {
+      "ID": 429581,
+      "GUID": "1AA2FC20-8532-41A7-A100-7C9D3AECF2F0",
+      "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, legislation requiring pain management options be offered to patients undergoing in-office gynecologic procedures",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Resolution was Amended by Committee",
+      "MatterID": 76334,
+      "MatterFile": "Res 1061-2025",
+      "MatterName": "Requiring pain management options be offered to patients undergoing in-office gynecologic procedures.",
+      "MatterType": "Resolution",
+      "LastModified": "2025-12-19T19:40:10.547Z"
+    },
+    {
+      "ID": 429582,
+      "GUID": "BD6560A8-3FE0-4DC6-9807-9C578FDBE0BF",
+      "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, legislation requiring pain management options be offered to patients undergoing in-office gynecologic procedures",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "This Resolution was Approved by Committee",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 76334,
+      "MatterFile": "Res 1061-2025",
+      "MatterName": "Requiring pain management options be offered to patients undergoing in-office gynecologic procedures.",
+      "MatterType": "Resolution",
+      "LastModified": "2025-12-19T19:40:54.223Z"
     }
   ],
   "AgendaLastPublished": "2025-12-12T19:40:54.357Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2025-12-12T19:40:54.397Z"
+  "MinutesLastPublished": "2025-12-19T19:41:00.473Z",
+  "LastModified": "2025-12-19T19:41:00.68Z"
 }
