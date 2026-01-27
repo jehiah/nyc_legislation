@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/1/22138_A_Committee_on_Mental_Health_and_Addiction_26-01-27_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/1/22138_M_Committee_on_Mental_Health_and_Addiction_26-01-27_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_260127-130955.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22138&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,17 +20,104 @@
       "GUID": "821D7C46-A95E-4179-B844-C64C5E662D09",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the commissioner of health and mental hygiene to report annually on suicides that occur in the city",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Preconsidered",
+      "ActionID": 15,
+      "ActionName": "Hearing on P-C Item by Comm",
+      "ActionText": "This Introduction was Hearing on P-C Item by Comm",
       "MatterID": 77106,
       "MatterFile": "T2026-0155",
       "MatterName": "Requiring the commissioner of health and mental hygiene to report annually on suicides that occur in the city.",
       "MatterType": "Introduction",
-      "LastModified": "2026-01-23T21:12:39.13Z"
+      "LastModified": "2026-01-27T19:31:38.333Z"
+    },
+    {
+      "ID": 431991,
+      "GUID": "E08B84FD-E032-4851-A9AA-301C816AD7FC",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7813,
+          "Slug": "tiffany-l-caban",
+          "FullName": "Tiffany L. Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7896,
+          "Slug": "shirley-aldebol",
+          "FullName": "Shirley Aldebol",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 5289,
+          "Slug": "simcha-felder",
+          "FullName": "Simcha Felder",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 80
+        },
+        {
+          "ID": 7899,
+          "Slug": "ty-hankerson",
+          "FullName": "Ty Hankerson",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 100
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 120
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2026-01-27T19:31:31.657Z"
+    },
+    {
+      "ID": 431992,
+      "GUID": "5861CB18-8D2B-4BC2-BE20-4FE22BCEEE1D",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the commissioner of health and mental hygiene to report annually on suicides that occur in the city",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5018,
+      "ActionName": "P-C Item Laid Over by Comm",
+      "ActionText": "This Introduction was P-C Item Laid Over by Comm",
+      "MatterID": 77106,
+      "MatterFile": "T2026-0155",
+      "MatterName": "Requiring the commissioner of health and mental hygiene to report annually on suicides that occur in the city.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-01-27T19:31:43.713Z"
     }
   ],
   "AgendaLastPublished": "2026-01-27T17:06:39.94Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-01-27T17:06:40.25Z"
+  "MinutesLastPublished": "2026-01-27T19:31:49.01Z",
+  "LastModified": "2026-01-27T19:31:49.137Z"
 }
