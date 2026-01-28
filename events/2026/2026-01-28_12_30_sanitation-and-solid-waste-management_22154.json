@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/1/22154_A_Committee_on_Sanitation_and_Solid_Waste_Management_26-01-28_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/1/22154_M_Committee_on_Sanitation_and_Solid_Waste_Management_26-01-28_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-2_260128-123312.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22154&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
@@ -20,31 +21,156 @@
       "GUID": "8024482C-42B4-49E7-8AED-D73E21C955BD",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to a department of sanitation rule regarding supplemental sanitation service providers placing out refuse or recycling",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "B",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 75793,
       "MatterFile": "Int 1279-2025",
       "MatterName": "Department of sanitation rule regarding supplemental sanitation service providers placing out refuse or recycling.",
       "MatterType": "Introduction",
-      "LastModified": "2026-01-27T17:40:45.387Z"
+      "LastModified": "2026-01-28T18:06:46.28Z"
     },
     {
       "ID": 431909,
       "GUID": "4BC15438-C0E2-4B6B-975D-1CBB5DDF8726",
       "Title": "Communication from the Mayor – Veto and disapproval of Introductory Number 1279-B of 2025 - A Local Law to amend the administrative code of the city of New York, in relation to a department of sanitation rule regarding supplemental sanitation service providers placing out refuse or recycling",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "*",
       "AgendaNote": "TO BE FILED",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Mayor's Message was Hearing Held by Committee",
       "MatterID": 76990,
       "MatterFile": "M 0013-2026",
       "MatterName": "Mayor's Veto and disapproval of Introductory Number 1279-B.",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-01-23T14:18:09.54Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2026-01-28T18:07:21.147Z"
+    },
+    {
+      "ID": 432030,
+      "GUID": "0D858B26-467B-4A12-A8D8-9C1B07C0C789",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7897,
+          "Slug": "justin-e-sanchez",
+          "FullName": "Justin E. Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7899,
+          "Slug": "ty-hankerson",
+          "FullName": "Ty Hankerson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7894,
+          "Slug": "virginia-maloney",
+          "FullName": "Virginia Maloney",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7901,
+          "Slug": "kayla-santosuosso",
+          "FullName": "Kayla Santosuosso",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7898,
+          "Slug": "shanel-thomas-henry",
+          "FullName": "Shanel Thomas-Henry",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        }
+      ],
+      "LastModified": "2026-01-28T18:06:40.303Z"
+    },
+    {
+      "ID": 432031,
+      "GUID": "ED626845-CA3D-4412-9CC4-FBD9C1A06C3B",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to a department of sanitation rule regarding supplemental sanitation service providers placing out refuse or recycling",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "B",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "This Introduction was Approved by Committee",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 75793,
+      "MatterFile": "Int 1279-2025",
+      "MatterName": "Department of sanitation rule regarding supplemental sanitation service providers placing out refuse or recycling.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-01-28T18:07:39.927Z"
+    },
+    {
+      "ID": 432032,
+      "GUID": "65F8617C-DF4A-4BEE-8839-DF9C6680764F",
+      "Title": "Communication from the Mayor – Veto and disapproval of Introductory Number 1279-B of 2025 - A Local Law to amend the administrative code of the city of New York, in relation to a department of sanitation rule regarding supplemental sanitation service providers placing out refuse or recycling",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 39,
+      "ActionName": "Filed by Committee",
+      "ActionText": "This Mayor's Message was Filed by Committee",
+      "MatterID": 76990,
+      "MatterFile": "M 0013-2026",
+      "MatterName": "Mayor's Veto and disapproval of Introductory Number 1279-B.",
+      "MatterType": "Mayor's Message",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2026-01-28T18:07:29.917Z"
     }
   ],
   "AgendaLastPublished": "2026-01-27T17:40:51.587Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-01-28T17:39:03.927Z"
+  "MinutesLastPublished": "2026-01-28T18:07:45.157Z",
+  "LastModified": "2026-01-28T18:07:45.26Z"
 }

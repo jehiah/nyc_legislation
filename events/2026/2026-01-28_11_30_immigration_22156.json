@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/1/22156_A_Committee_on_Immigration_26-01-28_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/1/22156_M_Committee_on_Immigration_26-01-28_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-2_260128-113420.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22156&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
@@ -20,31 +21,134 @@
       "GUID": "44D6E4AE-D972-4C9E-8636-20FC7C3DAD79",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to redefining terms concerning immigration enforcement to account for current enforcement practices, and prohibiting the maintenance of an office or quarters on property under the jurisdiction of the department of correction by federal immigration authorities",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 76557,
       "MatterFile": "Int 1412-2025",
       "MatterName": "Redefining terms concerning immigration enforcement to account for current enforcement practices, and prohibiting the maintenance of an office or quarters on property under the jurisdiction of the DOC by federal immigration authorities.",
       "MatterType": "Introduction",
-      "LastModified": "2026-01-27T16:34:26.92Z"
+      "LastModified": "2026-01-28T18:53:46.587Z"
     },
     {
       "ID": 431915,
       "GUID": "A6A4D197-0A29-4BFB-B0D1-0FBB7F78A9C7",
       "Title": "Communication from the Mayor – Veto and disapproval of Introductory Number 1412-A of 2025 - A Local Law to amend the administrative code of the city of New York, in relation to redefining terms concerning immigration enforcement to account for current enforcement practices, and prohibiting the maintenance of an office or quarters on property under the jurisdiction of the department of correction by federal immigration authorities",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
       "AgendaNote": "TO BE FILED",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Mayor's Message was Hearing Held by Committee",
       "MatterID": 76985,
       "MatterFile": "M 0017-2026",
       "MatterName": "Mayor's Veto and disapproval of Introductory Number 1412-A.",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-01-27T16:13:42.853Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2026-01-28T18:54:34.41Z"
+    },
+    {
+      "ID": 432033,
+      "GUID": "3215AFE7-C8B1-47C5-8E24-7A94C61D4A20",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7895,
+          "Slug": "elsie-encarnacion",
+          "FullName": "Elsie Encarnación",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        }
+      ],
+      "LastModified": "2026-01-28T18:53:39.367Z"
+    },
+    {
+      "ID": 432034,
+      "GUID": "83302EAD-1718-47B8-B17B-B5373C17DDCC",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Cabán",
+      "LastModified": "2026-01-28T18:53:34.34Z"
+    },
+    {
+      "ID": 432035,
+      "GUID": "0D4C3C5B-5450-4771-9A21-8CECA1A0E579",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to redefining terms concerning immigration enforcement to account for current enforcement practices, and prohibiting the maintenance of an office or quarters on property under the jurisdiction of the department of correction by federal immigration authorities",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 76557,
+      "MatterFile": "Int 1412-2025",
+      "MatterName": "Redefining terms concerning immigration enforcement to account for current enforcement practices, and prohibiting the maintenance of an office or quarters on property under the jurisdiction of the DOC by federal immigration authorities.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-01-28T19:11:34.643Z"
+    },
+    {
+      "ID": 432036,
+      "GUID": "4E951A13-B9E9-4DCA-980C-350E96323711",
+      "Title": "Communication from the Mayor – Veto and disapproval of Introductory Number 1412-A of 2025 - A Local Law to amend the administrative code of the city of New York, in relation to redefining terms concerning immigration enforcement to account for current enforcement practices, and prohibiting the maintenance of an office or quarters on property under the jurisdiction of the department of correction by federal immigration authorities",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 39,
+      "ActionName": "Filed by Committee",
+      "ActionText": "This Mayor's Message was Filed by Committee",
+      "MatterID": 76985,
+      "MatterFile": "M 0017-2026",
+      "MatterName": "Mayor's Veto and disapproval of Introductory Number 1412-A.",
+      "MatterType": "Mayor's Message",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2026-01-28T18:54:45.15Z"
     }
   ],
   "AgendaLastPublished": "2026-01-27T16:34:31.13Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-01-28T16:43:58.1Z"
+  "MinutesLastPublished": "2026-01-28T19:11:38.823Z",
+  "LastModified": "2026-01-28T19:11:38.887Z"
 }
