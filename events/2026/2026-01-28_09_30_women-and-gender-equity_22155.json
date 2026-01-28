@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/1/22155_A_Committee_on_Women_and_Gender_Equity_26-01-28_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/1/22155_M_Committee_on_Women_and_Gender_Equity_26-01-28_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_260128-095226.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22155&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,31 +21,124 @@
       "GUID": "1D14377B-1B45-4247-8887-BD74A024CC03",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the gender-motivated violence protection law",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 75877,
       "MatterFile": "Int 1297-2025",
       "MatterName": "Gender-motivated violence protection law.",
       "MatterType": "Introduction",
-      "LastModified": "2026-01-22T18:00:04.2Z"
+      "LastModified": "2026-01-28T15:47:05.987Z"
     },
     {
       "ID": 431911,
       "GUID": "070AAA2D-122A-421A-B27B-CAE97A7C1D12",
       "Title": "Communication from the Mayor – Veto and disapproval of Introductory Number 1297-A of 2025 -  A Local Law to amend the administrative code of the city of New York, in relation to the gender-motivated violence protection law.",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "*",
       "AgendaNote": "TO BE FILED",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Mayor's Message was Hearing Held by Committee",
       "MatterID": 76960,
       "MatterFile": "M 0014-2026",
       "MatterName": "Mayor's Veto and disapproval of Introductory Number 1297-A.",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-01-26T16:28:40.95Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2026-01-28T15:47:35.48Z"
+    },
+    {
+      "ID": 432019,
+      "GUID": "9FFC079A-E61B-4E5C-B461-74A77A0787DE",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7810,
+          "Slug": "amanda-c-farias",
+          "FullName": "Amanda C. Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7896,
+          "Slug": "shirley-aldebol",
+          "FullName": "Shirley Aldebol",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7901,
+          "Slug": "kayla-santosuosso",
+          "FullName": "Kayla Santosuosso",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        }
+      ],
+      "LastModified": "2026-01-28T15:46:42.537Z"
+    },
+    {
+      "ID": 432020,
+      "GUID": "62F8BB6B-8333-4640-8897-80789F8EDF3F",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the gender-motivated violence protection law",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 75877,
+      "MatterFile": "Int 1297-2025",
+      "MatterName": "Gender-motivated violence protection law.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-01-28T15:47:18.507Z"
+    },
+    {
+      "ID": 432021,
+      "GUID": "2619EC62-B9FC-4671-8608-A8F0F53485DC",
+      "Title": "Communication from the Mayor – Veto and disapproval of Introductory Number 1297-A of 2025 -  A Local Law to amend the administrative code of the city of New York, in relation to the gender-motivated violence protection law.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 39,
+      "ActionName": "Filed by Committee",
+      "ActionText": "This Mayor's Message was Filed by Committee",
+      "MatterID": 76960,
+      "MatterFile": "M 0014-2026",
+      "MatterName": "Mayor's Veto and disapproval of Introductory Number 1297-A.",
+      "MatterType": "Mayor's Message",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2026-01-28T15:47:44.673Z"
     }
   ],
   "AgendaLastPublished": "2026-01-27T19:19:33.963Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-01-27T19:19:34.017Z"
+  "MinutesLastPublished": "2026-01-28T15:47:50.23Z",
+  "LastModified": "2026-01-28T15:47:51.083Z"
 }
