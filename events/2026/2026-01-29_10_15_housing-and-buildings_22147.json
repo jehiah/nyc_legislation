@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/1/22147_A_Committee_on_Housing_and_Buildings_26-01-29_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/1/22147_M_Committee_on_Housing_and_Buildings_26-01-29_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-2_260129-103545.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22147&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,30 +21,172 @@
       "GUID": "E5DCB481-6623-4F2B-AE75-19050BE47A13",
       "Title": "Communication from the Mayor – Veto and disapproval of Introductory Number 1120-B of 2024 - A Local Law to amend the administrative code of the city of New York, in relation to establishing timelines for cooperative corporations to approve or deny the sale of cooperative apartments",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "*",
+      "AgendaNote": "TO BE FILED",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Mayor's Message was Hearing Held by Committee",
       "MatterID": 76984,
       "MatterFile": "M 0011-2026",
       "MatterName": "Mayor's Veto and disapproval of Introductory Number 1120-B.",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-01-27T19:41:14.347Z"
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2026-01-29T15:53:03.71Z"
     },
     {
       "ID": 431983,
       "GUID": "0FB1338B-DF3F-48C1-969D-B0263A1D9562",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing timelines for cooperative corporations to approve or deny the sale of cooperative apartments",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "B",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 75073,
       "MatterFile": "Int 1120-2024",
       "MatterName": "Establishing timelines for cooperative corporations to approve or deny the sale of cooperative apartments.",
       "MatterType": "Introduction",
-      "LastModified": "2026-01-27T19:43:09.02Z"
+      "LastModified": "2026-01-29T15:52:51.32Z"
+    },
+    {
+      "ID": 432198,
+      "GUID": "37C90045-EE60-4FE8-959D-502EFCDA1B16",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7802,
+          "Slug": "erik-d-bottcher",
+          "FullName": "Erik D. Bottcher",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-j-feliz",
+          "FullName": "Oswald J. Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7894,
+          "Slug": "virginia-maloney",
+          "FullName": "Virginia Maloney",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 200
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 220
+        }
+      ],
+      "LastModified": "2026-01-29T15:52:46.313Z"
+    },
+    {
+      "ID": 432199,
+      "GUID": "741000DD-06A2-4AD7-9A0F-AFE86AD49B57",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing timelines for cooperative corporations to approve or deny the sale of cooperative apartments",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "B",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 75073,
+      "MatterFile": "Int 1120-2024",
+      "MatterName": "Establishing timelines for cooperative corporations to approve or deny the sale of cooperative apartments.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-01-29T15:52:58.803Z"
+    },
+    {
+      "ID": 432200,
+      "GUID": "552B9672-29C3-47E3-8DC2-76FB36981FD1",
+      "Title": "Communication from the Mayor – Veto and disapproval of Introductory Number 1120-B of 2024 - A Local Law to amend the administrative code of the city of New York, in relation to establishing timelines for cooperative corporations to approve or deny the sale of cooperative apartments",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 39,
+      "ActionName": "Filed by Committee",
+      "ActionText": "This Mayor's Message was Filed by Committee",
+      "MatterID": 76984,
+      "MatterFile": "M 0011-2026",
+      "MatterName": "Mayor's Veto and disapproval of Introductory Number 1120-B.",
+      "MatterType": "Mayor's Message",
+      "MatterStatus": "Reported from Committee",
+      "LastModified": "2026-01-29T15:53:09.61Z"
     }
   ],
-  "AgendaLastPublished": "2026-01-27T19:41:45.18Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-01-27T19:41:45.22Z"
+  "AgendaLastPublished": "2026-01-29T15:17:54.937Z",
+  "MinutesLastPublished": "2026-01-29T15:53:15.083Z",
+  "LastModified": "2026-01-29T15:53:15.157Z"
 }

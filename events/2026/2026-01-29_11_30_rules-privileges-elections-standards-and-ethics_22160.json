@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/1/22160_A_Committee_on_Rules%2C_Privileges%2C_Elections%2C_Standards_and_Ethics_26-01-29_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/1/22160_M_Committee_on_Rules%2C_Privileges%2C_Elections%2C_Standards_and_Ethics_26-01-29_Meeting_Minutes.pdf",
   "Comment": "*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_260129-113357.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22160&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,31 +21,157 @@
       "GUID": "DB05F343-E4DD-44A0-8569-7C83755E74CA",
       "Title": "Resolution making certain amendments the Rules of the Council in relation to the Standing Committees of the Council.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Preconsidered",
+      "ActionID": 15,
+      "ActionName": "Hearing on P-C Item by Comm",
+      "ActionText": "This Resolution was Hearing on P-C Item by Comm",
       "MatterID": 77914,
       "MatterFile": "T2026-0963",
       "MatterName": "Amendments the Rules of the Council in relation to the Standing Committees of the Council.",
       "MatterType": "Resolution",
-      "LastModified": "2026-01-29T14:40:16.08Z"
+      "LastModified": "2026-01-29T16:46:49.023Z"
     },
     {
       "ID": 432177,
       "GUID": "9FD317C1-AA7F-453F-AD08-8BAFE7FACD24",
       "Title": "Resolution pursuant to Rule 7.10 of the Rules of the Council, as related to the establishment of the Committees, Subcommittees and Taskforces of the Council and the appointment of Council Members thereto.",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "*",
       "AgendaNote": "Preconsidered",
+      "ActionID": 15,
+      "ActionName": "Hearing on P-C Item by Comm",
+      "ActionText": "This Resolution was Hearing on P-C Item by Comm",
       "MatterID": 77917,
       "MatterFile": "T2026-0966",
       "MatterName": "Amendment to the Rules of the Council as related to the establishment of the Committees, Subcommittees and Taskforces.",
       "MatterType": "Resolution",
-      "LastModified": "2026-01-29T14:41:10.307Z"
+      "LastModified": "2026-01-29T16:46:39.777Z"
+    },
+    {
+      "ID": 432296,
+      "GUID": "AB10B274-1EAF-4C81-B73F-33D0611CA0A9",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7895,
+          "Slug": "elsie-encarnacion",
+          "FullName": "Elsie Encarnación",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        }
+      ],
+      "LastModified": "2026-01-29T16:46:06.863Z"
+    },
+    {
+      "ID": 432297,
+      "GUID": "092E8DC1-0E98-4304-9CE0-DF56515BC912",
+      "Title": "Resolution making certain amendments the Rules of the Council in relation to the Standing Committees of the Council.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 25,
+      "ActionName": "P-C Item Approved by Comm",
+      "ActionText": "A motion was made that this Resolution be P-C Item Approved by Comm approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 77914,
+      "MatterFile": "T2026-0963",
+      "MatterName": "Amendments the Rules of the Council in relation to the Standing Committees of the Council.",
+      "MatterType": "Resolution",
+      "LastModified": "2026-01-29T16:46:58.787Z"
+    },
+    {
+      "ID": 432298,
+      "GUID": "EEBA5B25-5650-4354-8123-96F7319E0821",
+      "Title": "Resolution pursuant to Rule 7.10 of the Rules of the Council, as related to the establishment of the Committees, Subcommittees and Taskforces of the Council and the appointment of Council Members thereto.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 25,
+      "ActionName": "P-C Item Approved by Comm",
+      "ActionText": "A motion was made that this Resolution be P-C Item Approved by Comm approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 77917,
+      "MatterFile": "T2026-0966",
+      "MatterName": "Amendment to the Rules of the Council as related to the establishment of the Committees, Subcommittees and Taskforces.",
+      "MatterType": "Resolution",
+      "LastModified": "2026-01-29T16:47:39.457Z"
     }
   ],
   "AgendaLastPublished": "2026-01-29T14:41:14.09Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-01-29T14:41:14.14Z"
+  "MinutesLastPublished": "2026-01-29T16:47:43.78Z",
+  "LastModified": "2026-01-29T16:47:43.853Z"
 }
