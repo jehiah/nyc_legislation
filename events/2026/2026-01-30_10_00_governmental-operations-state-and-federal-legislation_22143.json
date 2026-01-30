@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/1/22143_A_Committee_on_Governmental_Operations%2C_State___Federal_Legislation_26-01-30_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/1/22143_M_Committee_on_Governmental_Operations%2C_State___Federal_Legislation_26-01-30_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-2_260130-101013.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22143&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,16 +20,103 @@
       "GUID": "7B9FF54A-AED6-44EF-99EF-0E1D229AD140",
       "Title": "A Local Law in relation to establishing a one-time commission to review the salaries of elected officials in New York City and make recommendations regarding those salaries",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 77074,
       "MatterFile": "T2026-0123",
       "MatterName": "Establishing a one-time commission to review the salaries of elected officials in New York City and make recommendations regarding those salaries.",
       "MatterType": "Introduction",
-      "LastModified": "2026-01-23T21:15:34.56Z"
+      "LastModified": "2026-01-30T17:38:01.487Z"
+    },
+    {
+      "ID": 433422,
+      "GUID": "6465B92D-988E-4C6A-BE5B-9C97385BEC32",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-j-feliz",
+          "FullName": "Oswald J. Feliz",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7899,
+          "Slug": "ty-hankerson",
+          "FullName": "Ty Hankerson",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 80
+        },
+        {
+          "ID": 7887,
+          "Slug": "frank-morano",
+          "FullName": "Frank Morano",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 100
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 120
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 43,
+          "Value": "Conflict",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2026-01-30T17:37:52.473Z"
+    },
+    {
+      "ID": 433423,
+      "GUID": "2C8FC578-BC23-486F-83DB-AF01287BF518",
+      "Title": "A Local Law in relation to establishing a one-time commission to review the salaries of elected officials in New York City and make recommendations regarding those salaries",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 77074,
+      "MatterFile": "T2026-0123",
+      "MatterName": "Establishing a one-time commission to review the salaries of elected officials in New York City and make recommendations regarding those salaries.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-01-30T17:38:08.73Z"
     }
   ],
   "AgendaLastPublished": "2026-01-21T16:03:40.203Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-01-21T16:03:40.25Z"
+  "MinutesLastPublished": "2026-01-30T17:38:13.94Z",
+  "LastModified": "2026-01-30T17:38:14.12Z"
 }
