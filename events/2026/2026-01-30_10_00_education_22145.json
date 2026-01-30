@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/1/22145_A_Committee_on_Education_26-01-30_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/1/22145_M_Committee_on_Education_26-01-30_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-3_260130-100719.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22145&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,16 +20,151 @@
       "GUID": "A6D04C68-DB61-4317-B136-052B38FE2B01",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to reporting on payments to early childhood care and education providers",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 77278,
-      "MatterFile": "T2026-0327",
+      "MatterFile": "Int 0203-2026",
       "MatterName": "Reporting on payments to early childhood care and education providers.",
       "MatterType": "Introduction",
-      "LastModified": "2026-01-28T19:26:54.47Z"
+      "LastModified": "2026-01-30T20:01:26.393Z"
+    },
+    {
+      "ID": 433441,
+      "GUID": "855A1C9A-A66E-4707-9810-4DC460389082",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-c-farias",
+          "FullName": "Amanda C. Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 200
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 220
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 240
+        },
+        {
+          "ID": 7900,
+          "Slug": "phil-wong",
+          "FullName": "Phil Wong",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 260
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 280
+        }
+      ],
+      "LastModified": "2026-01-30T20:01:19.76Z"
+    },
+    {
+      "ID": 433442,
+      "GUID": "FF394A72-2219-4EAF-9CE9-C4F74052D6DF",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to reporting on payments to early childhood care and education providers",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 77278,
+      "MatterFile": "Int 0203-2026",
+      "MatterName": "Reporting on payments to early childhood care and education providers.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-01-30T20:01:47.25Z"
     }
   ],
   "AgendaLastPublished": "2026-01-22T21:11:38.033Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-01-30T17:00:48.16Z"
+  "MinutesLastPublished": "2026-01-30T20:01:53.417Z",
+  "LastModified": "2026-01-30T20:01:53.553Z"
 }

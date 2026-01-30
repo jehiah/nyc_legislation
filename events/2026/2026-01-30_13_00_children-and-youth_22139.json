@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/1/22139_A_Committee_on_Children_and_Youth_26-01-30_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/1/22139_M_Committee_on_Children_and_Youth_26-01-30_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-2_260130-130703.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22139&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,16 +20,87 @@
       "GUID": "224E6F9D-7A78-4489-AFF0-B3FAF31D21A3",
       "Title": "A Local Law to amend the New York city charter, in relation to the structure and responsibilities of the youth board",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 77111,
       "MatterFile": "T2026-0160",
       "MatterName": "Structure and responsibilities of the youth board.",
       "MatterType": "Introduction",
-      "LastModified": "2026-01-21T16:03:18.153Z"
+      "LastModified": "2026-01-30T18:43:01.267Z"
+    },
+    {
+      "ID": 433425,
+      "GUID": "70347168-2B46-453E-A3D9-DEC9CED880E4",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5289,
+          "Slug": "simcha-felder",
+          "FullName": "Simcha Felder",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        }
+      ],
+      "LastModified": "2026-01-30T19:46:33.13Z"
+    },
+    {
+      "ID": 433426,
+      "GUID": "6A23E538-6A04-4C1E-A7A9-B22A1F458C7A",
+      "Title": "A Local Law to amend the New York city charter, in relation to the structure and responsibilities of the youth board",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 77111,
+      "MatterFile": "T2026-0160",
+      "MatterName": "Structure and responsibilities of the youth board.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-01-30T18:43:22.857Z"
     }
   ],
   "AgendaLastPublished": "2026-01-21T16:03:22.36Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-01-21T16:03:22.473Z"
+  "MinutesLastPublished": "2026-01-30T19:46:38.207Z",
+  "LastModified": "2026-01-30T19:46:38.287Z"
 }

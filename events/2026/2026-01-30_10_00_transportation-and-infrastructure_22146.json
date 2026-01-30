@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/1/22146_A_Committee_on_Transportation_and_Infrastructure_26-01-30_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/1/22146_M_Committee_on_Transportation_and_Infrastructure_26-01-30_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_260130-102036.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22146&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,16 +20,145 @@
       "GUID": "1795A4AA-973A-4F19-BB5C-A70C9F2BC520",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to special activation of the Open Streets program on certain holidays and time periods with significant pedestrian traffic",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 77116,
-      "MatterFile": "T2026-0165",
+      "MatterFile": "Int 0257-2026",
       "MatterName": "Special activation of the Open Streets program on certain holidays and time periods with significant pedestrian traffic.",
       "MatterType": "Introduction",
-      "LastModified": "2026-01-28T19:25:50.853Z"
+      "LastModified": "2026-01-30T20:51:23.58Z"
+    },
+    {
+      "ID": 433443,
+      "GUID": "890D72D1-2EA5-4603-BB76-DF5EAE0E0BB0",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 27
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 33
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7897,
+          "Slug": "justin-e-sanchez",
+          "FullName": "Justin E. Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 160
+        },
+        {
+          "ID": 7900,
+          "Slug": "phil-wong",
+          "FullName": "Phil Wong",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        }
+      ],
+      "LastModified": "2026-01-30T20:50:51.353Z"
+    },
+    {
+      "ID": 433446,
+      "GUID": "CE09E5A7-5184-483E-BFA7-32467690F987",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Joseph",
+      "LastModified": "2026-01-30T20:51:08.307Z"
+    },
+    {
+      "ID": 433447,
+      "GUID": "BC8BE6C6-110B-46A3-9FF4-AD1B0CF521F1",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to special activation of the Open Streets program on certain holidays and time periods with significant pedestrian traffic",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 77116,
+      "MatterFile": "Int 0257-2026",
+      "MatterName": "Special activation of the Open Streets program on certain holidays and time periods with significant pedestrian traffic.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-01-30T20:51:29.04Z"
     }
   ],
   "AgendaLastPublished": "2026-01-21T16:04:22.107Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-01-30T15:49:19.503Z"
+  "MinutesLastPublished": "2026-01-30T20:51:34.723Z",
+  "LastModified": "2026-01-30T20:51:34.783Z"
 }
