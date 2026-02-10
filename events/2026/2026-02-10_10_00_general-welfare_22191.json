@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/2/22191_A_Committee_on_General_Welfare_26-02-10_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/2/22191_M_Committee_on_General_Welfare_26-02-10_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Public Safety.",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22191&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,26 +20,124 @@
       "GUID": "04D6B59D-5065-4119-843F-52A8C682B41B",
       "Title": "Jointly with the Committee on Public Safety",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "",
-      "LastModified": "2026-02-04T02:10:58.76Z"
+      "LastModified": "2026-02-10T20:59:14.543Z"
     },
     {
       "ID": 433624,
       "GUID": "75CF656E-C903-49BD-B471-9425E8196C5B",
       "Title": "Oversight - Protecting Lives in the Cold: Oversight of NYC's Code Blue Operations.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 77983,
       "MatterFile": "T2026-1032",
       "MatterName": "Oversight - Protecting Lives in the Cold: Oversight of NYC's Code Blue Operations.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-02-04T02:24:52.83Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-02-10T20:59:18.457Z"
+    },
+    {
+      "ID": 434310,
+      "GUID": "24ED326A-0CAE-4945-BF7E-1373E866E750",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7887,
+          "Slug": "frank-morano",
+          "FullName": "Frank Morano",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 80
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 130
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2026-02-10T20:59:13.067Z"
+    },
+    {
+      "ID": 434311,
+      "GUID": "50FAC9B6-8432-44B6-8966-37C1581919F9",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Speaker Menin, Feliz, Encarnación, Hankerson, Banks, Ariola, Felder, Public Advocate Williams, Sanchez, Wong, Narcisse, Restler, Gutiérrez and Hanks",
+      "LastModified": "2026-02-10T21:00:47.89Z"
+    },
+    {
+      "ID": 434312,
+      "GUID": "D3D768C6-62DC-4A3C-846F-5E66BB245DF8",
+      "Title": "Oversight - Protecting Lives in the Cold: Oversight of NYC's Code Blue Operations.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 77983,
+      "MatterFile": "T2026-1032",
+      "MatterName": "Oversight - Protecting Lives in the Cold: Oversight of NYC's Code Blue Operations.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-02-10T20:59:22.54Z"
     }
   ],
   "AgendaLastPublished": "2026-02-04T02:24:57.94Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-02-04T02:24:58.073Z"
+  "MinutesLastPublished": "2026-02-10T21:00:53.097Z",
+  "LastModified": "2026-02-10T21:00:53.233Z"
 }
