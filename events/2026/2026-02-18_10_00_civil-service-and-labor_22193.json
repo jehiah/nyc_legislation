@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/2/22193_A_Committee_on_Civil_Service_and_Labor_26-02-18_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/2/22193_M_Committee_on_Civil_Service_and_Labor_26-02-18_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-3_260218-100105.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22193&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,16 +20,103 @@
       "GUID": "AE3C0311-393F-438D-A2D1-FD77BAF43247",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to maximum working hours for home care aides",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 77574,
       "MatterFile": "Int 0303-2026",
       "MatterName": "Maximum working hours for home care aides.",
       "MatterType": "Introduction",
-      "LastModified": "2026-02-12T15:43:22.64Z"
+      "LastModified": "2026-02-18T17:36:52.643Z"
+    },
+    {
+      "ID": 434982,
+      "GUID": "72178635-5021-42CE-A362-03A6F33FE4DC",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7896,
+          "Slug": "shirley-aldebol",
+          "FullName": "Shirley Aldebol",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-l-caban",
+          "FullName": "Tiffany L. Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7899,
+          "Slug": "ty-hankerson",
+          "FullName": "Ty Hankerson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 100
+        },
+        {
+          "ID": 7887,
+          "Slug": "frank-morano",
+          "FullName": "Frank Morano",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2026-02-18T17:36:32.377Z"
+    },
+    {
+      "ID": 434983,
+      "GUID": "D81BD3EF-846A-47FC-B013-ADE5DFFAD3D8",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to maximum working hours for home care aides",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 77574,
+      "MatterFile": "Int 0303-2026",
+      "MatterName": "Maximum working hours for home care aides.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-02-18T17:37:02.94Z"
     }
   ],
   "AgendaLastPublished": "2026-02-05T16:06:39.077Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-02-05T16:06:39.22Z"
+  "MinutesLastPublished": "2026-02-18T17:37:08.3Z",
+  "LastModified": "2026-02-18T17:37:08.47Z"
 }
