@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/2/22183_A_Committee_on_Aging_26-02-19_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/2/22183_M_Committee_on_Aging_26-02-19_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Subcommittee on Senior Centers and Food Security.",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-3_260219-130422.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22183&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,52 +21,180 @@
       "GUID": "AE617BAE-41D2-4849-8284-875A144293B9",
       "Title": "Oversight - Conditions at Older Adult Centers.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 77958,
       "MatterFile": "T2026-1007",
       "MatterName": "Oversight - Conditions at Older Adult Centers.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-02-18T19:31:43.897Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-02-19T22:37:04.87Z"
     },
     {
       "ID": 433927,
       "GUID": "FF85299F-7DC3-45C8-9C33-B46CC3218A4F",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing a grab-and-go meal program at older adult centers",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 77792,
       "MatterFile": "Int 0238-2026",
       "MatterName": "Establishing a grab-and-go meal program at older adult centers.",
       "MatterType": "Introduction",
-      "LastModified": "2026-02-06T21:38:27.77Z"
+      "LastModified": "2026-02-19T22:37:17.073Z"
     },
     {
       "ID": 433928,
       "GUID": "8F99254F-D1DE-4DC8-B6A9-5B4D7FFC6F63",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring home-delivered meals be delivered each day of the calendar year.",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 77534,
       "MatterFile": "Int 0280-2026",
       "MatterName": "Requiring home-delivered meals be delivered each day of the calendar year.",
       "MatterType": "Introduction",
-      "LastModified": "2026-02-10T19:18:07.507Z"
+      "LastModified": "2026-02-19T22:37:29.043Z"
     },
     {
       "ID": 434251,
       "GUID": "BC6931FF-59CB-43B5-AA68-772793BFF82F",
       "Title": "Jointly with the Subcommittee on Senior Centers and Food Security",
       "AgendaSequence": 4,
-      "MinutesSequence": 4,
+      "MinutesSequence": 9,
       "Version": "",
-      "LastModified": "2026-02-10T19:18:12.447Z"
+      "LastModified": "2026-02-19T22:37:23.78Z"
+    },
+    {
+      "ID": 435049,
+      "GUID": "10337FBF-F50E-4259-BB97-2D0D49FD1DA6",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7896,
+          "Slug": "shirley-aldebol",
+          "FullName": "Shirley Aldebol",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 120
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2026-02-19T22:36:55.353Z"
+    },
+    {
+      "ID": 435050,
+      "GUID": "A83D21D2-6A10-46C4-9A91-AA0927B10A80",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Farías ",
+      "LastModified": "2026-02-19T22:32:25.707Z"
+    },
+    {
+      "ID": 435051,
+      "GUID": "C4633197-B2A9-4B9F-9F37-2DF4397C6206",
+      "Title": "Oversight - Conditions at Older Adult Centers.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 77958,
+      "MatterFile": "T2026-1007",
+      "MatterName": "Oversight - Conditions at Older Adult Centers.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-02-19T22:37:08.53Z"
+    },
+    {
+      "ID": 435052,
+      "GUID": "F15FA350-9B21-472C-A4EE-2D867785AFC8",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing a grab-and-go meal program at older adult centers",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 77792,
+      "MatterFile": "Int 0238-2026",
+      "MatterName": "Establishing a grab-and-go meal program at older adult centers.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-02-19T22:37:21.967Z"
+    },
+    {
+      "ID": 435053,
+      "GUID": "E4DD24E0-8487-4CA6-9164-A7D522356EF0",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring home-delivered meals be delivered each day of the calendar year.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 77534,
+      "MatterFile": "Int 0280-2026",
+      "MatterName": "Requiring home-delivered meals be delivered each day of the calendar year.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-02-19T22:37:35.53Z"
     }
   ],
   "AgendaLastPublished": "2026-02-18T19:31:48.367Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-02-18T19:31:48.447Z"
+  "MinutesLastPublished": "2026-02-19T22:37:41.993Z",
+  "LastModified": "2026-02-19T22:37:42.04Z"
 }

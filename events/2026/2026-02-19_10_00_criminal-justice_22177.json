@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/2/22177_A_Committee_on_Criminal_Justice_26-02-19_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/2/22177_M_Committee_on_Criminal_Justice_26-02-19_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-2_260219-100655.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22177&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,30 +20,147 @@
       "GUID": "9570FF55-F699-49F2-8ACB-E5386238207E",
       "Title": "Oversight - Programming to Prevent Recidivism and Promote Public Health and Safety.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 77946,
       "MatterFile": "T2026-0995",
       "MatterName": "Oversight - Programming to Prevent Recidivism and Promote Public Health and Safety.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-02-19T14:36:30.707Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-02-19T19:31:29.043Z"
     },
     {
       "ID": 434725,
       "GUID": "7FF8EFA3-F27C-45AF-B608-C2797AB20FA6",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to returning funds remaining in commissary accounts when incarcerated individuals are released from custody",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 77813,
       "MatterFile": "Int 0246-2026",
       "MatterName": "Returning funds remaining in commissary accounts when incarcerated individuals are released from custody.",
       "MatterType": "Introduction",
-      "LastModified": "2026-02-19T00:17:58.37Z"
+      "LastModified": "2026-02-19T19:31:41.88Z"
+    },
+    {
+      "ID": 435043,
+      "GUID": "2732BD93-9DB3-4070-AF95-2849581F8026",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-l-caban",
+          "FullName": "Tiffany L. Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-j-feliz",
+          "FullName": "Oswald J. Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7887,
+          "Slug": "frank-morano",
+          "FullName": "Frank Morano",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2026-02-19T19:31:23.053Z"
+    },
+    {
+      "ID": 435044,
+      "GUID": "754A44EB-467A-4B24-BCC2-BB1EB7DD9FF8",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Nurse",
+      "LastModified": "2026-02-19T19:31:17.8Z"
+    },
+    {
+      "ID": 435045,
+      "GUID": "974622F1-9107-4934-A25E-947532B1899E",
+      "Title": "Oversight - Programming to Prevent Recidivism and Promote Public Health and Safety.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 77946,
+      "MatterFile": "T2026-0995",
+      "MatterName": "Oversight - Programming to Prevent Recidivism and Promote Public Health and Safety.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-02-19T19:31:35.047Z"
+    },
+    {
+      "ID": 435046,
+      "GUID": "5E75586D-CAE2-4CE2-AF65-53467135729C",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to returning funds remaining in commissary accounts when incarcerated individuals are released from custody",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 77813,
+      "MatterFile": "Int 0246-2026",
+      "MatterName": "Returning funds remaining in commissary accounts when incarcerated individuals are released from custody.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-02-19T19:31:49.35Z"
     }
   ],
   "AgendaLastPublished": "2026-02-19T14:36:42.823Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-02-19T15:06:55.47Z"
+  "MinutesLastPublished": "2026-02-19T19:31:55.293Z",
+  "LastModified": "2026-02-19T19:31:55.45Z"
 }
