@@ -6,8 +6,8 @@
   "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the commissioner of health and mental hygiene to report deaths by suicide that occur in the city and suicide-related behavior among youth",
   "TypeID": 2,
   "TypeName": "Introduction",
-  "StatusID": 3,
-  "StatusName": "Committee",
+  "StatusID": 24,
+  "StatusName": "Reported from Committee",
   "BodyID": 5315,
   "BodyName": "Committee on Mental Health and Substance Use",
   "IntroDate": "2026-01-29T00:00:00Z",
@@ -127,6 +127,16 @@
       "FullName": "Yusef Salaam"
     },
     {
+      "ID": 7816,
+      "Slug": "julie-won",
+      "FullName": "Julie Won"
+    },
+    {
+      "ID": 7801,
+      "Slug": "christopher-marte",
+      "FullName": "Christopher Marte"
+    },
+    {
       "ID": 7811,
       "Slug": "vickie-paladino",
       "FullName": "Vickie Paladino"
@@ -211,6 +221,131 @@
       "AgendaNote": "Preconsidered - Mental Health and Addiction",
       "MatterStatusID": 3,
       "LastModified": "2026-02-09T19:18:37.587Z"
+    },
+    {
+      "ID": 435066,
+      "Date": "2026-02-24T10:00:00Z",
+      "ActionID": 54,
+      "Action": "Hearing Held by Committee",
+      "Description": "This Introduction was Hearing Held by Committee",
+      "BodyID": 5315,
+      "BodyName": "Committee on Mental Health and Substance Use",
+      "EventID": 22240,
+      "AgendaSequence": 1,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "AgendaNote": "Proposed Int. No. 291-A",
+      "MinutesNote": "Proposed Int. No. 291-A",
+      "MatterStatusID": 3,
+      "LastModified": "2026-02-24T15:44:12.87Z"
+    },
+    {
+      "ID": 435420,
+      "Date": "2026-02-24T10:00:00Z",
+      "ActionID": 5001,
+      "Action": "Amendment Proposed by Comm",
+      "Description": "This Introduction was Amendment Proposed by Comm",
+      "BodyID": 5315,
+      "BodyName": "Committee on Mental Health and Substance Use",
+      "EventID": 22240,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2026-02-24T15:44:17.623Z"
+    },
+    {
+      "ID": 435421,
+      "Date": "2026-02-24T10:00:00Z",
+      "ActionID": 33,
+      "Action": "Amended by Committee",
+      "Description": "This Introduction was Amended by Committee",
+      "BodyID": 5315,
+      "BodyName": "Committee on Mental Health and Substance Use",
+      "EventID": 22240,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2026-02-24T15:44:22.23Z"
+    },
+    {
+      "ID": 435422,
+      "Date": "2026-02-24T10:00:00Z",
+      "ActionID": 32,
+      "Action": "Approved by Committee",
+      "Description": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "BodyID": 5315,
+      "BodyName": "Committee on Mental Health and Substance Use",
+      "EventID": 22240,
+      "MinutesSequence": 6,
+      "Version": "A",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterStatusID": 24,
+      "Votes": [
+        {
+          "ID": 7813,
+          "Slug": "tiffany-l-caban",
+          "FullName": "Tiffany L. Cabán",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 20
+        },
+        {
+          "ID": 7896,
+          "Slug": "shirley-aldebol",
+          "FullName": "Shirley Aldebol",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 40
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 60
+        },
+        {
+          "ID": 5289,
+          "Slug": "simcha-felder",
+          "FullName": "Simcha Felder",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 80
+        },
+        {
+          "ID": 7899,
+          "Slug": "ty-hankerson",
+          "FullName": "Ty Hankerson",
+          "VoteID": 46,
+          "Vote": "Medical",
+          "Sort": 100
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 120
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2026-02-24T15:44:35.8Z"
     }
   ],
   "Attachments": [
@@ -279,7 +414,7 @@
     },
     {
       "ID": 333611,
-      "LastModified": "2026-02-23T23:14:32.093Z",
+      "LastModified": "2026-02-24T00:28:07.23Z",
       "Name": "Proposed Int. No. 291-A - 2/5/26",
       "Link": "https://nyc.legistar1.com/nyc/attachments/12890077-ede1-468a-b7c3-2bd4827d4755.docx",
       "Sort": 10
@@ -297,11 +432,18 @@
       "Name": "Proposed Int. No. 291-A -Fiscal Impact Statement - City Council",
       "Link": "https://nyc.legistar1.com/nyc/attachments/0a91673f-65a4-410f-b6f3-905f3132479d.docx",
       "Sort": 12
+    },
+    {
+      "ID": 336453,
+      "LastModified": "2026-02-24T17:22:01.49Z",
+      "Name": "February 24, 2026 - Stated Meeting Agenda",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/f7aa5a95-857e-4369-8260-ba27eb92892e.pdf",
+      "Sort": 13
     }
   ],
   "Summary": "This bill would require the Department of Health and Mental Hygiene (DOHMH) to regularly report on deaths by suicide in New York City and on suicide-related behaviors among youth. Beginning within six months of the law taking effect, and every year thereafter, the Department would publish a report on suicides in the city, including the total number of deaths and available demographic information such as age group, occupation, race and ethnicity, borough of residence, sex, veteran status, and method of suicide. The bill would also require the Department, beginning within six months of enactment and every two years thereafter, to publish a report on suicide-related behaviors among youth, including information related to sexual orientation and gender identity, to the extent such data is available. Both reports would be required to describe any limitations in the data and to protect individual privacy and law enforcement interests.",
   "TextID": 82121,
   "Text": "Be it enacted by the Council as follows:\n      \n      \n      Section 1. Chapter 1 of title 17 of the administrative code of the city of New York is amended by adding a new section 17-199.31 to read as follows:\n      � 17-199.31 Report on deaths by suicide and suicide-related behavior among youth. a. Definitions. For purposes of this section, the following terms have the following meanings:\n      Gender identity. The term \"gender identity\" means a person's internal sense of their own gender, which may be different from their sex assigned at birth, and may include identities such as male, female, transgender, nonbinary, or other self-identified genders. \n      Sex. The term \"sex\" means the classification of a person as male, female, or intersex based on biological characteristics, including anatomy, chromosomes, or hormones, as recorded at birth or as legally recognized.\n      Sexual orientation. The term \"sexual orientation\" means a person's enduring physical, romantic, or emotional attraction to others, including but not limited to identities such as heterosexual, homosexual, bisexual, pansexual, or asexual.\n      b. Report on deaths by suicide. No later than 6 months after the effective date of the local law that added this section, and annually thereafter, the commissioner, in consultation with other relevant agencies as appropriate, shall submit to the mayor and the speaker of the council, and post on the department's website, a report on suicides that occurred in the city in the calendar year for which the most recent data is available. Such report shall set forth the number of deaths by suicide in total and disaggregated, to the extent available by the following information about each decedent:\n      1. Age group;\n      2. Occupational category;\n      3. Race and ethnicity;\n      4. Borough of residence; \n      5. Sex; \n      6. Veteran status;\n      7. Method of suicide; and \n      8. Any other subset the commissioner deems appropriate. \n      c. Report on youth suicide-related behavior. No later than 6 months after the effective date of the local law that added this section, and every 2 years thereafter, the commissioner, in consultation with other relevant agencies as appropriate, shall submit to the mayor and the speaker of the council, and post on the department's website, a report on suicide-related behaviors among youth, including, but not limited to, information related to sexual orientation and gender identity, to the extent such data is available to the department. \n      d. Data limitations and transparency. The reports required pursuant to subdivisions b and c of this section shall include a description of data limitations, if any.\n      e. Privacy of information. No information that is required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state, local law, or rules or regulations relating to the privacy of any individual or any decedent, or that would interfere with law enforcement investigations or otherwise conflict with the interests of any law enforcement agency. \n      � 2. This local law takes effect immediately.\n\n\n\n\nPS/SOS\nLS #5532/17223\nInt. #1162-2025\n2/4/26 9:54pm\n      1\n      \n      \n      2",
   "RTF": "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang1033\\deflangfe1033{\\fonttbl{\\f0\\froman\\fprq2\\fcharset0 Times New Roman;}}\n\\viewkind4\\uc1\n\\ul\\v0\\par\nBe it enacted by the Council as follows:\\ulnone\\par\n\\pard\\ltrpar\\fi720\\qj\\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qj Section 1. Chapter 1 of title 17 of the administrative code of the city of New York is amended by adding a new section 17-199.31 to read as follows:\\par\n\\ul\\'a7 17-199.31 Report on deaths by suicide and suicide-related behavior among youth. a. Definitions. For purposes of this section, the following terms have the following meanings:\\par\nGender identity. The term \\ldblquote gender identity\\rdblquote  means a person\\rquote s internal sense of their own gender, which may be different from their sex assigned at birth, and may include identities such as male, female, transgender, nonbinary, or other self-identified genders. \\par\nSex. The term \\ldblquote sex\\rdblquote  means the classification of a person as male, female, or intersex based on biological characteristics, including anatomy, chromosomes, or hormones, as recorded at birth or as legally recognized.\\par\nSexual orientation. The term \\ldblquote sexual orientation\\rdblquote  means a person\\rquote s enduring physical, romantic, or emotional attraction to others, including but not limited to identities such as heterosexual, homosexual, bisexual, pansexual, or asexual.\\par\nb. Report on deaths by suicide. No later than 6 months after the effective date of the local law that added this section, and annually thereafter, the commissioner, in consultation with other relevant agencies as appropriate, shall submit to the mayor and the speaker of the council, and post on the department\\rquote s website, a report on suicides that occurred in the city in the calendar year for which the most recent data is available. Such report shall set forth the number of deaths by suicide in total and disaggregated, to the extent available by the following information about each decedent:\\par\n1. Age group;\\par\n2. Occupational category;\\par\n3. Race and ethnicity;\\par\n4. Borough of residence; \\par\n5. Sex; \\par\n6. Veteran status;\\par\n7. Method of suicide; and \\par\n8. Any other subset the commissioner deems appropriate. \\par\nc. Report on youth suicide-related behavior. No later than 6 months after the effective date of the local law that added this section, and every 2 years thereafter, the commissioner, in consultation with other relevant agencies as appropriate, shall submit to the mayor and the speaker of the council, and post on the department\\rquote s website, a report on suicide-related behaviors among youth, including, but not limited to, information related to sexual orientation and gender identity, to the extent such data is available to the department. \\par\nd. Data limitations and transparency. The reports required pursuant to subdivisions b and c of this section shall include a description of data limitations, if any.\\par\ne. Privacy of information. No information that is required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state, local law, or rules or regulations relating to the privacy of any individual or any decedent, or that would interfere with law enforcement investigations or otherwise conflict with the interests of any law enforcement agency. \\par\n\\ulnone\\'a7 2. This local law takes effect immediately.\\ul\\par\n\\pard\\ltrpar\\qj\\ulnone\\fs18\\par\n\\par\n\\par\nPS/SOS\\par\nLS #5532/17223\\par\nInt. #1162-2025\\par\n\\pard\\ltrpar 2/4/26 9:54pm\\par\n}\n",
-  "LastModified": "2026-02-23T23:14:33.563Z"
+  "LastModified": "2026-02-24T17:22:01.493Z"
 }

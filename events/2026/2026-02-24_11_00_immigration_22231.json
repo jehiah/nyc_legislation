@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/2/22231_A_Committee_on_Immigration_26-02-24_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/2/22231_M_Committee_on_Immigration_26-02-24_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_260224-110824.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22231&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,16 +21,89 @@
       "GUID": "526A39FD-AFBA-412B-BC2A-6BC7AFD1DD0F",
       "Title": "Resolution condemning the fatal shootings of Renée Nicole Good and Alex Jeffrey Pretti by federal immigration authorities",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 77975,
       "MatterFile": "Res 0210-2026",
       "MatterName": "Condemning the fatal shootings of Renée Nicole Good and Alex Jeffrey Pretti by federal immigration authorities.",
       "MatterType": "Resolution",
-      "LastModified": "2026-02-20T17:22:35.207Z"
+      "LastModified": "2026-02-24T16:28:05.34Z"
+    },
+    {
+      "ID": 435428,
+      "GUID": "D757E078-F747-4495-9075-5F4ED28413C8",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7895,
+          "Slug": "elsie-encarnacion",
+          "FullName": "Elsie Encarnación",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 80
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        }
+      ],
+      "LastModified": "2026-02-24T16:28:00.603Z"
+    },
+    {
+      "ID": 435429,
+      "GUID": "525DEC72-C5BD-4721-8A76-DFF65A0C0816",
+      "Title": "Resolution condemning the fatal shootings of Renée Nicole Good and Alex Jeffrey Pretti by federal immigration authorities",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "This Resolution was Approved by Committee",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 77975,
+      "MatterFile": "Res 0210-2026",
+      "MatterName": "Condemning the fatal shootings of Renée Nicole Good and Alex Jeffrey Pretti by federal immigration authorities.",
+      "MatterType": "Resolution",
+      "LastModified": "2026-02-24T16:28:16.2Z"
     }
   ],
   "AgendaLastPublished": "2026-02-20T17:22:40.523Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-02-20T17:22:40.643Z"
+  "MinutesLastPublished": "2026-02-24T16:28:24.047Z",
+  "LastModified": "2026-02-24T16:28:24.16Z"
 }
