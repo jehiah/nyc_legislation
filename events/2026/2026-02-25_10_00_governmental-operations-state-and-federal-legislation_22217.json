@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/2/22217_A_Committee_on_Governmental_Operations%2C_State___Federal_Legislation_26-02-25_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/2/22217_M_Committee_on_Governmental_Operations%2C_State___Federal_Legislation_26-02-25_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-3_260225-103304.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22217&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,56 +20,201 @@
       "GUID": "AA71A673-B1BF-4412-8F87-C28D79BD6B4C",
       "Title": "Oversight - Vacant and Underused City Property.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 77997,
       "MatterFile": "T2026-1046",
       "MatterName": "Oversight - Vacant and Underused City Property.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-02-13T17:15:12.75Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-02-25T17:40:16.71Z"
     },
     {
       "ID": 434913,
       "GUID": "2BC81FF5-7361-487F-B823-237AFBA22BCF",
       "Title": "A Local Law to amend the New York city charter, in relation to combining the archival review board and the archives, reference and research advisory board into a library and archival review advisory board, and to repeal section 3009 of such charter in relation thereto",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 77337,
       "MatterFile": "Int 0087-2026",
       "MatterName": "Combining the archival review board and the archives, reference and research advisory board into a library and archival review advisory board, and to repeal section 3009 of such charter in relation thereto.",
       "MatterType": "Introduction",
-      "LastModified": "2026-02-13T17:15:33.787Z"
+      "LastModified": "2026-02-25T17:40:25.89Z"
     },
     {
       "ID": 434914,
       "GUID": "CC13A9F7-1E05-4C39-80FF-B917414EFC8B",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to leasing or rental of city properties",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 6,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 78170,
       "MatterFile": "Int 0541-2026",
       "MatterName": "Leasing or rental of city properties.",
       "MatterType": "Introduction",
-      "LastModified": "2026-02-13T17:15:40.84Z"
+      "LastModified": "2026-02-25T17:40:35.21Z"
     },
     {
       "ID": 434915,
       "GUID": "4F057B3D-BC65-419E-9E21-CF5CDB6CAA7E",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of citywide administrative services to report on the use or vacancy of space in city buildings",
       "AgendaSequence": 4,
-      "MinutesSequence": 4,
+      "MinutesSequence": 8,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 78172,
       "MatterFile": "Int 0542-2026",
       "MatterName": "Requiring the department of citywide administrative services to report on the use or vacancy of space in city buildings.",
       "MatterType": "Introduction",
-      "LastModified": "2026-02-13T17:24:03.257Z"
+      "LastModified": "2026-02-25T17:40:44.077Z"
+    },
+    {
+      "ID": 435511,
+      "GUID": "47CA9B39-B45C-439F-9750-B46D845C84B3",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-j-feliz",
+          "FullName": "Oswald J. Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7899,
+          "Slug": "ty-hankerson",
+          "FullName": "Ty Hankerson",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 80
+        },
+        {
+          "ID": 7887,
+          "Slug": "frank-morano",
+          "FullName": "Frank Morano",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2026-02-25T17:40:09.89Z"
+    },
+    {
+      "ID": 435512,
+      "GUID": "AD8BBCD1-2802-4312-BEF1-186F403C8776",
+      "Title": "Oversight - Vacant and Underused City Property.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 77997,
+      "MatterFile": "T2026-1046",
+      "MatterName": "Oversight - Vacant and Underused City Property.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-02-25T17:40:19.917Z"
+    },
+    {
+      "ID": 435513,
+      "GUID": "618613C4-BF7D-460D-B1BA-684DEEA94E8A",
+      "Title": "A Local Law to amend the New York city charter, in relation to combining the archival review board and the archives, reference and research advisory board into a library and archival review advisory board, and to repeal section 3009 of such charter in relation thereto",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 77337,
+      "MatterFile": "Int 0087-2026",
+      "MatterName": "Combining the archival review board and the archives, reference and research advisory board into a library and archival review advisory board, and to repeal section 3009 of such charter in relation thereto.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-02-25T17:40:29.61Z"
+    },
+    {
+      "ID": 435514,
+      "GUID": "A7A25A2A-CFE0-4355-B2FA-4E8A70F44F3A",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to leasing or rental of city properties",
+      "AgendaSequence": 0,
+      "MinutesSequence": 7,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 78170,
+      "MatterFile": "Int 0541-2026",
+      "MatterName": "Leasing or rental of city properties.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-02-25T17:40:38.66Z"
+    },
+    {
+      "ID": 435515,
+      "GUID": "DAA14087-4376-4659-B892-91E1446761CE",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of citywide administrative services to report on the use or vacancy of space in city buildings",
+      "AgendaSequence": 0,
+      "MinutesSequence": 9,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 78172,
+      "MatterFile": "Int 0542-2026",
+      "MatterName": "Requiring the department of citywide administrative services to report on the use or vacancy of space in city buildings.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-02-25T17:40:48.937Z"
     }
   ],
   "AgendaLastPublished": "2026-02-13T17:24:10.033Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-02-13T17:24:10.27Z"
+  "MinutesLastPublished": "2026-02-25T17:40:54.007Z",
+  "LastModified": "2026-02-25T17:40:54.07Z"
 }
