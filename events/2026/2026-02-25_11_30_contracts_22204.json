@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/2/22204_A_Committee_on_Contracts_26-02-25_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/2/22204_M_Committee_on_Contracts_26-02-25_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-2_260225-113753.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22204&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,56 +20,201 @@
       "GUID": "AFA0D321-511F-4DD8-B63A-D8F86123A455",
       "Title": "Oversight - Ensuring Timely Payments for Nonprofits and Human Service Providers.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 78107,
       "MatterFile": "T2026-1156",
       "MatterName": "Oversight - Ensuring Timely Payments for Nonprofits and Human Service Providers.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-02-12T15:25:09.697Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-02-25T20:42:50.127Z"
     },
     {
       "ID": 434733,
       "GUID": "0CB56EC0-5DB7-4958-89D0-24250BFDD4CF",
       "Title": "A Local Law in relation to establishing a task force to examine disparities in contracting",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 77714,
       "MatterFile": "Int 0441-2026",
       "MatterName": "Establishing a task force to examine disparities in contracting.",
       "MatterType": "Introduction",
-      "LastModified": "2026-02-12T15:25:21.027Z"
+      "LastModified": "2026-02-25T20:43:01.07Z"
     },
     {
       "ID": 434734,
       "GUID": "27D0DC2F-71CB-45EE-BDBB-7E9F57D5E239",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing wage requirements for city-contracted human services workers",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 6,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 77780,
       "MatterFile": "Int 0452-2026",
       "MatterName": "Establishing wage requirements for city-contracted human services workers.",
       "MatterType": "Introduction",
-      "LastModified": "2026-02-20T23:14:26.777Z"
+      "LastModified": "2026-02-25T20:43:13.51Z"
     },
     {
       "ID": 435089,
       "GUID": "BF5327DE-61E6-475A-B60B-929CC0563855",
       "Title": "Resolution calling on the State Legislature to pass, and the Governor to sign, S.7638.B/A.8091.B, providing that certain purchase contracts to purchase food can be awarded to a qualified bidder who complies with certain standards when such bid is not more than 10% higher than the lowest responsible bidder.",
       "AgendaSequence": 4,
-      "MinutesSequence": 4,
+      "MinutesSequence": 8,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 76873,
       "MatterFile": "Res 0183-2026",
       "MatterName": "Certain purchase contracts to purchase food can be awarded to a qualified bidder who complies with certain standards when such bid is not more than 10% higher than the lowest possible bidder (S.7638-B/A.8091-B).",
       "MatterType": "Resolution",
-      "LastModified": "2026-02-20T23:14:37.303Z"
+      "LastModified": "2026-02-25T20:43:25.723Z"
+    },
+    {
+      "ID": 435521,
+      "GUID": "B13D2D01-3A8F-44A0-870D-EC8C7FCF48B7",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 80
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 120
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2026-02-25T20:42:23.437Z"
+    },
+    {
+      "ID": 435522,
+      "GUID": "C874F21D-5F12-4655-9542-9077FBB25D2C",
+      "Title": "Oversight - Ensuring Timely Payments for Nonprofits and Human Service Providers.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 78107,
+      "MatterFile": "T2026-1156",
+      "MatterName": "Oversight - Ensuring Timely Payments for Nonprofits and Human Service Providers.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-02-25T20:42:54.817Z"
+    },
+    {
+      "ID": 435523,
+      "GUID": "43C4B637-3F0D-475F-830B-DE91CB0D0A9A",
+      "Title": "A Local Law in relation to establishing a task force to examine disparities in contracting",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 77714,
+      "MatterFile": "Int 0441-2026",
+      "MatterName": "Establishing a task force to examine disparities in contracting.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-02-25T20:43:06.26Z"
+    },
+    {
+      "ID": 435524,
+      "GUID": "6527EE0B-525C-4C6F-AFCF-BCD2B53F9136",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing wage requirements for city-contracted human services workers",
+      "AgendaSequence": 0,
+      "MinutesSequence": 7,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 77780,
+      "MatterFile": "Int 0452-2026",
+      "MatterName": "Establishing wage requirements for city-contracted human services workers.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-02-25T20:43:18.487Z"
+    },
+    {
+      "ID": 435525,
+      "GUID": "4CC28CE4-C1F3-48EB-8144-1FDCAC64F7E9",
+      "Title": "Resolution calling on the State Legislature to pass, and the Governor to sign, S.7638.B/A.8091.B, providing that certain purchase contracts to purchase food can be awarded to a qualified bidder who complies with certain standards when such bid is not more than 10% higher than the lowest responsible bidder.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 9,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 76873,
+      "MatterFile": "Res 0183-2026",
+      "MatterName": "Certain purchase contracts to purchase food can be awarded to a qualified bidder who complies with certain standards when such bid is not more than 10% higher than the lowest possible bidder (S.7638-B/A.8091-B).",
+      "MatterType": "Resolution",
+      "LastModified": "2026-02-25T20:43:35.967Z"
     }
   ],
   "AgendaLastPublished": "2026-02-20T23:14:43.103Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-02-25T16:37:53.517Z"
+  "MinutesLastPublished": "2026-02-25T20:43:42.103Z",
+  "LastModified": "2026-02-25T20:43:42.227Z"
 }
