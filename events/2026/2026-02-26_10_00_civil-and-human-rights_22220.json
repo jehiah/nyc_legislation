@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/2/22220_A_Committee_on_Civil_and_Human_Rights_26-02-26_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/2/22220_M_Committee_on_Civil_and_Human_Rights_26-02-26_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_260226-101223.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22220&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,17 +20,107 @@
       "GUID": "E4010FB5-E14B-435B-B06F-B1061ED329A9",
       "Title": "Oversight - Budgeting for Equity.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 78200,
       "MatterFile": "T2026-1249",
       "MatterName": "Oversight - Budgeting for Equity.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-02-24T15:12:54.563Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-02-26T20:31:23.03Z"
+    },
+    {
+      "ID": 435579,
+      "GUID": "C9685619-F9AD-4BB4-89F3-AD420B393673",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-j-feliz",
+          "FullName": "Oswald J. Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2026-02-26T20:31:17.33Z"
+    },
+    {
+      "ID": 435580,
+      "GUID": "AF53CE4D-3C93-47D9-9263-DFC50C6BD6F8",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Hudson and Public Advocate Williams",
+      "LastModified": "2026-02-26T20:31:12.733Z"
+    },
+    {
+      "ID": 435581,
+      "GUID": "0453F827-2DA7-4DF1-80B2-C66932832071",
+      "Title": "Oversight - Budgeting for Equity.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 78200,
+      "MatterFile": "T2026-1249",
+      "MatterName": "Oversight - Budgeting for Equity.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-02-26T20:31:28.823Z"
     }
   ],
   "AgendaLastPublished": "2026-02-10T19:24:05.663Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-02-26T15:12:25.273Z"
+  "MinutesLastPublished": "2026-02-26T20:31:35.487Z",
+  "LastModified": "2026-02-26T20:31:35.643Z"
 }

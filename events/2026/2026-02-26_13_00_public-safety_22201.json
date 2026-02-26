@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/2/22201_A_Committee_on_Public_Safety_26-02-26_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/2/22201_M_Committee_on_Public_Safety_26-02-26_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Small Business",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22201&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,52 +20,212 @@
       "GUID": "B3D04F61-DB99-4797-ABEE-FA774F31BAA1",
       "Title": "Jointly with the Committee on Small Business",
       "AgendaSequence": 4,
-      "MinutesSequence": 4,
+      "MinutesSequence": 9,
       "Version": "",
-      "LastModified": "2026-02-05T22:38:12.817Z"
+      "LastModified": "2026-02-26T21:40:24.847Z"
     },
     {
       "ID": 433656,
       "GUID": "9330B9B3-F5A0-4903-84B3-759B626D2031",
       "Title": "Oversight - Retail Theft.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 78013,
       "MatterFile": "T2026-1062",
       "MatterName": "Oversight - Retail Theft.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-02-05T22:38:25.353Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-02-26T21:40:30.977Z"
     },
     {
       "ID": 433657,
       "GUID": "331653BB-9DB0-4DAD-84DB-A40688ADBAFA",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing a program to provide financial assistance to small retail businesses for the purchase of security system technology",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 77951,
       "MatterFile": "Int 0553-2026",
       "MatterName": "Establishing a program to provide financial assistance to small retail businesses for the purchase of security system technology.",
       "MatterType": "Introduction",
-      "LastModified": "2026-02-04T23:00:40.623Z"
+      "LastModified": "2026-02-26T22:28:52.847Z"
     },
     {
       "ID": 433658,
       "GUID": "424E2864-0C0C-496B-BB16-F629005E710F",
       "Title": "A Local Law in relation to establishing a small business security measures pilot program, and providing for the repeal of such provisions upon the expiration thereof",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 77986,
       "MatterFile": "Int 0623-2026",
       "MatterName": "Establishing a small business security measures pilot program, and providing for the repeal of such provisions upon the expiration thereof.",
       "MatterType": "Introduction",
-      "LastModified": "2026-02-04T23:00:59.36Z"
+      "LastModified": "2026-02-26T21:41:06.51Z"
+    },
+    {
+      "ID": 435585,
+      "GUID": "36FA2247-03E5-4662-971A-B54366436477",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7798,
+          "Slug": "oswald-j-feliz",
+          "FullName": "Oswald J. Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7895,
+          "Slug": "elsie-encarnacion",
+          "FullName": "Elsie Encarnación",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7899,
+          "Slug": "ty-hankerson",
+          "FullName": "Ty Hankerson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 160
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        },
+        {
+          "ID": 7897,
+          "Slug": "justin-e-sanchez",
+          "FullName": "Justin E. Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 200
+        },
+        {
+          "ID": 7900,
+          "Slug": "phil-wong",
+          "FullName": "Phil Wong",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 220
+        }
+      ],
+      "LastModified": "2026-02-26T21:38:29.507Z"
+    },
+    {
+      "ID": 435586,
+      "GUID": "9B3C681D-7DC0-4BA8-8D53-699480256E55",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Thomas-Henry, Maloney, Salaam, Hanif, Santosuosso, Morano and Cabán",
+      "LastModified": "2026-02-26T21:40:14.977Z"
+    },
+    {
+      "ID": 435587,
+      "GUID": "BC23ECA9-D12E-42CC-8F18-014A5EDC3872",
+      "Title": "Oversight - Retail Theft.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 78013,
+      "MatterFile": "T2026-1062",
+      "MatterName": "Oversight - Retail Theft.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-02-26T21:40:41.35Z"
+    },
+    {
+      "ID": 435588,
+      "GUID": "BA9C5946-90E8-4BD8-9D78-DEF2EED42267",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing a program to provide financial assistance to small retail businesses for the purchase of security system technology",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 77951,
+      "MatterFile": "Int 0553-2026",
+      "MatterName": "Establishing a program to provide financial assistance to small retail businesses for the purchase of security system technology.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-02-26T22:29:18.44Z"
+    },
+    {
+      "ID": 435589,
+      "GUID": "AE70BDD4-0F24-4F90-97AD-0571A26E9F54",
+      "Title": "A Local Law in relation to establishing a small business security measures pilot program, and providing for the repeal of such provisions upon the expiration thereof",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 77986,
+      "MatterFile": "Int 0623-2026",
+      "MatterName": "Establishing a small business security measures pilot program, and providing for the repeal of such provisions upon the expiration thereof.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-02-26T21:41:23.083Z"
     }
   ],
   "AgendaLastPublished": "2026-02-05T22:38:31.543Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-02-05T22:38:31.67Z"
+  "MinutesLastPublished": "2026-02-26T21:41:39.68Z",
+  "LastModified": "2026-02-26T21:41:39.83Z"
 }
