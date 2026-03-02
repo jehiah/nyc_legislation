@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/3/22234_A_Committee_on_Rules%2C_Privileges%2C_Elections%2C_Standards_and_Ethics_26-03-02_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/3/22234_M_Committee_on_Rules%2C_Privileges%2C_Elections%2C_Standards_and_Ethics_26-03-02_Meeting_Minutes.pdf",
   "Comment": "*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-3_260302-153500.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22234&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,31 +21,171 @@
       "GUID": "7892775E-E3F5-4352-8408-F42E4EECFD75",
       "Title": "Oversight - Pursuant to Council Rule 10.60.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 78344,
       "MatterFile": "T2026-1393",
       "MatterName": "Oversight - Pursuant to Council Rule 10.60.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-02-26T21:32:50.653Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-03-02T21:08:15.207Z"
     },
     {
       "ID": 435584,
       "GUID": "A33A48D7-1F75-47E4-B8C3-397BF911AD74",
       "Title": "AND SUCH OTHER BUSINESS AS MAY BE NECESSARY",
-      "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "AgendaSequence": 3,
+      "MinutesSequence": 6,
       "Version": "*",
       "MatterID": 76955,
       "MatterFile": "T2026-0004",
       "MatterName": "AND SUCH OTHER BUSINESS AS MAY BE NECESSARY",
       "MatterType": "N/A",
       "MatterStatus": "Introduced",
-      "LastModified": "2026-02-26T21:33:10.827Z"
+      "LastModified": "2026-03-02T21:08:21.453Z"
+    },
+    {
+      "ID": 435631,
+      "GUID": "74269E19-DC87-4A4B-947A-8D3F4A3030B4",
+      "Title": "Communication from the Mayor – Submitting the name of Stephen Loffredo to the Council for its advice and consent regarding his appointment to the New York City Conflicts of Interest Board pursuant to Section 2602 of the New York City Charter",
+      "AgendaSequence": 2,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Mayor's Message was Hearing Held by Committee",
+      "MatterID": 78201,
+      "MatterFile": "M 0038-2026",
+      "MatterName": "Stephen Loffredo, Conflicts of Interest Board",
+      "MatterType": "Mayor's Message",
+      "MatterStatus": "Companion Pending Approval by Council",
+      "LastModified": "2026-03-02T21:08:28.177Z"
+    },
+    {
+      "ID": 435635,
+      "GUID": "41ED8B9E-A6CC-4265-BA5F-26EBE91303E9",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7895,
+          "Slug": "elsie-encarnacion",
+          "FullName": "Elsie Encarnación",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        }
+      ],
+      "LastModified": "2026-03-02T21:08:05.43Z"
+    },
+    {
+      "ID": 435636,
+      "GUID": "99B78019-A8DF-4E1A-88DA-243F55BDD22B",
+      "Title": "Oversight - Pursuant to Council Rule 10.60.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 78344,
+      "MatterFile": "T2026-1393",
+      "MatterName": "Oversight - Pursuant to Council Rule 10.60.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-03-02T21:09:29.33Z"
+    },
+    {
+      "ID": 435637,
+      "GUID": "70CDB99C-6A7D-4B6A-9CF5-62FEDFB3F98C",
+      "Title": "Communication from the Mayor – Submitting the name of Stephen Loffredo to the Council for its advice and consent regarding his appointment to the New York City Conflicts of Interest Board pursuant to Section 2602 of the New York City Charter",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 5034,
+      "ActionName": "Approved by Committee with Companion Resolution",
+      "ActionText": "This Mayor's Message was Approved by Committee with Companion Resolution",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 78201,
+      "MatterFile": "M 0038-2026",
+      "MatterName": "Stephen Loffredo, Conflicts of Interest Board",
+      "MatterType": "Mayor's Message",
+      "MatterStatus": "Companion Pending Approval by Council",
+      "LastModified": "2026-03-02T21:08:57.757Z"
     }
   ],
-  "AgendaLastPublished": "2026-02-26T21:33:16.403Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-02-26T21:33:16.437Z"
+  "AgendaLastPublished": "2026-03-02T19:36:03.313Z",
+  "MinutesLastPublished": "2026-03-02T21:09:35.67Z",
+  "LastModified": "2026-03-02T21:50:06.087Z"
 }
