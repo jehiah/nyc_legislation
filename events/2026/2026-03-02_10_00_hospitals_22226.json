@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/3/22226_A_Committee_on_Hospitals_26-03-02_Committee_Agenda.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_260302-100822.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22226&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,17 +19,105 @@
       "GUID": "DFBDFB8F-34C7-4CCB-91CD-1083477E225F",
       "Title": "Oversight - Impacts of the Maimonides Health System and NYCH+H Merger.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 78204,
       "MatterFile": "T2026-1253",
       "MatterName": "Oversight - Impacts of the Maimonides Health System and NYCH+H Merger.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-02-12T21:04:00.363Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-03-02T17:44:37.967Z"
+    },
+    {
+      "ID": 435628,
+      "GUID": "EDC43910-3680-4A57-9248-938308E4CFEF",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7896,
+          "Slug": "shirley-aldebol",
+          "FullName": "Shirley Aldebol",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7895,
+          "Slug": "elsie-encarnacion",
+          "FullName": "Elsie Encarnación",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-c-farias",
+          "FullName": "Amanda C. Farías",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 100
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 120
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2026-03-02T17:44:30.403Z"
+    },
+    {
+      "ID": 435629,
+      "GUID": "5CA45B4B-3727-46E1-B247-7E9ADF154390",
+      "Title": "Oversight - Impacts of the Maimonides Health System and NYCH+H Merger.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 78204,
+      "MatterFile": "T2026-1253",
+      "MatterName": "Oversight - Impacts of the Maimonides Health System and NYCH+H Merger.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-03-02T17:44:41.37Z"
     }
   ],
   "AgendaLastPublished": "2026-02-12T21:04:04.44Z",
   "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-02-12T21:04:04.513Z"
+  "LastModified": "2026-03-02T17:01:57.397Z"
 }
