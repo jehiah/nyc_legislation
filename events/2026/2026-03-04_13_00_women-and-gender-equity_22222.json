@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/3/22222_A_Committee_on_Women_and_Gender_Equity_26-03-04_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/3/22222_M_Committee_on_Women_and_Gender_Equity_26-03-04_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Veterans",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22222&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,52 +20,172 @@
       "GUID": "A1760C21-574E-4990-BC07-832FBA8358AA",
       "Title": "Jointly with the Committee on Veterans",
       "AgendaSequence": 4,
-      "MinutesSequence": 4,
+      "MinutesSequence": 9,
       "Version": "",
-      "LastModified": "2026-02-13T21:44:42.423Z"
+      "LastModified": "2026-03-04T21:16:15.863Z"
     },
     {
       "ID": 434925,
       "GUID": "49DAB1E6-5209-46C6-A643-1A9AECC23014",
       "Title": "Oversight - Serving Women Veterans.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 78216,
       "MatterFile": "T2026-1265",
       "MatterName": "Oversight - Serving Women Veterans.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-02-13T21:43:31.897Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-03-04T21:16:00.993Z"
     },
     {
       "ID": 434926,
       "GUID": "6BADEBB8-0BF1-4667-96E4-D965E02174B5",
       "Title": "Resolution calling upon the New York City Housing Authority to include an admission preference for public housing in its next proposed agency plan for all veterans of the U.S. military",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 77298,
       "MatterFile": "Res 0014-2026",
       "MatterName": "New York City Housing Authority to include an admission preference for public housing in its next proposed agency plan for all veterans of the U.S. military.",
       "MatterType": "Resolution",
-      "LastModified": "2026-02-13T21:43:38.847Z"
+      "LastModified": "2026-03-04T21:20:54.57Z"
     },
     {
       "ID": 434927,
       "GUID": "D318004C-9B7F-4F47-8E95-E9EFB26FFAB8",
       "Title": "Resolution calling on the New York City Department of Education to observe Veterans Day the Friday before November 11th if it falls on a Saturday and the Monday after the 11th if it falls on a Sunday",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 77633,
       "MatterFile": "Res 0131-2026",
       "MatterName": "DOE to observe Veterans Day the Friday before November 11th if it falls on a Saturday and the Monday after the 11th if it falls on a Sunday.",
       "MatterType": "Resolution",
-      "LastModified": "2026-02-13T21:43:52.317Z"
+      "LastModified": "2026-03-04T21:21:39.91Z"
+    },
+    {
+      "ID": 435717,
+      "GUID": "23A2A733-E8E5-4598-B60F-24C6D2143AE3",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7810,
+          "Slug": "amanda-c-farias",
+          "FullName": "Amanda C. Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7896,
+          "Slug": "shirley-aldebol",
+          "FullName": "Shirley Aldebol",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7901,
+          "Slug": "kayla-santosuosso",
+          "FullName": "Kayla Santosuosso",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        }
+      ],
+      "LastModified": "2026-03-04T21:15:53.367Z"
+    },
+    {
+      "ID": 435718,
+      "GUID": "7D4F8767-4120-4B71-B689-E2CB583122AF",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Morano, Wong, Paladino, and De La Rosa",
+      "LastModified": "2026-03-04T21:15:50.26Z"
+    },
+    {
+      "ID": 435719,
+      "GUID": "15F12755-3B56-4DF9-9F93-3326FC6293CC",
+      "Title": "Oversight - Serving Women Veterans.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 78216,
+      "MatterFile": "T2026-1265",
+      "MatterName": "Oversight - Serving Women Veterans.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-03-04T21:16:03.613Z"
+    },
+    {
+      "ID": 435720,
+      "GUID": "887C30C1-0766-49CC-B31B-7893CB8DA82B",
+      "Title": "Resolution calling upon the New York City Housing Authority to include an admission preference for public housing in its next proposed agency plan for all veterans of the U.S. military",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 77298,
+      "MatterFile": "Res 0014-2026",
+      "MatterName": "New York City Housing Authority to include an admission preference for public housing in its next proposed agency plan for all veterans of the U.S. military.",
+      "MatterType": "Resolution",
+      "LastModified": "2026-03-04T21:21:11.253Z"
+    },
+    {
+      "ID": 435721,
+      "GUID": "6EBE003C-D34B-4CA2-B3E5-CBE4AEDAEEA1",
+      "Title": "Resolution calling on the New York City Department of Education to observe Veterans Day the Friday before November 11th if it falls on a Saturday and the Monday after the 11th if it falls on a Sunday",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 77633,
+      "MatterFile": "Res 0131-2026",
+      "MatterName": "DOE to observe Veterans Day the Friday before November 11th if it falls on a Saturday and the Monday after the 11th if it falls on a Sunday.",
+      "MatterType": "Resolution",
+      "LastModified": "2026-03-04T21:21:48.203Z"
     }
   ],
   "AgendaLastPublished": "2026-02-13T21:44:47.247Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-02-13T21:44:47.31Z"
+  "MinutesLastPublished": "2026-03-04T21:16:30.973Z",
+  "LastModified": "2026-03-04T21:16:31.13Z"
 }

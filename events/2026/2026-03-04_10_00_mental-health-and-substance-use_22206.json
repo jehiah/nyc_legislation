@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/3/22206_A_Committee_on_Mental_Health_and_Substance_Use_26-03-04_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/3/22206_M_Committee_on_Mental_Health_and_Substance_Use_26-03-04_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-2_260304-101333.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22206&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,44 +20,180 @@
       "GUID": "7238E7B3-7C5F-4E50-92A4-55646B5BD42A",
       "Title": "Oversight - From Crisis to Care: How New York City Connects New Yorkers to Mental Health Services.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 78119,
       "MatterFile": "T2026-1168",
       "MatterName": "Oversight - From Crisis to Care: How New York City Connects New Yorkers to Mental Health Services.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-02-23T19:55:02.46Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-03-04T21:12:35.877Z"
     },
     {
       "ID": 435167,
       "GUID": "BB4C83DC-0E68-4CB3-B4D9-49A8FFEDB811",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the reporting and publication of mental health emergency response data",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 78282,
       "MatterFile": "Int 0722-2026",
       "MatterName": "Reporting and publication of mental health emergency response data.",
       "MatterType": "Introduction",
-      "LastModified": "2026-02-24T21:27:03.94Z"
+      "LastModified": "2026-03-04T21:12:44.357Z"
     },
     {
       "ID": 435482,
       "GUID": "18F28C81-186C-456F-B8F0-52FF4E6ADE18",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the establishment of a task force on 988 and a public education campaign on mental health awareness",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
       "AgendaNote": "Preconsidered",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 71732,
       "MatterFile": "T2023-3879",
       "MatterName": "Establishment of a task force on 988 and a public education campaign on mental health awareness.",
       "MatterType": "Introduction",
-      "LastModified": "2026-02-24T21:27:21.513Z"
+      "LastModified": "2026-03-04T21:12:54.127Z"
+    },
+    {
+      "ID": 435712,
+      "GUID": "EC397303-3741-4CCE-9DE1-02F68958E01B",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7813,
+          "Slug": "tiffany-l-caban",
+          "FullName": "Tiffany L. Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7896,
+          "Slug": "shirley-aldebol",
+          "FullName": "Shirley Aldebol",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 5289,
+          "Slug": "simcha-felder",
+          "FullName": "Simcha Felder",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7899,
+          "Slug": "ty-hankerson",
+          "FullName": "Ty Hankerson",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 100
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2026-03-04T21:12:30.197Z"
+    },
+    {
+      "ID": 435713,
+      "GUID": "927B9326-54FE-4ACC-8354-F077518CB2D3",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Schulman and Public Advocate Williams",
+      "LastModified": "2026-03-04T21:12:09.863Z"
+    },
+    {
+      "ID": 435714,
+      "GUID": "91DCBD38-B9E0-4CA1-A3A4-E2EE0FFA7D36",
+      "Title": "Oversight - From Crisis to Care: How New York City Connects New Yorkers to Mental Health Services.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 78119,
+      "MatterFile": "T2026-1168",
+      "MatterName": "Oversight - From Crisis to Care: How New York City Connects New Yorkers to Mental Health Services.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-03-04T21:12:38.87Z"
+    },
+    {
+      "ID": 435715,
+      "GUID": "E5D835D7-AF28-410E-9C56-099AABDAA963",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the reporting and publication of mental health emergency response data",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 78282,
+      "MatterFile": "Int 0722-2026",
+      "MatterName": "Reporting and publication of mental health emergency response data.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-03-04T21:12:48.543Z"
+    },
+    {
+      "ID": 435716,
+      "GUID": "AFDA6E7D-00C2-46BC-AA83-0E4B88F24016",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the establishment of a task force on 988 and a public education campaign on mental health awareness",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 71732,
+      "MatterFile": "T2023-3879",
+      "MatterName": "Establishment of a task force on 988 and a public education campaign on mental health awareness.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-03-04T21:12:59.973Z"
     }
   ],
   "AgendaLastPublished": "2026-02-24T21:27:27.177Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-03-04T15:13:33.68Z"
+  "MinutesLastPublished": "2026-03-04T21:13:05.99Z",
+  "LastModified": "2026-03-04T21:13:06.033Z"
 }
