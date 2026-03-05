@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/3/22233_A_Committee_on_Oversight_and_Investigations_26-03-05_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/3/22233_M_Committee_on_Oversight_and_Investigations_26-03-05_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Criminal Justice.",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_260305-101834.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22233&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,26 +21,124 @@
       "GUID": "D0D7CECA-007F-4730-9D29-E457BB347AF1",
       "Title": "Oversight - The Department of Investigation’s Reports on Agency Compliance with Sanctuary-related Local Laws.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 77981,
       "MatterFile": "T2026-1030",
       "MatterName": "Oversight - The Department of Investigation’s Reports on Agency Compliance with Sanctuary-related Local Laws.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-02-23T20:25:09.38Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-03-05T20:49:23.92Z"
     },
     {
       "ID": 435168,
       "GUID": "A1222F30-9EEE-4904-BCA0-409DB76FEA3D",
       "Title": "Jointly with the Committee on Criminal Justice",
       "AgendaSequence": 2,
+      "MinutesSequence": 5,
+      "Version": "",
+      "LastModified": "2026-03-05T20:49:19.39Z"
+    },
+    {
+      "ID": 435764,
+      "GUID": "E6342FE3-3137-4CD9-80A7-60ED77E113BB",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 120
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2026-03-05T20:49:17.553Z"
+    },
+    {
+      "ID": 435765,
+      "GUID": "0950482A-6924-42FA-883A-FAF937F025CF",
+      "Title": "",
+      "AgendaSequence": 0,
       "MinutesSequence": 2,
       "Version": "",
-      "LastModified": "2026-02-23T20:25:16.16Z"
+      "MinutesNote": "Other Council Members Attending: Brooks-Powers, Morano, Brewer, Cabán, Avilés, Salaam, Feliz, Narcisse and  Public Advocate Williams",
+      "LastModified": "2026-03-05T20:49:06.39Z"
+    },
+    {
+      "ID": 435766,
+      "GUID": "71B78321-BB82-45BC-A02D-2BA07EBF4EB8",
+      "Title": "Oversight - The Department of Investigation’s Reports on Agency Compliance with Sanctuary-related Local Laws.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 77981,
+      "MatterFile": "T2026-1030",
+      "MatterName": "Oversight - The Department of Investigation’s Reports on Agency Compliance with Sanctuary-related Local Laws.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-03-05T20:49:29.503Z"
     }
   ],
   "AgendaLastPublished": "2026-02-27T15:52:25.607Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-03-05T15:18:36.197Z"
+  "MinutesLastPublished": "2026-03-05T20:49:34.84Z",
+  "LastModified": "2026-03-05T20:49:35.02Z"
 }
