@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/3/22255_A_Committee_on_Housing_and_Buildings_26-03-09_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/3/22255_M_Committee_on_Housing_and_Buildings_26-03-09_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_260309-104048.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22255&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,30 +20,171 @@
       "GUID": "74FBBC82-6E1E-485C-BAA2-CF37F35CDF47",
       "Title": "Oversight - Preserving Affordable Housing in Distress and the Third-Party Transfer Program.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 78164,
       "MatterFile": "T2026-1213",
       "MatterName": "Oversight - Preserving Affordable Housing in Distress and the Third-Party Transfer Program.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-02-24T16:50:52.527Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-03-09T19:21:00.477Z"
     },
     {
       "ID": 435435,
       "GUID": "63650945-9C3B-4F34-A1FE-CA8D73085552",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the third party transfer program, and to repeal sections 11-425, 11-426, and 11-427 of such code, relating to agreements for payment of delinquent taxes and charges in installments",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 77590,
       "MatterFile": "Int 0657-2026",
       "MatterName": "Third party transfer program, and to repeal sections 11-425, 11-426, and 11-427 of such code, relating to agreements for payment of delinquent taxes and charges in installments.",
       "MatterType": "Introduction",
-      "LastModified": "2026-03-05T21:56:47.72Z"
+      "LastModified": "2026-03-09T19:21:08.91Z"
+    },
+    {
+      "ID": 436008,
+      "GUID": "AB3F072F-DE1A-4569-BF22-7726C269A1D5",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-j-feliz",
+          "FullName": "Oswald J. Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7894,
+          "Slug": "virginia-maloney",
+          "FullName": "Virginia Maloney",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 140
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 200
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 220
+        }
+      ],
+      "LastModified": "2026-03-09T19:20:54.333Z"
+    },
+    {
+      "ID": 436009,
+      "GUID": "DFB37064-48CC-4430-B479-29B1BC4C5146",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Epstein",
+      "LastModified": "2026-03-09T19:20:29.523Z"
+    },
+    {
+      "ID": 436010,
+      "GUID": "CA4B222C-1E43-405C-801C-1EC8D4D1F88B",
+      "Title": "Oversight - Preserving Affordable Housing in Distress and the Third-Party Transfer Program.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 78164,
+      "MatterFile": "T2026-1213",
+      "MatterName": "Oversight - Preserving Affordable Housing in Distress and the Third-Party Transfer Program.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-03-09T19:21:03.67Z"
+    },
+    {
+      "ID": 436011,
+      "GUID": "E0C0F33C-12CD-48CD-B14C-305E3DB65FC0",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the third party transfer program, and to repeal sections 11-425, 11-426, and 11-427 of such code, relating to agreements for payment of delinquent taxes and charges in installments",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 77590,
+      "MatterFile": "Int 0657-2026",
+      "MatterName": "Third party transfer program, and to repeal sections 11-425, 11-426, and 11-427 of such code, relating to agreements for payment of delinquent taxes and charges in installments.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-03-09T19:21:14.81Z"
     }
   ],
   "AgendaLastPublished": "2026-03-05T21:57:13.473Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-03-09T14:40:49.623Z"
+  "MinutesLastPublished": "2026-03-09T19:21:20.777Z",
+  "LastModified": "2026-03-09T19:21:20.823Z"
 }
