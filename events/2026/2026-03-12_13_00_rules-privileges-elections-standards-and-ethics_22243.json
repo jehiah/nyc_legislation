@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/3/22243_A_Committee_on_Rules%2C_Privileges%2C_Elections%2C_Standards_and_Ethics_26-03-12_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/3/22243_M_Committee_on_Rules%2C_Privileges%2C_Elections%2C_Standards_and_Ethics_26-03-12_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_260312-130416.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22243&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,31 +20,155 @@
       "GUID": "71205700-3F75-4E40-B360-8F461E26F107",
       "Title": "Communication from the Mayor – Submitting the name of Ms. Midori Valdivia to the Council for its advice and consent regarding her appointment to the New York City Taxi and Limousine Commission, pursuant to Sections 31 and 2301 of the New York City Charter.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Mayor's Message was Hearing Held by Committee",
       "MatterID": 78257,
       "MatterFile": "M 0041-2026",
       "MatterName": "Midori Valdivia, New York City Taxi and Limousine Commission",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-03-04T20:28:42.22Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2026-03-12T21:01:44.48Z"
     },
     {
       "ID": 435711,
       "GUID": "76D19CF4-DCB0-49DD-A67B-87BADA4A02F7",
       "Title": "Communication from the Comptroller – Submitting the name of Wayne G. Hawley to the Council for its advice and consent regarding his appointment to the New York City Conflicts of Interest Board pursuant to Section 2602 of the New York City Charter",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Communication was Hearing Held by Committee",
       "MatterID": 78345,
       "MatterFile": "M 0051-2026",
       "MatterName": "Wayne G. Hawley, Conflicts of Interest Board",
       "MatterType": "Communication",
       "MatterStatus": "Committee",
-      "LastModified": "2026-03-04T20:29:11.4Z"
+      "LastModified": "2026-03-12T21:01:56.12Z"
+    },
+    {
+      "ID": 436112,
+      "GUID": "B720FEF8-0F8B-4397-A98F-9DEE74ED8BB3",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7895,
+          "Slug": "elsie-encarnacion",
+          "FullName": "Elsie Encarnación",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        }
+      ],
+      "LastModified": "2026-03-12T21:01:36.287Z"
+    },
+    {
+      "ID": 436113,
+      "GUID": "B38FF566-F14C-4934-856E-0701DA1DE979",
+      "Title": "Communication from the Mayor – Submitting the name of Ms. Midori Valdivia to the Council for its advice and consent regarding her appointment to the New York City Taxi and Limousine Commission, pursuant to Sections 31 and 2301 of the New York City Charter.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Mayor's Message was Laid Over by Committee",
+      "MatterID": 78257,
+      "MatterFile": "M 0041-2026",
+      "MatterName": "Midori Valdivia, New York City Taxi and Limousine Commission",
+      "MatterType": "Mayor's Message",
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2026-03-12T21:01:48.653Z"
+    },
+    {
+      "ID": 436114,
+      "GUID": "18BB87BA-2BE4-4760-9763-A377650D9F91",
+      "Title": "Communication from the Comptroller – Submitting the name of Wayne G. Hawley to the Council for its advice and consent regarding his appointment to the New York City Conflicts of Interest Board pursuant to Section 2602 of the New York City Charter",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Communication was Laid Over by Committee",
+      "MatterID": 78345,
+      "MatterFile": "M 0051-2026",
+      "MatterName": "Wayne G. Hawley, Conflicts of Interest Board",
+      "MatterType": "Communication",
+      "MatterStatus": "Committee",
+      "LastModified": "2026-03-12T21:02:03.333Z"
     }
   ],
   "AgendaLastPublished": "2026-03-04T20:29:18.233Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-03-12T17:04:17.52Z"
+  "MinutesLastPublished": "2026-03-12T21:02:10.277Z",
+  "LastModified": "2026-03-12T21:02:10.43Z"
 }
