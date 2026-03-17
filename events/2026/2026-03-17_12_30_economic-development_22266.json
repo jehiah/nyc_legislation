@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/3/22266_A_Committee_on_Economic_Development_26-03-17_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/3/22266_M_Committee_on_Economic_Development_26-03-17_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-3_260317-123844.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22266&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,17 +20,115 @@
       "GUID": "AC71231F-C203-468E-A4A1-EDE574823989",
       "Title": "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2027, The Preliminary Capital Plan for Fiscal Years 2027-2030 and The Fiscal 2026 Preliminary Mayor’s Management Report \r\n\r\n\r\n 12:30 p.m.    Economic Development Corporation     \r\n  2:00 p.m.     Public",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 78313,
       "MatterFile": "T2026-1362",
       "MatterName": "Preliminary Budget Hearing - Economic Development",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-02-25T16:40:48.977Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-03-17T19:14:43.4Z"
+    },
+    {
+      "ID": 436178,
+      "GUID": "B4E3FF76-C551-4098-AA93-B984028C0371",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7894,
+          "Slug": "virginia-maloney",
+          "FullName": "Virginia Maloney",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-c-farias",
+          "FullName": "Amanda C. Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7898,
+          "Slug": "shanel-thomas-henry",
+          "FullName": "Shanel Thomas-Henry",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2026-03-17T19:14:35.267Z"
+    },
+    {
+      "ID": 436179,
+      "GUID": "4EB586B2-5954-447F-B2A9-20F2E1B4B585",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Brewer and Lee",
+      "LastModified": "2026-03-17T19:14:28.627Z"
+    },
+    {
+      "ID": 436180,
+      "GUID": "CE1D3CB3-767C-444B-B07C-762D9E4F3DEF",
+      "Title": "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2027, The Preliminary Capital Plan for Fiscal Years 2027-2030 and The Fiscal 2026 Preliminary Mayor’s Management Report \r\n\r\n\r\n 12:30 p.m.    Economic Development Corporation     \r\n  2:00 p.m.     Public",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 78313,
+      "MatterFile": "T2026-1362",
+      "MatterName": "Preliminary Budget Hearing - Economic Development",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-03-17T19:14:50.527Z"
     }
   ],
   "AgendaLastPublished": "2026-02-26T01:39:48.06Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-03-17T16:38:45.02Z"
+  "MinutesLastPublished": "2026-03-17T19:15:01.577Z",
+  "LastModified": "2026-03-17T19:15:01.75Z"
 }
