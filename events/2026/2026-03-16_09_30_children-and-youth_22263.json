@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/3/22263_A_Committee_on_Children_and_Youth_26-03-16_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/3/22263_M_Committee_on_Children_and_Youth_26-03-16_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_260316-094607.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22263&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,17 +20,99 @@
       "GUID": "A2F68829-34D9-4C31-A0EC-F72FD262D180",
       "Title": "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2027, The Preliminary Capital Plan for Fiscal Years 2027-2030 and The Fiscal 2026 Preliminary Mayor’s Management Report \r\n\r\n\r\n  9:30 a.m.     Administration for Children’s Services\r\n12:00 p.m.     Department of Youth and Community Development   \r\n  2:30 p.m.     Public",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 78309,
       "MatterFile": "T2026-1358",
       "MatterName": "Preliminary Budget Hearing - Children and Youth",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-02-26T01:37:27.623Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-03-17T02:44:24.677Z"
+    },
+    {
+      "ID": 436153,
+      "GUID": "9495AB86-EFBB-4B09-AD09-2D17C4DABF94",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5289,
+          "Slug": "simcha-felder",
+          "FullName": "Simcha Felder",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 80
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        }
+      ],
+      "LastModified": "2026-03-17T02:44:04.723Z"
+    },
+    {
+      "ID": 436154,
+      "GUID": "CA3AD1DE-D5EE-4844-A27B-7045A275A67D",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Lee, Cabán, Avilés and Gutiérrez",
+      "LastModified": "2026-03-17T02:43:53.813Z"
+    },
+    {
+      "ID": 436155,
+      "GUID": "001CED9F-2F7E-481C-B9DD-7F4E118C4C32",
+      "Title": "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2027, The Preliminary Capital Plan for Fiscal Years 2027-2030 and The Fiscal 2026 Preliminary Mayor’s Management Report \r\n\r\n\r\n  9:30 a.m.     Administration for Children’s Services\r\n12:00 p.m.     Department of Youth and Community Development   \r\n  2:30 p.m.     Public",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 78309,
+      "MatterFile": "T2026-1358",
+      "MatterName": "Preliminary Budget Hearing - Children and Youth",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-03-17T02:44:30.53Z"
     }
   ],
   "AgendaLastPublished": "2026-03-04T18:14:46.57Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-03-16T21:11:26.923Z"
+  "MinutesLastPublished": "2026-03-17T02:44:36.917Z",
+  "LastModified": "2026-03-17T02:44:37.027Z"
 }
