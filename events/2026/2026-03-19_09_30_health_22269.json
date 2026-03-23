@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/3/22269_A_Committee_on_Health_26-03-19_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/3/22269_M_Committee_on_Health_26-03-19_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Mental Health and Substance Use and the Committee on Disabilities.",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_260319-093955.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22269&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
@@ -20,26 +21,124 @@
       "GUID": "754CF299-6FC9-4B54-B352-3298EC85BE61",
       "Title": "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2027 The Preliminary Capital Plan for Fiscal Years 2027-2030, and The Fiscal 2026 Preliminary Mayor’s Management Report \r\n\r\n\r\n  9:30 a.m.      Office of Medical Examiner \r\n 10:30 a.m.     Department of Health and Mental Hygiene –\r\n                           Health    \r\n 12:30 p.m.     Department of Health and Mental Hygiene – \r\n                           Mental Health \r\n  1:30 p.m.      Mayor’s Office for People with Disabilities  \r\n  2:30 p.m.      Public\r\n",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 78316,
       "MatterFile": "T2026-1365",
       "MatterName": "Preliminary Budget Hearing - Health",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-03-19T20:00:06.733Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-03-23T18:13:02.053Z"
     },
     {
       "ID": 435505,
       "GUID": "0DB1BC58-5C3F-45B1-BBDB-36750E43826C",
       "Title": "Jointly with the Committee on Mental Health and Substance Use and the Committee on Disabilities",
       "AgendaSequence": 2,
+      "MinutesSequence": 5,
+      "Version": "",
+      "LastModified": "2026-03-23T18:12:57.407Z"
+    },
+    {
+      "ID": 436301,
+      "GUID": "58140E8C-561E-468D-8B98-0BF43BB468E4",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7893,
+          "Slug": "harvey-d-epstein",
+          "FullName": "Harvey D. Epstein",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 5289,
+          "Slug": "simcha-felder",
+          "FullName": "Simcha Felder",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 130
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2026-03-23T18:12:55.51Z"
+    },
+    {
+      "ID": 436302,
+      "GUID": "86769B41-F3F7-4EAA-B265-3D735FBA2F77",
+      "Title": "",
+      "AgendaSequence": 0,
       "MinutesSequence": 2,
       "Version": "",
-      "LastModified": "2026-02-25T17:17:17.433Z"
+      "MinutesNote": "Other Council Members Attending: Cabán, Hanif, Nurse, Stevens, Ossé, Abreu, Lee, Joseph, Aldebol, Hanks and Public Advocate Williams",
+      "LastModified": "2026-03-23T18:12:37.537Z"
+    },
+    {
+      "ID": 436303,
+      "GUID": "2DBEA558-7366-448F-A44F-7B87B991D0C3",
+      "Title": "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2027 The Preliminary Capital Plan for Fiscal Years 2027-2030, and The Fiscal 2026 Preliminary Mayor’s Management Report \r\n\r\n\r\n  9:30 a.m.      Office of Medical Examiner \r\n 10:30 a.m.     Department of Health and Mental Hygiene –\r\n                           Health    \r\n 12:30 p.m.     Department of Health and Mental Hygiene – \r\n                           Mental Health \r\n  1:30 p.m.      Mayor’s Office for People with Disabilities  \r\n  2:30 p.m.      Public\r\n",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 78316,
+      "MatterFile": "T2026-1365",
+      "MatterName": "Preliminary Budget Hearing - Health",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-03-23T18:13:09.037Z"
     }
   ],
   "AgendaLastPublished": "2026-02-26T05:16:34.787Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-03-20T00:08:16.98Z"
+  "MinutesLastPublished": "2026-03-23T18:13:13.567Z",
+  "LastModified": "2026-03-23T18:13:13.697Z"
 }
