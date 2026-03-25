@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/3/22318_A_Committee_on_Immigration_26-03-25_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/3/22318_M_Committee_on_Immigration_26-03-25_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-3_260325-123427.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22318&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,17 +20,99 @@
       "GUID": "FA684B1F-9953-410B-BCAA-D01ACC7A4785",
       "Title": "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2027, The Preliminary Capital Plan for Fiscal Years 2027-2030 and The Fiscal 2026 Preliminary Mayor’s Management Report \r\n\r\n\r\n 12:30 p.m.    Office of Immigrant Affairs  \r\n   3:00 p.m.    Public  \r\n",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 78323,
       "MatterFile": "T2026-1372",
       "MatterName": "Preliminary Budget Hearing - Immigration",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-03-20T17:37:38.807Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-03-25T23:33:06.207Z"
+    },
+    {
+      "ID": 436524,
+      "GUID": "0FCADC34-0157-4AB9-B944-7ED391AEC267",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7895,
+          "Slug": "elsie-encarnacion",
+          "FullName": "Elsie Encarnación",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 80
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        }
+      ],
+      "LastModified": "2026-03-25T23:32:53.73Z"
+    },
+    {
+      "ID": 436525,
+      "GUID": "AAE2E935-33CA-4E06-BE84-683916B6F273",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Schulman, Krishnan and Public Advocate Williams",
+      "LastModified": "2026-03-25T23:32:30.87Z"
+    },
+    {
+      "ID": 436526,
+      "GUID": "F3A7DBBA-F53B-4E36-808B-01297B5E197D",
+      "Title": "New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2027, The Preliminary Capital Plan for Fiscal Years 2027-2030 and The Fiscal 2026 Preliminary Mayor’s Management Report \r\n\r\n\r\n 12:30 p.m.    Office of Immigrant Affairs  \r\n   3:00 p.m.    Public  \r\n",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 78323,
+      "MatterFile": "T2026-1372",
+      "MatterName": "Preliminary Budget Hearing - Immigration",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-03-25T23:33:12.633Z"
     }
   ],
   "AgendaLastPublished": "2026-03-09T15:52:06.707Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-03-25T16:34:27.62Z"
+  "MinutesLastPublished": "2026-03-25T23:33:19.643Z",
+  "LastModified": "2026-03-25T23:33:19.783Z"
 }
