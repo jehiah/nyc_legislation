@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/3/22356_A_Committee_on_Consumer_and_Worker_Protection_26-03-25_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/3/22356_M_Committee_on_Consumer_and_Worker_Protection_26-03-25_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_260325-101039.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22356&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,18 +21,155 @@
       "GUID": "FB6CF296-DFA9-4AFD-87E8-F3BDF43FC74B",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to a student loan financial counseling program",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 177-A",
       "MinutesNote": "Proposed Int. No. 177-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 77132,
       "MatterFile": "Int 0177-2026",
       "MatterName": "A student loan financial counseling program.",
       "MatterType": "Introduction",
-      "LastModified": "2026-03-23T16:20:06.47Z"
+      "LastModified": "2026-03-25T15:18:31.72Z"
+    },
+    {
+      "ID": 436474,
+      "GUID": "9D55F78A-492F-4D87-9652-08CF27EC09F6",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7893,
+          "Slug": "harvey-d-epstein",
+          "FullName": "Harvey D. Epstein",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7896,
+          "Slug": "shirley-aldebol",
+          "FullName": "Shirley Aldebol",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 100
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        }
+      ],
+      "LastModified": "2026-03-25T15:18:15.11Z"
+    },
+    {
+      "ID": 436475,
+      "GUID": "E3976BFE-60B8-40B0-AD6E-839186403DB8",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to a student loan financial counseling program",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 77132,
+      "MatterFile": "Int 0177-2026",
+      "MatterName": "A student loan financial counseling program.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-03-25T15:18:36.173Z"
+    },
+    {
+      "ID": 436476,
+      "GUID": "2ECBA1EE-89D6-4C21-94ED-40EEFF4219B6",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to a student loan financial counseling program",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 77132,
+      "MatterFile": "Int 0177-2026",
+      "MatterName": "A student loan financial counseling program.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-03-25T15:18:40.303Z"
+    },
+    {
+      "ID": 436477,
+      "GUID": "05D40FBC-A764-4675-8F01-60A61FDAE0D2",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to a student loan financial counseling program",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 77132,
+      "MatterFile": "Int 0177-2026",
+      "MatterName": "A student loan financial counseling program.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-03-25T15:18:55.903Z"
     }
   ],
   "AgendaLastPublished": "2026-03-23T16:20:14.713Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-03-23T16:20:14.99Z"
+  "MinutesLastPublished": "2026-03-25T15:19:01.247Z",
+  "LastModified": "2026-03-25T15:19:01.347Z"
 }
