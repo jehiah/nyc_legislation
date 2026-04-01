@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/4/22341_A_Committee_on_Parks_and_Recreation_26-04-01_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/4/22341_M_Committee_on_Parks_and_Recreation_26-04-01_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_260401-110855.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22341&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,55 +20,241 @@
       "GUID": "FA27BCE2-62F8-4500-B3A8-9E69C3BFF86B",
       "Title": "A Local Law in relation to a cool pavements pilot program for parks and playgrounds under the jurisdiction of the department of parks and recreation",
       "AgendaSequence": 4,
-      "MinutesSequence": 4,
+      "MinutesSequence": 9,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 78458,
       "MatterFile": "Int 0805-2026",
       "MatterName": "A cool pavements pilot program for parks and playgrounds under the jurisdiction of the department of parks and recreation.",
       "MatterType": "Introduction",
-      "LastModified": "2026-04-01T15:56:16.667Z"
+      "LastModified": "2026-04-01T19:26:17.127Z"
     },
     {
       "ID": 436177,
       "GUID": "4A6342B4-961E-4886-858E-3420CDDF99D2",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the creation of a citywide wildlife management plan",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 78457,
       "MatterFile": "Int 0806-2026",
       "MatterName": "The creation of a citywide wildlife management plan.",
       "MatterType": "Introduction",
-      "LastModified": "2026-03-17T18:57:59.327Z"
+      "LastModified": "2026-04-01T19:26:06.087Z"
     },
     {
       "ID": 436200,
       "GUID": "1D78CAC1-E0A8-4729-8FBE-8DAB55C64DCD",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the improvement, formalization, or creation of trails",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 78076,
       "MatterFile": "Int 0577-2026",
       "MatterName": "Improvement, formalization, or creation of trails.",
       "MatterType": "Introduction",
-      "LastModified": "2026-03-26T14:22:03.27Z"
+      "LastModified": "2026-04-01T19:25:38.987Z"
     },
     {
       "ID": 436201,
       "GUID": "3176BBBD-57BD-4D15-B641-096A79E3987D",
       "Title": "A Local Law in relation to a study on increasing the amount of green space and parks in various neighborhoods",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 78395,
       "MatterFile": "Int 0740-2026",
       "MatterName": "A study on increasing the amount of green space and parks in various neighborhoods.",
       "MatterType": "Introduction",
-      "LastModified": "2026-03-19T00:31:19.913Z"
+      "LastModified": "2026-04-01T19:25:55.747Z"
+    },
+    {
+      "ID": 436711,
+      "GUID": "F00023FA-819D-4E00-A350-8079D9BDC79F",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7899,
+          "Slug": "ty-hankerson",
+          "FullName": "Ty Hankerson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7887,
+          "Slug": "frank-morano",
+          "FullName": "Frank Morano",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 140
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        },
+        {
+          "ID": 7901,
+          "Slug": "kayla-santosuosso",
+          "FullName": "Kayla Santosuosso",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 200
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 220
+        }
+      ],
+      "LastModified": "2026-04-01T19:25:29.29Z"
+    },
+    {
+      "ID": 436712,
+      "GUID": "5015B336-C463-48BF-BA09-81C4E4561399",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Wong",
+      "LastModified": "2026-04-01T19:27:06.037Z"
+    },
+    {
+      "ID": 436713,
+      "GUID": "07E93050-D229-4695-9269-3E77BBC822E4",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the improvement, formalization, or creation of trails",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 78076,
+      "MatterFile": "Int 0577-2026",
+      "MatterName": "Improvement, formalization, or creation of trails.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-04-01T19:25:43.907Z"
+    },
+    {
+      "ID": 436714,
+      "GUID": "8E67B212-BDE7-46B8-8417-6B9369AE95B5",
+      "Title": "A Local Law in relation to a study on increasing the amount of green space and parks in various neighborhoods",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 78395,
+      "MatterFile": "Int 0740-2026",
+      "MatterName": "A study on increasing the amount of green space and parks in various neighborhoods.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-04-01T19:25:59.847Z"
+    },
+    {
+      "ID": 436715,
+      "GUID": "7B29A27D-2EA8-4796-9F79-684202E00161",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the creation of a citywide wildlife management plan",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 78457,
+      "MatterFile": "Int 0806-2026",
+      "MatterName": "The creation of a citywide wildlife management plan.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-04-01T19:26:10.34Z"
+    },
+    {
+      "ID": 436716,
+      "GUID": "B8EE9188-4505-4273-90BF-88095A59A4B1",
+      "Title": "A Local Law in relation to a cool pavements pilot program for parks and playgrounds under the jurisdiction of the department of parks and recreation",
+      "AgendaSequence": 0,
+      "MinutesSequence": 10,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 78458,
+      "MatterFile": "Int 0805-2026",
+      "MatterName": "A cool pavements pilot program for parks and playgrounds under the jurisdiction of the department of parks and recreation.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-04-01T19:26:21.75Z"
     }
   ],
   "AgendaLastPublished": "2026-03-19T00:32:12.613Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-04-01T17:10:30.36Z"
+  "MinutesLastPublished": "2026-04-01T19:27:11.877Z",
+  "LastModified": "2026-04-01T19:27:12.023Z"
 }
