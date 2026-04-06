@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/4/22369_A_Committee_on_Sanitation_and_Solid_Waste_Management_26-04-06_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/4/22369_M_Committee_on_Sanitation_and_Solid_Waste_Management_26-04-06_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-3_260406-100215.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22369&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,43 +20,195 @@
       "GUID": "2CAD1B6C-DB2C-4FEF-B75F-0E5BEA81F9D3",
       "Title": "Oversight - Finalizing the City’s Draft 2026-2036 Solid Waste Management Plan.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 78427,
       "MatterFile": "T2026-1476",
       "MatterName": "Oversight - Finalizing the City’s Draft 2026-2036 Solid Waste Management Plan.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-03-24T20:45:34.977Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-04-06T17:36:34.937Z"
     },
     {
       "ID": 436461,
       "GUID": "80686005-866F-4ECC-A3E9-6871C39D7983",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to organic waste recycling by city agencies",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 77599,
       "MatterFile": "Int 0355-2026",
       "MatterName": "Organic waste recycling by city agencies.",
       "MatterType": "Introduction",
-      "LastModified": "2026-03-24T20:45:43.253Z"
+      "LastModified": "2026-04-06T17:36:48.177Z"
     },
     {
       "ID": 436462,
       "GUID": "E902A8BA-EAF3-4EB9-BE6F-09FE09578373",
       "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, S.5713/A.3249, to require the establishment of a composting program at dormitories, dining facilities, and other facilities owned, occupied, or operated by the State University of New York, the City University of New York, and institutions subject to their jurisdiction",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 77636,
       "MatterFile": "Res 0125-2026",
       "MatterName": "Require the establishment of a composting program at dormitories, dining facilities, and other facilities owned, occupied, or operated. (S.5713/A.3249)",
       "MatterType": "Resolution",
-      "LastModified": "2026-03-24T20:45:54.867Z"
+      "LastModified": "2026-04-06T17:37:07.22Z"
+    },
+    {
+      "ID": 436736,
+      "GUID": "D7B12534-CFB4-46AC-9D4A-4E62C48B4BB4",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7897,
+          "Slug": "justin-e-sanchez",
+          "FullName": "Justin E. Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7899,
+          "Slug": "ty-hankerson",
+          "FullName": "Ty Hankerson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7894,
+          "Slug": "virginia-maloney",
+          "FullName": "Virginia Maloney",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7901,
+          "Slug": "kayla-santosuosso",
+          "FullName": "Kayla Santosuosso",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 100
+        },
+        {
+          "ID": 7898,
+          "Slug": "shanel-thomas-henry",
+          "FullName": "Shanel Thomas-Henry",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        }
+      ],
+      "LastModified": "2026-04-06T17:35:24.36Z"
+    },
+    {
+      "ID": 436737,
+      "GUID": "D6E509A0-F38B-4DBF-8DD0-B5EE391B9EE2",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Brewer",
+      "LastModified": "2026-04-06T17:35:07.34Z"
+    },
+    {
+      "ID": 436738,
+      "GUID": "8BE9BA48-F4ED-4806-A8AE-1453869122CF",
+      "Title": "Oversight - Finalizing the City’s Draft 2026-2036 Solid Waste Management Plan.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 78427,
+      "MatterFile": "T2026-1476",
+      "MatterName": "Oversight - Finalizing the City’s Draft 2026-2036 Solid Waste Management Plan.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-04-06T17:36:39.567Z"
+    },
+    {
+      "ID": 436739,
+      "GUID": "93A7EB55-0CF8-4EF3-9A0F-A826FE12AE25",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to organic waste recycling by city agencies",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 77599,
+      "MatterFile": "Int 0355-2026",
+      "MatterName": "Organic waste recycling by city agencies.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-04-06T17:36:56.303Z"
+    },
+    {
+      "ID": 436740,
+      "GUID": "DDF7A500-7A0E-42C0-A162-A5A039CC8EFA",
+      "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, S.5713/A.3249, to require the establishment of a composting program at dormitories, dining facilities, and other facilities owned, occupied, or operated by the State University of New York, the City University of New York, and institutions subject to their jurisdiction",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 77636,
+      "MatterFile": "Res 0125-2026",
+      "MatterName": "Require the establishment of a composting program at dormitories, dining facilities, and other facilities owned, occupied, or operated. (S.5713/A.3249)",
+      "MatterType": "Resolution",
+      "LastModified": "2026-04-06T17:37:45.05Z"
     }
   ],
   "AgendaLastPublished": "2026-03-24T20:46:01.04Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-03-24T20:46:01.11Z"
+  "MinutesLastPublished": "2026-04-06T17:37:51.973Z",
+  "LastModified": "2026-04-06T17:37:52.16Z"
 }
