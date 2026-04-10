@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/4/22371_A_Committee_on_Public_Housing_26-04-10_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/4/22371_M_Committee_on_Public_Housing_26-04-10_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-2_260410-100615.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22371&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,17 +20,105 @@
       "GUID": "2500D152-AA74-47D4-8442-025973BC98A9",
       "Title": "Oversight - Security Measures for NYCHA’s Vacant Apartments.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 78421,
       "MatterFile": "T2026-1470",
       "MatterName": "Oversight - Security Measures for NYCHA’s Vacant Apartments.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-04-02T15:31:42.537Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-04-10T19:27:02.523Z"
+    },
+    {
+      "ID": 436831,
+      "GUID": "0FDDA0DB-D903-468E-8701-C7150DBA94A1",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7895,
+          "Slug": "elsie-encarnacion",
+          "FullName": "Elsie Encarnación",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 100
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2026-04-10T19:26:55.567Z"
+    },
+    {
+      "ID": 436832,
+      "GUID": "8069C6DE-2D86-4DA4-9532-EE13DD6B2D21",
+      "Title": "Oversight - Security Measures for NYCHA’s Vacant Apartments.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 78421,
+      "MatterFile": "T2026-1470",
+      "MatterName": "Oversight - Security Measures for NYCHA’s Vacant Apartments.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-04-10T19:27:07.69Z"
     }
   ],
   "AgendaLastPublished": "2026-03-27T13:13:11.887Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-04-10T17:46:31.653Z"
+  "MinutesLastPublished": "2026-04-10T19:27:12.793Z",
+  "LastModified": "2026-04-10T19:27:12.9Z"
 }
