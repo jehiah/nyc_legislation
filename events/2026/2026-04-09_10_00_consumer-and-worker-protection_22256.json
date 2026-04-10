@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/4/22256_A_Committee_on_Consumer_and_Worker_Protection_26-04-09_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/4/22256_M_Committee_on_Consumer_and_Worker_Protection_26-04-09_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_260409-100351.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22256&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,16 +20,129 @@
       "GUID": "0B9F8C34-DA66-48D8-9D4E-EEE727D30F69",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the licensing of last-mile facilities",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 77999,
       "MatterFile": "Int 0518-2026",
       "MatterName": "Requiring the licensing of last-mile facilities.",
       "MatterType": "Introduction",
-      "LastModified": "2026-04-08T14:02:18.197Z"
+      "LastModified": "2026-04-10T14:15:17.473Z"
+    },
+    {
+      "ID": 436815,
+      "GUID": "4EA642DE-89CB-4931-B17C-C9D534DA9C82",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7893,
+          "Slug": "harvey-d-epstein",
+          "FullName": "Harvey D. Epstein",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7896,
+          "Slug": "shirley-aldebol",
+          "FullName": "Shirley Aldebol",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 140
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 45,
+          "Value": "Jury Duty",
+          "Sort": 160
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        }
+      ],
+      "LastModified": "2026-04-10T14:17:48.963Z"
+    },
+    {
+      "ID": 436816,
+      "GUID": "D73EFB4C-64F0-4D5A-A115-D2B521621A9E",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Cabán, Avilés and Thomas-Henry",
+      "LastModified": "2026-04-10T14:14:53.24Z"
+    },
+    {
+      "ID": 436817,
+      "GUID": "F97487F6-EF93-4540-801B-2ACE642E912B",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the licensing of last-mile facilities",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 77999,
+      "MatterFile": "Int 0518-2026",
+      "MatterName": "Requiring the licensing of last-mile facilities.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-04-10T14:15:23.85Z"
     }
   ],
   "AgendaLastPublished": "2026-04-08T14:02:24.287Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-04-09T20:42:25.843Z"
+  "MinutesLastPublished": "2026-04-10T14:17:54.123Z",
+  "LastModified": "2026-04-10T14:17:54.27Z"
 }
