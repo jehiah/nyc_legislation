@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/4/22344_A_Committee_on_Governmental_Operations%2C_State___Federal_Legislation_26-04-14_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/4/22344_M_Committee_on_Governmental_Operations%2C_State___Federal_Legislation_26-04-14_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Criminal Justice.",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_260414-104125.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22344&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
@@ -20,52 +21,188 @@
       "GUID": "D9972CA5-0D01-4B6A-80EE-9547519EA53F",
       "Title": "Oversight - Voting on Rikers.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 78497,
       "MatterFile": "T2026-1546",
       "MatterName": "Oversight - Voting on Rikers.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-03-31T16:09:00.83Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-04-14T20:24:53.613Z"
     },
     {
       "ID": 436171,
       "GUID": "2DC2218E-0F6B-4695-8861-D097A117C399",
       "Title": "Jointly with the Committee on Criminal Justice",
       "AgendaSequence": 4,
-      "MinutesSequence": 4,
+      "MinutesSequence": 9,
       "Version": "",
-      "LastModified": "2026-03-27T13:08:46.72Z"
+      "LastModified": "2026-04-14T20:25:14.427Z"
     },
     {
       "ID": 436634,
       "GUID": "B4011943-22DF-449D-A6A2-5416F87DB0BE",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to procedures for and reporting on curing ballots for voters in department of correction custody",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 78508,
       "MatterFile": "Int 0786-2026",
       "MatterName": "Procedures for and reporting on curing ballots for voters in department of correction custody.",
       "MatterType": "Introduction",
-      "LastModified": "2026-03-27T13:08:46.617Z"
+      "LastModified": "2026-04-14T20:25:48.59Z"
     },
     {
       "ID": 436635,
       "GUID": "EC80AEE8-E21E-43C0-A767-3B160BACDF49",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring a report on voter registration and voting in city jails",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 78253,
       "MatterFile": "Int 0797-2026",
       "MatterName": "Requiring a report on voter registration in city jails.",
       "MatterType": "Introduction",
-      "LastModified": "2026-03-27T13:09:01.433Z"
+      "LastModified": "2026-04-14T20:27:08.387Z"
+    },
+    {
+      "ID": 437069,
+      "GUID": "BC3A668F-D43F-4D64-B731-F7678BCF45EB",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-j-feliz",
+          "FullName": "Oswald J. Feliz",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7899,
+          "Slug": "ty-hankerson",
+          "FullName": "Ty Hankerson",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 80
+        },
+        {
+          "ID": 7887,
+          "Slug": "frank-morano",
+          "FullName": "Frank Morano",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 120
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2026-04-14T20:27:42.86Z"
+    },
+    {
+      "ID": 437070,
+      "GUID": "607CA7A8-6395-4A42-9970-476915900A6F",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Brooks-Powers, Narcisse, Cabán, Salaam and Public Advocate Williams",
+      "LastModified": "2026-04-14T20:24:30.737Z"
+    },
+    {
+      "ID": 437071,
+      "GUID": "7C602E7D-DDD9-4899-B8B9-81371DA6903F",
+      "Title": "Oversight - Voting on Rikers.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 78497,
+      "MatterFile": "T2026-1546",
+      "MatterName": "Oversight - Voting on Rikers.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-04-14T20:24:57.983Z"
+    },
+    {
+      "ID": 437072,
+      "GUID": "2E69A877-C179-4850-A93F-C5C1C69EF9E9",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to procedures for and reporting on curing ballots for voters in department of correction custody",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 78508,
+      "MatterFile": "Int 0786-2026",
+      "MatterName": "Procedures for and reporting on curing ballots for voters in department of correction custody.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-04-14T20:26:08.623Z"
+    },
+    {
+      "ID": 437073,
+      "GUID": "5E6E4EB5-62CF-4977-8B9B-05470FBD51B9",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring a report on voter registration and voting in city jails",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 78253,
+      "MatterFile": "Int 0797-2026",
+      "MatterName": "Requiring a report on voter registration in city jails.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-04-14T20:27:00.457Z"
     }
   ],
   "AgendaLastPublished": "2026-03-27T13:09:07.823Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-04-14T17:48:10.307Z"
+  "MinutesLastPublished": "2026-04-14T20:27:47.083Z",
+  "LastModified": "2026-04-14T20:27:47.143Z"
 }
