@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/4/22403_A_Committee_to_Combat_Hate_26-04-15_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/4/22403_M_Committee_to_Combat_Hate_26-04-15_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-3_260415-132115.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22403&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,18 +21,141 @@
       "GUID": "0F07A1E5-338E-4848-8F1B-782BEEE69203",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to reimbursing nonpublic schools for the cost of video surveillance cameras",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 327-B",
       "MinutesNote": "Proposed Int. No. 327-B",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 77677,
       "MatterFile": "Int 0327-2026",
       "MatterName": "Reimbursing nonpublic schools for the cost of video surveillance cameras.",
       "MatterType": "Introduction",
-      "LastModified": "2026-04-14T13:32:16.627Z"
+      "LastModified": "2026-04-15T17:26:28.983Z"
+    },
+    {
+      "ID": 437095,
+      "GUID": "0B03C3A7-579D-4EA3-814E-C5A50555BDF1",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2026-04-15T17:26:03.473Z"
+    },
+    {
+      "ID": 437096,
+      "GUID": "35D91031-2EEE-433B-954E-7DB211D905D0",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Narcisse and Louis",
+      "LastModified": "2026-04-15T17:23:07.503Z"
+    },
+    {
+      "ID": 437097,
+      "GUID": "09B35FCF-DF18-4FA2-AA6E-30593C40AC6C",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to reimbursing nonpublic schools for the cost of video surveillance cameras",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 77677,
+      "MatterFile": "Int 0327-2026",
+      "MatterName": "Reimbursing nonpublic schools for the cost of video surveillance cameras.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-04-15T17:26:35.003Z"
+    },
+    {
+      "ID": 437098,
+      "GUID": "36DF1609-FE08-4299-BB3D-9518A041C76C",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to reimbursing nonpublic schools for the cost of video surveillance cameras",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 77677,
+      "MatterFile": "Int 0327-2026",
+      "MatterName": "Reimbursing nonpublic schools for the cost of video surveillance cameras.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-04-15T17:26:41.267Z"
+    },
+    {
+      "ID": 437099,
+      "GUID": "392ABF54-A6E9-474A-8C38-97388A1B714B",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to reimbursing nonpublic schools for the cost of video surveillance cameras",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "B",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 77677,
+      "MatterFile": "Int 0327-2026",
+      "MatterName": "Reimbursing nonpublic schools for the cost of video surveillance cameras.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-04-15T17:27:16.207Z"
     }
   ],
   "AgendaLastPublished": "2026-04-14T01:40:44.383Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-04-14T01:40:44.553Z"
+  "MinutesLastPublished": "2026-04-15T17:27:23.547Z",
+  "LastModified": "2026-04-15T17:27:58.107Z"
 }
