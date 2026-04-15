@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/4/22352_A_Committee_on_Fire_and_Emergency_Management_26-04-15_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/4/22352_M_Committee_on_Fire_and_Emergency_Management_26-04-15_Meeting_Minutes.pdf",
   "Comment": "Tour - PLEASE BE ADVISED THE TOUR IS NOT OPEN TO THE PUBLIC*",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22352&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,17 +20,121 @@
       "GUID": "0341B0AE-F26D-455D-8CAB-38DCFCF48D11",
       "Title": "Tour - New York City Emergency Management Department.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 5081,
+      "ActionName": "Tour Held by Committee",
+      "ActionText": "This Tour was Tour Held by Committee",
       "MatterID": 78513,
       "MatterFile": "T2026-1562",
       "MatterName": "Tour - New York City Emergency Management Department.",
       "MatterType": "Tour",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-03-31T16:15:32.733Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-04-15T22:46:08.777Z"
+    },
+    {
+      "ID": 437129,
+      "GUID": "F480AF16-671B-44FA-9A22-02D83E4B6DB4",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 5289,
+          "Slug": "simcha-felder",
+          "FullName": "Simcha Felder",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7899,
+          "Slug": "ty-hankerson",
+          "FullName": "Ty Hankerson",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 80
+        },
+        {
+          "ID": 7894,
+          "Slug": "virginia-maloney",
+          "FullName": "Virginia Maloney",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 120
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 160
+        },
+        {
+          "ID": 7900,
+          "Slug": "phil-wong",
+          "FullName": "Phil Wong",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        }
+      ],
+      "LastModified": "2026-04-15T22:45:56.617Z"
+    },
+    {
+      "ID": 437130,
+      "GUID": "BAE8CBE7-C575-4336-B19C-3BDF3756D403",
+      "Title": "Tour - New York City Emergency Management Department.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Tour was Filed, by Committee",
+      "MatterID": 78513,
+      "MatterFile": "T2026-1562",
+      "MatterName": "Tour - New York City Emergency Management Department.",
+      "MatterType": "Tour",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-04-15T22:46:21.98Z"
     }
   ],
   "AgendaLastPublished": "2026-03-31T12:40:27.857Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-03-31T12:40:27.92Z"
+  "MinutesLastPublished": "2026-04-15T22:46:27.39Z",
+  "LastModified": "2026-04-15T22:46:27.45Z"
 }
