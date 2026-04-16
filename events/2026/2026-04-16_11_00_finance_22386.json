@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/4/22386_A_Committee_on_Finance_26-04-16_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/4/22386_M_Committee_on_Finance_26-04-16_Meeting_Minutes.pdf",
   "Comment": "*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_260416-111321.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22386&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,31 +21,200 @@
       "GUID": "B8EE1D13-F0D1-4643-98A8-F2E1EBD00F3E",
       "Title": "Resolution approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Preconsidered",
+      "ActionID": 15,
+      "ActionName": "Hearing on P-C Item by Comm",
+      "ActionText": "This Resolution was Hearing on P-C Item by Comm",
       "MatterID": 78579,
-      "MatterFile": "T2026-1628",
+      "MatterFile": "Res 0420-2026",
       "MatterName": "Approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget.",
       "MatterType": "Resolution",
-      "LastModified": "2026-04-01T18:39:51.893Z"
+      "LastModified": "2026-04-16T15:50:57.693Z"
     },
     {
       "ID": 436710,
       "GUID": "CA78D7FE-F1B1-40BD-AA56-3760C3C176E4",
       "Title": "AND SUCH OTHER BUSINESS AS MAY BE NECESSARY",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "*",
       "MatterID": 76955,
       "MatterFile": "T2026-0004",
       "MatterName": "AND SUCH OTHER BUSINESS AS MAY BE NECESSARY",
       "MatterType": "N/A",
       "MatterStatus": "Introduced",
-      "LastModified": "2026-04-01T18:39:39.723Z"
+      "LastModified": "2026-04-16T15:50:52.57Z"
+    },
+    {
+      "ID": 437159,
+      "GUID": "8A69E7F0-9AB8-43E0-B454-7BF104D5D9F4",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7896,
+          "Slug": "shirley-aldebol",
+          "FullName": "Shirley Aldebol",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-j-feliz",
+          "FullName": "Oswald J. Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7894,
+          "Slug": "virginia-maloney",
+          "FullName": "Virginia Maloney",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 200
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 220
+        },
+        {
+          "ID": 7887,
+          "Slug": "frank-morano",
+          "FullName": "Frank Morano",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 240
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 260
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 280
+        },
+        {
+          "ID": 7897,
+          "Slug": "justin-e-sanchez",
+          "FullName": "Justin E. Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 300
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 320
+        },
+        {
+          "ID": 7900,
+          "Slug": "phil-wong",
+          "FullName": "Phil Wong",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 340
+        }
+      ],
+      "LastModified": "2026-04-16T15:50:50.137Z"
+    },
+    {
+      "ID": 437160,
+      "GUID": "FCE5F352-DFAC-4AF5-80F6-1D6AF1E6EB59",
+      "Title": "Resolution approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 25,
+      "ActionName": "P-C Item Approved by Comm",
+      "ActionText": "A motion was made that this Resolution be P-C Item Approved by Comm approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 78579,
+      "MatterFile": "Res 0420-2026",
+      "MatterName": "Approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget.",
+      "MatterType": "Resolution",
+      "LastModified": "2026-04-16T15:51:23.36Z"
     }
   ],
   "AgendaLastPublished": "2026-04-01T18:39:59.373Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-04-01T18:39:59.53Z"
+  "MinutesLastPublished": "2026-04-16T15:51:29.03Z",
+  "LastModified": "2026-04-16T15:51:29.127Z"
 }
