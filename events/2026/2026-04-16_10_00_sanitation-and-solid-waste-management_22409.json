@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/4/22409_A_Committee_on_Sanitation_and_Solid_Waste_Management_26-04-16_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/4/22409_M_Committee_on_Sanitation_and_Solid_Waste_Management_26-04-16_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_260416-101629.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22409&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,18 +21,155 @@
       "GUID": "9028CC33-0378-4B4C-B78F-D5B8F106138B",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to organic waste recycling by city agencies",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 355-A",
       "MinutesNote": "Proposed Int. No. 355-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 77599,
       "MatterFile": "Int 0355-2026",
       "MatterName": "Organic waste recycling by city agencies.",
       "MatterType": "Introduction",
-      "LastModified": "2026-04-15T14:09:21.46Z"
+      "LastModified": "2026-04-16T14:40:53.507Z"
+    },
+    {
+      "ID": 437134,
+      "GUID": "3608EFC0-8081-4805-9760-0555058ACFB1",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7897,
+          "Slug": "justin-e-sanchez",
+          "FullName": "Justin E. Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7899,
+          "Slug": "ty-hankerson",
+          "FullName": "Ty Hankerson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7894,
+          "Slug": "virginia-maloney",
+          "FullName": "Virginia Maloney",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7901,
+          "Slug": "kayla-santosuosso",
+          "FullName": "Kayla Santosuosso",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7898,
+          "Slug": "shanel-thomas-henry",
+          "FullName": "Shanel Thomas-Henry",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        }
+      ],
+      "LastModified": "2026-04-16T14:40:44.7Z"
+    },
+    {
+      "ID": 437135,
+      "GUID": "FE9691F9-09BC-4783-BBBD-D104015D50B5",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to organic waste recycling by city agencies",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 77599,
+      "MatterFile": "Int 0355-2026",
+      "MatterName": "Organic waste recycling by city agencies.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-04-16T14:40:57.157Z"
+    },
+    {
+      "ID": 437136,
+      "GUID": "6A45396C-88F1-46EF-ADFF-FD1D7D446C9C",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to organic waste recycling by city agencies",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 77599,
+      "MatterFile": "Int 0355-2026",
+      "MatterName": "Organic waste recycling by city agencies.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-04-16T14:41:00.357Z"
+    },
+    {
+      "ID": 437137,
+      "GUID": "6D133E23-40D9-4D92-AFA6-C7B3020EBF72",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to organic waste recycling by city agencies",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 77599,
+      "MatterFile": "Int 0355-2026",
+      "MatterName": "Organic waste recycling by city agencies.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-04-16T14:41:16.783Z"
     }
   ],
   "AgendaLastPublished": "2026-04-15T14:09:27.627Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-04-15T14:09:27.77Z"
+  "MinutesLastPublished": "2026-04-16T14:41:21.703Z",
+  "LastModified": "2026-04-16T14:41:21.847Z"
 }
