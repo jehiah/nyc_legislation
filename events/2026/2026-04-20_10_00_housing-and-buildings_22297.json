@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/4/22297_A_Committee_on_Housing_and_Buildings_26-04-20_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/4/22297_M_Committee_on_Housing_and_Buildings_26-04-20_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Immigration.",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22297&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,39 +20,180 @@
       "GUID": "D8D824C3-7464-40DB-A3CA-01A15528FEC1",
       "Title": "Oversight - Tenant Harassment against Immigrants and the Certification of No Harassment Program.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 78356,
       "MatterFile": "T2026-1405",
       "MatterName": "Oversight - Tenant Harassment against Immigrants and the Certification of No Harassment Program.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-04-10T04:11:18.42Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-04-20T19:08:56.04Z"
     },
     {
       "ID": 436289,
       "GUID": "BAE665A5-97F8-4494-81B0-6072AEB92104",
       "Title": "Jointly with the Committee on Immigration",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "",
-      "LastModified": "2026-04-10T04:11:18.923Z"
+      "LastModified": "2026-04-20T19:09:05.167Z"
     },
     {
       "ID": 436814,
       "GUID": "243CB696-6991-4E9F-A12E-7310475FDE5E",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to making the certification of no harassment pilot program permanent and adding criteria for inclusion of certain buildings in the program",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 78590,
-      "MatterFile": "T2026-1639",
+      "MatterFile": "Int 0839-2026",
       "MatterName": "Making the certification of no harassment pilot program permanent and adding criteria for inclusion of certain buildings in the program.",
       "MatterType": "Introduction",
-      "LastModified": "2026-04-10T04:13:01.88Z"
+      "LastModified": "2026-04-20T19:09:12.403Z"
+    },
+    {
+      "ID": 437232,
+      "GUID": "9A0F407F-49F4-43C8-9308-EB36BDB5B4EC",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Encarnación, Krishnan, Avilés and Gutiérrez ",
+      "LastModified": "2026-04-20T19:08:09.537Z"
+    },
+    {
+      "ID": 437233,
+      "GUID": "F4254B62-252A-4791-83ED-E4CB36AE3B3E",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-j-feliz",
+          "FullName": "Oswald J. Feliz",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 80
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 100
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7894,
+          "Slug": "virginia-maloney",
+          "FullName": "Virginia Maloney",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 160
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 180
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 200
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 220
+        }
+      ],
+      "LastModified": "2026-04-20T19:08:39.87Z"
+    },
+    {
+      "ID": 437234,
+      "GUID": "335AE2CD-B22E-4FAB-AC1E-C4C752690247",
+      "Title": "Oversight - Tenant Harassment against Immigrants and the Certification of No Harassment Program.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 78356,
+      "MatterFile": "T2026-1405",
+      "MatterName": "Oversight - Tenant Harassment against Immigrants and the Certification of No Harassment Program.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-04-20T19:09:02.267Z"
+    },
+    {
+      "ID": 437235,
+      "GUID": "859CAB79-44A7-458C-B52A-3E1EEBABC5F4",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to making the certification of no harassment pilot program permanent and adding criteria for inclusion of certain buildings in the program",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 78590,
+      "MatterFile": "Int 0839-2026",
+      "MatterName": "Making the certification of no harassment pilot program permanent and adding criteria for inclusion of certain buildings in the program.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-04-20T19:09:21.53Z"
     }
   ],
   "AgendaLastPublished": "2026-04-10T04:13:17.643Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-04-10T04:13:17.68Z"
+  "MinutesLastPublished": "2026-04-20T19:09:28.207Z",
+  "LastModified": "2026-04-20T19:09:28.323Z"
 }
