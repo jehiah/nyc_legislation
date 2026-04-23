@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/4/22385_A_Committee_on_Rules%2C_Privileges%2C_Elections%2C_Standards_and_Ethics_26-04-21_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/4/22385_M_Committee_on_Rules%2C_Privileges%2C_Elections%2C_Standards_and_Ethics_26-04-21_Meeting_Minutes.pdf",
   "Comment": "*",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-3_260421-100603.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22385&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
@@ -20,17 +21,121 @@
       "GUID": "2F9CD2A6-E590-461A-8C4A-A8F0AB7010DE",
       "Title": "Oversight - Pursuant to Council Rule Section 10.60. ",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 78586,
       "MatterFile": "T2026-1635",
       "MatterName": "Oversight - Pursuant to Council Rule Section 10.60.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-04-17T13:58:47.667Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-04-23T23:17:50.71Z"
+    },
+    {
+      "ID": 437337,
+      "GUID": "97A7ECF4-80EC-4A09-A59E-E8BEF7438C31",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7895,
+          "Slug": "elsie-encarnacion",
+          "FullName": "Elsie Encarnación",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        }
+      ],
+      "LastModified": "2026-04-23T23:17:43.883Z"
+    },
+    {
+      "ID": 437338,
+      "GUID": "5AF68641-FB27-420B-9ED1-A9AD578AD27A",
+      "Title": "Oversight - Pursuant to Council Rule Section 10.60. ",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 78586,
+      "MatterFile": "T2026-1635",
+      "MatterName": "Oversight - Pursuant to Council Rule Section 10.60.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-04-23T23:18:06.34Z"
     }
   ],
   "AgendaLastPublished": "2026-04-16T21:33:32.677Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-04-21T14:07:45.943Z"
+  "MinutesLastPublished": "2026-04-23T23:18:13.37Z",
+  "LastModified": "2026-04-23T23:18:13.433Z"
 }
