@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/4/22337_A_Committee_on_Veterans_26-04-23_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/4/22337_M_Committee_on_Veterans_26-04-23_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-3_260423-100616.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22337&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,30 +20,131 @@
       "GUID": "77B8E983-CBD1-4DF2-9393-8E127141B093",
       "Title": "Oversight - Serving Post-9/11 Veterans.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 78481,
       "MatterFile": "T2026-1530",
       "MatterName": "Oversight - Serving Post-9/11 Veterans.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-04-14T16:16:32.73Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-04-24T16:51:45.25Z"
     },
     {
       "ID": 437036,
       "GUID": "BF5D9C0A-C326-4DEE-80D8-D6FA8754DE24",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of housing preservation and development to submit reports on veteran preference in Mitchell-Lama developments",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 77127,
       "MatterFile": "Int 0488-2026",
       "MatterName": "Requiring the department of housing preservation and development to submit reports on veteran preference in Mitchell-Lama developments.",
       "MatterType": "Introduction",
-      "LastModified": "2026-04-14T16:16:44.36Z"
+      "LastModified": "2026-04-24T16:52:46.257Z"
+    },
+    {
+      "ID": 437340,
+      "GUID": "D7EB6990-C390-4525-B593-FA0CAC50F0A1",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7887,
+          "Slug": "frank-morano",
+          "FullName": "Frank Morano",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7900,
+          "Slug": "phil-wong",
+          "FullName": "Phil Wong",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        }
+      ],
+      "LastModified": "2026-04-24T16:51:37.3Z"
+    },
+    {
+      "ID": 437341,
+      "GUID": "25472C46-DB6E-4F12-A6D2-3F71FE388E08",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Vernikov",
+      "LastModified": "2026-04-24T16:51:28.073Z"
+    },
+    {
+      "ID": 437342,
+      "GUID": "55564E59-412A-4107-986F-B48AF2773448",
+      "Title": "Oversight - Serving Post-9/11 Veterans.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 78481,
+      "MatterFile": "T2026-1530",
+      "MatterName": "Oversight - Serving Post-9/11 Veterans.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-04-24T16:51:49.923Z"
+    },
+    {
+      "ID": 437343,
+      "GUID": "CB6E58F5-E9ED-42BB-B6A1-BE3E2C9E3707",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of housing preservation and development to submit reports on veteran preference in Mitchell-Lama developments",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 77127,
+      "MatterFile": "Int 0488-2026",
+      "MatterName": "Requiring the department of housing preservation and development to submit reports on veteran preference in Mitchell-Lama developments.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-04-24T16:52:37.107Z"
     }
   ],
   "AgendaLastPublished": "2026-04-14T16:16:51.22Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-04-23T16:46:09.847Z"
+  "MinutesLastPublished": "2026-04-24T16:52:53.147Z",
+  "LastModified": "2026-04-24T16:52:53.287Z"
 }
