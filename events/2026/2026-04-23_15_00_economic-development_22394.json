@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/4/22394_A_Committee_on_Economic_Development_26-04-23_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/4/22394_M_Committee_on_Economic_Development_26-04-23_Meeting_Minutes.pdf",
   "Comment": "Tour - PLEASE BE ADVISED THE TOUR IS NOT OPEN TO THE PUBLIC*",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22394&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,17 +20,105 @@
       "GUID": "25468B6D-1A39-466F-9329-747377A3E151",
       "Title": "Tour - Willets Point Redevelopment.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 5081,
+      "ActionName": "Tour Held by Committee",
+      "ActionText": "This Tour was Tour Held by Committee",
       "MatterID": 78596,
       "MatterFile": "T2026-1645",
       "MatterName": "Tour - Willets Point Redevelopment.",
       "MatterType": "Tour",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-04-06T20:58:21.197Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-04-28T23:50:38.207Z"
+    },
+    {
+      "ID": 437562,
+      "GUID": "98AADDF8-A4CD-4563-A033-4987D6F178BB",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7894,
+          "Slug": "virginia-maloney",
+          "FullName": "Virginia Maloney",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-c-farias",
+          "FullName": "Amanda C. Farías",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 80
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 100
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7898,
+          "Slug": "shanel-thomas-henry",
+          "FullName": "Shanel Thomas-Henry",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2026-04-28T23:51:10.987Z"
+    },
+    {
+      "ID": 437563,
+      "GUID": "F64EFB9F-7C69-41F8-B87D-F5762B68D973",
+      "Title": "Tour - Willets Point Redevelopment.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Tour was Filed, by Committee",
+      "MatterID": 78596,
+      "MatterFile": "T2026-1645",
+      "MatterName": "Tour - Willets Point Redevelopment.",
+      "MatterType": "Tour",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-04-28T23:50:57.857Z"
     }
   ],
   "AgendaLastPublished": "2026-04-06T20:58:27.94Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-04-06T20:58:28.067Z"
+  "MinutesLastPublished": "2026-04-28T23:51:18.617Z",
+  "LastModified": "2026-04-28T23:51:18.757Z"
 }
