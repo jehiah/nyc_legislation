@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/4/22387_A_Committee_on_Higher_Education_26-04-28_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/4/22387_M_Committee_on_Higher_Education_26-04-28_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Children and Youth.",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-2_260428-101851.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22387&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
@@ -20,26 +21,124 @@
       "GUID": "38536ACF-73A7-4927-9173-37A6FE45FCB2",
       "Title": "Oversight - Strengthening CUNY Pathways for Current and Former Foster Youth.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 78466,
       "MatterFile": "T2026-1515",
       "MatterName": "Oversight - Strengthening CUNY Pathways for Current and Former Foster Youth.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-04-23T16:52:23.247Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-04-29T17:45:00.26Z"
     },
     {
       "ID": 436718,
       "GUID": "0B4E6FA5-7AFC-41F9-9167-D4EE86D9D42D",
       "Title": "Jointly with the Committee on Children and Youth",
       "AgendaSequence": 2,
+      "MinutesSequence": 5,
+      "Version": "",
+      "LastModified": "2026-04-29T17:44:55.143Z"
+    },
+    {
+      "ID": 437614,
+      "GUID": "E155F941-254D-40CF-AAA9-DF94FD223605",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7893,
+          "Slug": "harvey-d-epstein",
+          "FullName": "Harvey D. Epstein",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7894,
+          "Slug": "virginia-maloney",
+          "FullName": "Virginia Maloney",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2026-04-29T17:45:22.357Z"
+    },
+    {
+      "ID": 437615,
+      "GUID": "C28F5570-40C8-40A2-A7A9-5FA5517DBAB2",
+      "Title": "",
+      "AgendaSequence": 0,
       "MinutesSequence": 2,
       "Version": "",
-      "LastModified": "2026-04-01T20:54:20.73Z"
+      "MinutesNote": "Other Council Members Attending: Felder and Brewer",
+      "LastModified": "2026-04-29T17:44:34.86Z"
+    },
+    {
+      "ID": 437616,
+      "GUID": "7D65E74F-8100-4682-8C8D-92F334D565FC",
+      "Title": "Oversight - Strengthening CUNY Pathways for Current and Former Foster Youth.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 78466,
+      "MatterFile": "T2026-1515",
+      "MatterName": "Oversight - Strengthening CUNY Pathways for Current and Former Foster Youth.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-04-29T17:45:04.257Z"
     }
   ],
   "AgendaLastPublished": "2026-04-01T20:54:45.613Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-04-28T17:29:27.063Z"
+  "MinutesLastPublished": "2026-04-29T17:45:28.72Z",
+  "LastModified": "2026-04-29T17:45:28.847Z"
 }
