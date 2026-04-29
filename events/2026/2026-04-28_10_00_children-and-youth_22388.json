@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/4/22388_A_Committee_on_Children_and_Youth_26-04-28_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/4/22388_M_Committee_on_Children_and_Youth_26-04-28_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Higher Education",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-2_260428-101851.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22388&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,26 +21,98 @@
       "GUID": "8F369CFA-9D01-4DBA-B8A8-4FE39FDE72FE",
       "Title": "Oversight - Strengthening CUNY Pathways for Current and Former Foster Youth.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 78532,
       "MatterFile": "T2026-1581",
       "MatterName": "Oversight - Strengthening CUNY Pathways for Current and Former Foster Youth.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-04-01T20:56:39.303Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-04-29T19:40:03.327Z"
     },
     {
       "ID": 436720,
       "GUID": "CCBF8B4F-95BE-4FF3-A36B-65E8EA9954FA",
       "Title": "Jointly with the Committee on Higher Education",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "",
-      "LastModified": "2026-04-01T20:56:12.857Z"
+      "LastModified": "2026-04-29T19:39:58.437Z"
+    },
+    {
+      "ID": 437643,
+      "GUID": "0BC67B57-0594-4DE9-9114-2A42047C15B2",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5289,
+          "Slug": "simcha-felder",
+          "FullName": "Simcha Felder",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 80
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 100
+        }
+      ],
+      "LastModified": "2026-04-29T19:39:55.57Z"
+    },
+    {
+      "ID": 437644,
+      "GUID": "542EDA69-C700-4082-95AD-9CA329D43DE9",
+      "Title": "Oversight - Strengthening CUNY Pathways for Current and Former Foster Youth.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 78532,
+      "MatterFile": "T2026-1581",
+      "MatterName": "Oversight - Strengthening CUNY Pathways for Current and Former Foster Youth.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-04-29T19:40:09.047Z"
     }
   ],
   "AgendaLastPublished": "2026-04-01T20:56:43.977Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-04-01T20:56:44.03Z"
+  "MinutesLastPublished": "2026-04-29T19:40:14.427Z",
+  "LastModified": "2026-04-29T19:40:14.56Z"
 }

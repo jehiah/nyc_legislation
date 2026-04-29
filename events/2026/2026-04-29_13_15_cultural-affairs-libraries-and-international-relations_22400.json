@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/4/22400_A_Committee_on_Cultural_Affairs%2C_Libraries_and_International_Relations_26-04-29_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/4/22400_M_Committee_on_Cultural_Affairs%2C_Libraries_and_International_Relations_26-04-29_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Transportation and Infrastructure and the Committee on Contracts",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22400&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,65 +20,220 @@
       "GUID": "C15B96BB-256C-43CB-8147-DCC52FFD62DA",
       "Title": "Oversight - Capital Construction Contracting and Cost Escalation.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 78620,
       "MatterFile": "T2026-1669",
       "MatterName": "Oversight - Capital Construction Contracting and Cost Escalation.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-04-17T17:35:09.947Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-04-29T23:37:51.333Z"
     },
     {
       "ID": 436820,
       "GUID": "B1CC5E7C-28D6-45BB-A83C-625A0E9ABF70",
       "Title": "A Local Law in relation to developing a strategic blueprint to reduce capital project durations by at least 25 percent",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 77523,
       "MatterFile": "Int 0263-2026",
       "MatterName": "Developing a strategic blueprint to reduce capital project durations by at least 25 percent.",
       "MatterType": "Introduction",
-      "LastModified": "2026-04-17T19:04:12.2Z"
+      "LastModified": "2026-04-29T23:38:03Z"
     },
     {
       "ID": 436821,
       "GUID": "F1C55066-7EA5-4831-8835-B292CF70D1AC",
       "Title": "Resolution calling on the New York State Legislature to introduce and pass, and the New York State Governor to sign, legislation to grant permanent and expanded Design-Build authority to all New York City agencies",
       "AgendaSequence": 4,
-      "MinutesSequence": 4,
+      "MinutesSequence": 9,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 78158,
       "MatterFile": "Res 0264-2026",
       "MatterName": "Grant permanent and expanded Design-Build authority to all New York City agencies.",
       "MatterType": "Resolution",
-      "LastModified": "2026-04-17T17:35:14.46Z"
+      "LastModified": "2026-04-29T23:38:32.61Z"
     },
     {
       "ID": 436822,
       "GUID": "DE2141FA-DF60-4E66-8BA6-1DD4F60A8196",
       "Title": "Jointly with the Committee on Transportation and Infrastructure and the Committee on Contracts",
       "AgendaSequence": 5,
-      "MinutesSequence": 5,
+      "MinutesSequence": 11,
       "Version": "",
-      "LastModified": "2026-04-27T16:52:07.313Z"
+      "LastModified": "2026-04-29T23:38:25.22Z"
     },
     {
       "ID": 437216,
       "GUID": "54B7756A-6E05-4627-9BEA-9A761EB34817",
       "Title": "A Local Law in relation to a study and report on the expansion of ferry service along the Harlem River",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 77775,
       "MatterFile": "Int 0465-2026",
       "MatterName": "Study and report on the expansion of ferry service along the Harlem River.",
       "MatterType": "Introduction",
-      "LastModified": "2026-04-17T19:04:21.507Z"
+      "LastModified": "2026-04-29T23:38:17.157Z"
+    },
+    {
+      "ID": 437656,
+      "GUID": "41B364AF-47BE-40B7-8490-D19CEBFCB4C3",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7894,
+          "Slug": "virginia-maloney",
+          "FullName": "Virginia Maloney",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2026-04-29T23:37:34.853Z"
+    },
+    {
+      "ID": 437657,
+      "GUID": "C521A6D5-CF40-4B77-BA38-2226B4B61249",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Restler, Gennaro, Brewer, Stevens, Vernikov, Abreu, J. Sanchez, Brooks-Powers, P. Sanchez, Hanif, Krishnan and Hudson",
+      "LastModified": "2026-04-29T23:37:31.33Z"
+    },
+    {
+      "ID": 437658,
+      "GUID": "FA42B107-92EE-4466-A807-DEF28625A09E",
+      "Title": "Oversight - Capital Construction Contracting and Cost Escalation.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 78620,
+      "MatterFile": "T2026-1669",
+      "MatterName": "Oversight - Capital Construction Contracting and Cost Escalation.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-04-29T23:37:54.903Z"
+    },
+    {
+      "ID": 437659,
+      "GUID": "7336D86D-F33A-406F-B955-DC242D999918",
+      "Title": "A Local Law in relation to developing a strategic blueprint to reduce capital project durations by at least 25 percent",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 77523,
+      "MatterFile": "Int 0263-2026",
+      "MatterName": "Developing a strategic blueprint to reduce capital project durations by at least 25 percent.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-04-29T23:38:09.91Z"
+    },
+    {
+      "ID": 437660,
+      "GUID": "B10D7B67-AE92-45AD-A329-105F329813DB",
+      "Title": "A Local Law in relation to a study and report on the expansion of ferry service along the Harlem River",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 77775,
+      "MatterFile": "Int 0465-2026",
+      "MatterName": "Study and report on the expansion of ferry service along the Harlem River.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-04-29T23:38:23.21Z"
+    },
+    {
+      "ID": 437661,
+      "GUID": "4BA5FBB9-E8A0-4EA8-848F-6F8035533089",
+      "Title": "Resolution calling on the New York State Legislature to introduce and pass, and the New York State Governor to sign, legislation to grant permanent and expanded Design-Build authority to all New York City agencies",
+      "AgendaSequence": 0,
+      "MinutesSequence": 10,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 78158,
+      "MatterFile": "Res 0264-2026",
+      "MatterName": "Grant permanent and expanded Design-Build authority to all New York City agencies.",
+      "MatterType": "Resolution",
+      "LastModified": "2026-04-29T23:38:43.087Z"
     }
   ],
   "AgendaLastPublished": "2026-04-27T16:52:17.163Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-04-27T16:52:17.197Z"
+  "MinutesLastPublished": "2026-04-29T23:38:48.9Z",
+  "LastModified": "2026-04-29T23:38:49.01Z"
 }

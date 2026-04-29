@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/4/22398_A_Committee_on_Education_26-04-29_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/4/22398_M_Committee_on_Education_26-04-29_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Public Safety.",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22398&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,65 +20,268 @@
       "GUID": "22A0A6DB-9B9A-47A4-956B-DA066F4DCB34",
       "Title": "Oversight - Examining School Safety and Crossing Guard Operations at DOE Schools.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 78515,
       "MatterFile": "T2026-1564",
       "MatterName": "Oversight - Examining School Safety and Crossing Guard Operations at DOE Schools.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-04-13T23:15:47.097Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-04-29T23:32:14.737Z"
     },
     {
       "ID": 436769,
       "GUID": "83A05025-CABE-42A2-A257-448A0328C2EB",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring annual reports on employment turnover of school safety agents and other school safety personnel",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 78543,
       "MatterFile": "Int 0788-2026",
       "MatterName": "Requiring annual reports on employment turnover of school safety agents and other school safety personnel.",
       "MatterType": "Introduction",
-      "LastModified": "2026-04-13T23:15:59.143Z"
+      "LastModified": "2026-04-29T23:32:41.797Z"
     },
     {
       "ID": 436770,
       "GUID": "651077E2-7914-48A2-892F-1B4C3B458DA0",
       "Title": "Jointly with the Committee on Public Safety",
       "AgendaSequence": 5,
-      "MinutesSequence": 5,
+      "MinutesSequence": 11,
       "Version": "",
-      "LastModified": "2026-04-13T23:15:59.313Z"
+      "LastModified": "2026-04-29T23:32:47.793Z"
     },
     {
       "ID": 436904,
       "GUID": "57DBE1ED-DB55-465F-B879-AADF2953615D",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to reporting on crossing guard deployment.",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 77723,
       "MatterFile": "Int 0457-2026",
       "MatterName": "Reporting on crossing guard deployment.",
       "MatterType": "Introduction",
-      "LastModified": "2026-04-13T23:15:54.967Z"
+      "LastModified": "2026-04-29T23:32:26.73Z"
     },
     {
       "ID": 436905,
       "GUID": "71EBEB6F-1C3C-4CC8-A720-83571CB7BBCC",
       "Title": "Resolution calling on the New York State Legislature to Pass and the Governor to Sign, S.9274/A.10381, also known as the Didarul Islam Police Recruitment Act",
       "AgendaSequence": 4,
-      "MinutesSequence": 4,
+      "MinutesSequence": 9,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 78506,
       "MatterFile": "Res 0392-2026",
       "MatterName": "The Didarul Islam Police Recruitment Act (S.9274/A.10381).",
       "MatterType": "Resolution",
-      "LastModified": "2026-04-13T23:16:17.313Z"
+      "LastModified": "2026-04-29T23:32:55.283Z"
+    },
+    {
+      "ID": 437612,
+      "GUID": "CE8F3683-6DFC-40BA-ACB6-70A359F642ED",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-c-farias",
+          "FullName": "Amanda C. Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 200
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 220
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 240
+        },
+        {
+          "ID": 7900,
+          "Slug": "phil-wong",
+          "FullName": "Phil Wong",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 260
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 280
+        }
+      ],
+      "LastModified": "2026-04-29T23:29:46.167Z"
+    },
+    {
+      "ID": 437613,
+      "GUID": "F38921F3-3BF3-459C-B52B-B80BD4CCF795",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Feliz, Ariola, Nurse, Hankerson, Encarnación, J. Sanchez, Banks and Cabán",
+      "LastModified": "2026-04-29T23:32:03.397Z"
+    },
+    {
+      "ID": 437652,
+      "GUID": "44B81F78-78CB-4A5F-B313-A6305F275C29",
+      "Title": "Oversight - Examining School Safety and Crossing Guard Operations at DOE Schools.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 78515,
+      "MatterFile": "T2026-1564",
+      "MatterName": "Oversight - Examining School Safety and Crossing Guard Operations at DOE Schools.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-04-29T23:32:17.95Z"
+    },
+    {
+      "ID": 437653,
+      "GUID": "CDF784E6-9C87-4F3C-862E-4D94CC30C003",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to reporting on crossing guard deployment.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 77723,
+      "MatterFile": "Int 0457-2026",
+      "MatterName": "Reporting on crossing guard deployment.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-04-29T23:32:33.297Z"
+    },
+    {
+      "ID": 437654,
+      "GUID": "2BCD0671-DC7B-4211-96D3-BF1E3E0407CA",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring annual reports on employment turnover of school safety agents and other school safety personnel",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 78543,
+      "MatterFile": "Int 0788-2026",
+      "MatterName": "Requiring annual reports on employment turnover of school safety agents and other school safety personnel.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-04-29T23:32:46.347Z"
+    },
+    {
+      "ID": 437655,
+      "GUID": "A1ECA152-B1FF-493D-9C65-4DB1825A55DE",
+      "Title": "Resolution calling on the New York State Legislature to Pass and the Governor to Sign, S.9274/A.10381, also known as the Didarul Islam Police Recruitment Act",
+      "AgendaSequence": 0,
+      "MinutesSequence": 10,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 78506,
+      "MatterFile": "Res 0392-2026",
+      "MatterName": "The Didarul Islam Police Recruitment Act (S.9274/A.10381).",
+      "MatterType": "Resolution",
+      "LastModified": "2026-04-29T23:33:07.273Z"
     }
   ],
   "AgendaLastPublished": "2026-04-13T23:16:22.317Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-04-13T23:16:22.387Z"
+  "MinutesLastPublished": "2026-04-29T23:33:14.107Z",
+  "LastModified": "2026-04-29T23:33:14.233Z"
 }

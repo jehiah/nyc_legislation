@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/4/22346_A_Committee_on_Public_Housing_26-04-29_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/4/22346_M_Committee_on_Public_Housing_26-04-29_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_260429-100236.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22346&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,17 +20,115 @@
       "GUID": "A697CFDA-C18B-4259-8D03-C70345C911B8",
       "Title": "Oversight - Preserve, Produce, Empower: Positioning NYCHA to Further New York City’s Affordable Housing Agenda.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 78500,
       "MatterFile": "T2026-1549",
       "MatterName": "Oversight - Preserve, Produce, Empower: Positioning NYCHA to Further New York City’s Affordable Housing Agenda.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-04-29T17:12:07.423Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-04-29T19:33:28.43Z"
+    },
+    {
+      "ID": 437640,
+      "GUID": "B63252B2-4C94-446B-B5E0-975143364C06",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7895,
+          "Slug": "elsie-encarnacion",
+          "FullName": "Elsie Encarnación",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 80
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2026-04-29T19:33:39.63Z"
+    },
+    {
+      "ID": 437641,
+      "GUID": "7297A9B7-E527-4413-BC07-3DC8416E8175",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Hanif",
+      "LastModified": "2026-04-29T19:33:12.57Z"
+    },
+    {
+      "ID": 437642,
+      "GUID": "EBB7514D-F77B-41CF-A801-BE89E66B534F",
+      "Title": "Oversight - Preserve, Produce, Empower: Positioning NYCHA to Further New York City’s Affordable Housing Agenda.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 78500,
+      "MatterFile": "T2026-1549",
+      "MatterName": "Oversight - Preserve, Produce, Empower: Positioning NYCHA to Further New York City’s Affordable Housing Agenda.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-04-29T19:33:32.48Z"
     }
   ],
   "AgendaLastPublished": "2026-03-17T20:10:15.397Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-04-29T17:10:55.4Z"
+  "MinutesLastPublished": "2026-04-29T19:33:45.353Z",
+  "LastModified": "2026-04-29T19:33:45.48Z"
 }
