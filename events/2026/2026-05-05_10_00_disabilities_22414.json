@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/5/22414_A_Committee_on_Disabilities_26-05-05_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/5/22414_M_Committee_on_Disabilities_26-05-05_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_260505-102041.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22414&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,17 +20,89 @@
       "GUID": "CF33BA73-1861-4769-9C62-707F02BB0489",
       "Title": "Oversight - Equal Economic Opportunity for New Yorkers with Disabilities.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 78597,
       "MatterFile": "T2026-1646",
       "MatterName": "Oversight - Equal Economic Opportunity for New Yorkers with Disabilities.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-05-01T20:47:43.06Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-05-05T19:44:23.057Z"
+    },
+    {
+      "ID": 437778,
+      "GUID": "B0DA4447-D019-4565-831E-E5EFF251D6A9",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-l-caban",
+          "FullName": "Tiffany L. Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 100
+        }
+      ],
+      "LastModified": "2026-05-05T19:44:01.23Z"
+    },
+    {
+      "ID": 437779,
+      "GUID": "A77188D3-9C29-4C07-AAA2-B207929D1AF9",
+      "Title": "Oversight - Equal Economic Opportunity for New Yorkers with Disabilities.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 78597,
+      "MatterFile": "T2026-1646",
+      "MatterName": "Oversight - Equal Economic Opportunity for New Yorkers with Disabilities.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-05-05T19:45:04.42Z"
     }
   ],
   "AgendaLastPublished": "2026-05-01T20:47:49.413Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-05-01T20:47:49.503Z"
+  "MinutesLastPublished": "2026-05-05T19:45:11.307Z",
+  "LastModified": "2026-05-05T19:45:11.417Z"
 }
