@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/5/22406_A_Committee_on_Immigration_26-05-06_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/5/22406_M_Committee_on_Immigration_26-05-06_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Small Business",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22406&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,26 +20,108 @@
       "GUID": "46A59D00-DED3-40F0-B91E-9789739DFDF6",
       "Title": "Oversight - Economic Impacts of Federal Immigration Policy Changes.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 78495,
       "MatterFile": "T2026-1544",
       "MatterName": "Oversight - Economic Impacts of Federal Immigration Policy Changes.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-04-13T19:02:27.627Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-05-06T17:42:35.397Z"
     },
     {
       "ID": 436893,
       "GUID": "4345ED76-A973-4AA4-A744-D89033BE4B58",
       "Title": "Jointly with the Committee on Small Business",
       "AgendaSequence": 2,
+      "MinutesSequence": 5,
+      "Version": "",
+      "LastModified": "2026-05-06T17:42:06.57Z"
+    },
+    {
+      "ID": 437791,
+      "GUID": "1940F77B-0E3F-427A-A0AB-D437192627A4",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7895,
+          "Slug": "elsie-encarnacion",
+          "FullName": "Elsie Encarnación",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        }
+      ],
+      "LastModified": "2026-05-06T17:41:56.797Z"
+    },
+    {
+      "ID": 437792,
+      "GUID": "D7541677-A710-431E-A236-4884C38882A2",
+      "Title": "",
+      "AgendaSequence": 0,
       "MinutesSequence": 2,
       "Version": "",
-      "LastModified": "2026-04-13T19:02:07.507Z"
+      "MinutesNote": "Other Council Members Attending: Thomas-Henry, Morano, Hanif, Maloney, Salaam, Brooks-Powers and Krishnan",
+      "LastModified": "2026-05-06T17:40:54.607Z"
+    },
+    {
+      "ID": 437793,
+      "GUID": "32405841-D95F-4EC4-8DB7-445B01602FB3",
+      "Title": "Oversight - Economic Impacts of Federal Immigration Policy Changes.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 78495,
+      "MatterFile": "T2026-1544",
+      "MatterName": "Oversight - Economic Impacts of Federal Immigration Policy Changes.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-05-06T17:43:12.793Z"
     }
   ],
   "AgendaLastPublished": "2026-04-13T19:02:32.287Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-04-13T19:02:32.447Z"
+  "MinutesLastPublished": "2026-05-06T17:43:30.07Z",
+  "LastModified": "2026-05-06T17:43:30.193Z"
 }

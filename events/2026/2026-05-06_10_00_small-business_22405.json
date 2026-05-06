@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/5/22405_A_Committee_on_Small_Business_26-05-06_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/5/22405_M_Committee_on_Small_Business_26-05-06_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Immigration.",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-2_260506-100847.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22405&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,26 +21,124 @@
       "GUID": "58C794DF-37FF-466F-8BC8-D90F29877458",
       "Title": "Oversight - Economic Impacts of Federal Immigration Policy Changes.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 78496,
       "MatterFile": "T2026-1545",
       "MatterName": "Oversight - Economic Impacts of Federal Immigration Policy Changes.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-04-13T19:01:00.733Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-05-06T17:56:41.14Z"
     },
     {
       "ID": 436891,
       "GUID": "25BF8A31-7728-49A3-8100-0974644D3B4A",
       "Title": "Jointly with the Committee on Immigration",
       "AgendaSequence": 2,
+      "MinutesSequence": 5,
+      "Version": "",
+      "LastModified": "2026-05-06T17:56:20.227Z"
+    },
+    {
+      "ID": 437795,
+      "GUID": "F31D388D-F724-4AFA-A55A-BB54325EA880",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7898,
+          "Slug": "shanel-thomas-henry",
+          "FullName": "Shanel Thomas-Henry",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7894,
+          "Slug": "virginia-maloney",
+          "FullName": "Virginia Maloney",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7887,
+          "Slug": "frank-morano",
+          "FullName": "Frank Morano",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7901,
+          "Slug": "kayla-santosuosso",
+          "FullName": "Kayla Santosuosso",
+          "ValueID": 66,
+          "Value": "Parental ",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2026-05-06T17:56:10.08Z"
+    },
+    {
+      "ID": 437796,
+      "GUID": "38114C10-3698-4EAB-A05E-66E201D93B21",
+      "Title": "",
+      "AgendaSequence": 0,
       "MinutesSequence": 2,
       "Version": "",
-      "LastModified": "2026-04-13T19:00:38.85Z"
+      "MinutesNote": "Other Council Members Attending: Encarnación, Avilés, Brewer, Hanks, Joseph and Krishnan",
+      "LastModified": "2026-05-06T17:55:43.69Z"
+    },
+    {
+      "ID": 437797,
+      "GUID": "EFB4EC40-68C1-4720-ACDD-DA6AD8715F07",
+      "Title": "Oversight - Economic Impacts of Federal Immigration Policy Changes.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 78496,
+      "MatterFile": "T2026-1545",
+      "MatterName": "Oversight - Economic Impacts of Federal Immigration Policy Changes.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-05-06T17:57:06.703Z"
     }
   ],
   "AgendaLastPublished": "2026-04-13T19:01:06.237Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-04-13T19:01:06.4Z"
+  "MinutesLastPublished": "2026-05-06T17:57:19.28Z",
+  "LastModified": "2026-05-06T17:57:19.38Z"
 }
