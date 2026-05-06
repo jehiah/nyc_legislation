@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/5/22415_A_Committee_on_Parks_and_Recreation_26-05-06_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/5/22415_M_Committee_on_Parks_and_Recreation_26-05-06_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_260506-130857.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22415&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,30 +20,179 @@
       "GUID": "AC5A53FB-6C48-4598-A426-49C10F23F556",
       "Title": "Oversight - Examining the Parks Department’s Engagement with Community Based Organizations and Volunteers.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 78738,
       "MatterFile": "T2026-1787",
       "MatterName": "Oversight - Examining the Parks Department’s Engagement with Community Based Organizations and Volunteers.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-05-04T14:50:28.357Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-05-06T22:33:04.86Z"
     },
     {
       "ID": 437355,
       "GUID": "A59A53C3-384B-47DB-A851-BE40EE3B7AF6",
       "Title": "A Local Law in relation to the naming of two thoroughfares and public places, Thierry Henry Way, Borough of Manhattan and Pelé Way, Borough of Queens, and the repeal of this local law upon the expiration thereof",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 78702,
       "MatterFile": "Int 0822-2026",
       "MatterName": "The naming of two thoroughfares and public places.",
       "MatterType": "Introduction",
-      "LastModified": "2026-05-04T14:49:20.167Z"
+      "LastModified": "2026-05-06T22:33:32.533Z"
+    },
+    {
+      "ID": 437810,
+      "GUID": "D10D4B75-6439-4B51-A46C-B63E20456D3D",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7899,
+          "Slug": "ty-hankerson",
+          "FullName": "Ty Hankerson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7887,
+          "Slug": "frank-morano",
+          "FullName": "Frank Morano",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        },
+        {
+          "ID": 7901,
+          "Slug": "kayla-santosuosso",
+          "FullName": "Kayla Santosuosso",
+          "ValueID": 66,
+          "Value": "Parental ",
+          "Sort": 200
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 220
+        }
+      ],
+      "LastModified": "2026-05-06T22:32:44.35Z"
+    },
+    {
+      "ID": 437811,
+      "GUID": "F000085D-D08F-4C3D-AFDB-1BDA839022EE",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Thomas-Henry",
+      "LastModified": "2026-05-06T22:32:22.767Z"
+    },
+    {
+      "ID": 437812,
+      "GUID": "47617168-1750-48EA-B356-D3D6505EFDD3",
+      "Title": "Oversight - Examining the Parks Department’s Engagement with Community Based Organizations and Volunteers.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 78738,
+      "MatterFile": "T2026-1787",
+      "MatterName": "Oversight - Examining the Parks Department’s Engagement with Community Based Organizations and Volunteers.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-05-06T22:33:16.327Z"
+    },
+    {
+      "ID": 437813,
+      "GUID": "92066CB7-B084-423C-9718-4436C8D41F55",
+      "Title": "A Local Law in relation to the naming of two thoroughfares and public places, Thierry Henry Way, Borough of Manhattan and Pelé Way, Borough of Queens, and the repeal of this local law upon the expiration thereof",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 78702,
+      "MatterFile": "Int 0822-2026",
+      "MatterName": "The naming of two thoroughfares and public places.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-05-06T22:33:44.84Z"
     }
   ],
   "AgendaLastPublished": "2026-05-04T14:50:34.957Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-05-06T17:08:59.253Z"
+  "MinutesLastPublished": "2026-05-06T22:33:51.79Z",
+  "LastModified": "2026-05-06T22:33:51.927Z"
 }
