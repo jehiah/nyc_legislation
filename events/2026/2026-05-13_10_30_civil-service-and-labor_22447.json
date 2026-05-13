@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/5/22447_A_Committee_on_Civil_Service_and_Labor_26-05-13_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/5/22447_M_Committee_on_Civil_Service_and_Labor_26-05-13_Meeting_Minutes.pdf",
   "Comment": "VOTE",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_260513-104042.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22447&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,16 +21,105 @@
       "GUID": "88BF88F6-115A-4730-A3FD-50F960807BAC",
       "Title": "Resolution calling upon the New York City Department of Education to establish May annually as Labor History Month in New York City public schools",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 77330,
       "MatterFile": "Res 0026-2026",
       "MatterName": "New York City Department of Education to establish May annually as Labor History Month in New York City public schools.",
       "MatterType": "Resolution",
-      "LastModified": "2026-05-08T18:25:08.78Z"
+      "LastModified": "2026-05-13T14:56:09.093Z"
+    },
+    {
+      "ID": 438046,
+      "GUID": "CD2A7957-BD1A-4E0B-A734-27F1F9C20922",
+      "Title": "Resolution calling upon the New York City Department of Education to establish May annually as Labor History Month in New York City public schools",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "This Resolution was Approved by Committee",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 77330,
+      "MatterFile": "Res 0026-2026",
+      "MatterName": "New York City Department of Education to establish May annually as Labor History Month in New York City public schools.",
+      "MatterType": "Resolution",
+      "LastModified": "2026-05-13T14:57:05.997Z"
+    },
+    {
+      "ID": 438047,
+      "GUID": "817A8AEF-A55B-4598-AE88-0730F035ADED",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7896,
+          "Slug": "shirley-aldebol",
+          "FullName": "Shirley Aldebol",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-l-caban",
+          "FullName": "Tiffany L. Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7899,
+          "Slug": "ty-hankerson",
+          "FullName": "Ty Hankerson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7887,
+          "Slug": "frank-morano",
+          "FullName": "Frank Morano",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2026-05-13T14:56:37.953Z"
     }
   ],
   "AgendaLastPublished": "2026-05-11T12:19:34.633Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-05-11T12:19:34.753Z"
+  "MinutesLastPublished": "2026-05-13T14:57:11.603Z",
+  "LastModified": "2026-05-13T14:57:11.667Z"
 }

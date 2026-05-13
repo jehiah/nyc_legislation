@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/5/22420_A_Committee_on_Economic_Development_26-05-08_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/5/22420_M_Committee_on_Economic_Development_26-05-08_Meeting_Minutes.pdf",
   "Comment": "Tour - PLEASE BE ADVISED THE TOUR IS NOT OPEN TO THE PUBLIC*",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22420&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,17 +20,115 @@
       "GUID": "9DFC34D2-0C3E-4493-99E4-F0073E73801B",
       "Title": "Tour - Hunts Point Market.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 5081,
+      "ActionName": "Tour Held by Committee",
+      "ActionText": "This Tour was Tour Held by Committee",
       "MatterID": 78764,
       "MatterFile": "T2026-1813",
       "MatterName": "Tour - Hunts Point Market.",
       "MatterType": "Tour",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-04-28T18:51:42.68Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-05-13T15:50:16.363Z"
+    },
+    {
+      "ID": 438048,
+      "GUID": "0EDC8569-F903-41A2-A427-45633D21952A",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7894,
+          "Slug": "virginia-maloney",
+          "FullName": "Virginia Maloney",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-c-farias",
+          "FullName": "Amanda C. Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 100
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 120
+        },
+        {
+          "ID": 7898,
+          "Slug": "shanel-thomas-henry",
+          "FullName": "Shanel Thomas-Henry",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2026-05-13T15:50:03.013Z"
+    },
+    {
+      "ID": 438049,
+      "GUID": "650EAE87-362E-419D-B2AE-0BB9175252A9",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: J. Sanchez and Speaker Menin",
+      "LastModified": "2026-05-13T15:47:20.093Z"
+    },
+    {
+      "ID": 438050,
+      "GUID": "859DFF43-C05C-4F17-927F-DC760B409B39",
+      "Title": "Tour - Hunts Point Market.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Tour was Filed, by Committee",
+      "MatterID": 78764,
+      "MatterFile": "T2026-1813",
+      "MatterName": "Tour - Hunts Point Market.",
+      "MatterType": "Tour",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-05-13T15:50:25.59Z"
     }
   ],
   "AgendaLastPublished": "2026-04-28T18:51:50.293Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-04-28T18:51:50.437Z"
+  "MinutesLastPublished": "2026-05-13T15:50:30.83Z",
+  "LastModified": "2026-05-13T15:50:30.9Z"
 }
