@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/5/22491_A_City_Council_26-05-14_Council_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/5/22491_M_City_Council_26-05-14_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_260514-134012.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22491&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -2205,7 +2206,7 @@
       "MatterFile": "Res 0472-2026",
       "MatterName": "M 61 - Lisa Kersavage, Landmarks Preservation Commission.",
       "MatterType": "Resolution",
-      "LastModified": "2026-05-14T19:35:52.8Z"
+      "LastModified": "2026-05-15T14:29:08.577Z"
     },
     {
       "ID": 438092,
@@ -2661,12 +2662,22 @@
     {
       "ID": 438145,
       "GUID": "0CF4D247-F0AA-4CAB-ADD8-185B96C28B43",
-      "Title": "",
+      "Title": "Communication from the Mayor - Submitting the name Lisa Kersavage to the Council for its advice and consent regarding her appointment to the Landmarks Preservation Commission, pursuant to Section 31 of the City Charter.",
       "AgendaSequence": 0,
       "MinutesSequence": 36,
-      "Version": "",
+      "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this  be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "Consent": 1,
-      "LastModified": "2026-05-14T19:41:26.62Z"
+      "MatterID": 78755,
+      "MatterFile": "M 0061-2026",
+      "MatterName": "Lisa Kersavage, Landmarks Preservation Commission.",
+      "MatterType": "Mayor's Message",
+      "MatterStatus": "Adopted",
+      "LastModified": "2026-05-15T14:29:04.933Z"
     },
     {
       "ID": 438150,
@@ -2715,6 +2726,6 @@
     }
   ],
   "AgendaLastPublished": "2026-05-14T16:20:19.32Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-05-14T18:59:33.407Z"
+  "MinutesLastPublished": "2026-05-15T14:40:29.407Z",
+  "LastModified": "2026-05-15T14:40:29.537Z"
 }
