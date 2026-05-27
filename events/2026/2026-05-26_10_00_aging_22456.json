@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/5/22456_A_Committee_on_Aging_26-05-26_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/5/22456_M_Committee_on_Aging_26-05-26_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Finance",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_260526-100341.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22456&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,17 +21,115 @@
       "GUID": "57620391-9BD7-4E4F-A8DB-E2306A6F906B",
       "Title": "NEW YORK CITY COUNCIL FISCAL YEAR 2027 EXECUTIVE BUDGET HEARINGS\r\n\r\n\r\n10:00 a.m. - 12:00 p.m.     Department for the Aging\r\n\r\n\r\nJointly with the Committee on Finance",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 78833,
       "MatterFile": "T2026-1880",
       "MatterName": "Executive Budget Hearings - Aging",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-05-11T17:08:14.957Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-05-27T13:36:01.33Z"
+    },
+    {
+      "ID": 438582,
+      "GUID": "ADED4335-5ECF-4078-85A0-3CA647E1CF51",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7896,
+          "Slug": "shirley-aldebol",
+          "FullName": "Shirley Aldebol",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 120
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        }
+      ],
+      "LastModified": "2026-05-27T13:36:08.97Z"
+    },
+    {
+      "ID": 438583,
+      "GUID": "1296F357-663A-4177-938A-B3B8C2A71D0F",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Thomas Henry and Banks",
+      "LastModified": "2026-05-27T13:35:49.47Z"
+    },
+    {
+      "ID": 438584,
+      "GUID": "DF48A12A-B10D-4F21-9D38-37B2B160E442",
+      "Title": "NEW YORK CITY COUNCIL FISCAL YEAR 2027 EXECUTIVE BUDGET HEARINGS\r\n\r\n\r\n10:00 a.m. - 12:00 p.m.     Department for the Aging\r\n\r\n\r\nJointly with the Committee on Finance",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 78833,
+      "MatterFile": "T2026-1880",
+      "MatterName": "Executive Budget Hearings - Aging",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-05-27T13:36:04.71Z"
     }
   ],
   "AgendaLastPublished": "2026-05-12T11:55:09.347Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-05-12T11:55:09.383Z"
+  "MinutesLastPublished": "2026-05-27T13:36:14.723Z",
+  "LastModified": "2026-05-27T13:36:14.843Z"
 }
