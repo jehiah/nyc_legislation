@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/5/22462_A_Committee_on_Finance_26-05-28_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/5/22462_M_Committee_on_Finance_26-05-28_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Children and Youth and the Committee on Immigration*.",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_260528-100627.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22462&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,17 +21,195 @@
       "GUID": "18D1762D-D4F3-4025-86EF-7CE254863557",
       "Title": "NEW YORK CITY COUNCIL FISCAL YEAR 2027 EXECUTIVE BUDGET HEARINGS\r\n\r\n\r\n*10:00 a.m. - 12:00 p.m.     Administration for Children's Services\r\n*12:00 p.m. - 2:00 p.m.        Department of Youth and Community Development\r\n\r\n**2:00 p.m.                             Mayor's Office of Immigrant Affairs\r\n\r\n\r\n*Jointly with the Committee on Children and Youth \r\n\r\n**Jointly with the Committee on Immigration",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 78839,
       "MatterFile": "T2026-1886",
       "MatterName": "Executive Budget Hearings - Finance",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-05-20T13:54:15.44Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-05-28T20:42:41.34Z"
+    },
+    {
+      "ID": 438625,
+      "GUID": "B8D9FE7B-3207-49A3-9398-5CCDDE46C5D3",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7896,
+          "Slug": "shirley-aldebol",
+          "FullName": "Shirley Aldebol",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-j-feliz",
+          "FullName": "Oswald J. Feliz",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 120
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 140
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 160
+        },
+        {
+          "ID": 7894,
+          "Slug": "virginia-maloney",
+          "FullName": "Virginia Maloney",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 200
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 220
+        },
+        {
+          "ID": 7887,
+          "Slug": "frank-morano",
+          "FullName": "Frank Morano",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 240
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 260
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 280
+        },
+        {
+          "ID": 7897,
+          "Slug": "justin-e-sanchez",
+          "FullName": "Justin E. Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 300
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 320
+        },
+        {
+          "ID": 7900,
+          "Slug": "phil-wong",
+          "FullName": "Phil Wong",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 340
+        }
+      ],
+      "LastModified": "2026-05-28T20:42:49.867Z"
+    },
+    {
+      "ID": 438626,
+      "GUID": "A1912D99-0FEE-4D4C-8DA4-3A358FEF2E46",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Epstein, Brewer, Banks and Wilson",
+      "LastModified": "2026-05-28T20:41:50.54Z"
+    },
+    {
+      "ID": 438627,
+      "GUID": "421F5046-0646-4AF6-AB6B-00168E764B00",
+      "Title": "NEW YORK CITY COUNCIL FISCAL YEAR 2027 EXECUTIVE BUDGET HEARINGS\r\n\r\n\r\n*10:00 a.m. - 12:00 p.m.     Administration for Children's Services\r\n*12:00 p.m. - 2:00 p.m.        Department of Youth and Community Development\r\n\r\n**2:00 p.m.                             Mayor's Office of Immigrant Affairs\r\n\r\n\r\n*Jointly with the Committee on Children and Youth \r\n\r\n**Jointly with the Committee on Immigration",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 78839,
+      "MatterFile": "T2026-1886",
+      "MatterName": "Executive Budget Hearings - Finance",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-05-28T20:42:45.58Z"
     }
   ],
   "AgendaLastPublished": "2026-05-26T16:19:14.41Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-05-28T14:06:29.22Z"
+  "MinutesLastPublished": "2026-05-28T20:42:57.427Z",
+  "LastModified": "2026-05-28T20:42:57.46Z"
 }
