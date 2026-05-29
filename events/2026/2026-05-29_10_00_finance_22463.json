@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/5/22463_A_Committee_on_Finance_26-05-29_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/5/22463_M_Committee_on_Finance_26-05-29_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Transportation and Infrastructure and the Committee on Consumer and Worker Protection and the Committee on Economic Development*.",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_260529-100743.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22463&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,17 +21,195 @@
       "GUID": "C1590CD0-7E6C-49BD-BA9C-11F740FC0D08",
       "Title": "NEW YORK CITY COUNCIL FISCAL YEAR 2027 EXECUTIVE BUDGET HEARINGS\r\n\r\n\r\n*10:00 a.m. - 12:00 p.m.     Department of Transportation\r\n\r\n**12:00 p.m. - 2:00 p.m.      Department of Consumer and Worker Protection\r\n\r\n***2:00p.m.                           Economic Development\r\n\r\n\r\n\r\n*Jointly with the Committee on Transportation and Infrastructure\r\n\r\n**Jointly with the Committee on Consumer and Worker Protection\r\n\r\n***Jointly with the Committee on Economic Development\r\n",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 78841,
       "MatterFile": "T2026-1888",
       "MatterName": "Executive Budget Hearings - Finance",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-05-12T11:57:45.58Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-05-29T22:00:14.3Z"
+    },
+    {
+      "ID": 438652,
+      "GUID": "BAEC78F6-CD41-4F46-AD54-CEDCA9EED54B",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7896,
+          "Slug": "shirley-aldebol",
+          "FullName": "Shirley Aldebol",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 80
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-j-feliz",
+          "FullName": "Oswald J. Feliz",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 120
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 160
+        },
+        {
+          "ID": 7894,
+          "Slug": "virginia-maloney",
+          "FullName": "Virginia Maloney",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 200
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 220
+        },
+        {
+          "ID": 7887,
+          "Slug": "frank-morano",
+          "FullName": "Frank Morano",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 240
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 260
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 280
+        },
+        {
+          "ID": 7897,
+          "Slug": "justin-e-sanchez",
+          "FullName": "Justin E. Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 300
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 320
+        },
+        {
+          "ID": 7900,
+          "Slug": "phil-wong",
+          "FullName": "Phil Wong",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 340
+        }
+      ],
+      "LastModified": "2026-05-29T22:00:06.227Z"
+    },
+    {
+      "ID": 438653,
+      "GUID": "7CE96176-58D6-49CD-880C-5162CFFB695E",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Epstein, Banks, Cabán and Ariola",
+      "LastModified": "2026-05-29T21:59:28.827Z"
+    },
+    {
+      "ID": 438654,
+      "GUID": "FB60357D-49AA-410B-B631-A7927D9930FB",
+      "Title": "NEW YORK CITY COUNCIL FISCAL YEAR 2027 EXECUTIVE BUDGET HEARINGS\r\n\r\n\r\n*10:00 a.m. - 12:00 p.m.     Department of Transportation\r\n\r\n**12:00 p.m. - 2:00 p.m.      Department of Consumer and Worker Protection\r\n\r\n***2:00p.m.                           Economic Development\r\n\r\n\r\n\r\n*Jointly with the Committee on Transportation and Infrastructure\r\n\r\n**Jointly with the Committee on Consumer and Worker Protection\r\n\r\n***Jointly with the Committee on Economic Development\r\n",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 78841,
+      "MatterFile": "T2026-1888",
+      "MatterName": "Executive Budget Hearings - Finance",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-05-29T22:00:20.873Z"
     }
   ],
   "AgendaLastPublished": "2026-05-26T16:19:43.17Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-05-29T14:07:45.26Z"
+  "MinutesLastPublished": "2026-05-29T22:00:27.317Z",
+  "LastModified": "2026-05-29T22:00:27.39Z"
 }

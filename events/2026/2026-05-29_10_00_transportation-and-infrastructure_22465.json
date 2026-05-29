@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/5/22465_A_Committee_on_Transportation_and_Infrastructure_26-05-29_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/5/22465_M_Committee_on_Transportation_and_Infrastructure_26-05-29_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Finance",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_260529-100743.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22465&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,17 +21,147 @@
       "GUID": "A61D0FB9-1428-4728-BE6F-CE48F6A90548",
       "Title": "NEW YORK CITY COUNCIL FISCAL YEAR 2027 EXECUTIVE BUDGET HEARINGS\r\n\r\n\r\n10:00 a.m. - 12:00 p.m.     Department of Transportation\r\n\r\n\r\nJointly with the Committee on Finance",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 78842,
       "MatterFile": "T2026-1889",
       "MatterName": "Executive Budget Hearings - Transportation and Infrastructure",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-05-12T11:59:22.93Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-05-29T21:14:08.827Z"
+    },
+    {
+      "ID": 438648,
+      "GUID": "EEEEB5B0-A6C8-496E-ACCD-DCFC0812F543",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 27
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 33
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7897,
+          "Slug": "justin-e-sanchez",
+          "FullName": "Justin E. Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7900,
+          "Slug": "phil-wong",
+          "FullName": "Phil Wong",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        }
+      ],
+      "LastModified": "2026-05-29T21:14:01.683Z"
+    },
+    {
+      "ID": 438649,
+      "GUID": "ADE765B6-83C5-4C83-BCA9-A290C8F18FC9",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Epstein and Banks",
+      "LastModified": "2026-05-29T21:13:46.967Z"
+    },
+    {
+      "ID": 438650,
+      "GUID": "DF0DEFB2-9A95-43A1-895E-33076432BBC4",
+      "Title": "NEW YORK CITY COUNCIL FISCAL YEAR 2027 EXECUTIVE BUDGET HEARINGS\r\n\r\n\r\n10:00 a.m. - 12:00 p.m.     Department of Transportation\r\n\r\n\r\nJointly with the Committee on Finance",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 78842,
+      "MatterFile": "T2026-1889",
+      "MatterName": "Executive Budget Hearings - Transportation and Infrastructure",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-05-29T21:14:14.79Z"
     }
   ],
   "AgendaLastPublished": "2026-05-12T12:07:28.413Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-05-12T12:07:28.447Z"
+  "MinutesLastPublished": "2026-05-29T21:14:20.807Z",
+  "LastModified": "2026-05-29T21:14:20.837Z"
 }
