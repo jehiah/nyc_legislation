@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22468_A_Committee_on_Public_Safety_26-06-01_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22468_M_Committee_on_Public_Safety_26-06-01_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Finance",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22468&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,17 +20,131 @@
       "GUID": "0C549C4F-C6BA-40DB-A2B1-8EE2C6B7DDD8",
       "Title": "NEW YORK CITY COUNCIL FISCAL YEAR 2027 EXECUTIVE BUDGET HEARINGS\r\n\r\n\r\n10:00 a.m. - 12:00 p.m.     New York Police Department\r\n\r\n\r\nJointly with the Committee on Public Safety",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 78846,
       "MatterFile": "T2026-1893",
       "MatterName": "Executive Budget Hearings - Public Safety",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-05-11T18:30:45.943Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-06-01T18:39:22.737Z"
+    },
+    {
+      "ID": 438679,
+      "GUID": "AA6EE3C2-7DC1-4555-9B2F-4CC9DC8C8401",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7798,
+          "Slug": "oswald-j-feliz",
+          "FullName": "Oswald J. Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 120
+        },
+        {
+          "ID": 7899,
+          "Slug": "ty-hankerson",
+          "FullName": "Ty Hankerson",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 140
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 180
+        },
+        {
+          "ID": 7897,
+          "Slug": "justin-e-sanchez",
+          "FullName": "Justin E. Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 200
+        },
+        {
+          "ID": 7900,
+          "Slug": "phil-wong",
+          "FullName": "Phil Wong",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 220
+        }
+      ],
+      "LastModified": "2026-06-01T18:39:15.877Z"
+    },
+    {
+      "ID": 438680,
+      "GUID": "3F23AED4-5ECF-4EF9-B7E6-336B85576EEB",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Cabán, Marte, Brooks-Powers, Williams, Lee, Morano, Dinowitz, Felder, Avilés, Abreu, Brewer, Restler, Joseph, Mealy and Speaker Menin",
+      "LastModified": "2026-06-01T18:38:49.997Z"
+    },
+    {
+      "ID": 438681,
+      "GUID": "4569F218-165F-46BD-B328-C2821310FB39",
+      "Title": "NEW YORK CITY COUNCIL FISCAL YEAR 2027 EXECUTIVE BUDGET HEARINGS\r\n\r\n\r\n10:00 a.m. - 12:00 p.m.     New York Police Department\r\n\r\n\r\nJointly with the Committee on Public Safety",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 78846,
+      "MatterFile": "T2026-1893",
+      "MatterName": "Executive Budget Hearings - Public Safety",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-06-01T18:39:38.363Z"
     }
   ],
   "AgendaLastPublished": "2026-05-12T12:06:09.21Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-05-12T12:06:09.25Z"
+  "MinutesLastPublished": "2026-06-01T18:39:48.87Z",
+  "LastModified": "2026-06-01T18:39:48.97Z"
 }
