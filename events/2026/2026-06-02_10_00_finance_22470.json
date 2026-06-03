@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22470_A_Committee_on_Finance_26-06-02_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22470_M_Committee_on_Finance_26-06-02_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Criminal Justice and the Committee on Housing and Buildings and the Committee on Public Housing and the Committee on Oversight and Investigations*.",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_260602-100509.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22470&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
@@ -20,17 +21,195 @@
       "GUID": "12A0F5A3-6BFA-4585-97D4-63341D0FFE04",
       "Title": "NEW YORK CITY COUNCIL FISCAL YEAR 2027 EXECUTIVE BUDGET HEARINGS\r\n\r\n\r\n*10:00 a.m. - 12:00 p.m.        Departments of Correction\r\n\r\n**12:00 p.m. - 2:00 p.m.        Housing Preservation and Development       \r\n\r\n***2:00 p.m. - 4:00 p.m.         New York City Housing Authority \r\n\r\n**** 4:00 p.m. - 5:30 p.m. @ 250 Broadway, room 1        \r\n                                            Department of Investigation\r\n\r\n\r\n*Jointly with the Committee on Criminal Justice\r\n\r\n**Jointly with the Committee on Housing and Buildings\r\n\r\n***Jointly with the Committee on Public Housing\r\n\r\n****Jointly with the Committee on Oversight and Investigations",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 78845,
       "MatterFile": "T2026-1892",
       "MatterName": "Executive Budget Hearings - Finance",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-06-01T20:00:17.673Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-06-03T13:59:15.44Z"
+    },
+    {
+      "ID": 438747,
+      "GUID": "D85D8414-7452-4B35-ABFF-B7C427AE991E",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7896,
+          "Slug": "shirley-aldebol",
+          "FullName": "Shirley Aldebol",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-j-feliz",
+          "FullName": "Oswald J. Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 140
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7894,
+          "Slug": "virginia-maloney",
+          "FullName": "Virginia Maloney",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 200
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 220
+        },
+        {
+          "ID": 7887,
+          "Slug": "frank-morano",
+          "FullName": "Frank Morano",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 240
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 260
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 280
+        },
+        {
+          "ID": 7897,
+          "Slug": "justin-e-sanchez",
+          "FullName": "Justin E. Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 300
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 320
+        },
+        {
+          "ID": 7900,
+          "Slug": "phil-wong",
+          "FullName": "Phil Wong",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 340
+        }
+      ],
+      "LastModified": "2026-06-03T13:59:09.077Z"
+    },
+    {
+      "ID": 438748,
+      "GUID": "BC59B883-F64C-4CDF-A3A6-171C4164FC14",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Epstein, Brewer and Avilés",
+      "LastModified": "2026-06-03T13:58:45.343Z"
+    },
+    {
+      "ID": 438749,
+      "GUID": "A81A8EBA-EC0A-4ECC-A8C6-A2F1DC2D14F6",
+      "Title": "NEW YORK CITY COUNCIL FISCAL YEAR 2027 EXECUTIVE BUDGET HEARINGS\r\n\r\n\r\n*10:00 a.m. - 12:00 p.m.        Departments of Correction\r\n\r\n**12:00 p.m. - 2:00 p.m.        Housing Preservation and Development       \r\n\r\n***2:00 p.m. - 4:00 p.m.         New York City Housing Authority \r\n\r\n**** 4:00 p.m. - 5:30 p.m. @ 250 Broadway, room 1        \r\n                                            Department of Investigation\r\n\r\n\r\n*Jointly with the Committee on Criminal Justice\r\n\r\n**Jointly with the Committee on Housing and Buildings\r\n\r\n***Jointly with the Committee on Public Housing\r\n\r\n****Jointly with the Committee on Oversight and Investigations",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 78845,
+      "MatterFile": "T2026-1892",
+      "MatterName": "Executive Budget Hearings - Finance",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-06-03T13:59:21.59Z"
     }
   ],
   "AgendaLastPublished": "2026-06-01T20:00:21.96Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-06-02T19:50:19.03Z"
+  "MinutesLastPublished": "2026-06-03T13:59:26.513Z",
+  "LastModified": "2026-06-03T13:59:26.56Z"
 }
