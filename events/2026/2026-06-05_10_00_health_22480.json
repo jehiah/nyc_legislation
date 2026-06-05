@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22480_A_Committee_on_Health_26-06-05_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22480_M_Committee_on_Health_26-06-05_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Finance",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22480&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,17 +20,121 @@
       "GUID": "0532F294-7C62-43A5-BC1B-EA90C54E6E58",
       "Title": "NEW YORK CITY COUNCIL FISCAL YEAR 2027 EXECUTIVE BUDGET HEARINGS\r\n\r\n\r\n10:00 a.m. - 12:00 p.m.     Department of Health and Mental Hygiene  \r\n\r\n\r\nJointly with the Committee on Finance",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 78859,
       "MatterFile": "T2026-1906",
       "MatterName": "Executive Budget Hearings - Health",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-05-11T19:22:55.04Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-06-05T20:55:48.837Z"
+    },
+    {
+      "ID": 438799,
+      "GUID": "90BEEAC8-8830-413F-A28F-466544F4CA93",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 61
+        },
+        {
+          "ID": 7893,
+          "Slug": "harvey-d-epstein",
+          "FullName": "Harvey D. Epstein",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 80
+        },
+        {
+          "ID": 5289,
+          "Slug": "simcha-felder",
+          "FullName": "Simcha Felder",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 130
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7874,
+          "Slug": "carl-wilson",
+          "FullName": "Carl Wilson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        }
+      ],
+      "LastModified": "2026-06-05T20:55:42.82Z"
+    },
+    {
+      "ID": 438800,
+      "GUID": "9F2F1D75-5DB5-49B8-9E5F-DD93D515FB50",
+      "Title": "NEW YORK CITY COUNCIL FISCAL YEAR 2027 EXECUTIVE BUDGET HEARINGS\r\n\r\n\r\n10:00 a.m. - 12:00 p.m.     Department of Health and Mental Hygiene  \r\n\r\n\r\nJointly with the Committee on Finance",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 78859,
+      "MatterFile": "T2026-1906",
+      "MatterName": "Executive Budget Hearings - Health",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-06-05T20:55:53.897Z"
     }
   ],
   "AgendaLastPublished": "2026-05-12T12:10:49.807Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-05-12T12:10:49.85Z"
+  "MinutesLastPublished": "2026-06-05T20:55:58.777Z",
+  "LastModified": "2026-06-05T20:55:58.81Z"
 }
