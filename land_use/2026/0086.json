@@ -6,8 +6,8 @@
   "Title": "CB Manager Block 2054, Lot 35, Block 2164, Lot 38, Block 2177, Lots 8 and 39, Manhattan, Community District No. 9 and 12, Council District 9 and 10; Block 1241, Lot 1, Block 1243, Lot 21, Block 1361, Lot 1, Block 5062, Lot 43, Block 5063, Lot 1, Block 5086, Lot 22, Block 5122, Lots 10 and 35, Block 5124 Lots 12, 18, and 45, Block 5136, Lot 39, Block 5160, Lot 21, Block 5162, Lots 22 and 62, Block 5184, Lot 31, Block 5211, Lot 39, Block 6694, Lot 1, Block 6700, Lot 12, Block 6703, Lot 35, Block 6712, Lot 86, Block 7112, Lot 1, Block 7577, Lot 25, Brooklyn, Community District 8, 14, 15 and 17, Council District No. 36, 40, 44, 45, and 48",
   "TypeID": 10,
   "TypeName": "Land Use Application",
-  "StatusID": 2,
-  "StatusName": "Introduced",
+  "StatusID": 5003,
+  "StatusName": "Companion Pending Approval by Council",
   "BodyID": 11,
   "BodyName": "Committee on Finance",
   "IntroDate": "2026-06-11T00:00:00Z",
@@ -23,6 +23,191 @@
     }
   ],
   "History": [
+    {
+      "ID": 438717,
+      "Date": "2026-06-11T11:00:00Z",
+      "ActionID": 15,
+      "Action": "Hearing on P-C Item by Comm",
+      "Description": "This Land Use Application was Hearing on P-C Item by Comm",
+      "BodyID": 11,
+      "BodyName": "Committee on Finance",
+      "EventID": 22551,
+      "AgendaSequence": 8,
+      "MinutesSequence": 16,
+      "Version": "*",
+      "AgendaNote": "Preconsidered",
+      "MatterStatusID": 3,
+      "LastModified": "2026-06-11T16:31:15.687Z"
+    },
+    {
+      "ID": 439246,
+      "Date": "2026-06-11T11:00:00Z",
+      "ActionID": 5040,
+      "Action": "P-C Item Approved by Committee with Companion Resolution",
+      "Description": "A motion was made that this Land Use Application be P-C Item Approved by Committee with Companion Resolution approved by Roll Call.",
+      "BodyID": 11,
+      "BodyName": "Committee on Finance",
+      "EventID": 22551,
+      "MinutesSequence": 17,
+      "Version": "*",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterStatusID": 5003,
+      "Votes": [
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 20
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 40
+        },
+        {
+          "ID": 7896,
+          "Slug": "shirley-aldebol",
+          "FullName": "Shirley Aldebol",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 60
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 80
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 100
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-j-feliz",
+          "FullName": "Oswald J. Feliz",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 120
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 140
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 160
+        },
+        {
+          "ID": 7894,
+          "Slug": "virginia-maloney",
+          "FullName": "Virginia Maloney",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 180
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 200
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 220
+        },
+        {
+          "ID": 7887,
+          "Slug": "frank-morano",
+          "FullName": "Frank Morano",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 240
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 260
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 280
+        },
+        {
+          "ID": 7897,
+          "Slug": "justin-e-sanchez",
+          "FullName": "Justin E. Sanchez",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 300
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 320
+        },
+        {
+          "ID": 7900,
+          "Slug": "phil-wong",
+          "FullName": "Phil Wong",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 340
+        }
+      ],
+      "LastModified": "2026-06-11T16:31:22.53Z"
+    },
     {
       "ID": 438724,
       "Date": "2026-06-11T13:25:00Z",
@@ -46,8 +231,8 @@
     },
     {
       "ID": 342176,
-      "LastModified": "2026-06-05T23:02:26.567Z",
-      "Name": "Res. No.",
+      "LastModified": "2026-06-11T17:49:50.91Z",
+      "Name": "Res. No. 519",
       "Link": "https://nyc.legistar1.com/nyc/attachments/116d5a3c-3c5a-400e-9f6a-4192ce7a978e.docx",
       "Sort": 2
     },
@@ -57,9 +242,16 @@
       "Name": "Committee Report",
       "Link": "https://nyc.legistar1.com/nyc/attachments/2172f797-7516-4811-8b5c-aad068a47596.docx",
       "Sort": 3
+    },
+    {
+      "ID": 342470,
+      "LastModified": "2026-06-11T17:19:53.293Z",
+      "Name": "Committee Report - Stated Meeting",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/f01dfdf1-2818-41ed-9d13-55e19db13187.docx",
+      "Sort": 4
     }
   ],
   "Summary": "",
   "TextID": 83128,
-  "LastModified": "2026-06-11T14:24:23.643Z"
+  "LastModified": "2026-06-11T17:56:24.627Z"
 }
