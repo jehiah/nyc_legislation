@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22561_A_Committee_on_Immigration_26-06-11_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22561_M_Committee_on_Immigration_26-06-11_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_260611-104247.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22561&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,18 +21,123 @@
       "GUID": "BB2E3626-9BB0-419D-878B-FC32DC160494",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to signage describing certain local laws and know-your-rights information",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 55-A",
       "MinutesNote": "Proposed Int. No. 55-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 77317,
       "MatterFile": "Int 0055-2026",
       "MatterName": "Signage describing certain constitutional and legal protections.",
       "MatterType": "Introduction",
-      "LastModified": "2026-06-08T16:22:10.967Z"
+      "LastModified": "2026-06-11T15:02:22.35Z"
+    },
+    {
+      "ID": 439205,
+      "GUID": "236C869A-07BF-4E7D-A395-E3895A9C2F95",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7895,
+          "Slug": "elsie-encarnacion",
+          "FullName": "Elsie Encarnación",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        }
+      ],
+      "LastModified": "2026-06-11T15:02:14.223Z"
+    },
+    {
+      "ID": 439206,
+      "GUID": "06A2F9F8-EE73-4C94-B682-DE776F4F741E",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to signage describing certain local laws and know-your-rights information",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 77317,
+      "MatterFile": "Int 0055-2026",
+      "MatterName": "Signage describing certain constitutional and legal protections.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-06-11T15:02:25.733Z"
+    },
+    {
+      "ID": 439207,
+      "GUID": "9D914CF2-B053-4576-88BD-50171EC5D6E1",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to signage describing certain local laws and know-your-rights information",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 77317,
+      "MatterFile": "Int 0055-2026",
+      "MatterName": "Signage describing certain constitutional and legal protections.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-06-11T15:02:28.523Z"
+    },
+    {
+      "ID": 439208,
+      "GUID": "AC20C231-1E0F-44C8-B450-AC988F1142F3",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to signage describing certain local laws and know-your-rights information",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 77317,
+      "MatterFile": "Int 0055-2026",
+      "MatterName": "Signage describing certain constitutional and legal protections.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-06-11T15:03:33.95Z"
     }
   ],
   "AgendaLastPublished": "2026-06-08T16:22:19.707Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-06-08T16:22:20Z"
+  "MinutesLastPublished": "2026-06-11T15:03:39.377Z",
+  "LastModified": "2026-06-11T15:03:39.573Z"
 }
