@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22445_A_Committee_on_Aging_26-06-16_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22445_M_Committee_on_Aging_26-06-16_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_260616-100837.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22445&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,43 +20,169 @@
       "GUID": "79D157FB-4D5A-4D73-8253-9F53F339A26F",
       "Title": "Oversight - Interagency Coordination for Older Adults.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 78824,
       "MatterFile": "T2026-1871",
       "MatterName": "Oversight - Interagency Coordination for Older Adults.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-05-19T20:05:36.763Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-06-16T16:39:09.73Z"
     },
     {
       "ID": 438364,
       "GUID": "13807CA8-DB1F-4CF5-BAA4-8FE6BAAFD24B",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to a financial assistance program for in-home preventative adaptations",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 77788,
       "MatterFile": "Int 0230-2026",
       "MatterName": "Financial assistance program for in-home preventative adaptations.",
       "MatterType": "Introduction",
-      "LastModified": "2026-05-19T20:05:44.27Z"
+      "LastModified": "2026-06-16T16:39:25.693Z"
     },
     {
       "ID": 438365,
       "GUID": "4EB0FC02-E494-4922-AF9D-CD348E264646",
       "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, A.1499/S.1179, which would provide long term care benefits for eligible residents",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 6,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 78262,
       "MatterFile": "Res 0373-2026",
       "MatterName": "Provide long term care benefits for eligible residents. (A.1499/S.1179)",
       "MatterType": "Resolution",
-      "LastModified": "2026-05-19T20:06:03.63Z"
+      "LastModified": "2026-06-16T16:39:43.333Z"
+    },
+    {
+      "ID": 439366,
+      "GUID": "4622257B-DD7B-495E-89FB-FDB04DAF0C0B",
+      "Title": "Oversight - Interagency Coordination for Older Adults.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 78824,
+      "MatterFile": "T2026-1871",
+      "MatterName": "Oversight - Interagency Coordination for Older Adults.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-06-16T16:39:13.327Z"
+    },
+    {
+      "ID": 439367,
+      "GUID": "04FC4C97-7790-4097-AD59-9C83C0F299BE",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7896,
+          "Slug": "shirley-aldebol",
+          "FullName": "Shirley Aldebol",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 4,
+          "Value": "Excused",
+          "Sort": 160
+        }
+      ],
+      "LastModified": "2026-06-16T17:28:11.3Z"
+    },
+    {
+      "ID": 439368,
+      "GUID": "764E4F11-5A0A-4B95-8C5C-98D9232CA08E",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to a financial assistance program for in-home preventative adaptations",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 77788,
+      "MatterFile": "Int 0230-2026",
+      "MatterName": "Financial assistance program for in-home preventative adaptations.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-06-16T16:39:30.997Z"
+    },
+    {
+      "ID": 439369,
+      "GUID": "86BCD926-3679-4CCE-B6C5-48C89F72F2EB",
+      "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, A.1499/S.1179, which would provide long term care benefits for eligible residents",
+      "AgendaSequence": 0,
+      "MinutesSequence": 7,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 78262,
+      "MatterFile": "Res 0373-2026",
+      "MatterName": "Provide long term care benefits for eligible residents. (A.1499/S.1179)",
+      "MatterType": "Resolution",
+      "LastModified": "2026-06-16T16:39:51.073Z"
     }
   ],
   "AgendaLastPublished": "2026-05-19T20:06:08.437Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-05-19T20:06:08.58Z"
+  "MinutesLastPublished": "2026-06-16T17:28:16.087Z",
+  "LastModified": "2026-06-16T17:28:16.2Z"
 }
