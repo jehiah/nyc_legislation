@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22431_A_Committee_on_Public_Housing_26-06-17_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22431_M_Committee_on_Public_Housing_26-06-17_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_260617-101406.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22431&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,30 +20,147 @@
       "GUID": "71FBC5FF-9BA3-42AA-A373-AB1D2AC607BD",
       "Title": "Oversight - Life without Emergency Housing Vouchers: Present Options and Future Plans.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 78797,
       "MatterFile": "T2026-1844",
       "MatterName": "Oversight - Life without Emergency Housing Vouchers: Present Options and Future Plans.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-06-05T16:23:57.29Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-06-18T21:07:39.343Z"
     },
     {
       "ID": 438785,
       "GUID": "A0FB25AB-3843-453B-BD4A-0690056FEDE5",
       "Title": "Resolution calling upon the New York State Legislature to pass, and the Governor to sign, A.10992/S.9430-A, in relation to priority applicants and inspection of units under the housing access voucher pilot program",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 79044,
       "MatterFile": "Res 0495-2026",
       "MatterName": "Priority applicants and inspection of units under the housing access voucher pilot program. (A.10992/S.9430-A)",
       "MatterType": "Resolution",
-      "LastModified": "2026-06-05T16:24:06.397Z"
+      "LastModified": "2026-06-18T21:08:01.29Z"
+    },
+    {
+      "ID": 439409,
+      "GUID": "0779D26C-F0E0-45FE-ABBC-AF9B9E2A8152",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7895,
+          "Slug": "elsie-encarnacion",
+          "FullName": "Elsie Encarnación",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 80
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 120
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2026-06-18T21:07:30.77Z"
+    },
+    {
+      "ID": 439410,
+      "GUID": "F2A7F274-16AC-48B6-AF80-E49640D4D576",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: P. Sanchez and Public Advocate Williams",
+      "LastModified": "2026-06-18T21:07:14.803Z"
+    },
+    {
+      "ID": 439411,
+      "GUID": "D1281EE8-2B00-4BF5-BCD2-DAD8C8132D75",
+      "Title": "Oversight - Life without Emergency Housing Vouchers: Present Options and Future Plans.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 78797,
+      "MatterFile": "T2026-1844",
+      "MatterName": "Oversight - Life without Emergency Housing Vouchers: Present Options and Future Plans.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-06-18T21:07:42.783Z"
+    },
+    {
+      "ID": 439412,
+      "GUID": "F2D0C2AC-A5C5-4666-AA7F-B0BA6ACFB022",
+      "Title": "Resolution calling upon the New York State Legislature to pass, and the Governor to sign, A.10992/S.9430-A, in relation to priority applicants and inspection of units under the housing access voucher pilot program",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 79044,
+      "MatterFile": "Res 0495-2026",
+      "MatterName": "Priority applicants and inspection of units under the housing access voucher pilot program. (A.10992/S.9430-A)",
+      "MatterType": "Resolution",
+      "LastModified": "2026-06-18T21:08:53.62Z"
     }
   ],
   "AgendaLastPublished": "2026-06-05T16:37:24.713Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-06-17T17:18:02.05Z"
+  "MinutesLastPublished": "2026-06-18T21:08:59.17Z",
+  "LastModified": "2026-06-18T21:08:59.28Z"
 }
