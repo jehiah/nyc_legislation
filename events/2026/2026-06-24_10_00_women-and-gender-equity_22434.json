@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22434_A_Committee_on_Women_and_Gender_Equity_26-06-24_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22434_M_Committee_on_Women_and_Gender_Equity_26-06-24_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on General Welfare",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_260624-101357.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22434&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,26 +21,108 @@
       "GUID": "AA957AC7-802F-4CA4-BD78-5A0484324674",
       "Title": "Jointly with the Committee on General Welfare",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "",
-      "LastModified": "2026-05-18T14:21:04.77Z"
+      "LastModified": "2026-06-24T17:30:45.233Z"
     },
     {
       "ID": 437786,
       "GUID": "BF1977BD-8DDE-4B57-B4C2-0383BC5C7E92",
       "Title": "Oversight - Housing Instability Among LGBTQ+ Individuals in NYC. ",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 78809,
       "MatterFile": "T2026-1856",
       "MatterName": "Oversight - Housing Instability Among LGBTQ+ Individuals in NYC.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-05-18T14:15:48.163Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-06-24T17:30:50.677Z"
+    },
+    {
+      "ID": 439497,
+      "GUID": "9D1C1C3A-543A-4CEF-BFD7-59A0A7B0D32D",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7810,
+          "Slug": "amanda-c-farias",
+          "FullName": "Amanda C. Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7896,
+          "Slug": "shirley-aldebol",
+          "FullName": "Shirley Aldebol",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7901,
+          "Slug": "kayla-santosuosso",
+          "FullName": "Kayla Santosuosso",
+          "ValueID": 66,
+          "Value": "Parental ",
+          "Sort": 80
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 100
+        }
+      ],
+      "LastModified": "2026-06-24T17:30:41.24Z"
+    },
+    {
+      "ID": 439498,
+      "GUID": "EBE9046F-881C-4598-B8E8-817995063907",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Hudson, Avilés, Ung, Morano, Wilson, Aldebol, Nurse and Public Advocate Williams",
+      "LastModified": "2026-06-24T17:30:02.653Z"
+    },
+    {
+      "ID": 439499,
+      "GUID": "C73CAD92-8008-4726-BDD1-B6A703BE1E27",
+      "Title": "Oversight - Housing Instability Among LGBTQ+ Individuals in NYC. ",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 78809,
+      "MatterFile": "T2026-1856",
+      "MatterName": "Oversight - Housing Instability Among LGBTQ+ Individuals in NYC.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-06-24T17:31:01.337Z"
     }
   ],
   "AgendaLastPublished": "2026-05-18T14:21:15.533Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-05-18T14:21:15.653Z"
+  "MinutesLastPublished": "2026-06-24T17:31:08.61Z",
+  "LastModified": "2026-06-24T17:31:08.75Z"
 }
