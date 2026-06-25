@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22573_A_Committee_on_Transportation_and_Infrastructure_26-06-25_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22573_M_Committee_on_Transportation_and_Infrastructure_26-06-25_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_260625-101100.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22573&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,17 +21,181 @@
       "GUID": "27D3F1C1-EF1D-4845-9FCD-D21580BE9D8F",
       "Title": "Resolution calling on the New York State Legislature to pass, and the New York State Governor to sign, legislation, which would create unlimited transfers within the two-hour period of paying the Metropolitan Transportation Authority subway or bus fare for pay-per-ride users",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
-      "Version": "A",
+      "MinutesSequence": 3,
+      "Version": "*",
       "AgendaNote": "Proposed Res. No. 143-A",
+      "MinutesNote": "Proposed Res. No. 143-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 77728,
       "MatterFile": "Res 0143-2026",
       "MatterName": "Create unlimited transfers within the two-hour period of paying the Metropolitan Transportation Authority subway or bus fare for pay-per-ride users.",
       "MatterType": "Resolution",
-      "LastModified": "2026-06-22T15:59:44.93Z"
+      "LastModified": "2026-06-25T14:57:24.39Z"
+    },
+    {
+      "ID": 439642,
+      "GUID": "F93DF5E5-B173-4733-A5A6-3E8E3E20FA29",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "LastModified": "2026-06-25T14:55:30.953Z"
+    },
+    {
+      "ID": 439643,
+      "GUID": "2A8AD6B0-745E-419A-9F6B-8FA0FB523B6A",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Brewer",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 43,
+          "Value": "Conflict",
+          "Sort": 27
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 33
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7897,
+          "Slug": "justin-e-sanchez",
+          "FullName": "Justin E. Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 140
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 160
+        },
+        {
+          "ID": 7900,
+          "Slug": "phil-wong",
+          "FullName": "Phil Wong",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        }
+      ],
+      "LastModified": "2026-06-25T14:56:24.633Z"
+    },
+    {
+      "ID": 439644,
+      "GUID": "431487D5-4417-49B2-993F-BCF50C897E2D",
+      "Title": "Resolution calling on the New York State Legislature to pass, and the New York State Governor to sign, legislation, which would create unlimited transfers within the two-hour period of paying the Metropolitan Transportation Authority subway or bus fare for pay-per-ride users",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "This Resolution was Approved by Committee",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 77728,
+      "MatterFile": "Res 0143-2026",
+      "MatterName": "Create unlimited transfers within the two-hour period of paying the Metropolitan Transportation Authority subway or bus fare for pay-per-ride users.",
+      "MatterType": "Resolution",
+      "LastModified": "2026-06-25T14:58:23.15Z"
+    },
+    {
+      "ID": 439645,
+      "GUID": "232E9A4D-227C-4217-A653-78E74FBF16AA",
+      "Title": "Resolution calling on the New York State Legislature to pass, and the New York State Governor to sign, legislation, which would create unlimited transfers within the two-hour period of paying the Metropolitan Transportation Authority subway or bus fare for pay-per-ride users",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Resolution was Amendment Proposed by Comm",
+      "MatterID": 77728,
+      "MatterFile": "Res 0143-2026",
+      "MatterName": "Create unlimited transfers within the two-hour period of paying the Metropolitan Transportation Authority subway or bus fare for pay-per-ride users.",
+      "MatterType": "Resolution",
+      "LastModified": "2026-06-25T14:57:49.337Z"
+    },
+    {
+      "ID": 439646,
+      "GUID": "4024D510-A2AF-4A04-9CDA-FDAA4D31F4B6",
+      "Title": "Resolution calling on the New York State Legislature to pass, and the New York State Governor to sign, legislation, which would create unlimited transfers within the two-hour period of paying the Metropolitan Transportation Authority subway or bus fare for pay-per-ride users",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Resolution was Amended by Committee",
+      "MatterID": 77728,
+      "MatterFile": "Res 0143-2026",
+      "MatterName": "Create unlimited transfers within the two-hour period of paying the Metropolitan Transportation Authority subway or bus fare for pay-per-ride users.",
+      "MatterType": "Resolution",
+      "LastModified": "2026-06-25T14:57:55.817Z"
     }
   ],
   "AgendaLastPublished": "2026-06-22T16:15:12.363Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-06-22T16:15:12.5Z"
+  "MinutesLastPublished": "2026-06-25T14:58:27.183Z",
+  "LastModified": "2026-06-25T14:58:27.257Z"
 }
