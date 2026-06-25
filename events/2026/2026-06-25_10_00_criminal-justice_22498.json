@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22498_A_Committee_on_Criminal_Justice_26-06-25_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22498_M_Committee_on_Criminal_Justice_26-06-25_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-2_260625-100539.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22498&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,17 +20,105 @@
       "GUID": "D08B0EA8-5EDD-42E8-885F-563D13912EB3",
       "Title": "Oversight - Improving Court Operations to Reduce the Jail Population. ",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 78910,
       "MatterFile": "T2026-1957",
       "MatterName": "Oversight - Improving Court Operations to Reduce the Jail Population.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-06-08T14:33:37.58Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-06-25T18:48:12.763Z"
+    },
+    {
+      "ID": 439712,
+      "GUID": "6E2CE143-E8B9-4275-B037-86ABFC16FE78",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-l-caban",
+          "FullName": "Tiffany L. Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-j-feliz",
+          "FullName": "Oswald J. Feliz",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 80
+        },
+        {
+          "ID": 7887,
+          "Slug": "frank-morano",
+          "FullName": "Frank Morano",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 120
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2026-06-25T18:48:45.867Z"
+    },
+    {
+      "ID": 439713,
+      "GUID": "691A26FD-E238-47D1-A0C9-62EFAB409304",
+      "Title": "Oversight - Improving Court Operations to Reduce the Jail Population. ",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 78910,
+      "MatterFile": "T2026-1957",
+      "MatterName": "Oversight - Improving Court Operations to Reduce the Jail Population.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-06-25T18:48:17.26Z"
     }
   ],
   "AgendaLastPublished": "2026-06-08T14:33:45.407Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-06-25T17:11:19.16Z"
+  "MinutesLastPublished": "2026-06-25T18:48:50.54Z",
+  "LastModified": "2026-06-25T18:48:50.697Z"
 }
