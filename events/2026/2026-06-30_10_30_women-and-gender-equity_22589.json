@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22589_A_Committee_on_Women_and_Gender_Equity_26-06-30_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22589_M_Committee_on_Women_and_Gender_Equity_26-06-30_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_260630-104738.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22589&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,16 +21,99 @@
       "GUID": "512326AC-9EF1-4983-A992-4FAE4FE14F3C",
       "Title": "Resolution unequivocally opposing President Trump’s executive order restricting protections for transgender students and calling on the New York State Department of Education to ensure that all schools in New York City continue to uphold policies that protect the rights and dignity of transgender and gender-nonconforming students, regardless of federal directives",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 77448,
       "MatterFile": "Res 0069-2026",
       "MatterName": "NYDOE to ensure that all schools in New York City continue to uphold policies that protect the rights and dignity of transgender and gender-nonconforming students, regardless of federal directives.",
       "MatterType": "Resolution",
-      "LastModified": "2026-06-26T18:15:54.98Z"
+      "LastModified": "2026-06-30T15:04:45.733Z"
+    },
+    {
+      "ID": 440028,
+      "GUID": "ACCA1833-DF59-4A00-8DDE-C0C9C411C7DE",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7810,
+          "Slug": "amanda-c-farias",
+          "FullName": "Amanda C. Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7896,
+          "Slug": "shirley-aldebol",
+          "FullName": "Shirley Aldebol",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7901,
+          "Slug": "kayla-santosuosso",
+          "FullName": "Kayla Santosuosso",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        }
+      ],
+      "LastModified": "2026-06-30T15:23:45.06Z"
+    },
+    {
+      "ID": 440029,
+      "GUID": "0FB87BD1-AB28-4593-8034-A608F521C7AB",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Cabán",
+      "LastModified": "2026-06-30T15:23:33.42Z"
+    },
+    {
+      "ID": 440030,
+      "GUID": "49B3D42F-40F5-49DF-8D72-FD7C818BCE00",
+      "Title": "Resolution unequivocally opposing President Trump’s executive order restricting protections for transgender students and calling on the New York State Department of Education to ensure that all schools in New York City continue to uphold policies that protect the rights and dignity of transgender and gender-nonconforming students, regardless of federal directives",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "This Resolution was Approved by Committee",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 77448,
+      "MatterFile": "Res 0069-2026",
+      "MatterName": "NYDOE to ensure that all schools in New York City continue to uphold policies that protect the rights and dignity of transgender and gender-nonconforming students, regardless of federal directives.",
+      "MatterType": "Resolution",
+      "LastModified": "2026-06-30T15:23:53.74Z"
     }
   ],
   "AgendaLastPublished": "2026-06-26T18:16:45.91Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-06-26T18:16:46.053Z"
+  "MinutesLastPublished": "2026-06-30T15:23:58.513Z",
+  "LastModified": "2026-06-30T15:23:58.653Z"
 }
