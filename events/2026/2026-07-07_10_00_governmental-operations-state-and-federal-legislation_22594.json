@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/7/22594_A_Committee_on_Governmental_Operations%2C_State___Federal_Legislation_26-07-07_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/7/22594_M_Committee_on_Governmental_Operations%2C_State___Federal_Legislation_26-07-07_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-2_260707-101359.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22594&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,17 +20,104 @@
       "GUID": "8881B4B5-C1F2-4A8D-B6BD-0D1109815744",
       "Title": "A Local Law to amend the New York city charter and the administrative code of the city of New York, in relation to compensation of the mayor, public advocate, members of the city council, borough presidents, comptroller, and district attorneys",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Preconsidered",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 79149,
       "MatterFile": "T2026-2196",
       "MatterName": "Compensation of the mayor, public advocate, members of the city council, borough presidents, comptroller, and district attorneys.",
       "MatterType": "Introduction",
-      "LastModified": "2026-06-29T21:13:30.137Z"
+      "LastModified": "2026-07-07T15:45:38.337Z"
+    },
+    {
+      "ID": 440205,
+      "GUID": "2B4A2641-5DCF-4642-8442-4D1EE3B9706C",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-j-feliz",
+          "FullName": "Oswald J. Feliz",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7887,
+          "Slug": "frank-morano",
+          "FullName": "Frank Morano",
+          "ValueID": 66,
+          "Value": "Parental ",
+          "Sort": 100
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 120
+        },
+        {
+          "ID": 7874,
+          "Slug": "carl-wilson",
+          "FullName": "Carl Wilson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 130
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2026-07-07T15:45:31.31Z"
+    },
+    {
+      "ID": 440206,
+      "GUID": "795591B9-8818-4ADA-ADB0-61176641F83F",
+      "Title": "A Local Law to amend the New York city charter and the administrative code of the city of New York, in relation to compensation of the mayor, public advocate, members of the city council, borough presidents, comptroller, and district attorneys",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 79149,
+      "MatterFile": "T2026-2196",
+      "MatterName": "Compensation of the mayor, public advocate, members of the city council, borough presidents, comptroller, and district attorneys.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-07-07T15:45:43.493Z"
     }
   ],
   "AgendaLastPublished": "2026-06-29T21:13:37.617Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-06-29T21:13:37.713Z"
+  "MinutesLastPublished": "2026-07-07T15:45:48.603Z",
+  "LastModified": "2026-07-07T15:45:48.677Z"
 }
