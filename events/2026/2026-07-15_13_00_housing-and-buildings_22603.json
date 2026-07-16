@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/7/22603_A_Committee_on_Housing_and_Buildings_26-07-15_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/7/22603_M_Committee_on_Housing_and_Buildings_26-07-15_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Finance",
+  "Media": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_260715-131259.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22603&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,30 +21,169 @@
       "GUID": "767738ED-9AD8-4B8A-A7A1-625E5D79D700",
       "Title": "Oversight - Financial Tools for Maintaining the Affordability of Mitchell-Lama Housing.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 79183,
       "MatterFile": "T2026-2230",
       "MatterName": "Oversight - Financial Tools for Maintaining the Affordability of Mitchell-Lama Housing.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-07-14T18:23:20Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-07-15T22:03:58.633Z"
     },
     {
       "ID": 440520,
       "GUID": "2C98A0D7-469C-4480-8B89-67624AB6096F",
       "Title": "Resolution calling upon the New York Legislature to pass, and the Governor to sign, A.6432/S.4236, in relation to protecting the rights of Mitchell-Lama residents",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 77506,
       "MatterFile": "Res 0083-2026",
       "MatterName": "Protecting the rights of Mitchell-Lama residents. (A.6432/S.4236)",
       "MatterType": "Resolution",
-      "LastModified": "2026-07-14T18:23:31.46Z"
+      "LastModified": "2026-07-15T22:04:08.08Z"
+    },
+    {
+      "ID": 440596,
+      "GUID": "4B7E7A1A-803C-4A65-9A94-5C406C34C8B1",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-j-feliz",
+          "FullName": "Oswald J. Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7894,
+          "Slug": "virginia-maloney",
+          "FullName": "Virginia Maloney",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 180
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 200
+        },
+        {
+          "ID": 7874,
+          "Slug": "carl-wilson",
+          "FullName": "Carl Wilson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 210
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 220
+        }
+      ],
+      "LastModified": "2026-07-15T22:03:51.333Z"
+    },
+    {
+      "ID": 440597,
+      "GUID": "33DF641A-EC59-4F30-A449-E77DC3A5AABD",
+      "Title": "Oversight - Financial Tools for Maintaining the Affordability of Mitchell-Lama Housing.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 79183,
+      "MatterFile": "T2026-2230",
+      "MatterName": "Oversight - Financial Tools for Maintaining the Affordability of Mitchell-Lama Housing.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-07-15T22:04:02.03Z"
+    },
+    {
+      "ID": 440598,
+      "GUID": "9713F94F-D503-4EE5-B8ED-5E56308D6856",
+      "Title": "Resolution calling upon the New York Legislature to pass, and the Governor to sign, A.6432/S.4236, in relation to protecting the rights of Mitchell-Lama residents",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 77506,
+      "MatterFile": "Res 0083-2026",
+      "MatterName": "Protecting the rights of Mitchell-Lama residents. (A.6432/S.4236)",
+      "MatterType": "Resolution",
+      "LastModified": "2026-07-15T22:04:14.377Z"
     }
   ],
   "AgendaLastPublished": "2026-07-14T18:23:35.427Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-07-14T18:23:35.457Z"
+  "MinutesLastPublished": "2026-07-15T22:04:18.503Z",
+  "LastModified": "2026-07-15T22:04:18.527Z"
 }
