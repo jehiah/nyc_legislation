@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/7/22609_A_Committee_on_Aging_26-07-16_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/7/22609_M_Committee_on_Aging_26-07-16_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-2_260716-104859.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22609&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,17 +21,139 @@
       "GUID": "471A61EA-CF89-4932-9CF4-A9D85B0BFAA5",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to wellness checks on older adults during certain weather events, and to repeal repetitions of the definition of “older adult” in subdivision a of section 21-205.1, subdivision a of section 21-210, subdivision a of section 21-211, subdivision a of section 21-215, and subdivision a of section 21-216 of such code",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 812-A",
+      "MinutesNote": "Proposed Int. No. 812-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 78585,
       "MatterFile": "Int 0812-2026",
       "MatterName": "Wellness checks on older adults during certain weather events, and to repeal repetitions of the definition of “older adult”.",
       "MatterType": "Introduction",
-      "LastModified": "2026-07-13T20:33:55.503Z"
+      "LastModified": "2026-07-16T15:03:21.39Z"
+    },
+    {
+      "ID": 440608,
+      "GUID": "BFD3C512-5348-49D7-B844-86E79AB6622A",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7896,
+          "Slug": "shirley-aldebol",
+          "FullName": "Shirley Aldebol",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 140
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        }
+      ],
+      "LastModified": "2026-07-16T15:02:30.08Z"
+    },
+    {
+      "ID": 440609,
+      "GUID": "B003CA69-E6F3-466A-9E3C-0F340D65F19E",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to wellness checks on older adults during certain weather events, and to repeal repetitions of the definition of “older adult” in subdivision a of section 21-205.1, subdivision a of section 21-210, subdivision a of section 21-211, subdivision a of section 21-215, and subdivision a of section 21-216 of such code",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 78585,
+      "MatterFile": "Int 0812-2026",
+      "MatterName": "Wellness checks on older adults during certain weather events, and to repeal repetitions of the definition of “older adult”.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-07-16T15:03:34.98Z"
+    },
+    {
+      "ID": 440610,
+      "GUID": "28EA0BF7-EAD8-42FE-89B2-FC52FC7C1215",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to wellness checks on older adults during certain weather events, and to repeal repetitions of the definition of “older adult” in subdivision a of section 21-205.1, subdivision a of section 21-210, subdivision a of section 21-211, subdivision a of section 21-215, and subdivision a of section 21-216 of such code",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 78585,
+      "MatterFile": "Int 0812-2026",
+      "MatterName": "Wellness checks on older adults during certain weather events, and to repeal repetitions of the definition of “older adult”.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-07-16T15:03:47.777Z"
+    },
+    {
+      "ID": 440611,
+      "GUID": "74FE9F0F-CE01-4AA1-9935-79A0C9F10949",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to wellness checks on older adults during certain weather events, and to repeal repetitions of the definition of “older adult” in subdivision a of section 21-205.1, subdivision a of section 21-210, subdivision a of section 21-211, subdivision a of section 21-215, and subdivision a of section 21-216 of such code",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 78585,
+      "MatterFile": "Int 0812-2026",
+      "MatterName": "Wellness checks on older adults during certain weather events, and to repeal repetitions of the definition of “older adult”.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-07-16T15:04:22.23Z"
     }
   ],
   "AgendaLastPublished": "2026-07-13T20:34:02.747Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-07-13T20:34:02.83Z"
+  "MinutesLastPublished": "2026-07-16T15:04:26.313Z",
+  "LastModified": "2026-07-16T15:04:26.33Z"
 }

@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/7/22599_A_Committee_on_Finance_26-07-16_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/7/22599_M_Committee_on_Finance_26-07-16_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_260716-101155.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22599&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,45 +21,235 @@
       "GUID": "3EEB36B5-1B8C-4514-A9E0-D970333DA191",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to decreasing the credit against the city personal income tax on residents for such residents’ share of city unincorporated business tax paid by partnerships in which such residents are partners or businesses of which such residents are proprietors",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "*",
       "AgendaNote": "Preconsidered",
+      "ActionID": 15,
+      "ActionName": "Hearing on P-C Item by Comm",
+      "ActionText": "This Introduction was Hearing on P-C Item by Comm",
       "MatterID": 79167,
       "MatterFile": "T2026-2214",
       "MatterName": "Decreasing the credit against the city personal income tax on residents for such residents’ share of city unincorporated business tax paid by partnerships in which such residents are partners or businesses of which such residents are proprietors.",
       "MatterType": "Introduction",
-      "LastModified": "2026-07-10T20:47:08.103Z"
+      "LastModified": "2026-07-16T14:27:11.45Z"
     },
     {
       "ID": 440299,
       "GUID": "B864C44D-23F6-462E-ABC2-F4E27B566FAC",
       "Title": "AND SUCH OTHER BUSINESS AS MAY BE NECESSARY",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 6,
       "Version": "*",
       "MatterID": 76955,
       "MatterFile": "T2026-0004",
       "MatterName": "AND SUCH OTHER BUSINESS AS MAY BE NECESSARY",
       "MatterType": "N/A",
       "MatterStatus": "Introduced",
-      "LastModified": "2026-07-10T21:12:23.037Z"
+      "LastModified": "2026-07-16T14:27:06.387Z"
     },
     {
       "ID": 440303,
       "GUID": "9EBD33AD-5856-4485-B16D-1D02284E227B",
       "Title": "Resolution approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Preconsidered",
+      "ActionID": 15,
+      "ActionName": "Hearing on P-C Item by Comm",
+      "ActionText": "This Resolution was Hearing on P-C Item by Comm",
       "MatterID": 79177,
       "MatterFile": "T2026-2224",
       "MatterName": "Approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget.",
       "MatterType": "Resolution",
-      "LastModified": "2026-07-10T21:12:45.457Z"
+      "LastModified": "2026-07-16T14:26:49.247Z"
+    },
+    {
+      "ID": 440604,
+      "GUID": "F7F29FE2-985D-452E-9CAE-815528B0DF33",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7896,
+          "Slug": "shirley-aldebol",
+          "FullName": "Shirley Aldebol",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-j-feliz",
+          "FullName": "Oswald J. Feliz",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 120
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7894,
+          "Slug": "virginia-maloney",
+          "FullName": "Virginia Maloney",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 200
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 220
+        },
+        {
+          "ID": 7887,
+          "Slug": "frank-morano",
+          "FullName": "Frank Morano",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 240
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 260
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 280
+        },
+        {
+          "ID": 7897,
+          "Slug": "justin-e-sanchez",
+          "FullName": "Justin E. Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 300
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 320
+        },
+        {
+          "ID": 7900,
+          "Slug": "phil-wong",
+          "FullName": "Phil Wong",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 340
+        }
+      ],
+      "LastModified": "2026-07-16T14:26:36.94Z"
+    },
+    {
+      "ID": 440605,
+      "GUID": "09FA044F-FE8A-46C4-9C4D-42A8AB6853A0",
+      "Title": "Resolution approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 25,
+      "ActionName": "P-C Item Approved by Comm",
+      "ActionText": "A motion was made that this Resolution be P-C Item Approved by Comm approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 79177,
+      "MatterFile": "T2026-2224",
+      "MatterName": "Approving the new designation and changes in the designation of certain organizations to receive funding in the Expense Budget.",
+      "MatterType": "Resolution",
+      "LastModified": "2026-07-16T14:28:14.727Z"
+    },
+    {
+      "ID": 440606,
+      "GUID": "8CF5A36E-F2D0-4FDB-9367-4EE9476CC80C",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to decreasing the credit against the city personal income tax on residents for such residents’ share of city unincorporated business tax paid by partnerships in which such residents are partners or businesses of which such residents are proprietors",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 25,
+      "ActionName": "P-C Item Approved by Comm",
+      "ActionText": "A motion was made that this Introduction be P-C Item Approved by Comm approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 79167,
+      "MatterFile": "T2026-2214",
+      "MatterName": "Decreasing the credit against the city personal income tax on residents for such residents’ share of city unincorporated business tax paid by partnerships in which such residents are partners or businesses of which such residents are proprietors.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-07-16T14:28:10.323Z"
     }
   ],
   "AgendaLastPublished": "2026-07-10T21:12:50.74Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-07-10T21:12:50.78Z"
+  "MinutesLastPublished": "2026-07-16T14:28:19.763Z",
+  "LastModified": "2026-07-16T14:28:19.84Z"
 }
