@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/7/22608_A_Committee_on_Cultural_Affairs%2C_Libraries_and_International_Relations_26-07-16_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/7/22608_M_Committee_on_Cultural_Affairs%2C_Libraries_and_International_Relations_26-07-16_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-2_260716-111336.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22608&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,30 +21,183 @@
       "GUID": "2743FB57-BA34-4D3D-B170-41BF0D6AD74E",
       "Title": "A Local Law in relation to a study and report on the potential installation of works of art or structures to acknowledge the draft riots of 1863",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
-      "Version": "A",
+      "MinutesSequence": 3,
+      "Version": "*",
       "AgendaNote": "Proposed Int. No. 496-A",
+      "MinutesNote": "Proposed Int. No. 496-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 77650,
       "MatterFile": "Int 0496-2026",
       "MatterName": "A study and report on the potential installation of works of art or structures to acknowledge the draft riots of 1863.",
       "MatterType": "Introduction",
-      "LastModified": "2026-07-14T19:40:25.12Z"
+      "LastModified": "2026-07-16T16:08:58.463Z"
     },
     {
       "ID": 440309,
       "GUID": "BFBF9735-3AA9-4801-A4EA-1E55D03FB993",
       "Title": "Resolution declaring August 6 annually as Fatman Scoop Recognition Day in the City of New York and celebrating the signature style that he brought to every musical collaboration and the inimitable energy he brought to every audience",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 78387,
       "MatterFile": "Res 0371-2026",
       "MatterName": "Declaring August 6 annually as Fatman Scoop Recognition Day.",
       "MatterType": "Resolution",
-      "LastModified": "2026-07-14T19:40:27.95Z"
+      "LastModified": "2026-07-16T16:09:34.9Z"
+    },
+    {
+      "ID": 440672,
+      "GUID": "845AFE84-FF09-44D7-AC1F-36EFA8E0332D",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7894,
+          "Slug": "virginia-maloney",
+          "FullName": "Virginia Maloney",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2026-07-16T16:18:53.643Z"
+    },
+    {
+      "ID": 440673,
+      "GUID": "0F75DFEA-8DEC-404A-A70C-ED0A38179FB8",
+      "Title": "A Local Law in relation to a study and report on the potential installation of works of art or structures to acknowledge the draft riots of 1863",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 77650,
+      "MatterFile": "Int 0496-2026",
+      "MatterName": "A study and report on the potential installation of works of art or structures to acknowledge the draft riots of 1863.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-07-16T16:09:09.147Z"
+    },
+    {
+      "ID": 440674,
+      "GUID": "ABD10ABC-F846-4443-A3F4-5C9D065636CD",
+      "Title": "A Local Law in relation to a study and report on the potential installation of works of art or structures to acknowledge the draft riots of 1863",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 77650,
+      "MatterFile": "Int 0496-2026",
+      "MatterName": "A study and report on the potential installation of works of art or structures to acknowledge the draft riots of 1863.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-07-16T16:09:21.74Z"
+    },
+    {
+      "ID": 440675,
+      "GUID": "D41B833B-6C17-48D6-9221-B970679F9D5E",
+      "Title": "A Local Law in relation to a study and report on the potential installation of works of art or structures to acknowledge the draft riots of 1863",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 77650,
+      "MatterFile": "Int 0496-2026",
+      "MatterName": "A study and report on the potential installation of works of art or structures to acknowledge the draft riots of 1863.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-07-16T16:09:29.433Z"
+    },
+    {
+      "ID": 440676,
+      "GUID": "E0E5432A-9BCF-47A1-BE82-D33DC02A793E",
+      "Title": "Resolution declaring August 6 annually as Fatman Scoop Recognition Day in the City of New York and celebrating the signature style that he brought to every musical collaboration and the inimitable energy he brought to every audience",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Resolution be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 78387,
+      "MatterFile": "Res 0371-2026",
+      "MatterName": "Declaring August 6 annually as Fatman Scoop Recognition Day.",
+      "MatterType": "Resolution",
+      "LastModified": "2026-07-16T16:18:53.84Z"
+    },
+    {
+      "ID": 440681,
+      "GUID": "57423238-F47B-48D0-8B8E-45EA4F1BBA1A",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Salaam and Zhuang",
+      "LastModified": "2026-07-16T16:21:57.25Z"
     }
   ],
   "AgendaLastPublished": "2026-07-14T19:40:33.947Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-07-14T19:40:34.063Z"
+  "MinutesLastPublished": "2026-07-16T16:22:01.847Z",
+  "LastModified": "2026-07-16T16:22:01.92Z"
 }

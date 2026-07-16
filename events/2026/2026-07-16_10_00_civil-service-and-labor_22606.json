@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/7/22606_A_Committee_on_Civil_Service_and_Labor_26-07-16_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/7/22606_M_Committee_on_Civil_Service_and_Labor_26-07-16_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-2_260716-102913.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22606&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
@@ -20,17 +21,149 @@
       "GUID": "61384D5F-F7F5-4AA3-A19E-6702CCA3440F",
       "Title": "A Local Law in relation to workforce stabilization payments for school paraprofessionals, and providing for the repeal of such local law upon the expiration thereof",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
-      "Version": "A",
+      "MinutesSequence": 3,
+      "Version": "*",
       "AgendaNote": "Proposed Int. No. 692-A",
+      "MinutesNote": "Proposed Int. No. 692-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 78284,
       "MatterFile": "Int 0692-2026",
       "MatterName": "Workforce stabilization payments for school paraprofessionals, and providing for the repeal of such local law upon the expiration thereof.",
       "MatterType": "Introduction",
-      "LastModified": "2026-07-10T20:52:12.52Z"
+      "LastModified": "2026-07-16T15:28:33.87Z"
+    },
+    {
+      "ID": 440612,
+      "GUID": "4EA64EA5-786D-4CCB-A27F-FFCEA9D52548",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7896,
+          "Slug": "shirley-aldebol",
+          "FullName": "Shirley Aldebol",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-l-caban",
+          "FullName": "Tiffany L. Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7899,
+          "Slug": "ty-hankerson",
+          "FullName": "Ty Hankerson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7887,
+          "Slug": "frank-morano",
+          "FullName": "Frank Morano",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2026-07-16T15:28:00.517Z"
+    },
+    {
+      "ID": 440613,
+      "GUID": "2BFF255C-984D-40CC-875C-F6B6A6304835",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: De La Rosa",
+      "LastModified": "2026-07-16T15:27:15.55Z"
+    },
+    {
+      "ID": 440614,
+      "GUID": "795FEF5F-F3EF-4144-B254-83066CA4903F",
+      "Title": "A Local Law in relation to workforce stabilization payments for school paraprofessionals, and providing for the repeal of such local law upon the expiration thereof",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 78284,
+      "MatterFile": "Int 0692-2026",
+      "MatterName": "Workforce stabilization payments for school paraprofessionals, and providing for the repeal of such local law upon the expiration thereof.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-07-16T15:28:38.793Z"
+    },
+    {
+      "ID": 440615,
+      "GUID": "03D57E13-718D-491D-8313-3AF7A7539525",
+      "Title": "A Local Law in relation to workforce stabilization payments for school paraprofessionals, and providing for the repeal of such local law upon the expiration thereof",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 78284,
+      "MatterFile": "Int 0692-2026",
+      "MatterName": "Workforce stabilization payments for school paraprofessionals, and providing for the repeal of such local law upon the expiration thereof.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-07-16T15:28:42.13Z"
+    },
+    {
+      "ID": 440616,
+      "GUID": "55FD4EB3-56FE-435E-A205-7D1D4EF6877A",
+      "Title": "A Local Law in relation to workforce stabilization payments for school paraprofessionals, and providing for the repeal of such local law upon the expiration thereof",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 78284,
+      "MatterFile": "Int 0692-2026",
+      "MatterName": "Workforce stabilization payments for school paraprofessionals, and providing for the repeal of such local law upon the expiration thereof.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-07-16T15:28:51.783Z"
     }
   ],
   "AgendaLastPublished": "2026-07-10T20:52:16.817Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-07-16T14:39:06.773Z"
+  "MinutesLastPublished": "2026-07-16T15:28:56.33Z",
+  "LastModified": "2026-07-16T15:28:56.427Z"
 }
