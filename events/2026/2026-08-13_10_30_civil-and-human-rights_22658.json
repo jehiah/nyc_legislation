@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/8/22658_A_Committee_on_Civil_and_Human_Rights_26-08-13_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/8/22658_M_Committee_on_Civil_and_Human_Rights_26-08-13_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-2_260813-105511.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22658&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
@@ -20,16 +21,99 @@
       "GUID": "8CF8772B-C7E9-40D1-81BC-72CF07D85A64",
       "Title": "Resolution declaring August 2 annually as James Baldwin Day in the City of New York to honor his legacy as a groundbreaking essayist, novelist, playwright, poet, and civil rights activist, who fought racial and sexual discrimination with candor, sensitivity, and lasting influence",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 78011,
       "MatterFile": "Res 0218-2026",
       "MatterName": "Declaring August 2 annually as James Baldwin Day in the City of New York.",
       "MatterType": "Resolution",
-      "LastModified": "2026-08-11T14:17:20.663Z"
+      "LastModified": "2026-08-13T16:08:43.167Z"
+    },
+    {
+      "ID": 441154,
+      "GUID": "E552442F-6F5F-422B-8DBB-EA6BD8957E23",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-j-feliz",
+          "FullName": "Oswald J. Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2026-08-13T16:08:34.067Z"
+    },
+    {
+      "ID": 441155,
+      "GUID": "DBB585F4-A99A-4DBC-975B-E68D3B765E6D",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Hudson",
+      "LastModified": "2026-08-13T16:08:32.41Z"
+    },
+    {
+      "ID": 441156,
+      "GUID": "47515951-311E-4D0C-943C-2311393B327F",
+      "Title": "Resolution declaring August 2 annually as James Baldwin Day in the City of New York to honor his legacy as a groundbreaking essayist, novelist, playwright, poet, and civil rights activist, who fought racial and sexual discrimination with candor, sensitivity, and lasting influence",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Resolution be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 78011,
+      "MatterFile": "Res 0218-2026",
+      "MatterName": "Declaring August 2 annually as James Baldwin Day in the City of New York.",
+      "MatterType": "Resolution",
+      "LastModified": "2026-08-13T16:08:56.267Z"
     }
   ],
   "AgendaLastPublished": "2026-08-11T14:17:26.43Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-08-13T15:00:22.06Z"
+  "MinutesLastPublished": "2026-08-13T16:09:00.36Z",
+  "LastModified": "2026-08-13T16:09:00.407Z"
 }
