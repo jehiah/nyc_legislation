@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/8/22631_A_Committee_on_Governmental_Operations%2C_State___Federal_Legislation_26-08-18_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/8/22631_M_Committee_on_Governmental_Operations%2C_State___Federal_Legislation_26-08-18_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Finance.",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_260818-130241.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22631&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
@@ -20,26 +21,124 @@
       "GUID": "ABBCEB91-3AC7-4164-9244-D3058BD0F617",
       "Title": "Jointly with the Committee on Finance",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "",
-      "LastModified": "2026-08-04T19:06:27.49Z"
+      "LastModified": "2026-08-19T01:14:49.57Z"
     },
     {
       "ID": 440777,
       "GUID": "98386A37-6D6F-44F8-A7C7-B1F4249E30E9",
       "Title": "Oversight - Implementation of the Pied-à-Terre Tax.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 79285,
       "MatterFile": "T2026-2332",
       "MatterName": "Oversight - Implementation of the Pied-à-Terre Tax.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-08-04T19:06:04.12Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-08-19T01:14:54.183Z"
+    },
+    {
+      "ID": 441280,
+      "GUID": "FF27372E-6464-4926-BFAC-3D3909D0A2A6",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-j-feliz",
+          "FullName": "Oswald J. Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7887,
+          "Slug": "frank-morano",
+          "FullName": "Frank Morano",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 120
+        },
+        {
+          "ID": 7874,
+          "Slug": "carl-wilson",
+          "FullName": "Carl Wilson",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 130
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2026-08-19T01:14:47.74Z"
+    },
+    {
+      "ID": 441281,
+      "GUID": "0BAB344B-82FB-4450-B8CA-8C123C92CECA",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Lee, Hanks, Wong, Carr, J. Sanchez, Narcisse, Paladino,Maloney, Marte, Brooks-Powers, Ariola and Mealy",
+      "LastModified": "2026-08-19T01:14:34.193Z"
+    },
+    {
+      "ID": 441282,
+      "GUID": "C1BE4235-4842-4F1D-97B9-A87BBBDFD962",
+      "Title": "Oversight - Implementation of the Pied-à-Terre Tax.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 79285,
+      "MatterFile": "T2026-2332",
+      "MatterName": "Oversight - Implementation of the Pied-à-Terre Tax.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-08-19T01:15:00.097Z"
     }
   ],
   "AgendaLastPublished": "2026-08-04T19:06:35.077Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-08-18T19:54:15.263Z"
+  "MinutesLastPublished": "2026-08-19T01:15:07.327Z",
+  "LastModified": "2026-08-19T01:15:07.437Z"
 }
