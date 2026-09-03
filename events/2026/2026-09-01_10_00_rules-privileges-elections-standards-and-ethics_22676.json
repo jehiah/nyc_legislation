@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/9/22676_A_Committee_on_Rules%2C_Privileges%2C_Elections%2C_Standards_and_Ethics_26-09-01_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/9/22676_M_Committee_on_Rules%2C_Privileges%2C_Elections%2C_Standards_and_Ethics_26-09-01_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_260901-101145.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22676&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,45 +20,199 @@
       "GUID": "E45E915A-C5EB-4E79-AC10-0763F70D51DE",
       "Title": "Communication from the Mayor - Submitting the name of Lisa Garcia to the Council for its advice and consent regarding her appointment as a member of the New York City Land Bank, pursuant to Local Law 56 of 2026. ",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Mayor's Message was Hearing Held by Committee",
       "MatterID": 79349,
       "MatterFile": "M 0087-2026",
       "MatterName": "Lisa Garcia, Land Bank",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-08-25T19:11:33.383Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2026-09-03T13:51:04.967Z"
     },
     {
       "ID": 441354,
       "GUID": "BA445C7E-5B0D-48B5-8776-4CEFFDD844E6",
       "Title": "Communication from the Mayor - Submitting the name of Dr. Dave A. Chokshi to the Council for its advice and consent regarding his appointment to the Board of Health, pursuant to Section 31 New York City Charter.",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Mayor's Message was Hearing Held by Committee",
       "MatterID": 79345,
       "MatterFile": "M 0088-2026",
       "MatterName": "Dr. Dave A. Chokshi, Board of Health",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-08-25T19:11:14.727Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2026-09-03T13:50:53.847Z"
     },
     {
       "ID": 441355,
       "GUID": "B5FCBF6F-DCDC-449F-99F4-07A504F2DB48",
       "Title": "Communication from the Mayor - Submitting the name of John Mangin to the Council for its advice and consent regarding his appointment as a member and chair of the New York City Board of Standard and Appeals, pursuant to Section 31 of the New York City Charter.",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Mayor's Message was Hearing Held by Committee",
       "MatterID": 79343,
       "MatterFile": "M 0089-2026",
       "MatterName": "John Mangin, Board of Standard and Appeals",
       "MatterType": "Mayor's Message",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-08-25T19:11:14.73Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2026-09-03T13:50:42.677Z"
+    },
+    {
+      "ID": 441510,
+      "GUID": "90E0E2E1-EF5A-42FA-93FD-62B5418E857B",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7895,
+          "Slug": "elsie-encarnacion",
+          "FullName": "Elsie Encarnación",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 160
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        }
+      ],
+      "LastModified": "2026-09-03T13:50:36.39Z"
+    },
+    {
+      "ID": 441511,
+      "GUID": "30CA1CC8-1FC5-442D-BC39-CE93F808E7D1",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Epstein, Hanif, Morano and Brewer",
+      "LastModified": "2026-09-03T13:50:15.777Z"
+    },
+    {
+      "ID": 441512,
+      "GUID": "D81A2FF5-DD8B-4B44-9F40-6C6697F7B9E1",
+      "Title": "Communication from the Mayor - Submitting the name of John Mangin to the Council for its advice and consent regarding his appointment as a member and chair of the New York City Board of Standard and Appeals, pursuant to Section 31 of the New York City Charter.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Mayor's Message was Laid Over by Committee",
+      "MatterID": 79343,
+      "MatterFile": "M 0089-2026",
+      "MatterName": "John Mangin, Board of Standard and Appeals",
+      "MatterType": "Mayor's Message",
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2026-09-03T13:50:59.983Z"
+    },
+    {
+      "ID": 441513,
+      "GUID": "7532D95B-1A09-40B3-9C81-55B6B455ED9F",
+      "Title": "Communication from the Mayor - Submitting the name of Dr. Dave A. Chokshi to the Council for its advice and consent regarding his appointment to the Board of Health, pursuant to Section 31 New York City Charter.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Mayor's Message was Laid Over by Committee",
+      "MatterID": 79345,
+      "MatterFile": "M 0088-2026",
+      "MatterName": "Dr. Dave A. Chokshi, Board of Health",
+      "MatterType": "Mayor's Message",
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2026-09-03T13:50:58.467Z"
+    },
+    {
+      "ID": 441514,
+      "GUID": "549190B5-7FDF-4173-8F76-B6ED4F2E3EE0",
+      "Title": "Communication from the Mayor - Submitting the name of Lisa Garcia to the Council for its advice and consent regarding her appointment as a member of the New York City Land Bank, pursuant to Local Law 56 of 2026. ",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Mayor's Message was Laid Over by Committee",
+      "MatterID": 79349,
+      "MatterFile": "M 0087-2026",
+      "MatterName": "Lisa Garcia, Land Bank",
+      "MatterType": "Mayor's Message",
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2026-09-03T13:51:11.923Z"
     }
   ],
   "AgendaLastPublished": "2026-08-25T18:05:45.717Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-09-01T19:00:35.337Z"
+  "MinutesLastPublished": "2026-09-03T13:51:18.963Z",
+  "LastModified": "2026-09-03T13:51:19.04Z"
 }
