@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/9/22696_A_Committee_on_Technology_26-09-09_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/9/22696_M_Committee_on_Technology_26-09-09_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Public Safety, the Committee on Fire and Emergency Management and the Committee on Governmental Operations, State & Federal Legislation.",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_260909-102709.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22696&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,26 +21,108 @@
       "GUID": "453F23B7-92A9-464C-B54A-00B96E58A46C",
       "Title": "Oversight - Examining New York City’s 911 Emergency System Outage.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 79434,
       "MatterFile": "T2026-2481",
       "MatterName": "Oversight - Examining New York City’s 911 Emergency System Outage.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-09-03T19:59:09.353Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-09-09T18:41:55.547Z"
     },
     {
       "ID": 441392,
       "GUID": "30900317-CB56-45AF-A67F-4404FDA29AB8",
       "Title": "Jointly with the Committee on Public Safety, the Committee on Fire and Emergency Management and the Committee on Governmental Operations, State & Federal Legislation",
       "AgendaSequence": 2,
+      "MinutesSequence": 5,
+      "Version": "",
+      "LastModified": "2026-09-09T18:41:50.307Z"
+    },
+    {
+      "ID": 441751,
+      "GUID": "A6A1C267-C11C-4062-AFF9-DF1ED0F14714",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 90
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        }
+      ],
+      "LastModified": "2026-09-09T18:41:46.427Z"
+    },
+    {
+      "ID": 441752,
+      "GUID": "37E1A6C8-012E-4703-B350-B4630AB6786D",
+      "Title": "",
+      "AgendaSequence": 0,
       "MinutesSequence": 2,
       "Version": "",
-      "LastModified": "2026-08-27T16:29:23.177Z"
+      "MinutesNote": "Other Council Members Attending: Hanks, Ariola, Feliz, Brewer, J. Sanchez, Wong, Zhuang, Morano, Hankerson, Stevens, Maloney, Salaam, Banks, Abreu, Restler and Dinowitz",
+      "LastModified": "2026-09-09T18:41:01.64Z"
+    },
+    {
+      "ID": 441753,
+      "GUID": "717F31A8-4BB4-42F6-9571-D4C21D0CF134",
+      "Title": "Oversight - Examining New York City’s 911 Emergency System Outage.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 79434,
+      "MatterFile": "T2026-2481",
+      "MatterName": "Oversight - Examining New York City’s 911 Emergency System Outage.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-09-09T18:42:01.63Z"
     }
   ],
   "AgendaLastPublished": "2026-09-03T19:59:15.017Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-09-03T19:59:15.523Z"
+  "MinutesLastPublished": "2026-09-09T18:42:09.723Z",
+  "LastModified": "2026-09-09T18:42:09.833Z"
 }

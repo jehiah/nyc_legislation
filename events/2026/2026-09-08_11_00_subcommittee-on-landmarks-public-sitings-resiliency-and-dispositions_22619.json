@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/9/22619_A_Subcommittee_on_Landmarks%2C_Public_Sitings%2C_Resiliency_and_Dispositions_26-09-08_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/9/22619_M_Subcommittee_on_Landmarks%2C_Public_Sitings%2C_Resiliency_and_Dispositions_26-09-08_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-3_260908-110014.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22619&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,35 +20,143 @@
       "GUID": "5669D468-CD66-4A1D-B980-D0A6A1CFD40A",
       "Title": "Application number G 260006 NUM (48-50 Convent Avenue (ANCP) - UDAAP) submitted by the New York City Department of Housing Preservation and Development (HPD) pursuant to Article 16 of the General Municipal Law for approval of an urban development action area project for properties located at 48 Convent Avenue (Block 1969; Lot 65); 50 Convent Avenue (Block 1969; Lot 66); 453-455 West 125th Street (Block 1966; Lot 44); 12-14 Old Broadway (Block 1982; Lot 65), Borough of Manhattan, Community District 9, Council District 7. ",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Preconsidered",
       "MinutesNote": "Preconsidered",
+      "ActionID": 15,
+      "ActionName": "Hearing on P-C Item by Comm",
+      "ActionText": "This Land Use Application was Hearing on P-C Item by Comm",
       "MatterID": 79450,
       "MatterFile": "T2026-2497",
       "MatterName": "Landmarks, 48-50 Convent Avenue (ANCP) - UDAAP, Manhattan (G 260006 NUM).",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Introduced",
-      "LastModified": "2026-09-02T17:50:49.207Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2026-09-09T12:40:01.42Z"
     },
     {
       "ID": 441453,
       "GUID": "15518F72-5C08-4169-8E52-9B697F0AC2F1",
       "Title": "Application number G 260007 XAM (48-50 Convent Avenue (ANCP) - Article XI) submitted by the New York City Department of Housing Preservation and Development (HPD) pursuant to Section 577 of Article XI of the Private Housing Finance Law for approval of a real property tax exemption for properties located at 48 Convent Avenue (Block 1969, Lot 65), 50 Convent Avenue (Block 1969, Lot 66), 453-455 West 125th Street(Block 1966, Lot 44), and 12-14 Old Broadway (Block 1982, Lot 65), Borough of Manhattan, Community District 9, Council District 7.",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "*",
       "AgendaNote": "Preconsidered",
       "MinutesNote": "Preconsidered",
+      "ActionID": 15,
+      "ActionName": "Hearing on P-C Item by Comm",
+      "ActionText": "This Land Use Application was Hearing on P-C Item by Comm",
       "MatterID": 79451,
       "MatterFile": "T2026-2498",
       "MatterName": "Landmarks, 48-50 Convent Avenue (ANCP) - Article XI, Manhattan (G 260007 XAM).",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Introduced",
-      "LastModified": "2026-09-02T17:50:58.557Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2026-09-09T12:40:40.71Z"
+    },
+    {
+      "ID": 441730,
+      "GUID": "478C0D9F-0362-48B1-A769-70E549B28384",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-j-feliz",
+          "FullName": "Oswald J. Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 80
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 100
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 120
+        },
+        {
+          "ID": 7898,
+          "Slug": "shanel-thomas-henry",
+          "FullName": "Shanel Thomas-Henry",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2026-09-09T12:44:01.563Z"
+    },
+    {
+      "ID": 441731,
+      "GUID": "B49F8725-B317-443B-BABE-36320D041459",
+      "Title": "Application number G 260006 NUM (48-50 Convent Avenue (ANCP) - UDAAP) submitted by the New York City Department of Housing Preservation and Development (HPD) pursuant to Article 16 of the General Municipal Law for approval of an urban development action area project for properties located at 48 Convent Avenue (Block 1969; Lot 65); 50 Convent Avenue (Block 1969; Lot 66); 453-455 West 125th Street (Block 1966; Lot 44); 12-14 Old Broadway (Block 1982; Lot 65), Borough of Manhattan, Community District 9, Council District 7. ",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5018,
+      "ActionName": "P-C Item Laid Over by Comm",
+      "ActionText": "This Land Use Application was P-C Item Laid Over by Comm",
+      "MatterID": 79450,
+      "MatterFile": "T2026-2497",
+      "MatterName": "Landmarks, 48-50 Convent Avenue (ANCP) - UDAAP, Manhattan (G 260006 NUM).",
+      "MatterType": "Land Use Application",
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2026-09-09T12:40:16.65Z"
+    },
+    {
+      "ID": 441732,
+      "GUID": "0234C5F3-6949-478B-8E7F-6FEDD64A46E7",
+      "Title": "Application number G 260007 XAM (48-50 Convent Avenue (ANCP) - Article XI) submitted by the New York City Department of Housing Preservation and Development (HPD) pursuant to Section 577 of Article XI of the Private Housing Finance Law for approval of a real property tax exemption for properties located at 48 Convent Avenue (Block 1969, Lot 65), 50 Convent Avenue (Block 1969, Lot 66), 453-455 West 125th Street(Block 1966, Lot 44), and 12-14 Old Broadway (Block 1982, Lot 65), Borough of Manhattan, Community District 9, Council District 7.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 5018,
+      "ActionName": "P-C Item Laid Over by Comm",
+      "ActionText": "This Land Use Application was P-C Item Laid Over by Comm",
+      "MatterID": 79451,
+      "MatterFile": "T2026-2498",
+      "MatterName": "Landmarks, 48-50 Convent Avenue (ANCP) - Article XI, Manhattan (G 260007 XAM).",
+      "MatterType": "Land Use Application",
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2026-09-09T12:41:01.06Z"
     }
   ],
   "AgendaLastPublished": "2026-09-02T17:50:25.927Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-09-08T15:29:54.293Z"
+  "MinutesLastPublished": "2026-09-09T12:44:07.68Z",
+  "LastModified": "2026-09-09T12:44:07.75Z"
 }
