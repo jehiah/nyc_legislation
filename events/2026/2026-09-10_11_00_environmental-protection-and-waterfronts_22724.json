@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/9/22724_A_Committee_on_Environmental_Protection_and_Waterfronts_26-09-10_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/9/22724_M_Committee_on_Environmental_Protection_and_Waterfronts_26-09-10_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_260910-111603.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22724&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
@@ -20,18 +21,133 @@
       "GUID": "681B2E2E-E993-4136-9C0D-8A5741D1B062",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the maximum allowable illuminance of residential outdoor lighting fixtures",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
-      "Version": "A",
+      "MinutesSequence": 3,
+      "Version": "*",
       "AgendaNote": "Proposed Int. No. 804-A",
       "MinutesNote": "Proposed Int. No. 804-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 78503,
       "MatterFile": "Int 0804-2026",
       "MatterName": "The maximum allowable illuminance of residential outdoor lighting fixtures.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-09T15:45:03.68Z"
+      "LastModified": "2026-09-10T15:44:21.097Z"
+    },
+    {
+      "ID": 441839,
+      "GUID": "8AAE57DC-0114-47AB-86F3-8BBBB9CE175F",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7893,
+          "Slug": "harvey-d-epstein",
+          "FullName": "Harvey D. Epstein",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7897,
+          "Slug": "justin-e-sanchez",
+          "FullName": "Justin E. Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        }
+      ],
+      "LastModified": "2026-09-10T15:43:44.14Z"
+    },
+    {
+      "ID": 441840,
+      "GUID": "3BF29F6E-6FF6-47CF-A16C-394FB5024C41",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Wong",
+      "LastModified": "2026-09-10T15:43:39.81Z"
+    },
+    {
+      "ID": 441841,
+      "GUID": "054620A9-1FEF-4ABC-8955-0C191A0C8035",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the maximum allowable illuminance of residential outdoor lighting fixtures",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 78503,
+      "MatterFile": "Int 0804-2026",
+      "MatterName": "The maximum allowable illuminance of residential outdoor lighting fixtures.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-09-10T15:44:16.047Z"
+    },
+    {
+      "ID": 441842,
+      "GUID": "951FD1CB-6982-4BC4-B5C7-8ABF9DD9CEF9",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the maximum allowable illuminance of residential outdoor lighting fixtures",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 78503,
+      "MatterFile": "Int 0804-2026",
+      "MatterName": "The maximum allowable illuminance of residential outdoor lighting fixtures.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-09-10T15:44:11.463Z"
+    },
+    {
+      "ID": 441843,
+      "GUID": "98225DEA-30E3-41DA-BD1B-4CB2F47C6CF9",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the maximum allowable illuminance of residential outdoor lighting fixtures",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 78503,
+      "MatterFile": "Int 0804-2026",
+      "MatterName": "The maximum allowable illuminance of residential outdoor lighting fixtures.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-09-10T15:44:36.633Z"
     }
   ],
   "AgendaLastPublished": "2026-09-09T15:03:55.127Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-09-10T15:21:01.38Z"
+  "MinutesLastPublished": "2026-09-10T15:44:41.243Z",
+  "LastModified": "2026-09-10T15:44:41.32Z"
 }
