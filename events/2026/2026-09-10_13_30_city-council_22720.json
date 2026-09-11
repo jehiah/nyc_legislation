@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/9/22720_A_City_Council_26-09-10_Council_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/9/22720_M_City_Council_26-09-10_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_260910-134834.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22720&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -23,7 +24,418 @@
       "AgendaNumber": "1.",
       "Version": "",
       "AgendaNote": "ROLL CALL",
-      "LastModified": "2026-09-10T16:34:13.247Z"
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7803,
+          "Slug": "julie-menin",
+          "FullName": "Julie Menin",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 5
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7896,
+          "Slug": "shirley-aldebol",
+          "FullName": "Shirley Aldebol",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-l-caban",
+          "FullName": "Tiffany L. Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 200
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 220
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 240
+        },
+        {
+          "ID": 7895,
+          "Slug": "elsie-encarnacion",
+          "FullName": "Elsie Encarnación",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 260
+        },
+        {
+          "ID": 7893,
+          "Slug": "harvey-d-epstein",
+          "FullName": "Harvey D. Epstein",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 280
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-c-farias",
+          "FullName": "Amanda C. Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 300
+        },
+        {
+          "ID": 5289,
+          "Slug": "simcha-felder",
+          "FullName": "Simcha Felder",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 320
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-j-feliz",
+          "FullName": "Oswald J. Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 340
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 360
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 380
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 400
+        },
+        {
+          "ID": 7899,
+          "Slug": "ty-hankerson",
+          "FullName": "Ty Hankerson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 420
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 440
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 460
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 480
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 500
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 520
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 540
+        },
+        {
+          "ID": 7894,
+          "Slug": "virginia-maloney",
+          "FullName": "Virginia Maloney",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 560
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 580
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 65,
+          "Value": "Bereavement",
+          "Sort": 600
+        },
+        {
+          "ID": 7887,
+          "Slug": "frank-morano",
+          "FullName": "Frank Morano",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 620
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 640
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 660
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 680
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 700
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 720
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 740
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 760
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 780
+        },
+        {
+          "ID": 7897,
+          "Slug": "justin-e-sanchez",
+          "FullName": "Justin E. Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 800
+        },
+        {
+          "ID": 7901,
+          "Slug": "kayla-santosuosso",
+          "FullName": "Kayla Santosuosso",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 820
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 840
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 860
+        },
+        {
+          "ID": 7898,
+          "Slug": "shanel-thomas-henry",
+          "FullName": "Shanel Thomas-Henry",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 880
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 900
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 920
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 940
+        },
+        {
+          "ID": 7874,
+          "Slug": "carl-wilson",
+          "FullName": "Carl Wilson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 950
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 960
+        },
+        {
+          "ID": 7900,
+          "Slug": "phil-wong",
+          "FullName": "Phil Wong",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 980
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 1000
+        }
+      ],
+      "LastModified": "2026-09-11T00:32:40.483Z"
     },
     {
       "ID": 441566,
@@ -34,8 +446,8 @@
       "AgendaNumber": "2.",
       "Version": "",
       "AgendaNote": "INVOCATION - Delivered by: Reverend Doctor V. Simpson Turner, FDNY Chaplin, Senior Pastor, Mt. Carmel Baptist Church, located at 714 Quincy Street, Brooklyn NY 11221.\r\n\r\nMotion to spread the Invocation in full upon the record by Council Member Ossé.",
-      "MinutesNote": "The Invocation was delivered by: _______________.\r\n\r\nCouncil Member ___ moved to spread the Invocation in full upon the Record.",
-      "LastModified": "2026-09-10T15:05:13.787Z"
+      "MinutesNote": "The Invocation was delivered by Reverend Doctor V. Simpson Turner, FDNY Chaplin, Senior Pastor, Mt. Carmel Baptist Church, located at 714 Quincy Street, Brooklyn, N.Y. 11221.\r\n\r\nOn behalf of Council Member Osse, the Majority Leader and Acting President Pro Tempore (Council Member Abreu) moved to spread the Invocation in full upon the Record.",
+      "LastModified": "2026-09-11T00:32:40.487Z"
     },
     {
       "ID": 441567,
@@ -46,8 +458,8 @@
       "AgendaNumber": "3.",
       "Version": "",
       "AgendaNote": "ADOPTION OF MINUTES - Motion that the Minutes of the Stated Meeting of August 13, 2026  be adopted as printed by Council Member J. Sanchez.",
-      "MinutesNote": "Council Member ___ moved that the Minutes of the Stated Meeting of _______, 2026 be adopted as printed.",
-      "LastModified": "2026-09-10T15:09:36.523Z"
+      "MinutesNote": "Council Member J. Sanchez moved that the Minutes of the Stated Meeting of August 13, 2026 be adopted as printed.",
+      "LastModified": "2026-09-11T00:32:40.487Z"
     },
     {
       "ID": 441568,
@@ -59,7 +471,7 @@
       "Version": "",
       "AgendaNote": "MESSAGES & PAPERS FROM THE MAYOR - None",
       "MinutesNote": "None.",
-      "LastModified": "2026-09-10T15:09:47.7Z"
+      "LastModified": "2026-09-11T00:32:40.487Z"
     },
     {
       "ID": 441569,
@@ -71,7 +483,7 @@
       "Version": "",
       "AgendaNote": "COMMUNICATIONS FROM CITY, COUNTY & BOROUGH OFFICES - None",
       "MinutesNote": "None.",
-      "LastModified": "2026-09-10T15:09:54.867Z"
+      "LastModified": "2026-09-11T00:32:40.487Z"
     },
     {
       "ID": 441570,
@@ -83,7 +495,7 @@
       "Version": "",
       "AgendaNote": "PETITIONS & COMMUNICATIONS - None",
       "MinutesNote": "None.",
-      "LastModified": "2026-09-10T15:10:03.42Z"
+      "LastModified": "2026-09-11T00:32:40.49Z"
     },
     {
       "ID": 441571,
@@ -94,333 +506,407 @@
       "AgendaNumber": "7.",
       "Version": "",
       "AgendaNote": "LAND USE CALL-UPS",
-      "LastModified": "2026-09-10T15:10:05.43Z"
+      "LastModified": "2026-09-11T00:32:40.49Z"
     },
     {
       "ID": 441572,
       "GUID": "CE83CF27-B422-45F8-B48E-7CDE4D4F00A6",
       "Title": "By Council Member Thomas-Henry:\r\nPursuant to Rule 11.20(b) of the Council Rules and Section 19-160.2 of the New York City Administrative Code, the Council resolves that the action of the Department of Transportation approving a sidewalk café located at 45-18 104th Street, Corona, NY 11368, Borough of Queens, Council District 21, Community District 4, related to Application No. D 2550162086 SWQ (Cali Tajadas Bakery & Restaurant) shall be subject to review by the Council.",
       "AgendaSequence": 8,
-      "MinutesSequence": 10,
+      "MinutesSequence": 12,
       "Version": "*",
       "AgendaNote": "Coupled on Call-Up Vote",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Call-Up be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 79484,
       "MatterFile": "M 0091-2026",
       "MatterName": "Zoning, Cali Tajadas Bakery & Restaurant, Queens (D 2550162086 SWQ).",
       "MatterType": "Land Use Call-Up",
-      "MatterStatus": "Introduced",
-      "LastModified": "2026-09-10T15:10:15.92Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2026-09-11T00:32:40.49Z"
     },
     {
       "ID": 441573,
       "GUID": "AE17C1B3-EC74-415E-AC28-A906BEE4100F",
       "Title": "Communication from the Speaker",
       "AgendaSequence": 9,
-      "MinutesSequence": 11,
+      "MinutesSequence": 13,
       "AgendaNumber": "8.",
       "Version": "",
       "AgendaNote": "COMMUNICATION FROM THE SPEAKER",
-      "LastModified": "2026-09-10T15:10:35.207Z"
+      "LastModified": "2026-09-11T00:32:40.49Z"
     },
     {
       "ID": 441574,
       "GUID": "07C42966-D113-4F0D-B5A7-120D175524DA",
       "Title": "Discussion of General Orders",
       "AgendaSequence": 10,
-      "MinutesSequence": 12,
+      "MinutesSequence": 14,
       "AgendaNumber": "9.",
       "Version": "",
       "AgendaNote": "DISCUSSION OF GENERAL ORDERS",
-      "LastModified": "2026-09-10T15:10:17.007Z"
+      "LastModified": "2026-09-11T00:32:40.493Z"
     },
     {
       "ID": 441575,
       "GUID": "B41C08DB-29AB-41F7-835B-90AEAFBAE013",
       "Title": "Reports of Special Committees",
       "AgendaSequence": 11,
-      "MinutesSequence": 13,
+      "MinutesSequence": 15,
       "AgendaNumber": "10.",
       "Version": "",
       "AgendaNote": "REPORTS OF SPECIAL COMMITTEES - None",
       "MinutesNote": "None.",
-      "LastModified": "2026-09-10T15:10:23.817Z"
+      "LastModified": "2026-09-11T00:32:40.493Z"
     },
     {
       "ID": 441576,
       "GUID": "A6C20124-C7C1-40BF-BD78-9AF9B67639B3",
       "Title": "Reports of Standing Committees",
       "AgendaSequence": 12,
-      "MinutesSequence": 14,
+      "MinutesSequence": 16,
       "AgendaNumber": "11.",
       "Version": "",
       "AgendaNote": "REPORTS OF STANDING COMMITTEES",
-      "LastModified": "2026-09-10T14:01:24.23Z"
+      "LastModified": "2026-09-11T00:32:40.493Z"
     },
     {
       "ID": 441579,
       "GUID": "B825A521-A0F1-4ECF-AA46-ECBAA3132986",
       "Title": "Report of the Committee on Consumer and Worker Protection",
       "AgendaSequence": 13,
-      "MinutesSequence": 15,
+      "MinutesSequence": 17,
       "Version": "",
       "AgendaNote": "REPORT OF THE COMMITTEE ON CONSUMER AND WORKER PROTECTION",
-      "LastModified": "2026-09-10T14:42:13.303Z"
+      "LastModified": "2026-09-11T00:32:40.493Z"
     },
     {
       "ID": 441583,
       "GUID": "A7CE4573-1139-4CB2-8000-AFF46B22F63D",
       "Title": "Report of the Committee on Environmental Protection, Resiliency and Waterfronts",
       "AgendaSequence": 17,
-      "MinutesSequence": 19,
+      "MinutesSequence": 21,
       "Version": "",
       "AgendaNote": "REPORT OF THE COMMITTEE ON ENVIRONMENTAL PROTECTION AND WATERFRONTS",
-      "LastModified": "2026-09-10T14:01:24.237Z"
+      "LastModified": "2026-09-11T00:32:40.497Z"
     },
     {
       "ID": 441584,
       "GUID": "7F2E3FB6-FD59-4C65-BD2D-944DE66C2806",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the maximum allowable illuminance of residential outdoor lighting fixtures",
       "AgendaSequence": 18,
-      "MinutesSequence": 20,
+      "MinutesSequence": 22,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 78503,
       "MatterFile": "Int 0804-2026",
       "MatterName": "The maximum allowable illuminance of residential outdoor lighting fixtures.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T14:01:24.237Z"
+      "LastModified": "2026-09-11T00:32:40.497Z"
     },
     {
       "ID": 441585,
       "GUID": "17CCE66E-1AC5-4E78-80E8-6DD3CA89C5F2",
       "Title": "Report of the Committee on Health",
       "AgendaSequence": 19,
-      "MinutesSequence": 21,
+      "MinutesSequence": 23,
       "Version": "",
       "AgendaNote": "REPORT OF THE COMMITTEE ON HEALTH",
-      "LastModified": "2026-09-10T14:01:24.24Z"
+      "LastModified": "2026-09-11T00:32:40.497Z"
     },
     {
       "ID": 441586,
       "GUID": "6776EF5E-2D64-4370-A2CF-8FE226CD25A3",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to modifying the sodium warning at designated food service establishments",
       "AgendaSequence": 20,
-      "MinutesSequence": 22,
+      "MinutesSequence": 24,
       "Version": "C",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 77512,
       "MatterFile": "Int 0196-2026",
       "MatterName": "Modifying the sodium warning at designated food service establishments.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T14:01:24.24Z"
+      "LastModified": "2026-09-11T00:32:40.497Z"
     },
     {
       "ID": 441587,
       "GUID": "720D6B60-06BA-4E92-9FF7-C5DA22A7F10E",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to amending the icon for added sugar warning labels and the amount for civil penalties, and to repeal subdivision b of section 17-199.18 in relation thereto",
       "AgendaSequence": 21,
-      "MinutesSequence": 23,
+      "MinutesSequence": 25,
       "Version": "B",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 77979,
       "MatterFile": "Int 0547-2026",
       "MatterName": "Amending the icon for added sugar warning labels and the amount for civil penalties, and to repeal subdivision b of section 17-199.18 in relation thereto.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T14:01:24.24Z"
+      "LastModified": "2026-09-11T00:32:40.5Z"
     },
     {
       "ID": 441588,
       "GUID": "71CFD3C7-6B07-41FC-AAF8-E8A3213F8D30",
       "Title": "Report of the Committee on Parks and Recreation",
       "AgendaSequence": 22,
-      "MinutesSequence": 24,
+      "MinutesSequence": 26,
       "Version": "",
       "AgendaNote": "REPORT OF THE COMMITTEE ON PARKS AND RECREATION",
-      "LastModified": "2026-09-10T14:01:24.24Z"
+      "LastModified": "2026-09-11T00:32:40.5Z"
     },
     {
       "ID": 441589,
       "GUID": "30D951F0-B80D-4212-9752-334E13EE68AD",
       "Title": "A Local Law in relation to the naming of 7 thoroughfares and public places, Champion’s Plaza, Borough of Manhattan, Apostle Dr. Carolyn Younger-Nolan Way, Borough of Queens, SGT. Terrance McAvoy Way, Borough of Staten Island, Leonardo A. Dilone Figueredo Way, Borough of Manhattan, Little Panama, Borough of Brooklyn, Millie Rigoli Way, Borough of Queens, Colosseum Way, Borough of Queens and the repeal of sections 12, 23, 51, 74 and 94 of local law number 125 for the year 2026 and section 5 of local law number 26 for the year 2020",
       "AgendaSequence": 23,
-      "MinutesSequence": 25,
+      "MinutesSequence": 27,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 79462,
       "MatterFile": "Int 1027-2026",
       "MatterName": "The naming of 7 thoroughfares and public places.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T14:01:24.243Z"
+      "LastModified": "2026-09-11T00:32:40.5Z"
     },
     {
       "ID": 441590,
       "GUID": "5858C214-0C04-42F3-84CD-7E49D5C0DC5B",
       "Title": "A Local Law in relation to the naming of 26 thoroughfares and public places, Firemen’s Memorial 9/11 Remembrance Way, Borough of Manhattan, Never Forget Way, Borough of Queens, Tribute Park Way, Borough of Queens, Tunnel to Towers 5K Run & Walk 9/11 Memorial Way, Borough of Brooklyn, St. Michael's Cemetery Queens Firefighter Memorial Way, Borough of Queens, Angels Circle, Borough of Staten Island, Monsignor Farrell H.S. 9/11 Wall of Remembrance Way, Borough of Staten Island, Poly Prep Memorial 9/11 Garden of Remembrance Way, Borough of Brooklyn, Endor Community Garden 9/11 Memorial Way, Borough of the Bronx, Lehman College 9/11 Memorial Way, Borough of the Bronx, Conselyea 9/11 Memorial Way, Borough of Brooklyn, Staten Island September 11 Postcards Memorial Way, Borough of Staten Island, Roosevelt Island 9/11 Memorial & Remembrance Tree Way, Borough of Manhattan, East Side 9/11 Remembrance Way, Borough of Manhattan, Fresh Kills 9/11 Recovery Heroes Way, Borough of Staten Island, Marine Park 9/11 Memorial Way, Borough of Brooklyn, Brooklyn 9/11 Wall of Remembrance Way, Borough of Brooklyn, September 11 Memorial Square Way, Borough of Brooklyn, Bensonhurst Seth Low Park 9/11 Memorial Way, Borough of Brooklyn, Marsh and McLennan September 11th Memorial Way, Borough of Manhattan, Squad 18 September 11th Memorial Way, Borough of Manhattan, Ladder 3 September 11th Memorial Way, Borough of Manhattan, Engine 22 / Ladder 13 September 11th Memorial Way, Borough of Manhattan, EMS Station 49 September 11th Memorial Way, Borough of Queens, Rescue 5 September 11th Memorial Way, Borough of Staten Island and 9/11 Beacon Memorial Way, Borough of Brooklyn",
       "AgendaSequence": 24,
-      "MinutesSequence": 26,
+      "MinutesSequence": 28,
       "Version": "*",
       "AgendaNote": "Preconsidered - Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 79466,
       "MatterFile": "Int 1020-2026",
       "MatterName": "The naming of 26 thoroughfares and public places.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T14:01:24.243Z"
+      "LastModified": "2026-09-11T00:32:40.5Z"
     },
     {
       "ID": 441591,
       "GUID": "400B25A9-02DF-4FCF-A163-5FE8E87475C1",
       "Title": "Report of the Committee on Sanitation and Solid Waste Management",
       "AgendaSequence": 29,
-      "MinutesSequence": 31,
+      "MinutesSequence": 36,
       "Version": "",
       "AgendaNote": "REPORT OF THE COMMITTEE ON SANITATION AND SOLID WASTE MANAGEMENT",
-      "LastModified": "2026-09-10T14:01:24.247Z"
+      "LastModified": "2026-09-11T00:32:40.503Z"
     },
     {
       "ID": 441592,
       "GUID": "81B9D063-B338-4E45-92E6-6BF035F29833",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to dog waste complaints",
       "AgendaSequence": 30,
-      "MinutesSequence": 32,
+      "MinutesSequence": 37,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 78592,
       "MatterFile": "Int 0906-2026",
       "MatterName": "Dog waste complaints.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T14:01:24.25Z"
+      "LastModified": "2026-09-11T00:32:40.507Z"
     },
     {
       "ID": 441593,
       "GUID": "210B22CC-6C8B-4D50-A834-FE2F6288EB4F",
       "Title": "Report of the Committee on Transportation and Infrastructure",
       "AgendaSequence": 31,
-      "MinutesSequence": 33,
+      "MinutesSequence": 38,
       "Version": "",
       "AgendaNote": "REPORT OF THE COMMITTEE ON TRANSPORTATION AND INFRASTRUCTURE",
-      "LastModified": "2026-09-10T14:01:24.25Z"
+      "LastModified": "2026-09-11T00:32:40.507Z"
     },
     {
       "ID": 441594,
       "GUID": "2B898779-57FA-43C1-A647-B2445DA02625",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the posting of notification signs regarding upcoming disruptive work",
       "AgendaSequence": 32,
-      "MinutesSequence": 34,
+      "MinutesSequence": 39,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 78726,
       "MatterFile": "Int 0866-2026",
       "MatterName": "Requiring the posting of notification signs regarding upcoming disruptive work.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T14:01:24.25Z"
+      "LastModified": "2026-09-11T00:32:40.507Z"
     },
     {
       "ID": 441598,
       "GUID": "F6F12ADA-9D29-4A72-AB89-3B6E07A07BAC",
       "Title": "General Orders Calendar",
       "AgendaSequence": 33,
-      "MinutesSequence": 35,
+      "MinutesSequence": 40,
       "AgendaNumber": "12.",
       "Version": "",
       "AgendaNote": "GENERAL ORDERS CALENDAR",
-      "LastModified": "2026-09-10T14:01:24.253Z"
+      "LastModified": "2026-09-11T00:32:40.51Z"
     },
     {
       "ID": 441599,
       "GUID": "220DF55F-5966-4E38-ABC4-B39F69511F1F",
-      "Title": "Application number C 260149 ZMK (200 Kent Avenue Rezoning) submitted by 206 Kent LLC and Kent Investor LLC, pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section No. 12c, changing from an M1-4 District to an M1-4A/R7X District and establishing a Special Mixed Use District (MX-8), Borough of Brooklyn, Community District 1, Council District 33.",
+      "Title": "Resolution approving the decision of the City Planning Commission on ULURP No. C 260149 ZMK, for a Zoning Map amendment (L.U. No. 115).",
       "AgendaSequence": 34,
-      "MinutesSequence": 36,
+      "MinutesSequence": 42,
       "Version": "*",
       "AgendaNote": "Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 79207,
       "MatterFile": "Res 0641-2026",
       "MatterName": "LU 115 - Zoning, 200 Kent Avenue Rezoning, Brooklyn (C 260149 ZMK).",
       "MatterType": "Resolution",
-      "LastModified": "2026-09-10T14:01:24.253Z"
+      "LastModified": "2026-09-11T00:32:40.51Z"
     },
     {
       "ID": 441600,
       "GUID": "4AC21565-50CF-4088-956E-A37694F28CDD",
-      "Title": "Application number N 260150 ZRK (200 Kent Avenue Rezoning) submitted by 206 Kent LLC and Kent Investor LLC, pursuant to Section 201 of the New York City Charter, for an amendment of the Zoning Resolution of the City of New York, amending APPENDIX F for the purpose of establishing a Mandatory Inclusionary Housing Area, Borough of Brooklyn, Community District 1, Council District 33.",
+      "Title": "Resolution approving with modifications the decision of the City Planning Commission on ULURP No. N 260150 ZRK, for an amendment of the text of the Zoning Resolution (L.U. No. 116).",
       "AgendaSequence": 35,
-      "MinutesSequence": 37,
+      "MinutesSequence": 44,
       "Version": "*",
       "AgendaNote": "Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 79208,
       "MatterFile": "Res 0642-2026",
       "MatterName": "LU 116 - Zoning, 200 Kent Avenue Rezoning, Brooklyn (N 260150 ZRK).",
       "MatterType": "Resolution",
-      "LastModified": "2026-09-10T14:01:24.253Z"
+      "LastModified": "2026-09-11T00:32:40.51Z"
     },
     {
       "ID": 441601,
       "GUID": "A9B7E46E-8D3E-451E-B070-6DDC015598F6",
-      "Title": "Application number C 260147 ZMQ (47-03 108th Street Rezoning) submitted by 108 Realty Group Inc., pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section No. 10b, changing from an R6B District to an R7X District and establishing within the proposed R7X District a C2-4 District, Borough of Queens, Community District 4, Council District 21.",
+      "Title": "Resolution approving with modifications the decision of the City Planning Commission on ULURP No. C 260147 ZMQ, for a Zoning Map amendment (L.U. No. 118).",
       "AgendaSequence": 36,
-      "MinutesSequence": 38,
+      "MinutesSequence": 46,
       "Version": "*",
       "AgendaNote": "Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 79210,
       "MatterFile": "Res 0643-2026",
       "MatterName": "LU 118 - Zoning, 47-03 108th Street Rezoning, Queens (C 260147 ZMQ).",
       "MatterType": "Resolution",
-      "LastModified": "2026-09-10T14:01:24.253Z"
+      "LastModified": "2026-09-11T00:32:40.513Z"
     },
     {
       "ID": 441602,
       "GUID": "D03D592E-0B0D-46F0-8C8C-1D7811ED3B06",
-      "Title": "Application number N 260148 ZRQ (47-03 108th Street Rezoning) submitted by 108 Realty Group Inc., pursuant to Section 201 of the New York City Charter, for an amendment of the Zoning Resolution of the City of New York, amending APPENDIX F for the purpose of establishing a Mandatory Inclusionary Housing Area, Borough of Queens, Community District 4, Council District 21.",
+      "Title": "Resolution approving the decision of the City Planning Commission on ULURP No. N 260148 ZRQ, for an amendment of the text of the Zoning Resolution (L.U. No. 119).",
       "AgendaSequence": 37,
-      "MinutesSequence": 39,
+      "MinutesSequence": 48,
       "Version": "*",
       "AgendaNote": "Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 79211,
       "MatterFile": "Res 0644-2026",
       "MatterName": "LU 119 - Zoning, 47-03 108th Street Rezoning, Queens (N 260148 ZRQ).",
       "MatterType": "Resolution",
-      "LastModified": "2026-09-10T14:01:24.257Z"
+      "LastModified": "2026-09-11T00:32:40.513Z"
     },
     {
       "ID": 441603,
       "GUID": "A873460C-4A44-44D0-B925-0604D7BD24C5",
       "Title": "Coupled on General Orders Calendar",
       "AgendaSequence": 39,
-      "MinutesSequence": 41,
+      "MinutesSequence": 50,
       "Version": "",
       "AgendaNote": "COUPLED ON GENERAL ORDERS CALENDAR",
-      "LastModified": "2026-09-10T14:04:41.657Z"
+      "LastModified": "2026-09-11T00:32:40.513Z"
     },
     {
       "ID": 441605,
       "GUID": "B4DC25DD-277D-4AAF-8AB1-56F8B05AF16F",
       "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, legislation to incorporate a 9/11 curriculum in all New York schools",
       "AgendaSequence": 70,
-      "MinutesSequence": 72,
+      "MinutesSequence": 84,
       "Version": "A",
       "AgendaNote": "Amended and Adopted by the Committee on Education",
+      "MinutesNote": "Pursuant to Rule 8.60 of the Council, the Majority Leader and Acting President Pro Tempore (Council Member Abreu) called for a voice vote.  Hearing those in favor, the Majority Leader and Acting President Pro Tempore (Council Member Abreu) declared the Resolution to be adopted.\r\n\r\nAdopted by the Council by voice-vote.\r\n",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by voice vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 77405,
       "MatterFile": "Res 0007-2026",
       "MatterName": "Incorporate a 9/11 curriculum in all New York schools. (A.8347)",
       "MatterType": "Resolution",
-      "LastModified": "2026-09-10T14:14:46.013Z"
+      "LastModified": "2026-09-11T00:32:40.54Z"
     },
     {
       "ID": 441606,
       "GUID": "AEC5EAA7-9504-4B69-88EE-23231C8E0D63",
       "Title": "Health",
       "AgendaSequence": 46,
-      "MinutesSequence": 48,
+      "MinutesSequence": 57,
       "AgendaNumber": "~coupled",
       "Version": "",
-      "LastModified": "2026-09-10T14:01:24.26Z"
+      "LastModified": "2026-09-11T00:32:40.52Z"
     },
     {
       "ID": 441607,
       "GUID": "EAF86289-A285-431F-8E72-60D800397070",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to modifying the sodium warning at designated food service establishments",
       "AgendaSequence": 47,
-      "MinutesSequence": 49,
+      "MinutesSequence": 58,
       "AgendaNumber": "~coupled",
       "Version": "C",
       "AgendaNote": "A and GO",
@@ -428,14 +914,14 @@
       "MatterFile": "Int 0196-2026",
       "MatterName": "Modifying the sodium warning at designated food service establishments.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T14:07:20.233Z"
+      "LastModified": "2026-09-11T00:32:40.52Z"
     },
     {
       "ID": 441608,
       "GUID": "16B05ED9-0E99-4710-A9E8-6ED6403FFAE8",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to amending the icon for added sugar warning labels and the amount for civil penalties, and to repeal subdivision b of section 17-199.18 in relation thereto",
       "AgendaSequence": 48,
-      "MinutesSequence": 50,
+      "MinutesSequence": 59,
       "AgendaNumber": "~coupled",
       "Version": "B",
       "AgendaNote": "A and GO",
@@ -443,24 +929,24 @@
       "MatterFile": "Int 0547-2026",
       "MatterName": "Amending the icon for added sugar warning labels and the amount for civil penalties, and to repeal subdivision b of section 17-199.18 in relation thereto.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T14:07:36.327Z"
+      "LastModified": "2026-09-11T00:32:40.52Z"
     },
     {
       "ID": 441609,
       "GUID": "0D519358-AC38-4F4E-8947-3846CACD96F4",
       "Title": "Parks and Recreation",
       "AgendaSequence": 49,
-      "MinutesSequence": 51,
+      "MinutesSequence": 60,
       "AgendaNumber": "~coupled",
       "Version": "",
-      "LastModified": "2026-09-10T14:01:24.263Z"
+      "LastModified": "2026-09-11T00:32:40.52Z"
     },
     {
       "ID": 441610,
       "GUID": "EDDC562E-CD88-4AEE-97BF-032148F948A8",
       "Title": "A Local Law in relation to the naming of 7 thoroughfares and public places, Champion’s Plaza, Borough of Manhattan, Apostle Dr. Carolyn Younger-Nolan Way, Borough of Queens, SGT. Terrance McAvoy Way, Borough of Staten Island, Leonardo A. Dilone Figueredo Way, Borough of Manhattan, Little Panama, Borough of Brooklyn, Millie Rigoli Way, Borough of Queens, Colosseum Way, Borough of Queens and the repeal of sections 12, 23, 51, 74 and 94 of local law number 125 for the year 2026 and section 5 of local law number 26 for the year 2020",
       "AgendaSequence": 50,
-      "MinutesSequence": 52,
+      "MinutesSequence": 61,
       "AgendaNumber": "~coupled",
       "Version": "*",
       "AgendaNote": "Preconsidered – GO",
@@ -468,14 +954,14 @@
       "MatterFile": "Int 1027-2026",
       "MatterName": "The naming of 7 thoroughfares and public places.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T14:07:45.993Z"
+      "LastModified": "2026-09-11T00:32:40.523Z"
     },
     {
       "ID": 441611,
       "GUID": "D4CCEAFA-0A3D-43DE-9D68-A5EEC161A5DE",
       "Title": "A Local Law in relation to the naming of 26 thoroughfares and public places, Firemen’s Memorial 9/11 Remembrance Way, Borough of Manhattan, Never Forget Way, Borough of Queens, Tribute Park Way, Borough of Queens, Tunnel to Towers 5K Run & Walk 9/11 Memorial Way, Borough of Brooklyn, St. Michael's Cemetery Queens Firefighter Memorial Way, Borough of Queens, Angels Circle, Borough of Staten Island, Monsignor Farrell H.S. 9/11 Wall of Remembrance Way, Borough of Staten Island, Poly Prep Memorial 9/11 Garden of Remembrance Way, Borough of Brooklyn, Endor Community Garden 9/11 Memorial Way, Borough of the Bronx, Lehman College 9/11 Memorial Way, Borough of the Bronx, Conselyea 9/11 Memorial Way, Borough of Brooklyn, Staten Island September 11 Postcards Memorial Way, Borough of Staten Island, Roosevelt Island 9/11 Memorial & Remembrance Tree Way, Borough of Manhattan, East Side 9/11 Remembrance Way, Borough of Manhattan, Fresh Kills 9/11 Recovery Heroes Way, Borough of Staten Island, Marine Park 9/11 Memorial Way, Borough of Brooklyn, Brooklyn 9/11 Wall of Remembrance Way, Borough of Brooklyn, September 11 Memorial Square Way, Borough of Brooklyn, Bensonhurst Seth Low Park 9/11 Memorial Way, Borough of Brooklyn, Marsh and McLennan September 11th Memorial Way, Borough of Manhattan, Squad 18 September 11th Memorial Way, Borough of Manhattan, Ladder 3 September 11th Memorial Way, Borough of Manhattan, Engine 22 / Ladder 13 September 11th Memorial Way, Borough of Manhattan, EMS Station 49 September 11th Memorial Way, Borough of Queens, Rescue 5 September 11th Memorial Way, Borough of Staten Island and 9/11 Beacon Memorial Way, Borough of Brooklyn",
       "AgendaSequence": 51,
-      "MinutesSequence": 53,
+      "MinutesSequence": 62,
       "AgendaNumber": "~coupled",
       "Version": "*",
       "AgendaNote": "Preconsidered – GO",
@@ -483,25 +969,25 @@
       "MatterFile": "Int 1020-2026",
       "MatterName": "The naming of 26 thoroughfares and public places.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T14:08:29.503Z"
+      "LastModified": "2026-09-11T00:32:40.523Z"
     },
     {
       "ID": 441612,
       "GUID": "1C5A6752-C030-44C4-A140-37CE06F7C478",
       "Title": "Sanitation and Solid Waste Management",
       "AgendaSequence": 56,
-      "MinutesSequence": 58,
+      "MinutesSequence": 67,
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "SANITATION AND SOLID WASTE MANAGEMENT",
-      "LastModified": "2026-09-10T14:08:27.757Z"
+      "LastModified": "2026-09-11T00:32:40.527Z"
     },
     {
       "ID": 441613,
       "GUID": "A6827399-EF02-4DDA-89C2-C363831F2729",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to dog waste complaints",
       "AgendaSequence": 57,
-      "MinutesSequence": 59,
+      "MinutesSequence": 68,
       "AgendaNumber": "~coupled",
       "Version": "A",
       "AgendaNote": "A and GO",
@@ -509,25 +995,25 @@
       "MatterFile": "Int 0906-2026",
       "MatterName": "Dog waste complaints.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T14:10:11.817Z"
+      "LastModified": "2026-09-11T00:32:40.53Z"
     },
     {
       "ID": 441614,
       "GUID": "7DE9171C-1D65-4F4E-81CE-72BD4FF54F60",
       "Title": "Transportation and Infrastructure",
       "AgendaSequence": 58,
-      "MinutesSequence": 60,
+      "MinutesSequence": 69,
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "TRANSPORTATION AND INFRASTRUCTURE",
-      "LastModified": "2026-09-10T14:10:24.273Z"
+      "LastModified": "2026-09-11T00:32:40.53Z"
     },
     {
       "ID": 441615,
       "GUID": "6C6DADF8-AA4C-46FE-9686-6495B5A09052",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the posting of notification signs regarding upcoming disruptive work",
       "AgendaSequence": 59,
-      "MinutesSequence": 61,
+      "MinutesSequence": 70,
       "AgendaNumber": "~coupled",
       "Version": "A",
       "AgendaNote": "A and GO",
@@ -535,25 +1021,25 @@
       "MatterFile": "Int 0866-2026",
       "MatterName": "Requiring the posting of notification signs regarding upcoming disruptive work.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T14:10:35.423Z"
+      "LastModified": "2026-09-11T00:32:40.53Z"
     },
     {
       "ID": 441616,
       "GUID": "BE003D5E-F4E7-4DC5-9876-6599929B4C97",
       "Title": "General Orders Calendar",
       "AgendaSequence": 60,
-      "MinutesSequence": 62,
+      "MinutesSequence": 71,
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "GENERAL ORDERS CALENDAR",
-      "LastModified": "2026-09-10T14:11:24.673Z"
+      "LastModified": "2026-09-11T00:32:40.53Z"
     },
     {
       "ID": 441617,
       "GUID": "2DE25E35-C19C-4308-846F-F833C391C58F",
-      "Title": "Application number C 260149 ZMK (200 Kent Avenue Rezoning) submitted by 206 Kent LLC and Kent Investor LLC, pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section No. 12c, changing from an M1-4 District to an M1-4A/R7X District and establishing a Special Mixed Use District (MX-8), Borough of Brooklyn, Community District 1, Council District 33.",
+      "Title": "Resolution approving the decision of the City Planning Commission on ULURP No. C 260149 ZMK, for a Zoning Map amendment (L.U. No. 115).",
       "AgendaSequence": 61,
-      "MinutesSequence": 63,
+      "MinutesSequence": 72,
       "AgendaNumber": "~coupled",
       "Version": "*",
       "AgendaNote": "GO",
@@ -561,14 +1047,14 @@
       "MatterFile": "Res 0641-2026",
       "MatterName": "LU 115 - Zoning, 200 Kent Avenue Rezoning, Brooklyn (C 260149 ZMK).",
       "MatterType": "Resolution",
-      "LastModified": "2026-09-10T14:10:43.827Z"
+      "LastModified": "2026-09-11T00:32:40.53Z"
     },
     {
       "ID": 441618,
       "GUID": "662714D0-7428-4374-977E-FFBC4924D822",
-      "Title": "Application number N 260150 ZRK (200 Kent Avenue Rezoning) submitted by 206 Kent LLC and Kent Investor LLC, pursuant to Section 201 of the New York City Charter, for an amendment of the Zoning Resolution of the City of New York, amending APPENDIX F for the purpose of establishing a Mandatory Inclusionary Housing Area, Borough of Brooklyn, Community District 1, Council District 33.",
+      "Title": "Resolution approving with modifications the decision of the City Planning Commission on ULURP No. N 260150 ZRK, for an amendment of the text of the Zoning Resolution (L.U. No. 116).",
       "AgendaSequence": 62,
-      "MinutesSequence": 64,
+      "MinutesSequence": 73,
       "AgendaNumber": "~coupled",
       "Version": "*",
       "AgendaNote": "GO",
@@ -576,14 +1062,14 @@
       "MatterFile": "Res 0642-2026",
       "MatterName": "LU 116 - Zoning, 200 Kent Avenue Rezoning, Brooklyn (N 260150 ZRK).",
       "MatterType": "Resolution",
-      "LastModified": "2026-09-10T14:10:46.547Z"
+      "LastModified": "2026-09-11T00:32:40.53Z"
     },
     {
       "ID": 441619,
       "GUID": "64CF2BDD-205D-4A6D-AE6F-A2FB28BBFBDC",
-      "Title": "Application number C 260147 ZMQ (47-03 108th Street Rezoning) submitted by 108 Realty Group Inc., pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section No. 10b, changing from an R6B District to an R7X District and establishing within the proposed R7X District a C2-4 District, Borough of Queens, Community District 4, Council District 21.",
+      "Title": "Resolution approving with modifications the decision of the City Planning Commission on ULURP No. C 260147 ZMQ, for a Zoning Map amendment (L.U. No. 118).",
       "AgendaSequence": 63,
-      "MinutesSequence": 65,
+      "MinutesSequence": 74,
       "AgendaNumber": "~coupled",
       "Version": "*",
       "AgendaNote": "GO",
@@ -591,14 +1077,14 @@
       "MatterFile": "Res 0643-2026",
       "MatterName": "LU 118 - Zoning, 47-03 108th Street Rezoning, Queens (C 260147 ZMQ).",
       "MatterType": "Resolution",
-      "LastModified": "2026-09-10T14:10:49.487Z"
+      "LastModified": "2026-09-11T00:32:40.533Z"
     },
     {
       "ID": 441620,
       "GUID": "C89A0EE4-F97E-41C6-99D5-94F57EF6C2B0",
-      "Title": "Application number N 260148 ZRQ (47-03 108th Street Rezoning) submitted by 108 Realty Group Inc., pursuant to Section 201 of the New York City Charter, for an amendment of the Zoning Resolution of the City of New York, amending APPENDIX F for the purpose of establishing a Mandatory Inclusionary Housing Area, Borough of Queens, Community District 4, Council District 21.",
+      "Title": "Resolution approving the decision of the City Planning Commission on ULURP No. N 260148 ZRQ, for an amendment of the text of the Zoning Resolution (L.U. No. 119).",
       "AgendaSequence": 64,
-      "MinutesSequence": 66,
+      "MinutesSequence": 75,
       "AgendaNumber": "~coupled",
       "Version": "*",
       "AgendaNote": "GO",
@@ -606,79 +1092,80 @@
       "MatterFile": "Res 0644-2026",
       "MatterName": "LU 119 - Zoning, 47-03 108th Street Rezoning, Queens (N 260148 ZRQ).",
       "MatterType": "Resolution",
-      "LastModified": "2026-09-10T14:11:02.1Z"
+      "LastModified": "2026-09-11T00:32:40.533Z"
     },
     {
       "ID": 441621,
       "GUID": "1D914860-665D-47C8-9657-8BF09210D958",
       "Title": "Introduction & Reading of Bills\r\nSee Attached",
       "AgendaSequence": 66,
-      "MinutesSequence": 68,
+      "MinutesSequence": 80,
       "AgendaNumber": "13.",
       "Version": "",
       "AgendaNote": "INTRODUCTION & READING OF BILLS (SEE BELOW)",
-      "LastModified": "2026-09-10T14:11:54Z"
+      "LastModified": "2026-09-11T00:32:40.537Z"
     },
     {
       "ID": 441622,
       "GUID": "9AAA2CA1-BCC5-49B2-8344-C87D270C1ADB",
       "Title": "Discussion of Resolutions",
       "AgendaSequence": 67,
-      "MinutesSequence": 69,
+      "MinutesSequence": 81,
       "AgendaNumber": "14.",
       "Version": "",
       "AgendaNote": "DISCUSSION OF RESOLUTIONS",
-      "LastModified": "2026-09-10T14:11:59.843Z"
+      "LastModified": "2026-09-11T00:32:40.537Z"
     },
     {
       "ID": 441623,
       "GUID": "356DFE3C-642F-458A-BF1A-A72E2ED60875",
       "Title": "Resolutions",
       "AgendaSequence": 68,
-      "MinutesSequence": 70,
+      "MinutesSequence": 82,
       "AgendaNumber": "15.",
       "Version": "",
       "AgendaNote": "RESOLUTIONS",
-      "LastModified": "2026-09-10T14:13:51.35Z"
+      "LastModified": "2026-09-11T00:32:40.537Z"
     },
     {
       "ID": 441624,
       "GUID": "A34FF866-3CE0-4D5C-82BA-ECD361AAD38C",
       "Title": "General Discussion",
       "AgendaSequence": 75,
-      "MinutesSequence": 77,
+      "MinutesSequence": 89,
       "AgendaNumber": "16.",
       "Version": "",
       "AgendaNote": "GENERAL DISCUSSION",
-      "LastModified": "2026-09-10T14:12:15.503Z"
+      "LastModified": "2026-09-11T00:32:40.543Z"
     },
     {
       "ID": 441625,
       "GUID": "68E33A7D-C718-48AB-994F-24FE2F1F9190",
       "Title": "Extension of Remarks",
       "AgendaSequence": 76,
-      "MinutesSequence": 78,
+      "MinutesSequence": 90,
       "AgendaNumber": "17.",
       "Version": "",
       "AgendaNote": "EXTENSION OF REMARKS",
-      "LastModified": "2026-09-10T14:12:24.88Z"
+      "MinutesNote": "None.",
+      "LastModified": "2026-09-11T00:32:40.543Z"
     },
     {
       "ID": 441626,
       "GUID": "80699840-DBFC-4A69-B9EE-02A97775E4BE",
       "Title": "INTRODUCTION AND READING OF BILLS\r\n\r\nPursuant to Section 33-a of the New York City Charter, the New York City Council may vote on the following items no earlier than 30 days from the date of this notice. The New York City Council reserves the right to vote without the notice required pursuant to Section 33-a on any proposed local laws that do not relate to the public safety operations of the New York City Police Department, the Fire Department or the Department of Correction.",
       "AgendaSequence": 77,
-      "MinutesSequence": 79,
+      "MinutesSequence": 91,
       "Version": "",
       "AgendaNote": "INTRODUCTION AND READING OF BILLS - Pursuant to Section 33-a of the New York City Charter, the New York City Council may vote on the following items no earlier than 30 days from the date of this notice. The New York City Council reserves the right to vote without the notice required pursuant to Section 33-a on any proposed local laws that do not relate to the public safety operations of the New York City Police Department, the Fire Department or the Department of Correction.",
-      "LastModified": "2026-09-10T14:12:32Z"
+      "LastModified": "2026-09-11T00:32:40.547Z"
     },
     {
       "ID": 441627,
       "GUID": "09E5CD73-EA65-4A30-8899-044F3B322FA2",
       "Title": "A Local Law in relation to the naming of 26 thoroughfares and public places, Firemen’s Memorial 9/11 Remembrance Way, Borough of Manhattan, Never Forget Way, Borough of Queens, Tribute Park Way, Borough of Queens, Tunnel to Towers 5K Run & Walk 9/11 Memorial Way, Borough of Brooklyn, St. Michael's Cemetery Queens Firefighter Memorial Way, Borough of Queens, Angels Circle, Borough of Staten Island, Monsignor Farrell H.S. 9/11 Wall of Remembrance Way, Borough of Staten Island, Poly Prep Memorial 9/11 Garden of Remembrance Way, Borough of Brooklyn, Endor Community Garden 9/11 Memorial Way, Borough of the Bronx, Lehman College 9/11 Memorial Way, Borough of the Bronx, Conselyea 9/11 Memorial Way, Borough of Brooklyn, Staten Island September 11 Postcards Memorial Way, Borough of Staten Island, Roosevelt Island 9/11 Memorial & Remembrance Tree Way, Borough of Manhattan, East Side 9/11 Remembrance Way, Borough of Manhattan, Fresh Kills 9/11 Recovery Heroes Way, Borough of Staten Island, Marine Park 9/11 Memorial Way, Borough of Brooklyn, Brooklyn 9/11 Wall of Remembrance Way, Borough of Brooklyn, September 11 Memorial Square Way, Borough of Brooklyn, Bensonhurst Seth Low Park 9/11 Memorial Way, Borough of Brooklyn, Marsh and McLennan September 11th Memorial Way, Borough of Manhattan, Squad 18 September 11th Memorial Way, Borough of Manhattan, Ladder 3 September 11th Memorial Way, Borough of Manhattan, Engine 22 / Ladder 13 September 11th Memorial Way, Borough of Manhattan, EMS Station 49 September 11th Memorial Way, Borough of Queens, Rescue 5 September 11th Memorial Way, Borough of Staten Island and 9/11 Beacon Memorial Way, Borough of Brooklyn",
       "AgendaSequence": 78,
-      "MinutesSequence": 80,
+      "MinutesSequence": 92,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Parks and Recreation",
@@ -689,14 +1176,14 @@
       "MatterFile": "Int 1020-2026",
       "MatterName": "The naming of 26 thoroughfares and public places.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T15:11:53.35Z"
+      "LastModified": "2026-09-11T00:32:40.547Z"
     },
     {
       "ID": 441628,
       "GUID": "0B44F8DC-2CFB-44EB-90DB-12619229E640",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing ferry service to West 125th Street",
       "AgendaSequence": 80,
-      "MinutesSequence": 82,
+      "MinutesSequence": 94,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Transportation and Infrastructure",
@@ -707,14 +1194,14 @@
       "MatterFile": "Int 1022-2026",
       "MatterName": "Establishing ferry service to West 125th Street.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T15:13:00.4Z"
+      "LastModified": "2026-09-11T00:32:40.547Z"
     },
     {
       "ID": 441629,
       "GUID": "B13AEA02-B0C3-4537-8B26-53E2D29FC171",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to safety reports and plans required of third-party food delivery services",
       "AgendaSequence": 79,
-      "MinutesSequence": 81,
+      "MinutesSequence": 93,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Consumer and Worker Protection",
@@ -725,14 +1212,14 @@
       "MatterFile": "Int 1021-2026",
       "MatterName": "Safety reports and plans required of third-party food delivery services.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T15:12:06.947Z"
+      "LastModified": "2026-09-11T00:32:40.547Z"
     },
     {
       "ID": 441630,
       "GUID": "8F943833-D5B3-49E9-BA3B-92D65DAABC82",
       "Title": "Resolution calling upon the New York State Legislature to pass and the Governor to sign S.423 and S.4449-A, which would respectively, repeal the state law requirement that the City of New York must either offer to pay for space rented by charter schools or offer charter schools space within existing public school buildings, and make the City of New York eligible for transitional aid for charter school payments",
       "AgendaSequence": 81,
-      "MinutesSequence": 83,
+      "MinutesSequence": 95,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Education",
@@ -743,14 +1230,14 @@
       "MatterFile": "Res 0617-2026",
       "MatterName": "Offer to pay for space rented by charter schools or offer charter schools space within existing public school buildings, and make the City of New York eligible for transitional aid for charter school payments. (S.423/S.4449A)",
       "MatterType": "Resolution",
-      "LastModified": "2026-09-10T15:13:15.753Z"
+      "LastModified": "2026-09-11T00:32:40.55Z"
     },
     {
       "ID": 441631,
       "GUID": "016488F7-2397-4F2A-B7AE-5ACA791B23A2",
       "Title": "Resolution calling upon the New York State Legislature to pass, and the Governor to sign, A.11513 and companion legislation in the State Senate, the “Bank of New York City Act,” which would create a framework for cities with a population of one million or more to establish a municipal public bank",
       "AgendaSequence": 82,
-      "MinutesSequence": 84,
+      "MinutesSequence": 96,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Finance",
@@ -761,14 +1248,14 @@
       "MatterFile": "Res 0618-2026",
       "MatterName": "“Bank of New York City Act” (A.11513).",
       "MatterType": "Resolution",
-      "LastModified": "2026-09-10T15:13:28.747Z"
+      "LastModified": "2026-09-11T00:32:40.55Z"
     },
     {
       "ID": 441632,
       "GUID": "B86C39A8-C9BF-4856-952D-4D0EF603D6B7",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the burden of proof required to suspend or revoke a press credential and directing the mayor’s office of media and entertainment to review its rules regarding the issuance, suspension, and revocation of press credentials",
       "AgendaSequence": 84,
-      "MinutesSequence": 86,
+      "MinutesSequence": 98,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Governmental Operations, State & Federal Legislation",
@@ -779,14 +1266,14 @@
       "MatterFile": "Int 1024-2026",
       "MatterName": "The burden of proof required to suspend or revoke a press credential and directing the mayor’s office of media and entertainment to review its rules regarding the issuance, suspension, and revocation of press credentials.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T15:14:07.903Z"
+      "LastModified": "2026-09-11T00:32:40.55Z"
     },
     {
       "ID": 441633,
       "GUID": "0AC2C423-F6E6-4BE7-B2A4-1227CBE65611",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to authorizing electronic registration of dwellings with the department of housing preservation and development",
       "AgendaSequence": 83,
-      "MinutesSequence": 85,
+      "MinutesSequence": 97,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Housing and Buildings",
@@ -797,14 +1284,14 @@
       "MatterFile": "Int 1023-2026",
       "MatterName": "Authorizing electronic registration of dwellings with the department of housing preservation and development.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T15:13:43.18Z"
+      "LastModified": "2026-09-11T00:32:40.55Z"
     },
     {
       "ID": 441634,
       "GUID": "72DCCCB2-8E2F-452D-B063-51E628553091",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to creating designated curb space for pedicabs",
       "AgendaSequence": 86,
-      "MinutesSequence": 88,
+      "MinutesSequence": 100,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Transportation and Infrastructure",
@@ -815,14 +1302,14 @@
       "MatterFile": "Int 1026-2026",
       "MatterName": "Creating designated curb space for pedicabs.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T15:14:42.523Z"
+      "LastModified": "2026-09-11T00:32:40.55Z"
     },
     {
       "ID": 441635,
       "GUID": "FFDCDF1A-CCDC-4998-8A56-08BB53866139",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the use of time-delays and scanning technologies for encrypted police radio communications",
       "AgendaSequence": 85,
-      "MinutesSequence": 87,
+      "MinutesSequence": 99,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Public Safety",
@@ -833,14 +1320,14 @@
       "MatterFile": "Int 1025-2026",
       "MatterName": "The use of time-delays and scanning technologies for encrypted police radio communications.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T15:14:22.007Z"
+      "LastModified": "2026-09-11T00:32:40.55Z"
     },
     {
       "ID": 441636,
       "GUID": "1317FC2D-6E6E-496A-BFAD-6D2EC286FCCF",
       "Title": "A Local Law in relation to the naming of 7 thoroughfares and public places, Champion’s Plaza, Borough of Manhattan, Apostle Dr. Carolyn Younger-Nolan Way, Borough of Queens, SGT. Terrance McAvoy Way, Borough of Staten Island, Leonardo A. Dilone Figueredo Way, Borough of Manhattan, Little Panama, Borough of Brooklyn, Millie Rigoli Way, Borough of Queens, Colosseum Way, Borough of Queens and the repeal of sections 12, 23, 51, 74 and 94 of local law number 125 for the year 2026 and section 5 of local law number 26 for the year 2020",
       "AgendaSequence": 87,
-      "MinutesSequence": 89,
+      "MinutesSequence": 101,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Parks and Recreation",
@@ -851,14 +1338,14 @@
       "MatterFile": "Int 1027-2026",
       "MatterName": "The naming of 7 thoroughfares and public places.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T15:14:57.05Z"
+      "LastModified": "2026-09-11T00:32:40.55Z"
     },
     {
       "ID": 441637,
       "GUID": "9FFF76E1-F2DC-4635-BE4C-61DC0B08AA01",
       "Title": "Resolution calling on the New York State Legislature and Governor to amend the New York City Public Works Investment Act to lower the monetary threshold to utilize design-build in construction projects.",
       "AgendaSequence": 88,
-      "MinutesSequence": 90,
+      "MinutesSequence": 102,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Contracts",
@@ -869,14 +1356,14 @@
       "MatterFile": "Res 0619-2026",
       "MatterName": "Amend the New York City Public Works Investment Act.",
       "MatterType": "Resolution",
-      "LastModified": "2026-09-10T15:15:11.573Z"
+      "LastModified": "2026-09-11T00:32:40.553Z"
     },
     {
       "ID": 441638,
       "GUID": "4C797C2B-4E1B-4DCA-BC2E-0143CC6990C2",
       "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, S.6318A/A.6490B, requiring instruction in arts and music education to be incorporated into curriculums for all public-school students",
       "AgendaSequence": 90,
-      "MinutesSequence": 92,
+      "MinutesSequence": 104,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Education",
@@ -887,14 +1374,14 @@
       "MatterFile": "Res 0621-2026",
       "MatterName": "Instruction in arts and music education to be incorporated into curriculums for all public-school students (S.6318A/A.6490B).",
       "MatterType": "Resolution",
-      "LastModified": "2026-09-10T15:15:31.983Z"
+      "LastModified": "2026-09-11T00:32:40.553Z"
     },
     {
       "ID": 441639,
       "GUID": "AE4CA848-9C0B-4BC2-A7BF-54145B07A7AA",
       "Title": "Resolution calling on the New York City Department of Education to ensure that the New York State Seal of Civic Readiness is awarded in all New York City public high schools to eligible students",
       "AgendaSequence": 89,
-      "MinutesSequence": 91,
+      "MinutesSequence": 103,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Education",
@@ -905,14 +1392,14 @@
       "MatterFile": "Res 0620-2026",
       "MatterName": "DOE to ensure that the New York State Seal of Civic Readiness is awarded in all New York City public high schools to eligible students.",
       "MatterType": "Resolution",
-      "LastModified": "2026-09-10T15:15:22.493Z"
+      "LastModified": "2026-09-11T00:32:40.553Z"
     },
     {
       "ID": 441640,
       "GUID": "F9C54B2A-D420-448E-A586-34BA66B4F753",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to streamlining Truth-in-Pricing requirements and repealing section 20-708.1 of such code, relating to item pricing",
       "AgendaSequence": 91,
-      "MinutesSequence": 93,
+      "MinutesSequence": 105,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Consumer and Worker Protection",
@@ -923,14 +1410,14 @@
       "MatterFile": "Int 1028-2026",
       "MatterName": "Streamlining Truth-in-Pricing requirements and repealing section 20-708.1 of such code, relating to item pricing.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T15:15:44.81Z"
+      "LastModified": "2026-09-11T00:32:40.553Z"
     },
     {
       "ID": 441641,
       "GUID": "D14D95E1-3F9B-4D8B-8362-B220944B34F2",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing low-cost veterinary clinics",
       "AgendaSequence": 92,
-      "MinutesSequence": 94,
+      "MinutesSequence": 106,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Health",
@@ -941,14 +1428,14 @@
       "MatterFile": "Int 1029-2026",
       "MatterName": "Establishing low-cost veterinary clinics.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T15:16:09.153Z"
+      "LastModified": "2026-09-11T00:32:40.553Z"
     },
     {
       "ID": 441642,
       "GUID": "19630867-8CB8-42C2-9E1F-25B16307EF2E",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the declaration of a public nuisance by the department of housing preservation and development in connection with lead hazards",
       "AgendaSequence": 93,
-      "MinutesSequence": 95,
+      "MinutesSequence": 107,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Housing and Buildings",
@@ -959,14 +1446,14 @@
       "MatterFile": "Int 1030-2026",
       "MatterName": "The declaration of a public nuisance by the department of housing preservation and development in connection with lead hazards.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T15:22:18.767Z"
+      "LastModified": "2026-09-11T00:32:40.557Z"
     },
     {
       "ID": 441643,
       "GUID": "4A19B118-AF86-436D-B3ED-1F28EE060AA9",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of parks and recreation to install and fill dog waste bag dispensers at dog runs",
       "AgendaSequence": 94,
-      "MinutesSequence": 96,
+      "MinutesSequence": 108,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Parks and Recreation",
@@ -977,14 +1464,14 @@
       "MatterFile": "Int 1031-2026",
       "MatterName": "Requiring the department of parks and recreation to install and fill dog waste bag dispensers at dog runs.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T15:22:34.047Z"
+      "LastModified": "2026-09-11T00:32:40.557Z"
     },
     {
       "ID": 441644,
       "GUID": "0387C253-EE87-4755-A699-9457B945ADA4",
       "Title": "A Local Law in relation to ferry service to City Island",
       "AgendaSequence": 95,
-      "MinutesSequence": 97,
+      "MinutesSequence": 109,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Transportation and Infrastructure",
@@ -995,14 +1482,14 @@
       "MatterFile": "Int 1032-2026",
       "MatterName": "Ferry service to City Island.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T15:22:46.3Z"
+      "LastModified": "2026-09-11T00:32:40.557Z"
     },
     {
       "ID": 441645,
       "GUID": "50EA363E-8C10-41C1-B0A9-50D58B8CB9B8",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of housing preservation and development to provide notice to council members of residential buildings that have failed to file registration statements",
       "AgendaSequence": 97,
-      "MinutesSequence": 99,
+      "MinutesSequence": 111,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Housing and Buildings",
@@ -1013,32 +1500,32 @@
       "MatterFile": "Int 1034-2026",
       "MatterName": "Requiring the department of HPD to provide notice to council members of residential buildings that have failed to file registration statements.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T15:23:12.04Z"
+      "LastModified": "2026-09-11T00:32:40.557Z"
     },
     {
       "ID": 441646,
       "GUID": "1A5CACA4-F541-472A-B79A-FDA0C676110F",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the relocation of motor vehicles due to temporary parking restrictions",
       "AgendaSequence": 99,
-      "MinutesSequence": 101,
+      "MinutesSequence": 113,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Transportation and Infrastructure",
       "ActionID": 43,
       "ActionName": "Referred to Comm by Council",
-      "ActionText": "This Introduction was Referred to Comm by Council to the Committee on Consumer and Worker Protection",
+      "ActionText": "This Introduction was Referred to Comm by Council to the Committee on Committee on Transportation and Infrastructure",
       "MatterID": 79237,
       "MatterFile": "Int 1036-2026",
       "MatterName": "The relocation of motor vehicles due to temporary parking restrictions.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T15:23:41.293Z"
+      "LastModified": "2026-09-11T00:32:40.56Z"
     },
     {
       "ID": 441647,
       "GUID": "B44B7861-8E31-476B-91C4-10F890BD344B",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing an exemption from enforcement of certain residential sanitation violations",
       "AgendaSequence": 98,
-      "MinutesSequence": 100,
+      "MinutesSequence": 112,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Sanitation and Solid Waste Management",
@@ -1049,14 +1536,14 @@
       "MatterFile": "Int 1035-2026",
       "MatterName": "Establishing an exemption from enforcement of certain residential sanitation violations.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T15:23:24.68Z"
+      "LastModified": "2026-09-11T00:32:40.56Z"
     },
     {
       "ID": 441648,
       "GUID": "99675448-ECA5-48DE-935D-6EA806FF9A77",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to making certain informational requirements for notices concerning rent increase exemption programs discretionary",
       "AgendaSequence": 96,
-      "MinutesSequence": 98,
+      "MinutesSequence": 110,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Finance",
@@ -1067,14 +1554,14 @@
       "MatterFile": "Int 1033-2026",
       "MatterName": "Making certain informational requirements for notices concerning rent increase exemption programs discretionary.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T15:22:56.75Z"
+      "LastModified": "2026-09-11T00:32:40.557Z"
     },
     {
       "ID": 441649,
       "GUID": "B431913E-A991-498F-93CD-A02146BD0DC9",
       "Title": "Resolution calling upon the New York State Legislature to pass, and the Governor to sign  S.5781/A.6270, legislation requiring covered municipalities in New York State to adopt a residential automated solar permitting platform",
       "AgendaSequence": 100,
-      "MinutesSequence": 102,
+      "MinutesSequence": 114,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Environmental Protection and Waterfronts",
@@ -1085,14 +1572,14 @@
       "MatterFile": "Res 0622-2026",
       "MatterName": "Requiring covered municipalities in New York State to adopt a residential automated solar permitting platform  (S.5781/A.6270).",
       "MatterType": "Resolution",
-      "LastModified": "2026-09-10T15:24:09.327Z"
+      "LastModified": "2026-09-11T00:32:40.56Z"
     },
     {
       "ID": 441650,
       "GUID": "85A09294-FCD7-44E2-871C-23CBC6F10E6D",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to public bathroom access for delivery workers",
       "AgendaSequence": 101,
-      "MinutesSequence": 103,
+      "MinutesSequence": 115,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Consumer and Worker Protection",
@@ -1103,14 +1590,14 @@
       "MatterFile": "Int 1037-2026",
       "MatterName": "Public bathroom access for delivery workers.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T15:24:22.05Z"
+      "LastModified": "2026-09-11T00:32:40.563Z"
     },
     {
       "ID": 441651,
       "GUID": "92EFEE3D-8A48-4FA2-97A4-E49EE043049F",
       "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, S.3357/A.1582, to prohibit health care providers from performing procedures resulting in sterilization without the informed consent of the person being sterilized",
       "AgendaSequence": 102,
-      "MinutesSequence": 104,
+      "MinutesSequence": 116,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Disabilities",
@@ -1121,14 +1608,14 @@
       "MatterFile": "Res 0623-2026",
       "MatterName": "Prohibit health care providers from performing procedures resulting in sterilization without the informed consent of the person being sterilized (S.3357/A.1582).",
       "MatterType": "Resolution",
-      "LastModified": "2026-09-10T15:24:40.6Z"
+      "LastModified": "2026-09-11T00:32:40.563Z"
     },
     {
       "ID": 441653,
       "GUID": "6D35F1EE-D104-4D7C-AD96-390F35F3BC74",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the enforcement of tax liens on community infrastructure properties",
       "AgendaSequence": 103,
-      "MinutesSequence": 105,
+      "MinutesSequence": 117,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Finance",
@@ -1139,14 +1626,14 @@
       "MatterFile": "Int 1038-2026",
       "MatterName": "Enforcement of tax liens on community infrastructure properties",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T15:24:55.993Z"
+      "LastModified": "2026-09-11T00:32:40.563Z"
     },
     {
       "ID": 441654,
       "GUID": "6C35BC45-5808-4920-A069-66AB8D5BE99D",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to stop work order inspections of worksites with major renovations",
       "AgendaSequence": 104,
-      "MinutesSequence": 106,
+      "MinutesSequence": 118,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Housing and Buildings",
@@ -1157,14 +1644,14 @@
       "MatterFile": "Int 1039-2026",
       "MatterName": "Stop work order inspections of worksites with major renovations.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T15:25:07.063Z"
+      "LastModified": "2026-09-11T00:32:40.563Z"
     },
     {
       "ID": 441655,
       "GUID": "F0D607C4-0020-4244-AFEF-A8408C554567",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the publication and visualization of snow plowing operations data",
       "AgendaSequence": 107,
-      "MinutesSequence": 109,
+      "MinutesSequence": 121,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Sanitation and Solid Waste Management",
@@ -1175,14 +1662,14 @@
       "MatterFile": "Int 1042-2026",
       "MatterName": "Publication and visualization of snow plowing operations data.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T15:28:47.053Z"
+      "LastModified": "2026-09-11T00:32:40.567Z"
     },
     {
       "ID": 441656,
       "GUID": "DDCD49EA-2BF8-44A9-BB4B-8CCDCAC21BDC",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to illuminating pathways under elevated structures",
       "AgendaSequence": 108,
-      "MinutesSequence": 110,
+      "MinutesSequence": 122,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Transportation and Infrastructure",
@@ -1193,32 +1680,32 @@
       "MatterFile": "Int 1043-2026",
       "MatterName": "Illuminating pathways under elevated structures.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T15:29:07.023Z"
+      "LastModified": "2026-09-11T00:32:40.567Z"
     },
     {
       "ID": 441657,
       "GUID": "59D1357C-7133-4FFF-83B6-AA902228D610",
       "Title": "A Local Law to amend the administrative code of the city of New York in relation to an assessment of staff capacity and contract services related to the department of parks and recreation",
       "AgendaSequence": 105,
-      "MinutesSequence": 107,
+      "MinutesSequence": 119,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Parks and Recreation",
       "ActionID": 43,
       "ActionName": "Referred to Comm by Council",
-      "ActionText": "This Introduction was Referred to Comm by Council to the Press Conference",
+      "ActionText": "This Introduction was Referred to Comm by Council to the Committee on Parks and Recreation",
       "MatterID": 79192,
       "MatterFile": "Int 1040-2026",
       "MatterName": "Assessment of staff capacity and contract services related to the department of parks and recreation.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T15:28:03.933Z"
+      "LastModified": "2026-09-11T00:32:40.567Z"
     },
     {
       "ID": 441658,
       "GUID": "3B0894EB-5989-4018-97D0-70E38C7F64D4",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requirements for the removal of public litter baskets by the department of sanitation",
       "AgendaSequence": 106,
-      "MinutesSequence": 108,
+      "MinutesSequence": 120,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Sanitation and Solid Waste Management",
@@ -1229,14 +1716,14 @@
       "MatterFile": "Int 1041-2026",
       "MatterName": "Requirements for the removal of public litter baskets by the department of sanitation.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T15:28:28.31Z"
+      "LastModified": "2026-09-11T00:32:40.567Z"
     },
     {
       "ID": 441661,
       "GUID": "338563F9-017C-4105-9071-119C42CDC639",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring alternative invoicing methods during invoicing disruptions",
       "AgendaSequence": 110,
-      "MinutesSequence": 112,
+      "MinutesSequence": 124,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Contracts",
@@ -1247,14 +1734,14 @@
       "MatterFile": "Int 1045-2026",
       "MatterName": "Requiring alternative invoicing methods during invoicing disruptions.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T15:29:31.707Z"
+      "LastModified": "2026-09-11T00:32:40.57Z"
     },
     {
       "ID": 441662,
       "GUID": "86FF8F05-0B86-4F00-A83E-7E399F943701",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing budget-readiness and invoiceability standards for human services contracts",
       "AgendaSequence": 112,
-      "MinutesSequence": 114,
+      "MinutesSequence": 126,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Contracts",
@@ -1265,14 +1752,14 @@
       "MatterFile": "Int 1047-2026",
       "MatterName": "Establishing budget-readiness and invoiceability standards for human services contracts.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T15:30:01.767Z"
+      "LastModified": "2026-09-11T00:32:40.57Z"
     },
     {
       "ID": 441663,
       "GUID": "01278D89-9416-4332-8D29-E0CCF6606BDB",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to interest to be paid on late contract payments to non-profit contractors",
       "AgendaSequence": 111,
-      "MinutesSequence": 113,
+      "MinutesSequence": 125,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Contracts",
@@ -1283,14 +1770,14 @@
       "MatterFile": "Int 1046-2026",
       "MatterName": "Interest to be paid on late contract payments to non-profit contractors.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T15:29:47.277Z"
+      "LastModified": "2026-09-11T00:32:40.57Z"
     },
     {
       "ID": 441665,
       "GUID": "32BD0ADD-1D1E-4DCA-92DD-F1CBC484C8B8",
       "Title": "Resolution designating October 17 annually as Wyclef Jean Day in the City of New York to honor his musical and philanthropic contributions as a globally recognized artist and proud son of Haiti whose impact resonates deeply in New York City and beyond",
       "AgendaSequence": 113,
-      "MinutesSequence": 115,
+      "MinutesSequence": 127,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Cultural Affairs, Libraries and International Relations",
@@ -1301,14 +1788,14 @@
       "MatterFile": "Res 0624-2026",
       "MatterName": "Designating October 17 annually as Wyclef Jean Day.",
       "MatterType": "Resolution",
-      "LastModified": "2026-09-10T15:59:13.74Z"
+      "LastModified": "2026-09-11T00:32:40.57Z"
     },
     {
       "ID": 441666,
       "GUID": "91A58DFB-1C93-45BE-B31B-CA9690467501",
       "Title": "Resolution calling upon the United States Senate to pass, and the President to sign, S.4814, to require the Secretary of Homeland Security to designate Haiti for Temporary Protected Status",
       "AgendaSequence": 115,
-      "MinutesSequence": 117,
+      "MinutesSequence": 129,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Immigration",
@@ -1319,14 +1806,14 @@
       "MatterFile": "Res 0626-2026",
       "MatterName": "Require the Secretary of Homeland Security to designate Haiti for Temporary Protected Status ( S.4814).",
       "MatterType": "Resolution",
-      "LastModified": "2026-09-10T15:59:38.407Z"
+      "LastModified": "2026-09-11T00:32:40.57Z"
     },
     {
       "ID": 441668,
       "GUID": "3648F82C-6270-46E8-87A6-50AA70A56A6C",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring mental health service providers to disclose the use of artificial intelligence systems",
       "AgendaSequence": 116,
-      "MinutesSequence": 118,
+      "MinutesSequence": 130,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Mental Health and Substance Use",
@@ -1337,14 +1824,14 @@
       "MatterFile": "Int 1048-2026",
       "MatterName": "Requiring mental health service providers to disclose the use of artificial intelligence systems.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T15:59:52.46Z"
+      "LastModified": "2026-09-11T00:32:40.57Z"
     },
     {
       "ID": 441669,
       "GUID": "B3C1E679-9D69-4E36-A151-4FA7BED34147",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring outreach, surveys, and reporting related to the effects of chatbot use on mental health",
       "AgendaSequence": 117,
-      "MinutesSequence": 119,
+      "MinutesSequence": 131,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Mental Health and Substance Use",
@@ -1355,14 +1842,14 @@
       "MatterFile": "Int 1049-2026",
       "MatterName": "Requiring outreach, surveys, and reporting related to the effects of chatbot use on mental health.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T16:00:06.05Z"
+      "LastModified": "2026-09-11T00:32:40.573Z"
     },
     {
       "ID": 441670,
       "GUID": "BDC6A340-C104-4357-94F5-1F44C1B231D4",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to traffic congestion near freight terminals",
       "AgendaSequence": 118,
-      "MinutesSequence": 120,
+      "MinutesSequence": 132,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Transportation and Infrastructure",
@@ -1373,14 +1860,14 @@
       "MatterFile": "Int 1050-2026",
       "MatterName": "Traffic congestion near freight terminals.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T16:00:22.647Z"
+      "LastModified": "2026-09-11T00:32:40.573Z"
     },
     {
       "ID": 441671,
       "GUID": "CA5D4B2C-008A-48B7-9D44-53DDC5DCFF95",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the alternative exemption for seriously disabled veterans",
       "AgendaSequence": 119,
-      "MinutesSequence": 121,
+      "MinutesSequence": 133,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Veterans",
@@ -1391,14 +1878,14 @@
       "MatterFile": "Int 1051-2026",
       "MatterName": "Alternative exemption for seriously disabled veterans.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T16:00:43.143Z"
+      "LastModified": "2026-09-11T00:32:40.573Z"
     },
     {
       "ID": 441672,
       "GUID": "403C7508-DCD8-450C-BE80-83DBAE35423D",
       "Title": "Resolution recognizing the immeasurable civic value and contributions of 501(c)(19) veterans’ organizations, encouraging New Yorkers to learn about and support these organizations, and designating the week that includes November 11, Veterans Day, annually as Veterans’ Organizations Awareness Week",
       "AgendaSequence": 127,
-      "MinutesSequence": 129,
+      "MinutesSequence": 141,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Veterans",
@@ -1409,14 +1896,14 @@
       "MatterFile": "Res 0634-2026",
       "MatterName": "Recognizing the immeasurable civic value and contributions of 501(c)(19) veterans’ organizations and designating the week that includes November 11, Veterans Day, annually as Veterans’ Organizations Awareness Week.",
       "MatterType": "Resolution",
-      "LastModified": "2026-09-10T16:16:18.953Z"
+      "LastModified": "2026-09-11T00:32:40.58Z"
     },
     {
       "ID": 441673,
       "GUID": "55780CAB-9ED5-44F7-9176-E48D6640D041",
       "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, S.4868 and a companion bill in the Assembly, which would require the Office for People with Developmental Disabilities (OPWDD) to develop and maintain a community residence opportunities waitlist, and further calling for increased OPWDD funding to expand residential capacity with priority for individuals with severe and profound developmental disabilities",
       "AgendaSequence": 120,
-      "MinutesSequence": 122,
+      "MinutesSequence": 134,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Disabilities",
@@ -1427,14 +1914,14 @@
       "MatterFile": "Res 0627-2026",
       "MatterName": "Require the OPWDD to develop a community residence opportunities waitlist, and further calling for increased OPWDD funding to expand residential capacity with priority for individuals with severe and profound developmental disabilities (S.4868).",
       "MatterType": "Resolution",
-      "LastModified": "2026-09-10T16:01:07.943Z"
+      "LastModified": "2026-09-11T00:32:40.573Z"
     },
     {
       "ID": 441674,
       "GUID": "EEADC1C1-1A68-498D-82D4-6D3ECF672E91",
       "Title": "Resolution calling upon the New York State Governor to sign S.2071-A/A.6084-A, which would require the New York State Department of Labor to maintain a list of available careers and job openings for veterans in New York State",
       "AgendaSequence": 128,
-      "MinutesSequence": 130,
+      "MinutesSequence": 142,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Veterans",
@@ -1445,14 +1932,14 @@
       "MatterFile": "Res 0635-2026",
       "MatterName": "Require the New York State Department of Labor to maintain a list of available careers and job openings for veterans in New York State. (S.2071-A/A.6084-A)",
       "MatterType": "Resolution",
-      "LastModified": "2026-09-10T16:16:32.23Z"
+      "LastModified": "2026-09-11T00:32:40.58Z"
     },
     {
       "ID": 441675,
       "GUID": "C8A66B46-5825-4219-A814-723E98238343",
       "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign S.4529/A.164, to establish a statewide Military Pro Bono Program that would provide critical legal assistance to Military families",
       "AgendaSequence": 126,
-      "MinutesSequence": 128,
+      "MinutesSequence": 140,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Veterans",
@@ -1463,14 +1950,14 @@
       "MatterFile": "Res 0633-2026",
       "MatterName": "Establish a statewide Military Pro Bono Program that would provide critical legal assistance to Military families (S.4529/A.164).",
       "MatterType": "Resolution",
-      "LastModified": "2026-09-10T16:16:05.97Z"
+      "LastModified": "2026-09-11T00:32:40.58Z"
     },
     {
       "ID": 441676,
       "GUID": "EBDB96CA-2C5A-4828-86BD-5F668238BB38",
       "Title": "Resolution recognizing the month of October annually as Mastocytosis and Mast Cell Diseases Awareness Month in the City of New York",
       "AgendaSequence": 123,
-      "MinutesSequence": 125,
+      "MinutesSequence": 137,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Health",
@@ -1481,14 +1968,14 @@
       "MatterFile": "Res 0630-2026",
       "MatterName": "Recognizing the month of October annually as Mastocytosis and Mast Cell Diseases Awareness Month.",
       "MatterType": "Resolution",
-      "LastModified": "2026-09-10T16:01:41.213Z"
+      "LastModified": "2026-09-11T00:32:40.577Z"
     },
     {
       "ID": 441677,
       "GUID": "1CDD26A5-277F-43A9-BF4C-B098F90421E5",
       "Title": "Resolution calling upon United States Congress and the President to establish of a National School Safety Task Force charged with developing actionable recommendations to promote secure access systems, sufficient safety staffing, comprehensive stakeholder training, and formal protections for school leaders",
       "AgendaSequence": 122,
-      "MinutesSequence": 124,
+      "MinutesSequence": 136,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Education",
@@ -1499,14 +1986,14 @@
       "MatterFile": "Res 0629-2026",
       "MatterName": "A National School Safety Task Force.",
       "MatterType": "Resolution",
-      "LastModified": "2026-09-10T16:01:31.593Z"
+      "LastModified": "2026-09-11T00:32:40.577Z"
     },
     {
       "ID": 441678,
       "GUID": "7364AE52-9677-4445-B15D-EEFD001B9CA5",
       "Title": "Resolution declaring the last day in February as Rare Disease Day in New York City.",
       "AgendaSequence": 124,
-      "MinutesSequence": 126,
+      "MinutesSequence": 138,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Health",
@@ -1517,14 +2004,14 @@
       "MatterFile": "Res 0631-2026",
       "MatterName": "Declaring the last day in February as Rare Disease Day.",
       "MatterType": "Resolution",
-      "LastModified": "2026-09-10T16:01:53.8Z"
+      "LastModified": "2026-09-11T00:32:40.58Z"
     },
     {
       "ID": 441679,
       "GUID": "4B2E5B3C-6155-414B-8359-7F44070B6EB1",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to reporting data about micromobility device crashes",
       "AgendaSequence": 129,
-      "MinutesSequence": 131,
+      "MinutesSequence": 143,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Public Safety",
@@ -1535,14 +2022,14 @@
       "MatterFile": "Int 1052-2026",
       "MatterName": "Reporting data about micromobility device crashes.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T16:16:46.3Z"
+      "LastModified": "2026-09-11T00:32:40.583Z"
     },
     {
       "ID": 441680,
       "GUID": "BCA6B63F-5AD7-4F72-834A-E76A54A0FF72",
       "Title": "Resolution calling on the New York State Legislature to introduce and pass, and the Governor to sign, legislation to prohibit the provision of state funds and tax benefits to any entity that engages in animal testing, the breeding of animals for the purposes of animal testing, or the transportation of animals for the purposes of animal testing",
       "AgendaSequence": 130,
-      "MinutesSequence": 132,
+      "MinutesSequence": 144,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Health",
@@ -1553,14 +2040,14 @@
       "MatterFile": "Res 0636-2026",
       "MatterName": "Prohibit the provision of state funds and tax benefits to any entity that engages in animal testing, the breeding of animals for the purposes of animal testing, or the transportation of animals for the purposes of animal testing.",
       "MatterType": "Resolution",
-      "LastModified": "2026-09-10T16:16:57.36Z"
+      "LastModified": "2026-09-11T00:32:40.583Z"
     },
     {
       "ID": 441681,
       "GUID": "76D631E0-1D97-4E37-9BE2-F94F5C30D995",
       "Title": "A Local Law in relation to the development of model procurement staffing plans for human services agencies and a report on feedback from human services agencies about such plans",
       "AgendaSequence": 131,
-      "MinutesSequence": 133,
+      "MinutesSequence": 145,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Contracts",
@@ -1571,14 +2058,14 @@
       "MatterFile": "Int 1053-2026",
       "MatterName": "Development of model procurement staffing plans for human services agencies and a report on feedback from human services agencies about such plans.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T16:17:09.32Z"
+      "LastModified": "2026-09-11T00:32:40.583Z"
     },
     {
       "ID": 441682,
       "GUID": "FD9E5CB8-58DC-4D46-96C6-BABD83684877",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring that officers fasten the safety belts of individuals in their custody during transportation",
       "AgendaSequence": 132,
-      "MinutesSequence": 134,
+      "MinutesSequence": 146,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Criminal Justice",
@@ -1589,14 +2076,14 @@
       "MatterFile": "Int 1054-2026",
       "MatterName": "Requiring that officers fasten the safety belts of individuals in their custody during transportation.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T16:17:30.68Z"
+      "LastModified": "2026-09-11T00:32:40.583Z"
     },
     {
       "ID": 441683,
       "GUID": "3FC57F96-E345-4BBE-8D50-BA39A706B5C2",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to parking permits for funeral directors",
       "AgendaSequence": 134,
-      "MinutesSequence": 136,
+      "MinutesSequence": 148,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Transportation and Infrastructure",
@@ -1607,14 +2094,14 @@
       "MatterFile": "Int 1056-2026",
       "MatterName": "Parking permits for funeral directors.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T16:20:47.7Z"
+      "LastModified": "2026-09-11T00:32:40.587Z"
     },
     {
       "ID": 441684,
       "GUID": "D9A8F8A5-BF1C-4796-8888-EEEF5B5EADE6",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring inspection and testing of public drinking fountains and establishing an online map of public drinking fountains",
       "AgendaSequence": 133,
-      "MinutesSequence": 135,
+      "MinutesSequence": 147,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Parks and Recreation",
@@ -1625,14 +2112,14 @@
       "MatterFile": "Int 1055-2026",
       "MatterName": "Requiring inspection and testing of public drinking fountains and establishing an online map of public drinking fountains.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T16:17:45.717Z"
+      "LastModified": "2026-09-11T00:32:40.587Z"
     },
     {
       "ID": 441685,
       "GUID": "21146F62-C41A-44AA-9656-A5FC876A807F",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of health and mental hygiene to provide license and permit expiration notifications electronically",
       "AgendaSequence": 135,
-      "MinutesSequence": 137,
+      "MinutesSequence": 149,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Health",
@@ -1643,14 +2130,14 @@
       "MatterFile": "Int 1057-2026",
       "MatterName": "Requiring the department of health and mental hygiene to provide license and permit expiration notifications electronically.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T16:21:00.813Z"
+      "LastModified": "2026-09-11T00:32:40.587Z"
     },
     {
       "ID": 441686,
       "GUID": "70F1545D-5B23-4523-B9FC-5061156C8EB7",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the installation of porous pavement as part of street reconstruction projects, and to repeal and replace section 19-155 of such code, relating to a study on permeable roadway and sidewalk materials",
       "AgendaSequence": 137,
-      "MinutesSequence": 139,
+      "MinutesSequence": 151,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Transportation and Infrastructure",
@@ -1661,14 +2148,14 @@
       "MatterFile": "Int 1059-2026",
       "MatterName": "Installation of porous pavement as part of street reconstruction projects.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T16:24:09.58Z"
+      "LastModified": "2026-09-11T00:32:40.587Z"
     },
     {
       "ID": 441687,
       "GUID": "D6E3E280-8558-49A0-84AC-D6E0B46D3008",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to attorneys’ fees provisions in commercial leases",
       "AgendaSequence": 136,
-      "MinutesSequence": 138,
+      "MinutesSequence": 150,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Small Business",
@@ -1679,14 +2166,14 @@
       "MatterFile": "Int 1058-2026",
       "MatterName": "Attorneys’ fees provisions in commercial leases.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T16:21:14.1Z"
+      "LastModified": "2026-09-11T00:32:40.587Z"
     },
     {
       "ID": 441688,
       "GUID": "611D9B46-0AF5-4AFD-A4A4-04DD57EF7768",
       "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, legislation requiring insurers to cover all lactation consultation and counseling services without restrictions and reimburse providers accordingly",
       "AgendaSequence": 138,
-      "MinutesSequence": 140,
+      "MinutesSequence": 152,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Women and Gender Equity",
@@ -1697,14 +2184,14 @@
       "MatterFile": "Res 0637-2026",
       "MatterName": "Requiring insurers to cover all lactation consultation and counseling services without restrictions and reimburse providers accordingly.",
       "MatterType": "Resolution",
-      "LastModified": "2026-09-10T16:24:28.393Z"
+      "LastModified": "2026-09-11T00:32:40.59Z"
     },
     {
       "ID": 441689,
       "GUID": "FA1A5A8C-63F7-4CDF-9DE4-07E5A68133EE",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to adding a 311 service request category for conditions of incarceration or confinement",
       "AgendaSequence": 139,
-      "MinutesSequence": 141,
+      "MinutesSequence": 153,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Criminal Justice",
@@ -1715,14 +2202,14 @@
       "MatterFile": "Int 1060-2026",
       "MatterName": "Adding a 311 service request category for conditions of incarceration or confinement.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T16:25:11.39Z"
+      "LastModified": "2026-09-11T00:32:40.59Z"
     },
     {
       "ID": 441690,
       "GUID": "31B180A2-9F35-4C48-BE8E-825E836F6418",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to allowing customers to select a plaza as the location of a 311 complaint",
       "AgendaSequence": 140,
-      "MinutesSequence": 142,
+      "MinutesSequence": 154,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Technology",
@@ -1733,14 +2220,14 @@
       "MatterFile": "Int 1061-2026",
       "MatterName": "Allowing customers to select a plaza as the location of a 311 complaint.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T16:25:24.363Z"
+      "LastModified": "2026-09-11T00:32:40.59Z"
     },
     {
       "ID": 441695,
       "GUID": "CD84D8E6-A12D-4770-ADFE-DA759E53E554",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to timeframes for agency approvals and change orders on small capital projects",
       "AgendaSequence": 143,
-      "MinutesSequence": 145,
+      "MinutesSequence": 157,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Contracts",
@@ -1751,14 +2238,14 @@
       "MatterFile": "Int 1064-2026",
       "MatterName": "Timeframes for agency approvals and change orders on small capital projects.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T16:26:00.983Z"
+      "LastModified": "2026-09-11T00:32:40.59Z"
     },
     {
       "ID": 441696,
       "GUID": "0A2B20F6-788E-4D02-863B-739B82353413",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring cost benchmarks for small recurring capital projects",
       "AgendaSequence": 144,
-      "MinutesSequence": 146,
+      "MinutesSequence": 158,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Contracts",
@@ -1769,14 +2256,14 @@
       "MatterFile": "Int 1065-2026",
       "MatterName": "Requiring cost benchmarks for small recurring capital projects.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T16:26:11.013Z"
+      "LastModified": "2026-09-11T00:32:40.593Z"
     },
     {
       "ID": 441697,
       "GUID": "9D9FCEFB-9FF4-4805-939F-5E6429534A32",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to pedicabs with electric assist",
       "AgendaSequence": 142,
-      "MinutesSequence": 144,
+      "MinutesSequence": 156,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Consumer and Worker Protection",
@@ -1787,14 +2274,14 @@
       "MatterFile": "Int 1063-2026",
       "MatterName": "Pedicabs with electric assist.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T16:25:47.653Z"
+      "LastModified": "2026-09-11T00:32:40.59Z"
     },
     {
       "ID": 441698,
       "GUID": "A53587D3-34DE-49BD-AF5D-D3F06D4D40E6",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the installation of traffic calming devices in bicycle lanes",
       "AgendaSequence": 145,
-      "MinutesSequence": 147,
+      "MinutesSequence": 159,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Transportation and Infrastructure",
@@ -1805,14 +2292,14 @@
       "MatterFile": "Int 1066-2026",
       "MatterName": "Installation of traffic calming devices in bicycle lanes.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T16:26:26.507Z"
+      "LastModified": "2026-09-11T00:32:40.593Z"
     },
     {
       "ID": 441699,
       "GUID": "35CA6910-5F3D-4587-B133-F016F6F7664F",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to an affirmative defense for tickets issued to drivers licensed by the taxi and limousine commission for stopping and standing while assisting passengers with impaired mobility",
       "AgendaSequence": 147,
-      "MinutesSequence": 149,
+      "MinutesSequence": 161,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Transportation and Infrastructure",
@@ -1823,14 +2310,14 @@
       "MatterFile": "Int 1068-2026",
       "MatterName": "Affirmative defense for tickets issued to drivers licensed by the taxi and limousine commission for stopping and standing while assisting passengers with impaired mobility.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T16:26:59.39Z"
+      "LastModified": "2026-09-11T00:32:40.597Z"
     },
     {
       "ID": 441700,
       "GUID": "407256F1-FD58-4828-B3C3-775E5BF40651",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to voluntary environmental impact and energy use disclosures in city procurement of artificial intelligence tools",
       "AgendaSequence": 146,
-      "MinutesSequence": 148,
+      "MinutesSequence": 160,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Contracts",
@@ -1841,14 +2328,14 @@
       "MatterFile": "Int 1067-2026",
       "MatterName": "Voluntary environmental impact and energy use disclosures in city procurement of artificial intelligence tools.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T16:26:45.207Z"
+      "LastModified": "2026-09-11T00:32:40.593Z"
     },
     {
       "ID": 441701,
       "GUID": "1844970B-609F-4037-B18D-A4A40C8822E2",
       "Title": "Application number G 260006 NUM (48-50 Convent Avenue (ANCP) - UDAAP) submitted by the New York City Department of Housing Preservation and Development (HPD) pursuant to Article 16 of the General Municipal Law for approval of an urban development action area project for properties located at 48 Convent Avenue (Block 1969; Lot 65); 50 Convent Avenue (Block 1969; Lot 66); 453-455 West 125th Street (Block 1966; Lot 44); 12-14 Old Broadway (Block 1982; Lot 65), Borough of Manhattan, Community District 9, Council District 7. ",
       "AgendaSequence": 148,
-      "MinutesSequence": 150,
+      "MinutesSequence": 162,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Landmarks, Public Sitings, Resiliency and Dispositions",
@@ -1860,14 +2347,14 @@
       "MatterName": "Landmarks, 48-50 Convent Avenue (ANCP) - UDAAP, Manhattan (G 260006 NUM).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2026-09-10T16:27:52.38Z"
+      "LastModified": "2026-09-11T00:32:40.597Z"
     },
     {
       "ID": 441702,
       "GUID": "57079E74-F98B-445B-8AA3-A0258272C0A6",
       "Title": "Application number G 260007 XAM (48-50 Convent Avenue (ANCP) - Article XI) submitted by the New York City Department of Housing Preservation and Development (HPD) pursuant to Section 577 of Article XI of the Private Housing Finance Law for approval of a real property tax exemption for properties located at 48 Convent Avenue (Block 1969, Lot 65), 50 Convent Avenue (Block 1969, Lot 66), 453-455 West 125th Street(Block 1966, Lot 44), and 12-14 Old Broadway (Block 1982, Lot 65), Borough of Manhattan, Community District 9, Council District 7.",
       "AgendaSequence": 149,
-      "MinutesSequence": 152,
+      "MinutesSequence": 164,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Landmarks, Public Sitings, Resiliency and Dispositions",
@@ -1879,14 +2366,14 @@
       "MatterName": "Landmarks, 48-50 Convent Avenue (ANCP) - Article XI, Manhattan (G 260007 XAM).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2026-09-10T16:28:07.99Z"
+      "LastModified": "2026-09-11T00:32:40.597Z"
     },
     {
       "ID": 441703,
       "GUID": "C2FCD57F-7E73-4867-ABDA-F8409F91D482",
       "Title": "Application number C 260238 ZMK (Fort Hamilton Mews Rezoning) submitted by 9305 5th Ave LLC, pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section No. 22b: eliminating from within an R6B District a C2-3 District; changing from an R5B District to an R7X District; changing from an R6B District to an R7X District; and establishing within the proposed R7X District a C2-4 District, Borough of Brooklyn, Community District 10, Council District 47. ",
       "AgendaSequence": 150,
-      "MinutesSequence": 155,
+      "MinutesSequence": 166,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Zoning & Franchises",
@@ -1898,14 +2385,14 @@
       "MatterName": "Zoning, Fort Hamilton Mews Rezoning, Brooklyn (C 260238 ZMK).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2026-09-10T16:28:28.807Z"
+      "LastModified": "2026-09-11T00:32:47.59Z"
     },
     {
       "ID": 441704,
       "GUID": "FB665A1A-59C0-4567-AEEC-91C5F0CE8B2E",
       "Title": "Application number N 260239 ZRK (Fort Hamilton Mews Rezoning) submitted by 9305 5th Ave LLC, pursuant to Section 201 of the New York City Charter, for an amendment of the Zoning Resolution of the City of New York, amending APPENDIX F for the purpose of establishing a Mandatory Inclusionary Housing Area, Borough of Brooklyn, Community District 10, Council District 47.",
       "AgendaSequence": 151,
-      "MinutesSequence": 157,
+      "MinutesSequence": 168,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Zoning & Franchises",
@@ -1917,14 +2404,14 @@
       "MatterName": "Zoning, Fort Hamilton Mews Rezoning, Brooklyn (N 260239 ZRK).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2026-09-10T16:28:38.547Z"
+      "LastModified": "2026-09-11T00:32:40.6Z"
     },
     {
       "ID": 441705,
       "GUID": "19846684-2C90-4A11-B22F-D9AD75283AE5",
       "Title": "Application number C 240218 ZMK (Park Avenue Brooklyn Rezoning) submitted by Park Avenue Rezoning Partners LLC, pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section Nos. 12d & 13b: changing from an M1-1 District to an M1-4/R6-1 District; changing from an M1-2 District to an M1-4/R6-1 District; changing from an M1-1 District to an M1-4/R7D District; changing from an M1-2 District to an M1-4/R7D District; and establishing a Special Mixed Use District (MX-4), Borough of Brooklyn, Community District 3, Council District 33. ",
       "AgendaSequence": 152,
-      "MinutesSequence": 159,
+      "MinutesSequence": 170,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Zoning & Franchises",
@@ -1936,14 +2423,14 @@
       "MatterName": "Zoning, Park Avenue Brooklyn Rezoning, Brooklyn (C 240218 ZMK).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2026-09-10T16:28:48.677Z"
+      "LastModified": "2026-09-11T00:32:40.6Z"
     },
     {
       "ID": 441706,
       "GUID": "BBED1D44-19D5-4971-9ACA-815298DC5E18",
       "Title": "Application number N 240219 ZRK (Park Avenue Brooklyn Rezoning) submitted by Park Avenue Rezoning Partners LLC, pursuant to Section 201 of the New York City Charter, for an amendment of the Zoning \r\nResolution of the City of New York, amending APPENDIX F for the purpose of establishing a Mandatory Inclusionary Housing Area, Borough of Brooklyn, Community District 3, Council District 33. \r\n",
       "AgendaSequence": 153,
-      "MinutesSequence": 161,
+      "MinutesSequence": 172,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Zoning & Franchises",
@@ -1955,14 +2442,14 @@
       "MatterName": "Zoning, Park Avenue Brooklyn Rezoning, Brooklyn (N 240219 ZRK).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2026-09-10T16:28:59.977Z"
+      "LastModified": "2026-09-11T00:32:40.603Z"
     },
     {
       "ID": 441707,
       "GUID": "39698EEF-31C3-4C2B-8896-88A304B64A74",
       "Title": "Application number C 240206 ZMX (Sojourner Truth – Mapes Rezoning) submitted by 2136 Crotona Parkway Housing Development Fund Corporation, pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section No. 3d: eliminating from within an R7-1 District a C1-4 District; changing from an R7-1 District to an R8 District; and establishing within a proposed R8 District a C2-4 District, Borough of the Bronx, Community District 6, Council District 15. ",
       "AgendaSequence": 154,
-      "MinutesSequence": 163,
+      "MinutesSequence": 174,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Zoning & Franchises",
@@ -1974,14 +2461,14 @@
       "MatterName": "Zoning, Sojourner Truth – Mapes Rezoning, Bronx (C 240206 ZMX).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2026-09-10T16:29:10.333Z"
+      "LastModified": "2026-09-11T00:32:40.603Z"
     },
     {
       "ID": 441708,
       "GUID": "A29D2610-8619-43AE-9859-1B4AE48F6E29",
       "Title": "Application number N 240207 ZRX (Sojourner Truth – Mapes Rezoning) submitted by 2136 Crotona Parkway Housing Development Fund Corporation, pursuant to Section 201 of the New York City Charter, for an amendment of the Zoning Resolution of the City of New York, amending APPENDIX F for the purpose of establishing a Mandatory Inclusionary Housing Area, Borough of the Bronx, Community District 6, Council District 15.",
       "AgendaSequence": 155,
-      "MinutesSequence": 165,
+      "MinutesSequence": 176,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Zoning & Franchises",
@@ -1993,14 +2480,14 @@
       "MatterName": "Zoning, Sojourner Truth – Mapes Rezoning, Bronx (N 240207 ZRX).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2026-09-10T16:29:19.44Z"
+      "LastModified": "2026-09-11T00:32:40.607Z"
     },
     {
       "ID": 441709,
       "GUID": "342716F2-0300-4F53-BA2E-D2C0058FD895",
       "Title": "Application number C 260186 ZMQ (69-67 108th Street Rezoning) submitted by 108 St., LLC, pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section No. 14a, changing from an R1-2A District to an R7D District and establishing within the proposed R7D District a C2-4 District, Borough of Queens, Community District 6, Council District 29. ",
       "AgendaSequence": 156,
-      "MinutesSequence": 167,
+      "MinutesSequence": 178,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Zoning & Franchises",
@@ -2012,14 +2499,14 @@
       "MatterName": "Zoning, 69-67 108th Street Rezoning, Queens (C 260186 ZMQ).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2026-09-10T16:29:30.67Z"
+      "LastModified": "2026-09-11T00:32:40.61Z"
     },
     {
       "ID": 441710,
       "GUID": "73B49F21-5041-42AE-98D3-092711976DE2",
       "Title": "Application number N 260187 ZRQ (69-67 108th Street Rezoning) submitted by 108 St., LLC, pursuant to Section 201 of the New York City Charter, for an amendment of the Zoning Resolution of the City of New \r\nYork, amending APPENDIX F for the purpose of establishing a Mandatory Inclusionary Housing Area, Borough of Queens, Community District 6, Council District 29. ",
       "AgendaSequence": 157,
-      "MinutesSequence": 169,
+      "MinutesSequence": 180,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Zoning & Franchises",
@@ -2031,14 +2518,14 @@
       "MatterName": "Zoning, 69-67 108th Street Rezoning, Queens (N 260187 ZRQ).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2026-09-10T16:29:42.017Z"
+      "LastModified": "2026-09-11T00:32:40.61Z"
     },
     {
       "ID": 441711,
       "GUID": "2B234602-80D6-4362-B15A-288533AFF087",
       "Title": "Application number C 260087 ZMK (289 Kent Avenue Rezoning) submitted by Web Holdings LLC, pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section \r\nNo. 12d: changing from an M3-1 District to an M1-3A/R7X District; changing from an M3-1 District to an M1-2A District; and establishing a Special Mixed Use District (MX-8), Borough of Brooklyn, Community District 1, Council District 33.",
       "AgendaSequence": 158,
-      "MinutesSequence": 171,
+      "MinutesSequence": 182,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Zoning & Franchises",
@@ -2050,14 +2537,14 @@
       "MatterName": "Zoning, 289 Kent Avenue Rezoning, Brooklyn (C 260087 ZMK).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2026-09-10T16:29:55.643Z"
+      "LastModified": "2026-09-11T00:32:40.613Z"
     },
     {
       "ID": 441712,
       "GUID": "D533BC60-E3A6-402D-940F-CA9A8ED1331F",
       "Title": "Application number N 260088 ZRK (289 Kent Avenue Rezoning) submitted by Web Holdings LLC, pursuant to Section 201 of the New York City Charter, for an amendment of the Zoning Resolution of the City of New York, amending APPENDIX F for the purpose of establishing a Mandatory Inclusionary Housing Area, Borough of Brooklyn, Community District 1, Council District 33. ",
       "AgendaSequence": 159,
-      "MinutesSequence": 173,
+      "MinutesSequence": 184,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Zoning & Franchises",
@@ -2069,28 +2556,34 @@
       "MatterName": "Zoning, 289 Kent Avenue Rezoning, Brooklyn (N 260088 ZRK).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2026-09-10T16:30:11.103Z"
+      "LastModified": "2026-09-11T00:32:40.617Z"
     },
     {
       "ID": 441717,
       "GUID": "8891D9B9-A0FC-4D58-A042-B980F024FF0F",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to refusing to renew, suspending, or revoking a license of a tobacco retail dealer or an electronic cigarette retail dealer that has violated certain authorization requirements of the cannabis law",
       "AgendaSequence": 14,
-      "MinutesSequence": 16,
+      "MinutesSequence": 18,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 78621,
       "MatterFile": "Int 0813-2026",
       "MatterName": "Refusing renew, suspending, or revoking a license of a tobacco retail dealer or an electronic cigarette retail dealer that has violated certain authorization requirements of the cannabis law.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T14:01:24.233Z"
+      "LastModified": "2026-09-11T00:32:40.493Z"
     },
     {
       "ID": 441719,
       "GUID": "81CBBECF-E2A5-4297-9CC9-8E33008E5E38",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring an annual interagency cooling tower compliance review and increasing related enforcement",
       "AgendaSequence": 109,
-      "MinutesSequence": 111,
+      "MinutesSequence": 123,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Health",
@@ -2101,14 +2594,14 @@
       "MatterFile": "Int 1044-2026",
       "MatterName": "Requiring an annual interagency cooling tower compliance review and increasing related enforcement.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T15:29:19.693Z"
+      "LastModified": "2026-09-11T00:32:40.567Z"
     },
     {
       "ID": 441721,
       "GUID": "7D2A2926-DB40-4B34-812C-A9D0FE875163",
       "Title": "Resolution calling on the New York City Department of Education to commemorate the 20th anniversary of the reclassification of Pluto as a dwarf planet by encouraging age-appropriate instruction and educational programming on Pluto’s discovery, classification history, and the ongoing scientific debate over its planetary status",
       "AgendaSequence": 121,
-      "MinutesSequence": 123,
+      "MinutesSequence": 135,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Education",
@@ -2119,14 +2612,14 @@
       "MatterFile": "Res 0628-2026",
       "MatterName": "NYCDOE to commemorate the 20th anniversary of the reclassification of Pluto as a dwarf planet by encouraging age-appropriate instruction and educational programming on Pluto’s discovery.",
       "MatterType": "Resolution",
-      "LastModified": "2026-09-10T16:01:19.467Z"
+      "LastModified": "2026-09-11T00:32:40.573Z"
     },
     {
       "ID": 441722,
       "GUID": "690678CB-9490-4C09-BB1C-322CBA64E07D",
       "Title": "Resolution calling on the U.S. Congress to pass, and the President to sign, H.R.1004, also known as the Love Lives On Act, in relation to barring the Department of Defense from terminating the payment of an annuity for a surviving spouse under the Survivor Benefit Plan solely because the surviving spouse remarries",
       "AgendaSequence": 125,
-      "MinutesSequence": 127,
+      "MinutesSequence": 139,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Veterans",
@@ -2137,14 +2630,14 @@
       "MatterFile": "Res 0632-2026",
       "MatterName": "Love Lives On Act ( H.R.1004).",
       "MatterType": "Resolution",
-      "LastModified": "2026-09-10T16:02:06.5Z"
+      "LastModified": "2026-09-11T00:32:40.58Z"
     },
     {
       "ID": 441726,
       "GUID": "208308C5-C5E6-460F-B5AD-98107D7CA251",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the commissioner of health and mental hygiene to maintain a public database of locations impacted by legionella",
       "AgendaSequence": 141,
-      "MinutesSequence": 143,
+      "MinutesSequence": 155,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Preconsidered - Health",
@@ -2155,14 +2648,14 @@
       "MatterFile": "Int 1062-2026",
       "MatterName": "Requiring the commissioner of health and mental hygiene to maintain a public database of locations impacted by legionella.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T16:25:35.733Z"
+      "LastModified": "2026-09-11T00:32:40.59Z"
     },
     {
       "ID": 441727,
       "GUID": "D58AF231-1457-4401-A93E-5EE3AA02ECC7",
       "Title": "Commissioner of Deeds",
       "AgendaSequence": 65,
-      "MinutesSequence": 67,
+      "MinutesSequence": 76,
       "AgendaNumber": "~coupled",
       "Version": "*",
       "AgendaNote": "GO",
@@ -2170,30 +2663,36 @@
       "MatterFile": "T2026-0001",
       "MatterName": "Commissioner of Deeds",
       "MatterType": "Commissioner of Deeds",
-      "MatterStatus": "Introduced",
-      "LastModified": "2026-09-10T16:12:26.81Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2026-09-11T00:32:40.533Z"
     },
     {
       "ID": 441728,
       "GUID": "2B9C5754-8C28-4526-B82A-89C820CED529",
       "Title": "Commissioner of Deeds",
       "AgendaSequence": 38,
-      "MinutesSequence": 40,
+      "MinutesSequence": 49,
       "Version": "*",
       "AgendaNote": "Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Commissioner of Deeds be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 76952,
       "MatterFile": "T2026-0001",
       "MatterName": "Commissioner of Deeds",
       "MatterType": "Commissioner of Deeds",
-      "MatterStatus": "Introduced",
-      "LastModified": "2026-09-10T14:01:24.257Z"
+      "MatterStatus": "Adopted",
+      "LastModified": "2026-09-11T00:32:40.513Z"
     },
     {
       "ID": 441777,
       "GUID": "4E614A0F-BD05-483E-B0C6-237A4E792307",
       "Title": "Resolution declaring October as Reggaeton Heritage Month in the City of New York to honor the legacy of reggaeton as a prominent expression of Afro-Caribbean and Latin American identity and to recognize New York’s pivotal role in facilitating the blend of cultures that is at the heart of this grassroots musical genre",
       "AgendaSequence": 114,
-      "MinutesSequence": 116,
+      "MinutesSequence": 128,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Cultural Affairs, Libraries and International Relations",
@@ -2204,101 +2703,123 @@
       "MatterFile": "Res 0625-2026",
       "MatterName": "Declaring October as Reggaeton Heritage Month.",
       "MatterType": "Resolution",
-      "LastModified": "2026-09-10T15:59:27.033Z"
+      "LastModified": "2026-09-11T00:32:40.57Z"
     },
     {
       "ID": 441778,
       "GUID": "27D3B5B3-8713-4516-AAB5-E73B4A01782F",
       "Title": "Report of the Committee on Rules, Privileges, Elections and Ethics",
       "AgendaSequence": 25,
-      "MinutesSequence": 27,
+      "MinutesSequence": 29,
       "Version": "",
       "AgendaNote": "REPORT OF THE COMMITTEE ON RULES, PRIVILEGES, ELECTIONS, STANDARDS AND ETHICS",
-      "LastModified": "2026-09-10T14:01:24.243Z"
+      "LastModified": "2026-09-11T00:32:40.5Z"
     },
     {
       "ID": 441779,
       "GUID": "C79D044C-977A-4883-A00B-3869A4065E34",
       "Title": "RESOLUTION APPROVING THE APPOINTMENT BY THE MAYOR OF LISA GARCIA AS A MEMBER OF THE NEW YORK CITY LAND BANK.",
       "AgendaSequence": 26,
-      "MinutesSequence": 28,
+      "MinutesSequence": 31,
       "Version": "*",
       "AgendaNote": "Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 79488,
       "MatterFile": "Res 0638-2026",
       "MatterName": "Lisa Garcia, Land Bank",
       "MatterType": "Resolution",
-      "LastModified": "2026-09-10T14:01:24.247Z"
+      "LastModified": "2026-09-11T00:35:20.337Z"
     },
     {
       "ID": 441780,
       "GUID": "EA82F352-DC0F-4BD3-9275-46ECCA83DD59",
       "Title": "RESOLUTION APPROVING THE APPOINTMENT BY THE MAYOR OF JOHN MANGIN AS THE CHAIR OF THE NEW YORK CITY BOARD OF STANDARDS AND APPEALS.",
       "AgendaSequence": 28,
-      "MinutesSequence": 30,
+      "MinutesSequence": 35,
       "Version": "*",
       "AgendaNote": "Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 79489,
       "MatterFile": "Res 0640-2026",
       "MatterName": "John Mangin, Board of Standard and Appeals",
       "MatterType": "Resolution",
-      "LastModified": "2026-09-10T14:01:24.247Z"
+      "LastModified": "2026-09-11T00:32:40.503Z"
     },
     {
       "ID": 441781,
       "GUID": "5260F58D-3AF7-45A6-9CC2-B9AB35A5D0E9",
       "Title": "RESOLUTION APPROVING THE APPOINTMENT BY THE MAYOR OF DAVE CHOKSHI AS A MEMBER OF THE NEW YORK CITY BOARD OF HEALTH.",
       "AgendaSequence": 27,
-      "MinutesSequence": 29,
+      "MinutesSequence": 33,
       "Version": "*",
       "AgendaNote": "Coupled on General Orders",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 79490,
       "MatterFile": "Res 0639-2026",
       "MatterName": "Dr. Dave A. Chokshi, Board of Health",
       "MatterType": "Resolution",
-      "LastModified": "2026-09-10T14:01:24.247Z"
+      "LastModified": "2026-09-11T00:32:40.503Z"
     },
     {
       "ID": 441782,
       "GUID": "A0A7EFB9-7555-4066-9A7B-E5DA568340D1",
       "Title": "Report of the Committee on Cultural Affairs, Libraries and International Relations",
       "AgendaSequence": 15,
-      "MinutesSequence": 17,
+      "MinutesSequence": 19,
       "Version": "",
       "AgendaNote": "REPORT OF THE COMMITTEE ON CULTURAL AFFAIRS, LIBRARIES AND INTERNATIONAL RELATIONS",
-      "LastModified": "2026-09-10T14:01:24.237Z"
+      "LastModified": "2026-09-11T00:32:40.493Z"
     },
     {
       "ID": 441783,
       "GUID": "0B01E1BA-55D4-46E9-B6F9-35B17E7284F0",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to a report and map of historical African American burial sites",
       "AgendaSequence": 16,
-      "MinutesSequence": 18,
+      "MinutesSequence": 20,
       "Version": "A",
       "AgendaNote": "Amended and Coupled on General Orders",
+      "ActionID": 68,
+      "ActionName": "Approved by Council",
+      "ActionText": "A motion was made that this Introduction be Approved by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
       "MatterID": 77397,
       "MatterFile": "Int 0220-2026",
       "MatterName": "A report and map of historical African American burial sites.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T14:01:24.237Z"
+      "LastModified": "2026-09-11T00:32:40.497Z"
     },
     {
       "ID": 441784,
       "GUID": "29EBC815-9F5A-431A-8C2A-43E82B5E0876",
       "Title": "Consumer and Worker Protection",
       "AgendaSequence": 40,
-      "MinutesSequence": 42,
+      "MinutesSequence": 51,
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "CONSUMER AND WORKER PROTECTION",
-      "LastModified": "2026-09-10T14:12:49.027Z"
+      "LastModified": "2026-09-11T00:32:40.517Z"
     },
     {
       "ID": 441785,
       "GUID": "339B01AB-3276-42DB-8512-D48069450AB9",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to refusing to renew, suspending, or revoking a license of a tobacco retail dealer or an electronic cigarette retail dealer that has violated certain authorization requirements of the cannabis law",
       "AgendaSequence": 41,
-      "MinutesSequence": 43,
+      "MinutesSequence": 52,
       "AgendaNumber": "~coupled",
       "Version": "A",
       "AgendaNote": "A and GO",
@@ -2306,25 +2827,25 @@
       "MatterFile": "Int 0813-2026",
       "MatterName": "Refusing renew, suspending, or revoking a license of a tobacco retail dealer or an electronic cigarette retail dealer that has violated certain authorization requirements of the cannabis law.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T14:12:51.577Z"
+      "LastModified": "2026-09-11T00:32:40.517Z"
     },
     {
       "ID": 441786,
       "GUID": "BBF172D0-F59D-42D6-BD03-49509EC28B58",
       "Title": "Cultural Affairs, Libraries and International Relations",
       "AgendaSequence": 42,
-      "MinutesSequence": 44,
+      "MinutesSequence": 53,
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "CULTURAL AFFAIRS, LIBRARIES AND INTERNATIONAL RELATIONS",
-      "LastModified": "2026-09-10T14:12:54.07Z"
+      "LastModified": "2026-09-11T00:32:40.517Z"
     },
     {
       "ID": 441787,
       "GUID": "EC9DF191-C5AD-4A6B-91F5-FC5A3B55D0AA",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to a report and map of historical African American burial sites",
       "AgendaSequence": 43,
-      "MinutesSequence": 45,
+      "MinutesSequence": 54,
       "AgendaNumber": "~coupled",
       "Version": "A",
       "AgendaNote": "A and GO",
@@ -2332,25 +2853,25 @@
       "MatterFile": "Int 0220-2026",
       "MatterName": "A report and map of historical African American burial sites.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T14:13:06.29Z"
+      "LastModified": "2026-09-11T00:32:40.517Z"
     },
     {
       "ID": 441788,
       "GUID": "62357332-AFC3-4CD1-BED5-5200D5551797",
       "Title": "Environmental Protection and Waterfronts",
       "AgendaSequence": 44,
-      "MinutesSequence": 46,
+      "MinutesSequence": 55,
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "ENVIRONMENTAL PROTECTION AND WATERFRONTS",
-      "LastModified": "2026-09-10T14:13:10.167Z"
+      "LastModified": "2026-09-11T00:32:40.52Z"
     },
     {
       "ID": 441789,
       "GUID": "10C8FB55-D074-45C8-A7C2-8176516EF216",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the maximum allowable illuminance of residential outdoor lighting fixtures",
       "AgendaSequence": 45,
-      "MinutesSequence": 47,
+      "MinutesSequence": 56,
       "AgendaNumber": "~coupled",
       "Version": "A",
       "AgendaNote": "A and GO",
@@ -2358,25 +2879,25 @@
       "MatterFile": "Int 0804-2026",
       "MatterName": "The maximum allowable illuminance of residential outdoor lighting fixtures.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T14:13:14.427Z"
+      "LastModified": "2026-09-11T00:32:40.52Z"
     },
     {
       "ID": 441790,
       "GUID": "6088FE8D-5275-4FE8-A66A-D65141DA208B",
       "Title": "Rules, Privileges, Elections, Standards and Ethics",
       "AgendaSequence": 52,
-      "MinutesSequence": 54,
+      "MinutesSequence": 63,
       "AgendaNumber": "~coupled",
       "Version": "",
       "AgendaNote": "RULES, PRIVILEGES, ELECTIONS, STANDARDS AND ELECTIONS",
-      "LastModified": "2026-09-10T14:13:17.303Z"
+      "LastModified": "2026-09-11T00:32:40.523Z"
     },
     {
       "ID": 441791,
       "GUID": "CCEA3A2A-FF47-43B3-A520-4D6EE4059BFA",
       "Title": "RESOLUTION APPROVING THE APPOINTMENT BY THE MAYOR OF LISA GARCIA AS A MEMBER OF THE NEW YORK CITY LAND BANK.",
       "AgendaSequence": 53,
-      "MinutesSequence": 55,
+      "MinutesSequence": 64,
       "AgendaNumber": "~coupled",
       "Version": "*",
       "AgendaNote": "GO",
@@ -2384,14 +2905,14 @@
       "MatterFile": "Res 0638-2026",
       "MatterName": "Lisa Garcia, Land Bank",
       "MatterType": "Resolution",
-      "LastModified": "2026-09-10T14:13:20.413Z"
+      "LastModified": "2026-09-11T00:32:40.527Z"
     },
     {
       "ID": 441792,
       "GUID": "F88FD891-4FF9-4AAA-BEAB-622DC0D8F788",
       "Title": "RESOLUTION APPROVING THE APPOINTMENT BY THE MAYOR OF JOHN MANGIN AS THE CHAIR OF THE NEW YORK CITY BOARD OF STANDARDS AND APPEALS.",
       "AgendaSequence": 55,
-      "MinutesSequence": 57,
+      "MinutesSequence": 66,
       "AgendaNumber": "~coupled",
       "Version": "*",
       "AgendaNote": "GO",
@@ -2399,14 +2920,14 @@
       "MatterFile": "Res 0640-2026",
       "MatterName": "John Mangin, Board of Standard and Appeals",
       "MatterType": "Resolution",
-      "LastModified": "2026-09-10T14:13:28.027Z"
+      "LastModified": "2026-09-11T00:32:40.527Z"
     },
     {
       "ID": 441793,
       "GUID": "608C2110-B44C-4F03-BE59-7B770DC821E4",
       "Title": "RESOLUTION APPROVING THE APPOINTMENT BY THE MAYOR OF DAVE CHOKSHI AS A MEMBER OF THE NEW YORK CITY BOARD OF HEALTH.",
       "AgendaSequence": 54,
-      "MinutesSequence": 56,
+      "MinutesSequence": 65,
       "AgendaNumber": "~coupled",
       "Version": "*",
       "AgendaNote": "GO",
@@ -2414,84 +2935,114 @@
       "MatterFile": "Res 0639-2026",
       "MatterName": "Dr. Dave A. Chokshi, Board of Health",
       "MatterType": "Resolution",
-      "LastModified": "2026-09-10T14:13:23.797Z"
+      "LastModified": "2026-09-11T00:32:40.527Z"
     },
     {
       "ID": 441794,
       "GUID": "0A5F0C14-0B7E-4FB4-ABF7-48E24F1BE30C",
       "Title": "Resolution commemorating the 25th anniversary of the September 11 attacks",
       "AgendaSequence": 69,
-      "MinutesSequence": 71,
+      "MinutesSequence": 83,
       "Version": "*",
       "AgendaNote": "Adopted by the Committee on Cultural Affairs, Libraries and International Relations",
+      "MinutesNote": "Pursuant to Rule 8.60 of the Council, the Majority Leader and Acting President Pro Tempore (Council Member Abreu) called for a voice vote.  Hearing those in favor, the Majority Leader and Acting President Pro Tempore (Council Member Abreu) declared the Resolution to be adopted.\r\n\r\nAdopted by the Council by voice-vote.\r\n\r\n",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by voice vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 77282,
       "MatterFile": "Res 0006-2026",
       "MatterName": "Commemorating the 25th anniversary of the September 11 attacks.",
       "MatterType": "Resolution",
-      "LastModified": "2026-09-10T14:14:26.473Z"
+      "LastModified": "2026-09-11T00:32:40.537Z"
     },
     {
       "ID": 441795,
       "GUID": "E93B3F34-CDFE-49B4-B145-C7E6A4A8B3C6",
       "Title": "Resolution celebrating the Feast of San Gennaro and the Ferragosto Festival annually in September to honor the contributions of Italian immigrants and Italian Americans to the cultural, political, and economic fabric of the City of New York",
       "AgendaSequence": 71,
-      "MinutesSequence": 73,
+      "MinutesSequence": 85,
       "Version": "A",
       "AgendaNote": "Amended and Adopted by the Committee on Cultural Affairs, Libraries and International Relations",
+      "MinutesNote": "Pursuant to Rule 8.60 of the Council, the Majority Leader and Acting President Pro Tempore (Council Member Abreu) called for a voice vote.  Hearing those in favor, the Majority Leader and Acting President Pro Tempore (Council Member Abreu) declared the Resolution to be adopted.\r\n\r\nAdopted by the Council by voice-vote.\r\n",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by voice vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 77508,
       "MatterFile": "Res 0082-2026",
       "MatterName": "Celebrating the Feast of San Gennaro and the Ferragosto Festival.",
       "MatterType": "Resolution",
-      "LastModified": "2026-09-10T14:15:33.887Z"
+      "LastModified": "2026-09-11T00:32:40.54Z"
     },
     {
       "ID": 441796,
       "GUID": "C75964E9-41AB-42DF-9774-7A2DB797FFC9",
       "Title": "Resolution calling on the United States Congress to pass, and the President to sign, the Performing Artist Tax Parity Act of 2025",
       "AgendaSequence": 72,
-      "MinutesSequence": 74,
+      "MinutesSequence": 86,
       "Version": "A",
       "AgendaNote": "Amended and Adopted by the Committee on Cultural Affairs, Libraries and International Relations",
+      "MinutesNote": "Pursuant to Rule 8.60 of the Council, the Majority Leader and Acting President Pro Tempore (Council Member Abreu) called for a voice vote.  Hearing those in favor, the Majority Leader and Acting President Pro Tempore (Council Member Abreu) declared the Resolution to be adopted.\r\n\r\nAdopted by the Council by voice-vote.\r\n\r\n",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by voice vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 78035,
       "MatterFile": "Res 0237-2026",
       "MatterName": "Performing Artist Tax Parity Act of 2025.",
       "MatterType": "Resolution",
-      "LastModified": "2026-09-10T14:16:15.58Z"
+      "LastModified": "2026-09-11T00:32:40.54Z"
     },
     {
       "ID": 441797,
       "GUID": "9DDD6716-4F6C-42A2-A5F0-D99419A6B4FE",
       "Title": "Resolution declaring March 6 as Carmen de Lavallade Day in the City of New York to celebrate her life and legacy and to honor her groundbreaking contributions to dance and theater as well as her role in advancing diversity and artistic excellence in the performing arts",
       "AgendaSequence": 73,
-      "MinutesSequence": 75,
+      "MinutesSequence": 87,
       "Version": "*",
       "AgendaNote": "Adopted by the Committee on Cultural Affairs, Libraries and International Relations",
+      "MinutesNote": "Pursuant to Rule 8.60 of the Council, the Majority Leader and Acting President Pro Tempore (Council Member Abreu) called for a voice vote.  Hearing those in favor, the Majority Leader and Acting President Pro Tempore (Council Member Abreu) declared the Resolution to be adopted.\r\n\r\nAdopted by the Council by voice-vote.\r\n",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by voice vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 78431,
       "MatterFile": "Res 0402-2026",
       "MatterName": "Declaring March 6 as Carmen de Lavallade Day.",
       "MatterType": "Resolution",
-      "LastModified": "2026-09-10T14:16:26.357Z"
+      "LastModified": "2026-09-11T00:32:40.54Z"
     },
     {
       "ID": 441798,
       "GUID": "842A97E9-DE38-4C3B-AF47-A9836F29BCE1",
       "Title": "Resolution recognizing the life and legacy of Alvin Ailey and honoring his contributions to American dance and the founding of the Alvin Ailey American Dance Theater",
       "AgendaSequence": 74,
-      "MinutesSequence": 76,
+      "MinutesSequence": 88,
       "Version": "*",
       "AgendaNote": "Adopted by the Committee on Cultural Affairs, Libraries and International Relations",
+      "MinutesNote": "Pursuant to Rule 8.60 of the Council, the Majority Leader and Acting President Pro Tempore (Council Member Abreu) called for a voice vote.  Hearing those in favor, the Majority Leader and Acting President Pro Tempore (Council Member Abreu) declared the Resolution to be adopted.\r\n\r\nAdopted by the Council by voice-vote.\r\n",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Resolution be Approved, by Council approved by voice vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
       "MatterID": 78589,
       "MatterFile": "Res 0429-2026",
       "MatterName": "Recognizing the life and legacy of Alvin Ailey.",
       "MatterType": "Resolution",
-      "LastModified": "2026-09-10T14:39:58.03Z"
+      "LastModified": "2026-09-11T00:32:40.543Z"
     },
     {
       "ID": 441800,
       "GUID": "B1C00BE2-D782-4E48-8EFE-71B1B2592D55",
       "Title": "Application number D 2550162086 SWQ (Cali Tajadas Bakery & Restaurant) pursuant to Section 19-160.2 of the Administrative Code of the City of New York, for a revocable consent to establish, maintain, and operate a sidewalk café located at 45-18 104th Street, Corona, NY 11368, Borough of Queens, Community District 4, Council District 21.",
       "AgendaSequence": 160,
-      "MinutesSequence": 175,
+      "MinutesSequence": 186,
       "AgendaNumber": "~SPONSOR",
       "Version": "*",
       "AgendaNote": "Zoning & Franchises",
@@ -2503,7 +3054,7 @@
       "MatterName": "Zoning, Cali Tajadas Bakery & Restaurant, Queens (D 2550162086 SWQ).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2026-09-10T16:30:21.17Z"
+      "LastModified": "2026-09-11T00:32:40.62Z"
     },
     {
       "ID": 441804,
@@ -2513,27 +3064,27 @@
       "MinutesSequence": 1,
       "Version": "",
       "MinutesNote": "The Majority Leader (Council Member Abreu) presiding as the President Pro Tempore.",
-      "LastModified": "2026-09-10T17:01:22.267Z"
+      "LastModified": "2026-09-11T00:32:40.483Z"
     },
     {
       "ID": 441805,
       "GUID": "52AA2598-A16D-45F3-9875-9EBF3D4F1CB3",
       "Title": "",
       "AgendaSequence": 0,
-      "MinutesSequence": 177,
+      "MinutesSequence": 188,
       "Version": "",
       "MinutesNote": "At this point the Speaker (Council Member Menin) made the following announcements:",
-      "LastModified": "2026-09-10T15:03:59.953Z"
+      "LastModified": "2026-09-11T00:32:40.62Z"
     },
     {
       "ID": 441806,
       "GUID": "DC77A0B2-0B3B-46A8-9F13-49758EB27130",
       "Title": "",
       "AgendaSequence": 0,
-      "MinutesSequence": 178,
+      "MinutesSequence": 189,
       "Version": "",
-      "MinutesNote": "Whereupon on motion of the Speaker (Council Member Menin), the Majority Leader and Acting President Pro Tempore (Council Member Abreu) adjourned these proceedings to meet again for the Stated Meeting of Thursday, September 17, 2026.\r\n\r\nMICHAEL M. McSWEENEY, City Clerk\r\nClerk of the Council",
-      "LastModified": "2026-09-10T17:01:05.113Z"
+      "MinutesNote": "Whereupon on motion of the Speaker (Council Member Menin), the Majority Leader and Acting President Pro Tempore (Council Member Abreu) adjourned these proceedings to meet again for the Stated Meeting of Thursday, September 24, 2026.\r\n\r\nMICHAEL M. McSWEENEY, City Clerk\r\nClerk of the Council",
+      "LastModified": "2026-09-11T00:32:40.62Z"
     },
     {
       "ID": 441807,
@@ -2542,15 +3093,15 @@
       "AgendaSequence": 0,
       "MinutesSequence": 3,
       "Version": "",
-      "MinutesNote": "The presence of a quorum was announced by the Majority Leader and Acting President Pro Tempore (Council Member Abreu).",
-      "LastModified": "2026-09-10T17:01:34.98Z"
+      "MinutesNote": "The presence of a quorum was announced by the Majority Leader and Acting President Pro Tempore (Council Member Abreu).\r\n\r\nThere were 50 Council Members marked present at this Stated Meeting.",
+      "LastModified": "2026-09-11T00:32:40.487Z"
     },
     {
       "ID": 441855,
       "GUID": "08C0190B-E4FA-4224-A5A7-73125BE28716",
       "Title": "Application number G 260006 NUM (48-50 Convent Avenue (ANCP) - UDAAP) submitted by the New York City Department of Housing Preservation and Development (HPD) pursuant to Article 16 of the General Municipal Law for approval of an urban development action area project for properties located at 48 Convent Avenue (Block 1969; Lot 65); 50 Convent Avenue (Block 1969; Lot 66); 453-455 West 125th Street (Block 1966; Lot 44); 12-14 Old Broadway (Block 1982; Lot 65), Borough of Manhattan, Community District 9, Council District 7. ",
       "AgendaSequence": 0,
-      "MinutesSequence": 151,
+      "MinutesSequence": 163,
       "Version": "*",
       "ActionID": 43,
       "ActionName": "Referred to Comm by Council",
@@ -2560,14 +3111,14 @@
       "MatterName": "Landmarks, 48-50 Convent Avenue (ANCP) - UDAAP, Manhattan (G 260006 NUM).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2026-09-10T16:30:45.753Z"
+      "LastModified": "2026-09-11T00:32:40.597Z"
     },
     {
       "ID": 441856,
       "GUID": "5CA54CAF-6CE5-4F3A-B708-BDE8476F5D84",
       "Title": "Application number G 260007 XAM (48-50 Convent Avenue (ANCP) - Article XI) submitted by the New York City Department of Housing Preservation and Development (HPD) pursuant to Section 577 of Article XI of the Private Housing Finance Law for approval of a real property tax exemption for properties located at 48 Convent Avenue (Block 1969, Lot 65), 50 Convent Avenue (Block 1969, Lot 66), 453-455 West 125th Street(Block 1966, Lot 44), and 12-14 Old Broadway (Block 1982, Lot 65), Borough of Manhattan, Community District 9, Council District 7.",
       "AgendaSequence": 0,
-      "MinutesSequence": 153,
+      "MinutesSequence": 165,
       "Version": "*",
       "ActionID": 43,
       "ActionName": "Referred to Comm by Council",
@@ -2577,28 +3128,14 @@
       "MatterName": "Landmarks, 48-50 Convent Avenue (ANCP) - Article XI, Manhattan (G 260007 XAM).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2026-09-10T16:57:06.777Z"
-    },
-    {
-      "ID": 441857,
-      "GUID": "E92DDD78-503E-4BBD-A03C-D147DDA78774",
-      "Title": "Application number G 260007 XAM (48-50 Convent Avenue (ANCP) - Article XI) submitted by the New York City Department of Housing Preservation and Development (HPD) pursuant to Section 577 of Article XI of the Private Housing Finance Law for approval of a real property tax exemption for properties located at 48 Convent Avenue (Block 1969, Lot 65), 50 Convent Avenue (Block 1969, Lot 66), 453-455 West 125th Street(Block 1966, Lot 44), and 12-14 Old Broadway (Block 1982, Lot 65), Borough of Manhattan, Community District 9, Council District 7.",
-      "AgendaSequence": 0,
-      "MinutesSequence": 154,
-      "Version": "*",
-      "MatterID": 79451,
-      "MatterFile": "LU 0130-2026",
-      "MatterName": "Landmarks, 48-50 Convent Avenue (ANCP) - Article XI, Manhattan (G 260007 XAM).",
-      "MatterType": "Land Use Application",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-09-10T16:32:21.817Z"
+      "LastModified": "2026-09-11T00:32:40.597Z"
     },
     {
       "ID": 441858,
       "GUID": "A1980AF3-DA75-4165-858A-C8E9F4DAE527",
       "Title": "Application number C 260238 ZMK (Fort Hamilton Mews Rezoning) submitted by 9305 5th Ave LLC, pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section No. 22b: eliminating from within an R6B District a C2-3 District; changing from an R5B District to an R7X District; changing from an R6B District to an R7X District; and establishing within the proposed R7X District a C2-4 District, Borough of Brooklyn, Community District 10, Council District 47. ",
       "AgendaSequence": 0,
-      "MinutesSequence": 156,
+      "MinutesSequence": 167,
       "Version": "*",
       "ActionID": 43,
       "ActionName": "Referred to Comm by Council",
@@ -2608,14 +3145,14 @@
       "MatterName": "Zoning, Fort Hamilton Mews Rezoning, Brooklyn (C 260238 ZMK).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2026-09-10T16:57:31.093Z"
+      "LastModified": "2026-09-11T00:32:40.6Z"
     },
     {
       "ID": 441859,
       "GUID": "9038F037-2F99-4491-8D32-A1C2F8980CE1",
       "Title": "Application number N 260239 ZRK (Fort Hamilton Mews Rezoning) submitted by 9305 5th Ave LLC, pursuant to Section 201 of the New York City Charter, for an amendment of the Zoning Resolution of the City of New York, amending APPENDIX F for the purpose of establishing a Mandatory Inclusionary Housing Area, Borough of Brooklyn, Community District 10, Council District 47.",
       "AgendaSequence": 0,
-      "MinutesSequence": 158,
+      "MinutesSequence": 169,
       "Version": "*",
       "ActionID": 43,
       "ActionName": "Referred to Comm by Council",
@@ -2625,14 +3162,14 @@
       "MatterName": "Zoning, Fort Hamilton Mews Rezoning, Brooklyn (N 260239 ZRK).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2026-09-10T16:57:48.307Z"
+      "LastModified": "2026-09-11T00:32:40.6Z"
     },
     {
       "ID": 441860,
       "GUID": "82EE29E1-90E3-4A97-AFEF-975D15DA41F4",
       "Title": "Application number C 240218 ZMK (Park Avenue Brooklyn Rezoning) submitted by Park Avenue Rezoning Partners LLC, pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section Nos. 12d & 13b: changing from an M1-1 District to an M1-4/R6-1 District; changing from an M1-2 District to an M1-4/R6-1 District; changing from an M1-1 District to an M1-4/R7D District; changing from an M1-2 District to an M1-4/R7D District; and establishing a Special Mixed Use District (MX-4), Borough of Brooklyn, Community District 3, Council District 33. ",
       "AgendaSequence": 0,
-      "MinutesSequence": 160,
+      "MinutesSequence": 171,
       "Version": "*",
       "ActionID": 43,
       "ActionName": "Referred to Comm by Council",
@@ -2642,14 +3179,14 @@
       "MatterName": "Zoning, Park Avenue Brooklyn Rezoning, Brooklyn (C 240218 ZMK).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2026-09-10T16:58:08.353Z"
+      "LastModified": "2026-09-11T00:32:40.6Z"
     },
     {
       "ID": 441861,
       "GUID": "A45C3A1F-FF17-4FB8-9E73-8086C3AD9E7C",
       "Title": "Application number N 240219 ZRK (Park Avenue Brooklyn Rezoning) submitted by Park Avenue Rezoning Partners LLC, pursuant to Section 201 of the New York City Charter, for an amendment of the Zoning \r\nResolution of the City of New York, amending APPENDIX F for the purpose of establishing a Mandatory Inclusionary Housing Area, Borough of Brooklyn, Community District 3, Council District 33. \r\n",
       "AgendaSequence": 0,
-      "MinutesSequence": 162,
+      "MinutesSequence": 173,
       "Version": "*",
       "ActionID": 43,
       "ActionName": "Referred to Comm by Council",
@@ -2659,14 +3196,14 @@
       "MatterName": "Zoning, Park Avenue Brooklyn Rezoning, Brooklyn (N 240219 ZRK).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2026-09-10T16:58:25.593Z"
+      "LastModified": "2026-09-11T00:32:40.603Z"
     },
     {
       "ID": 441862,
       "GUID": "EC13F251-2CEC-4EA8-BCB6-B3FEEA37DD00",
       "Title": "Application number C 240206 ZMX (Sojourner Truth – Mapes Rezoning) submitted by 2136 Crotona Parkway Housing Development Fund Corporation, pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section No. 3d: eliminating from within an R7-1 District a C1-4 District; changing from an R7-1 District to an R8 District; and establishing within a proposed R8 District a C2-4 District, Borough of the Bronx, Community District 6, Council District 15. ",
       "AgendaSequence": 0,
-      "MinutesSequence": 164,
+      "MinutesSequence": 175,
       "Version": "*",
       "ActionID": 43,
       "ActionName": "Referred to Comm by Council",
@@ -2676,14 +3213,14 @@
       "MatterName": "Zoning, Sojourner Truth – Mapes Rezoning, Bronx (C 240206 ZMX).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2026-09-10T16:58:39.93Z"
+      "LastModified": "2026-09-11T00:32:40.607Z"
     },
     {
       "ID": 441863,
       "GUID": "F0812B64-37C9-4488-B669-FA8357F1E275",
       "Title": "Application number N 240207 ZRX (Sojourner Truth – Mapes Rezoning) submitted by 2136 Crotona Parkway Housing Development Fund Corporation, pursuant to Section 201 of the New York City Charter, for an amendment of the Zoning Resolution of the City of New York, amending APPENDIX F for the purpose of establishing a Mandatory Inclusionary Housing Area, Borough of the Bronx, Community District 6, Council District 15.",
       "AgendaSequence": 0,
-      "MinutesSequence": 166,
+      "MinutesSequence": 177,
       "Version": "*",
       "ActionID": 43,
       "ActionName": "Referred to Comm by Council",
@@ -2693,14 +3230,14 @@
       "MatterName": "Zoning, Sojourner Truth – Mapes Rezoning, Bronx (N 240207 ZRX).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2026-09-10T16:59:07.78Z"
+      "LastModified": "2026-09-11T00:32:40.61Z"
     },
     {
       "ID": 441864,
       "GUID": "C788A2A0-9C23-4D39-B012-4FDF458E2836",
       "Title": "Application number C 260186 ZMQ (69-67 108th Street Rezoning) submitted by 108 St., LLC, pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section No. 14a, changing from an R1-2A District to an R7D District and establishing within the proposed R7D District a C2-4 District, Borough of Queens, Community District 6, Council District 29. ",
       "AgendaSequence": 0,
-      "MinutesSequence": 168,
+      "MinutesSequence": 179,
       "Version": "*",
       "ActionID": 43,
       "ActionName": "Referred to Comm by Council",
@@ -2710,14 +3247,14 @@
       "MatterName": "Zoning, 69-67 108th Street Rezoning, Queens (C 260186 ZMQ).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2026-09-10T16:59:26.633Z"
+      "LastModified": "2026-09-11T00:32:40.61Z"
     },
     {
       "ID": 441865,
       "GUID": "F0D9CD78-AA50-4C17-AB4C-FDB5189175DC",
       "Title": "Application number N 260187 ZRQ (69-67 108th Street Rezoning) submitted by 108 St., LLC, pursuant to Section 201 of the New York City Charter, for an amendment of the Zoning Resolution of the City of New \r\nYork, amending APPENDIX F for the purpose of establishing a Mandatory Inclusionary Housing Area, Borough of Queens, Community District 6, Council District 29. ",
       "AgendaSequence": 0,
-      "MinutesSequence": 170,
+      "MinutesSequence": 181,
       "Version": "*",
       "ActionID": 43,
       "ActionName": "Referred to Comm by Council",
@@ -2727,14 +3264,14 @@
       "MatterName": "Zoning, 69-67 108th Street Rezoning, Queens (N 260187 ZRQ).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2026-09-10T16:59:44.677Z"
+      "LastModified": "2026-09-11T00:32:40.613Z"
     },
     {
       "ID": 441866,
       "GUID": "2330836A-9A12-483E-9EDA-A911EF013B66",
       "Title": "Application number C 260087 ZMK (289 Kent Avenue Rezoning) submitted by Web Holdings LLC, pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section \r\nNo. 12d: changing from an M3-1 District to an M1-3A/R7X District; changing from an M3-1 District to an M1-2A District; and establishing a Special Mixed Use District (MX-8), Borough of Brooklyn, Community District 1, Council District 33.",
       "AgendaSequence": 0,
-      "MinutesSequence": 172,
+      "MinutesSequence": 183,
       "Version": "*",
       "ActionID": 43,
       "ActionName": "Referred to Comm by Council",
@@ -2744,14 +3281,14 @@
       "MatterName": "Zoning, 289 Kent Avenue Rezoning, Brooklyn (C 260087 ZMK).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2026-09-10T16:59:57.473Z"
+      "LastModified": "2026-09-11T00:32:40.613Z"
     },
     {
       "ID": 441867,
       "GUID": "A00E36E9-6480-4914-9E1D-45949BB97C2F",
       "Title": "Application number N 260088 ZRK (289 Kent Avenue Rezoning) submitted by Web Holdings LLC, pursuant to Section 201 of the New York City Charter, for an amendment of the Zoning Resolution of the City of New York, amending APPENDIX F for the purpose of establishing a Mandatory Inclusionary Housing Area, Borough of Brooklyn, Community District 1, Council District 33. ",
       "AgendaSequence": 0,
-      "MinutesSequence": 174,
+      "MinutesSequence": 185,
       "Version": "*",
       "ActionID": 43,
       "ActionName": "Referred to Comm by Council",
@@ -2761,14 +3298,14 @@
       "MatterName": "Zoning, 289 Kent Avenue Rezoning, Brooklyn (N 260088 ZRK).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2026-09-10T17:00:13.35Z"
+      "LastModified": "2026-09-11T00:32:40.617Z"
     },
     {
       "ID": 441868,
       "GUID": "1693ADC3-6842-4F57-B53A-B3E48816D986",
       "Title": "Application number D 2550162086 SWQ (Cali Tajadas Bakery & Restaurant) pursuant to Section 19-160.2 of the Administrative Code of the City of New York, for a revocable consent to establish, maintain, and operate a sidewalk café located at 45-18 104th Street, Corona, NY 11368, Borough of Queens, Community District 4, Council District 21.",
       "AgendaSequence": 0,
-      "MinutesSequence": 176,
+      "MinutesSequence": 187,
       "Version": "*",
       "ActionID": 43,
       "ActionName": "Referred to Comm by Council",
@@ -2778,10 +3315,201 @@
       "MatterName": "Zoning, Cali Tajadas Bakery & Restaurant, Queens (D 2550162086 SWQ).",
       "MatterType": "Land Use Application",
       "MatterStatus": "Committee",
-      "LastModified": "2026-09-10T17:00:30.677Z"
+      "LastModified": "2026-09-11T00:32:40.62Z"
+    },
+    {
+      "ID": 441894,
+      "GUID": "38A17397-EF02-4125-A29E-DF8C3D62E8E2",
+      "Title": "Communication from the Mayor - Submitting the name of Lisa Garcia to the Council for its advice and consent regarding her appointment as a member of the New York City Land Bank, pursuant to Local Law 56 of 2026. ",
+      "AgendaSequence": 0,
+      "MinutesSequence": 30,
+      "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Mayor's Message be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
+      "MatterID": 79349,
+      "MatterFile": "M 0087-2026",
+      "MatterName": "Lisa Garcia, Land Bank",
+      "MatterType": "Mayor's Message",
+      "MatterStatus": "Adopted",
+      "LastModified": "2026-09-11T00:32:40.5Z"
+    },
+    {
+      "ID": 441895,
+      "GUID": "82239EF2-62A4-4DE3-8FFF-7FD4D8DE7355",
+      "Title": "Communication from the Mayor - Submitting the name of Dr. Dave A. Chokshi to the Council for its advice and consent regarding his appointment to the Board of Health, pursuant to Section 31 New York City Charter.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 32,
+      "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Mayor's Message be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 79345,
+      "MatterFile": "M 0088-2026",
+      "MatterName": "Dr. Dave A. Chokshi, Board of Health",
+      "MatterType": "Mayor's Message",
+      "MatterStatus": "Adopted",
+      "LastModified": "2026-09-11T00:32:40.503Z"
+    },
+    {
+      "ID": 441896,
+      "GUID": "3164414B-0101-4854-A03B-7E804D3F6D18",
+      "Title": "Communication from the Mayor - Submitting the name of John Mangin to the Council for its advice and consent regarding his appointment as a member and chair of the New York City Board of Standard and Appeals, pursuant to Section 31 of the New York City Charter.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 34,
+      "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Mayor's Message be Approved, by Council approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 79343,
+      "MatterFile": "M 0089-2026",
+      "MatterName": "John Mangin, Board of Standard and Appeals",
+      "MatterType": "Mayor's Message",
+      "MatterStatus": "Adopted",
+      "LastModified": "2026-09-11T00:32:40.503Z"
+    },
+    {
+      "ID": 441897,
+      "GUID": "A9B26677-FC3F-4902-B94C-5A75BDC55BB4",
+      "Title": "Application number C 260149 ZMK (200 Kent Avenue Rezoning) submitted by 206 Kent LLC and Kent Investor LLC, pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section No. 12c, changing from an M1-4 District to an M1-4A/R7X District and establishing a Special Mixed Use District (MX-8), Borough of Brooklyn, Community District 1, Council District 33.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 41,
+      "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
+      "MatterID": 79201,
+      "MatterFile": "LU 0115-2026",
+      "MatterName": "Zoning, 200 Kent Avenue Rezoning, Brooklyn (C 260149 ZMK).",
+      "MatterType": "Land Use Application",
+      "MatterStatus": "Adopted",
+      "LastModified": "2026-09-11T00:32:40.51Z"
+    },
+    {
+      "ID": 441898,
+      "GUID": "BB51078D-BC34-4C13-9CFB-7F2B7F64A315",
+      "Title": "Application number N 260150 ZRK (200 Kent Avenue Rezoning) submitted by 206 Kent LLC and Kent Investor LLC, pursuant to Section 201 of the New York City Charter, for an amendment of the Zoning Resolution of the City of New York, amending APPENDIX F for the purpose of establishing a Mandatory Inclusionary Housing Area, Borough of Brooklyn, Community District 1, Council District 33.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 43,
+      "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
+      "MatterID": 79202,
+      "MatterFile": "LU 0116-2026",
+      "MatterName": "Zoning, 200 Kent Avenue Rezoning, Brooklyn (N 260150 ZRK).",
+      "MatterType": "Land Use Application",
+      "MatterStatus": "Adopted",
+      "LastModified": "2026-09-11T00:32:40.51Z"
+    },
+    {
+      "ID": 441899,
+      "GUID": "CA1E2E37-B4E4-47B0-8BBF-6C5FB537EC06",
+      "Title": "Application number C 260147 ZMQ (47-03 108th Street Rezoning) submitted by 108 Realty Group Inc., pursuant to Sections 197-c and 201 of the New York City Charter for an amendment of the Zoning Map, Section No. 10b, changing from an R6B District to an R7X District and establishing within the proposed R7X District a C2-4 District, Borough of Queens, Community District 4, Council District 21.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 45,
+      "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
+      "MatterID": 79204,
+      "MatterFile": "LU 0118-2026",
+      "MatterName": "Zoning, 47-03 108th Street Rezoning, Queens (C 260147 ZMQ).",
+      "MatterType": "Land Use Application",
+      "MatterStatus": "Adopted",
+      "LastModified": "2026-09-11T00:32:40.51Z"
+    },
+    {
+      "ID": 441900,
+      "GUID": "14253ED8-07F1-45A3-AB79-06FD3CA5D613",
+      "Title": "Application number N 260148 ZRQ (47-03 108th Street Rezoning) submitted by 108 Realty Group Inc., pursuant to Section 201 of the New York City Charter, for an amendment of the Zoning Resolution of the City of New York, amending APPENDIX F for the purpose of establishing a Mandatory Inclusionary Housing Area, Borough of Queens, Community District 4, Council District 21.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 47,
+      "Version": "*",
+      "ActionID": 5032,
+      "ActionName": "Approved, by Council",
+      "ActionText": "A motion was made that this Land Use Application be Approved, by Council approved by consent Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
+      "MatterID": 79205,
+      "MatterFile": "LU 0119-2026",
+      "MatterName": "Zoning, 47-03 108th Street Rezoning, Queens (N 260148 ZRQ).",
+      "MatterType": "Land Use Application",
+      "MatterStatus": "Adopted",
+      "LastModified": "2026-09-11T00:32:40.513Z"
+    },
+    {
+      "ID": 441904,
+      "GUID": "DD630C9C-6C89-454A-AD56-37721551D9A0",
+      "Title": "Passed The Consent Agenda",
+      "AgendaSequence": 0,
+      "MinutesSequence": 78,
+      "Version": "",
+      "ActionText": "A motion was made that these files be approved by consent vote.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "Consent": 1,
+      "LastModified": "2026-09-11T00:32:40.533Z"
+    },
+    {
+      "ID": 441905,
+      "GUID": "169762C6-EDC4-4A43-BED8-D6C4A83F31AE",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 77,
+      "Version": "",
+      "MinutesNote": "The Majority Leader and Acting President Pro Tempore (Council Member ______) put the question whether the Council would agree with and adopt such reports, which were decided in the affirmative by the following vote:",
+      "LastModified": "2026-09-11T00:32:40.533Z"
+    },
+    {
+      "ID": 441906,
+      "GUID": "280ED1E5-E7B0-483B-8E19-935F9D369A9C",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 79,
+      "Version": "",
+      "MinutesNote": "The following files were removed from the General Orders Calendar and voted separately:\r\n\r\nInt. No. 804-A, ***VOTE: 46-3-1\r\nNegative: Council Members Ariola, Hudson, and Nurse;\r\nAbstention: Council Member P. Sanchez.\r\n\r\nInt. No. 906-A, ***47-2-1\r\nNegative: Council Members Brewer and Hudson;\r\nAbstention: Council Member P. Sanchez.\r\n\r\nPreconsidered Int. No. 1027\r\nAbstention: Council Member Felder.\r\n\r\nM-88 & Res. No. 639, ***VOTE: 44-6-0\r\nNegative: Council Members Ariola, Carr, Felder, Morano, Paladino, and Vernikov.\r\n\r\nM-89 & Res. No. 640, ***VOTE: 40-6-4\r\nNegative: Council Members Ariola, Carr, Morano, Paladino, Vernikov, and Wong;\r\nAbstentions: Council Member Banks, Dinowitz, Lee, and Marte.\r\n\r\n\r\nSee files for individual votes.",
+      "LastModified": "2026-09-11T00:32:40.537Z"
+    },
+    {
+      "ID": 441907,
+      "GUID": "CF6E1A19-37E0-4420-ADBD-D1250CCD1937",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 10,
+      "Version": "",
+      "MinutesNote": "The Majority Leader and Acting President Pro Tempore (Council Member Abreu) put the question whether the Council would agree with and adopt such motion which was decided in the affirmative by the following vote:",
+      "LastModified": "2026-09-11T00:32:40.49Z"
+    },
+    {
+      "ID": 441908,
+      "GUID": "F4777469-6331-4D37-BF7F-E93E7528D6D8",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 11,
+      "Version": "",
+      "MinutesNote": "At this point, the Majority Leader and Acting President Pro Tempore (Council Member Abreu) declared that the aforementioned items were adopted and referred to the Committee on Land Use and to the appropriate Land Use Subcommittee.",
+      "LastModified": "2026-09-11T00:32:40.49Z"
     }
   ],
   "AgendaLastPublished": "2026-09-10T16:34:20.197Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-09-10T19:23:04.553Z"
+  "MinutesLastPublished": "2026-09-11T00:35:29.057Z",
+  "LastModified": "2026-09-11T00:35:29.167Z"
 }
