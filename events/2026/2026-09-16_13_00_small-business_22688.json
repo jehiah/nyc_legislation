@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/9/22688_A_Committee_on_Small_Business_26-09-16_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/9/22688_M_Committee_on_Small_Business_26-09-16_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-3_260916-130714.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22688&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,55 +20,209 @@
       "GUID": "5BA406DF-6826-417D-A795-B75A9ED059AF",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to lease agreements concerning storefront premises",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 77231,
       "MatterFile": "Int 0090-2026",
       "MatterName": "Lease agreements concerning storefront premises.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T14:00:44.267Z"
+      "LastModified": "2026-09-16T20:19:26.117Z"
     },
     {
       "ID": 441342,
       "GUID": "745D69D4-2F04-4ED0-A515-C30155E38257",
       "Title": "A Local Law in relation to establishing a pilot program to match small businesses with social media content creators for assistance with marketing and advertising, and providing for the repeal of such provisions upon the expiration thereof",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 77724,
       "MatterFile": "Int 0408-2026",
       "MatterName": "Establishing a pilot program to match small businesses with social media content creators for assistance with marketing and advertising, and providing for the repeal of such provisions upon the expiration thereof.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-03T14:54:45.553Z"
+      "LastModified": "2026-09-16T20:19:36.2Z"
     },
     {
       "ID": 441343,
       "GUID": "CD5D5D18-ECFB-4878-9BFE-91E7B484F86F",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to reforming the industrial business zone boundary commission",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 76537,
       "MatterFile": "Int 0578-2026",
       "MatterName": "Reforming the industrial business zone boundary commission.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-03T14:54:45.553Z"
+      "LastModified": "2026-09-16T20:19:56.32Z"
     },
     {
       "ID": 441344,
       "GUID": "71F47D2E-D09D-4357-94DC-0988FD79CDD4",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing a legacy business registry and preservation fund",
       "AgendaSequence": 4,
-      "MinutesSequence": 4,
+      "MinutesSequence": 9,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 78646,
       "MatterFile": "Int 0874-2026",
       "MatterName": "Establishing a legacy business registry and preservation fund.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T13:58:40.587Z"
+      "LastModified": "2026-09-16T20:20:06.32Z"
+    },
+    {
+      "ID": 442030,
+      "GUID": "4CE60AF6-6A1C-476A-A2A4-938DF74774DE",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7898,
+          "Slug": "shanel-thomas-henry",
+          "FullName": "Shanel Thomas-Henry",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7894,
+          "Slug": "virginia-maloney",
+          "FullName": "Virginia Maloney",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7887,
+          "Slug": "frank-morano",
+          "FullName": "Frank Morano",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7901,
+          "Slug": "kayla-santosuosso",
+          "FullName": "Kayla Santosuosso",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2026-09-16T20:19:16.027Z"
+    },
+    {
+      "ID": 442031,
+      "GUID": "013F135B-911A-4FAE-A33C-362CC884683D",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Brewer",
+      "LastModified": "2026-09-16T20:19:12.507Z"
+    },
+    {
+      "ID": 442032,
+      "GUID": "A65324A0-A72E-4FDF-B8F2-359558A0240E",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to lease agreements concerning storefront premises",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 77231,
+      "MatterFile": "Int 0090-2026",
+      "MatterName": "Lease agreements concerning storefront premises.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-09-16T20:19:29.533Z"
+    },
+    {
+      "ID": 442033,
+      "GUID": "CD4721F3-9263-43A1-ABB2-828FBEB453C8",
+      "Title": "A Local Law in relation to establishing a pilot program to match small businesses with social media content creators for assistance with marketing and advertising, and providing for the repeal of such provisions upon the expiration thereof",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 77724,
+      "MatterFile": "Int 0408-2026",
+      "MatterName": "Establishing a pilot program to match small businesses with social media content creators for assistance with marketing and advertising, and providing for the repeal of such provisions upon the expiration thereof.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-09-16T20:19:48.673Z"
+    },
+    {
+      "ID": 442034,
+      "GUID": "B761F7B1-8B28-4464-8F26-5477EFBD2B2C",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to reforming the industrial business zone boundary commission",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 76537,
+      "MatterFile": "Int 0578-2026",
+      "MatterName": "Reforming the industrial business zone boundary commission.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-09-16T20:19:59.727Z"
+    },
+    {
+      "ID": 442035,
+      "GUID": "4B5FE6EF-341E-4806-8D01-89C7037EF798",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing a legacy business registry and preservation fund",
+      "AgendaSequence": 0,
+      "MinutesSequence": 10,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 78646,
+      "MatterFile": "Int 0874-2026",
+      "MatterName": "Establishing a legacy business registry and preservation fund.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-09-16T20:20:12.017Z"
     }
   ],
   "AgendaLastPublished": "2026-09-10T14:00:49.643Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-09-10T14:00:49.707Z"
+  "MinutesLastPublished": "2026-09-16T20:20:17.813Z",
+  "LastModified": "2026-09-16T20:20:18.037Z"
 }
