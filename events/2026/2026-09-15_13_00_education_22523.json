@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/9/22523_A_Committee_on_Education_26-09-15_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/9/22523_M_Committee_on_Education_26-09-15_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Oversight and Investigations",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22523&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,26 +20,172 @@
       "GUID": "FDF1A8F3-066E-467B-9A56-692579A57E07",
       "Title": "Oversight – Examining Screen Time and the Use of Digital Devices in New York City Public Schools",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 78971,
       "MatterFile": "T2026-2018",
       "MatterName": "Oversight – Examining Screen Time and the Use of Digital Devices in New York City Public Schools",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-07-13T19:09:08.407Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-09-15T22:08:48.777Z"
     },
     {
       "ID": 438561,
       "GUID": "AE72D6B1-E0B4-4052-8D5D-40B7D052DACE",
       "Title": "Jointly with the Committee on Oversight and Investigations ",
       "AgendaSequence": 2,
+      "MinutesSequence": 5,
+      "Version": "",
+      "LastModified": "2026-09-15T22:08:41.88Z"
+    },
+    {
+      "ID": 441989,
+      "GUID": "028123D7-EB5F-46EE-87E5-7629F110447D",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-c-farias",
+          "FullName": "Amanda C. Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 100
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 200
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 220
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 240
+        },
+        {
+          "ID": 7900,
+          "Slug": "phil-wong",
+          "FullName": "Phil Wong",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 260
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 280
+        }
+      ],
+      "LastModified": "2026-09-15T22:08:37.783Z"
+    },
+    {
+      "ID": 441990,
+      "GUID": "61DA62B5-2AD7-4E99-951E-43B77B540DBB",
+      "Title": "",
+      "AgendaSequence": 0,
       "MinutesSequence": 2,
       "Version": "",
-      "LastModified": "2026-05-21T20:57:32.447Z"
+      "MinutesNote": "Other Council Members Attending: Ung, Morano, Carr, Speaker Menin and Public Advocate Williams",
+      "LastModified": "2026-09-15T22:07:16.913Z"
+    },
+    {
+      "ID": 441991,
+      "GUID": "9217BADF-2E86-41DD-BC6F-F1127190D7EA",
+      "Title": "Oversight – Examining Screen Time and the Use of Digital Devices in New York City Public Schools",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 78971,
+      "MatterFile": "T2026-2018",
+      "MatterName": "Oversight – Examining Screen Time and the Use of Digital Devices in New York City Public Schools",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-09-15T22:08:55.637Z"
     }
   ],
   "AgendaLastPublished": "2026-07-13T19:09:13.927Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-07-13T19:09:13.96Z"
+  "MinutesLastPublished": "2026-09-15T22:09:00.83Z",
+  "LastModified": "2026-09-15T22:09:00.89Z"
 }

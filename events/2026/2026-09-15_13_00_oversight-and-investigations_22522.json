@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/9/22522_A_Committee_on_Oversight_and_Investigations_26-09-15_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/9/22522_M_Committee_on_Oversight_and_Investigations_26-09-15_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Education.",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_260915-131911.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22522&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,26 +21,124 @@
       "GUID": "AB7AE0F5-6A66-42F6-B7A3-52F55D976072",
       "Title": "Oversight – Examining Screen Time and the Use of Digital Devices in New York City Public Schools",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 78970,
       "MatterFile": "T2026-2017",
       "MatterName": "Oversight – Examining Screen Time and the Use of Digital Devices in New York City Public Schools",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-07-13T19:08:32.553Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-09-15T22:32:37.12Z"
     },
     {
       "ID": 438559,
       "GUID": "1B60263A-CF46-41D3-9D0E-FF652EE6726F",
       "Title": "Jointly with the Committee on Education",
       "AgendaSequence": 2,
+      "MinutesSequence": 5,
+      "Version": "",
+      "LastModified": "2026-09-15T22:32:32.377Z"
+    },
+    {
+      "ID": 441992,
+      "GUID": "94EB969F-712D-4F45-AC1C-D267D9329020",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 80
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 120
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2026-09-15T22:32:47.453Z"
+    },
+    {
+      "ID": 441993,
+      "GUID": "D86BAC0A-FB4F-49C8-A616-4DBECACF10EE",
+      "Title": "",
+      "AgendaSequence": 0,
       "MinutesSequence": 2,
       "Version": "",
-      "LastModified": "2026-05-21T20:58:35.27Z"
+      "MinutesNote": "Other Council Members Attending: Dinowitz, Schulman, Louis, Morano, De La Rosa, Wong, Narcisse, Joseph, Farías, Brewer, Maloney, Speaker Menin and Public Advocate Williams",
+      "LastModified": "2026-09-15T22:31:48.633Z"
+    },
+    {
+      "ID": 441994,
+      "GUID": "A3D127B3-7827-416F-B9FA-0E72B8249E65",
+      "Title": "Oversight – Examining Screen Time and the Use of Digital Devices in New York City Public Schools",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 78970,
+      "MatterFile": "T2026-2017",
+      "MatterName": "Oversight – Examining Screen Time and the Use of Digital Devices in New York City Public Schools",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-09-15T22:32:41.267Z"
     }
   ],
   "AgendaLastPublished": "2026-07-13T19:08:37.653Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-07-13T19:08:37.747Z"
+  "MinutesLastPublished": "2026-09-15T22:32:53.39Z",
+  "LastModified": "2026-09-15T22:32:53.517Z"
 }
