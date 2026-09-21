@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/9/22705_A_Committee_on_Mental_Health_and_Substance_Use_26-09-18_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/9/22705_M_Committee_on_Mental_Health_and_Substance_Use_26-09-18_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Veterans",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22705&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,30 +20,147 @@
       "GUID": "84E0B95C-9D30-4361-BF15-1BDB904C15E5",
       "Title": "Oversight - Mental Health Services for Veterans and Military Families.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 79377,
       "MatterFile": "T2026-2424",
       "MatterName": "Oversight - Mental Health Services for Veterans and Military Families.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-08-31T19:06:35.78Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-09-21T17:15:01.463Z"
     },
     {
       "ID": 441428,
       "GUID": "B41E32F1-D482-467A-A1AB-E558A16C1A93",
       "Title": "Resolution declaring April 7 as White Star Family Day in the City of New York",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 79009,
       "MatterFile": "Res 0493-2026",
       "MatterName": "Declaring April 7 as White Star Family Day.",
       "MatterType": "Resolution",
-      "LastModified": "2026-08-31T19:06:21.203Z"
+      "LastModified": "2026-09-21T17:15:16.78Z"
+    },
+    {
+      "ID": 442103,
+      "GUID": "2C8C1568-4C31-45C8-BF86-80F253C727EB",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7813,
+          "Slug": "tiffany-l-caban",
+          "FullName": "Tiffany L. Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7896,
+          "Slug": "shirley-aldebol",
+          "FullName": "Shirley Aldebol",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 5289,
+          "Slug": "simcha-felder",
+          "FullName": "Simcha Felder",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 80
+        },
+        {
+          "ID": 7899,
+          "Slug": "ty-hankerson",
+          "FullName": "Ty Hankerson",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 100
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7874,
+          "Slug": "carl-wilson",
+          "FullName": "Carl Wilson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 141
+        }
+      ],
+      "LastModified": "2026-09-21T17:14:45.98Z"
+    },
+    {
+      "ID": 442104,
+      "GUID": "CB0E6EB4-CD10-43B0-97AD-92640A1A79AD",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Wong and Morano",
+      "LastModified": "2026-09-21T17:15:29.153Z"
+    },
+    {
+      "ID": 442105,
+      "GUID": "E3ACE8B5-CB32-4F1D-999A-252E5211151B",
+      "Title": "Oversight - Mental Health Services for Veterans and Military Families.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 79377,
+      "MatterFile": "T2026-2424",
+      "MatterName": "Oversight - Mental Health Services for Veterans and Military Families.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-09-21T17:15:07.767Z"
+    },
+    {
+      "ID": 442106,
+      "GUID": "5E2818B3-7B50-4031-B08D-0602C070474D",
+      "Title": "Resolution declaring April 7 as White Star Family Day in the City of New York",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 79009,
+      "MatterFile": "Res 0493-2026",
+      "MatterName": "Declaring April 7 as White Star Family Day.",
+      "MatterType": "Resolution",
+      "LastModified": "2026-09-21T17:15:22.953Z"
     }
   ],
   "AgendaLastPublished": "2026-08-31T19:06:42.787Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-08-31T19:06:43.27Z"
+  "MinutesLastPublished": "2026-09-21T17:15:34.8Z",
+  "LastModified": "2026-09-21T17:15:34.947Z"
 }

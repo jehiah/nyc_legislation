@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/9/22704_A_Committee_on_Veterans_26-09-18_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/9/22704_M_Committee_on_Veterans_26-09-18_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Mental Health and Substance.",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_260918-130908.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22704&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
@@ -20,30 +21,131 @@
       "GUID": "85067FEE-B69C-4FCD-9BD7-9220C8CA08DA",
       "Title": "Oversight - Mental Health Services for Veterans and Military Families.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 79376,
       "MatterFile": "T2026-2423",
       "MatterName": "Oversight - Mental Health Services for Veterans and Military Families.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-08-31T19:05:27Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-09-21T17:21:11.943Z"
     },
     {
       "ID": 441427,
       "GUID": "13519217-4631-4196-8F9C-618FEC9276B7",
       "Title": "Resolution declaring April 7 as White Star Family Day in the City of New York",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 79009,
       "MatterFile": "Res 0493-2026",
       "MatterName": "Declaring April 7 as White Star Family Day.",
       "MatterType": "Resolution",
-      "LastModified": "2026-09-01T20:47:18.497Z"
+      "LastModified": "2026-09-21T17:21:21.937Z"
+    },
+    {
+      "ID": 442107,
+      "GUID": "AD0CD6E1-CF18-4A3E-AA6C-59BD80F1428F",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7887,
+          "Slug": "frank-morano",
+          "FullName": "Frank Morano",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7811,
+          "Slug": "vickie-paladino",
+          "FullName": "Vickie Paladino",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 80
+        },
+        {
+          "ID": 7900,
+          "Slug": "phil-wong",
+          "FullName": "Phil Wong",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        }
+      ],
+      "LastModified": "2026-09-21T17:21:03.6Z"
+    },
+    {
+      "ID": 442108,
+      "GUID": "D6CBE407-6749-4735-A8D1-EEB3164647BE",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Cabán, Aldebol, Wilson and Lee",
+      "LastModified": "2026-09-21T17:19:33.757Z"
+    },
+    {
+      "ID": 442109,
+      "GUID": "C49FC01F-D03D-474A-A95F-36A2B64D1387",
+      "Title": "Oversight - Mental Health Services for Veterans and Military Families.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 79376,
+      "MatterFile": "T2026-2423",
+      "MatterName": "Oversight - Mental Health Services for Veterans and Military Families.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-09-21T17:21:14.817Z"
+    },
+    {
+      "ID": 442110,
+      "GUID": "FD86BFA5-82D3-49C9-8D37-3E9C8FDC7F3C",
+      "Title": "Resolution declaring April 7 as White Star Family Day in the City of New York",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 79009,
+      "MatterFile": "Res 0493-2026",
+      "MatterName": "Declaring April 7 as White Star Family Day.",
+      "MatterType": "Resolution",
+      "LastModified": "2026-09-21T17:21:30.54Z"
     }
   ],
   "AgendaLastPublished": "2026-08-31T19:05:33.47Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-09-18T20:22:08.933Z"
+  "MinutesLastPublished": "2026-09-21T17:21:35.637Z",
+  "LastModified": "2026-09-21T17:21:35.7Z"
 }
