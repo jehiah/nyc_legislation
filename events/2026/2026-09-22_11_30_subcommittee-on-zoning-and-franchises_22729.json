@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/9/22729_A_Subcommittee_on_Zoning_and_Franchises_26-09-22_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/9/22729_M_Subcommittee_on_Zoning_and_Franchises_26-09-22_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_260922-114801.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22729&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,17 +20,121 @@
       "GUID": "D603C9E3-6CA5-485B-9831-FC04B0704931",
       "Title": "Application number D 2550162086 SWQ (Cali Tajadas Bakery & Restaurant) pursuant to Section 19-160.2 of the Administrative Code of the City of New York, for a revocable consent to establish, maintain, and operate a sidewalk café located at 45-18 104th Street, Corona, NY 11368, Borough of Queens, Community District 4, Council District 21.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Land Use Application was Hearing Held by Committee",
       "MatterID": 79500,
       "MatterFile": "LU 0141-2026",
       "MatterName": "Zoning, Cali Tajadas Bakery & Restaurant, Queens (D 2550162086 SWQ).",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-09-20T16:48:25.69Z"
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2026-09-22T17:43:04.62Z"
+    },
+    {
+      "ID": 442289,
+      "GUID": "FB144D0E-493C-43B6-A168-ECCE6ED2D18C",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7895,
+          "Slug": "elsie-encarnacion",
+          "FullName": "Elsie Encarnación",
+          "ValueID": 43,
+          "Value": "Conflict",
+          "Sort": 60
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-c-farias",
+          "FullName": "Amanda C. Farías",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 80
+        },
+        {
+          "ID": 5289,
+          "Slug": "simcha-felder",
+          "FullName": "Simcha Felder",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 120
+        },
+        {
+          "ID": 7897,
+          "Slug": "justin-e-sanchez",
+          "FullName": "Justin E. Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 160
+        },
+        {
+          "ID": 7898,
+          "Slug": "shanel-thomas-henry",
+          "FullName": "Shanel Thomas-Henry",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        }
+      ],
+      "LastModified": "2026-09-22T18:28:52.297Z"
+    },
+    {
+      "ID": 442290,
+      "GUID": "2A4BF9B7-F63F-47F3-94B9-F3D924311CB0",
+      "Title": "Application number D 2550162086 SWQ (Cali Tajadas Bakery & Restaurant) pursuant to Section 19-160.2 of the Administrative Code of the City of New York, for a revocable consent to establish, maintain, and operate a sidewalk café located at 45-18 104th Street, Corona, NY 11368, Borough of Queens, Community District 4, Council District 21.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5050,
+      "ActionName": "Laid Over by Subcommittee",
+      "ActionText": "This Land Use Application was Laid Over by Subcommittee",
+      "MatterID": 79500,
+      "MatterFile": "LU 0141-2026",
+      "MatterName": "Zoning, Cali Tajadas Bakery & Restaurant, Queens (D 2550162086 SWQ).",
+      "MatterType": "Land Use Application",
+      "MatterStatus": "Laid Over in Committee",
+      "LastModified": "2026-09-22T17:43:23.427Z"
     }
   ],
   "AgendaLastPublished": "2026-09-20T16:48:32.813Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-09-20T16:48:32.907Z"
+  "MinutesLastPublished": "2026-09-22T18:29:00.403Z",
+  "LastModified": "2026-09-22T18:29:00.543Z"
 }

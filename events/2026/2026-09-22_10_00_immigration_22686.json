@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/9/22686_A_Committee_on_Immigration_26-09-22_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/9/22686_M_Committee_on_Immigration_26-09-22_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-3_260922-100643.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22686&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,30 +20,131 @@
       "GUID": "7707C2B5-E8B0-4DE5-B74B-BE80A6C08EAD",
       "Title": "Oversight - Examining the Executive Order 13 of 2026 Report of Audit Findings and Recommendations.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 79420,
       "MatterFile": "T2026-2467",
       "MatterName": "Oversight - Examining the Executive Order 13 of 2026 Report of Audit Findings and Recommendations.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-09-10T19:43:41.29Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-09-22T17:17:11.713Z"
     },
     {
       "ID": 441893,
       "GUID": "498830AA-6209-45B7-8AC5-810E3D203274",
       "Title": "Resolution calling upon the United States Senate to pass, and the President to sign, S.4814, to require the Secretary of Homeland Security to designate Haiti for Temporary Protected Status",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 79354,
       "MatterFile": "Res 0626-2026",
       "MatterName": "Require the Secretary of Homeland Security to designate Haiti for Temporary Protected Status ( S.4814).",
       "MatterType": "Resolution",
-      "LastModified": "2026-09-10T19:44:05.577Z"
+      "LastModified": "2026-09-22T17:17:21.037Z"
+    },
+    {
+      "ID": 442285,
+      "GUID": "D4AA6542-3D33-4B8D-A568-6F33252A5A66",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7895,
+          "Slug": "elsie-encarnacion",
+          "FullName": "Elsie Encarnación",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 43,
+          "Value": "Conflict",
+          "Sort": 60
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 80
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        }
+      ],
+      "LastModified": "2026-09-22T17:17:03.88Z"
+    },
+    {
+      "ID": 442286,
+      "GUID": "AB8A7E31-BFAD-4CFF-9FBC-E8B2D343E208",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Louis",
+      "LastModified": "2026-09-22T17:17:05.693Z"
+    },
+    {
+      "ID": 442287,
+      "GUID": "BEDFE06F-0E29-41FA-85D9-548FCAAD0CB6",
+      "Title": "Oversight - Examining the Executive Order 13 of 2026 Report of Audit Findings and Recommendations.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 79420,
+      "MatterFile": "T2026-2467",
+      "MatterName": "Oversight - Examining the Executive Order 13 of 2026 Report of Audit Findings and Recommendations.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-09-22T17:17:15.18Z"
+    },
+    {
+      "ID": 442288,
+      "GUID": "C6FED5D2-D3BA-4C30-AB25-05A4B00380CA",
+      "Title": "Resolution calling upon the United States Senate to pass, and the President to sign, S.4814, to require the Secretary of Homeland Security to designate Haiti for Temporary Protected Status",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 79354,
+      "MatterFile": "Res 0626-2026",
+      "MatterName": "Require the Secretary of Homeland Security to designate Haiti for Temporary Protected Status ( S.4814).",
+      "MatterType": "Resolution",
+      "LastModified": "2026-09-22T17:17:25.693Z"
     }
   ],
   "AgendaLastPublished": "2026-09-10T19:44:17.25Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-09-10T19:44:17.343Z"
+  "MinutesLastPublished": "2026-09-22T17:17:30.94Z",
+  "LastModified": "2026-09-22T17:17:30.997Z"
 }
