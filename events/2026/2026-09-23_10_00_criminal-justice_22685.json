@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/9/22685_A_Committee_on_Criminal_Justice_26-09-23_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/9/22685_M_Committee_on_Criminal_Justice_26-09-23_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_260923-101225.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22685&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,56 +20,211 @@
       "GUID": "5DF13C39-7D89-4F07-BCF6-50D08D042E56",
       "Title": "Oversight - Mental Health Care in New York City Jails.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 79409,
       "MatterFile": "T2026-2456",
       "MatterName": "Oversight - Mental Health Care in New York City Jails.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-09-10T14:10:48Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-09-23T20:08:43.647Z"
     },
     {
       "ID": 441444,
       "GUID": "8D21EEA4-1DB6-4118-8AFA-149BF8C1F01F",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the provision of mental health services for children visiting incarcerated individuals",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 77779,
       "MatterFile": "Int 0453-2026",
       "MatterName": "Provision of mental health services for children visiting incarcerated individuals.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T15:01:49.783Z"
+      "LastModified": "2026-09-23T20:09:04.82Z"
     },
     {
       "ID": 441445,
       "GUID": "19F52E74-5DAD-46C2-8BBF-C3BD1A10F617",
       "Title": "A Local Law in relation to extending the minimum duration of and updating other requirements pertaining to the task force created to address policies related to the treatment and housing of transgender, gender nonconforming, non-binary, and intersex individuals in the custody of the department of correction",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 77423,
       "MatterFile": "Int 0133-2026",
       "MatterName": "Extending the minimum duration of and updating other requirements pertaining to the task force created to address policies related to the treatment and housing of transgender, gender nonconforming, non-binary, and intersex individuals.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-02T14:33:10.06Z"
+      "LastModified": "2026-09-23T20:08:54.413Z"
     },
     {
       "ID": 441803,
       "GUID": "98E1B24A-20F1-4535-BA40-E88040CDD08C",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of correction to create and implement policies to address medical needs during and after lock-ins",
       "AgendaSequence": 4,
-      "MinutesSequence": 4,
+      "MinutesSequence": 9,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 78633,
       "MatterFile": "Int 0809-2026",
       "MatterName": "Requiring the department of correction to create and implement policies to address medical needs during and after lock-ins.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-10T15:02:15.137Z"
+      "LastModified": "2026-09-23T20:09:17.367Z"
+    },
+    {
+      "ID": 442397,
+      "GUID": "AED42BAB-D4C3-4B94-8338-6DCEBB82E803",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-l-caban",
+          "FullName": "Tiffany L. Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-j-feliz",
+          "FullName": "Oswald J. Feliz",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 80
+        },
+        {
+          "ID": 7887,
+          "Slug": "frank-morano",
+          "FullName": "Frank Morano",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2026-09-23T20:08:29.503Z"
+    },
+    {
+      "ID": 442398,
+      "GUID": "755ED598-8553-4C77-877F-417510158C45",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Stevens",
+      "LastModified": "2026-09-23T20:08:20.67Z"
+    },
+    {
+      "ID": 442399,
+      "GUID": "5A3E6F6D-D5D5-4DF6-9BCA-F8C171445259",
+      "Title": "Oversight - Mental Health Care in New York City Jails.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 79409,
+      "MatterFile": "T2026-2456",
+      "MatterName": "Oversight - Mental Health Care in New York City Jails.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-09-23T20:08:47.82Z"
+    },
+    {
+      "ID": 442400,
+      "GUID": "B7BC0228-BA4D-4C2B-9730-2C46FC6A02AF",
+      "Title": "A Local Law in relation to extending the minimum duration of and updating other requirements pertaining to the task force created to address policies related to the treatment and housing of transgender, gender nonconforming, non-binary, and intersex individuals in the custody of the department of correction",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 77423,
+      "MatterFile": "Int 0133-2026",
+      "MatterName": "Extending the minimum duration of and updating other requirements pertaining to the task force created to address policies related to the treatment and housing of transgender, gender nonconforming, non-binary, and intersex individuals.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-09-23T20:08:58.653Z"
+    },
+    {
+      "ID": 442401,
+      "GUID": "CB70758E-B1C8-438E-A599-FDC5EFF517DA",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the provision of mental health services for children visiting incarcerated individuals",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 77779,
+      "MatterFile": "Int 0453-2026",
+      "MatterName": "Provision of mental health services for children visiting incarcerated individuals.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-09-23T20:09:09.543Z"
+    },
+    {
+      "ID": 442402,
+      "GUID": "F78E01EF-7E6D-4FAE-AF5D-BEE0017B2FD7",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of correction to create and implement policies to address medical needs during and after lock-ins",
+      "AgendaSequence": 0,
+      "MinutesSequence": 10,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 78633,
+      "MatterFile": "Int 0809-2026",
+      "MatterName": "Requiring the department of correction to create and implement policies to address medical needs during and after lock-ins.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-09-23T20:09:53.163Z"
     }
   ],
   "AgendaLastPublished": "2026-09-10T15:02:21.83Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-09-10T15:02:21.93Z"
+  "MinutesLastPublished": "2026-09-23T20:09:57.82Z",
+  "LastModified": "2026-09-23T20:09:57.85Z"
 }

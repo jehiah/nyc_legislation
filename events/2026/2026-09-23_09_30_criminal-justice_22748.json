@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/9/22748_A_Committee_on_Criminal_Justice_26-09-23_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/9/22748_M_Committee_on_Criminal_Justice_26-09-23_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_260923-100349.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22748&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,18 +21,139 @@
       "GUID": "DCDA7D4A-A8B2-4112-8E54-A1900538455C",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to returning funds remaining in commissary accounts when incarcerated individuals are released from custody",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 246-A",
       "MinutesNote": "Proposed Int. No. 246-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 77813,
       "MatterFile": "Int 0246-2026",
       "MatterName": "Returning funds remaining in commissary accounts when incarcerated individuals are released from custody.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-22T17:51:30.27Z"
+      "LastModified": "2026-09-23T15:48:00.507Z"
+    },
+    {
+      "ID": 442361,
+      "GUID": "5FF3BB0D-FBB2-4518-A9E9-5087D3DDB360",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-l-caban",
+          "FullName": "Tiffany L. Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-j-feliz",
+          "FullName": "Oswald J. Feliz",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 80
+        },
+        {
+          "ID": 7887,
+          "Slug": "frank-morano",
+          "FullName": "Frank Morano",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2026-09-23T15:47:47.247Z"
+    },
+    {
+      "ID": 442362,
+      "GUID": "DD253E40-C747-4118-96BB-2CB10F51CDE9",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to returning funds remaining in commissary accounts when incarcerated individuals are released from custody",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 77813,
+      "MatterFile": "Int 0246-2026",
+      "MatterName": "Returning funds remaining in commissary accounts when incarcerated individuals are released from custody.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-09-23T15:48:11.71Z"
+    },
+    {
+      "ID": 442363,
+      "GUID": "80949630-0110-4254-A0DA-55A4EC6EEE00",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to returning funds remaining in commissary accounts when incarcerated individuals are released from custody",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 77813,
+      "MatterFile": "Int 0246-2026",
+      "MatterName": "Returning funds remaining in commissary accounts when incarcerated individuals are released from custody.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-09-23T15:48:15.97Z"
+    },
+    {
+      "ID": 442364,
+      "GUID": "6B88D265-C60D-4144-AD39-AF7A9807DF42",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to returning funds remaining in commissary accounts when incarcerated individuals are released from custody",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 77813,
+      "MatterFile": "Int 0246-2026",
+      "MatterName": "Returning funds remaining in commissary accounts when incarcerated individuals are released from custody.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-09-23T15:48:30.5Z"
     }
   ],
   "AgendaLastPublished": "2026-09-22T17:51:35.92Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-09-22T17:51:36.013Z"
+  "MinutesLastPublished": "2026-09-23T15:48:37.873Z",
+  "LastModified": "2026-09-23T15:48:38.113Z"
 }

@@ -6,8 +6,8 @@
   "Title": "A Local Law to amend the administrative code of the city of New York, in relation to streamlining enrollment of eligible individuals in fair fares",
   "TypeID": 2,
   "TypeName": "Introduction",
-  "StatusID": 25,
-  "StatusName": "Laid Over in Committee",
+  "StatusID": 24,
+  "StatusName": "Reported from Committee",
   "BodyID": 12,
   "BodyName": "Committee on General Welfare",
   "IntroDate": "2026-01-29T00:00:00Z",
@@ -95,6 +95,16 @@
       "ID": 7804,
       "Slug": "shaun-abreu",
       "FullName": "Shaun Abreu"
+    },
+    {
+      "ID": 7895,
+      "Slug": "elsie-encarnacion",
+      "FullName": "Elsie Encarnación"
+    },
+    {
+      "ID": 7810,
+      "Slug": "amanda-c-farias",
+      "FullName": "Amanda C. Farías"
     }
   ],
   "History": [
@@ -184,6 +194,131 @@
       "Version": "*",
       "MatterStatusID": 25,
       "LastModified": "2026-05-06T22:42:44.14Z"
+    },
+    {
+      "ID": 442047,
+      "Date": "2026-09-23T13:00:00Z",
+      "ActionID": 54,
+      "Action": "Hearing Held by Committee",
+      "Description": "This Introduction was Hearing Held by Committee",
+      "BodyID": 12,
+      "BodyName": "Committee on General Welfare",
+      "EventID": 22744,
+      "AgendaSequence": 1,
+      "MinutesSequence": 2,
+      "Version": "*",
+      "AgendaNote": "Proposed Int. No. 248-A",
+      "MinutesNote": "Proposed Int. No. 248-A",
+      "MatterStatusID": 3,
+      "LastModified": "2026-09-23T17:38:51.967Z"
+    },
+    {
+      "ID": 442382,
+      "Date": "2026-09-23T13:00:00Z",
+      "ActionID": 5001,
+      "Action": "Amendment Proposed by Comm",
+      "Description": "This Introduction was Amendment Proposed by Comm",
+      "BodyID": 12,
+      "BodyName": "Committee on General Welfare",
+      "EventID": 22744,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2026-09-23T17:38:55.907Z"
+    },
+    {
+      "ID": 442383,
+      "Date": "2026-09-23T13:00:00Z",
+      "ActionID": 33,
+      "Action": "Amended by Committee",
+      "Description": "This Introduction was Amended by Committee",
+      "BodyID": 12,
+      "BodyName": "Committee on General Welfare",
+      "EventID": 22744,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "MatterStatusID": 3,
+      "LastModified": "2026-09-23T17:39:00.727Z"
+    },
+    {
+      "ID": 442384,
+      "Date": "2026-09-23T13:00:00Z",
+      "ActionID": 32,
+      "Action": "Approved by Committee",
+      "Description": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "BodyID": 12,
+      "BodyName": "Committee on General Welfare",
+      "EventID": 22744,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterStatusID": 24,
+      "Votes": [
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 20
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 40
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "VoteID": 16,
+          "Vote": "Absent",
+          "Sort": 60
+        },
+        {
+          "ID": 7887,
+          "Slug": "frank-morano",
+          "FullName": "Frank Morano",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 80
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 120
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 140
+        },
+        {
+          "ID": 7874,
+          "Slug": "carl-wilson",
+          "FullName": "Carl Wilson",
+          "VoteID": 15,
+          "Vote": "Affirmative",
+          "Result": 1,
+          "Sort": 160
+        }
+      ],
+      "LastModified": "2026-09-23T17:39:23.947Z"
     }
   ],
   "Attachments": [
@@ -259,7 +394,7 @@
     },
     {
       "ID": 346868,
-      "LastModified": "2026-09-22T20:09:18.133Z",
+      "LastModified": "2026-09-23T20:02:33.263Z",
       "Name": "Proposed Int. No. 248-A - 9/18/26",
       "Link": "https://nyc.legistar1.com/nyc/attachments/77e8f53f-ae41-4e43-904b-1f9c09ec84e4.docx",
       "Sort": 11
@@ -277,11 +412,18 @@
       "Name": "Proposed Int. No. 248-A Fiscal Impact Statement - City Council",
       "Link": "https://nyc.legistar1.com/nyc/attachments/bd30118d-8a6a-4ee0-8e35-21b1d8e549a0.docx",
       "Sort": 13
+    },
+    {
+      "ID": 347106,
+      "LastModified": "2026-09-23T20:05:39.08Z",
+      "Name": "Committee Report - Stated Meeting",
+      "Link": "https://nyc.legistar1.com/nyc/attachments/e4dada18-c479-4146-a56d-8d8221b5d1f3.docx",
+      "Sort": 14
     }
   ],
   "Summary": "This bill would require the Commissioner of Social Services (Commissioner) to create a streamlined process for individuals to enroll in fair fares. The system would provide an option for eligible individuals to consent to the use of information provided in such individual’s application for the Supplemental Nutrition Assistance Program or cash assistance for the purpose of enrollment in fair fares. The bill would also require the Commissioner to notify eligible individuals about this streamlined process. Additionally, the bill would require the Commissioner to make best efforts to establish an agreement with the New York State Office of Temporary Disability Assistance and other relevant state agencies to obtain information necessary to notify additional individuals who may be eligible for fair fares, and to report to the Council about such efforts. The bill would also require the Commissioner to report to the Council annually about enrollment and usage of the fair fares program. Finally, the bill would require the Commissioner to study the feasibility of establishing automatic enrollment in all city-administered benefits programs.",
   "TextID": 83691,
-  "Text": "Be it enacted by the Council as follows:\n\n\nSection 1. Chapter 1 of title 21 of the administrative code of the city of New York is amended by adding a new section 21-158 to read as follows:\n§ 21-158 Streamlining enrollment in fair fares. a. Definitions. For purposes of this section, the following terms have the following meanings: \nACCESS HRA. The term “ACCESS HRA” has the same meaning as set forth in subdivision a of section 21-150.\nDesignated citywide languages. The term “designated citywide languages” has the same meaning as set forth in section 23-1101.\nEligible individual. The term “eligible individual” means any individual who meets the eligibility criteria for fair fares. \nFair fares. The term “fair fares” means the transit discount program administered by the commissioner pursuant to chapter 12 of title 68 of the rules of the city of New York, or a successor provision. \nJob center. The term “job center” means any location designated by the department as a job center where individuals can complete an application for cash assistance in person.\nSNAP. The term “SNAP” means the supplemental nutrition assistance program administered by the United States department of agriculture.\nSNAP center. The term “SNAP center” means any location designated by the department as a SNAP center where individuals can complete an application in person for SNAP.\nb. Establishment of streamlined enrollment process. No later than 1 year after the effective date of the local law that added this section, the commissioner shall establish and maintain a streamlined process for eligible individuals to enroll in fair fares on ACCESS HRA and in-person at job centers and SNAP centers. Such system shall provide an option for eligible individuals to consent to the use of any information provided to the department in such individual’s application for SNAP or cash assistance for the purposes of enrollment in fair fares.\nc. Notice. The commissioner shall provide an individualized notice every 6 months to current cash assistance and SNAP recipients who are eligible individuals not currently enrolled in fair fares of the option to initiate the streamlined enrollment process for fair fares in ACCESS HRA. Such notice shall be provided in plain and simple language and in an accessible and conspicuous manner, and shall include:\n1. A description of the fair fares program;\n2. Any costs associated with participation in fair fares; and\n3. The steps necessary to initiate the streamlined enrollment process for fair fares. \nd. Accessibility. The commissioner shall make the process required under subdivision b of this section and the notice required under subdivision c of this section available in English and the designated citywide languages.\n e. Data sharing agreements. 1. No later than 1 year after the effective date of the local law that added this section, the commissioner shall make best efforts to establish an agreement with the New York state office of temporary disability assistance and any other relevant state agencies to obtain information necessary to notify additional eligible individuals who have not received an individualized notice pursuant to subdivision c of this section. \n2. No later than 1 year after the effective date of the local law that added this section, the commissioner shall submit to the mayor and the speaker of the council and publish on the department’s website the specific efforts it took to establish an agreement with the New York state office of temporary disability assistance and any other relevant state agencies to share information relevant to identifying additional eligible individuals who did not receive an individualized notice pursuant to subdivision c of this section.\nf. Reporting. No later than 1 year after the effective date of the local law that added this section, and annually thereafter by July 31, the commissioner shall submit to the mayor and the speaker of the council a report including the following information for the previous 12 months:\n1. The total number of individuals enrolled in fair fares, disaggregated by enrollment method;\n2. The number of individuals enrolled in fair fares pursuant to the process required by subdivision b of this section;\n3. The number of individuals who utilized fair fares and the average number of rides taken per week;\n4. A demographic breakdown of age, sex, and race of individuals enrolled in fair fares, disaggregated by enrollment method; and\n5. Any other information the department deems relevant.\ng. Feasibility study. The commissioner shall study the feasibility of establishing automatic enrollment in all city-administered benefits programs. Through such study, the commissioner shall assess any barriers to automatic enrollment, including fiscal constraints, availability of data, and privacy concerns. No later than 18 months after the effective date of the local law that added this section, the commissioner shall submit to the mayor and the speaker of the council and publish on the department’s website the findings of the study. \n§ 2. This local law takes effect immediately.\nJL/ACK/HK\nLS #7043/7303/13035/15925\nInt. #1028-2024\n9/16/2026 8:41 PM",
+  "Text": "A Local Law to amend the administrative code of the city of New York, in relation to streamlining enrollment of eligible individuals in fair fares\n\nBe it enacted by the Council as follows:\n\n\nSection 1. Chapter 1 of title 21 of the administrative code of the city of New York is amended by adding a new section 21-158 to read as follows:\n§ 21-158 Streamlining enrollment in fair fares. a. Definitions. For purposes of this section, the following terms have the following meanings: \nACCESS HRA. The term “ACCESS HRA” has the same meaning as set forth in subdivision a of section 21-150.\nDesignated citywide languages. The term “designated citywide languages” has the same meaning as set forth in section 23-1101.\nEligible individual. The term “eligible individual” means any individual who meets the eligibility criteria for fair fares. \nFair fares. The term “fair fares” means the transit discount program administered by the commissioner pursuant to chapter 12 of title 68 of the rules of the city of New York, or a successor provision. \nJob center. The term “job center” means any location designated by the department as a job center where individuals can complete an application for cash assistance in person.\nSNAP. The term “SNAP” means the supplemental nutrition assistance program administered by the United States department of agriculture.\nSNAP center. The term “SNAP center” means any location designated by the department as a SNAP center where individuals can complete an application in person for SNAP.\nb. Establishment of streamlined enrollment process. No later than 1 year after the effective date of the local law that added this section, the commissioner shall establish and maintain a streamlined process for eligible individuals to enroll in fair fares on ACCESS HRA and in-person at job centers and SNAP centers. Such system shall provide an option for eligible individuals to consent to the use of any information provided to the department in such individual’s application for SNAP or cash assistance for the purposes of enrollment in fair fares.\nc. Notice. The commissioner shall provide an individualized notice every 6 months to current cash assistance and SNAP recipients who are eligible individuals not currently enrolled in fair fares of the option to initiate the streamlined enrollment process for fair fares in ACCESS HRA. Such notice shall be provided in plain and simple language and in an accessible and conspicuous manner, and shall include:\n1. A description of the fair fares program;\n2. Any costs associated with participation in fair fares; and\n3. The steps necessary to initiate the streamlined enrollment process for fair fares. \nd. Accessibility. The commissioner shall make the process required under subdivision b of this section and the notice required under subdivision c of this section available in English and the designated citywide languages.\n e. Data sharing agreements. 1. No later than 1 year after the effective date of the local law that added this section, the commissioner shall make best efforts to establish an agreement with the New York state office of temporary disability assistance and any other relevant state agencies to obtain information necessary to notify additional eligible individuals who have not received an individualized notice pursuant to subdivision c of this section. \n2. No later than 1 year after the effective date of the local law that added this section, the commissioner shall submit to the mayor and the speaker of the council and publish on the department’s website the specific efforts it took to establish an agreement with the New York state office of temporary disability assistance and any other relevant state agencies to share information relevant to identifying additional eligible individuals who did not receive an individualized notice pursuant to subdivision c of this section.\nf. Reporting. No later than 1 year after the effective date of the local law that added this section, and annually thereafter by July 31, the commissioner shall submit to the mayor and the speaker of the council a report including the following information for the previous 12 months:\n1. The total number of individuals enrolled in fair fares, disaggregated by enrollment method;\n2. The number of individuals enrolled in fair fares pursuant to the process required by subdivision b of this section;\n3. The number of individuals who utilized fair fares and the average number of rides taken per week;\n4. A demographic breakdown of age, sex, and race of individuals enrolled in fair fares, disaggregated by enrollment method; and\n5. Any other information the department deems relevant.\ng. Feasibility study. The commissioner shall study the feasibility of establishing automatic enrollment in all city-administered benefits programs. Through such study, the commissioner shall assess any barriers to automatic enrollment, including fiscal constraints, availability of data, and privacy concerns. No later than 18 months after the effective date of the local law that added this section, the commissioner shall submit to the mayor and the speaker of the council and publish on the department’s website the findings of the study. \n§ 2. This local law takes effect immediately.\nJL/ACK/HK\nLS #7043/7303/13035/15925\nInt. #1028-2024\n9/16/2026 8:41 PM",
   "RTF": "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\deflang1033\\deflangfe1033{\\fonttbl{\\f0\\froman\\fprq2\\fcharset0 Times New Roman;}{\\f1\\fswiss\\fprq2\\fcharset0 Segoe UI;}}\n{\\colortbl ;\\red13\\green13\\blue13;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\n\\ul\\v0\\par\nBe it enacted by the Council as follows:\\ulnone\\par\n\\pard\\ltrpar\\fi720\\qj\\par\n\\pard\\ltrpar\\fi720\\sl480\\slmult1\\qj Section 1. Chapter 1 of title 21 of the administrative code of the city of New York is amended by adding a new section 21-158 to read as follows:\\par\n\\ul\\'a7 21-158 Streamlining enrollment in fair fares. a. Definitions. For purposes of this section, the following terms have the following meanings: \\par\nACCESS HRA. The term \\ldblquote ACCESS HRA\\rdblquote  has the same meaning as set forth in \\cf2 subdivision a of section 21-150.\\cf0\\par\nDesignated citywide languages. The term \\ldblquote designated citywide languages\\rdblquote  has the same meaning as set forth in section 23-1101.\\par\nEligible individual. The term \\ldblquote eligible individual\\rdblquote  means any individual who meets the eligibility criteria for fair fares. \\par\nFair fares. The term \\ldblquote fair fares\\rdblquote  means the transit discount program administered by the commissioner pursuant to chapter 12 of title 68 of the rules of the city of New York, or a successor provision. \\par\nJob center. The term \\ldblquote job center\\rdblquote  means any location designated by the department as a job center where individuals can complete an application for cash assistance in person.\\par\nSNAP. The term \\ldblquote SNAP\\rdblquote  means the supplemental nutrition assistance program administered by the United States department of agriculture.\\par\nSNAP center. The term \\ldblquote SNAP center\\rdblquote  means any location designated by the department as a SNAP center where individuals can complete an application in person for SNAP.\\par\nb. Establishment of streamlined enrollment process. No later than 1 year after the effective date of the local law that added this section, the commissioner shall establish and maintain a streamlined process for eligible individuals to enroll in fair fares on ACCESS HRA and in-person at job centers and SNAP centers. Such system shall provide an option for eligible individuals to consent to the use of any information provided to the department in such individual\\rquote s application for SNAP or cash assistance for the purposes of enrollment in fair fares.\\par\nc. Notice. The commissioner shall provide an individualized notice every 6 months to current cash assistance and SNAP recipients who are eligible individuals not currently enrolled in fair fares of the option to initiate the streamlined enrollment process for fair fares in ACCESS HRA. Such notice shall be provided in plain and simple language and in an accessible and conspicuous manner, and shall include:\\par\n1. A description of the fair fares program;\\par\n2. Any costs associated with participation in fair fares; and\\par\n3. The steps necessary to initiate the streamlined enrollment process for fair fares. \\par\nd. Accessibility. The commissioner shall make the process required under subdivision b of this section and the notice required under subdivision c of this section available in English and the designated citywide languages.\\par\n e. Data sharing agreements. 1. No later than 1 year after the effective date of the local law that added this section, the commissioner shall make best efforts to establish an agreement with the New York state office of temporary disability assistance and any other relevant state agencies to obtain information necessary to notify additional eligible individuals who have not received an individualized notice pursuant to subdivision c of this section. \\par\n2. No later than 1 year after the effective date of the local law that added this section, the commissioner shall submit to the mayor and the speaker of the council and publish on the department\\rquote s website the specific efforts it took to establish an agreement with the New York state office of temporary disability assistance and any other relevant state agencies to share information relevant to identifying additional eligible individuals who did not receive an individualized notice pursuant to subdivision c of this section.\\par\nf. Reporting. No later than 1 year after the effective date of the local law that added this section, and annually thereafter by July 31, the commissioner shall submit to the mayor and the speaker of the council a report including the following information for the previous 12 months:\\par\n1. The total number of individuals enrolled in fair fares, disaggregated by enrollment method;\\par\n2. The number of individuals enrolled in fair fares pursuant to the process required by subdivision b of this section;\\par\n3. The number of individuals who utilized fair fares and the average number of rides taken per week;\\par\n4. A demographic breakdown of age, sex, and race of individuals enrolled in fair fares, disaggregated by enrollment method; and\\par\n5. Any other information the department deems relevant.\\par\ng. Feasibility study. The commissioner shall study the feasibility of establishing automatic enrollment in all city-administered benefits programs. Through such study, the commissioner shall assess any barriers to automatic enrollment, including fiscal constraints, availability of data, and privacy concerns. No later than 18 months after the effective date of the local law that added this section, the commissioner shall submit to the mayor and the speaker of the council and publish on the department\\rquote s website the findings of the study. \\par\n\\pard\\ltrpar\\qj\\ulnone\\'a7 2.\\cf1\\f1  \\cf0\\f0 This local law takes effect immediately.\\fs18 JL/ACK/HK\\par\nLS #7043/7303/13035/15925\\par\nInt. #1028-2024\\par\n\\pard\\ltrpar 9/16/2026 8:41 PM\\par\n\\par\n}\n",
-  "LastModified": "2026-09-22T20:10:06.23Z"
+  "LastModified": "2026-09-23T20:05:39.237Z"
 }
