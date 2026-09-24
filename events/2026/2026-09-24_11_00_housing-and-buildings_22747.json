@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/9/22747_A_Committee_on_Housing_and_Buildings_26-09-24_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/9/22747_M_Committee_on_Housing_and_Buildings_26-09-24_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-3_260924-111825.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22747&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,18 +21,171 @@
       "GUID": "0F21FC36-6453-4EE0-B97A-FB58FB15E899",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to abatement of taxation for alterations and improvements to certain multiple dwellings",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 1015-A",
       "MinutesNote": "Proposed Int. No. 1015-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 79329,
       "MatterFile": "Int 1015-2026",
       "MatterName": "Abatement of taxation for alterations and improvements to certain multiple dwellings.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-22T17:01:14.263Z"
+      "LastModified": "2026-09-24T16:03:25.113Z"
+    },
+    {
+      "ID": 442469,
+      "GUID": "7B95B2EA-236E-4688-B920-D4878C3AAF3A",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-j-feliz",
+          "FullName": "Oswald J. Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7894,
+          "Slug": "virginia-maloney",
+          "FullName": "Virginia Maloney",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 200
+        },
+        {
+          "ID": 7874,
+          "Slug": "carl-wilson",
+          "FullName": "Carl Wilson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 210
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 220
+        }
+      ],
+      "LastModified": "2026-09-24T16:03:15.813Z"
+    },
+    {
+      "ID": 442470,
+      "GUID": "3387EF81-6B08-4072-9539-F12458B1E201",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to abatement of taxation for alterations and improvements to certain multiple dwellings",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 79329,
+      "MatterFile": "Int 1015-2026",
+      "MatterName": "Abatement of taxation for alterations and improvements to certain multiple dwellings.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-09-24T16:03:30.333Z"
+    },
+    {
+      "ID": 442471,
+      "GUID": "51B353DD-77DA-4845-8036-B9F320131DA2",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to abatement of taxation for alterations and improvements to certain multiple dwellings",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 79329,
+      "MatterFile": "Int 1015-2026",
+      "MatterName": "Abatement of taxation for alterations and improvements to certain multiple dwellings.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-09-24T16:03:38.113Z"
+    },
+    {
+      "ID": 442472,
+      "GUID": "440AC33D-661F-4B60-89D5-BCC9F47A14EB",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to abatement of taxation for alterations and improvements to certain multiple dwellings",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 79329,
+      "MatterFile": "Int 1015-2026",
+      "MatterName": "Abatement of taxation for alterations and improvements to certain multiple dwellings.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-09-24T16:03:52.4Z"
     }
   ],
   "AgendaLastPublished": "2026-09-22T14:34:29.56Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-09-22T14:34:29.903Z"
+  "MinutesLastPublished": "2026-09-24T16:04:54.933Z",
+  "LastModified": "2026-09-24T16:04:54.997Z"
 }
