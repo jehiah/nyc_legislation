@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/9/22703_A_Subcommittee_on_Early_Childhood_Education_26-09-29_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/9/22703_M_Subcommittee_on_Early_Childhood_Education_26-09-29_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-3_260929-130127.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22703&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,30 +20,137 @@
       "GUID": "EF8F7150-19D1-4CC6-BBC3-3314FA5A1D4A",
       "Title": "Oversight - Supporting Multi-Language Learners in Early Childhood Education Programs.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 79357,
       "MatterFile": "T2026-2404",
       "MatterName": "Oversight - Supporting Multi-Language Learners in Early Childhood Education Programs.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-09-28T17:09:57.79Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-09-30T03:27:41.177Z"
     },
     {
       "ID": 442291,
       "GUID": "788B875C-98D2-4102-AD0B-F478F23E56DC",
       "Title": "Resolution opposing the federally proposed rule change titled, “Reducing Federal Burden for Head Start Programs” and calling on the Federal Government to prioritize protecting and growing access to high-quality education for young children",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 79534,
       "MatterFile": "Res 0650-2026",
       "MatterName": "Opposing the federally proposed rule change titled, “Reducing Federal Burden for Head Start Programs” and calling on the Federal Government to prioritize protecting and growing access to high-quality education for young children.",
       "MatterType": "Resolution",
-      "LastModified": "2026-09-22T18:09:57.527Z"
+      "LastModified": "2026-09-30T03:27:50.993Z"
+    },
+    {
+      "ID": 442603,
+      "GUID": "FB0177F3-4425-48EC-82E3-9B18917FB699",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 5289,
+          "Slug": "simcha-felder",
+          "FullName": "Simcha Felder",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7901,
+          "Slug": "kayla-santosuosso",
+          "FullName": "Kayla Santosuosso",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        }
+      ],
+      "LastModified": "2026-09-30T03:27:35.51Z"
+    },
+    {
+      "ID": 442604,
+      "GUID": "6E26C970-0B7E-473E-A1E8-242F99BD4F00",
+      "Title": "Oversight - Supporting Multi-Language Learners in Early Childhood Education Programs.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 79357,
+      "MatterFile": "T2026-2404",
+      "MatterName": "Oversight - Supporting Multi-Language Learners in Early Childhood Education Programs.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-09-30T03:27:44.917Z"
+    },
+    {
+      "ID": 442605,
+      "GUID": "99CF72FE-E851-445A-882C-663937E2A44C",
+      "Title": "Resolution opposing the federally proposed rule change titled, “Reducing Federal Burden for Head Start Programs” and calling on the Federal Government to prioritize protecting and growing access to high-quality education for young children",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 5050,
+      "ActionName": "Laid Over by Subcommittee",
+      "ActionText": "This Resolution was Laid Over by Subcommittee",
+      "MatterID": 79534,
+      "MatterFile": "Res 0650-2026",
+      "MatterName": "Opposing the federally proposed rule change titled, “Reducing Federal Burden for Head Start Programs” and calling on the Federal Government to prioritize protecting and growing access to high-quality education for young children.",
+      "MatterType": "Resolution",
+      "LastModified": "2026-09-30T03:27:56.707Z"
     }
   ],
   "AgendaLastPublished": "2026-09-22T18:10:05.19Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-09-29T19:20:22.097Z"
+  "MinutesLastPublished": "2026-09-30T03:28:01.747Z",
+  "LastModified": "2026-09-30T03:28:01.873Z"
 }
