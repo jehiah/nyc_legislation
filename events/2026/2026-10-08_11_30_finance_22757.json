@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/10/22757_A_Committee_on_Finance_26-10-08_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/10/22757_M_Committee_on_Finance_26-10-08_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_261008-114911.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22757&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,33 +21,225 @@
       "GUID": "C458E725-5D94-4CC4-A515-48FC22E96EE6",
       "Title": "Fordham Bedford Cluster Phase 1: Block 3304, Lot 156; Block 3324, Lot 99, Bronx, Community District 7, Council Districts 11 and 15.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Preconsidered",
+      "ActionID": 15,
+      "ActionName": "Hearing on P-C Item by Comm",
+      "ActionText": "This Land Use Application was Hearing on P-C Item by Comm",
       "MatterID": 79583,
-      "MatterFile": "T2026-2630",
+      "MatterFile": "LU 0146-2026",
       "MatterName": "Fordham Bedford Cluster Phase 1: Block 3304, Lot 156; Block 3324, Lot 99, Bronx, Community District 7, Council Districts 11 and 15.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Introduced",
-      "LastModified": "2026-10-07T18:08:33.683Z"
+      "MatterStatus": "Committee",
+      "LastModified": "2026-10-08T16:01:52.917Z"
     },
     {
       "ID": 442656,
       "GUID": "A7941A18-2E27-4A6F-AD06-B40DE1F349CF",
       "Title": "Gowanus Green A: Block 471, Lot 1, Brooklyn, Community District 6, Council District 39.",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "*",
       "AgendaNote": "Preconsidered",
+      "ActionID": 15,
+      "ActionName": "Hearing on P-C Item by Comm",
+      "ActionText": "This Land Use Application was Hearing on P-C Item by Comm",
       "MatterID": 79584,
-      "MatterFile": "T2026-2631",
+      "MatterFile": "LU 0147-2026",
       "MatterName": "Gowanus Green A: Block 471, Lot 1, Brooklyn, Community District 6, Council District 39.",
       "MatterType": "Land Use Application",
-      "MatterStatus": "Introduced",
-      "LastModified": "2026-10-07T17:45:41.667Z"
+      "MatterStatus": "Committee",
+      "LastModified": "2026-10-08T16:02:16.22Z"
+    },
+    {
+      "ID": 443155,
+      "GUID": "A9297101-E0E0-41F3-8018-663EB13644E8",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7896,
+          "Slug": "shirley-aldebol",
+          "FullName": "Shirley Aldebol",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-j-feliz",
+          "FullName": "Oswald J. Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 5273,
+          "Slug": "james-f-gennaro",
+          "FullName": "James F. Gennaro",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7894,
+          "Slug": "virginia-maloney",
+          "FullName": "Virginia Maloney",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 200
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 220
+        },
+        {
+          "ID": 7887,
+          "Slug": "frank-morano",
+          "FullName": "Frank Morano",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 240
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 260
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 280
+        },
+        {
+          "ID": 7897,
+          "Slug": "justin-e-sanchez",
+          "FullName": "Justin E. Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 300
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 320
+        },
+        {
+          "ID": 7900,
+          "Slug": "phil-wong",
+          "FullName": "Phil Wong",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 340
+        }
+      ],
+      "LastModified": "2026-10-08T16:01:36.423Z"
+    },
+    {
+      "ID": 443156,
+      "GUID": "C36C45BD-870F-4F27-A948-66342843082F",
+      "Title": "Fordham Bedford Cluster Phase 1: Block 3304, Lot 156; Block 3324, Lot 99, Bronx, Community District 7, Council Districts 11 and 15.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5040,
+      "ActionName": "P-C Item Approved by Committee with Companion Resolution",
+      "ActionText": "A motion was made that this Land Use Application be P-C Item Approved by Committee with Companion Resolution approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 79583,
+      "MatterFile": "LU 0146-2026",
+      "MatterName": "Fordham Bedford Cluster Phase 1: Block 3304, Lot 156; Block 3324, Lot 99, Bronx, Community District 7, Council Districts 11 and 15.",
+      "MatterType": "Land Use Application",
+      "MatterStatus": "Committee",
+      "LastModified": "2026-10-08T16:02:11.357Z"
+    },
+    {
+      "ID": 443157,
+      "GUID": "8798429E-8098-4A75-AD42-A2D16CC702A5",
+      "Title": "Gowanus Green A: Block 471, Lot 1, Brooklyn, Community District 6, Council District 39.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 5040,
+      "ActionName": "P-C Item Approved by Committee with Companion Resolution",
+      "ActionText": "A motion was made that this Land Use Application be P-C Item Approved by Committee with Companion Resolution approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 79584,
+      "MatterFile": "LU 0147-2026",
+      "MatterName": "Gowanus Green A: Block 471, Lot 1, Brooklyn, Community District 6, Council District 39.",
+      "MatterType": "Land Use Application",
+      "MatterStatus": "Committee",
+      "LastModified": "2026-10-08T16:02:25.21Z"
     }
   ],
   "AgendaLastPublished": "2026-10-07T18:08:39.423Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-10-07T18:08:39.51Z"
+  "MinutesLastPublished": "2026-10-08T16:02:29.56Z",
+  "LastModified": "2026-10-08T16:02:29.623Z"
 }

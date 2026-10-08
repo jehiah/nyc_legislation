@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/10/22777_A_Committee_on_Cultural_Affairs%2C_Libraries_and_International_Relations_26-10-08_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/10/22777_M_Committee_on_Cultural_Affairs%2C_Libraries_and_International_Relations_26-10-08_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_261008-100735.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22777&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,31 +21,183 @@
       "GUID": "55471410-B678-4705-A952-01CDF55E5EE3",
       "Title": "Resolution calling on the Governor to sign S.6487C/A.7033D to empower the New York State Council on the Arts to designate Little Yemen as a cultural district",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
       "AgendaNote": "Proposed Res. No. 458-A",
       "MinutesNote": "Proposed Res. No. 458-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 78747,
       "MatterFile": "Res 0458-2026",
       "MatterName": "Empower the New York State Council on the Arts to designate Little Yemen as a cultural district.(S.6487C/A.7033D)",
       "MatterType": "Resolution",
-      "LastModified": "2026-10-02T17:26:24.567Z"
+      "LastModified": "2026-10-08T14:51:24.94Z"
     },
     {
       "ID": 442792,
       "GUID": "67C75EF6-D82C-4BC6-A386-57B89A588664",
       "Title": "Resolution declaring October as Hindu American Awareness and Appreciation Month in the City of New York",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 78707,
       "MatterFile": "Res 0646-2026",
       "MatterName": "Declaring October as Hindu American Awareness and Appreciation Month.",
       "MatterType": "Resolution",
-      "LastModified": "2026-10-02T17:26:53.34Z"
+      "LastModified": "2026-10-08T14:51:51.963Z"
+    },
+    {
+      "ID": 443112,
+      "GUID": "72CAE65E-B38B-4DAA-A829-648A9F4E476A",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7894,
+          "Slug": "virginia-maloney",
+          "FullName": "Virginia Maloney",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 120
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2026-10-08T14:50:44.287Z"
+    },
+    {
+      "ID": 443113,
+      "GUID": "CA4BA7F4-E09F-428F-876B-DB066984B924",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Aldebol",
+      "LastModified": "2026-10-08T14:51:03.137Z"
+    },
+    {
+      "ID": 443114,
+      "GUID": "009BE616-BBAD-42B6-866F-8C443D8BD4C6",
+      "Title": "Resolution calling on the Governor to sign S.6487C/A.7033D to empower the New York State Council on the Arts to designate Little Yemen as a cultural district",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Resolution was Amendment Proposed by Comm",
+      "MatterID": 78747,
+      "MatterFile": "Res 0458-2026",
+      "MatterName": "Empower the New York State Council on the Arts to designate Little Yemen as a cultural district.(S.6487C/A.7033D)",
+      "MatterType": "Resolution",
+      "LastModified": "2026-10-08T14:51:29.24Z"
+    },
+    {
+      "ID": 443115,
+      "GUID": "A6C4274E-2A85-4474-A8C9-78F1665B5E4C",
+      "Title": "Resolution calling on the Governor to sign S.6487C/A.7033D to empower the New York State Council on the Arts to designate Little Yemen as a cultural district",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Resolution was Amended by Committee",
+      "MatterID": 78747,
+      "MatterFile": "Res 0458-2026",
+      "MatterName": "Empower the New York State Council on the Arts to designate Little Yemen as a cultural district.(S.6487C/A.7033D)",
+      "MatterType": "Resolution",
+      "LastModified": "2026-10-08T14:51:33.393Z"
+    },
+    {
+      "ID": 443116,
+      "GUID": "9A2C9336-5E36-4D9F-BAEC-A084CB32FD7D",
+      "Title": "Resolution calling on the Governor to sign S.6487C/A.7033D to empower the New York State Council on the Arts to designate Little Yemen as a cultural district",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Resolution be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 78747,
+      "MatterFile": "Res 0458-2026",
+      "MatterName": "Empower the New York State Council on the Arts to designate Little Yemen as a cultural district.(S.6487C/A.7033D)",
+      "MatterType": "Resolution",
+      "LastModified": "2026-10-08T14:51:45.653Z"
+    },
+    {
+      "ID": 443117,
+      "GUID": "4550BCBE-5402-4A4F-A3D3-27E617A7EA97",
+      "Title": "Resolution declaring October as Hindu American Awareness and Appreciation Month in the City of New York",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Resolution be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 78707,
+      "MatterFile": "Res 0646-2026",
+      "MatterName": "Declaring October as Hindu American Awareness and Appreciation Month.",
+      "MatterType": "Resolution",
+      "LastModified": "2026-10-08T14:52:02.943Z"
     }
   ],
   "AgendaLastPublished": "2026-10-02T17:26:59.267Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-10-02T17:26:59.423Z"
+  "MinutesLastPublished": "2026-10-08T14:52:08.293Z",
+  "LastModified": "2026-10-08T14:52:08.37Z"
 }
