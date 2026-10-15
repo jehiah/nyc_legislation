@@ -8,17 +8,18 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/10/22756_A_Committee_on_Sanitation_and_Solid_Waste_Management_26-10-15_Committee_Agenda.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_261015-130514.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22756&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
       "ID": 442133,
       "GUID": "FD30820E-7E7F-4569-9DF0-419E5BD77C0E",
-      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to stationary on-street containers for the storage and collection of waste from buildings owned by the city ",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to stationary on-street containers for the storage and collection of waste from buildings owned by the city",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "*",
       "MatterID": 77243,
       "MatterFile": "Int 0030-2026",
@@ -31,7 +32,7 @@
       "GUID": "7EFB33C8-8E58-49A9-8DE6-495617B07C79",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to allowing certain associations to request stationary on-street waste containers for the storage and collection of waste",
       "AgendaSequence": 5,
-      "MinutesSequence": 5,
+      "MinutesSequence": 7,
       "Version": "*",
       "MatterID": 79179,
       "MatterFile": "Int 0987-2026",
@@ -44,7 +45,7 @@
       "GUID": "AF7364B4-E0AD-4715-88D3-5BE75FDF2509",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of sanitation to develop a plan for ensuring proper disposal of rechargeable batteries used for powered mobility devices",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 5,
       "Version": "*",
       "MatterID": 77595,
       "MatterFile": "Int 0352-2026",
@@ -57,7 +58,7 @@
       "GUID": "FE441F9C-B920-4412-9F1C-7BA4769C9A27",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to public organic waste receptacles.",
       "AgendaSequence": 4,
-      "MinutesSequence": 4,
+      "MinutesSequence": 6,
       "Version": "*",
       "MatterID": 77852,
       "MatterFile": "Int 0401-2026",
@@ -70,20 +71,20 @@
       "GUID": "7FA02CB5-3E8A-47F1-9ABD-CE07CB7D6BCE",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requirements for the removal of public litter baskets by the department of sanitation",
       "AgendaSequence": 6,
-      "MinutesSequence": 6,
+      "MinutesSequence": 8,
       "Version": "*",
       "MatterID": 79240,
       "MatterFile": "Int 1041-2026",
       "MatterName": "Requirements for the removal of public litter baskets by the department of sanitation.",
       "MatterType": "Introduction",
-      "LastModified": "2026-10-08T13:35:07.69Z"
+      "LastModified": "2026-10-15T19:55:53.947Z"
     },
     {
       "ID": 442138,
       "GUID": "B74B4B97-C39F-4DFE-AFBF-B9BB01EB8BBA",
       "Title": "Oversight - Waste Equity and Environmental Justice.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
       "MatterID": 79538,
       "MatterFile": "T2026-2585",
@@ -91,9 +92,119 @@
       "MatterType": "Oversight",
       "MatterStatus": "Committee",
       "LastModified": "2026-09-21T19:55:33.55Z"
+    },
+    {
+      "ID": 443268,
+      "GUID": "3D084DDB-DFB5-4814-BD34-177F5C997B17",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7897,
+          "Slug": "justin-e-sanchez",
+          "FullName": "Justin E. Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 40
+        },
+        {
+          "ID": 7899,
+          "Slug": "ty-hankerson",
+          "FullName": "Ty Hankerson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7894,
+          "Slug": "virginia-maloney",
+          "FullName": "Virginia Maloney",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7901,
+          "Slug": "kayla-santosuosso",
+          "FullName": "Kayla Santosuosso",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 100
+        },
+        {
+          "ID": 7898,
+          "Slug": "shanel-thomas-henry",
+          "FullName": "Shanel Thomas-Henry",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 140
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 160
+        },
+        {
+          "ID": 7874,
+          "Slug": "carl-wilson",
+          "FullName": "Carl Wilson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 170
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        }
+      ],
+      "LastModified": "2026-10-15T20:04:49.44Z"
+    },
+    {
+      "ID": 443269,
+      "GUID": "E5092B78-8A38-464B-9C86-C80CA16596EE",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Epstein and Restler",
+      "LastModified": "2026-10-15T19:56:14.15Z"
     }
   ],
   "AgendaLastPublished": "2026-09-21T19:55:42.037Z",
   "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-10-15T17:05:15.697Z"
+  "LastModified": "2026-10-15T19:27:12.973Z"
 }
