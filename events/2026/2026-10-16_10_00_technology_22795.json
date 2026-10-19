@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/10/22795_A_Committee_on_Technology_26-10-16_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/10/22795_M_Committee_on_Technology_26-10-16_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_261016-101016.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22795&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,17 +20,99 @@
       "GUID": "B263461A-920E-4639-B0B4-0F795A040E26",
       "Title": "Oversight - Continuing Discussion about the Risks Posed by Artificial Intelligence.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 79637,
       "MatterFile": "T2026-2684",
       "MatterName": "Oversight - Continuing Discussion about the Risks Posed by Artificial Intelligence.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-10-13T20:03:07.27Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-10-19T14:11:42.787Z"
+    },
+    {
+      "ID": 443336,
+      "GUID": "18BBBCDA-AED7-4FCD-B29D-4DC62BD2DEC2",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 80
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 90
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 100
+        }
+      ],
+      "LastModified": "2026-10-19T14:11:35.877Z"
+    },
+    {
+      "ID": 443337,
+      "GUID": "24E361D1-3C2E-4194-BBF3-66594490338D",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Wong, Narcisse, Maloney and Speaker Menin",
+      "LastModified": "2026-10-19T14:10:48.693Z"
+    },
+    {
+      "ID": 443338,
+      "GUID": "2506A42A-E30E-40DE-84B7-EB00FDC7E17D",
+      "Title": "Oversight - Continuing Discussion about the Risks Posed by Artificial Intelligence.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 79637,
+      "MatterFile": "T2026-2684",
+      "MatterName": "Oversight - Continuing Discussion about the Risks Posed by Artificial Intelligence.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-10-19T14:13:20.563Z"
     }
   ],
   "AgendaLastPublished": "2026-10-13T20:25:46.037Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-10-16T16:07:47.417Z"
+  "MinutesLastPublished": "2026-10-19T14:13:26.207Z",
+  "LastModified": "2026-10-19T14:13:26.253Z"
 }
