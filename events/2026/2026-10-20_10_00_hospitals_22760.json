@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/10/22760_A_Committee_on_Hospitals_26-10-20_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/10/22760_M_Committee_on_Hospitals_26-10-20_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Fire and Emergency Management",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22760&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,39 +20,156 @@
       "GUID": "E0816040-C9E2-4978-8C71-80DB3CD8DFCB",
       "Title": "Oversight - Ambulance Response Times.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 79359,
       "MatterFile": "T2026-2406",
       "MatterName": "Oversight - Ambulance Response Times.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-09-22T18:41:06.89Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-10-20T20:16:29.477Z"
     },
     {
       "ID": 442296,
       "GUID": "55AAD2C2-CC10-457E-85D2-64FD859B0023",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to emergency notifications related to delays in ambulance dispatch",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 79272,
       "MatterFile": "Int 0990-2026",
       "MatterName": "Emergency notifications related to delays in ambulance dispatch.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-22T18:41:38.37Z"
+      "LastModified": "2026-10-20T20:16:38.473Z"
     },
     {
       "ID": 442297,
       "GUID": "999FB161-389E-4551-BDF5-441DC988C1D4",
       "Title": "Jointly with the Committee on Fire and Emergency Management",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "",
-      "LastModified": "2026-09-22T18:41:35.143Z"
+      "LastModified": "2026-10-20T20:16:33.56Z"
+    },
+    {
+      "ID": 443507,
+      "GUID": "1B60EAE2-9D36-4EF9-A6C2-9B8961007A72",
+      "Title": "Roll Call ",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7896,
+          "Slug": "shirley-aldebol",
+          "FullName": "Shirley Aldebol",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7893,
+          "Slug": "harvey-d-epstein",
+          "FullName": "Harvey D. Epstein",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 81
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-c-farias",
+          "FullName": "Amanda C. Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2026-10-20T19:13:54.61Z"
+    },
+    {
+      "ID": 443508,
+      "GUID": "2FD3A689-532A-4706-A74D-2CCAEA369CB3",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Ariola, Won, Schulman, Paladino, Maloney, Restler, De La Rosa, Brewer,\r\n Dinowitz and Speaker Menin",
+      "LastModified": "2026-10-20T20:16:24.327Z"
+    },
+    {
+      "ID": 443527,
+      "GUID": "5DA157BB-59F8-41DE-A8DA-7345A6E2A56B",
+      "Title": "Oversight - Ambulance Response Times.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 79359,
+      "MatterFile": "T2026-2406",
+      "MatterName": "Oversight - Ambulance Response Times.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-10-20T20:16:32.28Z"
+    },
+    {
+      "ID": 443528,
+      "GUID": "9B1CE148-8238-4307-AB5C-A699DBC52447",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to emergency notifications related to delays in ambulance dispatch",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 79272,
+      "MatterFile": "Int 0990-2026",
+      "MatterName": "Emergency notifications related to delays in ambulance dispatch.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-10-20T20:16:50.113Z"
     }
   ],
   "AgendaLastPublished": "2026-09-22T18:41:43.193Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-09-22T18:41:43.303Z"
+  "MinutesLastPublished": "2026-10-20T20:16:55.26Z",
+  "LastModified": "2026-10-20T20:16:55.38Z"
 }
