@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/10/22784_A_Committee_on_Mental_Health_and_Substance_Use_26-10-21_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/10/22784_M_Committee_on_Mental_Health_and_Substance_Use_26-10-21_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-2_261021-131908.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22784&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,56 +20,211 @@
       "GUID": "EE796B4C-10F1-4D0D-921A-AE253DED0CED",
       "Title": "Oversight - Syringe Litter Management and Related Support Services.\r\n\r\n",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 79611,
       "MatterFile": "T2026-2658",
       "MatterName": "Oversight - Syringe Litter Management and Related Support Services.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-10-06T18:59:09.887Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-10-21T19:36:44.19Z"
     },
     {
       "ID": 442999,
       "GUID": "082F72D3-369B-4980-9601-D18A113CA6C1",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing a public outreach and education campaign regarding the availability and use of fentanyl test strips",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 77217,
       "MatterFile": "Int 0067-2026",
       "MatterName": "Establishing a public outreach and education campaign regarding the availability and use of fentanyl test strips.",
       "MatterType": "Introduction",
-      "LastModified": "2026-10-06T18:40:59.167Z"
+      "LastModified": "2026-10-21T19:36:53.79Z"
     },
     {
       "ID": 443000,
       "GUID": "2CFADFDB-6295-41C2-A897-DA0E6798D080",
       "Title": "Resolution calling on New York State to mandate basic training in addiction treatment as a requirement for medical schools that receive state funding",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 77949,
       "MatterFile": "Res 0262-2026",
       "MatterName": "New York State to mandate basic training in addiction treatment as a requirement for medical schools that receive state funding",
       "MatterType": "Resolution",
-      "LastModified": "2026-10-06T18:42:00.107Z"
+      "LastModified": "2026-10-21T19:37:10.29Z"
     },
     {
       "ID": 443001,
       "GUID": "26002D92-C4E1-4164-B3C0-ACAD309AE59B",
       "Title": "Resolution calling on the Federal Government to mandate basic training in addiction treatment as a requirement for medical schools that receive federal funding",
       "AgendaSequence": 4,
-      "MinutesSequence": 4,
+      "MinutesSequence": 9,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 78157,
       "MatterFile": "Res 0263-2026",
       "MatterName": "Federal Government to mandate basic training in addiction treatment as a requirement for medical schools that receive federal funding.",
       "MatterType": "Resolution",
-      "LastModified": "2026-10-06T18:41:23.76Z"
+      "LastModified": "2026-10-21T19:37:28.02Z"
+    },
+    {
+      "ID": 443599,
+      "GUID": "C079FF36-7FC6-44AD-9713-24595A637C23",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7813,
+          "Slug": "tiffany-l-caban",
+          "FullName": "Tiffany L. Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7896,
+          "Slug": "shirley-aldebol",
+          "FullName": "Shirley Aldebol",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 5289,
+          "Slug": "simcha-felder",
+          "FullName": "Simcha Felder",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7899,
+          "Slug": "ty-hankerson",
+          "FullName": "Ty Hankerson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7874,
+          "Slug": "carl-wilson",
+          "FullName": "Carl Wilson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 141
+        }
+      ],
+      "LastModified": "2026-10-21T19:36:38.38Z"
+    },
+    {
+      "ID": 443600,
+      "GUID": "AD964B33-0A3F-4C4C-AD7B-6B8BF52BEB9A",
+      "Title": "Oversight - Syringe Litter Management and Related Support Services.\r\n\r\n",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 79611,
+      "MatterFile": "T2026-2658",
+      "MatterName": "Oversight - Syringe Litter Management and Related Support Services.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-10-21T19:36:47.497Z"
+    },
+    {
+      "ID": 443601,
+      "GUID": "5DD3BDEA-51BB-4BFC-A21E-C39EE5586478",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Carr",
+      "LastModified": "2026-10-21T19:36:34.14Z"
+    },
+    {
+      "ID": 443602,
+      "GUID": "4DEB7339-4C78-445B-8DA8-67BE8BD841AB",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing a public outreach and education campaign regarding the availability and use of fentanyl test strips",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 77217,
+      "MatterFile": "Int 0067-2026",
+      "MatterName": "Establishing a public outreach and education campaign regarding the availability and use of fentanyl test strips.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-10-21T19:37:02.027Z"
+    },
+    {
+      "ID": 443603,
+      "GUID": "C2A4ECBF-0F61-437D-8819-64EB6B512579",
+      "Title": "Resolution calling on New York State to mandate basic training in addiction treatment as a requirement for medical schools that receive state funding",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 77949,
+      "MatterFile": "Res 0262-2026",
+      "MatterName": "New York State to mandate basic training in addiction treatment as a requirement for medical schools that receive state funding",
+      "MatterType": "Resolution",
+      "LastModified": "2026-10-21T19:37:15.433Z"
+    },
+    {
+      "ID": 443604,
+      "GUID": "DECDA22B-5A30-49AA-8001-22376D94353B",
+      "Title": "Resolution calling on the Federal Government to mandate basic training in addiction treatment as a requirement for medical schools that receive federal funding",
+      "AgendaSequence": 0,
+      "MinutesSequence": 10,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 78157,
+      "MatterFile": "Res 0263-2026",
+      "MatterName": "Federal Government to mandate basic training in addiction treatment as a requirement for medical schools that receive federal funding.",
+      "MatterType": "Resolution",
+      "LastModified": "2026-10-21T19:37:40.463Z"
     }
   ],
   "AgendaLastPublished": "2026-10-06T18:59:15.1Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-10-06T18:59:15.18Z"
+  "MinutesLastPublished": "2026-10-21T19:37:47.443Z",
+  "LastModified": "2026-10-21T19:37:47.543Z"
 }

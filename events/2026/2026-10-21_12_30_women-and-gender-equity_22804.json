@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/10/22804_A_Committee_on_Women_and_Gender_Equity_26-10-21_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/10/22804_M_Committee_on_Women_and_Gender_Equity_26-10-21_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-2_261021-130413.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22804&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,18 +21,133 @@
       "GUID": "0A46FDA9-D847-4845-9A11-C03FA383A233",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to increasing access to data regarding gender-based violence",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 296-A",
       "MinutesNote": "Proposed Int. No. 296-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 77546,
       "MatterFile": "Int 0296-2026",
       "MatterName": "Increasing access to data around gender-based violence.",
       "MatterType": "Introduction",
-      "LastModified": "2026-10-19T13:40:02.013Z"
+      "LastModified": "2026-10-21T17:29:35.857Z"
+    },
+    {
+      "ID": 443573,
+      "GUID": "0D4469CD-847A-443C-BA44-E8A7A6B8B432",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7810,
+          "Slug": "amanda-c-farias",
+          "FullName": "Amanda C. Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7896,
+          "Slug": "shirley-aldebol",
+          "FullName": "Shirley Aldebol",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7901,
+          "Slug": "kayla-santosuosso",
+          "FullName": "Kayla Santosuosso",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 100
+        }
+      ],
+      "LastModified": "2026-10-21T17:28:44.167Z"
+    },
+    {
+      "ID": 443574,
+      "GUID": "1CDB02D2-12A1-4FD1-8B88-724CD7D2CE4B",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Cabán, Hankerson and Felder",
+      "LastModified": "2026-10-21T17:28:32.3Z"
+    },
+    {
+      "ID": 443575,
+      "GUID": "53978E4E-CA1E-46D3-BF62-4D5BCD7C876D",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to increasing access to data regarding gender-based violence",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 77546,
+      "MatterFile": "Int 0296-2026",
+      "MatterName": "Increasing access to data around gender-based violence.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-10-21T17:29:41.57Z"
+    },
+    {
+      "ID": 443576,
+      "GUID": "C75AADD6-257C-4F4D-A7CA-CBABDB3B0F0E",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to increasing access to data regarding gender-based violence",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 77546,
+      "MatterFile": "Int 0296-2026",
+      "MatterName": "Increasing access to data around gender-based violence.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-10-21T17:29:47.457Z"
+    },
+    {
+      "ID": 443577,
+      "GUID": "763F3923-48CB-4138-B8BD-31265CBE5DC0",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to increasing access to data regarding gender-based violence",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 77546,
+      "MatterFile": "Int 0296-2026",
+      "MatterName": "Increasing access to data around gender-based violence.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-10-21T17:30:09.023Z"
     }
   ],
   "AgendaLastPublished": "2026-10-19T13:28:55.173Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-10-19T13:28:55.283Z"
+  "MinutesLastPublished": "2026-10-21T17:30:15.12Z",
+  "LastModified": "2026-10-21T17:30:15.22Z"
 }
