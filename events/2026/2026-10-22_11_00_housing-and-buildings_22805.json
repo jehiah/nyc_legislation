@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/10/22805_A_Committee_on_Housing_and_Buildings_26-10-22_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/10/22805_M_Committee_on_Housing_and_Buildings_26-10-22_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22805&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,18 +20,181 @@
       "GUID": "8FA6E1E9-3E61-4629-A678-01D25DABD0D5",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to giving qualified entities a first opportunity to submit a statement of interest and a first opportunity to purchase certain properties",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 905-A",
       "MinutesNote": "Proposed Int. No. 905-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 78838,
       "MatterFile": "Int 0905-2026",
       "MatterName": "Giving qualified entities a first opportunity to submit a statement of interest and a first opportunity to purchase certain properties.",
       "MatterType": "Introduction",
-      "LastModified": "2026-10-19T16:29:21.983Z"
+      "LastModified": "2026-10-22T15:43:34.26Z"
+    },
+    {
+      "ID": 443663,
+      "GUID": "8D4908A7-2576-4053-A65A-BBDAD1EC30E0",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7804,
+          "Slug": "shaun-abreu",
+          "FullName": "Shaun Abreu",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-j-feliz",
+          "FullName": "Oswald J. Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7894,
+          "Slug": "virginia-maloney",
+          "FullName": "Virginia Maloney",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 200
+        },
+        {
+          "ID": 7874,
+          "Slug": "carl-wilson",
+          "FullName": "Carl Wilson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 210
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 220
+        }
+      ],
+      "LastModified": "2026-10-22T15:43:19.353Z"
+    },
+    {
+      "ID": 443664,
+      "GUID": "47DF09CB-07D1-4220-A350-22FFB5DCACF4",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Nurse",
+      "LastModified": "2026-10-22T15:43:02.19Z"
+    },
+    {
+      "ID": 443665,
+      "GUID": "C89A63FE-5B1F-4E5B-8D64-3F224ECA3D99",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to giving qualified entities a first opportunity to submit a statement of interest and a first opportunity to purchase certain properties",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 78838,
+      "MatterFile": "Int 0905-2026",
+      "MatterName": "Giving qualified entities a first opportunity to submit a statement of interest and a first opportunity to purchase certain properties.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-10-22T15:43:38.727Z"
+    },
+    {
+      "ID": 443666,
+      "GUID": "F9EAAF1F-2439-4179-AFDC-C64B281C2F0E",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to giving qualified entities a first opportunity to submit a statement of interest and a first opportunity to purchase certain properties",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 78838,
+      "MatterFile": "Int 0905-2026",
+      "MatterName": "Giving qualified entities a first opportunity to submit a statement of interest and a first opportunity to purchase certain properties.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-10-22T15:43:42.063Z"
+    },
+    {
+      "ID": 443667,
+      "GUID": "EE18AA6E-47B1-467D-96B2-2386561C7822",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to giving qualified entities a first opportunity to submit a statement of interest and a first opportunity to purchase certain properties",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 78838,
+      "MatterFile": "Int 0905-2026",
+      "MatterName": "Giving qualified entities a first opportunity to submit a statement of interest and a first opportunity to purchase certain properties.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-10-22T15:44:00.22Z"
     }
   ],
   "AgendaLastPublished": "2026-10-19T16:29:27.403Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-10-19T16:29:27.45Z"
+  "MinutesLastPublished": "2026-10-22T15:44:05.6Z",
+  "LastModified": "2026-10-22T15:44:05.663Z"
 }

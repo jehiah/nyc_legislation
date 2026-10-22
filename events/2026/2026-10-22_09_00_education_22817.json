@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/10/22817_A_Committee_on_Education_26-10-22_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/10/22817_M_Committee_on_Education_26-10-22_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22817&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,31 +20,221 @@
       "GUID": "4C4F78A8-DD50-4AF4-A194-71B8D2EB5838",
       "Title": "Resolution opposing the federally proposed rule change titled, “Reducing Federal Burden for Head Start Programs” and calling on the Federal Government to prioritize protecting and growing access to high-quality education for young children",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 6,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 79534,
       "MatterFile": "Res 0650-2026",
       "MatterName": "Opposing the federally proposed rule change titled, “Reducing Federal Burden for Head Start Programs” and calling on the Federal Government to prioritize protecting and growing access to high-quality education for young children.",
       "MatterType": "Resolution",
-      "LastModified": "2026-10-20T20:48:33.82Z"
+      "LastModified": "2026-10-22T13:43:27.22Z"
     },
     {
       "ID": 443530,
       "GUID": "2C148F7E-F668-43DE-A1CD-A3AEE86032F6",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring a study on how social and economic factors affect access to special education programs and services",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 853-A",
       "MinutesNote": "Proposed Int. No. 853-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 78617,
       "MatterFile": "Int 0853-2026",
       "MatterName": "Requiring a study on how social and economic factors affect access to special education programs and services.",
       "MatterType": "Introduction",
-      "LastModified": "2026-10-20T20:31:06.85Z"
+      "LastModified": "2026-10-22T13:42:36.897Z"
+    },
+    {
+      "ID": 443614,
+      "GUID": "D3EF76C1-5715-4E40-908F-0BF86A173412",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-c-farias",
+          "FullName": "Amanda C. Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 120
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 200
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 220
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 240
+        },
+        {
+          "ID": 7900,
+          "Slug": "phil-wong",
+          "FullName": "Phil Wong",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 260
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 280
+        }
+      ],
+      "LastModified": "2026-10-22T13:42:24.637Z"
+    },
+    {
+      "ID": 443615,
+      "GUID": "FED1D8CB-668F-4448-8E34-98A670796449",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring a study on how social and economic factors affect access to special education programs and services",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 78617,
+      "MatterFile": "Int 0853-2026",
+      "MatterName": "Requiring a study on how social and economic factors affect access to special education programs and services.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-10-22T13:42:42.043Z"
+    },
+    {
+      "ID": 443616,
+      "GUID": "8E30B035-500C-427C-8FF1-D3D31C4E94CD",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring a study on how social and economic factors affect access to special education programs and services",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 78617,
+      "MatterFile": "Int 0853-2026",
+      "MatterName": "Requiring a study on how social and economic factors affect access to special education programs and services.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-10-22T13:42:48.877Z"
+    },
+    {
+      "ID": 443617,
+      "GUID": "B8C1EE87-EA55-4AAF-99CE-12DB693BADD0",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring a study on how social and economic factors affect access to special education programs and services",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 78617,
+      "MatterFile": "Int 0853-2026",
+      "MatterName": "Requiring a study on how social and economic factors affect access to special education programs and services.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-10-22T13:43:19.933Z"
+    },
+    {
+      "ID": 443618,
+      "GUID": "F953450E-EE65-483B-8162-3324B84E9398",
+      "Title": "Resolution opposing the federally proposed rule change titled, “Reducing Federal Burden for Head Start Programs” and calling on the Federal Government to prioritize protecting and growing access to high-quality education for young children",
+      "AgendaSequence": 0,
+      "MinutesSequence": 7,
+      "Version": "*",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Resolution be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 79534,
+      "MatterFile": "Res 0650-2026",
+      "MatterName": "Opposing the federally proposed rule change titled, “Reducing Federal Burden for Head Start Programs” and calling on the Federal Government to prioritize protecting and growing access to high-quality education for young children.",
+      "MatterType": "Resolution",
+      "LastModified": "2026-10-22T13:44:20.237Z"
     }
   ],
   "AgendaLastPublished": "2026-10-20T20:48:40.697Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-10-20T20:48:40.877Z"
+  "MinutesLastPublished": "2026-10-22T13:44:25.177Z",
+  "LastModified": "2026-10-22T13:44:25.593Z"
 }
