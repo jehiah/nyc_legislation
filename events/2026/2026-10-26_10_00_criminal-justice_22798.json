@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/10/22798_A_Committee_on_Criminal_Justice_26-10-26_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/10/22798_M_Committee_on_Criminal_Justice_26-10-26_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_261026-101106.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22798&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,30 +20,147 @@
       "GUID": "744A6D10-27A9-458C-806D-2E47AF706AA5",
       "Title": "Oversight - The Organizational Strategy of the Department of Probation.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 79467,
       "MatterFile": "T2026-2514",
       "MatterName": "Oversight - The Organizational Strategy of the Department of Probation.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-10-16T19:00:17.877Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-10-26T17:08:24.957Z"
     },
     {
       "ID": 443303,
       "GUID": "1D448BD9-6FBE-471A-B8EA-D69EBB6F45F4",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to providing youth accused of crimes with information about the criminal legal process",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 79604,
       "MatterFile": "Int 1104-2026",
       "MatterName": "Providing youth accused of crimes with information about the criminal legal process.",
       "MatterType": "Introduction",
-      "LastModified": "2026-10-16T19:00:43.24Z"
+      "LastModified": "2026-10-26T17:08:33.777Z"
+    },
+    {
+      "ID": 443723,
+      "GUID": "4D4EE67F-361A-404F-80F0-E0247F7C987B",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7796,
+          "Slug": "selvena-n-brooks-powers",
+          "FullName": "Selvena N. Brooks-Powers",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7813,
+          "Slug": "tiffany-l-caban",
+          "FullName": "Tiffany L. Cabán",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-j-feliz",
+          "FullName": "Oswald J. Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7887,
+          "Slug": "frank-morano",
+          "FullName": "Frank Morano",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7866,
+          "Slug": "yusef-salaam",
+          "FullName": "Yusef Salaam",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2026-10-26T17:51:06.99Z"
+    },
+    {
+      "ID": 443724,
+      "GUID": "7F20F9DE-D408-439E-9256-06786FD497ED",
+      "Title": "Oversight - The Organizational Strategy of the Department of Probation.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 79467,
+      "MatterFile": "T2026-2514",
+      "MatterName": "Oversight - The Organizational Strategy of the Department of Probation.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-10-26T17:08:27.523Z"
+    },
+    {
+      "ID": 443725,
+      "GUID": "759C5C40-1B17-4409-ACCC-5F442FF9B7C5",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to providing youth accused of crimes with information about the criminal legal process",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 79604,
+      "MatterFile": "Int 1104-2026",
+      "MatterName": "Providing youth accused of crimes with information about the criminal legal process.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-10-26T17:50:39.42Z"
+    },
+    {
+      "ID": 443726,
+      "GUID": "37D4CAE9-A686-4B85-9C58-BA4A74D0F865",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Restler",
+      "LastModified": "2026-10-26T17:50:58.65Z"
     }
   ],
   "AgendaLastPublished": "2026-10-16T19:00:51.093Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-10-16T19:00:51.133Z"
+  "MinutesLastPublished": "2026-10-26T17:51:14.383Z",
+  "LastModified": "2026-10-26T17:51:14.57Z"
 }
