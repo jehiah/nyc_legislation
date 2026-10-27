@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/10/22690_A_Committee_on_Public_Housing_26-10-27_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/10/22690_M_Committee_on_Public_Housing_26-10-27_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Aging",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_261027-100958.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22690&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,39 +21,156 @@
       "GUID": "7AE14AE0-BA76-4B16-ACDF-681E3C9ACC7B",
       "Title": "Oversight - Older Adult Centers at NYCHA Facilities.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 79417,
       "MatterFile": "T2026-2464",
       "MatterName": "Oversight - Older Adult Centers at NYCHA Facilities.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-10-01T16:54:08.923Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-10-27T18:09:31.707Z"
     },
     {
       "ID": 441349,
       "GUID": "1DEF0045-27D5-432B-B440-2409EA6CA9BD",
       "Title": "Jointly with the Committee on Aging",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "",
-      "LastModified": "2026-10-01T16:53:10.01Z"
+      "LastModified": "2026-10-27T18:09:36.933Z"
     },
     {
       "ID": 442716,
       "GUID": "E4BF9B88-7FE3-4105-BB41-A81864377EE2",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to designating financial literacy advisors to serve in older adult centers",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 79413,
       "MatterFile": "Int 1083-2026",
       "MatterName": "Designating financial literacy advisors to serve in older adult centers.",
       "MatterType": "Introduction",
-      "LastModified": "2026-10-01T16:53:23.127Z"
+      "LastModified": "2026-10-27T18:09:43.4Z"
+    },
+    {
+      "ID": 443796,
+      "GUID": "7E9B9D98-F449-4280-B284-40310E73794B",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7895,
+          "Slug": "elsie-encarnacion",
+          "FullName": "Elsie Encarnación",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7801,
+          "Slug": "christopher-marte",
+          "FullName": "Christopher Marte",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 80
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7820,
+          "Slug": "lincoln-restler",
+          "FullName": "Lincoln Restler",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2026-10-27T18:09:19.36Z"
+    },
+    {
+      "ID": 443797,
+      "GUID": "B7F4EF5A-31B6-4158-A118-9636900AEF83",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Aldebol, Zhuang, Brewer, Hudson, Ariola and Dinowitz",
+      "LastModified": "2026-10-27T18:08:30.253Z"
+    },
+    {
+      "ID": 443798,
+      "GUID": "F74FFC1B-5F47-4D1B-B9C8-C666E39D5957",
+      "Title": "Oversight - Older Adult Centers at NYCHA Facilities.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 79417,
+      "MatterFile": "T2026-2464",
+      "MatterName": "Oversight - Older Adult Centers at NYCHA Facilities.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-10-27T18:09:35.187Z"
+    },
+    {
+      "ID": 443799,
+      "GUID": "BFD513CF-3B55-495C-95AA-A814D3E86034",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to designating financial literacy advisors to serve in older adult centers",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 79413,
+      "MatterFile": "Int 1083-2026",
+      "MatterName": "Designating financial literacy advisors to serve in older adult centers.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-10-27T18:09:49.463Z"
     }
   ],
   "AgendaLastPublished": "2026-10-01T16:54:13.82Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-10-01T16:54:13.867Z"
+  "MinutesLastPublished": "2026-10-27T18:09:54.93Z",
+  "LastModified": "2026-10-27T18:09:54.977Z"
 }
