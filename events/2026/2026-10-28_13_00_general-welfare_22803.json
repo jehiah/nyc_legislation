@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/10/22803_A_Committee_on_General_Welfare_26-10-28_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/10/22803_M_Committee_on_General_Welfare_26-10-28_Meeting_Minutes.pdf",
   "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-3_261028-131515.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22803&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,43 +20,179 @@
       "GUID": "5C49FC1E-957C-4173-9AA4-9C70C9FCAE7D",
       "Title": "Oversight - Shelter Safety.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 79582,
       "MatterFile": "T2026-2629",
       "MatterName": "Oversight - Shelter Safety.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-10-15T17:32:09.893Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-10-28T22:18:54.607Z"
     },
     {
       "ID": 443257,
       "GUID": "4841A691-AF0B-46EB-9998-8DF98E958728",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of homeless services to report on the placement of families with children into shelters",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 76882,
       "MatterFile": "Int 0099-2026",
       "MatterName": "Requiring the department of homeless services to report on the placement of families with children into shelters.",
       "MatterType": "Introduction",
-      "LastModified": "2026-10-15T17:32:39.687Z"
+      "LastModified": "2026-10-28T22:19:12.35Z"
     },
     {
       "ID": 443258,
       "GUID": "4A8BF6DB-2351-45B7-9EEF-E304868BE22F",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring reporting on crime statistics in shelters",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 77834,
       "MatterFile": "Int 0387-2026",
       "MatterName": "Requiring reporting on crime statistics in shelters.",
       "MatterType": "Introduction",
-      "LastModified": "2026-10-27T14:21:51.393Z"
+      "LastModified": "2026-10-28T22:19:26.163Z"
+    },
+    {
+      "ID": 443836,
+      "GUID": "2D0F8772-4E55-4B85-82CE-A984E28DC15A",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7822,
+          "Slug": "crystal-hudson",
+          "FullName": "Crystal Hudson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7825,
+          "Slug": "alexa-aviles",
+          "FullName": "Alexa Avilés",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 6272,
+          "Slug": "darlene-mealy",
+          "FullName": "Darlene Mealy",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 60
+        },
+        {
+          "ID": 7887,
+          "Slug": "frank-morano",
+          "FullName": "Frank Morano",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7824,
+          "Slug": "sandy-nurse",
+          "FullName": "Sandy Nurse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7874,
+          "Slug": "carl-wilson",
+          "FullName": "Carl Wilson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        }
+      ],
+      "LastModified": "2026-10-28T22:18:42.54Z"
+    },
+    {
+      "ID": 443837,
+      "GUID": "7C70C14A-92CF-4E6A-BB28-0F90D7F3F771",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Brewer and Public Advocate Williams",
+      "LastModified": "2026-10-28T22:18:21.077Z"
+    },
+    {
+      "ID": 443838,
+      "GUID": "EF5ECC91-B940-40E8-B8AD-4F721EAC9BD3",
+      "Title": "Oversight - Shelter Safety.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 79582,
+      "MatterFile": "T2026-2629",
+      "MatterName": "Oversight - Shelter Safety.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-10-28T22:19:00.177Z"
+    },
+    {
+      "ID": 443839,
+      "GUID": "4F225B58-A532-46E6-8303-8D34BEF90E2E",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of homeless services to report on the placement of families with children into shelters",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 76882,
+      "MatterFile": "Int 0099-2026",
+      "MatterName": "Requiring the department of homeless services to report on the placement of families with children into shelters.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-10-28T22:19:17.157Z"
+    },
+    {
+      "ID": 443840,
+      "GUID": "0A0454D0-3CDB-4864-A02E-79E543AEB254",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring reporting on crime statistics in shelters",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 77834,
+      "MatterFile": "Int 0387-2026",
+      "MatterName": "Requiring reporting on crime statistics in shelters.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-10-28T22:19:42.2Z"
     }
   ],
   "AgendaLastPublished": "2026-10-15T17:32:44.847Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-10-28T21:06:04.777Z"
+  "MinutesLastPublished": "2026-10-28T22:19:49Z",
+  "LastModified": "2026-10-28T22:19:49.17Z"
 }
