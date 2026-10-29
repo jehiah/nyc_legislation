@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/10/22740_A_Subcommittee_on_Early_Childhood_Education_26-10-29_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/10/22740_M_Subcommittee_on_Early_Childhood_Education_26-10-29_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Small Business",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22740&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,39 +20,156 @@
       "GUID": "ECA9316E-067E-454E-9496-4D182A693C78",
       "Title": "Oversight - The Business of Child Care.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 79512,
       "MatterFile": "T2026-2559",
       "MatterName": "Oversight - The Business of Child Care.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-09-22T23:09:40.473Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-10-29T21:46:43.353Z"
     },
     {
       "ID": 442012,
       "GUID": "BEF2838F-6FF0-48E2-AAE3-7F2CBD54E901",
       "Title": "Jointly with the Committee on Small Business",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "",
-      "LastModified": "2026-09-22T23:03:03.76Z"
+      "LastModified": "2026-10-29T21:46:49.32Z"
     },
     {
       "ID": 442330,
       "GUID": "2BC27B6C-9982-4F01-81EE-9E1C923BEEB7",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of small business services to expand the business pathways program",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 77717,
       "MatterFile": "Int 0445-2026",
       "MatterName": "Requiring the department of small business services to expand the business pathways program.",
       "MatterType": "Introduction",
-      "LastModified": "2026-09-22T23:07:27.863Z"
+      "LastModified": "2026-10-29T21:46:55.043Z"
+    },
+    {
+      "ID": 443859,
+      "GUID": "4632A58F-71AB-447E-A864-F79A5246C671",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 5289,
+          "Slug": "simcha-felder",
+          "FullName": "Simcha Felder",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7901,
+          "Slug": "kayla-santosuosso",
+          "FullName": "Kayla Santosuosso",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7816,
+          "Slug": "julie-won",
+          "FullName": "Julie Won",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 100
+        }
+      ],
+      "LastModified": "2026-10-29T21:46:32.73Z"
+    },
+    {
+      "ID": 443860,
+      "GUID": "4AD380E0-12BA-4F64-96E3-171E9BA8982E",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Thomas-Henry, Brooks-Powers, Hanif, Morano and Maloney",
+      "LastModified": "2026-10-29T21:46:05.43Z"
+    },
+    {
+      "ID": 443861,
+      "GUID": "BE286414-C396-4796-957A-BE1F729A5269",
+      "Title": "Oversight - The Business of Child Care.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 79512,
+      "MatterFile": "T2026-2559",
+      "MatterName": "Oversight - The Business of Child Care.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-10-29T21:46:47.503Z"
+    },
+    {
+      "ID": 443862,
+      "GUID": "D2DAAB71-377B-4049-BB96-4171E8D57D39",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of small business services to expand the business pathways program",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 5050,
+      "ActionName": "Laid Over by Subcommittee",
+      "ActionText": "This Introduction was Laid Over by Subcommittee",
+      "MatterID": 77717,
+      "MatterFile": "Int 0445-2026",
+      "MatterName": "Requiring the department of small business services to expand the business pathways program.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-10-29T21:47:05.66Z"
     }
   ],
   "AgendaLastPublished": "2026-09-22T23:07:54.383Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-09-22T23:07:54.56Z"
+  "MinutesLastPublished": "2026-10-29T21:47:10.647Z",
+  "LastModified": "2026-10-29T21:47:10.727Z"
 }
