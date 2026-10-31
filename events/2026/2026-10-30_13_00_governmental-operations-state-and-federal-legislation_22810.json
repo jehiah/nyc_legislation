@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/10/22810_A_Committee_on_Governmental_Operations%2C_State___Federal_Legislation_26-10-30_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/10/22810_M_Committee_on_Governmental_Operations%2C_State___Federal_Legislation_26-10-30_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Public Safety",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22810&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,65 +20,220 @@
       "GUID": "6561E9C6-F1B3-48B7-A046-7E2CFBCB8C53",
       "Title": "Oversight - The Office of Community Safety and Non-Police Solutions to Reducing Violence.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 79654,
       "MatterFile": "T2026-2701",
       "MatterName": "Oversight - The Office of Community Safety and Non-Police Solutions to Reducing Violence.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-10-16T18:18:00.24Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-10-30T23:09:11.09Z"
     },
     {
       "ID": 443299,
       "GUID": "92298B0C-D4A7-4126-8671-02F4B47498BC",
       "Title": "A Local Law to amend the New York city charter, in relation to the creation of a three-digit gun violence intervention hotline",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 77734,
       "MatterFile": "Int 0414-2026",
       "MatterName": "Creation of a three-digit gun violence intervention hotline.",
       "MatterType": "Introduction",
-      "LastModified": "2026-10-16T18:18:19.493Z"
+      "LastModified": "2026-10-30T23:09:31.597Z"
     },
     {
       "ID": 443300,
       "GUID": "4FCD0CB9-5A24-40F9-937C-E34B56432788",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to creating a department of community safety",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 77601,
       "MatterFile": "Int 0403-2026",
       "MatterName": "Creating a department of community safety",
       "MatterType": "Introduction",
-      "LastModified": "2026-10-16T18:19:09.637Z"
+      "LastModified": "2026-10-30T23:09:19.857Z"
     },
     {
       "ID": 443301,
       "GUID": "3452B608-0C7D-48AC-8413-A2E36A7C32FD",
       "Title": "A Local Law to amend the New York city charter, in relation to offering community service in lieu of civil penalties for certain littering violations",
       "AgendaSequence": 4,
-      "MinutesSequence": 4,
+      "MinutesSequence": 9,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 77190,
       "MatterFile": "Int 0667-2026",
       "MatterName": "Offering community service in lieu of civil penalties for certain littering violations.",
       "MatterType": "Introduction",
-      "LastModified": "2026-10-16T18:18:42.773Z"
+      "LastModified": "2026-10-30T23:09:43.36Z"
     },
     {
       "ID": 443302,
       "GUID": "4132C263-F1D6-477D-A91E-5DB3307245A6",
       "Title": "Jointly with Committee on Public Safety",
       "AgendaSequence": 5,
-      "MinutesSequence": 5,
+      "MinutesSequence": 11,
       "Version": "",
-      "LastModified": "2026-10-16T18:18:52.867Z"
+      "LastModified": "2026-10-30T23:09:37.33Z"
+    },
+    {
+      "ID": 443883,
+      "GUID": "15348BC8-E363-4319-AB43-7AE911B99DF0",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-j-feliz",
+          "FullName": "Oswald J. Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7887,
+          "Slug": "frank-morano",
+          "FullName": "Frank Morano",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7874,
+          "Slug": "carl-wilson",
+          "FullName": "Carl Wilson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 130
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2026-10-30T23:09:03.527Z"
+    },
+    {
+      "ID": 443884,
+      "GUID": "DDBB9417-E583-4468-A849-EFEAC4F5BC6B",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Nurse, Wong, Riley, Ariola, Restler, Ossé, J. Sanchez, Cabán, Banks and Public Advocate Williams",
+      "LastModified": "2026-10-30T23:08:49.797Z"
+    },
+    {
+      "ID": 443885,
+      "GUID": "7AB68E96-89D9-41F9-A67B-14BD421AEF01",
+      "Title": "Oversight - The Office of Community Safety and Non-Police Solutions to Reducing Violence.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 79654,
+      "MatterFile": "T2026-2701",
+      "MatterName": "Oversight - The Office of Community Safety and Non-Police Solutions to Reducing Violence.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-10-30T23:09:14.35Z"
+    },
+    {
+      "ID": 443886,
+      "GUID": "04ECEEBE-8315-4B0C-93C8-A971E2B3F436",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to creating a department of community safety",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 77601,
+      "MatterFile": "Int 0403-2026",
+      "MatterName": "Creating a department of community safety",
+      "MatterType": "Introduction",
+      "LastModified": "2026-10-30T23:09:23.63Z"
+    },
+    {
+      "ID": 443887,
+      "GUID": "A1F3F385-F562-42E5-AFB0-99D32E7236B5",
+      "Title": "A Local Law to amend the New York city charter, in relation to the creation of a three-digit gun violence intervention hotline",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 77734,
+      "MatterFile": "Int 0414-2026",
+      "MatterName": "Creation of a three-digit gun violence intervention hotline.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-10-30T23:09:35.673Z"
+    },
+    {
+      "ID": 443888,
+      "GUID": "77B4ECCF-8742-42E9-9534-7DA5D9CFA2A9",
+      "Title": "A Local Law to amend the New York city charter, in relation to offering community service in lieu of civil penalties for certain littering violations",
+      "AgendaSequence": 0,
+      "MinutesSequence": 10,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 77190,
+      "MatterFile": "Int 0667-2026",
+      "MatterName": "Offering community service in lieu of civil penalties for certain littering violations.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-10-30T23:09:50.127Z"
     }
   ],
   "AgendaLastPublished": "2026-10-16T18:19:14.153Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-10-16T18:19:14.17Z"
+  "MinutesLastPublished": "2026-10-30T23:09:55.91Z",
+  "LastModified": "2026-10-30T23:09:55.957Z"
 }
