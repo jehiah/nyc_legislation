@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/11/22764_A_Committee_on_Sanitation_and_Solid_Waste_Management_26-11-02_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/11/22764_M_Committee_on_Sanitation_and_Solid_Waste_Management_26-11-02_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_261102-104448.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22764&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,30 +20,270 @@
       "GUID": "6135B61C-6667-41CC-9B8A-DBEE8C0BB32F",
       "Title": "Oversight - City’s Snow Removal and Winter Storm Response.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 79549,
       "MatterFile": "T2026-2596",
       "MatterName": "Oversight - City’s Snow Removal and Winter Storm Response.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-10-09T20:10:30.233Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-11-02T21:17:43.067Z"
     },
     {
       "ID": 443192,
       "GUID": "7CEEE5CC-67E4-4A99-B0AC-F48853AD5DC4",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the publication and visualization of snow plowing operations data",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 78711,
       "MatterFile": "Int 1042-2026",
       "MatterName": "Publication and visualization of snow plowing operations data.",
       "MatterType": "Introduction",
-      "LastModified": "2026-10-09T20:10:57.48Z"
+      "LastModified": "2026-11-02T21:17:59.863Z"
+    },
+    {
+      "ID": 443925,
+      "GUID": "46492752-CDC9-4758-BD82-4FD19309C2D9",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7897,
+          "Slug": "justin-e-sanchez",
+          "FullName": "Justin E. Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7899,
+          "Slug": "ty-hankerson",
+          "FullName": "Ty Hankerson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7894,
+          "Slug": "virginia-maloney",
+          "FullName": "Virginia Maloney",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7901,
+          "Slug": "kayla-santosuosso",
+          "FullName": "Kayla Santosuosso",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7898,
+          "Slug": "shanel-thomas-henry",
+          "FullName": "Shanel Thomas-Henry",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7874,
+          "Slug": "carl-wilson",
+          "FullName": "Carl Wilson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 170
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 180
+        }
+      ],
+      "LastModified": "2026-11-02T21:18:15.89Z"
+    },
+    {
+      "ID": 443926,
+      "GUID": "250691C5-87A4-4C96-A469-AD1E35CDE6E1",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Restler",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7897,
+          "Slug": "justin-e-sanchez",
+          "FullName": "Justin E. Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7826,
+          "Slug": "shahana-k-hanif",
+          "FullName": "Shahana K. Hanif",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7899,
+          "Slug": "ty-hankerson",
+          "FullName": "Ty Hankerson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 70
+        },
+        {
+          "ID": 7894,
+          "Slug": "virginia-maloney",
+          "FullName": "Virginia Maloney",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7901,
+          "Slug": "kayla-santosuosso",
+          "FullName": "Kayla Santosuosso",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7898,
+          "Slug": "shanel-thomas-henry",
+          "FullName": "Shanel Thomas-Henry",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7831,
+          "Slug": "inna-vernikov",
+          "FullName": "Inna Vernikov",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7874,
+          "Slug": "carl-wilson",
+          "FullName": "Carl Wilson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 170
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 180
+        }
+      ],
+      "LastModified": "2026-11-02T21:17:26.47Z"
+    },
+    {
+      "ID": 443927,
+      "GUID": "145A9CE6-1E15-4F72-9C2C-8B970CD86ABD",
+      "Title": "Oversight - City’s Snow Removal and Winter Storm Response.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 79549,
+      "MatterFile": "T2026-2596",
+      "MatterName": "Oversight - City’s Snow Removal and Winter Storm Response.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-11-02T21:17:48.34Z"
+    },
+    {
+      "ID": 443928,
+      "GUID": "B6E69A12-7BEA-48D3-9ABF-AD7453A5EFD3",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the publication and visualization of snow plowing operations data",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 78711,
+      "MatterFile": "Int 1042-2026",
+      "MatterName": "Publication and visualization of snow plowing operations data.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-11-02T21:18:05.713Z"
     }
   ],
   "AgendaLastPublished": "2026-10-09T20:11:03.503Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-10-09T20:11:03.55Z"
+  "MinutesLastPublished": "2026-11-02T21:18:22.88Z",
+  "LastModified": "2026-11-02T21:18:23.003Z"
 }
