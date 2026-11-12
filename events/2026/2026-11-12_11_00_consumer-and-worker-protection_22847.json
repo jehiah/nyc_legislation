@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/11/22847_A_Committee_on_Consumer_and_Worker_Protection_26-11-12_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/11/22847_M_Committee_on_Consumer_and_Worker_Protection_26-11-12_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-3_261112-111751.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22847&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,18 +21,171 @@
       "GUID": "974FF911-BC72-4A68-8F23-3139CE7EFC51",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to prohibiting surveillance pricing",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 891-A",
       "MinutesNote": "Proposed Int. No. 891-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 78826,
       "MatterFile": "Int 0891-2026",
       "MatterName": "Prohibiting surveillance pricing.",
       "MatterType": "Introduction",
-      "LastModified": "2026-11-11T03:58:05.3Z"
+      "LastModified": "2026-11-12T16:45:17.36Z"
+    },
+    {
+      "ID": 444294,
+      "GUID": "B401CE54-F014-48F1-97B2-4FFB18BC3E8E",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7893,
+          "Slug": "harvey-d-epstein",
+          "FullName": "Harvey D. Epstein",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7896,
+          "Slug": "shirley-aldebol",
+          "FullName": "Shirley Aldebol",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 140
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 200
+        },
+        {
+          "ID": 7874,
+          "Slug": "carl-wilson",
+          "FullName": "Carl Wilson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 220
+        }
+      ],
+      "LastModified": "2026-11-12T16:45:04.193Z"
+    },
+    {
+      "ID": 444295,
+      "GUID": "B836C728-FAD9-437B-8F40-249C304CCF8C",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to prohibiting surveillance pricing",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 78826,
+      "MatterFile": "Int 0891-2026",
+      "MatterName": "Prohibiting surveillance pricing.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-11-12T16:45:25.81Z"
+    },
+    {
+      "ID": 444296,
+      "GUID": "D3E7890A-E60A-4DB1-9869-93C171D965FF",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to prohibiting surveillance pricing",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 78826,
+      "MatterFile": "Int 0891-2026",
+      "MatterName": "Prohibiting surveillance pricing.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-11-12T16:46:22.843Z"
+    },
+    {
+      "ID": 444297,
+      "GUID": "F3818825-FF03-4EC5-B918-B5EDEE7D74D7",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to prohibiting surveillance pricing",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 78826,
+      "MatterFile": "Int 0891-2026",
+      "MatterName": "Prohibiting surveillance pricing.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-11-12T16:46:41.7Z"
     }
   ],
   "AgendaLastPublished": "2026-11-11T03:58:04.733Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-11-11T03:58:04.89Z"
+  "MinutesLastPublished": "2026-11-12T16:46:38.743Z",
+  "LastModified": "2026-11-12T16:46:38.86Z"
 }
