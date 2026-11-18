@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/11/22793_A_Committee_on_Education_26-11-18_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/11/22793_M_Committee_on_Education_26-11-18_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_261118-130513.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22793&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,43 +20,227 @@
       "GUID": "66A9C539-ABEF-4FBF-B7CE-AE2196178DF1",
       "Title": "Oversight - Examining School Bus Transportation Services in NYC.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 79630,
       "MatterFile": "T2026-2677",
       "MatterName": "Oversight - Examining School Bus Transportation Services in NYC.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-11-04T16:39:28.987Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-11-18T22:05:39.913Z"
     },
     {
       "ID": 443933,
       "GUID": "AA786B39-5980-478B-8925-06515DC100B7",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the establishment and maintenance of a school bus performance dashboard",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 78612,
       "MatterFile": "Int 0835-2026",
       "MatterName": "Establishment and maintenance of a school bus performance dashboard.",
       "MatterType": "Introduction",
-      "LastModified": "2026-11-13T19:28:36.54Z"
+      "LastModified": "2026-11-18T22:05:56.113Z"
     },
     {
       "ID": 444350,
       "GUID": "85E8B96C-9972-4BEB-8336-F37953CB1006",
       "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, S.1018/A.8440, to amend the education law, in relation to contracts for the transportation of school children",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 75269,
       "MatterFile": "Res 0735-2026",
       "MatterName": "Amend the education law. (S.1018/A.8440)",
       "MatterType": "Resolution",
-      "LastModified": "2026-11-13T20:34:56.283Z"
+      "LastModified": "2026-11-18T22:06:10.447Z"
+    },
+    {
+      "ID": 444599,
+      "GUID": "744DF3A6-6CFA-4C82-A986-03D766688B62",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-c-farias",
+          "FullName": "Amanda C. Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 200
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 220
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 240
+        },
+        {
+          "ID": 7900,
+          "Slug": "phil-wong",
+          "FullName": "Phil Wong",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 260
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 280
+        }
+      ],
+      "LastModified": "2026-11-18T22:05:29.88Z"
+    },
+    {
+      "ID": 444600,
+      "GUID": "DF28318F-B8A5-441C-83BD-DDF01A730C8A",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Restler, Brooks-Powers and Speaker Menin",
+      "LastModified": "2026-11-18T22:05:10.063Z"
+    },
+    {
+      "ID": 444601,
+      "GUID": "9F87954B-F5C0-43DD-85B3-1F3CA268308D",
+      "Title": "Oversight - Examining School Bus Transportation Services in NYC.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 79630,
+      "MatterFile": "T2026-2677",
+      "MatterName": "Oversight - Examining School Bus Transportation Services in NYC.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-11-18T22:05:45.29Z"
+    },
+    {
+      "ID": 444602,
+      "GUID": "430FB550-6F54-4432-BBEA-E9E256243CED",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the establishment and maintenance of a school bus performance dashboard",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 78612,
+      "MatterFile": "Int 0835-2026",
+      "MatterName": "Establishment and maintenance of a school bus performance dashboard.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-11-18T22:06:00.863Z"
+    },
+    {
+      "ID": 444603,
+      "GUID": "B3FC5C6C-7BA1-4F28-958E-2374B4A23402",
+      "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, S.1018/A.8440, to amend the education law, in relation to contracts for the transportation of school children",
+      "AgendaSequence": 0,
+      "MinutesSequence": 8,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Resolution was Laid Over by Committee",
+      "MatterID": 75269,
+      "MatterFile": "Res 0735-2026",
+      "MatterName": "Amend the education law. (S.1018/A.8440)",
+      "MatterType": "Resolution",
+      "LastModified": "2026-11-18T22:06:19.303Z"
     }
   ],
   "AgendaLastPublished": "2026-11-13T19:37:21.8Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-11-13T19:37:21.95Z"
+  "MinutesLastPublished": "2026-11-18T22:06:26.827Z",
+  "LastModified": "2026-11-18T22:06:27.007Z"
 }
