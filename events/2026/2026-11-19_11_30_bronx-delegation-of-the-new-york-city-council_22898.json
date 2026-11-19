@@ -8,9 +8,11 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/11/22898_A_Bronx_Delegation_of_the_New_York_City_Council_26-11-19_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/11/22898_M_Bronx_Delegation_of_the_New_York_City_Council_26-11-19_Meeting_Minutes.pdf",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-COM_261119-120147.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22898&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -18,17 +20,123 @@
       "GUID": "461C7D76-4A71-4693-B21B-694CF96950A7",
       "Title": "Pursuant to Section 2301 of the New York City Charter, Recommendation to the Mayor by the Council Members representing the Borough of the Bronx of Nivardo Lopez to serve as a member of the Taxi and Limousine Commission.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This N/A was Hearing Held by Committee",
       "MatterID": 79827,
       "MatterFile": "T2026-2874",
       "MatterName": "Pursuant to Section 2301 of the New York City Charter, Recommendation to the Mayor by the Council Members representing the Borough of the Bronx of Nivardo Lopez to serve as a member of the Taxi and Limousine Commission.",
       "MatterType": "N/A",
       "MatterStatus": "Introduced",
-      "LastModified": "2026-11-18T18:45:20.593Z"
+      "LastModified": "2026-11-19T18:10:41.8Z"
+    },
+    {
+      "ID": 444673,
+      "GUID": "59AEE2E6-97B3-415A-B3C3-A79268835890",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7896,
+          "Slug": "shirley-aldebol",
+          "FullName": "Shirley Aldebol",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7895,
+          "Slug": "elsie-encarnacion",
+          "FullName": "Elsie Encarnación",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 50
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-c-farias",
+          "FullName": "Amanda C. Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7798,
+          "Slug": "oswald-j-feliz",
+          "FullName": "Oswald J. Feliz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7897,
+          "Slug": "justin-e-sanchez",
+          "FullName": "Justin E. Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7808,
+          "Slug": "pierina-ana-sanchez",
+          "FullName": "Pierina Ana Sanchez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7809,
+          "Slug": "althea-v-stevens",
+          "FullName": "Althea V.  Stevens",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        }
+      ],
+      "LastModified": "2026-11-19T18:07:09.223Z"
+    },
+    {
+      "ID": 444683,
+      "GUID": "8C23BBD5-C4EC-4C06-A8C7-1450C1151F28",
+      "Title": "Pursuant to Section 2301 of the New York City Charter, Recommendation to the Mayor by the Council Members representing the Borough of the Bronx of Nivardo Lopez to serve as a member of the Taxi and Limousine Commission.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5065,
+      "ActionName": "Adopted by the Committee",
+      "ActionText": "A motion was made that this N/A be Adopted by the Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 79827,
+      "MatterFile": "T2026-2874",
+      "MatterName": "Pursuant to Section 2301 of the New York City Charter, Recommendation to the Mayor by the Council Members representing the Borough of the Bronx of Nivardo Lopez to serve as a member of the Taxi and Limousine Commission.",
+      "MatterType": "N/A",
+      "MatterStatus": "Introduced",
+      "LastModified": "2026-11-19T18:11:16.54Z"
     }
   ],
-  "AgendaLastPublished": "2026-11-18T18:45:25.97Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-11-18T18:45:26.047Z"
+  "AgendaLastPublished": "2026-11-19T17:27:59.09Z",
+  "MinutesLastPublished": "2026-11-19T18:11:22.433Z",
+  "LastModified": "2026-11-19T18:11:22.6Z"
 }

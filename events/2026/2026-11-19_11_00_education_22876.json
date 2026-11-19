@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/11/22876_A_Committee_on_Education_26-11-19_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/11/22876_M_Committee_on_Education_26-11-19_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-1_261119-110229.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22876&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,18 +21,187 @@
       "GUID": "EB4DE730-4A23-4D2A-A60F-31E84FCDF5E1",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of education to distribute information about the importance of dental care",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
       "AgendaNote": "Proposed Int. No. 259-A",
       "MinutesNote": "Proposed Int. No. 259-A",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 77519,
       "MatterFile": "Int 0259-2026",
       "MatterName": "Requiring the department of education to distribute information about the importance of dental care.",
       "MatterType": "Introduction",
-      "LastModified": "2026-11-13T16:43:18.057Z"
+      "LastModified": "2026-11-19T16:33:14.997Z"
+    },
+    {
+      "ID": 444637,
+      "GUID": "76329BC8-6EAF-42FB-8B9A-ADB259214B2E",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7799,
+          "Slug": "eric-dinowitz",
+          "FullName": "Eric Dinowitz",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7810,
+          "Slug": "amanda-c-farias",
+          "FullName": "Amanda C. Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 80
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7827,
+          "Slug": "rita-c-joseph",
+          "FullName": "Rita C. Joseph",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 120
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        },
+        {
+          "ID": 7785,
+          "Slug": "farah-n-louis",
+          "FullName": "Farah N. Louis",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 200
+        },
+        {
+          "ID": 7829,
+          "Slug": "mercedes-narcisse",
+          "FullName": "Mercedes Narcisse",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 220
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 240
+        },
+        {
+          "ID": 7900,
+          "Slug": "phil-wong",
+          "FullName": "Phil Wong",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 260
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 280
+        }
+      ],
+      "LastModified": "2026-11-19T16:33:06.197Z"
+    },
+    {
+      "ID": 444638,
+      "GUID": "8BBD47E6-4A4B-4466-82BF-E51F910D4E88",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of education to distribute information about the importance of dental care",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5001,
+      "ActionName": "Amendment Proposed by Comm",
+      "ActionText": "This Introduction was Amendment Proposed by Comm",
+      "MatterID": 77519,
+      "MatterFile": "Int 0259-2026",
+      "MatterName": "Requiring the department of education to distribute information about the importance of dental care.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-11-19T16:33:18.237Z"
+    },
+    {
+      "ID": 444639,
+      "GUID": "74198DA6-CB52-478F-87B0-B7A4B14A7049",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of education to distribute information about the importance of dental care",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 33,
+      "ActionName": "Amended by Committee",
+      "ActionText": "This Introduction was Amended by Committee",
+      "MatterID": 77519,
+      "MatterFile": "Int 0259-2026",
+      "MatterName": "Requiring the department of education to distribute information about the importance of dental care.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-11-19T16:33:21.683Z"
+    },
+    {
+      "ID": 444640,
+      "GUID": "4C4DCFE8-0FA3-46F7-8978-11A532593378",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the department of education to distribute information about the importance of dental care",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "A",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Introduction be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 77519,
+      "MatterFile": "Int 0259-2026",
+      "MatterName": "Requiring the department of education to distribute information about the importance of dental care.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-11-19T16:33:37.94Z"
     }
   ],
   "AgendaLastPublished": "2026-11-13T16:43:23.74Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-11-13T16:43:23.787Z"
+  "MinutesLastPublished": "2026-11-19T16:33:42.78Z",
+  "LastModified": "2026-11-19T16:33:42.84Z"
 }

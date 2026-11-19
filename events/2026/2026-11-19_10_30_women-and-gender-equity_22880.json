@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/11/22880_A_Committee_on_Women_and_Gender_Equity_26-11-19_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/11/22880_M_Committee_on_Women_and_Gender_Equity_26-11-19_Meeting_Minutes.pdf",
   "Comment": "VOTE*",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-3_261119-104022.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22880&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,29 +21,123 @@
       "GUID": "41C30A1B-7130-4022-A780-39838945D3F2",
       "Title": "Resolution declaring November 25 as the “International day for the Elimination of Violence Against Women” in honor of the Mirabal sisters",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 78735,
       "MatterFile": "Res 0441-2026",
       "MatterName": "Declaring November 25 as the “International day for the Elimination of Violence Against Women.”",
       "MatterType": "Resolution",
-      "LastModified": "2026-11-13T15:49:36.763Z"
+      "LastModified": "2026-11-19T16:31:04.22Z"
     },
     {
       "ID": 444326,
       "GUID": "938903D1-0563-46C3-9CFA-8626230E7C51",
       "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, legislation requiring insurers to cover all lactation consultation and counseling services without restrictions and reimburse providers accordingly",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Resolution was Hearing Held by Committee",
       "MatterID": 79408,
       "MatterFile": "Res 0637-2026",
       "MatterName": "Requiring insurers to cover all lactation consultation and counseling services without restrictions and reimburse providers accordingly.",
       "MatterType": "Resolution",
-      "LastModified": "2026-11-13T14:41:23.317Z"
+      "LastModified": "2026-11-19T16:31:15.167Z"
+    },
+    {
+      "ID": 444634,
+      "GUID": "D8C85E4B-37B2-480D-9F71-43FF556E49FF",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7810,
+          "Slug": "amanda-c-farias",
+          "FullName": "Amanda C. Farías",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7896,
+          "Slug": "shirley-aldebol",
+          "FullName": "Shirley Aldebol",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7821,
+          "Slug": "jennifer-gutierrez",
+          "FullName": "Jennifer Gutiérrez",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7901,
+          "Slug": "kayla-santosuosso",
+          "FullName": "Kayla Santosuosso",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 80
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        }
+      ],
+      "LastModified": "2026-11-19T16:30:18.97Z"
+    },
+    {
+      "ID": 444635,
+      "GUID": "FD1195E4-A23C-4C98-97FD-2B0B5159A8D2",
+      "Title": "Resolution declaring November 25 as the “International day for the Elimination of Violence Against Women” in honor of the Mirabal sisters",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Resolution be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 78735,
+      "MatterFile": "Res 0441-2026",
+      "MatterName": "Declaring November 25 as the “International day for the Elimination of Violence Against Women.”",
+      "MatterType": "Resolution",
+      "LastModified": "2026-11-19T16:31:11.837Z"
+    },
+    {
+      "ID": 444636,
+      "GUID": "28870FCF-8B59-479D-9552-6923D067B2C6",
+      "Title": "Resolution calling on the New York State Legislature to pass, and the Governor to sign, legislation requiring insurers to cover all lactation consultation and counseling services without restrictions and reimburse providers accordingly",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 32,
+      "ActionName": "Approved by Committee",
+      "ActionText": "A motion was made that this Resolution be Approved by Committee approved by Roll Call.",
+      "PassedFlag": 1,
+      "PassedFlagName": "Pass",
+      "MatterID": 79408,
+      "MatterFile": "Res 0637-2026",
+      "MatterName": "Requiring insurers to cover all lactation consultation and counseling services without restrictions and reimburse providers accordingly.",
+      "MatterType": "Resolution",
+      "LastModified": "2026-11-19T16:31:22.447Z"
     }
   ],
   "AgendaLastPublished": "2026-11-13T14:42:40.45Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-11-13T14:42:40.52Z"
+  "MinutesLastPublished": "2026-11-19T16:31:28.21Z",
+  "LastModified": "2026-11-19T16:31:28.32Z"
 }
