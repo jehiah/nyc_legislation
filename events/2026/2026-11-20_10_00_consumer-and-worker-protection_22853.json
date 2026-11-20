@@ -8,9 +8,10 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/11/22853_A_Committee_on_Consumer_and_Worker_Protection_26-11-20_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/11/22853_M_Committee_on_Consumer_and_Worker_Protection_26-11-20_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Oversight and Investigations",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22853&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
@@ -19,39 +20,188 @@
       "GUID": "465386B3-EBF3-464F-B6FA-A3DD8F62F0C4",
       "Title": "Oversight – Examining the Availability of Flavored E-Cigarettes Near New York City Schools.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 3,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 79748,
       "MatterFile": "T2026-2795",
       "MatterName": "Oversight – Examining the Availability of Flavored E-Cigarettes Near New York City Schools.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-11-05T20:44:57.803Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-11-20T18:26:21.983Z"
     },
     {
       "ID": 443984,
       "GUID": "2CA01787-6D52-4B0C-B9B2-F1A822E022A5",
       "Title": "Jointly with the Committee on Oversight and Investigations",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 7,
       "Version": "",
-      "LastModified": "2026-11-05T20:02:11.793Z"
+      "LastModified": "2026-11-20T18:26:27.14Z"
     },
     {
       "ID": 443985,
       "GUID": "E86BD594-B888-4199-8314-2C33734F0021",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the department of consumer and worker protection’s authority to seal the premises of electronic cigarette retailers",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 5,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 79744,
-      "MatterFile": "T2026-2791",
+      "MatterFile": "Int 1167-2026",
       "MatterName": "The department of consumer and worker protection’s authority to seal the premises of electronic cigarette retailers.",
       "MatterType": "Introduction",
-      "LastModified": "2026-11-05T20:02:14.923Z"
+      "LastModified": "2026-11-20T18:26:32.46Z"
+    },
+    {
+      "ID": 444727,
+      "GUID": "310DD672-E5AD-4CFF-A48A-781DE3DD79B7",
+      "Title": "Roll Coll",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7893,
+          "Slug": "harvey-d-epstein",
+          "FullName": "Harvey D. Epstein",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7896,
+          "Slug": "shirley-aldebol",
+          "FullName": "Shirley Aldebol",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 40
+        },
+        {
+          "ID": 7819,
+          "Slug": "joann-ariola",
+          "FullName": "Joann Ariola",
+          "ValueID": 46,
+          "Value": "Medical",
+          "Sort": 60
+        },
+        {
+          "ID": 7864,
+          "Slug": "chris-banks",
+          "FullName": "Chris Banks",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 80
+        },
+        {
+          "ID": 5259,
+          "Slug": "gale-a-brewer",
+          "FullName": "Gale A. Brewer",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 100
+        },
+        {
+          "ID": 7806,
+          "Slug": "carmen-n-de-la-rosa",
+          "FullName": "Carmen N. De La Rosa",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 120
+        },
+        {
+          "ID": 7832,
+          "Slug": "kamillah-hanks",
+          "FullName": "Kamillah Hanks",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 140
+        },
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 160
+        },
+        {
+          "ID": 7823,
+          "Slug": "chi-a-osse",
+          "FullName": "Chi A. Ossé",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 180
+        },
+        {
+          "ID": 7818,
+          "Slug": "lynn-c-schulman",
+          "FullName": "Lynn C. Schulman",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 200
+        },
+        {
+          "ID": 7874,
+          "Slug": "carl-wilson",
+          "FullName": "Carl Wilson",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 220
+        }
+      ],
+      "LastModified": "2026-11-20T18:24:27.493Z"
+    },
+    {
+      "ID": 444728,
+      "GUID": "FD773EC1-0E80-4071-BAD5-EDD3C75F1EA8",
+      "Title": "",
+      "AgendaSequence": 0,
+      "MinutesSequence": 2,
+      "Version": "",
+      "MinutesNote": "Other Council Members Attending: Carr, Narcisse and Lee",
+      "LastModified": "2026-11-20T18:22:14.403Z"
+    },
+    {
+      "ID": 444729,
+      "GUID": "396F6AB0-3135-4FD4-A443-DBA6FA6F6E9D",
+      "Title": "Oversight – Examining the Availability of Flavored E-Cigarettes Near New York City Schools.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 4,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 79748,
+      "MatterFile": "T2026-2795",
+      "MatterName": "Oversight – Examining the Availability of Flavored E-Cigarettes Near New York City Schools.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-11-20T18:26:25.413Z"
+    },
+    {
+      "ID": 444730,
+      "GUID": "E81A26A5-6D68-46CD-825E-3F6391433F5F",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the department of consumer and worker protection’s authority to seal the premises of electronic cigarette retailers",
+      "AgendaSequence": 0,
+      "MinutesSequence": 6,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 79744,
+      "MatterFile": "Int 1167-2026",
+      "MatterName": "The department of consumer and worker protection’s authority to seal the premises of electronic cigarette retailers.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-11-20T18:26:44.427Z"
     }
   ],
   "AgendaLastPublished": "2026-11-05T20:45:20.283Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-11-05T20:45:20.31Z"
+  "MinutesLastPublished": "2026-11-20T18:26:51.587Z",
+  "LastModified": "2026-11-20T18:26:51.633Z"
 }

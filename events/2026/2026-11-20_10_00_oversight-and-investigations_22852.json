@@ -8,10 +8,12 @@
   "VideoStatus": "Public",
   "AgendaStatusID": 2,
   "AgendaStatusName": "Final",
-  "MinutesStatusID": 1,
-  "MinutesStatusName": "Draft",
+  "MinutesStatusID": 2,
+  "MinutesStatusName": "Final",
   "AgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/11/22852_A_Committee_on_Oversight_and_Investigations_26-11-20_Committee_Agenda.pdf",
+  "MinutesFile": "https://nyc.legistar1.com/nyc/meetings/2026/11/22852_M_Committee_on_Oversight_and_Investigations_26-11-20_Meeting_Minutes.pdf",
   "Comment": "Jointly with the Committee on Consumer and Worker Protection.",
+  "VideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-2_261120-101026.mp4",
   "InSiteURL": "https://legistar.council.nyc.gov/MeetingDetail.aspx?LEGID=22852&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
   "Items": [
     {
@@ -19,39 +21,146 @@
       "GUID": "69B002E8-523B-4DB0-A37A-0A446F152EF2",
       "Title": "Oversight – Examining the Availability of Flavored E-Cigarettes Near New York City Schools.",
       "AgendaSequence": 1,
-      "MinutesSequence": 1,
+      "MinutesSequence": 2,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Oversight was Hearing Held by Committee",
       "MatterID": 79747,
       "MatterFile": "T2026-2794",
       "MatterName": "Oversight – Examining the Availability of Flavored E-Cigarettes Near New York City Schools.",
       "MatterType": "Oversight",
-      "MatterStatus": "Committee",
-      "LastModified": "2026-11-05T20:44:22.1Z"
+      "MatterStatus": "Filed",
+      "LastModified": "2026-11-20T17:36:44.167Z"
     },
     {
       "ID": 443982,
       "GUID": "DFFA1C07-482A-4C78-8FA2-08B09EBA2BE7",
       "Title": "Jointly with the Committee on Consumer and Worker Protection ",
       "AgendaSequence": 3,
-      "MinutesSequence": 3,
+      "MinutesSequence": 6,
       "Version": "",
-      "LastModified": "2026-11-05T20:02:26.25Z"
+      "LastModified": "2026-11-20T17:36:52.11Z"
     },
     {
       "ID": 443986,
       "GUID": "66E3E472-A81E-47C5-9727-A40CFD499B3F",
       "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the department of consumer and worker protection’s authority to seal the premises of electronic cigarette retailers",
       "AgendaSequence": 2,
-      "MinutesSequence": 2,
+      "MinutesSequence": 4,
       "Version": "*",
+      "ActionID": 54,
+      "ActionName": "Hearing Held by Committee",
+      "ActionText": "This Introduction was Hearing Held by Committee",
       "MatterID": 79744,
-      "MatterFile": "T2026-2791",
+      "MatterFile": "Int 1167-2026",
       "MatterName": "The department of consumer and worker protection’s authority to seal the premises of electronic cigarette retailers.",
       "MatterType": "Introduction",
-      "LastModified": "2026-11-05T20:43:32.187Z"
+      "LastModified": "2026-11-20T17:36:58.493Z"
+    },
+    {
+      "ID": 444720,
+      "GUID": "4D9646D3-D442-4534-A08B-FE49D762A4C7",
+      "Title": "Roll Call",
+      "AgendaSequence": 0,
+      "MinutesSequence": 1,
+      "Version": "",
+      "RollCallFlag": 1,
+      "RollCall": [
+        {
+          "ID": 7815,
+          "Slug": "shekar-krishnan",
+          "FullName": "Shekar Krishnan",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 20
+        },
+        {
+          "ID": 7833,
+          "Slug": "david-m-carr",
+          "FullName": "David M. Carr",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 40
+        },
+        {
+          "ID": 7814,
+          "Slug": "linda-lee",
+          "FullName": "Linda Lee",
+          "ValueID": 13,
+          "Value": "Present",
+          "Sort": 60
+        },
+        {
+          "ID": 7794,
+          "Slug": "kevin-c-riley",
+          "FullName": "Kevin C. Riley",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 80
+        },
+        {
+          "ID": 7812,
+          "Slug": "sandra-ung",
+          "FullName": "Sandra Ung",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 100
+        },
+        {
+          "ID": 7817,
+          "Slug": "nantasha-m-williams",
+          "FullName": "Nantasha M. Williams",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 120
+        },
+        {
+          "ID": 7867,
+          "Slug": "susan-zhuang",
+          "FullName": "Susan Zhuang",
+          "ValueID": 16,
+          "Value": "Absent",
+          "Sort": 140
+        }
+      ],
+      "LastModified": "2026-11-20T17:37:29.65Z"
+    },
+    {
+      "ID": 444722,
+      "GUID": "4551C60A-442B-4935-8630-FF21C35737AA",
+      "Title": "Oversight – Examining the Availability of Flavored E-Cigarettes Near New York City Schools.",
+      "AgendaSequence": 0,
+      "MinutesSequence": 3,
+      "Version": "*",
+      "ActionID": 5031,
+      "ActionName": "Filed, by Committee",
+      "ActionText": "This Oversight was Filed, by Committee",
+      "MatterID": 79747,
+      "MatterFile": "T2026-2794",
+      "MatterName": "Oversight – Examining the Availability of Flavored E-Cigarettes Near New York City Schools.",
+      "MatterType": "Oversight",
+      "MatterStatus": "Filed",
+      "LastModified": "2026-11-20T17:36:48.31Z"
+    },
+    {
+      "ID": 444723,
+      "GUID": "FF41FE5E-A451-4274-A8DA-6C5EDC732BE2",
+      "Title": "A Local Law to amend the administrative code of the city of New York, in relation to the department of consumer and worker protection’s authority to seal the premises of electronic cigarette retailers",
+      "AgendaSequence": 0,
+      "MinutesSequence": 5,
+      "Version": "*",
+      "ActionID": 17,
+      "ActionName": "Laid Over by Committee",
+      "ActionText": "This Introduction was Laid Over by Committee",
+      "MatterID": 79744,
+      "MatterFile": "Int 1167-2026",
+      "MatterName": "The department of consumer and worker protection’s authority to seal the premises of electronic cigarette retailers.",
+      "MatterType": "Introduction",
+      "LastModified": "2026-11-20T17:37:04.537Z"
     }
   ],
   "AgendaLastPublished": "2026-11-05T20:44:27.513Z",
-  "MinutesLastPublished": "0001-01-01T00:00:00Z",
-  "LastModified": "2026-11-05T20:44:27.54Z"
+  "MinutesLastPublished": "2026-11-20T17:37:34.723Z",
+  "LastModified": "2026-11-20T17:37:34.827Z"
 }
